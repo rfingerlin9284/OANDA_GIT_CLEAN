@@ -1,0 +1,936 @@
+#!/usr/bin/env python3
+"""
+trade_engine.py
+RBOTZILLA_OANDA_CLEAN — Phase 7
+Label: NEW_CLEAN_REWRITE
+
+OANDA Practice-Only Trade Engine.
+No Phoenix path assumptions. No ML. No Coinbase. No live mode.
+
+Execution flow per cycle:
+    1.  Load env + initialize connector
+    2.  Startup verification (account, endpoint, open trades)
+    3.  Scan each configured pair → fetch M15 candles
+    4.  Run scan_symbol() → optional AggregatedSignal
+    5.  Dedup: skip if symbol already active this cycle or in broker
+    6.  Log CANDIDATE_FOUND
+    7.  Call check_broker_tradability() → may block here
+    8.  Log gate result (ORDER_SUBMIT_ALLOWED or a *_BLOCK)
+    9.  If allowed: log "→ Placing", place via OCO, confirm trade_id
+    10. Log TRADE_OPENED only on confirmed broker trade_id
+    11. Sleep scan_fast_seconds, loop
+"""
+
+import asyncio
+import os
+import sys
+from pathlib import Path
+from datetime import datetime, timezone
+from typing import Dict, Optional, Set
+
+# Ensure repo root is on sys.path (engine/ lives one level below)
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+# ── Local imports (no Phoenix paths) ──────────────────────────────────────────
+from brokers.oanda_connector import get_oanda_connector
+from strategies.multi_signal_engine import scan_symbol, AggregatedSignal
+from engine.broker_tradability_gate import (
+    check_broker_tradability, validate_oco_payload,
+    check_submit_response,
+    set_cooldown,
+)
+from engine.trade_manager import TradeManager
+from engine.pre_market_scanner import PreMarketScanner
+from engine.capital_router import CapitalRouter, compute_compounded_units, compute_watermark_compounded_units
+from foundation.rick_charter import RickCharter
+from util.narration_logger import (
+    log_event, log_trade_opened, log_gate_block, log_narration,
+    CANDIDATE_FOUND, ORDER_SUBMIT_ALLOWED, SYMBOL_ALREADY_ACTIVE_BLOCK,
+    TRADE_OPENED, TRADE_OPEN_FAILED, ENGINE_STARTED, ENGINE_STOPPED,
+    SIGNAL_SCAN_COMPLETE, OCO_VALIDATION_BLOCK, ORDER_SUBMIT_BLOCK,
+    MARGIN_GATE_BLOCKED, ATTACH_ONLY_BLOCK,
+    CAPITAL_REALLOC_DECIDED, CAPITAL_REALLOC_FAILED,
+)
+
+# ── Env-driven config ──────────────────────────────────────────────────────────
+MAX_POSITIONS          = int(os.getenv("RBOT_MAX_POSITIONS",           "12"))
+MAX_NEW_PER_CYCLE      = int(os.getenv("RBOT_MAX_NEW_TRADES_PER_CYCLE", "4"))
+SCAN_FAST_SECONDS      = int(os.getenv("RBOT_SCAN_FAST_SECONDS",       "60"))
+SCAN_SLOW_SECONDS      = int(os.getenv("RBOT_SCAN_SLOW_SECONDS",       "300"))
+MIN_CONFIDENCE         = float(os.getenv("RBOT_MIN_SIGNAL_CONFIDENCE", "0.75"))  # raised 0.70→0.75: Phoenix production standard  # PATCH#1
+MIN_VOTES              = int(os.getenv("RBOT_MIN_VOTES",               "3"))
+CANDLE_COUNT           = int(os.getenv("RBOT_CANDLE_COUNT",            "250"))
+CANDLE_GRANULARITY     = os.getenv("RBOT_CANDLE_GRANULARITY",          "M15")
+MIN_FREE_MARGIN_PCT    = float(os.getenv("RBOT_MIN_FREE_MARGIN_PCT",   "0.20"))  # block if <20% margin free
+CHARTER_MIN_NOTIONAL_USD = float(os.getenv("RBOT_CHARTER_MIN_NOTIONAL_USD", "15000"))
+CHARTER_TARGET_NOTIONAL_USD = float(os.getenv("RBOT_CHARTER_TARGET_NOTIONAL_USD", "17500"))
+CHARTER_MIN_RR = float(os.getenv("RBOT_CHARTER_MIN_RR", "3.26"))
+
+# ── Safety mode flags ─────────────────────────────────────────────────────────
+# Both default to False so existing deployments are unaffected without .env change.
+# Set ATTACH_ONLY=true when Phoenix is the active opener to prevent dual-placement.
+ATTACH_ONLY          = os.getenv("ATTACH_ONLY",          "false").strip().lower() == "true"
+DISABLE_NEW_ENTRIES  = os.getenv("DISABLE_NEW_ENTRIES",  "false").strip().lower() == "true"
+PAIR_REENTRY_COOLDOWN_MINUTES = int(os.getenv("RBOT_PAIR_REENTRY_COOLDOWN_MINUTES", "45"))
+
+# Pairs to scan — restricted to 10 major pairs for Phoenix-grade selectivity.
+# Crosses (EUR_AUD, GBP_CAD, etc.) removed: lower liquidity + 0.90 off-session
+# mult not strong enough to block them at the old 0.68 gate.
+# Expand via RBOT_TRADING_PAIRS env var if you want crosses back.
+_DEFAULT_PAIRS = (
+    "EUR_USD,GBP_USD,USD_JPY,USD_CHF,AUD_USD,USD_CAD,NZD_USD,"
+    "EUR_JPY,GBP_JPY,XAU_USD"  # PATCH#2
+)
+TRADING_PAIRS = [
+    p.strip() for p in os.getenv("RBOT_TRADING_PAIRS", _DEFAULT_PAIRS).split(",")
+    if p.strip()
+]
+
+
+class TradeEngine:
+    """
+    Practice-only OANDA trade engine.
+    Single async loop: scan → gate → place → sleep.
+    """
+
+    def __init__(self):
+        # Charter compliance validation
+        if hasattr(RickCharter, 'validate_pin'):
+            if not RickCharter.validate_pin(841921):
+                raise PermissionError("Invalid Charter PIN — cannot initialize trading engine")
+
+        self.connector        = get_oanda_connector()
+        self.active_positions: Dict[str, dict] = {}   # trade_id → position dict
+        self.manager          = TradeManager(self.connector)
+        self.is_running       = False
+        self._pair_last_trade_ts: Dict[str, float] = {}
+        self._pair_last_side: Dict[str, str] = {}
+        self._cooldown_persist_path = Path("/tmp/rbotz_clean_cooldowns.json")
+        self._load_cooldown_state()  # restore cooldowns saved by last run
+
+        # ── Pre-market scanner (fires once per session boundary) ───────────────
+        self.pre_scanner      = PreMarketScanner(self.connector)
+        self._session_playbook = []   # ranked list from last pre-market scan
+
+        # ── Capital router (snowball reallocation) — init_nav resolved at start ─
+        self._initial_nav     = 0.0   # set in run() after first account query
+        self._watermark_nav   = 0.0   # highest observed NAV since engine start
+        self._router: Optional[CapitalRouter] = None
+
+        print("  ✅ Foundation/Charter imported and validated")
+        print(f"  ✅ TradeManager initialized (hard_stop=${self.manager._hard_stop_usd:.0f})")
+        print("  ✅ PreMarketScanner initialized")
+        print("  ✅ CapitalRouter ready (activates after first NAV read)")
+
+        # ── Phoenix-mode: fixed SL/TP pips (0 = use signal's computed values) ──
+        self._sl_pips = int(os.getenv("RBOT_SL_PIPS", "0"))
+        self._tp_pips = int(os.getenv("RBOT_TP_PIPS", "0"))
+
+        # ── QuantHedgeEngine (Phoenix port) — disabled by default ──────────
+        # Hedge trades are placed with no signal gate or vote check, which adds
+        # mechanical churn in ranging/cross-correlation-break markets.
+        # Enable via RBOT_HEDGE_ENABLED=true in .env only after confirming edge.
+        if os.getenv("RBOT_HEDGE_ENABLED", "false").strip().lower() == "true":
+            try:
+                from util.quant_hedge_engine import QuantHedgeEngine
+                self._hedge_engine = QuantHedgeEngine()
+                print(f"  ✅ QuantHedgeEngine initialized (hedge ratio: {self._hedge_engine.default_hedge_ratio:.0%})")
+            except Exception as _he:
+                self._hedge_engine = None
+                print(f"  ⚠️  QuantHedgeEngine unavailable: {_he}")
+        else:
+            self._hedge_engine = None
+            print("  ℹ️  QuantHedgeEngine disabled (RBOT_HEDGE_ENABLED=false)")
+
+    # ── Startup verification ─────────────────────────────────────────────────
+
+    def print_startup_banner(self) -> None:
+        """Print verified broker state at startup. Does NOT use cached values."""
+        print("\n" + "=" * 60)
+        print("  RBOTZILLA OANDA CLEAN — PRACTICE ENGINE")
+        print("=" * 60)
+        try:
+            info = self.connector.get_account_info()
+            trades = self.connector.get_trades()
+            print(f"  Environment   : {os.getenv('OANDA_ENVIRONMENT', 'practice')}")
+            print(f"  Endpoint      : {self.connector.api_base}")
+            print(f"  Account ID    : {self.connector.account_id}")
+            print(f"  Balance       : ${info.balance:,.2f}")
+            print(f"  Margin Used   : ${info.margin_used:,.2f}")
+            print(f"  Broker Trades : {len(trades)}")
+            print(f"  OCO Enforced  : YES (SL+TP+TS mandatory on all orders)")
+            print(f"  Pairs Scanning: {len(TRADING_PAIRS)}")
+            print(f"  Max Positions : {MAX_POSITIONS}")
+            print(f"  Min Confidence: {MIN_CONFIDENCE:.0%}")
+        except Exception as e:
+            print(f"  WARNING: startup broker query failed: {e}")
+        print("=" * 60 + "\n")
+
+        log_event(ENGINE_STARTED, symbol="SYSTEM", venue="startup", details={
+            "account_id":   self.connector.account_id,
+            "endpoint":     self.connector.api_base,
+            "pairs_count":  len(TRADING_PAIRS),
+            "max_positions": MAX_POSITIONS,
+        })
+
+    # ── Broker dedup ─────────────────────────────────────────────────────────
+
+    def _symbol_is_active(self, symbol: str) -> bool:
+        """Return True if symbol already has an open position (local or broker)."""
+        for pos in self.active_positions.values():
+            if pos.get("symbol") == symbol:
+                return True
+        try:
+            for t in (self.connector.get_trades() or []):
+                if t.get("instrument") == symbol:
+                    return True
+        except Exception:
+            pass
+        return False
+
+    # ── Single scan cycle ────────────────────────────────────────────────────
+
+    async def _run_scan_cycle(self) -> int:
+        """
+        One full scan cycle.
+        Returns: number of trades successfully placed.
+        """
+        # ── Live broker position count + full sync to active_positions ─────────
+        try:
+            broker_trades = self.connector.get_trades() or []
+            broker_open   = len(broker_trades)
+            # Rebuild broker truth: {trade_id: instrument}
+            broker_by_id  = {t.get("id", t.get("tradeID", "")): t.get("instrument", "") for t in broker_trades}
+            broker_symbols = set(broker_by_id.values())
+
+            # Remove local positions no longer in broker
+            stale = [tid for tid in list(self.active_positions) if tid not in broker_by_id]
+            for tid in stale:
+                self.active_positions.pop(tid, None)
+
+            # Add broker positions not yet tracked locally
+            for tid, instrument in broker_by_id.items():
+                if tid and tid not in self.active_positions:
+                    self.active_positions[tid] = {"symbol": instrument, "synced_from_broker": True}
+        except Exception:
+            broker_open   = len(self.active_positions)
+            broker_symbols = set()
+
+        slots_left  = max(0, MAX_POSITIONS - broker_open)
+        cycle_limit = min(slots_left, MAX_NEW_PER_CYCLE)
+
+        if cycle_limit == 0:
+            return 0
+
+        # ── ATTACH_ONLY hard block ─────────────────────────────────────────────
+        # When ATTACH_ONLY=true or DISABLE_NEW_ENTRIES=true, no new trades are
+        # submitted. Broker sync above still runs so active_positions stays accurate.
+        # Phoenix is the verified source opener — this engine must not compete.
+        if ATTACH_ONLY or DISABLE_NEW_ENTRIES:
+            log_event(
+                ATTACH_ONLY_BLOCK, symbol="SYSTEM", venue="engine",
+                details={
+                    "reason":               "ATTACH_ONLY mode active — new trade entries disabled",
+                    "attach_only_flag":     ATTACH_ONLY,
+                    "disable_entries_flag": DISABLE_NEW_ENTRIES,
+                    "broker_open":          broker_open,
+                    "slots_left":           slots_left,
+                },
+            )
+            print(f"  [ATTACH_ONLY]  broker_open={broker_open}  no new entries this cycle")
+            return 0
+
+        # ── Live account for margin gate ──────────────────────────────────────
+        try:
+            acct         = self.connector.get_account_info()
+            nav          = acct.balance + acct.unrealized_pl
+            margin_used  = acct.margin_used
+            free_margin  = nav - margin_used
+            free_margin_pct = free_margin / nav if nav > 0 else 0.0
+        except Exception:
+            nav = free_margin_pct = 1.0   # fail-open on NAV query only
+
+        # Collect qualifying signals
+        # ── Gap 2 fix: honour pre-market playbook ordering ─────────────────────
+        # Non-vetoed playbook symbols are moved to the front of the scan list so
+        # the highest-conviction session setups are evaluated first when slots are
+        # limited. Symbols not in the playbook remain after, in their default order.
+        if self._session_playbook:
+            pb_symbols = [
+                e.symbol for e in self._session_playbook
+                if not e.vetoed and e.symbol in set(TRADING_PAIRS)
+            ]
+            pb_set = set(pb_symbols)
+            scan_order = pb_symbols + [s for s in TRADING_PAIRS if s not in pb_set]
+        else:
+            scan_order = list(TRADING_PAIRS)
+
+        qualified = []
+        for symbol in scan_order:
+            try:
+                candles = self.connector.get_historical_data(
+                    symbol, count=CANDLE_COUNT, granularity=CANDLE_GRANULARITY
+                )
+                if not candles or len(candles) < 50:
+                    continue
+                sig = scan_symbol(
+                    symbol, candles,
+                    min_confidence=MIN_CONFIDENCE,
+                    min_votes=MIN_VOTES,
+                )
+                if sig:
+                    qualified.append(sig)
+            except Exception:
+                continue  # log_event here would produce noise per-pair — skip
+
+        qualified.sort(key=lambda s: s.confidence, reverse=True)
+
+        log_event(SIGNAL_SCAN_COMPLETE, symbol="SYSTEM", venue="signal_scan", details={
+            "pairs_scanned":    len(TRADING_PAIRS),
+            "candidates_found": len(qualified),
+            "cycle_limit":      cycle_limit,
+            "open_slots":       slots_left,
+        })
+
+        # ── Placement loop ────────────────────────────────────────────────────
+        placed_this_cycle: set = set()
+        placed_count = 0
+
+        for sig in qualified[:cycle_limit]:
+            symbol = sig.symbol
+
+            # ── Dedup: broker symbols + local + this cycle ─────────────────
+            if (symbol.upper() in placed_this_cycle
+                    or symbol in broker_symbols
+                    or self._symbol_is_active(symbol)):
+
+                log_gate_block(symbol, SYMBOL_ALREADY_ACTIVE_BLOCK, {"symbol": symbol})
+                continue
+
+            # ── Margin gate (live NAV) ──────────────────────────────────────
+            if free_margin_pct < MIN_FREE_MARGIN_PCT:
+                log_gate_block(symbol, MARGIN_GATE_BLOCKED, {
+                    "free_margin_pct": round(free_margin_pct, 3),
+                    "min_required":    MIN_FREE_MARGIN_PCT,
+                })
+                print(f"  BLOCKED    {symbol} — MARGIN_GATE_BLOCKED free={free_margin_pct:.1%}")
+                continue   # margin tight for this symbol — try next
+
+            # ── Correlation gate: no same-currency same-direction double-up ──
+            if self._would_create_correlated_exposure(symbol, sig.direction):
+                print(
+                    f"  BLOCKED    {symbol} — CORRELATION_GATE "
+                    f"({sig.direction} on same currency already open)"
+                )
+                continue
+
+            # ── Phase 1: CANDIDATE_FOUND ───────────────────────────────────
+            log_event(CANDIDATE_FOUND, symbol=symbol, venue="signal_scan", details={
+                "symbol":     symbol,
+                "direction":  sig.direction,
+                "confidence": round(sig.confidence, 4),
+                "votes":      sig.votes,
+                "detectors":  sig.detectors_fired,
+                "session":    sig.session,
+            })
+            print(
+                f"  CANDIDATE  {symbol} {sig.direction} "
+                f"conf={sig.confidence:.1%} ({sig.votes}v)"
+            )
+
+            # ── Phase 2: broker tradability gate ──────────────────────────
+            gate = check_broker_tradability(
+                self.connector, symbol,
+                placed_this_cycle=placed_this_cycle,
+            )
+            if not gate["allowed"]:
+                log_gate_block(symbol, gate["event"], gate["detail"])
+                print(f"  BLOCKED    {symbol} — {gate['event']} {gate['detail']}")
+                continue
+
+            # Live mid-price from gate — used as entry_price for notional calc
+            # (MARKET orders have no submitted price; Charter needs a real number)
+            live_mid = (gate.get("live_price") or {}).get("mid") or 0.0
+
+            # ── Anti-churn gate: no immediate same-pair re-entry / flip ──────
+            churn_reason = self._pair_cooldown_reason(symbol, sig.direction)
+            if churn_reason:
+                print(f"  BLOCKED    {symbol} — {churn_reason}")
+                continue
+
+            sig = self._enforce_rr_buffer(symbol, sig, live_mid)
+
+            # ── Phase 3: ORDER_SUBMIT_ALLOWED ─────────────────────────────
+            log_event(ORDER_SUBMIT_ALLOWED, symbol=symbol, venue="tradability_gate", details={
+                "symbol":     symbol,
+                "direction":  sig.direction,
+                "confidence": round(sig.confidence, 4),
+            })
+            print(f"  → Placing  {symbol} {sig.direction} conf={sig.confidence:.1%}")
+
+            # ── Phoenix-mode: fixed pip SL/TP override ──────────────────────────
+            # Replaces signal's variable SL/TP (10–100+ pips) with exact pip values,
+            # guaranteeing 3.2:1 R:R and predictable per-trade dollar risk.
+            if self._sl_pips > 0 and live_mid:
+                _pip = 0.01 if "JPY" in symbol.upper() else 0.0001
+                _sl_dist = self._sl_pips * _pip
+                _tp_dist = self._tp_pips * _pip
+                if sig.direction == "BUY":
+                    sig.sl = round(live_mid - _sl_dist, 5)
+                    sig.tp = round(live_mid + _tp_dist, 5)
+                else:
+                    sig.sl = round(live_mid + _sl_dist, 5)
+                    sig.tp = round(live_mid - _tp_dist, 5)
+
+            # ── Phase 4: OCO payload validation ───────────────────────────
+            units = self._compute_units(symbol, sig, nav)
+            units = self._apply_min_notional_floor(symbol, units, live_mid)
+            oco_check = validate_oco_payload(
+                symbol=symbol,
+                direction=sig.direction,
+                entry_price=live_mid,
+                stop_loss=sig.sl,
+                take_profit=sig.tp,
+                units=units,
+            )
+            if not oco_check["valid"]:
+                log_gate_block(symbol, OCO_VALIDATION_BLOCK, oco_check)
+                print(f"  BLOCKED    {symbol} — OCO_VALIDATION_BLOCK {oco_check['reason']}")
+                set_cooldown(symbol)  # avoid retrying a structurally failing pair every cycle
+                continue
+
+            # ── Phase 5: place OCO order ───────────────────────────────────
+            try:
+                # OANDA hard minimum is 5 pips (0.0005 non-JPY, 0.05 JPY).
+                # Setting floor to 10 pips and enforcing 2x buffer (20-pip worst-case)
+                # prevents TRAILING_STOP_LOSS_ON_FILL_PRICE_DISTANCE_MINIMUM_NOT_MET
+                # due to floating-point imprecision at or near the broker floor.
+                pip_size = 0.01 if "JPY" in symbol.upper() else 0.0001
+                min_ts_dist = 10.0 * pip_size          # 0.001 non-JPY, 0.10 JPY
+                raw_sl_dist = abs(live_mid - sig.sl)
+                ts_dist = max(raw_sl_dist, min_ts_dist * 2)
+
+                result = self.connector.place_oco_order(
+                    instrument=symbol,
+                    entry_price=live_mid,
+                    stop_loss=sig.sl,
+                    take_profit=sig.tp,
+                    units=units,
+                    order_type="MARKET",
+                    trailing_stop_distance=ts_dist,
+                )
+
+                # ── Phase 6: verify broker response ───────────────────────
+                confirm = check_submit_response(result, symbol)
+                
+                # Fallback: If broker said success=True but parsing failed to find trade_id
+                if not confirm.get("confirmed") and result.get("success") and (result.get("live_api") or result.get("visible_in_oanda", True)):
+                    import time
+                    for _ in range(4):
+                        time.sleep(1.0)  # Wait for LIMIT order cross
+                        try:
+                            trades = self.connector.get_trades()
+                            matching = [t for t in trades if t.get("instrument") == symbol]
+                            if matching:
+                                newest = max(matching, key=lambda x: int(x.get("id", 0)))
+                                confirm["confirmed"] = True
+                                confirm["trade_id"] = str(newest.get("id"))
+                                break
+                        except Exception:
+                            pass
+
+                if not confirm.get("confirmed"):
+                    log_event(ORDER_SUBMIT_BLOCK, symbol=symbol, venue="oanda", details={
+                        "symbol": symbol, "error": confirm.get("error", "unknown")
+                    })
+                    print(f"  ✗ REJECTED {symbol} — {confirm.get('error', 'unknown')}")
+                    continue
+
+                trade_id = confirm["trade_id"]
+                set_cooldown(symbol)
+                placed_this_cycle.add(symbol.upper())
+                self.active_positions[trade_id] = {
+                    "symbol":      symbol,
+                    "direction":   sig.direction,
+                    "stop_loss":   sig.sl,
+                    "take_profit": sig.tp,
+                    "confidence":  sig.confidence,
+                    "session":     sig.session,
+                    "opened_at":   datetime.now(timezone.utc).isoformat(),
+                    "stale_cycles": 0,  # stagnation counter
+                }
+                log_trade_opened(
+                    symbol=symbol, direction=sig.direction, trade_id=trade_id,
+                    entry=result.get("entry_price", live_mid),
+                    stop_loss=sig.sl, take_profit=sig.tp,
+                    size=units,
+                    confidence=sig.confidence, votes=sig.votes,
+                    detectors=sig.detectors_fired, session=sig.session,
+                )
+                placed_count += 1
+                self._mark_pair_trade(symbol, sig.direction)
+                print(f"  ✓ OPENED   {symbol} trade_id={trade_id}")
+
+                # ── Hedge counter-trade (Phoenix QuantHedgeEngine) ──────────────────
+                if self._hedge_engine and live_mid:
+                    try:
+                        _hedge = self._hedge_engine.execute_hedge(
+                            primary_symbol=symbol,
+                            primary_side=sig.direction,
+                            position_size=units,
+                            entry_price=live_mid,
+                        )
+                        if _hedge:
+                            _h_prices = self.connector.get_live_prices([_hedge.symbol])
+                            _h_mid = (_h_prices.get(_hedge.symbol) or {}).get("mid", 0.0)
+                            if _h_mid:
+                                _h_pip = 0.01 if "JPY" in _hedge.symbol.upper() else 0.0001
+                                _h_sl_d = (self._sl_pips or 10) * _h_pip
+                                _h_tp_d = (self._tp_pips or 32) * _h_pip
+                                if _hedge.side == "BUY":
+                                    _h_sl = round(_h_mid - _h_sl_d, 5)
+                                    _h_tp = round(_h_mid + _h_tp_d, 5)
+                                else:
+                                    _h_sl = round(_h_mid + _h_sl_d, 5)
+                                    _h_tp = round(_h_mid - _h_tp_d, 5)
+                                _h_result = self.connector.place_oco_order(
+                                    instrument=_hedge.symbol,
+                                    entry_price=_h_mid,
+                                    stop_loss=_h_sl,
+                                    take_profit=_h_tp,
+                                    units=int(_hedge.size),
+                                    order_type="MARKET",
+                                    trailing_stop_distance=_h_sl_d * 2,
+                                    is_hedge=True,
+                                )
+                                if _h_result.get("success"):
+                                    print(f"  🞡  HEDGE    {_hedge.symbol} {_hedge.side} {int(_hedge.size)}u @ {_h_mid} (counter to {symbol})")
+                                else:
+                                    print(f"  ⚠️  HEDGE    {_hedge.symbol} rejected: {_h_result.get('error', 'unknown')}")
+                    except Exception as _he:
+                        print(f"  ⚠️  HEDGE    error for {symbol}: {_he}")
+
+            except Exception as e:
+                log_event(TRADE_OPEN_FAILED, symbol=symbol, venue="oanda", details={
+                    "symbol": symbol, "error": str(e)
+                })
+                print(f"  ✗ ERROR    {symbol} — {e}")
+
+        # ── Gap 1 fix: CapitalRouter reallocation ──────────────────────────────
+        # Runs ONLY when all position slots are full AND a candidate is genuinely
+        # stronger than the weakest open position (controlled by UPGRADE_THRESHOLD).
+        # One reallocation max per cycle. Passes through full OCO validation gate.
+        if (
+            self._router
+            and qualified
+            and not ATTACH_ONLY
+            and not DISABLE_NEW_ENTRIES
+        ):
+            self._router.reset_cycle()
+            try:
+                acct_info = {"NAV": nav, "balance": nav}
+                realloc = self._router.evaluate(
+                    open_positions=self.active_positions,
+                    candidates=qualified,
+                    account_info=acct_info,
+                )
+            except Exception as _re:
+                realloc = None
+                print(f"  [ROUTER] evaluate() error: {_re}")
+
+            if realloc:
+                _rs = realloc.close_symbol
+                _rt = realloc.close_trade_id
+                log_event(CAPITAL_REALLOC_DECIDED, symbol=_rs, venue="capital_router",
+                          details=realloc.as_dict())
+                print(
+                    f"  [ROUTER] REALLOC  close {_rs}({_rt[:6]}) "
+                    f"→ open {realloc.open_symbol} {realloc.open_direction} "
+                    f"({realloc.improvement_pct:.1%} improvement)"
+                )
+
+                # Step A: close the weak position
+                try:
+                    self.connector.close_trade(_rt)
+                    self.active_positions.pop(_rt, None)
+                except Exception as _ce:
+                    log_event(CAPITAL_REALLOC_FAILED, symbol=_rs, venue="capital_router",
+                              details={"step": "close", "error": str(_ce)})
+                    print(f"  [ROUTER] ⚠️  Close failed for {_rs}: {_ce}")
+                    realloc = None  # abort — do not open without closing
+
+            if realloc:
+                # Step B: find the matching signal from this cycle's qualified list
+                _open_sig = next(
+                    (s for s in qualified
+                     if s.symbol == realloc.open_symbol
+                     and s.direction == realloc.open_direction),
+                    None,
+                )
+                if _open_sig and _open_sig.symbol not in placed_this_cycle:
+                    _open_sym = _open_sig.symbol
+                    # Re-run margin gate with fresh account state
+                    if free_margin_pct < MIN_FREE_MARGIN_PCT:
+                        log_event(CAPITAL_REALLOC_FAILED, symbol=_open_sym,
+                                  venue="capital_router",
+                                  details={"step": "open", "reason": "margin_gate"})
+                        print(f"  [ROUTER] ⚠️  Realloc blocked — margin gate")
+                    else:
+                        # OCO validation — fresh gate on the replacement symbol
+                        _realloc_gate = check_broker_tradability(
+                            self.connector, _open_sym,
+                            placed_this_cycle=placed_this_cycle,
+                        )
+                        _live_mid = (_realloc_gate.get("live_price") or {}).get("mid") or 0.0
+                        _oco_check = validate_oco_payload(
+                            symbol=_open_sym,
+                            direction=_open_sig.direction,
+                            entry_price=_live_mid,
+                            stop_loss=_open_sig.sl,
+                            take_profit=_open_sig.tp,
+                            units=self._compute_units(_open_sym, _open_sig, nav),
+                        )
+                        if not _realloc_gate["allowed"] or not _oco_check["valid"]:
+                            _reason = (
+                                _realloc_gate.get("event", "gate_block")
+                                if not _realloc_gate["allowed"]
+                                else _oco_check.get("reason", "oco_invalid")
+                            )
+                            log_event(CAPITAL_REALLOC_FAILED, symbol=_open_sym,
+                                      venue="capital_router",
+                                      details={"step": "open", "reason": _reason})
+                            print(f"  [ROUTER] ⚠️  Realloc open blocked: {_reason}")
+                        else:
+                            try:
+                                _open_sig = self._enforce_rr_buffer(_open_sym, _open_sig, _live_mid)
+                                _units = self._compute_units(_open_sym, _open_sig, nav)
+                                _units = self._apply_min_notional_floor(_open_sym, _units, _live_mid)
+                                _pip   = 0.01 if "JPY" in _open_sym.upper() else 0.0001
+                                _min_ts = 10.0 * _pip
+                                _ts_dist = max(abs(_live_mid - _open_sig.sl), _min_ts * 2)
+                                _res = self.connector.place_oco_order(
+                                    instrument=_open_sym,
+                                    entry_price=_live_mid,
+                                    stop_loss=_open_sig.sl,
+                                    take_profit=_open_sig.tp,
+                                    units=_units,
+                                    order_type="MARKET",
+                                    trailing_stop_distance=_ts_dist,
+                                )
+                                _conf = check_submit_response(_res, _open_sym)
+                                if _conf.get("confirmed"):
+                                    _tid = _conf["trade_id"]
+                                    set_cooldown(_open_sym)
+                                    placed_this_cycle.add(_open_sym.upper())
+                                    self.active_positions[_tid] = {
+                                        "symbol":      _open_sym,
+                                        "direction":   _open_sig.direction,
+                                        "stop_loss":   _open_sig.sl,
+                                        "take_profit": _open_sig.tp,
+                                        "confidence":  _open_sig.confidence,
+                                        "session":     _open_sig.session,
+                                        "opened_at":   datetime.now(timezone.utc).isoformat(),
+                                        "stale_cycles": 0,
+                                    }
+                                    log_trade_opened(
+                                        symbol=_open_sym, direction=_open_sig.direction,
+                                        trade_id=_tid,
+                                        entry=_res.get("entry_price", _live_mid),
+                                        stop_loss=_open_sig.sl, take_profit=_open_sig.tp,
+                                        size=_units, confidence=_open_sig.confidence,
+                                        votes=_open_sig.votes,
+                                        detectors=_open_sig.detectors_fired,
+                                        session=_open_sig.session,
+                                    )
+                                    placed_count += 1
+                                    self._mark_pair_trade(_open_sym, _open_sig.direction)
+                                    print(f"  [ROUTER] ✓ REALLOC OPENED {_open_sym} id={_tid}")
+                                else:
+                                    log_event(CAPITAL_REALLOC_FAILED, symbol=_open_sym,
+                                              venue="capital_router",
+                                              details={"step": "open",
+                                                       "error": _conf.get("error", "unknown")})
+                                    print(f"  [ROUTER] ✗ Realloc open rejected: {_conf.get('error')}")
+                            except Exception as _oe:
+                                log_event(CAPITAL_REALLOC_FAILED, symbol=_open_sym,
+                                          venue="capital_router",
+                                          details={"step": "open", "error": str(_oe)})
+                                print(f"  [ROUTER] ✗ Realloc open error: {_oe}")
+
+        return placed_count
+
+    def _pair_cooldown_reason(self, symbol: str, direction: str) -> Optional[str]:
+        now = datetime.now(timezone.utc).timestamp()
+        last_ts = self._pair_last_trade_ts.get(symbol)
+        last_side = self._pair_last_side.get(symbol)
+        if last_ts is not None:
+            elapsed = now - last_ts
+            cooldown = PAIR_REENTRY_COOLDOWN_MINUTES * 60
+            if elapsed < cooldown:
+                remain = int(cooldown - elapsed)
+                return f"PAIR_COOLDOWN_ACTIVE last_side={last_side} wait={remain}s"
+
+        for pos in self.active_positions.values():
+            if str(pos.get("symbol", "")).upper() == symbol.upper():
+                open_side = str(pos.get("direction", ""))
+                return f"PAIR_ALREADY_OPEN open_side={open_side}"
+
+        try:
+            broker_trades = self.connector.get_trades() or []
+            for t in broker_trades:
+                inst = str(t.get("instrument") or "")
+                units = float(t.get("currentUnits") or t.get("initialUnits") or 0)
+                side = "BUY" if units > 0 else "SELL" if units < 0 else ""
+                if inst.upper() == symbol.upper() and side:
+                    return f"PAIR_ALREADY_OPEN open_side={side}"
+        except Exception:
+            pass
+
+        return None
+
+    def _load_cooldown_state(self) -> None:
+        """Restore pair cooldown timestamps from disk (survives restarts)."""
+        import json
+        try:
+            if self._cooldown_persist_path.exists():
+                raw = json.loads(self._cooldown_persist_path.read_text())
+                ts_map  = raw.get("ts", {})
+                side_map = raw.get("side", {})
+                self._pair_last_trade_ts.update({k: float(v) for k, v in ts_map.items()})
+                self._pair_last_side.update(side_map)
+                print(f"  ✅ Cooldown state restored ({len(ts_map)} pairs) from {self._cooldown_persist_path}")
+        except Exception as _e:
+            print(f"  ⚠️  Cooldown restore failed (starting fresh): {_e}")
+
+    def _save_cooldown_state(self) -> None:
+        """Persist pair cooldown timestamps to disk so restarts honour existing cooldowns."""
+        import json
+        try:
+            payload = {
+                "ts":   {k: v for k, v in self._pair_last_trade_ts.items()},
+                "side": {k: v for k, v in self._pair_last_side.items()},
+            }
+            self._cooldown_persist_path.write_text(json.dumps(payload, indent=2))
+        except Exception as _e:
+            print(f"  ⚠️  Cooldown save failed: {_e}")
+
+    def _mark_pair_trade(self, symbol: str, direction: str) -> None:
+        self._pair_last_trade_ts[symbol] = datetime.now(timezone.utc).timestamp()
+        self._pair_last_side[symbol] = direction
+        self._save_cooldown_state()  # persist so restarts honour this cooldown
+
+    def _would_create_correlated_exposure(self, symbol: str, direction: str) -> bool:
+        """
+        Return True if opening symbol+direction would double up on the same base or
+        quote currency in the same direction as an existing open position.
+        Examples blocked: EUR/CAD LONG when EUR/JPY LONG open;
+                          USD/CAD SELL when USD/CHF SELL open.
+        """
+        if "_" not in symbol:
+            return False
+        new_base = symbol.split("_")[0]
+        new_quote = symbol.split("_")[1]
+        for pos in self.active_positions.values():
+            s = pos.get("symbol", "")
+            d = pos.get("direction", "")
+            if "_" not in s or d != direction:
+                continue
+            b = s.split("_")[0]
+            q = s.split("_")[1]
+            if b == new_base or q == new_quote:
+                return True
+        return False
+
+    def _apply_min_notional_floor(self, symbol: str, units: int, live_mid: float) -> int:
+        """
+        Enforce buffered Charter notional using broker USD-notional math.
+        Fixes USD-base and cross-pair sizing where abs(units)*price is wrong.
+        """
+        try:
+            px = float(live_mid or 0.0)
+        except Exception:
+            px = 0.0
+        if px <= 0:
+            return units
+
+        side = 1 if int(units) >= 0 else -1
+        abs_units = max(1, abs(int(units)))
+        target = float(CHARTER_TARGET_NOTIONAL_USD)
+
+        def usd_notional_for(test_units: int) -> float:
+            try:
+                if hasattr(self.connector, "get_usd_notional"):
+                    return float(self.connector.get_usd_notional(test_units, symbol, px))
+            except Exception:
+                pass
+            try:
+                from brokers.oanda_connector import get_usd_notional as _g
+                return float(_g(test_units, symbol, px))
+            except Exception:
+                pass
+
+            base = (symbol or "").split("_")[0].upper()
+            if base == "USD":
+                return float(abs(test_units))
+            return float(abs(test_units) * px)
+
+        cur = abs_units
+        cur_notional = usd_notional_for(cur)
+
+        if cur_notional >= target:
+            return cur * side
+
+        if cur_notional > 0:
+            cur = max(cur, int((cur * target / cur_notional) + 0.9999))
+        else:
+            cur = max(cur, int(target + 0.9999))
+
+        step = max(100, int(cur * 0.02))
+        for _ in range(40):
+            cur_notional = usd_notional_for(cur)
+            if cur_notional >= target:
+                break
+            cur += step
+
+        while usd_notional_for(cur) < target:
+            cur += 1
+
+        return cur * side
+
+    def _enforce_rr_buffer(self, symbol: str, sig, entry_price: float):
+        """
+        Push TP slightly farther so broker-side / Charter-side rounding cannot reject
+        an exactly-3.20 setup. Keeps SL unchanged, only widens TP modestly.
+        """
+        try:
+            entry = float(entry_price or 0.0)
+            sl = float(sig.sl or 0.0)
+            tp = float(sig.tp or 0.0)
+        except Exception:
+            return sig
+        if entry <= 0 or sl <= 0 or tp <= 0:
+            return sig
+
+        side = str(sig.direction).upper()
+        if side == "BUY":
+            risk = entry - sl
+            if risk > 0:
+                min_tp = entry + (risk * CHARTER_MIN_RR)
+                if tp < min_tp:
+                    sig.tp = round(min_tp, 5)
+        elif side == "SELL":
+            risk = sl - entry
+            if risk > 0:
+                min_tp = entry - (risk * CHARTER_MIN_RR)
+                if tp > min_tp:
+                    sig.tp = round(min_tp, 5)
+        return sig
+
+
+    def _compute_units(self, symbol: str, sig: AggregatedSignal, nav: float = 0.0) -> int:
+        """
+        Sizing stack:
+        1) start from RBOT_BASE_UNITS
+        2) apply watermark-based compounding
+        3) enforce Charter notional floor with broker USD-notional math
+        """
+        base_units = int(os.getenv("RBOT_BASE_UNITS", "14000"))
+        growth_exponent = float(os.getenv("RBOT_COMPOUND_GROWTH_EXPONENT", "1.15"))
+        drawdown_floor_ratio = float(os.getenv("RBOT_COMPOUND_DRAWDOWN_FLOOR_RATIO", "1.00"))
+        max_growth_multiple = float(os.getenv("RBOT_COMPOUND_MAX_GROWTH_MULTIPLE", "3.00"))
+
+        scaled = base_units
+        if nav > 0 and self._initial_nav > 0:
+            scaled = compute_watermark_compounded_units(
+                base_units=base_units,
+                current_nav=nav,
+                initial_nav=self._initial_nav,
+                watermark_nav=(self._watermark_nav or self._initial_nav),
+                growth_exponent=growth_exponent,
+                drawdown_floor_ratio=drawdown_floor_ratio,
+                max_growth_multiple=max_growth_multiple,
+            )
+
+        signed_units = scaled if sig.direction == "BUY" else -scaled
+
+        live_prices = self.connector.get_live_prices([symbol]) or {}
+        live_mid = (live_prices.get(symbol) or {}).get("mid", 0.0)
+        try:
+            live_mid = float(live_mid or 0.0)
+        except Exception:
+            live_mid = 0.0
+
+        signed_units = int(self._apply_min_notional_floor(symbol, signed_units, live_mid))
+        return signed_units
+
+    # ── Main loop ────────────────────────────────────────────────────────────
+
+    async def run(self) -> None:
+        self.is_running = True
+        self.print_startup_banner()
+
+        # Activate TradeManager after is_running = True
+        self.manager.activate()
+
+        # ── Capture initial NAV for compound unit scaling ──────────────────────
+        try:
+            _acct = self.connector.get_account_info()
+            self._initial_nav = _acct.balance + _acct.unrealized_pl
+            self._watermark_nav = self._initial_nav
+            self._router = CapitalRouter(self.connector, initial_nav=self._initial_nav)
+            print(f"  ✅ CapitalRouter ACTIVE  initial_nav=${self._initial_nav:,.2f}  watermark=${self._watermark_nav:,.2f}")
+        except Exception as _nav_err:
+            print(f"  ⚠️  CapitalRouter NAV init failed: {_nav_err} — compound scaling disabled")
+
+        while self.is_running:
+            try:
+                # ── Pre-market session scan ────────────────────────────────────
+                if self.pre_scanner.should_run_now():
+                    self._session_playbook = self.pre_scanner.run_scan()
+                    if self._session_playbook:
+                        active_pb = [e for e in self._session_playbook if not e.vetoed]
+                        print(f"  [PLAYBOOK] {len(active_pb)} active setups for upcoming session")
+
+                try:
+                    _acct_live = self.connector.get_account_info()
+                    _nav_live = _acct_live.balance + _acct_live.unrealized_pl
+                    if _nav_live > self._watermark_nav:
+                        self._watermark_nav = _nav_live
+                except Exception:
+                    pass
+
+                placed = await self._run_scan_cycle()
+                # ── Trail management: runs every cycle regardless of ATTACH_ONLY ─
+                await self.manager.tick(engine_positions=self.active_positions)
+
+                open_now = len(self.active_positions)
+
+                if open_now >= MAX_POSITIONS:
+                    print(f"  Positions full ({open_now}/{MAX_POSITIONS}) — waiting {SCAN_SLOW_SECONDS}s")
+                    await asyncio.sleep(SCAN_SLOW_SECONDS)
+                else:
+                    print(f"  Slots open ({open_now}/{MAX_POSITIONS}) — rescanning in {SCAN_FAST_SECONDS}s")
+                    await asyncio.sleep(SCAN_FAST_SECONDS)
+
+            except KeyboardInterrupt:
+                print("\n  Stopping engine…")
+                self.is_running = False
+                self.manager.deactivate()
+                log_event(ENGINE_STOPPED, symbol="SYSTEM", venue="engine", details={
+                    "reason": "keyboard_interrupt"
+                })
+            except Exception as e:
+                print(f"  Engine cycle error: {e}")
+                await asyncio.sleep(30)
+
+
+def main():
+    engine = TradeEngine()
+    try:
+        asyncio.run(engine.run())
+    except KeyboardInterrupt:
+        pass
+
+
+if __name__ == "__main__":
+    main()

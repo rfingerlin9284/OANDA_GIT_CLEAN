@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/rfing/RBOTZILLA_OANDA_CLEAN/engine/trade_engine.py", line 46, in <module>
+    from foundation.rick_charter import RickCharter
+ModuleNotFoundError: No module named 'foundation'

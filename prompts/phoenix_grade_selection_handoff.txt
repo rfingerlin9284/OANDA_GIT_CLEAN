@@ -1,0 +1,57 @@
+RBOTZILLA_OANDA_CLEAN exact upgrade request only. No broad refactor.
+
+MISSION
+Make CLEAN use Phoenix-grade trade selection and broader high-quality multi-pair deployment behavior, while preserving CLEAN’s working native OCO + native trailing stop + progressive profit protection behavior.
+
+NON-NEGOTIABLES
+- Do NOT touch /home/rfing/RBOTZILLA_PHOENIX
+- Do NOT remove native OCO
+- Do NOT remove native trailing stop
+- Do NOT remove Charter protections
+- Do NOT remove practice endpoint lock
+- Do NOT break current broker-visible OCO/TS behavior
+- Do NOT broad-refactor unrelated modules
+
+CURRENT TRUTH
+- CLEAN is trading live in OANDA practice
+- Native OCO + TS is broker-confirmed working
+- Profit protection exists (green-lock / trail logic), but redeployment and compounding behavior are weaker than Phoenix
+- CLEAN is more restrictive than Phoenix in trade selection, breadth, and slot reuse
+- Some symbols are blocked by broker tradability or Charter min notional
+- Trade confirmation/bookkeeping has been partially improved but still needs to support smoother rotation behavior
+
+GOAL
+Restore Phoenix-style high-quality trade selection and broader deployment behavior into CLEAN as closely as possible while preserving CLEAN execution safety.
+
+FOCUS FILES FIRST
+- engine/trade_engine.py
+- engine/trade_manager.py
+- engine/trail_logic.py
+- strategies/multi_signal_engine.py
+- engine/broker_tradability_gate.py
+- brokers/oanda_connector.py
+
+DELIVERABLES
+1. State clearly whether CLEAN currently matches Phoenix exactly: YES or NO
+2. Patch only the minimum files needed
+3. Improve:
+   - broader high-quality candidate selection
+   - faster slot reuse after closes
+   - smoother profit harvest and redeploy behavior
+   - progressive compounding behavior
+   - reduced false blocking from stale local state
+4. Preserve:
+   - native OCO/TS at broker
+   - current CLEAN safety protections
+5. After patching:
+   - run py_compile on all changed Python files
+   - report exact files changed
+   - report exact logic restored/aligned
+   - provide exact terminal restart command only
+
+SUCCESS CRITERIA
+- CLEAN behaves much closer to Phoenix in trade throughput and selection quality
+- CLEAN still places broker-visible OCO + TS orders
+- CLEAN rotates capital into new strong setups faster
+- CLEAN frees stale/closed slots promptly
+- CLEAN remains practice-only and guarded
