@@ -67,7 +67,16 @@ def fmt(e: dict) -> str | None:
     sym = e.get("symbol", "")
     det = e.get("details") or {}
     ts = (e.get("timestamp") or "")
-    ts_short = ts[11:19] if len(ts) >= 19 else ts  # HH:MM:SS
+    # Dual timezone: EST date/time + [UTC date/time] with yellow UTC
+    YELLOW = '\033[93m'
+    try:
+        from util.narration_logger import dual_timestamp
+        ts_short = dual_timestamp(ts)
+        bracket_start = ts_short.rfind("[")
+        if bracket_start >= 0:
+            ts_short = ts_short[:bracket_start] + YELLOW + ts_short[bracket_start:] + RESET
+    except Exception:
+        ts_short = ts[11:19] if len(ts) >= 19 else ts
 
     sym_str = f"  {sym}" if sym and sym != "SYSTEM" else ""
 

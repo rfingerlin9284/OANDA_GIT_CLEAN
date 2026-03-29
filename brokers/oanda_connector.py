@@ -786,6 +786,40 @@ class OandaConnector:
             "account_id": self.account_id[-4:] if self.account_id else "N/A"
         }
 
+    def get_server_time(self) -> dict:
+        """
+        Fetch OANDA broker server time via a lightweight API call.
+        Compares broker clock vs local clock to detect drift.
+        Returns: {"broker_utc": datetime, "local_utc": datetime, "drift_ms": float, "synced": bool}
+        """
+        local_before = datetime.now(timezone.utc)
+        resp = self._make_request("GET", f"/v3/accounts/{self.account_id}/summary")
+        local_after = datetime.now(timezone.utc)
+
+        broker_time = None
+        if resp.get("success"):
+            acct = (resp.get("data") or {}).get("account", {})
+            ts_str = acct.get("lastTransactionTime") or acct.get("created", "")
+            if ts_str:
+                try:
+                    broker_time = datetime.fromisoformat(
+                        ts_str[:26].rstrip("Z")
+                    ).replace(tzinfo=timezone.utc)
+                except Exception:
+                    pass
+
+        local_mid = local_before + (local_after - local_before) / 2
+        drift_ms = 0.0
+        if broker_time:
+            drift_ms = (local_mid - broker_time).total_seconds() * 1000
+
+        return {
+            "broker_utc": broker_time or local_mid,
+            "local_utc": local_mid,
+            "drift_ms": round(drift_ms, 1),
+            "synced": broker_time is not None,
+        }
+
     def get_account_info(self) -> Optional[OandaAccount]:
         """Get OANDA account summary information."""
         try:

@@ -147,10 +147,30 @@ class TradeEngine:
     # ── Startup verification ─────────────────────────────────────────────────
 
     def print_startup_banner(self) -> None:
-        """Print verified broker state at startup. Does NOT use cached values."""
+        """Print verified broker state at startup with timezone + time sync."""
+        from util.narration_logger import dual_timestamp
         print("\n" + "=" * 60)
         print("  RBOTZILLA OANDA CLEAN — PRACTICE ENGINE")
         print("=" * 60)
+        # ── Timezone + Broker Time Sync ──
+        _now = dual_timestamp()
+        print(f"  Engine Time   : {_now}")
+        print(f"  Timezone      : US Eastern (NYC/NYSE)")
+        try:
+            _sync = self.connector.get_server_time()
+            _drift = _sync.get("drift_ms", 0)
+            _synced = _sync.get("synced", False)
+            if _synced:
+                _broker_ts = dual_timestamp(_sync["broker_utc"].isoformat())
+                print(f"  Broker Time   : {_broker_ts}")
+                if abs(_drift) < 2000:
+                    print(f"  Clock Sync    : ✅ SYNCED (drift {_drift:+.0f}ms)")
+                else:
+                    print(f"  Clock Sync    : ⚠️  DRIFT DETECTED ({_drift:+.0f}ms)")
+            else:
+                print(f"  Clock Sync    : ⚠️  Could not verify broker time")
+        except Exception as _ts_err:
+            print(f"  Clock Sync    : ⚠️  Time sync failed: {_ts_err}")
         try:
             info = self.connector.get_account_info()
             trades = self.connector.get_trades()
@@ -174,6 +194,7 @@ class TradeEngine:
             "pairs_count":  len(TRADING_PAIRS),
             "max_positions": MAX_POSITIONS,
         })
+
 
     # ── Broker dedup ─────────────────────────────────────────────────────────
 

@@ -258,3 +258,41 @@ def log_narration(
 ) -> None:
     """Alias used by EXTRACTED_VERIFIED files from Phoenix. Do not use in new code."""
     log_event(event_type=event_type, symbol=symbol, venue=venue, details=details)
+
+
+# ── Dual Timezone Formatter (EST + UTC) ─────────────────────────────────────
+
+try:
+    from zoneinfo import ZoneInfo
+    _EASTERN = ZoneInfo("America/New_York")
+except ImportError:
+    _EASTERN = None
+
+
+def dual_timestamp(utc_iso: str = None) -> str:
+    """
+    Returns formatted dual timestamp:
+      3/29/26 @ 14:34 EST [3/29/26 @ 18:34 UTC]
+    Auto-detects EST vs EDT via zoneinfo.
+    """
+    if utc_iso:
+        try:
+            utc_dt = datetime.fromisoformat(utc_iso.replace("Z", "+00:00"))
+            if utc_dt.tzinfo is None:
+                utc_dt = utc_dt.replace(tzinfo=timezone.utc)
+        except Exception:
+            utc_dt = datetime.now(timezone.utc)
+    else:
+        utc_dt = datetime.now(timezone.utc)
+
+    if _EASTERN:
+        est_dt = utc_dt.astimezone(_EASTERN)
+        tz_label = est_dt.strftime("%Z")  # "EST" or "EDT" auto
+    else:
+        from datetime import timedelta as _td
+        est_dt = utc_dt.replace(tzinfo=None) - _td(hours=5)
+        tz_label = "EST"
+
+    est_str = est_dt.strftime("%-m/%d/%y @ %H:%M")
+    utc_str = utc_dt.strftime("%-m/%d/%y @ %H:%M")
+    return f"{est_str} {tz_label} [{utc_str} UTC]"
