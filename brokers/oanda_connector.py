@@ -788,25 +788,27 @@ class OandaConnector:
 
     def get_server_time(self) -> dict:
         """
-        Fetch OANDA broker server time via a lightweight API call.
-        Compares broker clock vs local clock to detect drift.
+        Fetch OANDA broker server time via HTTP Date header.
+        Uses the Date header from OANDA's response — always fresh,
+        regardless of trade activity.
         Returns: {"broker_utc": datetime, "local_utc": datetime, "drift_ms": float, "synced": bool}
         """
+        from email.utils import parsedate_to_datetime
         local_before = datetime.now(timezone.utc)
-        resp = self._make_request("GET", f"/v3/accounts/{self.account_id}/summary")
-        local_after = datetime.now(timezone.utc)
-
         broker_time = None
-        if resp.get("success"):
-            acct = (resp.get("data") or {}).get("account", {})
-            ts_str = acct.get("lastTransactionTime") or acct.get("created", "")
-            if ts_str:
-                try:
-                    broker_time = datetime.fromisoformat(
-                        ts_str[:26].rstrip("Z")
-                    ).replace(tzinfo=timezone.utc)
-                except Exception:
-                    pass
+        try:
+            url = f"{self.api_base}/v3/accounts/{self.account_id}/summary"
+            response = requests.get(url, headers=self.headers, timeout=self.default_timeout)
+            local_after = datetime.now(timezone.utc)
+
+            # Parse the HTTP Date header — this IS the broker's actual clock
+            date_header = response.headers.get("Date", "")
+            if date_header:
+                broker_time = parsedate_to_datetime(date_header)
+                if broker_time.tzinfo is None:
+                    broker_time = broker_time.replace(tzinfo=timezone.utc)
+        except Exception:
+            local_after = datetime.now(timezone.utc)
 
         local_mid = local_before + (local_after - local_before) / 2
         drift_ms = 0.0
