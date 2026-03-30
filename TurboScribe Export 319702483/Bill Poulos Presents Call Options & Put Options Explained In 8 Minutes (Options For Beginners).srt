@@ -1,0 +1,787 @@
+1
+00:00:12,780 --> 00:00:15,280
+Okay, first to demonstrate how call options work,
+
+2
+00:00:15,360 --> 00:00:16,500
+I'm going to tell you a little story.
+
+3
+00:00:16,940 --> 00:00:18,160
+And by the way, if calls and puts
+
+4
+00:00:18,160 --> 00:00:19,940
+are old hat to you, then you've already
+
+5
+00:00:19,940 --> 00:00:20,680
+got a leg up.
+
+6
+00:00:20,740 --> 00:00:21,880
+So the method I'm going to teach you
+
+7
+00:00:21,880 --> 00:00:24,000
+afterward will be even easier for you to
+
+8
+00:00:24,000 --> 00:00:24,940
+apply with options.
+
+9
+00:00:25,140 --> 00:00:26,400
+Okay, here we go.
+
+10
+00:00:26,900 --> 00:00:29,280
+So Susie's selling her house for $500,000
+
+11
+00:00:29,280 --> 00:00:31,400
+in a neighborhood that has a nearby parcel
+
+12
+00:00:31,400 --> 00:00:33,880
+of land that is for sale as well.
+
+13
+00:00:34,300 --> 00:00:36,160
+There are two parties interested in the land.
+
+14
+00:00:36,160 --> 00:00:38,120
+And Peter plans to develop the land into
+
+15
+00:00:38,120 --> 00:00:40,160
+a beautiful park and bird sanctuary.
+
+16
+00:00:40,660 --> 00:00:43,020
+And Harry plans to build a low-cost
+
+17
+00:00:43,020 --> 00:00:43,880
+housing development.
+
+18
+00:00:44,320 --> 00:00:46,460
+Now Sammy comes along and is interested in
+
+19
+00:00:46,460 --> 00:00:48,360
+buying Susie's house for a cash deal.
+
+20
+00:00:48,760 --> 00:00:49,720
+But he has a problem.
+
+21
+00:00:50,200 --> 00:00:52,600
+He won't have the cash available for three
+
+22
+00:00:52,600 --> 00:00:52,920
+months.
+
+23
+00:00:53,240 --> 00:00:54,940
+So he's of course worried that the house
+
+24
+00:00:54,940 --> 00:00:56,380
+will be sold to someone else in the
+
+25
+00:00:56,380 --> 00:00:56,680
+meantime.
+
+26
+00:00:57,160 --> 00:00:59,400
+So he decides to offer Susie $5,000,
+
+27
+00:00:59,960 --> 00:01:03,019
+or the option premium, right now if she'll
+
+28
+00:01:03,019 --> 00:01:04,620
+take the house off the market and give
+
+29
+00:01:04,620 --> 00:01:05,260
+him the option.
+
+30
+00:01:05,800 --> 00:01:08,340
+This would be a call option to buy
+
+31
+00:01:08,340 --> 00:01:11,620
+the house for $500,000, which is referred
+
+32
+00:01:11,620 --> 00:01:14,320
+to as the strike price, anytime within the
+
+33
+00:01:14,320 --> 00:01:16,840
+next three months, which is the expiration date.
+
+34
+00:01:17,260 --> 00:01:18,700
+Now if he does not elect to buy
+
+35
+00:01:18,700 --> 00:01:21,720
+the house, Susie keeps the $5,000 premium
+
+36
+00:01:21,720 --> 00:01:23,540
+and Sammy walks away from the deal.
+
+37
+00:01:23,940 --> 00:01:25,700
+If he does elect to buy the house,
+
+38
+00:01:26,140 --> 00:01:29,360
+or exercise the option, Susie still gets to
+
+39
+00:01:29,360 --> 00:01:31,760
+keep the $5,000 and he pays her
+
+40
+00:01:31,760 --> 00:01:33,800
+$500,000 for the house.
+
+41
+00:01:33,800 --> 00:01:36,180
+Now, three things could happen in this story.
+
+42
+00:01:36,800 --> 00:01:39,000
+In Scenario 1, Peter buys the nearby parcel
+
+43
+00:01:39,000 --> 00:01:39,420
+of land.
+
+44
+00:01:39,880 --> 00:01:41,660
+This of course will increase the value of
+
+45
+00:01:41,660 --> 00:01:44,880
+Susie's home to say $600,000, in which
+
+46
+00:01:44,880 --> 00:01:47,160
+case Sammy will be very happy to exercise
+
+47
+00:01:47,160 --> 00:01:49,420
+his option to buy the house for $500
+
+48
+00:01:49,420 --> 00:01:49,840
+,000.
+
+49
+00:01:50,900 --> 00:01:53,440
+In Scenario 2, Harry buys the nearby parcel
+
+50
+00:01:53,440 --> 00:01:53,860
+of land.
+
+51
+00:01:54,320 --> 00:01:56,140
+This of course will decrease the value of
+
+52
+00:01:56,140 --> 00:01:59,260
+Susie's home to say $400,000, in which
+
+53
+00:01:59,260 --> 00:02:01,920
+case Sammy will not exercise his option to
+
+54
+00:02:01,920 --> 00:02:04,600
+buy at $500,000 and he'll just walk
+
+55
+00:02:04,600 --> 00:02:06,860
+away from the deal having lost only $5
+
+56
+00:02:06,860 --> 00:02:07,220
+,000.
+
+57
+00:02:08,259 --> 00:02:10,640
+Then there's Scenario 3 where neither party buys
+
+58
+00:02:10,640 --> 00:02:11,920
+the nearby parcel of land.
+
+59
+00:02:12,420 --> 00:02:15,520
+Susie's house is still worth $500,000 and
+
+60
+00:02:15,520 --> 00:02:17,720
+Sammy can elect to exercise his option to
+
+61
+00:02:17,720 --> 00:02:20,160
+buy the house for $500,000 or not
+
+62
+00:02:20,160 --> 00:02:22,560
+and simply walk away from the deal losing
+
+63
+00:02:22,560 --> 00:02:23,620
+only $5,000.
+
+64
+00:02:24,200 --> 00:02:27,420
+In effect, Sammy is controlling a $500,000
+
+65
+00:02:27,420 --> 00:02:30,320
+asset for three months for only $5,000.
+
+66
+00:02:30,820 --> 00:02:32,900
+No matter what happens during that time, the
+
+67
+00:02:32,900 --> 00:02:34,820
+most he can lose is $5,000.
+
+68
+00:02:35,580 --> 00:02:37,280
+Susie on the other hand is happy to
+
+69
+00:02:37,280 --> 00:02:39,280
+take the $5,000 as she had no
+
+70
+00:02:39,280 --> 00:02:41,300
+guarantee anyone else would buy the house at
+
+71
+00:02:41,300 --> 00:02:43,600
+her asking price, nor did she feel the
+
+72
+00:02:43,600 --> 00:02:45,720
+nearby parcel of land would sell any time
+
+73
+00:02:45,720 --> 00:02:46,080
+soon.
+
+74
+00:02:46,520 --> 00:02:47,980
+Here's a footnote to this story.
+
+75
+00:02:48,400 --> 00:02:51,100
+Depending on the circumstances, if Susie felt she
+
+76
+00:02:51,100 --> 00:02:53,340
+was likely to attract another buyer in the
+
+77
+00:02:53,340 --> 00:02:55,680
+near term, she would have demanded more than
+
+78
+00:02:55,680 --> 00:02:57,940
+$5,000 from Sammy to take the house
+
+79
+00:02:57,940 --> 00:02:59,340
+off the market for three months.
+
+80
+00:02:59,780 --> 00:03:02,700
+Likewise with call options, the more the underlying
+
+81
+00:03:02,700 --> 00:03:06,120
+asset is perceived to appreciate, the higher the
+
+82
+00:03:06,120 --> 00:03:08,360
+premium demanded by the market for that call
+
+83
+00:03:08,360 --> 00:03:08,680
+option.
+
+84
+00:03:09,300 --> 00:03:11,060
+So now let's define this in trading terms
+
+85
+00:03:11,060 --> 00:03:13,040
+and look at an actual example trade.
+
+86
+00:03:13,600 --> 00:03:15,580
+A call option is a contract between two
+
+87
+00:03:15,580 --> 00:03:17,980
+parties to exchange a stock at a strike
+
+88
+00:03:17,980 --> 00:03:19,520
+price by a predetermined date.
+
+89
+00:03:19,520 --> 00:03:21,940
+One party, the buyer of the call, has
+
+90
+00:03:21,940 --> 00:03:24,240
+the right, but not an obligation, to buy
+
+91
+00:03:24,240 --> 00:03:26,540
+the stock at the strike price by the
+
+92
+00:03:26,540 --> 00:03:29,080
+future date, while the other party, the seller
+
+93
+00:03:29,080 --> 00:03:31,580
+of the call, has the obligation to sell
+
+94
+00:03:31,580 --> 00:03:33,120
+the stock to the buyer at the strike
+
+95
+00:03:33,120 --> 00:03:36,100
+price if the buyer exercises the option.
+
+96
+00:03:36,680 --> 00:03:38,720
+For example, if a stock is trading at
+
+97
+00:03:38,720 --> 00:03:40,480
+$50 and you think it's going to go
+
+98
+00:03:40,480 --> 00:03:43,120
+up to $60, you might buy a $55
+
+99
+00:03:43,120 --> 00:03:46,800
+call option for say $0.20. If the
+
+100
+00:03:46,800 --> 00:03:49,420
+stock rose to $60, that would allow you
+
+101
+00:03:49,420 --> 00:03:52,440
+to buy the stock at $55 even though
+
+102
+00:03:52,440 --> 00:03:55,200
+it's valued at $60 netting you a $4
+
+103
+00:03:55,200 --> 00:03:56,980
+.80 profit on each share.
+
+104
+00:03:57,420 --> 00:03:59,180
+On the other hand, the person that sold
+
+105
+00:03:59,180 --> 00:04:01,000
+you the call would be obligated to sell
+
+106
+00:04:01,000 --> 00:04:03,920
+you the stock at $55 at a loss
+
+107
+00:04:03,920 --> 00:04:06,960
+of $4.80. If the stock never rises
+
+108
+00:04:06,960 --> 00:04:10,480
+above $55 by expiration date, the call expires
+
+109
+00:04:10,480 --> 00:04:13,140
+worthless and the call buyer is out $0
+
+110
+00:04:13,140 --> 00:04:15,360
+.20 and the call seller keeps the $0
+
+111
+00:04:15,360 --> 00:04:17,920
+.20. Okay now let's look at how put
+
+112
+00:04:17,920 --> 00:04:21,060
+options work by revisiting Susie and Sammy from
+
+113
+00:04:21,060 --> 00:04:22,160
+our earlier story.
+
+114
+00:04:22,880 --> 00:04:24,960
+Sammy owns a truck worth $40,000.
+
+115
+00:04:25,500 --> 00:04:27,520
+He's concerned that his truck might be damaged
+
+116
+00:04:27,520 --> 00:04:29,120
+in an accident or even stolen.
+
+117
+00:04:29,540 --> 00:04:32,000
+So Sammy decides to buy a zero deductible
+
+118
+00:04:32,000 --> 00:04:35,580
+insurance policy, or a put option, on the
+
+119
+00:04:35,580 --> 00:04:37,760
+truck for the full amount of $40,000,
+
+120
+00:04:38,180 --> 00:04:40,980
+which would be the strike price, from Susie's
+
+121
+00:04:40,980 --> 00:04:42,120
+auto insurance company.
+
+122
+00:04:42,620 --> 00:04:45,320
+Susie charges him $1,500, that would be
+
+123
+00:04:45,320 --> 00:04:47,780
+the option premium, for a one year policy.
+
+124
+00:04:48,240 --> 00:04:50,560
+One year being the expiration date.
+
+125
+00:04:50,860 --> 00:04:52,920
+Now three things could happen in this story.
+
+126
+00:04:53,500 --> 00:04:55,660
+In the first scenario, Sammy's truck is not
+
+127
+00:04:55,660 --> 00:04:57,720
+damaged or stolen during the year.
+
+128
+00:04:58,180 --> 00:05:00,260
+So Susie keeps the $1,500 premium.
+
+129
+00:05:00,840 --> 00:05:03,160
+Sammy's okay with losing the $1,500 for
+
+130
+00:05:03,160 --> 00:05:05,580
+the protection it provided him for the year.
+
+131
+00:05:05,980 --> 00:05:08,940
+In scenario two, Sammy's truck is damaged in
+
+132
+00:05:08,940 --> 00:05:12,820
+an accident, requiring $10,000 in repairs.
+
+133
+00:05:13,420 --> 00:05:16,640
+He exercises his insurance policy, or his put
+
+134
+00:05:16,640 --> 00:05:18,580
+option, by filing a claim.
+
+135
+00:05:19,080 --> 00:05:21,260
+And Susie pays him $10,000 for the
+
+136
+00:05:21,260 --> 00:05:22,520
+repairs as agreed.
+
+137
+00:05:23,220 --> 00:05:25,980
+Sammy is happy he purchased protection for this
+
+138
+00:05:25,980 --> 00:05:26,620
+possibility.
+
+139
+00:05:27,300 --> 00:05:29,600
+In the third scenario, Sammy's truck is stolen.
+
+140
+00:05:29,960 --> 00:05:33,080
+He exercises his insurance policy, which is his
+
+141
+00:05:33,080 --> 00:05:35,740
+put option, and files a claim, but this
+
+142
+00:05:35,740 --> 00:05:38,140
+time for the full replacement value of his
+
+143
+00:05:38,140 --> 00:05:38,440
+truck.
+
+144
+00:05:38,980 --> 00:05:40,680
+And Susie pays him the full amount of
+
+145
+00:05:40,680 --> 00:05:42,400
+$40,000 to buy a new truck.
+
+146
+00:05:42,920 --> 00:05:45,360
+Sammy, of course, is very happy he purchased
+
+147
+00:05:45,360 --> 00:05:46,880
+protection for this possibility.
+
+148
+00:05:47,580 --> 00:05:49,680
+In any case, Susie's happy because she's sold
+
+149
+00:05:49,680 --> 00:05:53,380
+many such insurance policies, different put options, to
+
+150
+00:05:53,380 --> 00:05:56,120
+other drivers, most which never filed a claim
+
+151
+00:05:56,120 --> 00:05:59,860
+or never exercised their options, providing her with
+
+152
+00:05:59,860 --> 00:06:01,040
+a net profit overall.
+
+153
+00:06:01,660 --> 00:06:02,980
+And here's a footnote to this story.
+
+154
+00:06:03,140 --> 00:06:05,620
+If Sammy had a poor driving record, that's
+
+155
+00:06:05,620 --> 00:06:07,740
+more risk to Susie, so she would have
+
+156
+00:06:07,740 --> 00:06:10,240
+charged him more than $1,500 for the
+
+157
+00:06:10,240 --> 00:06:11,360
+one-year insurance policy.
+
+158
+00:06:11,780 --> 00:06:13,020
+On the other hand, if Sammy had an
+
+159
+00:06:13,020 --> 00:06:15,860
+exemplary driving record, Susie could have charged him
+
+160
+00:06:15,860 --> 00:06:17,720
+less as the risk would be lower.
+
+161
+00:06:18,240 --> 00:06:20,480
+Likewise, with put options, the higher the perceived
+
+162
+00:06:20,480 --> 00:06:23,000
+risk, the higher the premium demanded by the
+
+163
+00:06:23,000 --> 00:06:23,240
+market.
+
+164
+00:06:23,840 --> 00:06:26,040
+Let's look again at a definition and a
+
+165
+00:06:26,040 --> 00:06:26,740
+trading example.
+
+166
+00:06:27,220 --> 00:06:29,960
+A put option, then, is a contract between
+
+167
+00:06:29,960 --> 00:06:32,620
+two parties to exchange a stock, or an
+
+168
+00:06:32,620 --> 00:06:35,620
+ETF, at a strike price by a predetermined
+
+169
+00:06:35,620 --> 00:06:35,900
+date.
+
+170
+00:06:36,380 --> 00:06:38,360
+One party, the buyer of the put, has
+
+171
+00:06:38,360 --> 00:06:40,560
+the right, but not an obligation, to sell
+
+172
+00:06:40,560 --> 00:06:42,820
+the stock at the strike price by the
+
+173
+00:06:42,820 --> 00:06:45,160
+future date, while the other party, the seller
+
+174
+00:06:45,160 --> 00:06:47,560
+of the put, has the obligation to buy
+
+175
+00:06:47,560 --> 00:06:49,580
+the stock from the buyer at the strike
+
+176
+00:06:49,580 --> 00:06:51,640
+price if the buyer exercises the option.
+
+177
+00:06:52,220 --> 00:06:54,080
+For example, if a stock is trading at
+
+178
+00:06:54,080 --> 00:06:56,200
+$50 and you think it's going to go
+
+179
+00:06:56,200 --> 00:06:58,900
+down to $40, you might buy a $45
+
+180
+00:06:58,900 --> 00:07:02,340
+put option for, say, $0.20. If the
+
+181
+00:07:02,340 --> 00:07:04,640
+stock dropped to $40, that would allow you
+
+182
+00:07:04,640 --> 00:07:07,420
+to sell the stock at $45 even though
+
+183
+00:07:07,420 --> 00:07:10,320
+it's valued at $40, netting you a $4
+
+184
+00:07:10,320 --> 00:07:12,500
+.80 profit on each share.
+
+185
+00:07:13,020 --> 00:07:14,820
+On the other hand, the person that sold
+
+186
+00:07:14,820 --> 00:07:16,860
+you the put would be obligated to buy
+
+187
+00:07:16,860 --> 00:07:18,980
+the stock from you at $45 at a
+
+188
+00:07:18,980 --> 00:07:22,200
+loss of $4.80. If the stock never
+
+189
+00:07:22,200 --> 00:07:25,380
+drops below $45 by expiration date, the put
+
+190
+00:07:25,380 --> 00:07:28,240
+expires worthless, and the put buyer is out
+
+191
+00:07:28,240 --> 00:07:30,660
+$0.20, and the put seller keeps the
+
+192
+00:07:30,660 --> 00:07:33,540
+$0.20. Thanks for watching this video and
+
+193
+00:07:33,540 --> 00:07:34,500
+I hope you enjoyed it.
+
+194
+00:07:34,640 --> 00:07:36,700
+For more free training, go ahead and subscribe
+
+195
+00:07:36,700 --> 00:07:39,500
+to our YouTube channel, like us on Facebook,
+
+196
+00:07:39,820 --> 00:07:41,540
+and visit ProfitsRun.com.
+
+197
+00:07:41,900 --> 00:07:44,040
+This is Bill Poulos wishing you good trading.

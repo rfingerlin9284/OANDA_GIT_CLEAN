@@ -1,0 +1,1563 @@
+1
+00:00:00,600 --> 00:00:03,840
+Renaissance Technologies is the most profitable hedge fund
+
+2
+00:00:03,840 --> 00:00:05,100
+in history.
+
+3
+00:00:05,560 --> 00:00:09,240
+This is probably the single most successful hedge
+
+4
+00:00:09,240 --> 00:00:11,740
+fund in the history of the industry in
+
+5
+00:00:11,740 --> 00:00:13,820
+terms of its performance record.
+
+6
+00:00:14,220 --> 00:00:16,460
+So you got to remember he charges a
+
+7
+00:00:16,460 --> 00:00:20,320
+lot, but before fees 66% on average
+
+8
+00:00:20,320 --> 00:00:21,740
+since 1988.
+
+9
+00:00:22,980 --> 00:00:25,480
+Behind the firm's wild success are a series
+
+10
+00:00:25,480 --> 00:00:28,720
+of mathematical models and powerful computers.
+
+11
+00:00:30,060 --> 00:00:33,380
+The quantitative models at Renaissance Technologies are constantly
+
+12
+00:00:33,380 --> 00:00:36,720
+being updated, but what's more important than those
+
+13
+00:00:36,720 --> 00:00:39,620
+models are the ways and methods that are
+
+14
+00:00:39,620 --> 00:00:41,480
+used to discover trading signals.
+
+15
+00:00:51,320 --> 00:00:54,660
+Jim Simons, the founder of Renaissance Technologies, is
+
+16
+00:00:54,660 --> 00:00:55,960
+a legendary mathematician.
+
+17
+00:00:57,020 --> 00:00:59,760
+He pioneered a unique way of research and
+
+18
+00:00:59,760 --> 00:01:01,840
+model building to the world of hedge funds.
+
+19
+00:01:02,440 --> 00:01:06,180
+He's worth $21 billion, making him the highest
+
+20
+00:01:06,180 --> 00:01:08,320
+earning hedge fund manager in the world.
+
+21
+00:01:09,140 --> 00:01:12,180
+Born and raised in Brookline, Massachusetts, Jim Simons
+
+22
+00:01:12,180 --> 00:01:14,440
+always knew that he wanted to be a
+
+23
+00:01:14,440 --> 00:01:14,900
+mathematician.
+
+24
+00:01:16,440 --> 00:01:21,680
+We used to go to a delicatessen late
+
+25
+00:01:21,680 --> 00:01:23,140
+at night when I was a student.
+
+26
+00:01:23,880 --> 00:01:28,680
+And one day I saw Ambrose and Singer
+
+27
+00:01:28,680 --> 00:01:31,780
+come in late at night and they were
+
+28
+00:01:31,780 --> 00:01:33,060
+obviously doing mathematics.
+
+29
+00:01:33,680 --> 00:01:36,540
+And I saw this on a number of
+
+30
+00:01:36,540 --> 00:01:40,360
+occasions and I thought, boy, that's the greatest
+
+31
+00:01:40,360 --> 00:01:42,500
+job in the world where you can just
+
+32
+00:01:42,500 --> 00:01:46,980
+hang out at a delicatessen and do mathematics.
+
+33
+00:01:47,820 --> 00:01:50,480
+Simons enrolled at MIT and even skipped the
+
+34
+00:01:50,480 --> 00:01:52,940
+first year of mathematics thanks to advanced placement
+
+35
+00:01:52,940 --> 00:01:54,780
+courses he took in high school.
+
+36
+00:01:56,520 --> 00:01:59,360
+Simons' academic career was very smooth and after
+
+37
+00:01:59,360 --> 00:02:02,020
+earning his PhD, he quickly became a professor
+
+38
+00:02:02,020 --> 00:02:04,280
+of math and also took a job as
+
+39
+00:02:04,280 --> 00:02:05,600
+a Cold War codebreaker.
+
+40
+00:02:06,460 --> 00:02:10,760
+But he yearns for more, particularly more money.
+
+41
+00:02:11,780 --> 00:02:14,020
+Growing up in a middle class family, Simons
+
+42
+00:02:14,020 --> 00:02:16,380
+always wanted to get rich.
+
+43
+00:02:17,320 --> 00:02:19,420
+Unlike other people in the academics who don't
+
+44
+00:02:19,420 --> 00:02:21,620
+really care about money, Simons, on the other
+
+45
+00:02:21,620 --> 00:02:24,460
+hand, knew exactly how to make money.
+
+46
+00:02:25,720 --> 00:02:26,640
+Start businesses.
+
+47
+00:02:27,200 --> 00:02:29,600
+While still at school, he started a business
+
+48
+00:02:29,600 --> 00:02:31,400
+with his South American classmates.
+
+49
+00:02:32,360 --> 00:02:34,760
+They decided to start a factory to produce
+
+50
+00:02:34,760 --> 00:02:37,160
+vinyl floor tile and PVC piping.
+
+51
+00:02:38,080 --> 00:02:41,400
+Well, I met some, I made friends at
+
+52
+00:02:41,400 --> 00:02:46,600
+MIT with two Colombian boys and they, at
+
+53
+00:02:46,600 --> 00:02:49,440
+a certain point, started a business.
+
+54
+00:02:49,900 --> 00:02:52,200
+And in fact, it was my encouragement that
+
+55
+00:02:52,200 --> 00:02:53,320
+they started that business.
+
+56
+00:02:53,500 --> 00:02:56,320
+And my father and I invested a small
+
+57
+00:02:56,320 --> 00:03:02,240
+amount in that business, which turned out eventually
+
+58
+00:03:02,240 --> 00:03:04,340
+to be a big success.
+
+59
+00:03:05,060 --> 00:03:06,440
+This is a story of Jim Simons that
+
+60
+00:03:06,440 --> 00:03:07,640
+a lot of people don't hear about.
+
+61
+00:03:08,300 --> 00:03:10,320
+So he took some time off to run
+
+62
+00:03:10,320 --> 00:03:12,120
+a business at first, but as soon as
+
+63
+00:03:12,120 --> 00:03:15,280
+the business takes off, he immediately delegated responsibilities
+
+64
+00:03:15,280 --> 00:03:16,160
+to other people.
+
+65
+00:03:16,780 --> 00:03:18,140
+And we saw that time and time again
+
+66
+00:03:18,140 --> 00:03:19,640
+with the story of Rentag.
+
+67
+00:03:21,000 --> 00:03:23,180
+But Simons had to focus on his academic
+
+68
+00:03:23,180 --> 00:03:23,580
+career.
+
+69
+00:03:24,080 --> 00:03:27,380
+In 1976, at the age of 37, Simons
+
+70
+00:03:27,380 --> 00:03:31,520
+was awarded the American Mathematical Society's Oswald Weibullin
+
+71
+00:03:31,520 --> 00:03:32,940
+Prize in Geometry.
+
+72
+00:03:33,900 --> 00:03:35,940
+This prize is the highest you can get
+
+73
+00:03:35,940 --> 00:03:36,860
+in mathematics.
+
+74
+00:03:37,700 --> 00:03:40,300
+It's the equivalence of Nobel Prize.
+
+75
+00:03:41,340 --> 00:03:44,000
+Conquering one summit, Simons was looking for a
+
+76
+00:03:44,000 --> 00:03:45,020
+new mountain to climb.
+
+77
+00:03:46,240 --> 00:03:49,680
+In 1974, the floor tile company Simons had
+
+78
+00:03:49,680 --> 00:03:52,300
+started with his friends, sold a 50%
+
+79
+00:03:52,300 --> 00:03:55,680
+stake, delivering profits to Simons and other owners.
+
+80
+00:03:56,560 --> 00:03:58,380
+Simons and his classmates made a lot of
+
+81
+00:03:58,380 --> 00:03:59,740
+money from this business.
+
+82
+00:04:00,160 --> 00:04:01,600
+He said, let's invest in the money.
+
+83
+00:04:02,180 --> 00:04:04,520
+So Simons knew a student of his who
+
+84
+00:04:04,520 --> 00:04:06,160
+was running a hedge fund by the name
+
+85
+00:04:06,160 --> 00:04:07,180
+of Charlie Fretfeld.
+
+86
+00:04:08,000 --> 00:04:12,260
+Superseding Simons' wildest expectations, he 10X'd their original
+
+87
+00:04:12,260 --> 00:04:15,519
+investment, making them $6 million total.
+
+88
+00:04:16,440 --> 00:04:19,240
+This is the moment Simons realizes the best
+
+89
+00:04:19,240 --> 00:04:21,180
+way to make money is with finance.
+
+90
+00:04:21,660 --> 00:04:24,180
+He was wondering, can I do the same?
+
+91
+00:04:24,980 --> 00:04:28,380
+In 1978, Simons left academia to start his
+
+92
+00:04:28,380 --> 00:04:31,000
+own investment firm with the money he saved
+
+93
+00:04:31,000 --> 00:04:32,740
+and from his friends.
+
+94
+00:04:33,300 --> 00:04:35,080
+He started MoneyMetrics.
+
+95
+00:04:40,140 --> 00:04:43,760
+For years after starting MoneyMetrics, Simons relied on
+
+96
+00:04:43,760 --> 00:04:45,780
+intuition and fundamentals to trade.
+
+97
+00:04:46,200 --> 00:04:47,760
+It was a great time to be in
+
+98
+00:04:47,760 --> 00:04:48,340
+finance.
+
+99
+00:04:49,940 --> 00:04:51,800
+The fund is doing so well, he didn't
+
+100
+00:04:51,800 --> 00:04:53,200
+really have to change his approach.
+
+101
+00:04:53,620 --> 00:04:55,140
+But in the beggar's mind, he was wondering,
+
+102
+00:04:55,600 --> 00:04:58,840
+can he use the mathematics to model asset
+
+103
+00:04:58,840 --> 00:04:59,380
+prices?
+
+104
+00:05:00,600 --> 00:05:02,760
+But Simons was getting tired of the fundamental
+
+105
+00:05:02,760 --> 00:05:03,260
+trading.
+
+106
+00:05:03,780 --> 00:05:04,720
+We did very well.
+
+107
+00:05:05,060 --> 00:05:07,140
+But it was a gut-wrenching experience.
+
+108
+00:05:07,560 --> 00:05:10,380
+You know, it's, you know, one day you
+
+109
+00:05:10,380 --> 00:05:11,900
+walk in and you think you're a genius.
+
+110
+00:05:12,140 --> 00:05:13,980
+Oh, my positions are my way.
+
+111
+00:05:14,100 --> 00:05:16,020
+Look, and the next day you walk in
+
+112
+00:05:16,020 --> 00:05:17,880
+and they're against you and you feel you're
+
+113
+00:05:17,880 --> 00:05:18,300
+a dope.
+
+114
+00:05:18,600 --> 00:05:20,060
+How could I have done what I did?
+
+115
+00:05:20,100 --> 00:05:22,240
+And so there was no rhyme or reason.
+
+116
+00:05:22,240 --> 00:05:23,420
+It was just, you know, you put your
+
+117
+00:05:23,420 --> 00:05:25,140
+finger in the air and you try to
+
+118
+00:05:25,140 --> 00:05:27,660
+sense which way the wind is blowing.
+
+119
+00:05:27,980 --> 00:05:30,260
+Simons quickly started working on his first model
+
+120
+00:05:30,260 --> 00:05:32,900
+with the help of his colleague, Lenny Baum.
+
+121
+00:05:33,500 --> 00:05:35,580
+They built a simple mean reversion model.
+
+122
+00:05:36,140 --> 00:05:38,320
+Buy currencies if they moved a certain level
+
+123
+00:05:38,320 --> 00:05:41,360
+below their recent trend line and sell if
+
+124
+00:05:41,360 --> 00:05:43,100
+they veer too far above it.
+
+125
+00:05:44,240 --> 00:05:46,900
+The idea of mean reversion is very simple.
+
+126
+00:05:47,320 --> 00:05:50,000
+Suppose you're a farmer and the average price
+
+127
+00:05:50,000 --> 00:05:52,220
+of corn is five dollars a bushel.
+
+128
+00:05:53,180 --> 00:05:55,580
+Now, some days it may be six dollars
+
+129
+00:05:55,580 --> 00:05:57,140
+a bushel, other days it may be three
+
+130
+00:05:57,140 --> 00:05:57,920
+dollars a bushel.
+
+131
+00:05:58,420 --> 00:06:00,320
+But in the long run, these prices will
+
+132
+00:06:00,320 --> 00:06:02,280
+revert back to the mean value.
+
+133
+00:06:03,160 --> 00:06:04,700
+This is what's called mean reversion.
+
+134
+00:06:05,260 --> 00:06:07,680
+Back in the 80s, many commodities were priced
+
+135
+00:06:07,680 --> 00:06:09,060
+like this.
+
+136
+00:06:09,960 --> 00:06:12,880
+Now, his model would not work today, but
+
+137
+00:06:12,880 --> 00:06:15,020
+back in the 80s, this was a revolutionary
+
+138
+00:06:15,020 --> 00:06:15,800
+idea.
+
+139
+00:06:16,720 --> 00:06:19,820
+They quickly expanded the strategy beyond currency trading.
+
+140
+00:06:20,400 --> 00:06:23,520
+By 1982, he changed the company's name to
+
+141
+00:06:23,520 --> 00:06:25,040
+Renaissance Technologies.
+
+142
+00:06:25,960 --> 00:06:28,420
+But soon enough, their simple mean reversion strategy
+
+143
+00:06:28,420 --> 00:06:29,280
+started to fail.
+
+144
+00:06:29,980 --> 00:06:33,000
+Simple mean reversion is not sufficient anymore as
+
+145
+00:06:33,000 --> 00:06:35,780
+other competitors started to build their models.
+
+146
+00:06:36,320 --> 00:06:38,600
+To stay ahead of the game, Simons had
+
+147
+00:06:38,600 --> 00:06:39,760
+to hire more talents.
+
+148
+00:06:40,520 --> 00:06:43,200
+This is what really separates Jim Simons apart
+
+149
+00:06:43,200 --> 00:06:44,940
+from other hedge fund managers.
+
+150
+00:06:45,560 --> 00:06:48,340
+When he sees a problem, he knows exactly
+
+151
+00:06:48,340 --> 00:06:50,540
+who will be able to solve it.
+
+152
+00:06:51,040 --> 00:06:55,160
+He immediately brought another renowned mathematician, Jim X,
+
+153
+00:06:55,340 --> 00:06:57,080
+to develop a new strategy.
+
+154
+00:06:58,680 --> 00:07:01,260
+When Jim X looked at those asset prices,
+
+155
+00:07:02,060 --> 00:07:05,340
+he noticed that it is a stochastic process,
+
+156
+00:07:05,720 --> 00:07:07,980
+which is also called a random process.
+
+157
+00:07:08,740 --> 00:07:11,600
+And he believed that using mathematical representation is
+
+158
+00:07:11,600 --> 00:07:14,920
+the best way to model those stochastic process.
+
+159
+00:07:15,140 --> 00:07:16,920
+When people hear about the word random, they
+
+160
+00:07:16,920 --> 00:07:18,420
+think that it's not predictable.
+
+161
+00:07:18,760 --> 00:07:20,700
+But that's not the case in mathematics.
+
+162
+00:07:21,200 --> 00:07:23,940
+Suppose you threw a dice, and you know
+
+163
+00:07:23,940 --> 00:07:26,860
+each side will come up with a probability,
+
+164
+00:07:27,540 --> 00:07:29,280
+and you can bet on those probabilities.
+
+165
+00:07:30,260 --> 00:07:33,200
+To model a stochastic process, they started using
+
+166
+00:07:33,200 --> 00:07:34,080
+machine learning.
+
+167
+00:07:35,360 --> 00:07:37,480
+Machine learning is such a buzzword today.
+
+168
+00:07:38,200 --> 00:07:40,520
+But in the 1980s, most of hedge fund
+
+169
+00:07:40,520 --> 00:07:43,280
+managers don't even know what that means.
+
+170
+00:07:43,580 --> 00:07:45,580
+And they still use their gut to trade.
+
+171
+00:07:45,940 --> 00:07:48,780
+But here's Renison Technologies, ahead of everybody else,
+
+172
+00:07:49,200 --> 00:07:51,900
+already started to use machine learning.
+
+173
+00:07:52,240 --> 00:07:54,200
+The style of machine learning that Renton used
+
+174
+00:07:54,200 --> 00:07:55,400
+was the kernel method.
+
+175
+00:07:55,680 --> 00:07:58,340
+The kernel used a class of algorithms to
+
+176
+00:07:58,340 --> 00:07:59,400
+do pattern analysis.
+
+177
+00:08:00,020 --> 00:08:02,440
+The main tool used in academic finance is
+
+178
+00:08:02,440 --> 00:08:03,140
+linear regression.
+
+179
+00:08:03,420 --> 00:08:06,720
+To this day, linear regression is used to
+
+180
+00:08:06,720 --> 00:08:07,920
+build forecasting models.
+
+181
+00:08:08,360 --> 00:08:11,100
+But the problem is the movement of asset
+
+182
+00:08:11,100 --> 00:08:12,640
+prices is non-linear.
+
+183
+00:08:12,960 --> 00:08:17,380
+So rather than use linear regression, Rentek decided
+
+184
+00:08:17,380 --> 00:08:20,580
+to build non-linear models to predict price
+
+185
+00:08:20,580 --> 00:08:21,120
+movements.
+
+186
+00:08:21,600 --> 00:08:24,240
+Simons at the time was proposing building an
+
+187
+00:08:24,240 --> 00:08:25,760
+early machine learning system.
+
+188
+00:08:26,620 --> 00:08:29,740
+This model would generate predictions for various commodity
+
+189
+00:08:29,740 --> 00:08:34,559
+prices based on complex patterns, clusters, and correlations
+
+190
+00:08:34,559 --> 00:08:36,140
+that would be very hard for the naked
+
+191
+00:08:36,140 --> 00:08:36,679
+eye to see.
+
+192
+00:08:36,900 --> 00:08:38,500
+Once again, they were so ahead of their
+
+193
+00:08:38,500 --> 00:08:38,960
+time.
+
+194
+00:08:39,620 --> 00:08:42,760
+This kernel was like a black box that
+
+195
+00:08:42,760 --> 00:08:46,520
+suggested trades that people couldn't even understand.
+
+196
+00:08:47,260 --> 00:08:49,020
+When the team started testing the model, they
+
+197
+00:08:49,020 --> 00:08:50,400
+quickly see great returns.
+
+198
+00:08:51,180 --> 00:08:54,000
+The firm began incorporating hard dimensional kernel regression
+
+199
+00:08:54,000 --> 00:08:54,620
+approaches.
+
+200
+00:08:56,020 --> 00:08:58,880
+Higher dimensional kernels work best for trending models.
+
+201
+00:08:59,020 --> 00:09:01,620
+They're great at predicting how long a trend
+
+202
+00:09:01,620 --> 00:09:02,460
+will last.
+
+203
+00:09:03,120 --> 00:09:05,420
+At this point, Simons had put up millions
+
+204
+00:09:05,420 --> 00:09:07,060
+to this automated trading system.
+
+205
+00:09:07,420 --> 00:09:09,540
+They call it the Medallion Fund.
+
+206
+00:09:09,800 --> 00:09:11,620
+But Simons sought more potential improvement.
+
+207
+00:09:12,040 --> 00:09:14,600
+He started investing heavily in bringing more mathematical
+
+208
+00:09:14,600 --> 00:09:15,220
+talents.
+
+209
+00:09:16,440 --> 00:09:18,600
+With the GEM-X model, Renaissance Technologies started
+
+210
+00:09:18,600 --> 00:09:22,640
+to combine trend following with mean reversion.
+
+211
+00:09:26,520 --> 00:09:28,700
+The model has generated about 20% annual
+
+212
+00:09:28,700 --> 00:09:31,300
+returns, which is a great performance considering most
+
+213
+00:09:31,300 --> 00:09:34,040
+of the hedge funds made less than 12%.
+
+214
+00:09:34,040 --> 00:09:36,200
+But Simons wanted better.
+
+215
+00:09:36,820 --> 00:09:40,680
+He brought on another brilliant mathematician, Alan Berlekamp.
+
+216
+00:09:41,320 --> 00:09:45,180
+Alan Berlekamp's specialty was game and information theory.
+
+217
+00:09:45,600 --> 00:09:48,260
+He immediately suggested to focus on shorter term
+
+218
+00:09:48,260 --> 00:09:50,920
+trades to reduce risk by going in and
+
+219
+00:09:50,920 --> 00:09:51,480
+out quickly.
+
+220
+00:09:51,900 --> 00:09:54,200
+Simons took his advice and started focusing on
+
+221
+00:09:54,200 --> 00:09:55,360
+shorter term approach.
+
+222
+00:09:55,360 --> 00:09:58,620
+They do a very different approach.
+
+223
+00:09:58,760 --> 00:10:00,620
+It's all patterns, it's all short term, it's
+
+224
+00:10:00,620 --> 00:10:03,040
+not high frequency, but it's something very distinct
+
+225
+00:10:03,040 --> 00:10:04,360
+from what everybody else is doing.
+
+226
+00:10:04,760 --> 00:10:06,820
+Now Berlekamp became fully in charge of the
+
+227
+00:10:06,820 --> 00:10:07,620
+Medallion Fund.
+
+228
+00:10:08,020 --> 00:10:10,160
+He started fully implementing his ideas.
+
+229
+00:10:10,800 --> 00:10:13,480
+He argued they should learn to handle trades
+
+230
+00:10:13,480 --> 00:10:14,140
+like casinos.
+
+231
+00:10:14,580 --> 00:10:17,260
+A casino doesn't care about any particular bet.
+
+232
+00:10:17,580 --> 00:10:20,120
+Even if you win like 10 times, a
+
+233
+00:10:20,120 --> 00:10:22,740
+casino is happy because it knows that in
+
+234
+00:10:22,740 --> 00:10:26,020
+the long run, the casino has the statistical
+
+235
+00:10:26,020 --> 00:10:26,780
+advantage.
+
+236
+00:10:27,380 --> 00:10:29,240
+This is what's called the law of large
+
+237
+00:10:29,240 --> 00:10:29,700
+numbers.
+
+238
+00:10:30,340 --> 00:10:33,980
+I think what Rentec adopted was the Kelly
+
+239
+00:10:33,980 --> 00:10:34,860
+Criterion.
+
+240
+00:10:35,760 --> 00:10:38,860
+This is what we call the scientific gambling
+
+241
+00:10:38,860 --> 00:10:39,400
+method.
+
+242
+00:10:40,220 --> 00:10:43,530
+To put it simply, your bet should be
+
+243
+00:10:43,530 --> 00:10:46,990
+proportional to how confident you are in your
+
+244
+00:10:46,990 --> 00:10:47,390
+bet.
+
+245
+00:10:47,890 --> 00:10:51,950
+The formula is your expected net winnings divided
+
+246
+00:10:51,950 --> 00:10:54,330
+by your net winnings if you win.
+
+247
+00:10:54,610 --> 00:10:56,670
+I think this is actually the secret sauce
+
+248
+00:10:56,670 --> 00:10:57,950
+for Renaissance Technologies.
+
+249
+00:10:58,350 --> 00:11:03,850
+They utilize massive compute power combined with the
+
+250
+00:11:03,850 --> 00:11:08,270
+scientific approach and to discover trading patterns and
+
+251
+00:11:08,270 --> 00:11:10,870
+validate them and trade based on them.
+
+252
+00:11:10,870 --> 00:11:16,450
+They keep collecting the patterns and anomalies and
+
+253
+00:11:16,450 --> 00:11:18,090
+that's how they stay ahead of the game.
+
+254
+00:11:18,410 --> 00:11:21,010
+Well, any one anomaly might be a random
+
+255
+00:11:21,010 --> 00:11:21,410
+thing.
+
+256
+00:11:21,550 --> 00:11:23,290
+However, if you have enough data, you can
+
+257
+00:11:23,290 --> 00:11:24,070
+tell that it's not.
+
+258
+00:11:24,610 --> 00:11:27,890
+So you can see an anomaly that's persisted
+
+259
+00:11:27,890 --> 00:11:29,170
+for a sufficiently long time.
+
+260
+00:11:29,250 --> 00:11:33,210
+So the probability of it being random is
+
+261
+00:11:33,210 --> 00:11:34,150
+not high.
+
+262
+00:11:34,550 --> 00:11:37,430
+But these things fade after a while.
+
+263
+00:11:37,430 --> 00:11:39,350
+Anomalies can get washed out.
+
+264
+00:11:39,530 --> 00:11:41,410
+So you have to keep on top of
+
+265
+00:11:41,410 --> 00:11:41,690
+this.
+
+266
+00:11:42,070 --> 00:11:44,710
+The firm implemented its new approach in late
+
+267
+00:11:44,710 --> 00:11:48,450
+1989 with a $27 million Simon's have put
+
+268
+00:11:48,450 --> 00:11:48,690
+up.
+
+269
+00:11:48,870 --> 00:11:52,710
+The results were almost immediate and startling.
+
+270
+00:11:53,270 --> 00:11:55,750
+They did more trading than ever, cutting Medallion's
+
+271
+00:11:55,750 --> 00:11:57,610
+average holding time to just a day and
+
+272
+00:11:57,610 --> 00:11:58,990
+a half and from a week and a
+
+273
+00:11:58,990 --> 00:12:01,930
+half scoring profits almost every day.
+
+274
+00:12:02,390 --> 00:12:05,590
+The Medallion scored a gain of 55.9
+
+275
+00:12:05,590 --> 00:12:07,250
+% in 1990.
+
+276
+00:12:07,870 --> 00:12:10,570
+The incredible streak has begun.
+
+277
+00:12:14,780 --> 00:12:16,960
+Simon's personal wealth soared.
+
+278
+00:12:17,480 --> 00:12:19,900
+He's never hesitant to pay his employee a
+
+279
+00:12:19,900 --> 00:12:20,440
+lot of money.
+
+280
+00:12:20,880 --> 00:12:23,220
+So Jim Simons bought a yacht and every
+
+281
+00:12:23,220 --> 00:12:25,460
+year he would bring his employees on his
+
+282
+00:12:25,460 --> 00:12:27,760
+yacht to all the luxurious places in the
+
+283
+00:12:27,760 --> 00:12:28,600
+world you can imagine.
+
+284
+00:12:36,450 --> 00:12:38,570
+Simon's wanted to have more money to make
+
+285
+00:12:38,570 --> 00:12:39,890
+real changes to the world.
+
+286
+00:12:40,270 --> 00:12:42,490
+He needed to expand his hedge fund business
+
+287
+00:12:42,490 --> 00:12:43,490
+even more.
+
+288
+00:12:44,290 --> 00:12:46,830
+The only way to do that was getting
+
+289
+00:12:46,830 --> 00:12:48,110
+into the equity business.
+
+290
+00:12:48,770 --> 00:12:51,230
+So far, the Medallion fund has been very
+
+291
+00:12:51,230 --> 00:12:54,070
+successful at trading commodities, but it was capped
+
+292
+00:12:54,070 --> 00:12:56,190
+at $10 billion till this day.
+
+293
+00:12:56,730 --> 00:12:58,810
+So when a hedge fund gets big, every
+
+294
+00:12:58,810 --> 00:13:01,250
+trade it makes, it gets bigger.
+
+295
+00:13:01,550 --> 00:13:02,770
+So when we have a big trade like
+
+296
+00:13:02,770 --> 00:13:04,590
+that, it takes a long time for it
+
+297
+00:13:04,590 --> 00:13:06,610
+to execute in the marketplace.
+
+298
+00:13:07,150 --> 00:13:09,810
+Suppose you're trying to buy 10 million shares
+
+299
+00:13:09,810 --> 00:13:10,470
+of Apple.
+
+300
+00:13:10,950 --> 00:13:12,390
+It's going to take a while for the
+
+301
+00:13:12,390 --> 00:13:13,370
+market to fill that order.
+
+302
+00:13:13,830 --> 00:13:15,830
+And by the time the orders are filled,
+
+303
+00:13:16,010 --> 00:13:17,490
+you might not actually get the price you
+
+304
+00:13:17,490 --> 00:13:18,210
+originally planned.
+
+305
+00:13:19,390 --> 00:13:21,310
+And Warren Buffett is having the same problem.
+
+306
+00:13:21,550 --> 00:13:23,170
+That's why he's saying that he's looking for
+
+307
+00:13:23,170 --> 00:13:26,310
+elephants now because the amount of stocks that
+
+308
+00:13:26,310 --> 00:13:29,090
+he can have are so few nowadays.
+
+309
+00:13:30,390 --> 00:13:32,710
+They created a similar model to trade equities,
+
+310
+00:13:33,050 --> 00:13:35,110
+but it fails to deliver great returns.
+
+311
+00:13:35,950 --> 00:13:38,470
+Simon's again knew exactly what to do.
+
+312
+00:13:39,270 --> 00:13:42,810
+He hired two top scientists from IBM and
+
+313
+00:13:42,810 --> 00:13:45,710
+started tasking them with creating equity models.
+
+314
+00:13:47,290 --> 00:13:50,030
+Peter Brown and Robert Mercer were experts in
+
+315
+00:13:50,030 --> 00:13:51,290
+natural language processing.
+
+316
+00:13:51,290 --> 00:13:53,530
+It took them more than two years to
+
+317
+00:13:53,530 --> 00:13:56,650
+solve this problem while their equity models kept
+
+318
+00:13:56,650 --> 00:13:57,310
+losing money.
+
+319
+00:13:58,890 --> 00:14:01,370
+They discovered the reason why the mean reversion
+
+320
+00:14:01,370 --> 00:14:03,610
+models don't perform as well is due to
+
+321
+00:14:03,610 --> 00:14:05,250
+the execution of the trade.
+
+322
+00:14:05,970 --> 00:14:08,390
+Their equity models were great at picking out
+
+323
+00:14:08,390 --> 00:14:11,610
+best correctly, but they were too unrealistic with
+
+324
+00:14:11,610 --> 00:14:14,470
+the execution of those trades, such as market
+
+325
+00:14:14,470 --> 00:14:15,910
+impact and slippage.
+
+326
+00:14:15,910 --> 00:14:18,490
+So if you trade any stocks, you immediately
+
+327
+00:14:18,490 --> 00:14:20,710
+realize that you do not get the market
+
+328
+00:14:20,710 --> 00:14:21,850
+price all the time.
+
+329
+00:14:22,370 --> 00:14:24,570
+This is the problem with the academia.
+
+330
+00:14:25,270 --> 00:14:27,850
+So whatever paper you read, they always assume
+
+331
+00:14:27,850 --> 00:14:29,410
+that you can get the market price.
+
+332
+00:14:30,150 --> 00:14:31,950
+But the market is a group of buyers
+
+333
+00:14:31,950 --> 00:14:34,610
+and sellers constantly negotiating prices.
+
+334
+00:14:35,370 --> 00:14:37,730
+And if you participate in that market, you
+
+335
+00:14:37,730 --> 00:14:40,090
+do not always get the market price.
+
+336
+00:14:40,610 --> 00:14:42,750
+Brown and Mercer realized that their strategy needs
+
+337
+00:14:42,750 --> 00:14:44,450
+to model this aspect as well.
+
+338
+00:14:45,010 --> 00:14:47,230
+And minimize the trading cost.
+
+339
+00:14:48,110 --> 00:14:50,810
+Once they solved the problem, Rentek has entered
+
+340
+00:14:50,810 --> 00:14:52,110
+into a new age.
+
+341
+00:14:52,890 --> 00:14:55,650
+Jim Simons went on a capital raise roadshow
+
+342
+00:14:55,650 --> 00:14:58,250
+and expanded its asset under management to the
+
+343
+00:14:58,250 --> 00:14:58,830
+next level.
+
+344
+00:14:59,650 --> 00:15:02,550
+By 2000, the firm was managing $6 billion
+
+345
+00:15:02,550 --> 00:15:04,950
+with 140 employees.
+
+346
+00:15:05,690 --> 00:15:07,390
+And the rest is history.
+
+347
+00:15:10,150 --> 00:15:12,750
+By 2020, Simons retired from Rentek.
+
+348
+00:15:13,130 --> 00:15:15,210
+That year he made over $1 billion.
+
+349
+00:15:16,470 --> 00:15:19,570
+What really separates Jim Simons apart is his
+
+350
+00:15:19,570 --> 00:15:24,250
+ability to hire talents and to create an
+
+351
+00:15:24,250 --> 00:15:26,450
+environment that the smartest people in the world
+
+352
+00:15:26,450 --> 00:15:28,770
+utilize the maximum potential.
+
+353
+00:15:29,550 --> 00:15:32,410
+And more importantly, Jim Simons insisted on using
+
+354
+00:15:32,410 --> 00:15:35,830
+the scientific method to discover patterns and anomalies,
+
+355
+00:15:36,150 --> 00:15:37,690
+instead of using the gut intuition.
+
+356
+00:15:38,590 --> 00:15:39,870
+It's an open atmosphere.
+
+357
+00:15:40,710 --> 00:15:42,610
+Everybody knows what everybody else is doing.
+
+358
+00:15:43,430 --> 00:15:45,490
+And every week there's a research meeting.
+
+359
+00:15:45,690 --> 00:15:47,310
+If you've had a good idea that you
+
+360
+00:15:47,310 --> 00:15:49,050
+think it's going to go somewhere, you present
+
+361
+00:15:49,050 --> 00:15:49,310
+it.
+
+362
+00:15:49,950 --> 00:15:52,090
+If it looks good, it goes to a
+
+363
+00:15:52,090 --> 00:15:52,630
+small meeting.
+
+364
+00:15:52,770 --> 00:15:53,910
+People vet it more carefully.
+
+365
+00:15:54,110 --> 00:15:57,350
+But there aren't little groups working in the
+
+366
+00:15:57,350 --> 00:15:57,670
+dark.
+
+367
+00:15:57,790 --> 00:15:59,610
+Oh, this is my little system, and I
+
+368
+00:15:59,610 --> 00:16:00,250
+want you to use it.
+
+369
+00:16:00,630 --> 00:16:02,410
+And that's the best way to do science,
+
+370
+00:16:02,490 --> 00:16:02,830
+I think.
+
+371
+00:16:03,590 --> 00:16:05,930
+Since Simons left the firm, Rentek has still
+
+372
+00:16:05,930 --> 00:16:07,550
+been beating the market consistently.
+
+373
+00:16:08,450 --> 00:16:11,690
+The fund is so successful, almost to a
+
+374
+00:16:11,690 --> 00:16:12,370
+mythical level.
+
+375
+00:16:13,450 --> 00:16:15,950
+But as we now see, there is no
+
+376
+00:16:15,950 --> 00:16:16,410
+mystery.
+
+377
+00:16:17,550 --> 00:16:20,070
+Behind the firm's success is Jim Simons' ability
+
+378
+00:16:20,070 --> 00:16:24,490
+to gather talents, and also his will to
+
+379
+00:16:24,490 --> 00:16:25,070
+succeed.
+
+380
+00:16:29,460 --> 00:16:30,440
+Don't give up.
+
+381
+00:16:31,720 --> 00:16:37,260
+Now, sometimes, discretion is the better part of
+
+382
+00:16:37,260 --> 00:16:38,820
+valor, and you can just say to hell
+
+383
+00:16:38,820 --> 00:16:39,420
+with it.
+
+384
+00:16:39,420 --> 00:16:42,200
+But, and go on to something else, and
+
+385
+00:16:42,200 --> 00:16:44,660
+that's a decision we've all made at one
+
+386
+00:16:44,660 --> 00:16:45,280
+time or another.
+
+387
+00:16:45,860 --> 00:16:49,940
+But persistence has a lot of value, and
+
+388
+00:16:49,940 --> 00:16:53,500
+something that's really worthwhile can take a lot
+
+389
+00:16:53,500 --> 00:16:55,140
+of time to come to fruition, and you
+
+390
+00:16:55,140 --> 00:16:57,760
+ought to have patience if you believe in
+
+391
+00:16:57,760 --> 00:16:58,320
+something.

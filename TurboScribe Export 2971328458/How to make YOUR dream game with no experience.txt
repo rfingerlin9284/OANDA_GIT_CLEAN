@@ -1,0 +1,72 @@
+(0:00 - 3:07)
+So, you want to make a game. You got a perfect dream game idea, with everything already planned in your head, but you don't know how to code, let alone how to make a game? Well, you have come to the right place. I am going to share with you a few tips and tricks to help you get started on your very own dream game. 
+
+You're ready? Alright, here we go. Tip number one, don't. Okay, alright, well, what I mean by that is, you can't just run straight to the final boss right away, you know? You gotta play the tutorial first. 
+
+It's the same for game development. Every single time I've tried to learn a new game engine, just so I could make a single game idea I had in mind, I failed miserably. Instead, the only times I was able to make a game was when either A. I was just messing around with the engine and adding random stuff for fun, or B. I already knew how to use the engine and had a game idea that would work well on it. 
+
+You see, game development has a steep learning curve, and when you know nothing, it can all seem extremely daunting. Not only do you need to learn how to use a game engine, you need to learn some sort of programming language and basic game making concepts. And if you're one of those people who give up immediately after trying something new, just because you're not super good at it right away, you're gonna have a hard time. 
+
+If that's the case, my first real tip for you is, do not try to learn Unity or Unreal. These are for the big boys only, alright? You should start really really small, and lower your expectations on yourself. In fact, you'll have to start from Scratch. 
+
+Literally. So, Scratch is a game engine that uses its very own programming language, and you can both play and make Scratch games directly on the website. Instead of writing code, you use little blocks of pseudocode and put them together to create logic. 
+
+And in my opinion, this is the best way to learn programming and basic game logic. Unlike with say, Unity, here you don't have to worry about learning the engine. Everything is super straightforward and neatly organized, so you can focus on learning. 
+
+Scratch also comes with a sprite editor that uses vector graphics, which means that instead of drawing with pixels, you draw using shapes, which means they can be scaled and moved as much as you want without ever losing quality. As you may have seen in the background, I made a very simple little game as a demonstration. You have red balls coming at you from both sides of the screen, and you avoid them by moving the cat with the arrow keys. 
+
+Once you get hit three times, it's game over. I made all of that in just under 20 minutes. It's pretty simple, but it just goes to show how easy to use Scratch is.
+
+(3:08 - 7:55)
+Now, don't get me wrong, you can make really impressive things on Scratch. People have made 3D games with it in the past, but that's more for the kind of people who do it just for the challenge. You know, the kind of people who port Doom on any electronic device just for fun. 
+
+But that's not what we're here for today. Now, some of you might be thinking, why should I learn how to use Scratch when I could be learning how to code instead? And to that I say, coding, and by extension, learning how to code, is much, much easier when you already understand programming logic. Once you know how to program, you basically already know how to code, and all you need to learn is the structure and syntax of the language. 
+
+Alright, so, you've used Scratch for a little while now, and made a couple little games, and you're starting to get a feel for programming. You're now probably ready for the next step. Unless you think you can make your dream game on Scratch, in which case, I will not stop you. 
+
+But if that's not the case, you'll be asking yourself the question that every single new game developer will ask themselves. What engine should I use? And that's a really good question, so let's go over some popular game engines. I'll start with some simpler ones, and then we can work our way up in difficulty. 
+
+Assuming you don't want to learn how to code, there are codeless engines out there that you can use, like GDevelop and Construct. I've never actually used them, but I'm sure they're great for beginners. Also, they're both free to use. 
+
+Next up is GameMaker Studio 2. I've only ever used the OG GameMaker, but it's probably about the same. You can use both visual programming and code, so I guess it's got a little something for everyone. It's responsible for popular indie games like Deltarune and Pizza Tower, so you can absolutely make some pretty good games with it. 
+
+It's also free to use, but if you want to publish your game, you need to pay for a subscription. RPG Maker is a little more niche. I'm not going to go into too much detail because I plan to make a video on it eventually, but if you want to make a simple top-down story-focused game with no major unique gameplay mechanics, then yeah, RPG Maker is great. 
+
+It's mostly codeless, but you are allowed to fully customize the game if you do know how to code. Otherwise, the engine is pretty limited. It does cost money, but there's a 30-day free trial you can use to see if you like it first. 
+
+Click Team Fusion, the engine that brought us both Five Nights at Freddy's and Baba is You. It's completely codeless and can be surprisingly powerful, and I really like how it lets you easily access and modify data from every object from anywhere in the code. Oh, but it's also the engine with the highest price that I know of. 
+
+I mean like, okay look at this. Base engine is $100, add-on with extra features $60, 3D game tools $80. What's this? You want to port your game to something that's not a Windows computer? Well, better pay up, pal. 
+
+Mac exporter $50, web page exporter $70, Android and iOS exporter $100 each. Developer upgrade $300. If you want the full complete Click Team experience, it'll cost you $860. 
+
+There is a free version you can use forever, but it's very limited. Alright, now all of the engines I've looked at so far have been primarily 2D focused, but if you want something that can do 3D, you'll have to use one of the big three. Unity, Unreal, and Godot. 
+
+Now I absolutely don't recommend using any of these as your first game engine, but if you really need to, then Godot engine is by far the most beginner-friendly out of the three. However, it's also by far the least popular, which means it's a lot harder to find help and support. In contrast, Unity has like a bajillion tutorials out there. 
+
+Oh, but Godot is 100% free, so you can publish and monetize your game with no subscriptions or royalties whatsoever. No pro version with extra features. You have access to the whole thing for free.
+
+(8:02 - 10:19)
+So, now that you've chosen your engine, you can start working on your dream game, right? Wrong. Don't start working on that dream game of yours unless you know for sure you know the engine well enough that it seems doable. Otherwise, you'll just quit halfway when you realize it's harder than you expected. 
+
+Try to remember this quote. Don't learn the engine to make a game. Make a game to learn the engine. 
+
+That's a quote from me. I made it up. But essentially, the best way to learn any engine is by making very small and simple games and slowly increasing in complexity. 
+
+You can't just watch a tutorial and expect to understand everything about the engine right away. Oh yeah, speaking of which, let's talk about tutor- Tutorials won't make the game for you, and you shouldn't use tutorials to make your entire game. If you're using a new engine for the first time, or really, any new program, then yes, you should probably watch a tutorial just to know the very basics and see where everything is and see what each button does. 
+
+But beyond that, you should try to learn on your own as much as possible. The fun of gamedev is experimenting and trying things out for yourself, seeing what works and what doesn't. Because personally, I learn much better from first-hand experience. 
+
+But I didn't always knew that. When I was a kid, I wanted to learn Game Maker, and so I watched a tutorial on how to make a full game from start to finish, and I followed it every step of the way. But as soon as something didn't work, I had no idea what to do. 
+
+That's because I learned nothing, and I remembered nothing. All I was doing was copying the video. So, don't do that. 
+
+In short, when learning a new game engine, don't go into it with any goals in mind. Just try things out and experiment. Start by making extremely simple and basic games, and if there is one mechanic in particular that you're not able to implement, and you really tried, then yeah, you should go look up a tutorial.
+
+(10:21 - 10:47)
+Before I finish this video, I'd like to touch on one last subject, and that's why should you make games? Now, we all have our own reasons for making games. Maybe you want to make a shitty mobile game for ad money, or maybe you're just trying out a new hobby and making games just for yourself. And that's good enough of a reason, but at the end of the day, games are made to be played.
+
+(10:47 - 11:22)
+Undoubtedly, my favorite part of making games is seeing people play them. There is genuinely no better feeling in the world than to see a loved one play and enjoy something that you made. It makes all the pain and suffering you went through while making your game feel completely worth it in the end. 
+
+Really, it's... it's the best. So, what are you waiting for? Go out there and go make some games. And make sure you have fun, alright?

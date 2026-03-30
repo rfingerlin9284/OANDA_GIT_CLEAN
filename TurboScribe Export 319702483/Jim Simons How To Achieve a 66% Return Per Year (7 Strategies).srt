@@ -1,0 +1,1467 @@
+1
+00:00:00,190 --> 00:00:01,270
+What if I told you that there was
+
+2
+00:00:01,270 --> 00:00:04,150
+an investor who achieved much higher returns than
+
+3
+00:00:04,150 --> 00:00:07,290
+Warren Buffett, Ray Dalio, Peter Lynch, George Soros,
+
+4
+00:00:07,410 --> 00:00:09,870
+Charlie Munger, and essentially all of the other
+
+5
+00:00:09,870 --> 00:00:11,790
+great investors that you can think of.
+
+6
+00:00:11,890 --> 00:00:14,050
+Not only did he beat them, his returns
+
+7
+00:00:14,050 --> 00:00:16,310
+blew theirs out of the water.
+
+8
+00:00:16,650 --> 00:00:18,270
+So if we look at this, Warren Buffett's
+
+9
+00:00:18,270 --> 00:00:22,230
+annual average return is 20.1%, Dalio's 13%,
+
+10
+00:00:22,230 --> 00:00:26,370
+Lynch 29.2%, Soros 20%, Charlie Munger 19
+
+11
+00:00:26,370 --> 00:00:32,370
+.8%, Jim Simmons 66% average return.
+
+12
+00:00:32,730 --> 00:00:34,010
+Out of all of the investors that I've
+
+13
+00:00:34,010 --> 00:00:37,450
+studied, no one has got a yield anywhere
+
+14
+00:00:37,450 --> 00:00:39,010
+near close to his.
+
+15
+00:00:39,430 --> 00:00:40,650
+And this is not just over one or
+
+16
+00:00:40,650 --> 00:00:43,150
+two years, this is over the past 31
+
+17
+00:00:43,150 --> 00:00:46,810
+years of consistently just destroying the market.
+
+18
+00:00:47,350 --> 00:00:49,910
+To put that into perspective at how impressive
+
+19
+00:00:49,910 --> 00:00:52,830
+that is, if you invest at $100 and
+
+20
+00:00:52,830 --> 00:00:55,510
+were able to achieve a 66% return
+
+21
+00:00:55,510 --> 00:01:00,310
+every year, after 31 years, that $100 would
+
+22
+00:01:00,310 --> 00:01:05,390
+be worth $665,810,000.
+
+23
+00:01:05,910 --> 00:01:10,490
+To regularly achieve something that high is unheard
+
+24
+00:01:10,490 --> 00:01:13,610
+of until Jim Simmons came along.
+
+25
+00:01:13,910 --> 00:01:15,930
+But how did he do it?
+
+26
+00:01:20,140 --> 00:01:23,640
+Jim Simmons relies on quantitative analysis to decide
+
+27
+00:01:23,640 --> 00:01:24,780
+the trades he makes.
+
+28
+00:01:24,940 --> 00:01:26,500
+He's a numbers man, he was a math
+
+29
+00:01:26,500 --> 00:01:29,240
+genius growing up, getting a bachelor's and PhD
+
+30
+00:01:29,240 --> 00:01:31,120
+in mathematics when he was young.
+
+31
+00:01:31,260 --> 00:01:34,040
+Just for some reason, math turned him on.
+
+32
+00:01:34,400 --> 00:01:36,540
+Now, the old excuse is, when do you
+
+33
+00:01:36,540 --> 00:01:38,500
+ever use math in the real world?
+
+34
+00:01:38,820 --> 00:01:41,440
+Well, Jim Simmons was about to answer this
+
+35
+00:01:41,440 --> 00:01:43,060
+question in a big way.
+
+36
+00:01:43,280 --> 00:01:46,020
+He used his math skill to become uber
+
+37
+00:01:46,020 --> 00:01:46,580
+-rich.
+
+38
+00:01:47,040 --> 00:01:49,260
+Originally, he used it to break codes with
+
+39
+00:01:49,260 --> 00:01:52,040
+the National Security Agency, as well as teaching
+
+40
+00:01:52,040 --> 00:01:52,820
+at MIT.
+
+41
+00:01:52,820 --> 00:01:56,040
+Although this paid good on a relative scale,
+
+42
+00:01:56,460 --> 00:01:58,620
+this is not generally the profession you'd go
+
+43
+00:01:58,620 --> 00:02:00,760
+for to amass a fortune.
+
+44
+00:02:01,140 --> 00:02:02,940
+He then made the decision that he wants
+
+45
+00:02:02,940 --> 00:02:06,220
+to step into finance and trading, where the
+
+46
+00:02:06,220 --> 00:02:07,000
+real money is.
+
+47
+00:02:07,539 --> 00:02:11,180
+Now, naturally, Simmons keeps his trading secrets behind
+
+48
+00:02:11,180 --> 00:02:13,020
+closed doors as much as possible.
+
+49
+00:02:13,620 --> 00:02:15,340
+Of course, if you had a fund earning
+
+50
+00:02:15,340 --> 00:02:18,360
+a 66% return every year, making you
+
+51
+00:02:18,360 --> 00:02:20,960
+a multi-billionaire, you probably wouldn't tell your
+
+52
+00:02:20,960 --> 00:02:21,760
+secrets either.
+
+53
+00:02:21,760 --> 00:02:25,120
+However, there is quite a bit that has
+
+54
+00:02:25,120 --> 00:02:28,540
+gotten through the cracks on his trading strategies.
+
+55
+00:02:28,700 --> 00:02:29,960
+So in this video, we're going to go
+
+56
+00:02:29,960 --> 00:02:32,540
+over seven of his key strategies that Simmons
+
+57
+00:02:32,540 --> 00:02:35,140
+used to trade in the market.
+
+58
+00:02:39,780 --> 00:02:43,180
+Back in 1982, quantitative analysis was not a
+
+59
+00:02:43,180 --> 00:02:43,480
+thing.
+
+60
+00:02:43,800 --> 00:02:45,900
+The models that we see traders use today,
+
+61
+00:02:46,380 --> 00:02:47,900
+no one had thought of.
+
+62
+00:02:48,080 --> 00:02:51,180
+So people generally relied a lot on perception
+
+63
+00:02:51,180 --> 00:02:53,480
+and homemade systems to trade.
+
+64
+00:02:53,780 --> 00:02:56,420
+For the first two years, Simmons did just
+
+65
+00:02:56,420 --> 00:02:56,800
+this.
+
+66
+00:02:56,900 --> 00:03:00,200
+He used ordinary, fundamental, and technical approaches to
+
+67
+00:03:00,200 --> 00:03:01,120
+trade in the market.
+
+68
+00:03:01,340 --> 00:03:03,600
+A lot of it was based around intuition
+
+69
+00:03:03,600 --> 00:03:04,700
+and instinct.
+
+70
+00:03:04,900 --> 00:03:06,940
+No models for the first two years, like
+
+71
+00:03:06,940 --> 00:03:08,060
+normal people do.
+
+72
+00:03:08,640 --> 00:03:10,360
+It was a similar approach to the way
+
+73
+00:03:10,360 --> 00:03:13,660
+everyday regular traders trade in the market today,
+
+74
+00:03:13,980 --> 00:03:17,380
+except, unlike most, Jim actually made money.
+
+75
+00:03:17,540 --> 00:03:20,000
+Because one, he was a math genius, and
+
+76
+00:03:20,000 --> 00:03:22,320
+two, because back in those days, there were
+
+77
+00:03:22,320 --> 00:03:23,740
+so many more opportunities.
+
+78
+00:03:24,260 --> 00:03:26,900
+Less competition, less computers trying to arbitrage the
+
+79
+00:03:26,900 --> 00:03:27,240
+market.
+
+80
+00:03:27,920 --> 00:03:29,760
+So he was able to make a decent
+
+81
+00:03:29,760 --> 00:03:31,480
+amount of money this way, but at least
+
+82
+00:03:31,480 --> 00:03:33,700
+according to Jim, he felt that it was
+
+83
+00:03:33,700 --> 00:03:37,280
+mainly luck and also emotionally draining, not knowing
+
+84
+00:03:37,280 --> 00:03:39,000
+if you're going to be making profits the
+
+85
+00:03:39,000 --> 00:03:40,300
+next day or not.
+
+86
+00:03:40,580 --> 00:03:42,080
+We were extremely successful.
+
+87
+00:03:42,260 --> 00:03:43,800
+I think it was just plain good luck,
+
+88
+00:03:43,920 --> 00:03:45,460
+but nonetheless, we were very successful.
+
+89
+00:03:45,640 --> 00:03:47,620
+But this was a very gut-wrenching business.
+
+90
+00:03:47,620 --> 00:03:48,940
+You know, you come in one morning, you
+
+91
+00:03:48,940 --> 00:03:50,680
+think you're a genius, and the next morning
+
+92
+00:03:50,680 --> 00:03:52,020
+you come and you feel like a jerk.
+
+93
+00:03:52,180 --> 00:03:53,160
+The market's against you.
+
+94
+00:03:53,360 --> 00:03:56,040
+He disliked the emotional side of trading, and
+
+95
+00:03:56,040 --> 00:03:57,860
+he wanted to find a way where you
+
+96
+00:03:57,860 --> 00:04:01,240
+could almost guarantee that money would be made.
+
+97
+00:04:01,540 --> 00:04:03,960
+Kind of like at a casino, the house
+
+98
+00:04:03,960 --> 00:04:06,380
+is always going to profit because the odds
+
+99
+00:04:06,380 --> 00:04:07,820
+are rigged in their favor.
+
+100
+00:04:08,160 --> 00:04:10,120
+They don't get emotional, they just want you
+
+101
+00:04:10,120 --> 00:04:10,940
+to keep playing.
+
+102
+00:04:11,640 --> 00:04:14,160
+Simmons aspired to create a model like this,
+
+103
+00:04:14,160 --> 00:04:16,860
+but for trading in the stock market, where
+
+104
+00:04:16,860 --> 00:04:19,459
+if you just keep trading, you're guaranteed to
+
+105
+00:04:19,459 --> 00:04:21,780
+win because the odds are in your favor.
+
+106
+00:04:27,220 --> 00:04:29,280
+In order to do this, Simmons needed a
+
+107
+00:04:29,280 --> 00:04:29,880
+lot of data.
+
+108
+00:04:30,280 --> 00:04:33,360
+For a quantitative analyst, data is obviously key,
+
+109
+00:04:33,680 --> 00:04:36,620
+and he would gather information on everything.
+
+110
+00:04:36,840 --> 00:04:41,740
+Weather, annual reports, monthly, quarterly reports, the historic
+
+111
+00:04:41,740 --> 00:04:43,860
+data itself, volumes, you name it.
+
+112
+00:04:43,940 --> 00:04:44,720
+Whatever there is.
+
+113
+00:04:44,980 --> 00:04:47,200
+We take in terabytes of data a day.
+
+114
+00:04:47,200 --> 00:04:49,040
+So his team would gather all of this
+
+115
+00:04:49,040 --> 00:04:52,980
+data up, backtrack it across history, and search
+
+116
+00:04:52,980 --> 00:04:54,040
+for anomalies.
+
+117
+00:04:54,500 --> 00:04:58,040
+Where is there something consistently odd happening that
+
+118
+00:04:58,040 --> 00:04:59,380
+I can profit from?
+
+119
+00:04:59,720 --> 00:05:02,660
+And the anomaly might be something like, every
+
+120
+00:05:02,660 --> 00:05:05,600
+time the date is leading into Christmas, the
+
+121
+00:05:05,600 --> 00:05:07,260
+stock would increase in price.
+
+122
+00:05:07,620 --> 00:05:10,420
+Most investors would try explaining the reasons why.
+
+123
+00:05:10,880 --> 00:05:13,860
+Simmons did not care why, he just cared
+
+124
+00:05:13,860 --> 00:05:16,580
+that the data showed it consistently happened.
+
+125
+00:05:16,580 --> 00:05:19,340
+And once he found the anomaly, he simply
+
+126
+00:05:19,340 --> 00:05:22,060
+would buy the stock leading into Christmas, and
+
+127
+00:05:22,060 --> 00:05:24,880
+sell after Christmas, each time making a profit.
+
+128
+00:05:25,540 --> 00:05:27,900
+That is a simple example of anomaly trading.
+
+129
+00:05:28,340 --> 00:05:30,860
+But Simmons would do this across thousands of
+
+130
+00:05:30,860 --> 00:05:34,800
+data sets, and search where the abnormalities were
+
+131
+00:05:34,800 --> 00:05:36,780
+that he could benefit from.
+
+132
+00:05:41,860 --> 00:05:44,800
+Secondly, he and his team would look for
+
+133
+00:05:44,800 --> 00:05:45,360
+trends.
+
+134
+00:05:45,720 --> 00:05:48,220
+This was an approach that worked very well
+
+135
+00:05:48,220 --> 00:05:49,520
+in the early days of trading.
+
+136
+00:05:49,520 --> 00:05:51,960
+The best place to go find trends, at
+
+137
+00:05:51,960 --> 00:05:53,600
+least back in the day, was in the
+
+138
+00:05:53,600 --> 00:05:54,760
+commodity market.
+
+139
+00:05:54,960 --> 00:05:57,660
+Copper, gold, silver, oil, corn, wheat.
+
+140
+00:05:58,000 --> 00:06:00,800
+These things would often follow a pattern.
+
+141
+00:06:01,380 --> 00:06:03,820
+So here's a simple example of the price
+
+142
+00:06:03,820 --> 00:06:06,080
+data of a commodity for a year.
+
+143
+00:06:06,320 --> 00:06:07,200
+We'll say it's wheat.
+
+144
+00:06:07,740 --> 00:06:09,720
+Simmons would zoom in on a smaller time
+
+145
+00:06:09,720 --> 00:06:12,500
+frame, say 20 days, and he would notice
+
+146
+00:06:12,500 --> 00:06:14,660
+that the commodity is trending.
+
+147
+00:06:14,660 --> 00:06:17,780
+Maybe it's trending upwards because less farmers are
+
+148
+00:06:17,780 --> 00:06:20,080
+able to sell during this time, or trending
+
+149
+00:06:20,080 --> 00:06:22,040
+downwards because of oversupply.
+
+150
+00:06:22,360 --> 00:06:24,740
+As we said before, Simmons doesn't care on
+
+151
+00:06:24,740 --> 00:06:25,520
+the reasons why.
+
+152
+00:06:25,780 --> 00:06:27,200
+All he cares about is that it is
+
+153
+00:06:27,200 --> 00:06:28,500
+happening, and how he can profit.
+
+154
+00:06:29,040 --> 00:06:31,260
+So if it was trending upwards, he would
+
+155
+00:06:31,260 --> 00:06:33,140
+trade it and buy, and if it was
+
+156
+00:06:33,140 --> 00:06:35,200
+downwards, he could short it, and make some
+
+157
+00:06:35,200 --> 00:06:36,220
+profit on the way down.
+
+158
+00:06:36,420 --> 00:06:38,960
+This system worked very well for him early
+
+159
+00:06:38,960 --> 00:06:41,140
+on, even though it sounds quite easy.
+
+160
+00:06:41,140 --> 00:06:43,660
+But after a while, people started to catch
+
+161
+00:06:43,660 --> 00:06:46,060
+on with this method, and it became more
+
+162
+00:06:46,060 --> 00:06:47,220
+and more obsolete.
+
+163
+00:06:47,680 --> 00:06:50,740
+Years ago, such a system would work.
+
+164
+00:06:51,040 --> 00:06:52,780
+Not beautifully, but it would work.
+
+165
+00:06:52,880 --> 00:06:55,000
+So you'd make money, you'd lose money, you'd
+
+166
+00:06:55,000 --> 00:06:58,460
+make money, but it's a very vestigial system.
+
+167
+00:06:58,880 --> 00:07:01,000
+Simmons would need to upgrade his strategy if
+
+168
+00:07:01,000 --> 00:07:02,340
+he wanted to keep making money in the
+
+169
+00:07:02,340 --> 00:07:04,680
+market, or risk going bust.
+
+170
+00:07:09,870 --> 00:07:11,970
+In the book, The Man Who Solved the
+
+171
+00:07:11,970 --> 00:07:15,630
+Market, Gregory Zuckerman stated that Medallion, which is
+
+172
+00:07:15,630 --> 00:07:18,850
+Simmons' flagship fund that averages the 66%
+
+173
+00:07:18,850 --> 00:07:23,070
+return, earned profits from trending and reversion-predicting
+
+174
+00:07:23,070 --> 00:07:25,850
+signals, especially a one called Deja Vu.
+
+175
+00:07:26,250 --> 00:07:28,830
+Reversion, in terms of trading, is when a
+
+176
+00:07:28,830 --> 00:07:32,270
+price of a particular stock will revert back
+
+177
+00:07:32,270 --> 00:07:34,970
+to the average, or it will revert back
+
+178
+00:07:34,970 --> 00:07:36,210
+to a particular metric.
+
+179
+00:07:36,730 --> 00:07:39,410
+Sometimes it will fall below the average, sometimes
+
+180
+00:07:39,410 --> 00:07:42,170
+above, but the job of Simmons' team will
+
+181
+00:07:42,170 --> 00:07:44,050
+be to profit from these fluctuations.
+
+182
+00:07:44,050 --> 00:07:46,870
+For example, you would place a stock like
+
+183
+00:07:46,870 --> 00:07:48,910
+Apple in the algorithmic model.
+
+184
+00:07:49,370 --> 00:07:50,970
+Then, it would look at a bunch of
+
+185
+00:07:50,970 --> 00:07:51,970
+different data points.
+
+186
+00:07:52,190 --> 00:07:55,430
+Maybe revenue, book value, peg ratio, and the
+
+187
+00:07:55,430 --> 00:07:56,830
+price to tangible book value.
+
+188
+00:07:57,330 --> 00:07:58,870
+And next, it would start to look for
+
+189
+00:07:58,870 --> 00:07:59,290
+patterns.
+
+190
+00:07:59,690 --> 00:08:01,670
+Where would it see the same things happen
+
+191
+00:08:01,670 --> 00:08:02,690
+over and over again?
+
+192
+00:08:03,010 --> 00:08:04,990
+Where would you get that feel of Deja
+
+193
+00:08:04,990 --> 00:08:05,250
+Vu?
+
+194
+00:08:05,730 --> 00:08:07,570
+And maybe the model would spot that over
+
+195
+00:08:07,570 --> 00:08:10,930
+time, Apple generally has a price to tangible
+
+196
+00:08:10,930 --> 00:08:12,610
+book value of 43.
+
+197
+00:08:12,970 --> 00:08:15,650
+Sometimes it would dip below, sometimes above, but
+
+198
+00:08:15,650 --> 00:08:18,810
+the pattern would always revert back to 43.
+
+199
+00:08:19,290 --> 00:08:21,790
+Again, Simmons would see this, he wouldn't care
+
+200
+00:08:21,790 --> 00:08:23,730
+about the reasons why, he would just know
+
+201
+00:08:23,730 --> 00:08:24,530
+that it happens.
+
+202
+00:08:24,950 --> 00:08:27,250
+And he would take advantage of this pattern.
+
+203
+00:08:27,610 --> 00:08:29,830
+His firm would simply make a trade when
+
+204
+00:08:29,830 --> 00:08:32,809
+the price goes below 43, it reverts back
+
+205
+00:08:32,809 --> 00:08:34,370
+to 43, and he makes some profit.
+
+206
+00:08:34,730 --> 00:08:36,610
+If it goes above 43, he could short
+
+207
+00:08:36,610 --> 00:08:38,450
+the stock, and they would just keep doing
+
+208
+00:08:38,450 --> 00:08:40,929
+this until the pattern would change.
+
+209
+00:08:41,289 --> 00:08:44,410
+That's a basic example of reversion predicting signals.
+
+210
+00:08:44,890 --> 00:08:46,750
+And maybe in the early days, it was
+
+211
+00:08:46,750 --> 00:08:48,950
+as simple as just a few data points
+
+212
+00:08:48,950 --> 00:08:49,910
+that you can profit from.
+
+213
+00:08:50,230 --> 00:08:52,130
+But as more and more traders started to
+
+214
+00:08:52,130 --> 00:08:55,230
+click on to these techniques, Simmons would develop
+
+215
+00:08:55,230 --> 00:08:57,910
+more complicated models to profit in the market.
+
+216
+00:08:58,310 --> 00:09:00,750
+Instead of just simple pairs, he created a
+
+217
+00:09:00,750 --> 00:09:04,490
+fund that involved complex signals and equity trades.
+
+218
+00:09:04,490 --> 00:09:06,850
+It would go through all data it could
+
+219
+00:09:06,850 --> 00:09:10,270
+find on a particular stock, correlate multiple variables,
+
+220
+00:09:10,870 --> 00:09:13,070
+and then use machine learning and their models
+
+221
+00:09:13,070 --> 00:09:16,990
+to find irregularities where they can make profits.
+
+222
+00:09:22,310 --> 00:09:25,030
+In order to create models that could take
+
+223
+00:09:25,030 --> 00:09:27,830
+in such vast and complex amounts of data,
+
+224
+00:09:28,210 --> 00:09:31,290
+then find patterns, and then profit, Jim would
+
+225
+00:09:31,290 --> 00:09:33,950
+need to find a team of very smart
+
+226
+00:09:33,950 --> 00:09:35,690
+people, like the Avengers.
+
+227
+00:09:35,690 --> 00:09:37,810
+But instead of helping the planet, they would
+
+228
+00:09:37,810 --> 00:09:40,130
+help solve complex trading algorithms.
+
+229
+00:09:41,090 --> 00:09:44,130
+People with PhDs, doctorate degrees, top 1%
+
+230
+00:09:44,130 --> 00:09:46,330
+of IQs, people who could code.
+
+231
+00:09:46,930 --> 00:09:48,710
+Instead of going for people on Wall Street
+
+232
+00:09:48,710 --> 00:09:52,590
+and with finance backgrounds, Jim looked to universities.
+
+233
+00:09:53,190 --> 00:09:55,830
+He started hiring people with doctorate degrees in
+
+234
+00:09:55,830 --> 00:09:59,410
+math and physics, astronomers, and statisticians.
+
+235
+00:09:59,570 --> 00:10:01,970
+People who could solve complicated problems.
+
+236
+00:10:01,970 --> 00:10:04,730
+They didn't necessarily have to have a finance
+
+237
+00:10:04,730 --> 00:10:05,270
+background.
+
+238
+00:10:05,710 --> 00:10:07,390
+In fact, he didn't want this.
+
+239
+00:10:07,810 --> 00:10:10,330
+Simmons said the important thing was that they
+
+240
+00:10:10,330 --> 00:10:11,490
+were very smart.
+
+241
+00:10:11,770 --> 00:10:12,930
+I like to say that you can teach
+
+242
+00:10:12,930 --> 00:10:15,670
+a physicist finance, but you can't teach a
+
+243
+00:10:15,670 --> 00:10:16,970
+finance person physics.
+
+244
+00:10:17,610 --> 00:10:19,470
+And this great team of what can best
+
+245
+00:10:19,470 --> 00:10:22,570
+be described as nerds would begin to crack
+
+246
+00:10:22,570 --> 00:10:25,190
+the codes for trading in the stock market.
+
+247
+00:10:25,830 --> 00:10:28,530
+And the smart thing about Simmons' strategy was
+
+248
+00:10:28,530 --> 00:10:30,870
+that he didn't hire these people as employees,
+
+249
+00:10:30,870 --> 00:10:33,430
+he hired them as partners.
+
+250
+00:10:33,850 --> 00:10:35,430
+The only way that you can be an
+
+251
+00:10:35,430 --> 00:10:37,670
+owner in the medallion fund is to be
+
+252
+00:10:37,670 --> 00:10:38,690
+employed there.
+
+253
+00:10:38,950 --> 00:10:41,170
+So this way, all of these very smart
+
+254
+00:10:41,170 --> 00:10:44,330
+workers are incentivized to make as much money
+
+255
+00:10:44,330 --> 00:10:46,490
+as possible, because the money would not just
+
+256
+00:10:46,490 --> 00:10:49,250
+go to a company, but to themselves as
+
+257
+00:10:49,250 --> 00:10:49,590
+well.
+
+258
+00:10:49,850 --> 00:10:52,930
+So you have hundreds of these PhD level
+
+259
+00:10:52,930 --> 00:10:56,450
+geniuses, all with one incentive to make as
+
+260
+00:10:56,450 --> 00:10:58,270
+much money in the market as possible.
+
+261
+00:10:58,690 --> 00:11:00,350
+This was a recipe for success.
+
+262
+00:11:06,270 --> 00:11:09,450
+During the mid-1980s, a top researcher of
+
+263
+00:11:09,450 --> 00:11:13,630
+Simmons' team began identifying ghost patterns in market
+
+264
+00:11:13,630 --> 00:11:14,170
+prices.
+
+265
+00:11:14,770 --> 00:11:17,230
+So the project was based on similar code
+
+266
+00:11:17,230 --> 00:11:19,450
+cracking that Jim and his team had worked
+
+267
+00:11:19,450 --> 00:11:21,310
+on at the National Security Agency.
+
+268
+00:11:21,750 --> 00:11:24,090
+The main idea was to look for patterns
+
+269
+00:11:24,090 --> 00:11:26,850
+that others failed to detect and then profit
+
+270
+00:11:26,850 --> 00:11:27,370
+from it.
+
+271
+00:11:27,550 --> 00:11:29,890
+The medallion fund would feature a collection of
+
+272
+00:11:29,890 --> 00:11:33,370
+a minimum of 8,000 signals based on
+
+273
+00:11:33,370 --> 00:11:35,990
+the short-term patterns of the entire batch
+
+274
+00:11:35,990 --> 00:11:37,910
+of scientists who work for medallion.
+
+275
+00:11:38,410 --> 00:11:41,550
+The fund then leveraged these signals, aka they
+
+276
+00:11:41,550 --> 00:11:44,090
+borrowed money, to trade in the market countless
+
+277
+00:11:44,090 --> 00:11:45,130
+times per day.
+
+278
+00:11:45,550 --> 00:11:48,910
+Reports say that they borrowed around $17 for
+
+279
+00:11:48,910 --> 00:11:51,130
+every $1 that they invested.
+
+280
+00:11:51,670 --> 00:11:53,070
+And this was a bit of a secret
+
+281
+00:11:53,070 --> 00:11:56,050
+to their success, the fact that they didn't
+
+282
+00:11:56,050 --> 00:11:58,090
+even have to use their own money.
+
+283
+00:11:58,090 --> 00:12:00,450
+They could borrow the money, quickly make some
+
+284
+00:12:00,450 --> 00:12:02,510
+trades and profit, and then return the borrowed
+
+285
+00:12:02,510 --> 00:12:03,250
+amount back.
+
+286
+00:12:03,490 --> 00:12:05,090
+Or just do the same thing again and
+
+287
+00:12:05,090 --> 00:12:05,430
+again.
+
+288
+00:12:05,810 --> 00:12:08,470
+The co-chief executive of Simmons' company said
+
+289
+00:12:08,470 --> 00:12:11,890
+on an un-lavid basis, aka not borrowing,
+
+290
+00:12:12,310 --> 00:12:15,890
+our models produce modest returns with very low
+
+291
+00:12:15,890 --> 00:12:16,470
+volatility.
+
+292
+00:12:17,330 --> 00:12:20,450
+Borrowing money helped change these returns into something
+
+293
+00:12:20,450 --> 00:12:23,110
+that wasn't modest at all and basically put
+
+294
+00:12:23,110 --> 00:12:25,110
+the company's returns on steroids.
+
+295
+00:12:30,560 --> 00:12:34,800
+The beauty of hiring PhD nerds over regular
+
+296
+00:12:34,800 --> 00:12:37,460
+investors is that they would have one focus
+
+297
+00:12:37,460 --> 00:12:38,220
+on the numbers.
+
+298
+00:12:38,700 --> 00:12:42,280
+Astronomers, physicists, mathematicians, they don't worry too much
+
+299
+00:12:42,280 --> 00:12:45,120
+on the emotions of the market, what investors
+
+300
+00:12:45,120 --> 00:12:47,480
+are saying, the strength of the brand or
+
+301
+00:12:47,480 --> 00:12:48,480
+anything like that.
+
+302
+00:12:49,000 --> 00:12:50,780
+No, to them it's kind of like a
+
+303
+00:12:50,780 --> 00:12:53,760
+science experiment or putting together an equation.
+
+304
+00:12:54,040 --> 00:12:56,280
+The only thing that matters is the numbers
+
+305
+00:12:56,280 --> 00:12:58,260
+and making sure that they work.
+
+306
+00:12:58,260 --> 00:13:00,720
+So instead of solving problems on how to
+
+307
+00:13:00,720 --> 00:13:02,880
+get to space, or the force needed in
+
+308
+00:13:02,880 --> 00:13:06,200
+a rocket, or solving a physics calculation, they
+
+309
+00:13:06,200 --> 00:13:08,200
+would solve trading algorithms.
+
+310
+00:13:08,860 --> 00:13:11,020
+Just like a science experiment, you just need
+
+311
+00:13:11,020 --> 00:13:12,320
+to keep changing the variables.
+
+312
+00:13:12,720 --> 00:13:13,440
+Does this one work?
+
+313
+00:13:13,500 --> 00:13:14,280
+Does this one make profit?
+
+314
+00:13:14,480 --> 00:13:15,500
+No, let's try another.
+
+315
+00:13:15,740 --> 00:13:16,400
+Does this one work?
+
+316
+00:13:16,460 --> 00:13:17,320
+No, let's try another.
+
+317
+00:13:17,400 --> 00:13:17,860
+Does this one?
+
+318
+00:13:17,940 --> 00:13:18,940
+No, let's try another.
+
+319
+00:13:19,440 --> 00:13:21,500
+And they'll just keep fiddling with the equation
+
+320
+00:13:21,500 --> 00:13:24,360
+and the variables until they find something that
+
+321
+00:13:24,360 --> 00:13:25,120
+makes them a profit.
+
+322
+00:13:25,120 --> 00:13:28,260
+By their very nature, they were perfectly suited
+
+323
+00:13:28,260 --> 00:13:29,460
+for this type of work.
+
+324
+00:13:34,860 --> 00:13:37,820
+As Jim Simmons was growing his fund, so
+
+325
+00:13:37,820 --> 00:13:40,600
+too was the rise of machine learning.
+
+326
+00:13:40,840 --> 00:13:42,880
+So machine learning is the ability of a
+
+327
+00:13:42,880 --> 00:13:46,840
+machine to use information to improve performance on
+
+328
+00:13:46,840 --> 00:13:48,400
+some set of tasks.
+
+329
+00:13:48,700 --> 00:13:52,540
+Whether that task be email filtering, speech recognition,
+
+330
+00:13:53,140 --> 00:13:57,040
+chess, or finding profitable trades in the stock
+
+331
+00:13:57,040 --> 00:13:57,520
+market.
+
+332
+00:13:57,980 --> 00:14:00,580
+Just like with chess, the machine can analyze
+
+333
+00:14:00,580 --> 00:14:03,720
+thousands of different moves and the consequences of
+
+334
+00:14:03,720 --> 00:14:04,900
+making each move.
+
+335
+00:14:05,140 --> 00:14:06,980
+It can predict if a move is beneficial
+
+336
+00:14:06,980 --> 00:14:09,040
+for the player or if it's going to
+
+337
+00:14:09,040 --> 00:14:10,380
+make the position worse.
+
+338
+00:14:10,780 --> 00:14:12,520
+And it's the same thing with a stock.
+
+339
+00:14:12,860 --> 00:14:16,300
+Machines can test thousands of different moves and
+
+340
+00:14:16,300 --> 00:14:18,900
+see which one leads to making money.
+
+341
+00:14:19,160 --> 00:14:20,620
+It's what's called machine learning.
+
+342
+00:14:20,620 --> 00:14:24,300
+So you find things that are predictive.
+
+343
+00:14:24,640 --> 00:14:27,520
+You might guess, oh, such and such should
+
+344
+00:14:27,520 --> 00:14:29,900
+be predictive, might be predictive, and you test
+
+345
+00:14:29,900 --> 00:14:31,180
+it out in the computer, and maybe it
+
+346
+00:14:31,180 --> 00:14:32,020
+isn't, maybe it isn't.
+
+347
+00:14:32,120 --> 00:14:34,600
+The beauty about machines is they can test
+
+348
+00:14:34,600 --> 00:14:38,180
+almost infinite amounts of data and theories in
+
+349
+00:14:38,180 --> 00:14:39,720
+the time it takes for a human to
+
+350
+00:14:39,720 --> 00:14:42,400
+test one thing, the machine can do a
+
+351
+00:14:42,400 --> 00:14:43,300
+million tests.
+
+352
+00:14:43,640 --> 00:14:46,360
+And Simmons realized this very early on, so
+
+353
+00:14:46,360 --> 00:14:49,520
+he incorporated machines into his trading strategy, which
+
+354
+00:14:49,520 --> 00:14:52,700
+gave him a huge advantage over his competition.
+
+355
+00:14:53,160 --> 00:14:56,200
+So those are seven strategies that Simmons used
+
+356
+00:14:56,200 --> 00:14:58,360
+to become what he is known as today,
+
+357
+00:14:58,740 --> 00:15:01,760
+the greatest investor on Wall Street, and also
+
+358
+00:15:01,760 --> 00:15:04,820
+the most successful hedge fund manager of all
+
+359
+00:15:04,820 --> 00:15:05,360
+time.
+
+360
+00:15:05,940 --> 00:15:08,800
+So if you're currently a PhD major or
+
+361
+00:15:08,800 --> 00:15:12,120
+just a high IQ individual, the next move
+
+362
+00:15:12,120 --> 00:15:14,760
+might not be to become a professor, teacher,
+
+363
+00:15:14,940 --> 00:15:15,420
+engineer.
+
+364
+00:15:15,420 --> 00:15:18,160
+Maybe you can also get into trading and
+
+365
+00:15:18,160 --> 00:15:21,080
+become the next Jim Simmons, but if you
+
+366
+00:15:21,080 --> 00:15:23,800
+do, be sure to learn from these seven
+
+367
+00:15:23,800 --> 00:15:24,380
+strategies.

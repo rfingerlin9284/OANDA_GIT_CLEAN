@@ -1,0 +1,91 @@
+(0:05 - 6:11)
+Before we get into option trading strategies and all the technicals, let's talk about the basic definition of options and why they even exist in the first place. So what is an option? An option is a contract that you can purchase that gives you the right to buy or sell stock at an agreed price on or before a particular date. Now you can also sell an option contract where you would be selling this right to someone and collecting a premium for it. 
+
+Okay, I'm sure that sounded very confusing, especially if this is new to you, but just bear with me as we get through a few more definitions. Once we get through these definitions, we'll be able to show you some examples and it will all start to make sense. But go ahead and take notes and write down these definitions so you can refer back to them during the rest of this course if you need to. 
+
+Okay, there are two types of options, calls and puts. A call option gives the option holder the right, but not the obligation, to buy shares of stock at an agreed-upon price on or before a particular date. And a put option is the same thing, except it gives the option holder the right to sell shares of stock at an agreed-upon price on or before a particular date. 
+
+And the agreed-upon price is what we refer to as the strike price, and the particular date is what we refer to as the option's expiration date. Now, we got those out of the way, but in layman's terms, let's say you bought a call option, so you're the option holder, and the strike price of this call option is $120 and it expires in 30 days. Owning this call option will allow you to purchase the stock at $120 anytime during the next 30 days, no matter where the stock goes. 
+
+So, if the stock goes up to $135 within the next 30 days, then fortunately for you, you own a call option that allows you to buy stock at $120 even though the stock is currently trading at $135. Now, instead of a call, let's say you bought a put option with a strike price of $120 that expires in 30 days. This will allow you to sell the stock at $120 anytime during the next 30 days, no matter where the stock goes. 
+
+This is cool because what if the stock tanks down to $100 per share? Well, you own a put option that gives you the right to sell stock at $120 even though the current market value is $100. So, you have a much better sale price than if you were to just sell stock at the current market value. Okay, simple enough, but why might someone actually want to purchase an option? First, we're going to explain to you why you might want to buy a put option, which if you remember, would give you the right to sell stock at a certain price on or before a particular date. 
+
+And let's put this in terms anyone can understand. Let's say you just bought your dream car. You just bought a new Ferrari, and to protect this Ferrari, you're going to need insurance. 
+
+So, you go to Flow from Progressive, and you purchase insurance. This financially protects your new Ferrari in case you get into a crash. And this is the exact same concept as options. 
+
+Now, instead of a car enthusiast, let's say you were an investor, and you just bought 100 shares of XYZ stock at $125 per share. So, the total cost of this investment is $12,500. We all know that stock prices fluctuate, and stocks can even go to zero if something catastrophic happens. 
+
+So, your total risk on this investment is technically $12,500. Now, just like we purchased insurance on the Ferrari, we can also purchase insurance on this investment. We would do this by purchasing an option contract. 
+
+Specifically, in this example, we would purchase what is called a put option. By definition, buying a put option gives us the right, but not the obligation, to sell stock at an agreed upon price on or before a particular date. Now, let's recap. 
+
+You own stock, and you want to buy insurance on that stock investment. So, you buy a put option. Simple enough, right? Now, if you bought an option, someone had to have sold it to you. 
+
+But who? The answer is any other trader who is willing to be paid to take on your risk, just like an insurance provider. That's the basic idea of options. An investor has risk, but he's willing to pay someone to take away his risk, and the person who gets paid now assumes that investor's risk. 
+
+Now, let's look at a real example. You bought $12,500 worth of XYZ stock, and you also purchased a put option as insurance. The price of this insurance is going to be determined by several factors, and you're going to learn about these factors in Chapter 3. For now, let's just say you had to pay $500 for this put option, and this gives you full coverage insurance for the next 30 days. 
+
+Now, let's look at two different scenarios. In the first scenario, after you buy the stock and the put option, the stock price goes from $125 per share up to $132 per share. So you made $7 per share on 100 shares of stock. 
+
+That totals to a profit of $700 on the stock that you own. But remember, you also paid $500 for an option contract that now has no value to you. So your net profit is only $200. 
+
+At this point, you're probably saying, what a rip-off, and the person who sold you the option is saying, thanks for the easy money, because they got to keep the $500 that you paid them. But let's look at another scenario. Now, in this scenario, rather than the stock price going up, let's say the stock price goes down to $113 per share.
+
+(6:12 - 7:36)
+So the stock's share price is now $12 cheaper than where you initially bought it. And since you own 100 shares, that means you've lost $1,200. But thankfully, you bought a put option as insurance. 
+
+Now, you go to the person who sold you the option and say, hey, remember our contract? Now, even though the stock is at $113, you are able to exercise your option to sell your shares at $125 per share. So you lost nothing on the stock. Your only loss in this scenario is the $500 you paid for the put option, much better than the $1,200 that you would have lost if you did not purchase this option contract. 
+
+Now, remember, the person who sold you the option had an agreement with you. They were obligated to purchase your shares from you at $125 per share. So they got to keep the $500 that you paid them for the put option, but they are now sitting on a $1,200 loss on the stock that they own. 
+
+Now, they can hold the stock and hope it goes back up, or they can sell it at the current market price of $113 for a total net loss of $700. So that's all options are, guys. They're simply insurance for an investor. 
+
+That's why they even exist in the first place. So a few thoughts may be running through your head at this point. You might be saying, but I don't want to buy insurance on my stock portfolio.
+
+(7:36 - 8:21)
+Or maybe you don't even own any stocks and you were hoping to just learn option strategies that you can trade with very little capital without ever even touching the stock. And you can. That's the cool thing about options. 
+
+You don't have to own stock to trade them. You can actually just trade the fluctuating option prices with your brokerage account, just like you can trade stock. But we just had to lay the framework because understanding how options relate to insurance is crucial for you to understand how options are priced, which we're going to cover in chapter three. 
+
+Okay, you get it by now. Buying a put option is like buying insurance on a stock investment and selling a put option is like selling insurance on a stock investment. But let's look at another reason one might want to buy an option.
+
+(8:21 - 9:39)
+And this time we're going to explain to you why you might want to buy a call option. This time, let's say you don't own any shares of stock yet, but you have your eye on a stock that you really like. There's just one problem. 
+
+That stock is expensive. So if you were to buy shares, it would require a lot of capital. What you could do instead is you could buy a call option. 
+
+This would allow you to pay a small premium for the right to buy shares at a later date, if perhaps you are correct about the stock and the price goes higher. So let's look at a real example. Stock XYZ is currently trading at $125 per share. 
+
+To buy 100 shares of the stock, it would cost us $12,500. So instead of putting up $12,500 to buy the stock, let's instead buy the 125 strike call option that has 30 days until it expires. This gives us the right to purchase 100 shares of stock at $125 per share anytime during the next 30 days. 
+
+Now again, the price we have to pay for this call option will be determined by several factors that you're going to learn about soon. But for now, let's just say we had to pay $500 for this call option. Let's look at two scenarios.
+
+(9:40 - 10:43)
+In the first scenario, after you buy the call option, the stock goes from $125 up to let's say $137. Now you own the 125 strike call option. What you could do now at this point is exercise your call option. 
+
+Exercising your option just simply means that you have decided to take advantage of your right to buy stock at a lower price. So in this case, you exercise your 125 strike call option, so you now own 100 shares of stock at $125. You are up 12 points on this stock. 
+
+And since you own 100 shares of stock, this means you're up $1,200. But remember, you paid $500 for the call option, so your net profit is really only $700. Now you might be thinking, well if I would have just bought the stock to begin with, I would have made more money. 
+
+Yes, this is true, but let's quickly look at one more scenario. In this scenario, the stock goes down. It moves down to let's say $100 per share.
+
+(10:44 - 13:15)
+Now remember, you own the 125 strike call option that you bought for $500, and this call option gives you the right to buy stock at $125 per share. But why on earth would anyone want to purchase stock at $125 if the stock is currently at $100? The answer is you wouldn't, and thankfully you don't have to. Let's think back to the definition of a call option. 
+
+It gives you the right, but not the obligation to buy stock. So owning this call option doesn't require you to buy stock if you don't want to. And of course, you aren't going to exercise your right to buy stock at $125 if the current market price is cheaper than that. 
+
+So in this case, you simply lost the premium you paid for the option, which was $500. If you would have bought stock at $125 instead, you would currently be down $2,500. So that's the benefit of buying an option rather than just buying the stock. 
+
+You can put up much less capital, and therefore have much less risk. But in exchange for that, you will have to pay a premium for it. And by the way, you can also trade put options in this way as well. 
+
+If you buy a put option without already owning shares of stock, then you are simply betting that the stock will go down. Because if you exercise your right to sell stock that you don't own, then you will just end up with a short stock position. So again, if you buy a call, you are betting that the stock is going to go up. 
+
+And if you buy a put, you are betting that the stock is going to go down. Now before you go out and start buying calls on every stock you think is going to go up, and puts on every stock you think is going to go down, keep watching because there are big negatives to buying options like this. And of course, we are going to show you much better ways to trade options. 
+
+One last note before moving on, you don't actually have to exercise your option contracts when you trade them like we showed you in the examples. You can simply buy an option and then sell the option, hopefully at a higher price than you bought it for. And we're going to cover that more in the next two chapters. 
+
+So alright guys, hope you enjoyed the video and are staying safe out there. Be sure to click the like and subscribe button below. And also be sure to check out our three free video series by clicking the link in the video description below. 
+
+These videos will help your trading tremendously, and they are completely free. All you have to do is click the link, input your email, and we will send you the three videos. So I will see you there.

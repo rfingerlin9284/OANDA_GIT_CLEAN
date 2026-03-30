@@ -1,0 +1,1043 @@
+1
+00:00:00,500 --> 00:00:03,680
+Hello traders, Joanne again from Binary Trader, the
+
+2
+00:00:03,680 --> 00:00:06,600
+YouTube channel focusing solely on binary options trading.
+
+3
+00:00:07,440 --> 00:00:10,240
+Today I'm gonna make a $10 challenge, using
+
+4
+00:00:10,240 --> 00:00:13,140
+the fractal indicator and moving average crossover based
+
+5
+00:00:13,140 --> 00:00:15,680
+strategy, that I showed in my previous video.
+
+6
+00:00:16,380 --> 00:00:18,720
+Before diving in, let me kindly ask you
+
+7
+00:00:18,720 --> 00:00:20,900
+to like the video, and subscribe to the
+
+8
+00:00:20,900 --> 00:00:21,200
+channel.
+
+9
+00:00:21,780 --> 00:00:23,500
+Thank you very much for the support.
+
+10
+00:00:23,960 --> 00:00:24,720
+Let's start.
+
+11
+00:00:31,070 --> 00:00:33,690
+I am trading at pocket option, you can
+
+12
+00:00:33,690 --> 00:00:35,770
+find the platform link in the description as
+
+13
+00:00:35,770 --> 00:00:36,150
+usual.
+
+14
+00:00:37,010 --> 00:00:39,190
+In my previous video, I showed this simple
+
+15
+00:00:39,190 --> 00:00:40,470
+yet profitable strategy.
+
+16
+00:00:41,230 --> 00:00:43,850
+Let's add a fractal indicator with period 3.
+
+17
+00:00:44,290 --> 00:00:46,430
+Let's add a moving average with a period
+
+18
+00:00:46,430 --> 00:00:46,950
+of 3.
+
+19
+00:00:47,310 --> 00:00:49,250
+Apply a brighter color and make the line
+
+20
+00:00:49,250 --> 00:00:49,570
+thicker.
+
+21
+00:00:50,210 --> 00:00:52,390
+Add another moving average with a period of
+
+22
+00:00:52,390 --> 00:00:52,710
+7.
+
+23
+00:00:53,290 --> 00:00:55,330
+Make it more visible as well, with a
+
+24
+00:00:55,330 --> 00:00:55,890
+different color.
+
+25
+00:00:56,730 --> 00:00:58,690
+I trade this strategy on the 1 minute
+
+26
+00:00:58,690 --> 00:01:01,310
+time frame, and the trade duration is also
+
+27
+00:01:01,310 --> 00:01:01,830
+1 minute.
+
+28
+00:01:02,870 --> 00:01:04,690
+Set the trading amount to $10.
+
+29
+00:01:10,470 --> 00:01:12,910
+Choose instruments with decent payout levels.
+
+30
+00:01:14,110 --> 00:01:16,790
+The $10 challenge means I start trading with
+
+31
+00:01:16,790 --> 00:01:19,370
+$10 and risk everything I won on the
+
+32
+00:01:19,370 --> 00:01:20,250
+subsequent trades.
+
+33
+00:01:21,030 --> 00:01:23,670
+Basically throughout the whole session, I will only
+
+34
+00:01:23,670 --> 00:01:25,410
+risk the $10 I started with.
+
+35
+00:01:26,110 --> 00:01:27,350
+See how far I can get.
+
+36
+00:01:28,550 --> 00:01:30,230
+So this strategy in short.
+
+37
+00:01:30,850 --> 00:01:33,870
+When the 3 period moving average, referred to
+
+38
+00:01:33,870 --> 00:01:36,130
+as the faster SMA, set to white on
+
+39
+00:01:36,130 --> 00:01:38,870
+my screen, crosses above the 7 period one,
+
+40
+00:01:39,450 --> 00:01:42,030
+referred to as the slower SMA, yellow on
+
+41
+00:01:42,030 --> 00:01:44,610
+my screen, and the fractal indicator printed a
+
+42
+00:01:44,610 --> 00:01:47,010
+red spike below the turning point candle, we
+
+43
+00:01:47,010 --> 00:01:49,050
+take it as a bullish sign and bet
+
+44
+00:01:49,050 --> 00:01:50,590
+the price will go higher in the next
+
+45
+00:01:50,590 --> 00:01:50,870
+minute.
+
+46
+00:01:51,450 --> 00:01:53,890
+When the faster SMA crosses under the slower
+
+47
+00:01:53,890 --> 00:01:56,190
+one, and a green spike is printed above
+
+48
+00:01:56,190 --> 00:01:58,390
+the turning point candle, we bet the price
+
+49
+00:01:58,390 --> 00:01:58,990
+will go lower.
+
+50
+00:01:59,710 --> 00:02:00,590
+It's that simple.
+
+51
+00:02:01,370 --> 00:02:03,530
+Though to make the strategy really shine, an
+
+52
+00:02:03,530 --> 00:02:07,030
+understanding of the surrounding market structure, identifying supply
+
+53
+00:02:07,030 --> 00:02:10,130
+and demand zones, key price levels, trending in
+
+54
+00:02:10,130 --> 00:02:11,150
+the market is crucial.
+
+55
+00:02:14,010 --> 00:02:16,190
+Here the white moving average crossed below the
+
+56
+00:02:16,190 --> 00:02:16,750
+yellow one.
+
+57
+00:02:18,310 --> 00:02:20,170
+Wait for the green fractal spike.
+
+58
+00:02:23,740 --> 00:02:25,460
+There it is, bet the price will go
+
+59
+00:02:25,460 --> 00:02:25,760
+lower.
+
+60
+00:02:45,320 --> 00:02:47,460
+If you want to start trading, follow the
+
+61
+00:02:47,460 --> 00:02:49,720
+platform link in the video description below to
+
+62
+00:02:49,720 --> 00:02:50,560
+join Pocket Option.
+
+63
+00:02:53,160 --> 00:02:56,500
+Remember, after signing up, you should practice on
+
+64
+00:02:56,500 --> 00:02:57,540
+demo balance first.
+
+65
+00:02:58,160 --> 00:03:00,400
+You should invest real money only after you
+
+66
+00:03:00,400 --> 00:03:03,400
+completely understand how the platform works and gained
+
+67
+00:03:03,400 --> 00:03:05,560
+enough confidence with the strategy of your choice.
+
+68
+00:03:06,800 --> 00:03:09,400
+If you use my link, you may also
+
+69
+00:03:09,400 --> 00:03:12,140
+use the promo code 50START, also found in
+
+70
+00:03:12,140 --> 00:03:14,480
+the description, to get an extra 50%
+
+71
+00:03:14,480 --> 00:03:15,600
+on your first deposit.
+
+72
+00:03:25,040 --> 00:03:25,840
+Price went down.
+
+73
+00:03:26,560 --> 00:03:29,680
+Set trading amount to $19.20 and look
+
+74
+00:03:29,680 --> 00:03:30,580
+for another setup.
+
+75
+00:03:32,420 --> 00:03:33,660
+This came fast.
+
+76
+00:03:34,020 --> 00:03:35,800
+Fractal already printed a red spike.
+
+77
+00:03:36,340 --> 00:03:38,380
+Slower SMA is going to cross above the
+
+78
+00:03:38,380 --> 00:03:38,960
+faster one.
+
+79
+00:03:39,780 --> 00:03:41,260
+Wait for the close of the current candle
+
+80
+00:03:41,260 --> 00:03:43,420
+to confirm the cross and bet the price
+
+81
+00:03:43,420 --> 00:03:44,120
+will go higher.
+
+82
+00:03:47,650 --> 00:03:50,050
+While waiting here, you are welcome to share
+
+83
+00:03:50,050 --> 00:03:51,530
+your thoughts in the comment section.
+
+84
+00:03:57,890 --> 00:03:59,470
+Well, it tries to go down.
+
+85
+00:04:00,090 --> 00:04:01,350
+It might cancel the cross.
+
+86
+00:04:24,830 --> 00:04:27,190
+This was a perfect example for the importance
+
+87
+00:04:27,190 --> 00:04:27,850
+of patience.
+
+88
+00:04:28,470 --> 00:04:30,350
+It seemed to turn into a big bearish
+
+89
+00:04:30,350 --> 00:04:32,170
+candle at the middle of the frame, which
+
+90
+00:04:32,170 --> 00:04:34,750
+could have canceled the cross, but it ended
+
+91
+00:04:34,750 --> 00:04:36,370
+up as a doji candle instead.
+
+92
+00:04:37,170 --> 00:04:39,290
+A candle without a meaningful body, but long
+
+93
+00:04:39,290 --> 00:04:40,770
+wicks is called a doji candle.
+
+94
+00:04:41,270 --> 00:04:43,730
+It confirmed the cross and we have our
+
+95
+00:04:43,730 --> 00:04:44,050
+entry.
+
+96
+00:04:52,940 --> 00:04:55,040
+It went down quite a bit, but we
+
+97
+00:04:55,040 --> 00:04:56,600
+have a lot of time until the trade
+
+98
+00:04:56,600 --> 00:04:56,940
+ends.
+
+99
+00:04:57,380 --> 00:04:58,220
+So do not worry.
+
+100
+00:04:58,840 --> 00:05:00,620
+It does not matter where the price is
+
+101
+00:05:00,620 --> 00:05:01,380
+during the trade.
+
+102
+00:05:01,800 --> 00:05:03,280
+Only the level at the end is what
+
+103
+00:05:03,280 --> 00:05:03,740
+matters.
+
+104
+00:05:24,530 --> 00:05:26,970
+As you've seen, it was not too promising
+
+105
+00:05:26,970 --> 00:05:28,990
+during the trade, but at the end, it
+
+106
+00:05:28,990 --> 00:05:29,470
+went up.
+
+107
+00:05:32,520 --> 00:05:34,200
+Another potential setup here.
+
+108
+00:05:48,130 --> 00:05:50,290
+This is the perfect time to press the
+
+109
+00:05:50,290 --> 00:05:54,130
+like button and subscribe to my channel, so
+
+110
+00:05:54,130 --> 00:05:55,970
+you don't miss any upcoming content.
+
+111
+00:05:56,690 --> 00:05:59,790
+Don't forget to select all notifications after subscribing.
+
+112
+00:06:21,040 --> 00:06:23,580
+Don't forget to check the payout levels regularly,
+
+113
+00:06:23,860 --> 00:06:25,700
+as those might decrease over time.
+
+114
+00:06:26,240 --> 00:06:28,680
+I only keep instruments with high payouts on
+
+115
+00:06:28,680 --> 00:06:29,380
+my watch list.
+
+116
+00:06:56,610 --> 00:06:58,510
+This was also a bit tough at the
+
+117
+00:06:58,510 --> 00:07:00,590
+middle of the candle, but it worked out.
+
+118
+00:07:21,050 --> 00:07:22,530
+If you want to try trading at this
+
+119
+00:07:22,530 --> 00:07:24,590
+platform, press on the link in the video
+
+120
+00:07:24,590 --> 00:07:25,970
+description and sign up.
+
+121
+00:07:26,510 --> 00:07:28,810
+You can then start practicing on Demo Balance
+
+122
+00:07:28,810 --> 00:07:29,270
+for free.
+
+123
+00:07:50,710 --> 00:07:53,550
+When the current green fractal was printed, looking
+
+124
+00:07:53,550 --> 00:07:55,630
+at it in combination with the previous one,
+
+125
+00:07:55,970 --> 00:07:57,990
+you should be able to identify the slight
+
+126
+00:07:57,990 --> 00:08:00,750
+downtrend here, which gives a good confidence in
+
+127
+00:08:00,750 --> 00:08:01,550
+our entry here.
+
+128
+00:09:08,620 --> 00:09:11,020
+The big bearish candle together with the small
+
+129
+00:09:11,020 --> 00:09:13,680
+bullish one forms a bearish engulfing candle pattern,
+
+130
+00:09:13,840 --> 00:09:16,020
+which is a strong indicator of an upcoming
+
+131
+00:09:16,020 --> 00:09:16,820
+downward trend.
+
+132
+00:09:49,930 --> 00:09:51,910
+The cross has a wide opening due to
+
+133
+00:09:51,910 --> 00:09:53,090
+the huge bearish candles.
+
+134
+00:09:53,830 --> 00:09:55,870
+This and the bearish engulfer tell me there
+
+135
+00:09:55,870 --> 00:09:58,030
+is a high chance this reversal will continue
+
+136
+00:09:58,030 --> 00:09:58,410
+here.
+
+137
+00:10:52,890 --> 00:10:54,810
+I'm trading for roughly half an hour.
+
+138
+00:10:55,110 --> 00:10:56,690
+I feel like I need a short break
+
+139
+00:10:56,690 --> 00:10:56,970
+now.
+
+140
+00:11:00,300 --> 00:11:01,240
+I am back.
+
+141
+00:11:01,720 --> 00:11:03,800
+It's good to have short breaks during a
+
+142
+00:11:03,800 --> 00:11:05,680
+session, so you can clear your mind a
+
+143
+00:11:05,680 --> 00:11:06,900
+bit, fresh yourself up.
+
+144
+00:11:19,340 --> 00:11:21,380
+Here we have a steep and clear downtrend.
+
+145
+00:11:21,960 --> 00:11:24,300
+The signal from our strategy in combination with
+
+146
+00:11:24,300 --> 00:11:26,660
+this huge bearish candle gives some confidence in
+
+147
+00:11:26,660 --> 00:11:27,420
+the current trade.
+
+148
+00:12:45,280 --> 00:12:47,480
+If you want to start trading, follow the
+
+149
+00:12:47,480 --> 00:12:49,720
+platform link in the video description below to
+
+150
+00:12:49,720 --> 00:12:50,580
+join Pocket Option.
+
+151
+00:12:53,270 --> 00:12:56,490
+Remember, after signing up, you should practice on
+
+152
+00:12:56,490 --> 00:12:57,530
+Demo Balance first.
+
+153
+00:12:58,130 --> 00:13:00,370
+You should invest real money only after you
+
+154
+00:13:00,370 --> 00:13:03,390
+completely understand how the platform works and gained
+
+155
+00:13:03,390 --> 00:13:05,550
+enough confidence with the strategy of your choice.
+
+156
+00:13:06,830 --> 00:13:09,390
+If you use my link, you may also
+
+157
+00:13:09,390 --> 00:13:12,150
+use the promo code 50START, also found in
+
+158
+00:13:12,150 --> 00:13:14,490
+the description, to get an extra 50%
+
+159
+00:13:14,490 --> 00:13:15,630
+on your first deposit.
+
+160
+00:13:58,620 --> 00:14:01,160
+I'm almost starving, so I'm gonna keep another
+
+161
+00:14:01,160 --> 00:14:01,860
+short break.
+
+162
+00:14:26,950 --> 00:14:28,810
+You might say the current amount is almost
+
+163
+00:14:28,810 --> 00:14:29,410
+$1,000.
+
+164
+00:14:30,010 --> 00:14:31,050
+That's a great amount.
+
+165
+00:14:31,570 --> 00:14:33,610
+You gonna either lower your risk level or
+
+166
+00:14:33,610 --> 00:14:34,550
+end your trading session.
+
+167
+00:14:35,030 --> 00:14:36,250
+That's perfectly right.
+
+168
+00:14:37,010 --> 00:14:39,490
+End your session, close your computer and go
+
+169
+00:14:39,490 --> 00:14:40,410
+do the things you like.
+
+170
+00:14:41,070 --> 00:14:43,490
+Many times I keep short sessions like that.
+
+171
+00:14:44,150 --> 00:14:46,190
+But since this is a challenge video and
+
+172
+00:14:46,190 --> 00:14:48,570
+I'm still focused, I will keep trading and
+
+173
+00:14:48,570 --> 00:14:50,390
+probably catch a few more nice setups.
+
+174
+00:15:08,440 --> 00:15:11,040
+Please like the video, subscribe to the channel.
+
+175
+00:15:11,640 --> 00:15:13,620
+It's just a few clicks for you, but
+
+176
+00:15:13,620 --> 00:15:14,460
+helps me a lot.
+
+177
+00:15:14,980 --> 00:15:16,180
+Thank you for the support.
+
+178
+00:15:37,760 --> 00:15:39,800
+I love these huge bullish candles.
+
+179
+00:15:40,540 --> 00:15:42,880
+Yes, with a binary option it does not
+
+180
+00:15:42,880 --> 00:15:44,900
+matter how big the candle is, but the
+
+181
+00:15:44,900 --> 00:15:47,340
+bigger the candle, the better your analysis might
+
+182
+00:15:47,340 --> 00:15:47,820
+have been.
+
+183
+00:15:50,760 --> 00:15:52,640
+Look at the bullish engulfer.
+
+184
+00:15:53,100 --> 00:15:55,420
+That will give confidence in the signal when
+
+185
+00:15:55,420 --> 00:15:56,220
+we receive it.
+
+186
+00:16:24,180 --> 00:16:26,600
+Let's risk the whole balance again into splits.
+
+187
+00:16:27,100 --> 00:16:29,900
+On this platform, 1,000 is the maximum
+
+188
+00:16:29,900 --> 00:16:31,500
+amount to risk on a single trade.
+
+189
+00:16:32,100 --> 00:16:34,160
+But you can place any number of trades.
+
+190
+00:16:40,170 --> 00:16:42,390
+Probably it would have been easier and safer
+
+191
+00:16:42,390 --> 00:16:44,090
+to place two trades with $900.
+
+192
+00:16:45,050 --> 00:16:45,950
+Next time.
+
+193
+00:17:36,840 --> 00:17:38,700
+Please like the video if you enjoy it.
+
+194
+00:17:39,200 --> 00:17:41,640
+If you want to see more, subscribe to
+
+195
+00:17:41,640 --> 00:17:43,740
+the channel, so you not miss any upcoming
+
+196
+00:17:43,740 --> 00:17:44,300
+content.
+
+197
+00:17:45,080 --> 00:17:46,720
+Share your thoughts in the comment section.
+
+198
+00:18:31,190 --> 00:18:33,770
+As you see, 90% of the time
+
+199
+00:18:33,770 --> 00:18:34,490
+is just waiting.
+
+200
+00:18:34,970 --> 00:18:37,830
+Looking for a potential setup, then doing the
+
+201
+00:18:37,830 --> 00:18:40,290
+analysis, then waiting for the entry signal.
+
+202
+00:18:41,050 --> 00:18:42,610
+Waiting for the trade after entered.
+
+203
+00:18:43,190 --> 00:18:45,270
+Then starting the process over again.
+
+204
+00:19:33,340 --> 00:19:34,900
+With the next trade I can go up
+
+205
+00:19:34,900 --> 00:19:38,080
+to gaining slightly above 11,000, while technically
+
+206
+00:19:38,080 --> 00:19:40,480
+I was only risking the $10 I started
+
+207
+00:19:40,480 --> 00:19:40,780
+with.
+
+208
+00:19:41,340 --> 00:19:43,840
+Though I left $300 out of the trade.
+
+209
+00:19:44,240 --> 00:19:46,380
+So I will keep that and be in
+
+210
+00:19:46,380 --> 00:19:47,380
+minor profit still.
+
+211
+00:19:49,510 --> 00:19:51,650
+To be honest, I had a few attempts
+
+212
+00:19:51,650 --> 00:19:53,810
+prior to this, where I failed at different
+
+213
+00:19:53,810 --> 00:19:54,230
+levels.
+
+214
+00:19:54,750 --> 00:19:57,190
+But I was only losing $10 on each.
+
+215
+00:19:57,530 --> 00:19:59,750
+So my total loss is somewhere around $60.
+
+216
+00:20:00,370 --> 00:20:02,470
+That's not comparable to the 11 grand.
+
+217
+00:20:03,010 --> 00:20:05,430
+Not even to the 6,000, you would
+
+218
+00:20:05,430 --> 00:20:05,710
+say.
+
+219
+00:20:06,090 --> 00:20:07,610
+So it would make sense to stop now
+
+220
+00:20:07,610 --> 00:20:07,890
+either.
+
+221
+00:20:08,310 --> 00:20:09,630
+But just for the sake of the video,
+
+222
+00:20:09,630 --> 00:20:10,930
+I will do one more trade.
+
+223
+00:20:11,670 --> 00:20:13,450
+If I lose, my total loss will be
+
+224
+00:20:13,450 --> 00:20:15,830
+$70, while I keep the $300.
+
+225
+00:20:16,230 --> 00:20:18,610
+That would mean a minor profit of $230.
+
+226
+00:20:19,450 --> 00:20:21,630
+Which is still more than my daily salary
+
+227
+00:20:21,630 --> 00:20:22,710
+was at my last job.
+
+228
+00:20:23,310 --> 00:20:25,150
+But you can consider it as free tokens
+
+229
+00:20:25,150 --> 00:20:28,310
+for 23 upcoming $10 challenges for future trading
+
+230
+00:20:28,310 --> 00:20:28,850
+sessions.
+
+231
+00:20:29,230 --> 00:20:31,910
+Or $230 for $1 challenges.
+
+232
+00:20:32,410 --> 00:20:33,810
+That's a bag of opportunities.
+
+233
+00:20:39,820 --> 00:20:41,060
+Let's do the analysis.
+
+234
+00:20:41,720 --> 00:20:43,040
+Clear downtrend, check.
+
+235
+00:20:43,400 --> 00:20:46,000
+Cross was confirmed on the previous candle, check.
+
+236
+00:20:46,080 --> 00:20:48,200
+Green fractal is highly likely to be printed
+
+237
+00:20:48,200 --> 00:20:49,160
+in a few seconds.
+
+238
+00:20:49,720 --> 00:20:52,320
+Though the consolidation zone here bothers me quite
+
+239
+00:20:52,320 --> 00:20:52,660
+a bit.
+
+240
+00:20:53,420 --> 00:20:55,820
+But this bearish engulfing pattern gives confidence.
+
+241
+00:20:56,620 --> 00:20:57,260
+Let's do it.
+
+242
+00:21:05,360 --> 00:21:07,480
+I am trading now for almost an hour.
+
+243
+00:21:07,840 --> 00:21:09,800
+So I will end my session regardless of
+
+244
+00:21:09,800 --> 00:21:10,360
+the outcome.
+
+245
+00:21:11,440 --> 00:21:13,140
+Always keep your trading session short.
+
+246
+00:21:13,560 --> 00:21:15,940
+After a while it becomes stressful, you likely
+
+247
+00:21:15,940 --> 00:21:18,060
+lose focus, and that will lead to bad
+
+248
+00:21:18,060 --> 00:21:19,980
+decisions, which lead to losses.
+
+249
+00:21:57,240 --> 00:21:58,180
+This was tough.
+
+250
+00:21:58,740 --> 00:22:00,160
+Perfect ending to a session.
+
+251
+00:22:01,800 --> 00:22:03,160
+Hope you enjoyed today's video.
+
+252
+00:22:03,580 --> 00:22:05,620
+If you did, please press the like button
+
+253
+00:22:05,620 --> 00:22:07,360
+and subscribe to my channel.
+
+254
+00:22:08,000 --> 00:22:09,620
+Feel free to share your thoughts in the
+
+255
+00:22:09,620 --> 00:22:10,220
+comment section.
+
+256
+00:22:11,240 --> 00:22:13,200
+If you haven't done it yet, use the
+
+257
+00:22:13,200 --> 00:22:15,400
+platform link in the description to join Pocket
+
+258
+00:22:15,400 --> 00:22:18,220
+Option today and start trading binary options.
+
+259
+00:22:19,440 --> 00:22:21,760
+Thank you very much for watching my video.
+
+260
+00:22:22,100 --> 00:22:23,500
+I wish you successful trading.
+
+261
+00:22:24,000 --> 00:22:24,900
+See you next time.

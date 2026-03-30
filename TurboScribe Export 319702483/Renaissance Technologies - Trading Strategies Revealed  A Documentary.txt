@@ -1,0 +1,142 @@
+(0:00 - 0:22)
+Renaissance Technologies is the most profitable hedge fund in history. This is probably the single most successful hedge fund in the history of the industry in terms of its performance record. So you got to remember he charges a lot, but before fees 66% on average since 1988.
+
+(0:23 - 1:15)
+Behind the firm's wild success are a series of mathematical models and powerful computers. The quantitative models at Renaissance Technologies are constantly being updated, but what's more important than those models are the ways and methods that are used to discover trading signals. Jim Simons, the founder of Renaissance Technologies, is a legendary mathematician. 
+
+He pioneered a unique way of research and model building to the world of hedge funds. He's worth $21 billion, making him the highest earning hedge fund manager in the world. Born and raised in Brookline, Massachusetts, Jim Simons always knew that he wanted to be a mathematician.
+
+(1:16 - 2:27)
+We used to go to a delicatessen late at night when I was a student. And one day I saw Ambrose and Singer come in late at night and they were obviously doing mathematics. And I saw this on a number of occasions and I thought, boy, that's the greatest job in the world where you can just hang out at a delicatessen and do mathematics. 
+
+Simons enrolled at MIT and even skipped the first year of mathematics thanks to advanced placement courses he took in high school. Simons' academic career was very smooth and after earning his PhD, he quickly became a professor of math and also took a job as a Cold War codebreaker. But he yearns for more, particularly more money. 
+
+Growing up in a middle class family, Simons always wanted to get rich. Unlike other people in the academics who don't really care about money, Simons, on the other hand, knew exactly how to make money. Start businesses.
+
+(2:27 - 4:35)
+While still at school, he started a business with his South American classmates. They decided to start a factory to produce vinyl floor tile and PVC piping. Well, I met some, I made friends at MIT with two Colombian boys and they, at a certain point, started a business. 
+
+And in fact, it was my encouragement that they started that business. And my father and I invested a small amount in that business, which turned out eventually to be a big success. This is a story of Jim Simons that a lot of people don't hear about. 
+
+So he took some time off to run a business at first, but as soon as the business takes off, he immediately delegated responsibilities to other people. And we saw that time and time again with the story of Rentag. But Simons had to focus on his academic career. 
+
+In 1976, at the age of 37, Simons was awarded the American Mathematical Society's Oswald Weibullin Prize in Geometry. This prize is the highest you can get in mathematics. It's the equivalence of Nobel Prize. 
+
+Conquering one summit, Simons was looking for a new mountain to climb. In 1974, the floor tile company Simons had started with his friends, sold a 50% stake, delivering profits to Simons and other owners. Simons and his classmates made a lot of money from this business. 
+
+He said, let's invest in the money. So Simons knew a student of his who was running a hedge fund by the name of Charlie Fretfeld. Superseding Simons' wildest expectations, he 10X'd their original investment, making them $6 million total. 
+
+This is the moment Simons realizes the best way to make money is with finance. He was wondering, can I do the same? In 1978, Simons left academia to start his own investment firm with the money he saved and from his friends. He started MoneyMetrics.
+
+(4:40 - 7:52)
+For years after starting MoneyMetrics, Simons relied on intuition and fundamentals to trade. It was a great time to be in finance. The fund is doing so well, he didn't really have to change his approach. 
+
+But in the beggar's mind, he was wondering, can he use the mathematics to model asset prices? But Simons was getting tired of the fundamental trading. We did very well. But it was a gut-wrenching experience. 
+
+You know, it's, you know, one day you walk in and you think you're a genius. Oh, my positions are my way. Look, and the next day you walk in and they're against you and you feel you're a dope. 
+
+How could I have done what I did? And so there was no rhyme or reason. It was just, you know, you put your finger in the air and you try to sense which way the wind is blowing. Simons quickly started working on his first model with the help of his colleague, Lenny Baum. 
+
+They built a simple mean reversion model. Buy currencies if they moved a certain level below their recent trend line and sell if they veer too far above it. The idea of mean reversion is very simple. 
+
+Suppose you're a farmer and the average price of corn is five dollars a bushel. Now, some days it may be six dollars a bushel, other days it may be three dollars a bushel. But in the long run, these prices will revert back to the mean value. 
+
+This is what's called mean reversion. Back in the 80s, many commodities were priced like this. Now, his model would not work today, but back in the 80s, this was a revolutionary idea. 
+
+They quickly expanded the strategy beyond currency trading. By 1982, he changed the company's name to Renaissance Technologies. But soon enough, their simple mean reversion strategy started to fail. 
+
+Simple mean reversion is not sufficient anymore as other competitors started to build their models. To stay ahead of the game, Simons had to hire more talents. This is what really separates Jim Simons apart from other hedge fund managers. 
+
+When he sees a problem, he knows exactly who will be able to solve it. He immediately brought another renowned mathematician, Jim X, to develop a new strategy. When Jim X looked at those asset prices, he noticed that it is a stochastic process, which is also called a random process. 
+
+And he believed that using mathematical representation is the best way to model those stochastic process. When people hear about the word random, they think that it's not predictable. But that's not the case in mathematics. 
+
+Suppose you threw a dice, and you know each side will come up with a probability, and you can bet on those probabilities. To model a stochastic process, they started using machine learning. Machine learning is such a buzzword today. 
+
+But in the 1980s, most of hedge fund managers don't even know what that means. And they still use their gut to trade. But here's Renison Technologies, ahead of everybody else, already started to use machine learning.
+
+(7:52 - 8:03)
+The style of machine learning that Renton used was the kernel method. The kernel used a class of algorithms to do pattern analysis. The main tool used in academic finance is linear regression.
+
+(8:03 - 8:39)
+To this day, linear regression is used to build forecasting models. But the problem is the movement of asset prices is non-linear. So rather than use linear regression, Rentek decided to build non-linear models to predict price movements. 
+
+Simons at the time was proposing building an early machine learning system. This model would generate predictions for various commodity prices based on complex patterns, clusters, and correlations that would be very hard for the naked eye to see. Once again, they were so ahead of their time.
+
+(8:40 - 8:55)
+This kernel was like a black box that suggested trades that people couldn't even understand. When the team started testing the model, they quickly see great returns. The firm began incorporating hard dimensional kernel regression approaches.
+
+(8:56 - 9:07)
+Higher dimensional kernels work best for trending models. They're great at predicting how long a trend will last. At this point, Simons had put up millions to this automated trading system.
+
+(9:07 - 9:15)
+They call it the Medallion Fund. But Simons sought more potential improvement. He started investing heavily in bringing more mathematical talents.
+
+(9:16 - 10:04)
+With the GEM-X model, Renaissance Technologies started to combine trend following with mean reversion. The model has generated about 20% annual returns, which is a great performance considering most of the hedge funds made less than 12%. But Simons wanted better. 
+
+He brought on another brilliant mathematician, Alan Berlekamp. Alan Berlekamp's specialty was game and information theory. He immediately suggested to focus on shorter term trades to reduce risk by going in and out quickly. 
+
+Simons took his advice and started focusing on shorter term approach. They do a very different approach. It's all patterns, it's all short term, it's not high frequency, but it's something very distinct from what everybody else is doing.
+
+(10:05 - 10:14)
+Now Berlekamp became fully in charge of the Medallion Fund. He started fully implementing his ideas. He argued they should learn to handle trades like casinos.
+
+(10:15 - 11:11)
+A casino doesn't care about any particular bet. Even if you win like 10 times, a casino is happy because it knows that in the long run, the casino has the statistical advantage. This is what's called the law of large numbers. 
+
+I think what Rentec adopted was the Kelly Criterion. This is what we call the scientific gambling method. To put it simply, your bet should be proportional to how confident you are in your bet. 
+
+The formula is your expected net winnings divided by your net winnings if you win. I think this is actually the secret sauce for Renaissance Technologies. They utilize massive compute power combined with the scientific approach and to discover trading patterns and validate them and trade based on them.
+
+(11:11 - 11:37)
+They keep collecting the patterns and anomalies and that's how they stay ahead of the game. Well, any one anomaly might be a random thing. However, if you have enough data, you can tell that it's not. 
+
+So you can see an anomaly that's persisted for a sufficiently long time. So the probability of it being random is not high. But these things fade after a while.
+
+(11:37 - 11:49)
+Anomalies can get washed out. So you have to keep on top of this. The firm implemented its new approach in late 1989 with a $27 million Simon's have put up.
+
+(11:49 - 12:20)
+The results were almost immediate and startling. They did more trading than ever, cutting Medallion's average holding time to just a day and a half and from a week and a half scoring profits almost every day. The Medallion scored a gain of 55.9% in 1990. 
+
+The incredible streak has begun. Simon's personal wealth soared. He's never hesitant to pay his employee a lot of money.
+
+(12:21 - 13:46)
+So Jim Simons bought a yacht and every year he would bring his employees on his yacht to all the luxurious places in the world you can imagine. Simon's wanted to have more money to make real changes to the world. He needed to expand his hedge fund business even more. 
+
+The only way to do that was getting into the equity business. So far, the Medallion fund has been very successful at trading commodities, but it was capped at $10 billion till this day. So when a hedge fund gets big, every trade it makes, it gets bigger. 
+
+So when we have a big trade like that, it takes a long time for it to execute in the marketplace. Suppose you're trying to buy 10 million shares of Apple. It's going to take a while for the market to fill that order. 
+
+And by the time the orders are filled, you might not actually get the price you originally planned. And Warren Buffett is having the same problem. That's why he's saying that he's looking for elephants now because the amount of stocks that he can have are so few nowadays. 
+
+They created a similar model to trade equities, but it fails to deliver great returns. Simon's again knew exactly what to do. He hired two top scientists from IBM and started tasking them with creating equity models.
+
+(13:47 - 14:52)
+Peter Brown and Robert Mercer were experts in natural language processing. It took them more than two years to solve this problem while their equity models kept losing money. They discovered the reason why the mean reversion models don't perform as well is due to the execution of the trade. 
+
+Their equity models were great at picking out best correctly, but they were too unrealistic with the execution of those trades, such as market impact and slippage. So if you trade any stocks, you immediately realize that you do not get the market price all the time. This is the problem with the academia. 
+
+So whatever paper you read, they always assume that you can get the market price. But the market is a group of buyers and sellers constantly negotiating prices. And if you participate in that market, you do not always get the market price. 
+
+Brown and Mercer realized that their strategy needs to model this aspect as well. And minimize the trading cost. Once they solved the problem, Rentek has entered into a new age.
+
+(14:53 - 15:07)
+Jim Simons went on a capital raise roadshow and expanded its asset under management to the next level. By 2000, the firm was managing $6 billion with 140 employees. And the rest is history.
+
+(15:10 - 15:53)
+By 2020, Simons retired from Rentek. That year he made over $1 billion. What really separates Jim Simons apart is his ability to hire talents and to create an environment that the smartest people in the world utilize the maximum potential. 
+
+And more importantly, Jim Simons insisted on using the scientific method to discover patterns and anomalies, instead of using the gut intuition. It's an open atmosphere. Everybody knows what everybody else is doing. 
+
+And every week there's a research meeting. If you've had a good idea that you think it's going to go somewhere, you present it. If it looks good, it goes to a small meeting.
+
+(15:53 - 16:58)
+People vet it more carefully. But there aren't little groups working in the dark. Oh, this is my little system, and I want you to use it. 
+
+And that's the best way to do science, I think. Since Simons left the firm, Rentek has still been beating the market consistently. The fund is so successful, almost to a mythical level. 
+
+But as we now see, there is no mystery. Behind the firm's success is Jim Simons' ability to gather talents, and also his will to succeed. Don't give up. 
+
+Now, sometimes, discretion is the better part of valor, and you can just say to hell with it. But, and go on to something else, and that's a decision we've all made at one time or another. But persistence has a lot of value, and something that's really worthwhile can take a lot of time to come to fruition, and you ought to have patience if you believe in something.

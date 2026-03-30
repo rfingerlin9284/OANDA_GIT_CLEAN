@@ -1,0 +1,83 @@
+(0:00 - 1:06)
+Are you frustrated to have only a small trading account? Well, in this video, our Head of Options Trading teaches you a strategy that requires surprisingly little capital to produce income of $500 or more per week. I'm Mike Bellafiori and we're one of the top proprietary trading firms located in New York City and proud to develop number seven and even eight figure per year Watch, take notes, and learn so you can grow your trading account. Hi, I'm Seth Freyberg and I'm the Head Trader of SMB Capital's Options Trading Desk here in Manhattan. 
+
+And when most people think about options, they think of them as a cheap way to take advantage of big moves on stocks without having to actually go out and buy the stocks, which of course is a part of what options trading is all about. But what a lot of people don't realize is that options can be used for a completely different purpose, and that is to create cash income on a steady basis week after week throughout the year. And that's through the use of a very easy to learn option strategy that we're going to be covering in today's video.
+
+(1:06 - 2:52)
+If you're absolutely brand new to options trading and you don't know much about options and how they work, we've created a video for you to understand options basics. And if you click the video appearing on your screen right now, it will lay out the groundwork for you to understand this simple strategy that we're going to be covering so that you can generate cash flow in your trading account. Then when you're finished, you can come back and watch the rest of the video. 
+
+Okay, so what we're going to be teaching you in today's video is a strategy for making $500 in most weeks of the year. Now, most people naturally think that to produce that kind of weekly cash income, you'd need a large trading account containing somewhere between $100,000 and $200,000 to even have a shot in making that kind of cash income. But that's not the case at all for the strategy that we're going to be teaching you in this video. 
+
+In fact, all you need is a fraction of that in your account to execute what we'll be describing in today's video. Okay, so let's get started. As many of you know, the ETF known as the Q's, which stands for the ticker symbol QQQ, is an ETF which tracks a basket of stocks, mimicking the NASDAQ 100 index, which contains primarily tech stocks. 
+
+And so as you know, tech stocks have been on a tear in 2023 after a weak year previously. And throughout the first five months and into the first few days of June of this year, the Q's were up 34% for the year, a massive rally in five months. So let's say that on the first Friday in June, on June 2nd, with the Q's trading at 354.65, you pulled up an options chain expiring a week later on June 9th.
+
+(2:52 - 5:39)
+And you look for a put option on that options chain with a price of around 60 cents. And in this case, that was the 346 put, which was selling for 65 cents. And you go ahead and sell 10 of those while simultaneously buying 10 of the 321 puts for six cents, 25 points below the 10 that you sold up at 346. 
+
+And so when an options trader does that, selling a put higher up on an options chain and buying a put lower on that same options chain, then he's entering what options traders refer to as a put credit spread. Okay, so let's take a look at the cash flow of this trade. So you can start to understand how it works. 
+
+And so starting out with the 346 puts, we sold for 60 cents. Remember, each option represents 100 shares of stock that can be assigned to the put seller. So you multiply the 65 cents times 100, and we sold 10 of them. 
+
+And so when you multiply it all together, the result in cash income from selling those 10 puts is $650. And using that same kind of math, those 321 puts we bought for protection cost us $60, resulting in net cash income of $590 for this one week trade, which incidentally requires 24,410 in capital to execute. Now, if you don't have that much in your account, all you do is cut back the number of credit spreads you sell to fit your account size. 
+
+So for example, if you sold half of those put credit spreads, you'd bring in half of that amount of income and you'd require half that amount of capital and so forth. Now let's move to the day that this credit spread expires on June 9th. And as you can see, the stock barely moved that week, closing at 354.50 on that day. 
+
+And so what's the outcome of this trade? Well, let's take a look at that. You see, both the 346 puts that we sold and the 321 puts that we bought are located at strike prices well below where the stock closed on the day that they expired. And so as a result, both of them expire with no value because who would exercise their right to sell shares at a price of 346 or 321 when the stock is trading for a price of 354.50 in the open market? Obviously no one's going to do that. 
+
+So those options just expire worthless resulting in the result of the trade being that we get to just keep that cash flow of $590 that we first received when we first opened the trade. Okay. So remember we're discussing a way to pull 500 or so out of the market most weeks on average in this video.
+
+(5:39 - 7:31)
+And so that's going to be our first trade that when we just completed. And so on the day that those options expire, we turn around and open up a new trade expiring again a week later again on June 16th. And in this case, the put option that sells for 61 cents is the 342. 
+
+And again, 25 points below that is the 317, which we're buying and paying eight cents for resulting in $530 of cash flow in this case, as you can see. Now moving forward to the expiration date of this second trade, you can see that on June 16th that the stock rallied nicely in that ensuing week, closing at 367.93. And so again, with both the 342 and 317 puts expiring worthless being so far below where the stock closed, we again just pocket the $530. And so we just go ahead and repeat this same trade opening a 25 point wide put credit spread with a short put priced around 60 cents every week on Friday and allowing it to expire the next Friday. 
+
+And as it turns out, we had a pretty easy time of it throughout the summer. And so since each trade is essentially the same to move this along, we've created a scorecard for you for each of those trades, which you can go ahead and check for yourself, by the way, if you have options data available to you. And as you can see through all of June and all of July, the expiration closing price of QQQ was above the strike price location on both the short and long put portions of the put credit spreads on their respective expiration days. 
+
+And so we just kept collecting about, you know, more than $500 in each of these weeks. Okay. So now on July 28th, we entered our first August trade.
+
+(7:31 - 16:58)
+And as you can see, just like we did in all the previous cases, we sold the 373 puts this time for 59 cents and we bought the 348 puts for five cents culminating in our receiving $540. However, in this case, for the first time since the campaign started in early June, the stock closes below the short put strike of 373. And so at this point, if we do nothing, then we're going to be required to buy 1,000 shares of QQQ for the put strike price 373, which would cost us $373,000. 
+
+But we have a small account. So what are we going to do? Well, here's how we handle it. A few minutes before the market expires, we're going to close that put credit spread, which that day would have meant buying back the 373 puts for $1.02 and selling the 348 puts that we were long for just one cent. 
+
+And when you look at that cash flow of that buyback, you can see that the cost of the buyback of the 373 puts was $1,020 and we only got back $10 for the long puts. And we only received $540 for getting into this credit spread trade in the first place. And so once it's closed, we have a loss, a net cash outflow this time of $470. 
+
+And so we've experienced our first trade loss, as you can see from our updated scorecard. But we have no intentions of allowing that loss to hurt us in the long run, because we have a plan for this exact situation. So at the end of that same day, just a few minutes later, we go to the call side of the options chain that expires a week later, the August 11th chain. 
+
+But this time we sell a call option at the exact same strike price as the short puts in the last trade. In other words, we go to the 373 calls, and we sell 10 of those. And as you can see, in this case, we get $3.66 for those because those are so close to where the stock is trading. 
+
+And options close to the market price of a stock will always be worth more than the options farther away from that price. And so in this case, we're selling the calls this time. But we're doing something else simultaneously with selling those 10 calls. 
+
+And that is that this time we're going to go way out to the end of the year, December 29th, and we're going to buy 10 of 370 calls expiring on that date for $24.71. Now, why are we doing this? Well, here's our game plan. Once we took that first loss on the August 4th put spread, we're now going to be essentially reverting to the call side. And we are basically going to be selling against those December calls by each week selling 373 calls expiring one week later. 
+
+And so if the QQQ closes below 373, then we will let it expire and sell the calls expiring in the next week. So we're going to do this repeatedly until the Q's rally back above 373, which point we will close the short calls and the long calls expiring in December and then resume our selling of put credit spreads each week. So that's our game plan. 
+
+Now, keep in mind buying those 10 calls cost us $24,710. And so you should think of that as the capital that we've deployed in the trade at this time. And remember, at the same time, you sold those 10 calls for $366. 
+
+So that part of the trade actually creates positive cash flow of $3660. Okay, so let's move out to August 11th, the date the calls we sold expired. And as you can see, the Q's closed at $366.24 that day, which is way below the strike of 373 calls that we sold. 
+
+And so those expire worthless. Why? Because when you're talking about calls, those have no value if the stock closes below the strike price of the calls, because again, no one will exercise their right to buy shares of the Q's at 373 when it's trading almost seven points below that in the open market. And so those calls expire with no value, meaning that we can now update our profit chart to show that we just gained a profit of $3660 for selling those calls. 
+
+And so we just repeat the process, because as we said, we're going to keep doing this until we get a close above 373 on expiration. So we go ahead and sell the 373 calls expiring yet another week later on August 18th. But this time, because the stock has now fallen to well below the 373 price, three calls fetch a lot less, in this case, $1.16, which as a result produces a positive cash flow of $1.160. And so let's update our scorecard throughout the end of August. 
+
+And as you can see, the stock had dropped to $358.13 on August 18th. So those calls expire worthless and we get to keep that $1.160 in cash. And moving to the August 25th expiration, we didn't get paid that much for those 373 calls, only $300, because in that case, the 373 calls were in even larger distance from the Q's close on August 18th. 
+
+And so those had an even lower price tag on them. And so while the stock had begun to bounce, it still did not reach 373 by the end of that week. And so we again sell the 373 calls for the fourth time now, with this set of calls expiring on September 1. As you can see in this case, we received 90 cents for those, producing $900, which is an improvement upon the previous week. 
+
+And so now let's move to September 1, when this tranche of calls expires. And as you can see, this time the Q's have closed at $377.59, which is now well above our short calls for the first time in a month. If we don't buy back those short calls when they expire in the money, we're going to be obligated to sell 1,000 shares of the Q's to the owner of those calls. 
+
+But we don't own 1,000 shares of the Q's. And so remember, we said that when the Q's close above 373, we'll close both the short calls at 373 and the long calls out in December at 370. And so toward the very end of the day, we're going to go ahead and buy back those short calls, which are now priced at 463, and simultaneously sell off the December long calls for 2425. 
+
+And so analyzing what happened on that last transaction, we'll first look at the short calls for which we received, remember, $900. But to close them, we had to pay out 4,630. So we lost 3,730 on that trade. 
+
+And don't forget, we sold off those long calls in December, but that was for a little bit less than we bought them for. So that accounts for a small loss of $460 as well. And so updating our scorecard three months into this campaign, we can see that adding in the losses from closing the short calls and selling off the long calls results in a three-month campaign total gain of $5,030, which incidentally, throughout the campaign, the most capital we ever needed on any one week's trades was $24,490. 
+
+So we'll call that our capital for the campaign. And that in turn results in a 20.5% return for the three-month campaign and an 82% return if you annualize that three-month experience. And so after this, you just resume the original practice of selling, put credit spreads, bringing in about $500 or more per week in most weeks. 
+
+And then in weeks where the market closes below the short put strikes, you can do as we showed you in this case, buy back the put credit spread, buy long calls far out of time, a little bit in the money, and combine that with a campaign of selling calls against those far out distant long calls repeatedly as we just showed you. It's a very similar strategy to what some options traders would call the wheel option strategy, but this approach uses much less capital than the wheel strategy, which is why it's so advantageous to folks with smaller accounts. So what I'd like you to take away from today's video is that you don't need to have a massive amount of capital to generate substantial positive cashflow in your trading account in most weeks. 
+
+A campaign of put credit spreads can yield you incredible returns in most weeks. And when you run into a bit of a sell-off, you can use this call selling approach that we taught you in the video until you can close the call side and resume your put credit spread selling campaign, which can go smoothly for very long periods of time as we saw, especially on stocks with a mildly bullish overall direction. Pro traders use these techniques all the time.
+
+(16:59 - 17:46)
+And now you've got the knowledge to do this yourself. Now, if you'd like to learn three more options strategies that our pro traders use, including the unique options trick that allows you to make money while you wait to buy stocks or ETFs at the price you want and the options income strategy that allows you to make consistent money, whether the market goes up or down or sideways and how to make money on a stock or index trade, even if you're wrong on the direction, then click the link that's appearing right now at the top right hand corner of your screen that will open up the free workshop registration page in a new window. So don't worry, you won't lose this video or you can register directly for free at optionsclass.com

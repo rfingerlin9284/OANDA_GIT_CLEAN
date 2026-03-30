@@ -1,0 +1,2987 @@
+1
+00:00:00,170 --> 00:00:01,550
+Have you ever seen those mobile game ads
+
+2
+00:00:01,550 --> 00:00:01,970
+in GORN?
+
+3
+00:00:02,030 --> 00:00:03,790
+This game looks so shi- I bet
+
+4
+00:00:03,790 --> 00:00:05,390
+I could make this in like, one hour.
+
+5
+00:00:05,550 --> 00:00:06,890
+Well, uh, I have.
+
+6
+00:00:07,350 --> 00:00:08,070
+Let's do it!
+
+7
+00:00:08,150 --> 00:00:09,390
+The rules of this challenge are simple.
+
+8
+00:00:09,510 --> 00:00:11,230
+I have exactly 60 minutes to get as
+
+9
+00:00:11,230 --> 00:00:12,470
+close as possible to the game.
+
+10
+00:00:12,550 --> 00:00:14,210
+I've found three different mobile games, and I'm
+
+11
+00:00:14,210 --> 00:00:15,410
+gonna see how close I can get to
+
+12
+00:00:15,410 --> 00:00:16,610
+each of them within an hour.
+
+13
+00:00:23,970 --> 00:00:26,010
+Alright, the first game is this piece of
+
+14
+00:00:26,010 --> 00:00:27,610
+shi- It's called Countmasters.
+
+15
+00:00:27,610 --> 00:00:29,270
+And if you already knew that, then that's
+
+16
+00:00:29,270 --> 00:00:30,070
+really sad.
+
+17
+00:00:30,250 --> 00:00:31,750
+This is the poster boy for shi-ty
+
+18
+00:00:31,750 --> 00:00:32,390
+mobile games.
+
+19
+00:00:32,490 --> 00:00:33,330
+It's a classic.
+
+20
+00:00:33,470 --> 00:00:34,530
+I'm sure you've seen it around.
+
+21
+00:00:34,690 --> 00:00:36,010
+Alright, new Unity scene.
+
+22
+00:00:36,510 --> 00:00:37,150
+New timer.
+
+23
+00:00:37,430 --> 00:00:38,230
+Let's do this.
+
+24
+00:00:38,550 --> 00:00:39,830
+Okay, ah, I forgot it starts right away.
+
+25
+00:00:39,930 --> 00:00:41,770
+Alright, let's start with a platform to run
+
+26
+00:00:41,770 --> 00:00:41,930
+on.
+
+27
+00:00:42,030 --> 00:00:42,370
+Okay, great.
+
+28
+00:00:42,450 --> 00:00:44,230
+And now we need a character to do
+
+29
+00:00:44,230 --> 00:00:45,110
+the- to run.
+
+30
+00:00:45,430 --> 00:00:46,270
+To be the runner.
+
+31
+00:00:46,690 --> 00:00:48,030
+Oh, shi- She's zooming!
+
+32
+00:00:48,270 --> 00:00:50,650
+Me when your ma- Me when your
+
+33
+00:00:50,650 --> 00:00:51,910
+mom is- Okay.
+
+34
+00:00:53,390 --> 00:00:53,750
+Boom.
+
+35
+00:00:54,470 --> 00:00:56,070
+Yes, okay, we've got a running guy.
+
+36
+00:00:56,550 --> 00:00:57,470
+Oh, excellent.
+
+37
+00:00:57,770 --> 00:00:58,950
+Now we need to set up a navmesh,
+
+38
+00:00:59,010 --> 00:01:01,070
+which is Unity's pathfinding shi- That just
+
+39
+00:01:01,070 --> 00:01:02,810
+helps our guys move together and follow like
+
+40
+00:01:02,810 --> 00:01:03,610
+a central point.
+
+41
+00:01:04,670 --> 00:01:05,070
+Okay, please.
+
+42
+00:01:05,250 --> 00:01:05,490
+Yes!
+
+43
+00:01:05,810 --> 00:01:06,130
+Yes!
+
+44
+00:01:06,770 --> 00:01:07,950
+Okay, okay, okay, okay.
+
+45
+00:01:08,530 --> 00:01:10,250
+And then if I move the sphere around,
+
+46
+00:01:11,010 --> 00:01:12,090
+it should run towards the sphere.
+
+47
+00:01:12,430 --> 00:01:13,830
+Yes, it's all covered together.
+
+48
+00:01:14,170 --> 00:01:15,710
+Now we just have to move the sphere
+
+49
+00:01:15,710 --> 00:01:17,230
+down the thingy, and they should follow.
+
+50
+00:01:22,550 --> 00:01:22,990
+Okay.
+
+51
+00:01:24,250 --> 00:01:25,570
+We got a game going.
+
+52
+00:01:25,570 --> 00:01:26,370
+Hell yeah.
+
+53
+00:01:28,130 --> 00:01:29,170
+Easy, easy.
+
+54
+00:01:29,550 --> 00:01:31,330
+Okay, uh, it's gate time.
+
+55
+00:01:31,450 --> 00:01:32,690
+It's fucking gate time, boys.
+
+56
+00:01:46,110 --> 00:01:47,430
+Alright, let's run this bitch.
+
+57
+00:01:47,930 --> 00:01:49,590
+Uh, times- Okay, that was a fucking
+
+58
+00:01:49,590 --> 00:01:50,630
+useless test.
+
+59
+00:01:51,230 --> 00:01:53,410
+Okay, times two should spawn another guy-
+
+60
+00:01:53,410 --> 00:01:53,990
+Ah, okay.
+
+61
+00:01:54,710 --> 00:01:55,670
+Nope, sad.
+
+62
+00:02:01,550 --> 00:02:05,970
+I think you- Alright, alright.
+
+63
+00:02:06,490 --> 00:02:07,050
+That's fair.
+
+64
+00:02:07,169 --> 00:02:08,030
+That's fair enough.
+
+65
+00:02:22,290 --> 00:02:23,030
+Times ten?
+
+66
+00:02:23,450 --> 00:02:25,470
+Uh, yes, yes, yes, yes, yes!
+
+67
+00:02:25,670 --> 00:02:27,010
+Okay, let's add some more gates, and we
+
+68
+00:02:27,010 --> 00:02:27,870
+got a game, baby!
+
+69
+00:02:28,510 --> 00:02:29,170
+Plus one?
+
+70
+00:02:29,410 --> 00:02:29,770
+Boom.
+
+71
+00:02:30,790 --> 00:02:31,150
+Fourteen?
+
+72
+00:02:31,270 --> 00:02:32,090
+Just- just fourteen?
+
+73
+00:02:33,970 --> 00:02:35,590
+Uh, times two, double it and give it
+
+74
+00:02:35,590 --> 00:02:36,130
+to the next guy.
+
+75
+00:02:37,110 --> 00:02:38,550
+Double it again- I'm so goaded.
+
+76
+00:02:38,970 --> 00:02:39,470
+Holy shit.
+
+77
+00:02:41,230 --> 00:02:42,630
+Now let's go minus six.
+
+78
+00:02:42,790 --> 00:02:44,410
+I think times zero might break the whole
+
+79
+00:02:44,410 --> 00:02:45,590
+game, and I don't want to deal with
+
+80
+00:02:45,590 --> 00:02:46,110
+that right now.
+
+81
+00:02:46,190 --> 00:02:47,590
+If you don't test for it, the bug
+
+82
+00:02:47,590 --> 00:02:48,250
+doesn't exist.
+
+83
+00:02:48,330 --> 00:02:48,890
+Write that down.
+
+84
+00:02:49,050 --> 00:02:50,610
+Okay, let's like clump them together a little
+
+85
+00:02:50,610 --> 00:02:50,790
+more.
+
+86
+00:02:50,870 --> 00:02:51,990
+They're a little too spaced out.
+
+87
+00:02:52,390 --> 00:02:53,530
+Okay, divided by one?
+
+88
+00:02:53,750 --> 00:02:54,070
+Nice.
+
+89
+00:02:54,310 --> 00:02:54,810
+Times ten?
+
+90
+00:02:54,810 --> 00:02:56,430
+Uh, I should have done plus forty-five.
+
+91
+00:02:56,990 --> 00:02:57,710
+I'm bad at this.
+
+92
+00:02:57,950 --> 00:02:59,050
+I'm the guy in the ad.
+
+93
+00:03:00,350 --> 00:03:02,150
+Plus seventeen, times four.
+
+94
+00:03:03,030 --> 00:03:04,010
+Oh, hell yeah.
+
+95
+00:03:05,390 --> 00:03:06,430
+Plus seventeen.
+
+96
+00:03:07,130 --> 00:03:08,150
+This game's so easy.
+
+97
+00:03:09,630 --> 00:03:10,610
+This looks great.
+
+98
+00:03:11,290 --> 00:03:12,830
+Actually, it looks so good.
+
+99
+00:03:13,030 --> 00:03:14,450
+Next, I cranked up the saturation of the
+
+100
+00:03:14,450 --> 00:03:16,390
+players to appeal to your stupid monkey brains.
+
+101
+00:03:16,810 --> 00:03:17,670
+Plus forty-three?
+
+102
+00:03:18,010 --> 00:03:18,490
+Excellent.
+
+103
+00:03:18,810 --> 00:03:19,890
+Beautiful, beautiful.
+
+104
+00:03:20,550 --> 00:03:22,230
+Okay, I have twenty-three minutes left.
+
+105
+00:03:22,350 --> 00:03:22,970
+That's a while.
+
+106
+00:03:23,090 --> 00:03:23,950
+That's not bad, actually.
+
+107
+00:03:23,950 --> 00:03:25,830
+Okay, with the time left, I decided to
+
+108
+00:03:25,830 --> 00:03:26,890
+make some of the obstacles.
+
+109
+00:03:27,130 --> 00:03:29,090
+Uh, so there's, I added the spinny c***s,
+
+110
+00:03:29,170 --> 00:03:30,490
+which kill players if you touch it.
+
+111
+00:03:30,830 --> 00:03:31,170
+Uh-oh.
+
+112
+00:03:32,590 --> 00:03:33,870
+Come on, speed up.
+
+113
+00:03:33,910 --> 00:03:34,990
+Why did I put it right at the
+
+114
+00:03:34,990 --> 00:03:35,270
+end?
+
+115
+00:03:35,410 --> 00:03:36,530
+I don't have time for this.
+
+116
+00:03:37,430 --> 00:03:38,150
+Oh, yes.
+
+117
+00:03:38,290 --> 00:03:39,170
+Okay, yes, great.
+
+118
+00:03:39,370 --> 00:03:40,550
+Okay, now let's just add some more of
+
+119
+00:03:40,550 --> 00:03:42,410
+them, and I'll add some basic obstacles as
+
+120
+00:03:42,410 --> 00:03:42,550
+well.
+
+121
+00:03:43,070 --> 00:03:44,450
+And finally, we need a finish line, which
+
+122
+00:03:44,450 --> 00:03:46,290
+should stop the sphere from moving, and just
+
+123
+00:03:46,290 --> 00:03:47,570
+do something pretty to celebrate.
+
+124
+00:03:47,950 --> 00:03:49,570
+So in the actual game, they do this.
+
+125
+00:03:49,630 --> 00:03:50,910
+But that's a lot of whack, so instead
+
+126
+00:03:50,910 --> 00:03:51,590
+they do this.
+
+127
+00:03:54,080 --> 00:03:55,640
+Which is pretty good, I think.
+
+128
+00:03:55,740 --> 00:03:56,200
+That's something.
+
+129
+00:03:56,280 --> 00:03:57,820
+With my last minute, I basically had no
+
+130
+00:03:57,820 --> 00:03:58,640
+time to do anything.
+
+131
+00:03:58,940 --> 00:04:00,360
+Uh, so I just decided to set the
+
+132
+00:04:00,360 --> 00:04:01,640
+background to an obnoxious color.
+
+133
+00:04:01,980 --> 00:04:04,320
+Let's make it f***ing vibrant green or some
+
+134
+00:04:04,320 --> 00:04:04,520
+s***.
+
+135
+00:04:05,420 --> 00:04:06,240
+No, that looks terrible.
+
+136
+00:04:06,540 --> 00:04:06,800
+Red.
+
+137
+00:04:07,300 --> 00:04:07,800
+No, pink.
+
+138
+00:04:08,260 --> 00:04:08,860
+There you go.
+
+139
+00:04:09,000 --> 00:04:09,400
+There you go.
+
+140
+00:04:09,420 --> 00:04:10,180
+That's a mobile game.
+
+141
+00:04:10,300 --> 00:04:10,480
+Okay.
+
+142
+00:04:11,060 --> 00:04:11,380
+Done.
+
+143
+00:04:11,720 --> 00:04:12,000
+Done!
+
+144
+00:04:13,020 --> 00:04:13,320
+Oh!
+
+145
+00:04:14,320 --> 00:04:14,720
+Wow.
+
+146
+00:04:20,310 --> 00:04:21,770
+That was f***.
+
+147
+00:04:23,570 --> 00:04:25,390
+I'm actually pretty happy with this one.
+
+148
+00:04:25,530 --> 00:04:26,510
+Okay, let's test this.
+
+149
+00:04:26,690 --> 00:04:28,590
+But before I do, I do have a
+
+150
+00:04:28,590 --> 00:04:29,030
+confession.
+
+151
+00:04:29,330 --> 00:04:31,110
+After completing each of these games, I did
+
+152
+00:04:31,110 --> 00:04:33,070
+go through and make some changes.
+
+153
+00:04:35,580 --> 00:04:36,160
+But, but, but.
+
+154
+00:04:36,760 --> 00:04:39,020
+All I did was sound effects and music.
+
+155
+00:04:39,180 --> 00:04:40,700
+I did not touch the functionality of the
+
+156
+00:04:40,700 --> 00:04:41,480
+game whatsoever.
+
+157
+00:04:41,720 --> 00:04:43,400
+If you count that as cheating, then, uh,
+
+158
+00:04:43,600 --> 00:04:44,180
+keep it to yourself.
+
+159
+00:04:44,240 --> 00:04:44,600
+I don't care.
+
+160
+00:04:44,680 --> 00:04:45,660
+Okay, let's see how I did.
+
+161
+00:04:45,840 --> 00:04:47,040
+Okay, let's go.
+
+162
+00:04:47,060 --> 00:04:47,960
+Oh, it's right into it.
+
+163
+00:04:48,140 --> 00:04:48,740
+Times three.
+
+164
+00:04:49,120 --> 00:04:50,980
+Oh, my guy's already gone.
+
+165
+00:04:51,720 --> 00:04:52,980
+Okay, that's a rough start.
+
+166
+00:04:52,980 --> 00:04:54,220
+I'm ready this time.
+
+167
+00:04:54,280 --> 00:04:54,640
+I'm ready.
+
+168
+00:04:56,400 --> 00:04:57,120
+Um, okay.
+
+169
+00:04:57,340 --> 00:04:57,840
+Bad start.
+
+170
+00:04:58,160 --> 00:04:59,980
+Okay, once again, terrible start.
+
+171
+00:05:00,300 --> 00:05:01,840
+I am so bad at this.
+
+172
+00:05:01,940 --> 00:05:03,600
+All right, let's close everything and reopen it.
+
+173
+00:05:03,700 --> 00:05:05,440
+I really should have added a restart function,
+
+174
+00:05:05,580 --> 00:05:06,420
+but you know, that's okay.
+
+175
+00:05:06,480 --> 00:05:07,200
+We do not have time.
+
+176
+00:05:08,260 --> 00:05:08,980
+Minus 48.
+
+177
+00:05:09,120 --> 00:05:09,420
+Okay.
+
+178
+00:05:10,200 --> 00:05:11,580
+But I still have one guy alive.
+
+179
+00:05:12,020 --> 00:05:12,580
+That's pretty good.
+
+180
+00:05:12,640 --> 00:05:13,280
+Okay, I'm ready.
+
+181
+00:05:13,380 --> 00:05:13,700
+I'm ready.
+
+182
+00:05:13,820 --> 00:05:14,860
+One of the spikes is white.
+
+183
+00:05:14,960 --> 00:05:15,360
+That's okay.
+
+184
+00:05:15,540 --> 00:05:17,080
+That's, that was an aesthetic choice.
+
+185
+00:05:17,660 --> 00:05:18,700
+Okay, plus 55.
+
+186
+00:05:18,840 --> 00:05:19,200
+Nice.
+
+187
+00:05:20,340 --> 00:05:21,700
+Oh, can we get that plus 53?
+
+188
+00:05:22,140 --> 00:05:22,500
+Yes.
+
+189
+00:05:22,500 --> 00:05:24,120
+Okay, we lost a few, but that's okay.
+
+190
+00:05:24,660 --> 00:05:25,300
+Plus 48.
+
+191
+00:05:25,880 --> 00:05:27,120
+We're getting big numbers here.
+
+192
+00:05:27,180 --> 00:05:27,680
+I like it.
+
+193
+00:05:28,160 --> 00:05:28,700
+Nope, never mind.
+
+194
+00:05:28,780 --> 00:05:29,660
+Yeah, I'll go to times one.
+
+195
+00:05:30,520 --> 00:05:31,800
+What's this expert piloting?
+
+196
+00:05:31,840 --> 00:05:32,680
+I call this the weave.
+
+197
+00:05:32,860 --> 00:05:33,400
+Oh, baby.
+
+198
+00:05:34,660 --> 00:05:35,360
+Oh, my God.
+
+199
+00:05:35,420 --> 00:05:36,900
+The footsteps get so loud.
+
+200
+00:05:38,540 --> 00:05:39,440
+That's so annoying.
+
+201
+00:05:40,120 --> 00:05:41,000
+Oh, we did it.
+
+202
+00:05:41,060 --> 00:05:42,400
+Yeah, I guess.
+
+203
+00:05:42,700 --> 00:05:43,980
+I mean, you can't really lose this game.
+
+204
+00:05:44,980 --> 00:05:46,580
+This goes on for a while, huh?
+
+205
+00:05:52,900 --> 00:05:54,300
+Whoa, that's gaming.
+
+206
+00:05:55,260 --> 00:05:57,460
+It should be possible to get an absurd
+
+207
+00:05:57,460 --> 00:05:58,280
+amount of boys.
+
+208
+00:05:58,480 --> 00:06:00,180
+I'm seeing a time seven at the end.
+
+209
+00:06:00,340 --> 00:06:01,620
+Baby, that's going to be huge.
+
+210
+00:06:02,180 --> 00:06:02,880
+Oh, what's this?
+
+211
+00:06:03,020 --> 00:06:04,380
+The wave is back, baby.
+
+212
+00:06:04,700 --> 00:06:04,900
+Woo.
+
+213
+00:06:05,420 --> 00:06:07,500
+This time seven is going to be brutal
+
+214
+00:06:07,500 --> 00:06:08,220
+on performance.
+
+215
+00:06:08,880 --> 00:06:09,580
+You ready?
+
+216
+00:06:10,640 --> 00:06:12,220
+Oh, the music stopped.
+
+217
+00:06:14,040 --> 00:06:14,840
+Oh, no.
+
+218
+00:06:14,840 --> 00:06:17,100
+I have no idea how many lads we've
+
+219
+00:06:17,100 --> 00:06:18,620
+got, but it's a lot.
+
+220
+00:06:19,500 --> 00:06:22,620
+This is not as satisfying as I expected.
+
+221
+00:06:29,130 --> 00:06:30,130
+Okay, we got there.
+
+222
+00:06:30,210 --> 00:06:30,550
+Finally.
+
+223
+00:06:30,790 --> 00:06:31,550
+Oh, my God.
+
+224
+00:06:32,710 --> 00:06:34,130
+I still think we can go more.
+
+225
+00:06:34,270 --> 00:06:35,530
+Code bullet on a horse.
+
+226
+00:06:35,630 --> 00:06:36,470
+He's on a horse.
+
+227
+00:06:36,550 --> 00:06:37,690
+Plus, I think you have like two seconds
+
+228
+00:06:37,690 --> 00:06:38,610
+to make the first decision.
+
+229
+00:06:39,090 --> 00:06:40,070
+Oh, this one's looking good.
+
+230
+00:06:40,130 --> 00:06:41,330
+I think I'm seeing a lot of big
+
+231
+00:06:41,330 --> 00:06:42,050
+multiplications.
+
+232
+00:06:42,230 --> 00:06:44,030
+We got a time six, a plus 47,
+
+233
+00:06:44,450 --> 00:06:45,670
+and then a time seven.
+
+234
+00:06:45,890 --> 00:06:46,170
+Ready?
+
+235
+00:06:47,690 --> 00:06:48,530
+Music's gone again.
+
+236
+00:06:49,170 --> 00:06:50,730
+Oh, we got a times 10 at the
+
+237
+00:06:50,730 --> 00:06:51,010
+end.
+
+238
+00:06:53,270 --> 00:06:57,270
+This is going to absolutely destroy my computer.
+
+239
+00:06:57,390 --> 00:06:57,710
+You ready?
+
+240
+00:07:00,510 --> 00:07:01,910
+Oh, it's trying.
+
+241
+00:07:04,730 --> 00:07:05,770
+Oh, Jesus.
+
+242
+00:07:07,250 --> 00:07:09,270
+Okay, let's see how long we're here for.
+
+243
+00:07:18,340 --> 00:07:19,500
+Oh, we did it.
+
+244
+00:07:21,380 --> 00:07:22,420
+Let's go.
+
+245
+00:07:24,060 --> 00:07:27,320
+It's only, what, 24 minutes.
+
+246
+00:07:29,020 --> 00:07:31,920
+Hell yeah, that's quality gameplay, baby.
+
+247
+00:07:33,120 --> 00:07:34,360
+That's what it's all about.
+
+248
+00:07:34,760 --> 00:07:36,500
+I love it when games break my computer
+
+249
+00:07:36,500 --> 00:07:37,500
+for 24 minutes.
+
+250
+00:07:39,220 --> 00:07:40,520
+Okay, next game.
+
+251
+00:07:45,660 --> 00:07:47,280
+Okay, for the next game, we're going to...
+
+252
+00:07:47,280 --> 00:07:47,900
+Oh, my God.
+
+253
+00:07:48,020 --> 00:07:48,200
+What?
+
+254
+00:07:48,240 --> 00:07:49,440
+What the fuck is even that?
+
+255
+00:07:49,540 --> 00:07:50,260
+What am I looking at?
+
+256
+00:07:50,360 --> 00:07:50,900
+Is it dangerous?
+
+257
+00:07:51,080 --> 00:07:51,900
+It's looking at me.
+
+258
+00:07:52,120 --> 00:07:53,020
+It's looking at me.
+
+259
+00:07:53,280 --> 00:07:53,700
+Security.
+
+260
+00:07:53,700 --> 00:07:56,040
+Can we get security in here, please?
+
+261
+00:07:56,540 --> 00:07:57,500
+No, it's looking at the camera.
+
+262
+00:07:57,840 --> 00:07:58,440
+Oh, fuck.
+
+263
+00:07:58,960 --> 00:07:59,860
+Is he going to take the camera?
+
+264
+00:07:59,980 --> 00:08:00,900
+You can have the camera.
+
+265
+00:08:01,020 --> 00:08:01,480
+It's fine.
+
+266
+00:08:01,600 --> 00:08:02,840
+It's theoretical anyway.
+
+267
+00:08:06,170 --> 00:08:06,910
+Bye, GamersOps.
+
+268
+00:08:07,790 --> 00:08:07,990
+What?
+
+269
+00:08:08,210 --> 00:08:08,850
+Is this an ad?
+
+270
+00:08:13,230 --> 00:08:21,730
+Okay, game two is attack hole.
+
+271
+00:08:21,990 --> 00:08:24,490
+Okay, so basically, you're a hole.
+
+272
+00:08:25,510 --> 00:08:26,650
+You pick up bullets.
+
+273
+00:08:27,190 --> 00:08:27,830
+Very nice.
+
+274
+00:08:27,930 --> 00:08:28,810
+Then you get bigger, and then you can
+
+275
+00:08:28,810 --> 00:08:30,350
+pick up shotgun shells.
+
+276
+00:08:30,490 --> 00:08:30,750
+Look at this.
+
+277
+00:08:30,830 --> 00:08:31,570
+Oh, baby.
+
+278
+00:08:33,730 --> 00:08:35,350
+Then when the time runs out, you shoot
+
+279
+00:08:35,350 --> 00:08:36,809
+everything at this robot guy.
+
+280
+00:08:36,990 --> 00:08:37,630
+I don't know what he did.
+
+281
+00:08:37,710 --> 00:08:38,870
+I don't know what his story is.
+
+282
+00:08:38,890 --> 00:08:40,090
+But apparently, we don't like him.
+
+283
+00:08:40,169 --> 00:08:41,130
+Anyway, you know the drill.
+
+284
+00:08:41,230 --> 00:08:42,429
+New project, new timer.
+
+285
+00:08:42,590 --> 00:08:43,270
+Let's send it.
+
+286
+00:08:43,590 --> 00:08:44,710
+All right, first, we need to figure out
+
+287
+00:08:44,710 --> 00:08:46,470
+how to make a hole, because I don't
+
+288
+00:08:46,470 --> 00:08:47,390
+know how to do that.
+
+289
+00:08:47,610 --> 00:08:49,510
+First off, we also want to override the
+
+290
+00:08:49,510 --> 00:08:50,250
+stencil settings.
+
+291
+00:08:50,250 --> 00:08:53,350
+Select one for both objects to be on
+
+292
+00:08:53,350 --> 00:08:55,190
+the same stencil layer.
+
+293
+00:08:55,790 --> 00:08:58,010
+For the compare function, we don't want to
+
+294
+00:08:58,010 --> 00:08:58,550
+- No, fuck that.
+
+295
+00:08:58,630 --> 00:08:59,670
+That sounds so complicated.
+
+296
+00:08:59,870 --> 00:09:00,690
+All right, I have a plan.
+
+297
+00:09:00,770 --> 00:09:01,230
+Hold my beer.
+
+298
+00:09:04,430 --> 00:09:04,810
+Boom.
+
+299
+00:09:04,970 --> 00:09:05,230
+Hole.
+
+300
+00:09:05,370 --> 00:09:05,850
+Fuck you.
+
+301
+00:09:06,030 --> 00:09:06,610
+Did they fall in the hole?
+
+302
+00:09:06,730 --> 00:09:07,390
+They fell in the hole!
+
+303
+00:09:08,070 --> 00:09:08,950
+Okay, okay.
+
+304
+00:09:09,770 --> 00:09:10,170
+Yeah.
+
+305
+00:09:10,370 --> 00:09:12,030
+Okay, let's make the hole look more hole
+
+306
+00:09:12,030 --> 00:09:14,130
+-like, and let's add some basic controls.
+
+307
+00:09:14,350 --> 00:09:15,810
+And also, I made it a bit prettier.
+
+308
+00:09:16,810 --> 00:09:18,350
+Wow, that looks like shit.
+
+309
+00:09:18,870 --> 00:09:19,270
+Perfect.
+
+310
+00:09:19,590 --> 00:09:20,370
+Okay, let's add some scripts.
+
+311
+00:09:20,370 --> 00:09:22,090
+One that keeps track of the bullets that
+
+312
+00:09:22,090 --> 00:09:23,570
+fall in the hole, one that moves the
+
+313
+00:09:23,570 --> 00:09:25,670
+hole and increases its size, and one little
+
+314
+00:09:25,670 --> 00:09:27,210
+guy that just holds how many points each
+
+315
+00:09:27,210 --> 00:09:28,050
+bullet type is worth.
+
+316
+00:09:28,250 --> 00:09:30,010
+All right, let's fucking grip it and ship
+
+317
+00:09:30,010 --> 00:09:30,190
+it.
+
+318
+00:09:30,290 --> 00:09:30,930
+See what happens.
+
+319
+00:09:31,050 --> 00:09:31,790
+It might even work.
+
+320
+00:09:31,870 --> 00:09:32,610
+Anything is possible.
+
+321
+00:09:32,750 --> 00:09:33,950
+Okay, it didn't crash immediately.
+
+322
+00:09:34,110 --> 00:09:34,990
+That's better than usual.
+
+323
+00:09:36,170 --> 00:09:37,570
+Oh wow, the hole did get bigger.
+
+324
+00:09:37,730 --> 00:09:39,550
+It was not the most graceful animation I've
+
+325
+00:09:39,550 --> 00:09:40,570
+ever seen, but it works.
+
+326
+00:09:40,870 --> 00:09:41,630
+All right, here's what's happening.
+
+327
+00:09:41,750 --> 00:09:43,470
+At the moment, the hole is increasing in
+
+328
+00:09:43,470 --> 00:09:45,110
+size like this, which does make it bigger,
+
+329
+00:09:45,250 --> 00:09:46,610
+but it shifts the center of the hole
+
+330
+00:09:46,610 --> 00:09:48,390
+over, and essentially just makes it look like
+
+331
+00:09:48,390 --> 00:09:48,550
+shit.
+
+332
+00:09:48,550 --> 00:09:49,730
+I want to increase the size of the
+
+333
+00:09:49,730 --> 00:09:51,270
+hole relative to the center of the hole.
+
+334
+00:09:51,410 --> 00:09:52,690
+And to mark the center, I made this
+
+335
+00:09:52,690 --> 00:09:53,090
+little guy.
+
+336
+00:09:53,170 --> 00:09:53,670
+Isn't he cute?
+
+337
+00:09:53,750 --> 00:09:55,350
+His name is, uh, Sphere.
+
+338
+00:09:55,650 --> 00:09:56,690
+It's, it's European.
+
+339
+00:10:00,350 --> 00:10:01,510
+That looks like it worked.
+
+340
+00:10:02,310 --> 00:10:02,610
+Yes!
+
+341
+00:10:02,870 --> 00:10:03,970
+All right, no, no, no, no, no, no,
+
+342
+00:10:03,970 --> 00:10:04,630
+no, no, no, no, no.
+
+343
+00:10:05,330 --> 00:10:06,830
+I am so good at things.
+
+344
+00:10:06,910 --> 00:10:07,250
+Yes!
+
+345
+00:10:07,450 --> 00:10:08,370
+All right, I added some shit.
+
+346
+00:10:08,490 --> 00:10:12,490
+We got bullet, long bullet, square bullet, pointy
+
+347
+00:10:12,490 --> 00:10:15,770
+bullet, bullet holder, and long bullet holder.
+
+348
+00:10:16,370 --> 00:10:17,850
+I don't know about guns.
+
+349
+00:10:17,910 --> 00:10:18,390
+I'm Australian.
+
+350
+00:10:18,550 --> 00:10:19,630
+All right, hole is done.
+
+351
+00:10:19,750 --> 00:10:21,450
+Now we just need to make a robot,
+
+352
+00:10:21,630 --> 00:10:22,850
+give it a health bar, have it move
+
+353
+00:10:22,850 --> 00:10:24,450
+towards us, store all the bullets we eat,
+
+354
+00:10:24,530 --> 00:10:25,750
+then shoot them at the robot and deal
+
+355
+00:10:25,750 --> 00:10:27,470
+the appropriate damage, and have the robot kill
+
+356
+00:10:27,470 --> 00:10:28,610
+us when it touches us, and have the
+
+357
+00:10:28,610 --> 00:10:29,990
+robot die when its health runs out, and
+
+358
+00:10:29,990 --> 00:10:31,310
+add a bunch more bullets to eat, and
+
+359
+00:10:31,310 --> 00:10:32,490
+add a timer for how long we can
+
+360
+00:10:32,490 --> 00:10:33,790
+eat stuff, and change the camera to see
+
+361
+00:10:33,790 --> 00:10:36,030
+the robot, all in 23 minutes.
+
+362
+00:10:37,530 --> 00:10:37,850
+Fuck.
+
+363
+00:10:38,210 --> 00:10:39,630
+Okay, I'm gonna have to lock in, so
+
+364
+00:10:39,630 --> 00:10:40,610
+it's montage time.
+
+365
+00:11:36,950 --> 00:11:37,730
+Okay, we're done.
+
+366
+00:11:37,950 --> 00:11:38,590
+We're done.
+
+367
+00:11:39,230 --> 00:11:39,550
+Woo!
+
+368
+00:11:40,030 --> 00:11:41,170
+That was fucked.
+
+369
+00:11:42,470 --> 00:11:44,450
+That one was so much harder.
+
+370
+00:11:44,570 --> 00:11:45,230
+Oh my god.
+
+371
+00:11:45,250 --> 00:11:46,310
+All right, whole game.
+
+372
+00:11:46,570 --> 00:11:47,190
+Let's see.
+
+373
+00:11:48,190 --> 00:11:49,270
+Let's see how we did.
+
+374
+00:11:49,370 --> 00:11:50,550
+I've not tested any of this.
+
+375
+00:11:52,250 --> 00:11:53,690
+Oh right, we got, I forgot we had
+
+376
+00:11:53,690 --> 00:11:53,970
+a timer.
+
+377
+00:11:54,270 --> 00:11:54,810
+All right, go, go, go.
+
+378
+00:11:55,490 --> 00:11:56,950
+All right, let's grab these boys first.
+
+379
+00:11:57,770 --> 00:11:59,230
+Nom, nom, nom, nom, nom, nom, nom.
+
+380
+00:12:01,170 --> 00:12:02,870
+Oh, that guy does go.
+
+381
+00:12:03,290 --> 00:12:05,230
+Oh, they're all falling over.
+
+382
+00:12:05,530 --> 00:12:06,270
+Don't worry about that.
+
+383
+00:12:08,630 --> 00:12:09,150
+Why is that?
+
+384
+00:12:09,170 --> 00:12:10,050
+Why did they fall over?
+
+385
+00:12:10,170 --> 00:12:10,810
+Whatever, whatever.
+
+386
+00:12:12,510 --> 00:12:13,750
+That's okay, that happens.
+
+387
+00:12:13,950 --> 00:12:14,830
+All right, let's get some bigger bullets.
+
+388
+00:12:19,540 --> 00:12:20,180
+Pretty good, oh.
+
+389
+00:12:23,480 --> 00:12:25,160
+That's okay, that's fine.
+
+390
+00:12:25,300 --> 00:12:26,620
+That's fine, everything's fine.
+
+391
+00:12:27,460 --> 00:12:28,480
+This is normal.
+
+392
+00:12:28,940 --> 00:12:30,480
+He's still there, he's still stuck.
+
+393
+00:12:31,280 --> 00:12:32,700
+Let's get some pointy bullets.
+
+394
+00:12:34,880 --> 00:12:35,460
+Fuck yes.
+
+395
+00:12:39,320 --> 00:12:40,880
+This game's actually fun.
+
+396
+00:12:40,980 --> 00:12:42,320
+I'm actually, like, enjoying this.
+
+397
+00:12:42,400 --> 00:12:43,080
+That's crazy.
+
+398
+00:12:43,820 --> 00:12:48,080
+All right, can we get the big ones?
+
+399
+00:12:48,720 --> 00:12:50,240
+Oh my god.
+
+400
+00:12:52,140 --> 00:12:53,020
+Oh no.
+
+401
+00:12:54,940 --> 00:12:56,760
+Oh, that's not ideal.
+
+402
+00:12:59,180 --> 00:13:01,340
+You gotta, guys, you missed him.
+
+403
+00:13:01,500 --> 00:13:02,220
+You missed him.
+
+404
+00:13:02,520 --> 00:13:04,080
+Let's go again for the sake of the
+
+405
+00:13:04,080 --> 00:13:05,280
+video, not because I'm having fun.
+
+406
+00:13:16,410 --> 00:13:17,390
+Happens to the best.
+
+407
+00:13:17,390 --> 00:13:18,750
+What did three men they say?
+
+408
+00:13:20,790 --> 00:13:22,590
+I think they do damage when it runs
+
+409
+00:13:22,590 --> 00:13:23,310
+into him.
+
+410
+00:13:26,550 --> 00:13:27,890
+Perfect, no notes.
+
+411
+00:13:28,290 --> 00:13:29,270
+No notes.
+
+412
+00:13:34,980 --> 00:13:36,060
+Welcome to game three.
+
+413
+00:13:36,220 --> 00:13:37,560
+We got a knife, it spins.
+
+414
+00:13:38,020 --> 00:13:39,300
+That's pretty much it.
+
+415
+00:13:39,440 --> 00:13:40,880
+That's the whole game, you cut shit.
+
+416
+00:13:41,700 --> 00:13:43,100
+Yeah, what you see is what you get.
+
+417
+00:13:43,380 --> 00:13:44,780
+Yeah, I don't know what else to say.
+
+418
+00:13:44,900 --> 00:13:45,700
+That's all this is.
+
+419
+00:13:45,820 --> 00:13:46,740
+Okay, let's get to work.
+
+420
+00:13:47,340 --> 00:13:49,580
+Okay, we got a brand new unity scene.
+
+421
+00:13:49,580 --> 00:13:51,640
+And let's start a timer for 60 minutes.
+
+422
+00:13:52,340 --> 00:13:53,920
+Ah, okay, we're going, we're going, we're going.
+
+423
+00:13:54,120 --> 00:13:55,260
+All right, so first up, we need a
+
+424
+00:13:55,260 --> 00:13:57,020
+way of splitting shit in half.
+
+425
+00:13:57,080 --> 00:13:57,980
+I think that's going to be the hardest
+
+426
+00:13:57,980 --> 00:13:58,260
+thing.
+
+427
+00:13:58,800 --> 00:14:00,600
+So we could cut it ourselves, but we
+
+428
+00:14:00,600 --> 00:14:01,800
+do not have time for that shit.
+
+429
+00:14:02,180 --> 00:14:05,020
+So let's steal someone else's work.
+
+430
+00:14:05,180 --> 00:14:07,160
+I'm sure that's what the creators of this
+
+431
+00:14:07,160 --> 00:14:07,540
+did anyway.
+
+432
+00:14:07,700 --> 00:14:08,720
+Come on, come on, come on, come on,
+
+433
+00:14:08,780 --> 00:14:09,140
+come on.
+
+434
+00:14:09,560 --> 00:14:10,900
+All right, dynamic mesh slicer, that'll do.
+
+435
+00:14:11,000 --> 00:14:11,920
+It's free, let's go.
+
+436
+00:14:12,100 --> 00:14:13,020
+Boom, all right, what does this do?
+
+437
+00:14:13,960 --> 00:14:14,740
+Oh, okay.
+
+438
+00:14:16,180 --> 00:14:16,980
+Excellent, excellent.
+
+439
+00:14:17,140 --> 00:14:18,360
+That's exactly what we want.
+
+440
+00:14:18,440 --> 00:14:18,860
+Okay, okay.
+
+441
+00:14:18,860 --> 00:14:20,660
+Let's adjust the code so it splits it
+
+442
+00:14:20,660 --> 00:14:21,460
+in half perfectly.
+
+443
+00:14:26,900 --> 00:14:28,480
+Whoa, yeah, making progress.
+
+444
+00:14:28,600 --> 00:14:31,660
+Okay, okay, let's add some rotation to the
+
+445
+00:14:31,660 --> 00:14:32,800
+split so it looks a bit nicer.
+
+446
+00:14:33,040 --> 00:14:34,560
+Okay, now it should cut and then like
+
+447
+00:14:34,560 --> 00:14:35,820
+split nicely.
+
+448
+00:14:36,920 --> 00:14:38,900
+I mean, I guess that was a touch
+
+449
+00:14:38,900 --> 00:14:40,220
+more forceful than I was hoping.
+
+450
+00:14:41,060 --> 00:14:41,460
+Three.
+
+451
+00:14:43,300 --> 00:14:44,480
+Okay, yeah, whatever, that'll do.
+
+452
+00:14:44,560 --> 00:14:45,300
+We gotta move on.
+
+453
+00:14:45,600 --> 00:14:46,820
+Now, what do we need?
+
+454
+00:14:46,880 --> 00:14:48,000
+We need some shit to cut.
+
+455
+00:14:48,380 --> 00:14:50,080
+This is sought by cheap.
+
+456
+00:14:50,740 --> 00:14:52,560
+Food, yeah, sure, you cut food, that works.
+
+457
+00:14:52,620 --> 00:14:53,540
+There's no way this works, right?
+
+458
+00:14:53,800 --> 00:14:54,960
+Get rid of the cube, grip it and
+
+459
+00:14:54,960 --> 00:14:55,240
+ship it.
+
+460
+00:14:55,540 --> 00:14:55,940
+What happens?
+
+461
+00:14:58,300 --> 00:14:58,620
+P?
+
+462
+00:14:58,880 --> 00:14:59,540
+Oh, it's gone.
+
+463
+00:14:59,960 --> 00:15:01,380
+Not allowed to access triangles.
+
+464
+00:15:01,980 --> 00:15:02,680
+Not allowed to act.
+
+465
+00:15:02,860 --> 00:15:03,300
+Oh, you know what?
+
+466
+00:15:03,320 --> 00:15:04,100
+I don't have time for this.
+
+467
+00:15:04,360 --> 00:15:05,460
+Let's bring in the big guns.
+
+468
+00:15:05,900 --> 00:15:06,340
+What is this?
+
+469
+00:15:06,640 --> 00:15:07,900
+Okay, project view, import settings.
+
+470
+00:15:12,600 --> 00:15:13,240
+Yes, okay.
+
+471
+00:15:14,000 --> 00:15:15,360
+Okay, it's kind of shit.
+
+472
+00:15:17,280 --> 00:15:17,820
+You know what?
+
+473
+00:15:17,820 --> 00:15:18,380
+We take those.
+
+474
+00:15:18,560 --> 00:15:19,400
+Okay, okay, okay, okay.
+
+475
+00:15:19,400 --> 00:15:20,800
+We got a splitting apple.
+
+476
+00:15:21,040 --> 00:15:21,380
+What do we need?
+
+477
+00:15:21,440 --> 00:15:22,740
+We need a knife, obviously, duh.
+
+478
+00:15:24,000 --> 00:15:24,820
+Just give me the knife.
+
+479
+00:15:24,940 --> 00:15:27,260
+It's fucking pink every time.
+
+480
+00:15:28,240 --> 00:15:28,640
+Boom.
+
+481
+00:15:31,340 --> 00:15:32,500
+Yes, gaming, okay.
+
+482
+00:15:32,860 --> 00:15:33,980
+Here, we run it, slice.
+
+483
+00:15:34,240 --> 00:15:35,440
+Yes, okay, okay.
+
+484
+00:15:37,180 --> 00:15:38,080
+Let's fucking go.
+
+485
+00:15:38,660 --> 00:15:40,520
+Now, that might have looked like the knife
+
+486
+00:15:40,520 --> 00:15:41,920
+was cutting the thing, but I actually just
+
+487
+00:15:41,920 --> 00:15:43,260
+pressed P at the right time to make
+
+488
+00:15:43,260 --> 00:15:44,140
+it look like that.
+
+489
+00:15:44,500 --> 00:15:45,780
+So we gotta actually make the knife cut
+
+490
+00:15:45,780 --> 00:15:46,100
+the thing.
+
+491
+00:15:46,380 --> 00:15:48,000
+This should cut it without me pressing P.
+
+492
+00:15:48,400 --> 00:15:48,960
+That's the dream.
+
+493
+00:15:51,040 --> 00:15:51,960
+Please, please.
+
+494
+00:15:56,280 --> 00:15:56,740
+Fuck.
+
+495
+00:15:58,180 --> 00:15:59,060
+Oh, here it is.
+
+496
+00:15:59,200 --> 00:16:00,720
+This needs a collider.
+
+497
+00:16:00,920 --> 00:16:02,070
+Yeah, that should fix it.
+
+498
+00:16:03,980 --> 00:16:05,720
+Fucking piece of shit game engine.
+
+499
+00:16:06,120 --> 00:16:06,580
+Goddamn.
+
+500
+00:16:10,810 --> 00:16:11,670
+Yes, okay.
+
+501
+00:16:11,910 --> 00:16:12,870
+It cut it a billion times.
+
+502
+00:16:12,950 --> 00:16:13,270
+Who cares?
+
+503
+00:16:13,790 --> 00:16:15,130
+Move on, move on, move on.
+
+504
+00:16:18,090 --> 00:16:19,750
+Yes, okay, okay.
+
+505
+00:16:20,510 --> 00:16:20,870
+Gaming.
+
+506
+00:16:21,510 --> 00:16:24,310
+All right, now we need the actual movement
+
+507
+00:16:24,310 --> 00:16:24,910
+of the knife.
+
+508
+00:16:24,990 --> 00:16:25,950
+How does the knife actually move?
+
+509
+00:16:27,030 --> 00:16:27,750
+It spins.
+
+510
+00:16:34,450 --> 00:16:35,850
+Oh, I forgot what I was doing.
+
+511
+00:16:36,070 --> 00:16:37,590
+I just started actually playing the game.
+
+512
+00:16:37,850 --> 00:16:38,630
+So it spins.
+
+513
+00:16:39,370 --> 00:16:40,230
+How much time do we have left?
+
+514
+00:16:40,410 --> 00:16:40,930
+40 minutes.
+
+515
+00:16:41,050 --> 00:16:41,550
+Okay, okay.
+
+516
+00:16:41,910 --> 00:16:42,650
+We're doing all right.
+
+517
+00:16:42,690 --> 00:16:43,710
+We're doing all right with 20 minutes.
+
+518
+00:16:43,770 --> 00:16:44,190
+Okay, okay.
+
+519
+00:16:44,330 --> 00:16:44,810
+We're crazy.
+
+520
+00:16:44,930 --> 00:16:46,790
+So as I said earlier, with such grace
+
+521
+00:16:46,790 --> 00:16:49,110
+and articulation, we need to spin the knife,
+
+522
+00:16:49,330 --> 00:16:51,050
+but also we need to apply an upward
+
+523
+00:16:51,050 --> 00:16:52,690
+force and a forward force.
+
+524
+00:16:52,790 --> 00:16:54,530
+So it's sort of like hops forward.
+
+525
+00:16:54,710 --> 00:16:56,250
+If that makes sense, you get it.
+
+526
+00:16:56,370 --> 00:16:56,990
+Let's let it rip.
+
+527
+00:17:00,890 --> 00:17:02,150
+All right, that's interesting.
+
+528
+00:17:02,770 --> 00:17:03,530
+Yeah, that's better.
+
+529
+00:17:03,630 --> 00:17:04,150
+That's what I wanted.
+
+530
+00:17:04,290 --> 00:17:04,869
+Okay, great.
+
+531
+00:17:04,990 --> 00:17:06,310
+Now we just need the camera to follow
+
+532
+00:17:06,310 --> 00:17:07,790
+the knife and we're looking solid.
+
+533
+00:17:08,290 --> 00:17:09,390
+Oh, that's pretty good.
+
+534
+00:17:09,470 --> 00:17:10,250
+That's pretty good, actually.
+
+535
+00:17:10,650 --> 00:17:12,230
+Okay, 20 minutes.
+
+536
+00:17:20,280 --> 00:17:21,000
+Um, okay.
+
+537
+00:17:21,119 --> 00:17:21,500
+Ah, fuck.
+
+538
+00:17:21,599 --> 00:17:22,099
+I lost it again.
+
+539
+00:17:22,180 --> 00:17:23,380
+Um, what are we, what are we doing?
+
+540
+00:17:23,540 --> 00:17:24,040
+Where am I?
+
+541
+00:17:24,400 --> 00:17:26,619
+Um, I need to, I need more shit
+
+542
+00:17:26,619 --> 00:17:26,980
+to cut.
+
+543
+00:17:27,280 --> 00:17:28,620
+See, I added cans.
+
+544
+00:17:29,420 --> 00:17:29,780
+Whoa.
+
+545
+00:17:30,460 --> 00:17:30,820
+Wow.
+
+546
+00:17:31,220 --> 00:17:32,260
+At this point, I thought it was a
+
+547
+00:17:32,260 --> 00:17:34,100
+good idea to get a skybox, which games
+
+548
+00:17:34,100 --> 00:17:36,240
+use to make the sky look like a
+
+549
+00:17:36,240 --> 00:17:36,600
+sky.
+
+550
+00:17:36,800 --> 00:17:38,100
+But Unity was less of a fan of
+
+551
+00:17:38,100 --> 00:17:38,520
+this idea.
+
+552
+00:17:38,740 --> 00:17:39,700
+Oh, this is taking so long.
+
+553
+00:17:41,740 --> 00:17:43,140
+Don't worry about the edge fix ups.
+
+554
+00:17:43,300 --> 00:17:44,740
+Just go, go.
+
+555
+00:17:46,280 --> 00:17:47,900
+I should have just set it to orange.
+
+556
+00:17:48,040 --> 00:17:48,320
+Go.
+
+557
+00:17:48,320 --> 00:17:49,720
+Oh my God.
+
+558
+00:17:50,180 --> 00:17:53,340
+Unity, please, please, please.
+
+559
+00:17:54,180 --> 00:17:54,500
+Okay.
+
+560
+00:17:55,360 --> 00:17:57,600
+You can't be busy for 60.
+
+561
+00:17:58,140 --> 00:17:59,120
+That's over a minute.
+
+562
+00:17:59,720 --> 00:18:00,580
+I'm sorry.
+
+563
+00:18:01,180 --> 00:18:01,520
+I'm sorry.
+
+564
+00:18:01,540 --> 00:18:03,320
+That was a ridiculous thing to ask for.
+
+565
+00:18:03,440 --> 00:18:04,880
+I shouldn't have tried to skybox.
+
+566
+00:18:04,960 --> 00:18:05,660
+That was dumb.
+
+567
+00:18:05,780 --> 00:18:06,460
+I'm sorry.
+
+568
+00:18:06,640 --> 00:18:07,820
+Unity, I'm sorry.
+
+569
+00:18:08,400 --> 00:18:08,920
+I'm free.
+
+570
+00:18:09,640 --> 00:18:10,860
+Hi, I'm sorry about shit.
+
+571
+00:18:11,040 --> 00:18:11,560
+Fuck you.
+
+572
+00:18:12,000 --> 00:18:12,600
+Let's go.
+
+573
+00:18:12,840 --> 00:18:13,380
+Skybox.
+
+574
+00:18:13,960 --> 00:18:15,660
+Oh, I forgot I added the ground.
+
+575
+00:18:16,900 --> 00:18:17,780
+It's perfect.
+
+576
+00:18:17,780 --> 00:18:18,380
+No notes.
+
+577
+00:18:18,840 --> 00:18:19,280
+Ah, fuck.
+
+578
+00:18:19,400 --> 00:18:20,580
+The ground doesn't even ground.
+
+579
+00:18:20,800 --> 00:18:21,780
+Ah, I should have that.
+
+580
+00:18:21,880 --> 00:18:22,860
+I should make that do that.
+
+581
+00:18:23,020 --> 00:18:23,600
+Okay, fuck.
+
+582
+00:18:23,700 --> 00:18:24,320
+I think I did it.
+
+583
+00:18:24,420 --> 00:18:25,940
+We got like 10 minutes left, but I'm
+
+584
+00:18:25,940 --> 00:18:26,840
+feeling good about this.
+
+585
+00:18:30,610 --> 00:18:31,250
+That's rough.
+
+586
+00:18:31,430 --> 00:18:32,090
+That's rough.
+
+587
+00:18:32,170 --> 00:18:33,130
+That's rough to watch.
+
+588
+00:18:33,710 --> 00:18:34,650
+Oh my God.
+
+589
+00:18:34,770 --> 00:18:36,390
+What the fuck is happening?
+
+590
+00:18:37,370 --> 00:18:39,470
+I just wanted to make the ground ground.
+
+591
+00:18:39,770 --> 00:18:40,110
+You know what?
+
+592
+00:18:40,210 --> 00:18:40,530
+Fuck this.
+
+593
+00:18:40,590 --> 00:18:41,690
+You've lost collider privileges.
+
+594
+00:18:42,010 --> 00:18:43,330
+It'll be our little secret that you can
+
+595
+00:18:43,330 --> 00:18:44,150
+just go through the ground.
+
+596
+00:18:44,230 --> 00:18:44,830
+Don't tell anyone.
+
+597
+00:18:46,210 --> 00:18:46,910
+Eight minutes.
+
+598
+00:18:47,270 --> 00:18:48,730
+I added some more stuff to cut, like
+
+599
+00:18:48,730 --> 00:18:49,250
+doughnuts.
+
+600
+00:18:49,770 --> 00:18:51,190
+Oh, don't look at that.
+
+601
+00:18:51,930 --> 00:18:54,010
+I also added the score, which I apparently
+
+602
+00:18:54,010 --> 00:18:55,210
+put in the middle of the screen.
+
+603
+00:18:57,290 --> 00:18:58,770
+It's a bold choice.
+
+604
+00:18:58,910 --> 00:19:00,750
+And I added a finish line and...
+
+605
+00:19:00,750 --> 00:19:01,290
+Oh, okay.
+
+606
+00:19:07,790 --> 00:19:09,530
+All right, let's cut some shit.
+
+607
+00:19:09,950 --> 00:19:11,710
+I think visually this one's the worst.
+
+608
+00:19:11,810 --> 00:19:12,850
+I think it looks like shit.
+
+609
+00:19:16,430 --> 00:19:17,350
+Okay, it's pretty good.
+
+610
+00:19:21,390 --> 00:19:23,450
+Oh, huge lag spike there.
+
+611
+00:19:23,530 --> 00:19:23,990
+That's okay.
+
+612
+00:19:27,150 --> 00:19:29,250
+Eggplant splits into 4,000 parts.
+
+613
+00:19:30,750 --> 00:19:32,330
+Whoa, did you see that?
+
+614
+00:19:33,830 --> 00:19:35,430
+Whoa, what the fuck?
+
+615
+00:19:35,910 --> 00:19:37,130
+What is going on?
+
+616
+00:19:37,370 --> 00:19:38,130
+Oh, wait a second.
+
+617
+00:19:40,250 --> 00:19:42,370
+Oh, oh, I see what's happening.
+
+618
+00:19:42,930 --> 00:19:45,490
+I left some scripts that when you click
+
+619
+00:19:45,490 --> 00:19:46,870
+on something, it splits it apart.
+
+620
+00:19:46,870 --> 00:19:50,050
+Okay, until I was clicking on the ground.
+
+621
+00:19:50,310 --> 00:19:51,110
+Oh my god.
+
+622
+00:19:51,530 --> 00:19:52,290
+Okay, that makes sense.
+
+623
+00:19:52,390 --> 00:19:54,350
+I was clicking on the ground and because
+
+624
+00:19:54,350 --> 00:19:55,430
+of that, it was splitting the ground.
+
+625
+00:19:55,510 --> 00:19:56,230
+So this should reset it.
+
+626
+00:19:56,290 --> 00:19:56,830
+It does!
+
+627
+00:19:57,630 --> 00:19:57,990
+Huge!
+
+628
+00:19:58,090 --> 00:19:58,830
+That actually worked.
+
+629
+00:19:59,490 --> 00:20:01,030
+So if I don't click on the ground...
+
+630
+00:20:04,130 --> 00:20:05,270
+It looks pretty good.
+
+631
+00:20:06,250 --> 00:20:07,330
+Do you like if I click on that
+
+632
+00:20:07,330 --> 00:20:07,570
+can?
+
+633
+00:20:08,410 --> 00:20:09,130
+Click on that can.
+
+634
+00:20:13,270 --> 00:20:14,950
+This is not really how you're supposed to
+
+635
+00:20:14,950 --> 00:20:15,470
+play the game.
+
+636
+00:20:16,870 --> 00:20:17,850
+I can just click on this.
+
+637
+00:20:17,990 --> 00:20:20,350
+Yeah, I can just click on them.
+
+638
+00:20:20,510 --> 00:20:21,270
+Makes it a lot easier.
+
+639
+00:20:21,630 --> 00:20:22,070
+Let me get that guy.
+
+640
+00:20:22,830 --> 00:20:23,210
+Can I...
+
+641
+00:20:23,210 --> 00:20:24,790
+What happens if I click on the finish
+
+642
+00:20:24,790 --> 00:20:25,070
+line?
+
+643
+00:20:26,830 --> 00:20:27,310
+What happened?
+
+644
+00:20:30,520 --> 00:20:30,840
+Nothing.
+
+645
+00:20:31,060 --> 00:20:31,460
+Oh, wait.
+
+646
+00:20:32,340 --> 00:20:33,860
+I think I split it in half and
+
+647
+00:20:33,860 --> 00:20:35,480
+then I can go through this finish line.
+
+648
+00:20:35,560 --> 00:20:37,820
+Oh my god, I'm free.
+
+649
+00:20:39,320 --> 00:20:40,560
+Okay, let's run it back one more time.
+
+650
+00:20:40,640 --> 00:20:41,440
+I want to see what score I get.
+
+651
+00:20:41,600 --> 00:20:42,140
+Oh wait, is that...
+
+652
+00:20:43,000 --> 00:20:45,340
+Is that Brilliant.org cutting through the competition?
+
+653
+00:20:45,340 --> 00:20:45,840
+What?
+
+654
+00:20:47,840 --> 00:20:48,640
+So dumb.
+
+655
+00:20:49,060 --> 00:20:50,360
+Oh my god, I think that was the
+
+656
+00:20:50,360 --> 00:20:52,160
+worst segue I've done in my life.
+
+657
+00:20:52,320 --> 00:20:53,940
+Okay, Brilliant.org.
+
+658
+00:20:54,060 --> 00:20:55,600
+People often ask me how I got this
+
+659
+00:20:55,600 --> 00:20:56,560
+good at making games.
+
+660
+00:20:56,720 --> 00:20:58,440
+Well, the trick to achieving this level of
+
+661
+00:20:58,440 --> 00:21:00,340
+mastery is breaking the journey up into small
+
+662
+00:21:00,340 --> 00:21:01,940
+steps and learning something every day.
+
+663
+00:21:02,140 --> 00:21:03,860
+Brilliant is the epitome of this philosophy by
+
+664
+00:21:03,860 --> 00:21:05,980
+helping you build real knowledge in just minutes
+
+665
+00:21:05,980 --> 00:21:06,300
+a day.
+
+666
+00:21:06,420 --> 00:21:08,460
+It's like the opposite of mindless doomscrolling.
+
+667
+00:21:08,660 --> 00:21:09,500
+Instead of watching this...
+
+668
+00:21:09,500 --> 00:21:10,860
+On the left side, the internet won't let
+
+669
+00:21:10,860 --> 00:21:11,660
+him in the right side.
+
+670
+00:21:11,820 --> 00:21:12,840
+Are you serious right now?
+
+671
+00:21:12,920 --> 00:21:14,560
+You could be doing an interactive course learning
+
+672
+00:21:14,560 --> 00:21:17,260
+about how large language models like Chachapiti work,
+
+673
+00:21:17,380 --> 00:21:18,360
+or you could take one of the many
+
+674
+00:21:18,360 --> 00:21:20,020
+courses on programming, which are a good way
+
+675
+00:21:20,020 --> 00:21:22,620
+to build foundations and learn real world applications.
+
+676
+00:21:22,820 --> 00:21:24,740
+Brilliant's courses are also available right on your
+
+677
+00:21:24,740 --> 00:21:26,000
+phone, so you can do them whenever you
+
+678
+00:21:26,000 --> 00:21:26,680
+have a spare minute.
+
+679
+00:21:26,760 --> 00:21:28,380
+Whether that's when you're on the toilet or
+
+680
+00:21:28,380 --> 00:21:30,520
+driving on a particularly straight road, you can
+
+681
+00:21:30,520 --> 00:21:32,240
+level up on the go in just minutes.
+
+682
+00:21:32,440 --> 00:21:34,200
+So to support this channel and try everything
+
+683
+00:21:34,200 --> 00:21:36,060
+Brilliant has to offer for free for a
+
+684
+00:21:36,060 --> 00:21:38,540
+full 30 days, visit brilliant.org code bullet
+
+685
+00:21:38,540 --> 00:21:40,400
+or scan the QR code on screen, or
+
+686
+00:21:40,400 --> 00:21:41,680
+you can click the link in the description.
+
+687
+00:21:41,880 --> 00:21:43,460
+You'll also get 20% off an annual
+
+688
+00:21:43,460 --> 00:21:44,320
+premium subscription.
+
+689
+00:21:44,500 --> 00:21:45,300
+Thank you, Brilliant.
+
+690
+00:21:45,660 --> 00:21:47,280
+Hey, it's Patreon battle time.
+
+691
+00:21:47,380 --> 00:21:48,240
+Okay, thanks for watching.
+
+692
+00:21:48,400 --> 00:21:49,460
+This one is fun to make.
+
+693
+00:21:49,600 --> 00:21:51,020
+Kind of crazy how close I got to
+
+694
+00:21:51,020 --> 00:21:52,040
+the games within an hour.
+
+695
+00:21:52,500 --> 00:21:54,440
+Of course, they're not as good as the
+
+696
+00:21:54,440 --> 00:21:54,900
+originals.
+
+697
+00:21:55,040 --> 00:21:56,660
+The originals had a lot more like polish
+
+698
+00:21:56,660 --> 00:21:57,280
+and stuff.
+
+699
+00:21:57,680 --> 00:21:59,000
+And like honestly, like a lot of the
+
+700
+00:21:59,000 --> 00:22:01,020
+originals had just like a lot more level
+
+701
+00:22:01,020 --> 00:22:01,860
+design, I guess.
+
+702
+00:22:01,940 --> 00:22:02,680
+Like a lot more, they had a lot
+
+703
+00:22:02,680 --> 00:22:04,480
+more levels to play through, which probably would
+
+704
+00:22:04,480 --> 00:22:05,940
+have taken a bit more time.
+
+705
+00:22:05,940 --> 00:22:06,660
+It was kind of crazy.
+
+706
+00:22:06,820 --> 00:22:09,560
+Like all the functionality was kind of essentially
+
+707
+00:22:09,560 --> 00:22:09,900
+there.
+
+708
+00:22:12,040 --> 00:22:12,860
+Which is nuts.
+
+709
+00:22:13,300 --> 00:22:14,480
+Yeah, I was pretty happy with that one.
+
+710
+00:22:15,140 --> 00:22:17,300
+Especially the first game, the Countmasters one.
+
+711
+00:22:17,500 --> 00:22:19,140
+That was actually like, I thought that was
+
+712
+00:22:19,140 --> 00:22:19,540
+really cool.
+
+713
+00:22:19,940 --> 00:22:21,220
+The knife one was kind of shit.
+
+714
+00:22:21,700 --> 00:22:23,120
+If for some reason you want to play
+
+715
+00:22:23,120 --> 00:22:24,520
+them, I don't know why you would.
+
+716
+00:22:24,600 --> 00:22:26,280
+But if for some reason you do, they
+
+717
+00:22:26,280 --> 00:22:27,080
+are on my Patreon.
+
+718
+00:22:27,360 --> 00:22:28,300
+So you can go check that out.
+
+719
+00:22:28,400 --> 00:22:29,520
+Maybe you want to see if you can
+
+720
+00:22:29,520 --> 00:22:32,060
+beat my score on how long it took
+
+721
+00:22:32,060 --> 00:22:33,840
+the Countmasters thing to end or something.
+
+722
+00:22:34,300 --> 00:22:35,720
+Yeah, I mean, obviously they're buggy.
+
+723
+00:22:35,720 --> 00:22:38,720
+They are not fun, but they're there.
+
+724
+00:22:38,920 --> 00:22:40,180
+I hope you like this sort of like
+
+725
+00:22:40,180 --> 00:22:41,220
+lower effort content.
+
+726
+00:22:41,560 --> 00:22:43,040
+It's still like a lot of editing and
+
+727
+00:22:43,040 --> 00:22:43,380
+all that.
+
+728
+00:22:43,560 --> 00:22:46,660
+But like the actual project themselves obviously took
+
+729
+00:22:46,660 --> 00:22:49,300
+me three hours, which is way less than
+
+730
+00:22:49,300 --> 00:22:50,140
+my usual project.
+
+731
+00:22:50,160 --> 00:22:52,340
+Because I kind of get stuck in scope
+
+732
+00:22:52,340 --> 00:22:54,240
+creep hell of like, oh, I should add
+
+733
+00:22:54,240 --> 00:22:54,420
+this.
+
+734
+00:22:54,500 --> 00:22:54,960
+I should add this.
+
+735
+00:22:54,980 --> 00:22:55,540
+I should add this.
+
+736
+00:22:55,600 --> 00:22:56,840
+So then it ends up taking like six
+
+737
+00:22:56,840 --> 00:22:57,100
+months.
+
+738
+00:22:57,220 --> 00:22:59,560
+So giving it like an hour or 24
+
+739
+00:22:59,560 --> 00:23:01,760
+hours or whatever, some sort of time limit
+
+740
+00:23:01,760 --> 00:23:04,740
+or challenge or whatever makes it a set
+
+741
+00:23:04,740 --> 00:23:06,580
+scope of how much time I can spend
+
+742
+00:23:06,580 --> 00:23:06,800
+on it.
+
+743
+00:23:06,900 --> 00:23:07,000
+Okay.
+
+744
+00:23:07,080 --> 00:23:08,920
+Anyway, congrats to Report Turret.
+
+745
+00:23:09,340 --> 00:23:10,520
+You win some free merch.
+
+746
+00:23:10,620 --> 00:23:11,260
+I'll be in contact.
+
+747
+00:23:11,440 --> 00:23:12,400
+Okay, bye.

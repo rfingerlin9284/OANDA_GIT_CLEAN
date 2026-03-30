@@ -1,0 +1,506 @@
+(0:00 - 0:09)
+Have you ever seen those mobile game ads in GORN? This game looks so shi- I bet I could make this in like, one hour. Well, uh, I have. Let's do it! The rules of this challenge are simple.
+
+(0:10 - 0:28)
+I have exactly 60 minutes to get as close as possible to the game. I've found three different mobile games, and I'm gonna see how close I can get to each of them within an hour. Alright, the first game is this piece of shi- It's called Countmasters.
+
+(0:28 - 0:33)
+And if you already knew that, then that's really sad. This is the poster boy for shi-ty mobile games. It's a classic.
+
+(0:33 - 0:37)
+I'm sure you've seen it around. Alright, new Unity scene. New timer.
+
+(0:37 - 0:42)
+Let's do this. Okay, ah, I forgot it starts right away. Alright, let's start with a platform to run on.
+
+(0:42 - 0:46)
+Okay, great. And now we need a character to do the- to run. To be the runner.
+
+(0:47 - 0:56)
+Oh, shi- She's zooming! Me when your ma- Me when your mom is- Okay. Boom. Yes, okay, we've got a running guy.
+
+(0:57 - 1:05)
+Oh, excellent. Now we need to set up a navmesh, which is Unity's pathfinding shi- That just helps our guys move together and follow like a central point. Okay, please.
+
+(1:05 - 1:14)
+Yes! Yes! Okay, okay, okay, okay. And then if I move the sphere around, it should run towards the sphere. Yes, it's all covered together.
+
+(1:14 - 1:26)
+Now we just have to move the sphere down the thingy, and they should follow. Okay. We got a game going.
+
+(1:26 - 1:31)
+Hell yeah. Easy, easy. Okay, uh, it's gate time.
+
+(1:31 - 1:51)
+It's fucking gate time, boys. Alright, let's run this bitch. Uh, times- Okay, that was a fucking useless test.
+
+(1:51 - 2:06)
+Okay, times two should spawn another guy- Ah, okay. Nope, sad. I think you- Alright, alright.
+
+(2:06 - 2:30)
+That's fair. That's fair enough. Times ten? Uh, yes, yes, yes, yes, yes! Okay, let's add some more gates, and we got a game, baby! Plus one? Boom.
+
+(2:31 - 2:39)
+Fourteen? Just- just fourteen? Uh, times two, double it and give it to the next guy. Double it again- I'm so goaded. Holy shit.
+
+(2:41 - 2:48)
+Now let's go minus six. I think times zero might break the whole game, and I don't want to deal with that right now. If you don't test for it, the bug doesn't exist.
+
+(2:48 - 2:52)
+Write that down. Okay, let's like clump them together a little more. They're a little too spaced out.
+
+(2:52 - 2:58)
+Okay, divided by one? Nice. Times ten? Uh, I should have done plus forty-five. I'm bad at this.
+
+(2:58 - 3:04)
+I'm the guy in the ad. Plus seventeen, times four. Oh, hell yeah.
+
+(3:05 - 3:11)
+Plus seventeen. This game's so easy. This looks great.
+
+(3:11 - 3:18)
+Actually, it looks so good. Next, I cranked up the saturation of the players to appeal to your stupid monkey brains. Plus forty-three? Excellent.
+
+(3:19 - 3:23)
+Beautiful, beautiful. Okay, I have twenty-three minutes left. That's a while.
+
+(3:23 - 3:30)
+That's not bad, actually. Okay, with the time left, I decided to make some of the obstacles. Uh, so there's, I added the spinny c***s, which kill players if you touch it.
+
+(3:31 - 3:37)
+Uh-oh. Come on, speed up. Why did I put it right at the end? I don't have time for this.
+
+(3:37 - 3:43)
+Oh, yes. Okay, yes, great. Okay, now let's just add some more of them, and I'll add some basic obstacles as well.
+
+(3:43 - 3:52)
+And finally, we need a finish line, which should stop the sphere from moving, and just do something pretty to celebrate. So in the actual game, they do this. But that's a lot of whack, so instead they do this.
+
+(3:54 - 3:59)
+Which is pretty good, I think. That's something. With my last minute, I basically had no time to do anything.
+
+(3:59 - 4:06)
+Uh, so I just decided to set the background to an obnoxious color. Let's make it f***ing vibrant green or some s***. No, that looks terrible.
+
+(4:07 - 4:09)
+Red. No, pink. There you go.
+
+(4:09 - 4:10)
+There you go. That's a mobile game. Okay.
+
+(4:11 - 4:22)
+Done. Done! Oh! Wow. That was f***.
+
+(4:24 - 4:29)
+I'm actually pretty happy with this one. Okay, let's test this. But before I do, I do have a confession.
+
+(4:29 - 4:39)
+After completing each of these games, I did go through and make some changes. But, but, but. All I did was sound effects and music.
+
+(4:39 - 4:45)
+I did not touch the functionality of the game whatsoever. If you count that as cheating, then, uh, keep it to yourself. I don't care.
+
+(4:45 - 4:48)
+Okay, let's see how I did. Okay, let's go. Oh, it's right into it.
+
+(4:48 - 4:53)
+Times three. Oh, my guy's already gone. Okay, that's a rough start.
+
+(4:53 - 4:57)
+I'm ready this time. I'm ready. Um, okay.
+
+(4:57 - 5:02)
+Bad start. Okay, once again, terrible start. I am so bad at this.
+
+(5:02 - 5:07)
+All right, let's close everything and reopen it. I really should have added a restart function, but you know, that's okay. We do not have time.
+
+(5:08 - 5:12)
+Minus 48. Okay. But I still have one guy alive.
+
+(5:12 - 5:14)
+That's pretty good. Okay, I'm ready. I'm ready.
+
+(5:14 - 5:17)
+One of the spikes is white. That's okay. That's, that was an aesthetic choice.
+
+(5:18 - 5:23)
+Okay, plus 55. Nice. Oh, can we get that plus 53? Yes.
+
+(5:23 - 5:27)
+Okay, we lost a few, but that's okay. Plus 48. We're getting big numbers here.
+
+(5:27 - 5:30)
+I like it. Nope, never mind. Yeah, I'll go to times one.
+
+(5:31 - 5:35)
+What's this expert piloting? I call this the weave. Oh, baby. Oh, my God.
+
+(5:35 - 5:41)
+The footsteps get so loud. That's so annoying. Oh, we did it.
+
+(5:41 - 5:54)
+Yeah, I guess. I mean, you can't really lose this game. This goes on for a while, huh? Whoa, that's gaming.
+
+(5:55 - 6:02)
+It should be possible to get an absurd amount of boys. I'm seeing a time seven at the end. Baby, that's going to be huge.
+
+(6:02 - 6:08)
+Oh, what's this? The wave is back, baby. Woo. This time seven is going to be brutal on performance.
+
+(6:09 - 6:19)
+You ready? Oh, the music stopped. Oh, no. I have no idea how many lads we've got, but it's a lot.
+
+(6:20 - 6:31)
+This is not as satisfying as I expected. Okay, we got there. Finally.
+
+(6:31 - 6:36)
+Oh, my God. I still think we can go more. Code bullet on a horse.
+
+(6:36 - 6:40)
+He's on a horse. Plus, I think you have like two seconds to make the first decision. Oh, this one's looking good.
+
+(6:40 - 6:49)
+I think I'm seeing a lot of big multiplications. We got a time six, a plus 47, and then a time seven. Ready? Music's gone again.
+
+(6:49 - 7:02)
+Oh, we got a times 10 at the end. This is going to absolutely destroy my computer. You ready? Oh, it's trying.
+
+(7:05 - 7:20)
+Oh, Jesus. Okay, let's see how long we're here for. Oh, we did it.
+
+(7:21 - 7:32)
+Let's go. It's only, what, 24 minutes. Hell yeah, that's quality gameplay, baby.
+
+(7:33 - 7:41)
+That's what it's all about. I love it when games break my computer for 24 minutes. Okay, next game.
+
+(7:46 - 7:53)
+Okay, for the next game, we're going to... Oh, my God. What? What the fuck is even that? What am I looking at? Is it dangerous? It's looking at me. It's looking at me.
+
+(7:53 - 7:58)
+Security. Can we get security in here, please? No, it's looking at the camera. Oh, fuck.
+
+(7:59 - 8:03)
+Is he going to take the camera? You can have the camera. It's fine. It's theoretical anyway.
+
+(8:06 - 8:24)
+Bye, GamersOps. What? Is this an ad? Okay, game two is attack hole. Okay, so basically, you're a hole.
+
+(8:26 - 8:30)
+You pick up bullets. Very nice. Then you get bigger, and then you can pick up shotgun shells.
+
+(8:30 - 8:37)
+Look at this. Oh, baby. Then when the time runs out, you shoot everything at this robot guy.
+
+(8:37 - 8:40)
+I don't know what he did. I don't know what his story is. But apparently, we don't like him.
+
+(8:40 - 8:43)
+Anyway, you know the drill. New project, new timer. Let's send it.
+
+(8:44 - 8:55)
+All right, first, we need to figure out how to make a hole, because I don't know how to do that. First off, we also want to override the stencil settings. Select one for both objects to be on the same stencil layer.
+
+(8:56 - 9:01)
+For the compare function, we don't want to- No, fuck that. That sounds so complicated. All right, I have a plan.
+
+(9:01 - 9:05)
+Hold my beer. Boom. Hole.
+
+(9:05 - 9:10)
+Fuck you. Did they fall in the hole? They fell in the hole! Okay, okay. Yeah.
+
+(9:10 - 9:18)
+Okay, let's make the hole look more hole-like, and let's add some basic controls. And also, I made it a bit prettier. Wow, that looks like shit.
+
+(9:19 - 9:28)
+Perfect. Okay, let's add some scripts. One that keeps track of the bullets that fall in the hole, one that moves the hole and increases its size, and one little guy that just holds how many points each bullet type is worth.
+
+(9:28 - 9:32)
+All right, let's fucking grip it and ship it. See what happens. It might even work.
+
+(9:32 - 9:35)
+Anything is possible. Okay, it didn't crash immediately. That's better than usual.
+
+(9:36 - 9:42)
+Oh wow, the hole did get bigger. It was not the most graceful animation I've ever seen, but it works. All right, here's what's happening.
+
+(9:42 - 9:53)
+At the moment, the hole is increasing in size like this, which does make it bigger, but it shifts the center of the hole over, and essentially just makes it look like shit. I want to increase the size of the hole relative to the center of the hole. And to mark the center, I made this little guy.
+
+(9:53 - 10:02)
+Isn't he cute? His name is, uh, Sphere. It's, it's European. That looks like it worked.
+
+(10:02 - 10:08)
+Yes! All right, no, no, no, no, no, no, no, no, no, no, no. I am so good at things. Yes! All right, I added some shit.
+
+(10:08 - 10:18)
+We got bullet, long bullet, square bullet, pointy bullet, bullet holder, and long bullet holder. I don't know about guns. I'm Australian.
+
+(10:19 - 10:38)
+All right, hole is done. Now we just need to make a robot, give it a health bar, have it move towards us, store all the bullets we eat, then shoot them at the robot and deal the appropriate damage, and have the robot kill us when it touches us, and have the robot die when its health runs out, and add a bunch more bullets to eat, and add a timer for how long we can eat stuff, and change the camera to see the robot, all in 23 minutes. Fuck.
+
+(10:38 - 11:39)
+Okay, I'm gonna have to lock in, so it's montage time. Okay, we're done. We're done.
+
+(11:39 - 11:45)
+Woo! That was fucked. That one was so much harder. Oh my god.
+
+(11:45 - 11:49)
+All right, whole game. Let's see. Let's see how we did.
+
+(11:49 - 11:55)
+I've not tested any of this. Oh right, we got, I forgot we had a timer. All right, go, go, go.
+
+(11:55 - 12:03)
+All right, let's grab these boys first. Nom, nom, nom, nom, nom, nom, nom. Oh, that guy does go.
+
+(12:03 - 12:11)
+Oh, they're all falling over. Don't worry about that. Why is that? Why did they fall over? Whatever, whatever.
+
+(12:13 - 12:20)
+That's okay, that happens. All right, let's get some bigger bullets. Pretty good, oh.
+
+(12:23 - 12:28)
+That's okay, that's fine. That's fine, everything's fine. This is normal.
+
+(12:29 - 12:35)
+He's still there, he's still stuck. Let's get some pointy bullets. Fuck yes.
+
+(12:39 - 12:43)
+This game's actually fun. I'm actually, like, enjoying this. That's crazy.
+
+(12:44 - 12:57)
+All right, can we get the big ones? Oh my god. Oh no. Oh, that's not ideal.
+
+(12:59 - 13:05)
+You gotta, guys, you missed him. You missed him. Let's go again for the sake of the video, not because I'm having fun.
+
+(13:16 - 13:28)
+Happens to the best. What did three men they say? I think they do damage when it runs into him. Perfect, no notes.
+
+(13:28 - 13:38)
+No notes. Welcome to game three. We got a knife, it spins.
+
+(13:38 - 13:43)
+That's pretty much it. That's the whole game, you cut shit. Yeah, what you see is what you get.
+
+(13:43 - 13:47)
+Yeah, I don't know what else to say. That's all this is. Okay, let's get to work.
+
+(13:47 - 13:54)
+Okay, we got a brand new unity scene. And let's start a timer for 60 minutes. Ah, okay, we're going, we're going, we're going.
+
+(13:54 - 14:02)
+All right, so first up, we need a way of splitting shit in half. I think that's going to be the hardest thing. So we could cut it ourselves, but we do not have time for that shit.
+
+(14:02 - 14:09)
+So let's steal someone else's work. I'm sure that's what the creators of this did anyway. Come on, come on, come on, come on, come on.
+
+(14:10 - 14:15)
+All right, dynamic mesh slicer, that'll do. It's free, let's go. Boom, all right, what does this do? Oh, okay.
+
+(14:16 - 14:19)
+Excellent, excellent. That's exactly what we want. Okay, okay.
+
+(14:19 - 14:33)
+Let's adjust the code so it splits it in half perfectly. Whoa, yeah, making progress. Okay, okay, let's add some rotation to the split so it looks a bit nicer.
+
+(14:33 - 14:41)
+Okay, now it should cut and then like split nicely. I mean, I guess that was a touch more forceful than I was hoping. Three.
+
+(14:43 - 14:48)
+Okay, yeah, whatever, that'll do. We gotta move on. Now, what do we need? We need some shit to cut.
+
+(14:48 - 14:55)
+This is sought by cheap. Food, yeah, sure, you cut food, that works. There's no way this works, right? Get rid of the cube, grip it and ship it.
+
+(14:56 - 15:03)
+What happens? P? Oh, it's gone. Not allowed to access triangles. Not allowed to act.
+
+(15:03 - 15:08)
+Oh, you know what? I don't have time for this. Let's bring in the big guns. What is this? Okay, project view, import settings.
+
+(15:13 - 15:18)
+Yes, okay. Okay, it's kind of shit. You know what? We take those.
+
+(15:19 - 15:23)
+Okay, okay, okay, okay. We got a splitting apple. What do we need? We need a knife, obviously, duh.
+
+(15:24 - 15:29)
+Just give me the knife. It's fucking pink every time. Boom.
+
+(15:31 - 15:35)
+Yes, gaming, okay. Here, we run it, slice. Yes, okay, okay.
+
+(15:37 - 15:46)
+Let's fucking go. Now, that might have looked like the knife was cutting the thing, but I actually just pressed P at the right time to make it look like that. So we gotta actually make the knife cut the thing.
+
+(15:46 - 15:57)
+This should cut it without me pressing P. That's the dream. Please, please. Fuck.
+
+(15:58 - 16:02)
+Oh, here it is. This needs a collider. Yeah, that should fix it.
+
+(16:04 - 16:12)
+Fucking piece of shit game engine. Goddamn. Yes, okay.
+
+(16:12 - 16:20)
+It cut it a billion times. Who cares? Move on, move on, move on. Yes, okay, okay.
+
+(16:21 - 16:28)
+Gaming. All right, now we need the actual movement of the knife. How does the knife actually move? It spins.
+
+(16:34 - 16:39)
+Oh, I forgot what I was doing. I just started actually playing the game. So it spins.
+
+(16:39 - 16:43)
+How much time do we have left? 40 minutes. Okay, okay. We're doing all right.
+
+(16:43 - 16:45)
+We're doing all right with 20 minutes. Okay, okay. We're crazy.
+
+(16:45 - 16:56)
+So as I said earlier, with such grace and articulation, we need to spin the knife, but also we need to apply an upward force and a forward force. So it's sort of like hops forward. If that makes sense, you get it.
+
+(16:56 - 17:04)
+Let's let it rip. All right, that's interesting. Yeah, that's better.
+
+(17:04 - 17:08)
+That's what I wanted. Okay, great. Now we just need the camera to follow the knife and we're looking solid.
+
+(17:08 - 17:12)
+Oh, that's pretty good. That's pretty good, actually. Okay, 20 minutes.
+
+(17:20 - 17:22)
+Um, okay. Ah, fuck. I lost it again.
+
+(17:22 - 17:30)
+Um, what are we, what are we doing? Where am I? Um, I need to, I need more shit to cut. See, I added cans. Whoa.
+
+(17:30 - 17:39)
+Wow. At this point, I thought it was a good idea to get a skybox, which games use to make the sky look like a sky. But Unity was less of a fan of this idea.
+
+(17:39 - 17:45)
+Oh, this is taking so long. Don't worry about the edge fix ups. Just go, go.
+
+(17:46 - 17:50)
+I should have just set it to orange. Go. Oh my God.
+
+(17:50 - 17:58)
+Unity, please, please, please. Okay. You can't be busy for 60.
+
+(17:58 - 18:02)
+That's over a minute. I'm sorry. I'm sorry.
+
+(18:02 - 18:06)
+That was a ridiculous thing to ask for. I shouldn't have tried to skybox. That was dumb.
+
+(18:06 - 18:09)
+I'm sorry. Unity, I'm sorry. I'm free.
+
+(18:10 - 18:13)
+Hi, I'm sorry about shit. Fuck you. Let's go.
+
+(18:13 - 18:18)
+Skybox. Oh, I forgot I added the ground. It's perfect.
+
+(18:18 - 18:21)
+No notes. Ah, fuck. The ground doesn't even ground.
+
+(18:21 - 18:24)
+Ah, I should have that. I should make that do that. Okay, fuck.
+
+(18:24 - 18:31)
+I think I did it. We got like 10 minutes left, but I'm feeling good about this. That's rough.
+
+(18:31 - 18:35)
+That's rough. That's rough to watch. Oh my God.
+
+(18:35 - 18:42)
+What the fuck is happening? I just wanted to make the ground ground. You know what? Fuck this. You've lost collider privileges.
+
+(18:42 - 18:47)
+It'll be our little secret that you can just go through the ground. Don't tell anyone. Eight minutes.
+
+(18:47 - 18:55)
+I added some more stuff to cut, like doughnuts. Oh, don't look at that. I also added the score, which I apparently put in the middle of the screen.
+
+(18:57 - 19:10)
+It's a bold choice. And I added a finish line and... Oh, okay. All right, let's cut some shit.
+
+(19:10 - 19:17)
+I think visually this one's the worst. I think it looks like shit. Okay, it's pretty good.
+
+(19:21 - 19:29)
+Oh, huge lag spike there. That's okay. Eggplant splits into 4,000 parts.
+
+(19:31 - 19:47)
+Whoa, did you see that? Whoa, what the fuck? What is going on? Oh, wait a second. Oh, oh, I see what's happening. I left some scripts that when you click on something, it splits it apart.
+
+(19:47 - 19:52)
+Okay, until I was clicking on the ground. Oh my god. Okay, that makes sense.
+
+(19:52 - 19:59)
+I was clicking on the ground and because of that, it was splitting the ground. So this should reset it. It does! Huge! That actually worked.
+
+(19:59 - 20:15)
+So if I don't click on the ground... It looks pretty good. Do you like if I click on that can? Click on that can. This is not really how you're supposed to play the game.
+
+(20:17 - 20:21)
+I can just click on this. Yeah, I can just click on them. Makes it a lot easier.
+
+(20:22 - 20:31)
+Let me get that guy. Can I... What happens if I click on the finish line? What happened? Nothing. Oh, wait.
+
+(20:32 - 20:41)
+I think I split it in half and then I can go through this finish line. Oh my god, I'm free. Okay, let's run it back one more time.
+
+(20:41 - 20:52)
+I want to see what score I get. Oh wait, is that... Is that Brilliant.org cutting through the competition? What? So dumb. Oh my god, I think that was the worst segue I've done in my life.
+
+(20:52 - 21:06)
+Okay, Brilliant.org. People often ask me how I got this good at making games. Well, the trick to achieving this level of mastery is breaking the journey up into small steps and learning something every day. Brilliant is the epitome of this philosophy by helping you build real knowledge in just minutes a day.
+
+(21:06 - 21:23)
+It's like the opposite of mindless doomscrolling. Instead of watching this... On the left side, the internet won't let him in the right side. Are you serious right now? You could be doing an interactive course learning about how large language models like Chachapiti work, or you could take one of the many courses on programming, which are a good way to build foundations and learn real world applications.
+
+(21:23 - 21:42)
+Brilliant's courses are also available right on your phone, so you can do them whenever you have a spare minute. Whether that's when you're on the toilet or driving on a particularly straight road, you can level up on the go in just minutes. So to support this channel and try everything Brilliant has to offer for free for a full 30 days, visit brilliant.org code bullet or scan the QR code on screen, or you can click the link in the description.
+
+(21:42 - 21:47)
+You'll also get 20% off an annual premium subscription. Thank you, Brilliant. Hey, it's Patreon battle time.
+
+(21:47 - 21:52)
+Okay, thanks for watching. This one is fun to make. Kind of crazy how close I got to the games within an hour.
+
+(21:53 - 22:02)
+Of course, they're not as good as the originals. The originals had a lot more like polish and stuff. And like honestly, like a lot of the originals had just like a lot more level design, I guess.
+
+(22:02 - 22:10)
+Like a lot more, they had a lot more levels to play through, which probably would have taken a bit more time. It was kind of crazy. Like all the functionality was kind of essentially there.
+
+(22:12 - 22:17)
+Which is nuts. Yeah, I was pretty happy with that one. Especially the first game, the Countmasters one.
+
+(22:18 - 22:25)
+That was actually like, I thought that was really cool. The knife one was kind of shit. If for some reason you want to play them, I don't know why you would.
+
+(22:25 - 22:34)
+But if for some reason you do, they are on my Patreon. So you can go check that out. Maybe you want to see if you can beat my score on how long it took the Countmasters thing to end or something.
+
+(22:34 - 22:41)
+Yeah, I mean, obviously they're buggy. They are not fun, but they're there. I hope you like this sort of like lower effort content.
+
+(22:42 - 22:54)
+It's still like a lot of editing and all that. But like the actual project themselves obviously took me three hours, which is way less than my usual project. Because I kind of get stuck in scope creep hell of like, oh, I should add this.
+
+(22:55 - 22:57)
+I should add this. I should add this. So then it ends up taking like six months.
+
+(22:57 - 23:09)
+So giving it like an hour or 24 hours or whatever, some sort of time limit or challenge or whatever makes it a set scope of how much time I can spend on it. Okay. Anyway, congrats to Report Turret.
+
+(23:09 - 23:12)
+You win some free merch. I'll be in contact. Okay, bye.

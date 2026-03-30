@@ -1,0 +1,215 @@
+(0:00 - 6:04)
+The video you are about to watch is going to be a comprehensive video all about paper trading, including how it works, what it is, and how to access it. So we're going to cover all of these key topics, and by the time you're done with this video, you're going to be a master at paper trading, see the value in it, and use it for many different reasons to get started in your journey in markets. So let's go ahead and just get right to it, which is, when you have a chart open, just like this, you'll see that at the bottom of the chart, there's a button that says trading panel. 
+
+Go ahead and click that. Now, once the trading panel is open, you of course will see brokerages that are available to you, and these are real brokerages. They manage real money, and they are custodians, or they're account managers, or anything related to financial services. 
+
+You can connect to these brokerages and place real trades from TradingView, but that's not the point of this video. The point of this video is paper trading, and if you read the fine print here, it says brokerage simulator by TradingView. It's exactly what it sounds like. 
+
+It's a simulator. It's essentially a video game for practice trading. You get to play with real money to test your strategies or whatever you know about markets and see if it works. 
+
+So let's go ahead and click this. You'll do the same. Then you're going to click connect. 
+
+Now, once you're connected to paper trading, you'll have this layout, and we're really going to walk you through everything here. So kick your feet up on your desk or your chair, sit back and relax, because we're really going to start from the very beginning. We're even going to close out this position so that you literally see nothing here, and we're going to walk through it step by step. 
+
+Now, the first thing and most exciting part of paper trading is placing actual trades. So in this example, let's say we go to Tesla, and we pull up a chart of Tesla, and let's say we think we are the next great Tesla trader. Rather than risking real money, rather than just going right in and potentially putting our hard-earned money to work, let's first see if we have what it takes to succeed. 
+
+So what we might do in this example, actually, is notice that there is a gap to fill. Now, in markets, oftentimes, traders do watch gap fills. They sometimes say gaps act as magnets. 
+
+And in that sense, there's sort of this space to fill before it gets up to the most recent drop that occurred. You can see the drop. That's why there's a gap here. 
+
+Price closed on one day, and some sort of news event, probably earnings happened, it opened it that much lower the next day. Now, if we want to play a trade here and assume that Tesla will start from here and maybe gingerly work its way up to close this gap, why don't we go long? So there are a number of ways we can do that. But one of our favorite ways is to right-click on the chart. 
+
+You can see here it says Trade. Click Create New Order. And now we've got our order ticket open here, and we can place a trade directly on the chart. 
+
+What's especially helpful is you can move this order ticket as needed to any point on the chart so that you have a view for you. Because obviously, if it's right in the center and you have a different layout, you might not see the actual price. So in this example, we are going to just do a market order because we want to get you the basics of paper trading. 
+
+But as we go deeper, we'll show you limit order, stops, buys, and sells. But for now, we want to do a market order, which means we're just going to buy it at whatever price we can get executed at. So we have 50 units. 
+
+Let's click Buy. And the order has been placed. You can see the tickets here. 
+
+And now you can see positions are filled as well. So now we know our order was placed and our order was executed. And we can see that it was executed at $193.07. So let's click Exit. 
+
+Let's click Exit. And let's take a look here at our position. Now our position is on 50 shares of Tesla. 
+
+This red numbering here is whether we're down red or up green. We are so far down $1.50, $1. So it's a real-time calculation of how we're doing on these 50 shares. 
+
+And in addition, you'll see a SL and TP or a reverse position. And the X here would close your position. Before we talk about closing the position, let us just show you something that's just absolutely fantastic, which is you can add a stop loss just by clicking, holding, and dragging. 
+
+So why don't we make our stop loss the absolute lows of this recent move? So once we let go of our mouse, now a new ticket opens up. And that new ticket is our stop loss. We're going to see the ticks, the price, the dollar, the percentage. 
+
+We're going to click Modify to ensure that that stop loss is placed there. So we click Modify. And the stop loss has been placed. 
+
+So you'll see it's been placed. It's not executed. It's just a stop loss. 
+
+A stop loss will only be executed if price, for example, were to suddenly drop all the way down this low. And if it hits those levels, we'll sell. And what's especially effective is you can see here how much we would lose on the trade. 
+
+We would lose $911 if it went all the way down to those levels. Now you'll notice we did not talk about TP yet. That's take profit. 
+
+If we click and hold and move the tick profit to the top here, we are going to gain $756. And once again, you can see the ticks, price, dollar, percentage. And now you can also view them side by side. 
+
+So take profit, stop loss. You now have a complete picture of the bracket trade you're placing. By the way, you just learned this is a bracket trade because you can see the brackets here. 
+
+Your entry, your take profit, your exit. Now this probably isn't the greatest trade of all time because you can actually see our stop loss is greater than our potential profit. These are things for you to think about.
+
+(6:05 - 8:05)
+So perhaps you might want to adjust this trade. It's just an example. Everyone has different ways of calculating their trades. 
+
+But it is interesting to take note of. And what's especially helpful is you can see that data right away once your take profit and stop loss are placed on the chart. Now you can go ahead and wait to see if that trade executes. 
+
+Obviously this could take several days, weeks, or months to play out. So we won't see it right away. But you now know the basics of paper trading. 
+
+Now that the trade is placed, let's move our mouse down here to the paper trading menu because we want to make sure you understand what's going on here. First of all, it says paper trading here. You can click the drop down and you can get some really important extra settings as needed. 
+
+You can customize your summary row so you can see account balance, equity, P&L. Those are these numbers here. Account balance, equity, P&L. 
+
+If you don't want to see one of these, perhaps you don't want to see equity because it feels redundant to you, you can uncheck it and it hides or not. Account balance, you'll probably always want to see profit and loss as well so that you can get a feel for what your profit and loss is at any point in your account balance also. Did you know you can also export your data as well? See the brokers list will bring you right back to the brokers menu that we showed you with real brokers. 
+
+Logout will log you out of paper trading entirely and take this whole view away from you. So let's not click that yet. More importantly is trading settings. 
+
+This is a really, really important thing to grasp because on trading view, really you have the freedom and capabilities to create a trading environment that's best for you. So we showed you how to right click on the chart and place a trade, but did you know if you go to your chart settings, which can also be accessed here, the setting wheel, or right clicked and settings, there is a button that says trading. We go ahead and we click that and you'll see here it says buy and sell buttons.
+
+(8:05 - 8:33)
+So if we click buy and sell buttons, you'll notice, watch this section here, see that? So we uncheck it. They're gone. Check it. 
+
+They're there. You can have these buy and sell buttons, market orders up at all times to place instant trades as well in paper trading. So if you're watching and practicing, watching and practicing, let's go to a one minute chart. 
+
+If we really want to see some live trades. Okay. Maybe it's below we're in the red. 
+
+Let's add some. We click buy. We get the order ticket up.
+
+(8:33 - 12:18)
+Let's add five more to our position. Click buy executed. Okay. 
+
+We're down again. We're down $5. Let's get these order tickets. 
+
+Let's try to double dip on the one minute. This time let's add 10. You can do this as well to really see what's possible. 
+
+Trying to buy a dip, trying to place a better trade or improve your position. You can do that with these buttons. Let's right click and go to settings. 
+
+We have trading selected. You've also got some other things to pay attention to, which are instant order placements, as well as play sound for execution. So if you want to hear noises play when you actually execute each trade. 
+
+And additionally, what's incredibly important is your appearance. You may not want all of the data on your chart. So open this settings menu and get familiar with all the things you can see. 
+
+So you can see here, we have positions checked off. There's positions, profit and loss. That's gone. 
+
+Now we definitely want to see profit and loss. We can also do percentage profit and loss, which is particularly helpful. If you're just trying to base what your profit and loss is in percentage terms, not necessarily money, maybe you don't need the reverse button because if you accidentally click reverse. 
+
+So watch what happens here. It instantly closes the trade and then flips it around into a short position. So we quite literally had a trade on long. 
+
+We clicked one button. We closed that long trade out and instantly went short. So that's a pretty advanced tool. 
+
+You may not want to see that and you can hide that from your chart as needed. And that's what all of these boxes are going to do. When you have the trading tab here, clicked really tons of customizations, go dive in to learn exactly what works best for you. 
+
+But of course we are now down $4. Let's close this trade as well. That's another way you can close a position and pay attention to the fact that you can partially close trades, which once again just demonstrates how many trading capabilities you have when the paper trading tool is open. 
+
+So we typed in 35. So we're going to close, you know, a little more than than half of this position. Click partially close executed. 
+
+We're so far down $2 since we started this tutorial, but you know what? Let's close it out entirely and start over because we want to keep walking you through each tool. We really are getting the basics across to you. We can feel that, but there's more to do here because now we're on a one minute chart. 
+
+We're zoomed in and we're going to try this again. Okay. So here's a chart of Tesla on a one minute chart. 
+
+We have got an interesting level here that we are going to mark. It's this low here. So this would be the low of the day. 
+
+Essentially since this, no, since this run up, it would be the low since the run up the retrace. So this will be our stop loss. We're going to open up our paper trading tool. 
+
+And what we're going to do now is we are going to place another trade. This time, we're just going to click the trade button right here and open up our trade panel on the right side of the chart. Once again, so many different ways for you to practice trading, whether it's the buttons, whether it's right clicking and finding trade, getting that floating ticket, or just clicking the trade button here to open up this panel, the choice is yours. 
+
+And hopefully you are still sticking around in this video so that you can do this exact same thing yourself and find the best possible layout for you. Now, when you do have the order ticket open, you'll notice that there is a depth of market. This is especially helpful if you have a brokerage on TradingView that provides this level of data, or if you have access to a data plan that gives you this level of data.
+
+(12:18 - 12:59)
+There is a video on our YouTube channel about the DOM or depth of market. We're going to stick to the order panel because this video is all about paper trading. We are now going to set up a trade from scratch, showing you an exact way you could think about this. 
+
+So recall we drew this horizontal line because we feel like this low is significant. Everyone's analysis is different. This is just our observation on a one-minute chart. 
+
+One-minute charts are never all that easy to trade, but this is just for an example. Now, what we're going to do is we want to do a limit order. A limit order, first of all, means we only want to get filled at a specific price.
+
+(12:59 - 17:05)
+It's not a market order, which just buys at any price. If you do market, it will literally just get you filled at any price whatsoever. Limit order is us being a little picky. 
+
+How about we only want to get filled if it goes to $193? So let's do $192.99. So we want 10 shares at $192.99, and we were already filled just like that. We're on a minute chart. It happened quite fast, and that is how you can place your limit order. 
+
+Now, remember we have not added a stop loss or take profit, which as we mentioned is really up to you. You can drag and let go of those stop losses and take profits, or when you have this order panel open, you can check to add a take profit, check to add a stop loss. In this case, you can see this horizontal line says $192.55. That's our stop loss. 
+
+So it says $187 here, but let's add a stop loss that says $192. Let's do $192.50, round number. There's our stop loss. 
+
+It has been placed and it's on the chart. So that is a very important component of getting your stop loss on the chart using the order ticket. Now, the reason why we did place our stop loss at that point is we wanted to give our horizontal line here a little bit of wiggle room. 
+
+We don't want to place it right at the line because sometimes price has a tendency to sort of break through, sort of fake everyone out and then snap back up. So hopefully this stop loss is playing into that a little bit. So look at this, we're up a dollar. 
+
+One more thing now is we want to add our take profit. So we check the box and we've got our take profit here. This is just like the floating ticket option as well. 
+
+You'll recall, so let's actually right click to shut that. Remember, we could go here to trade and create new order and it will pop up and we can do the exact same process as we did before. Or of course, we can hover our mouse over and drag our take profit. 
+
+In this case, our take profit target, and pretty cool how this all works and automatically updates from there. In this case, our take profit target is going to be a little bit better than the last example we were showing you because we're going to use these prior highs all the way back here, which looks like it was Friday morning. We're recording this video on Friday the 9th. 
+
+So let's go ahead and draw our take profit all the way up here to these prior highs. In fact, let's actually play a little more bearish though. Maybe it gets into this zone here. 
+
+So we've got this zone that we're kind of playing off of for our take profit. So now we've got our bracket trade set up. Let's watch it in real time. 
+
+And while we watch it in real time on this one minute chart, let's also just keep in mind the importance of the data that we also have available. Okay. So right now we have positions open. 
+
+This is going to show us our live positions. So as you can see, we have a Tesla trade on. You just watched us place this trade from start to finish. 
+
+Side means long. That means we are long. You'll recall, and if you go backward, when we clicked this reverse button to suddenly close out and go short, this changed to short. 
+
+Quantity shows how many shares we have. Currently we have 20 shares. If we buy more shares, this number will go up. 
+
+Average fill price. This is a wonderful stat for you to get familiar with as a trader in paper trading because average fill price is essentially telling you what your average entry price is. If you're picky, meaning you only use limit orders. 
+
+If you're picky, and for example, maybe you want to double dip down and lower your average fill price. Maybe you see here $192.50. You can actually type that in because you want to make a second purchase to lower that. Let's do five more units. 
+
+Limit $192.50. Click buy. Now we've got another buy order on the chart as well in the hopes of lowering this average fill price. The point is that you can do things just like this by paying attention to the stats.
+
+(17:06 - 17:11)
+Take profit. That's the exact thing you see here. Remember, we drag this up to that level.
+
+(17:12 - 17:16)
+Stop loss. That's what you see right here. Remember, we drag this up to the level.
+
+(17:16 - 18:45)
+The last price is a real-time countdown of the price right now and our profit and loss. Lastly, you're going to see this column set up. This really feeds into a key component about the TradingView paper trading tool, which is what we've been explaining almost since the start, and all the customizations you have to make a trading desktop look and feel that fits you perfectly. 
+
+If you'd like to actually hide some of these columns, maybe you find it to be too noisy. Maybe you literally only want to see quantity, average fill price, and profit and loss. You can simplify it to that degree. 
+
+Choice is yours. Next up is orders. Orders is going to be a very important tool for those who are very meticulous in tracking their trading history, everything that they've done in the paper trading process. 
+
+This is where you can quickly see every trade that you have placed. Positions, these are live trades. These are trades that are on. 
+
+They are positions that could be happening at this moment. Orders are every order that you've placed, whether they've been filled, canceled, sold, anything of the sort. You can see here it says working. 
+
+That's because, remember, we just placed that limit order to buy five more shares. It's working. It's waiting. 
+
+It's out there. It's happening. You can even sort all of these orders by the specific category here to see how many orders were filled, canceled, rejected.
+
+(18:45 - 21:44)
+This gives you more granular data into your entire workflow as you get started. History is especially powerful because history will track your account all through time. In fact, you'll see here we placed some Apple trades, but you weren't watching the video when we placed these. 
+
+But in the history section, we can go that far back in time to see all of these trades, the filled trades, canceled trades, and rejected trades. In addition, you have your account history. This way you can get another look at your account history, but not so much from the positions that you have. 
+
+History, positions, orders are the orders you're placing, positions are the positions you have on. But account history more so in terms of look at the balance. You can actually track the balance of the account and what trades played a role in that balance and the details into that balance change or the trade that moved the balance. 
+
+These are very, very important aspects to understand. Lastly, we'll talk about the trading journal. The trading journal is an especially detailed look at your orders. 
+
+One common theme you'll notice about all of this data that you can gather about your paper trading journey is that most of them feed into the positions that you have on, the orders that have been executed, the history throughout your account, your account's history and its balance before and after. The trading journal is a way for you to actually look into the orders that were successfully placed, canceled, modified, confirmed. All of that good stuff is right here. 
+
+For many advanced traders, and the new traders will find this interesting, sometimes this is some of the most important information to gather because you want to know what your entry was. Did the trade go through? Did it not go through? Why did it not go through? This is where you can really track that process. We've now given you the basics of paper trading. 
+
+Our trade is still on at this very moment and there are a final few key details for you to pay attention to as you watch this video. That is the fact that you have your account here, so TradingView USD account, and you can create new accounts as needed. This is key because not everyone has just one brokerage account. 
+
+Some people have multiple brokerage accounts or multiple portfolios. This account is just called TradingView, but if we wanted to start a fresh new account and manage two different accounts at the same time, we would call this paper trading account number two. We can set our starting balance. 
+
+Let's just start it at $100. We don't want commission, actually, and let's click create, and the account did not create. Good reminder here, you can't have this number in here, so let's delete that and click create.
+
+(21:44 - 23:10)
+Oops, we still have the number. Click create, and that's because of the, okay, paper trading. There we go, and now we're good to go. 
+
+You just learned another important lesson there as well, don't add the spaces, don't add the numbers, just get it straight in there, one straight shot. Now we've got paper trading account and TradingView, it's got $100. Now we can bounce between our two accounts as needed. 
+
+In addition, what's quite important here is the account settings menu. This, of course, is where you can choose to include commission or reset the account. We do not want to reset the account at this point, but if you ever need to start fresh, maybe your account's gotten a little too messy, your account balance is messed up, click reset account and start over from scratch. 
+
+So ladies and gentlemen, that is paper trading. It's a full walkthrough of the paper trading process on TradingView. You learned how to create bracket orders, how to create market orders, you watched us place a limit order, you saw us place stop losses, you saw us place take profits and stop losses at the same time, we even reversed a trade and went from long to short in a matter of seconds, we've been watching this real-time trade the entire time, and we walked you through the entire TradingView panel here at the bottom of the chart so that you know exactly what you're looking at and all of the data that's before you.
+
+(23:11 - 26:07)
+Now, as we wrap up this video, we just want to make sure that you walk away as well, especially for the new traders out there, with some important details. Paper trading is an effective way for you to practice, practice, practice. Right now, we've been placing trades on Tesla, but you can do this across different asset classes and place more than one practice trade at a time. 
+
+For example, we have Bitcoin open here, let's go ahead and place another order, and let's actually do a market order, let's buy 10 Bitcoins. Our take profit, this is still a one-minute chart, so let's do our take profit is right here at the high of this green one-minute candle, looks like it's about $47,800, let's do $47,800, and then let's add a stop loss, which would be the bottom of this wick here, which would be $47,800. Okay, so this is actually $47,800, let's do $47,900, this is $47,800, and now let's hit buy, let's make it happen, the trade's been executed, we just placed another bracket trade, and the reason for doing that is as we were wrapping up our show, we wanted to make sure you know, you can manage multiple positions at once as well, and as you click through each chart, it'll load, our Bitcoin trade that we just placed has already executed, looks like we lost money on that, you can see here we had that entry and we got stopped out rather quickly, and even that took our whole account into the red, we're now down 60 cents just in this short period of time, but we did demonstrate how you can manage multiple positions at once, because if you think you have what it takes to be an excellent trader, this paper trading tool unlocks all of that for you, you can place real trades, practice your trades, work on bracket orders, and do it across different asset classes, you saw I went from Bitcoin to Tesla, we could even go to Forex, here's EURUSD, we could just place a market order, let's go ahead and just buy 50, click buy, and now we've got your USD as well, so you can manage a portfolio as well, it does not have to be just paper trading, so before you risk your hard-earned money, before you dive into markets, go see if you have what it takes first to manage a paper trading account into a profitable standpoint, that is a great way to get started in markets, as we mentioned, it's entirely free, and we walked you through the entire journey here, start to finish, from the most advanced concepts, to the most basic concepts, and even the settings process of making sure that you set up a chart using this trading tab that works for you, because as mentioned, we added these buy buttons up here too, gives us access to this order panel in a matter of clicks, so thanks so much for watching, we hope this video helps you get started.

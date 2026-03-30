@@ -1,0 +1,2931 @@
+1
+00:00:00,140 --> 00:00:02,400
+The video you are about to watch is
+
+2
+00:00:02,400 --> 00:00:06,000
+going to be a comprehensive video all about
+
+3
+00:00:06,000 --> 00:00:10,200
+paper trading, including how it works, what it
+
+4
+00:00:10,200 --> 00:00:13,600
+is, and how to access it.
+
+5
+00:00:13,820 --> 00:00:15,460
+So we're going to cover all of these
+
+6
+00:00:15,460 --> 00:00:17,640
+key topics, and by the time you're done
+
+7
+00:00:17,640 --> 00:00:19,360
+with this video, you're going to be a
+
+8
+00:00:19,360 --> 00:00:22,360
+master at paper trading, see the value in
+
+9
+00:00:22,360 --> 00:00:25,340
+it, and use it for many different reasons
+
+10
+00:00:25,340 --> 00:00:28,280
+to get started in your journey in markets.
+
+11
+00:00:28,820 --> 00:00:30,920
+So let's go ahead and just get right
+
+12
+00:00:30,920 --> 00:00:33,040
+to it, which is, when you have a
+
+13
+00:00:33,040 --> 00:00:35,920
+chart open, just like this, you'll see that
+
+14
+00:00:35,920 --> 00:00:37,800
+at the bottom of the chart, there's a
+
+15
+00:00:37,800 --> 00:00:39,520
+button that says trading panel.
+
+16
+00:00:39,800 --> 00:00:41,260
+Go ahead and click that.
+
+17
+00:00:41,640 --> 00:00:44,340
+Now, once the trading panel is open, you
+
+18
+00:00:44,340 --> 00:00:48,200
+of course will see brokerages that are available
+
+19
+00:00:48,200 --> 00:00:50,460
+to you, and these are real brokerages.
+
+20
+00:00:50,460 --> 00:00:53,780
+They manage real money, and they are custodians,
+
+21
+00:00:54,020 --> 00:00:57,040
+or they're account managers, or anything related to
+
+22
+00:00:57,040 --> 00:00:58,000
+financial services.
+
+23
+00:00:58,480 --> 00:01:01,260
+You can connect to these brokerages and place
+
+24
+00:01:01,260 --> 00:01:04,200
+real trades from TradingView, but that's not the
+
+25
+00:01:04,200 --> 00:01:04,920
+point of this video.
+
+26
+00:01:05,400 --> 00:01:07,420
+The point of this video is paper trading,
+
+27
+00:01:07,680 --> 00:01:09,660
+and if you read the fine print here,
+
+28
+00:01:09,700 --> 00:01:13,200
+it says brokerage simulator by TradingView.
+
+29
+00:01:13,460 --> 00:01:15,300
+It's exactly what it sounds like.
+
+30
+00:01:15,500 --> 00:01:16,500
+It's a simulator.
+
+31
+00:01:16,800 --> 00:01:20,380
+It's essentially a video game for practice trading.
+
+32
+00:01:20,860 --> 00:01:22,760
+You get to play with real money to
+
+33
+00:01:22,760 --> 00:01:25,000
+test your strategies or whatever you know about
+
+34
+00:01:25,000 --> 00:01:26,660
+markets and see if it works.
+
+35
+00:01:27,060 --> 00:01:28,080
+So let's go ahead and click this.
+
+36
+00:01:28,160 --> 00:01:28,860
+You'll do the same.
+
+37
+00:01:29,200 --> 00:01:30,420
+Then you're going to click connect.
+
+38
+00:01:30,980 --> 00:01:33,420
+Now, once you're connected to paper trading, you'll
+
+39
+00:01:33,420 --> 00:01:35,080
+have this layout, and we're really going to
+
+40
+00:01:35,080 --> 00:01:36,480
+walk you through everything here.
+
+41
+00:01:36,720 --> 00:01:38,220
+So kick your feet up on your desk
+
+42
+00:01:38,220 --> 00:01:40,660
+or your chair, sit back and relax, because
+
+43
+00:01:40,660 --> 00:01:42,980
+we're really going to start from the very
+
+44
+00:01:42,980 --> 00:01:43,360
+beginning.
+
+45
+00:01:43,480 --> 00:01:44,880
+We're even going to close out this position
+
+46
+00:01:44,880 --> 00:01:48,180
+so that you literally see nothing here, and
+
+47
+00:01:48,180 --> 00:01:49,820
+we're going to walk through it step by
+
+48
+00:01:49,820 --> 00:01:50,160
+step.
+
+49
+00:01:50,360 --> 00:01:52,540
+Now, the first thing and most exciting part
+
+50
+00:01:52,540 --> 00:01:55,280
+of paper trading is placing actual trades.
+
+51
+00:01:55,560 --> 00:01:57,460
+So in this example, let's say we go
+
+52
+00:01:57,460 --> 00:01:59,660
+to Tesla, and we pull up a chart
+
+53
+00:01:59,660 --> 00:02:01,980
+of Tesla, and let's say we think we
+
+54
+00:02:01,980 --> 00:02:03,660
+are the next great Tesla trader.
+
+55
+00:02:03,980 --> 00:02:07,259
+Rather than risking real money, rather than just
+
+56
+00:02:07,259 --> 00:02:09,639
+going right in and potentially putting our hard
+
+57
+00:02:09,639 --> 00:02:11,740
+-earned money to work, let's first see if
+
+58
+00:02:11,740 --> 00:02:13,720
+we have what it takes to succeed.
+
+59
+00:02:14,300 --> 00:02:15,920
+So what we might do in this example,
+
+60
+00:02:16,140 --> 00:02:18,980
+actually, is notice that there is a gap
+
+61
+00:02:18,980 --> 00:02:19,440
+to fill.
+
+62
+00:02:19,720 --> 00:02:22,700
+Now, in markets, oftentimes, traders do watch gap
+
+63
+00:02:22,700 --> 00:02:23,000
+fills.
+
+64
+00:02:23,360 --> 00:02:25,760
+They sometimes say gaps act as magnets.
+
+65
+00:02:26,260 --> 00:02:28,020
+And in that sense, there's sort of this
+
+66
+00:02:28,020 --> 00:02:30,100
+space to fill before it gets up to
+
+67
+00:02:30,100 --> 00:02:32,480
+the most recent drop that occurred.
+
+68
+00:02:32,540 --> 00:02:33,400
+You can see the drop.
+
+69
+00:02:33,500 --> 00:02:35,000
+That's why there's a gap here.
+
+70
+00:02:35,320 --> 00:02:37,660
+Price closed on one day, and some sort
+
+71
+00:02:37,660 --> 00:02:39,920
+of news event, probably earnings happened, it opened
+
+72
+00:02:39,920 --> 00:02:41,440
+it that much lower the next day.
+
+73
+00:02:42,260 --> 00:02:44,020
+Now, if we want to play a trade
+
+74
+00:02:44,020 --> 00:02:47,420
+here and assume that Tesla will start from
+
+75
+00:02:47,420 --> 00:02:49,480
+here and maybe gingerly work its way up
+
+76
+00:02:49,480 --> 00:02:51,880
+to close this gap, why don't we go
+
+77
+00:02:51,880 --> 00:02:52,240
+long?
+
+78
+00:02:52,560 --> 00:02:53,780
+So there are a number of ways we
+
+79
+00:02:53,780 --> 00:02:54,280
+can do that.
+
+80
+00:02:54,500 --> 00:02:56,060
+But one of our favorite ways is to
+
+81
+00:02:56,060 --> 00:02:57,000
+right-click on the chart.
+
+82
+00:02:57,460 --> 00:02:58,780
+You can see here it says Trade.
+
+83
+00:02:59,200 --> 00:03:00,400
+Click Create New Order.
+
+84
+00:03:00,820 --> 00:03:02,620
+And now we've got our order ticket open
+
+85
+00:03:02,620 --> 00:03:05,100
+here, and we can place a trade directly
+
+86
+00:03:05,100 --> 00:03:05,840
+on the chart.
+
+87
+00:03:06,100 --> 00:03:08,200
+What's especially helpful is you can move this
+
+88
+00:03:08,200 --> 00:03:10,700
+order ticket as needed to any point on
+
+89
+00:03:10,700 --> 00:03:11,800
+the chart so that you have a view
+
+90
+00:03:11,800 --> 00:03:12,320
+for you.
+
+91
+00:03:12,540 --> 00:03:14,180
+Because obviously, if it's right in the center
+
+92
+00:03:14,180 --> 00:03:15,700
+and you have a different layout, you might
+
+93
+00:03:15,700 --> 00:03:17,260
+not see the actual price.
+
+94
+00:03:17,720 --> 00:03:19,860
+So in this example, we are going to
+
+95
+00:03:19,860 --> 00:03:22,520
+just do a market order because we want
+
+96
+00:03:22,520 --> 00:03:25,400
+to get you the basics of paper trading.
+
+97
+00:03:25,420 --> 00:03:27,120
+But as we go deeper, we'll show you
+
+98
+00:03:27,120 --> 00:03:29,180
+limit order, stops, buys, and sells.
+
+99
+00:03:29,420 --> 00:03:31,200
+But for now, we want to do a
+
+100
+00:03:31,200 --> 00:03:34,060
+market order, which means we're just going to
+
+101
+00:03:34,060 --> 00:03:36,140
+buy it at whatever price we can get
+
+102
+00:03:36,140 --> 00:03:36,940
+executed at.
+
+103
+00:03:37,080 --> 00:03:38,300
+So we have 50 units.
+
+104
+00:03:38,540 --> 00:03:39,340
+Let's click Buy.
+
+105
+00:03:39,720 --> 00:03:40,920
+And the order has been placed.
+
+106
+00:03:41,020 --> 00:03:42,120
+You can see the tickets here.
+
+107
+00:03:42,440 --> 00:03:44,380
+And now you can see positions are filled
+
+108
+00:03:44,380 --> 00:03:44,940
+as well.
+
+109
+00:03:45,660 --> 00:03:47,580
+So now we know our order was placed
+
+110
+00:03:47,580 --> 00:03:49,140
+and our order was executed.
+
+111
+00:03:49,520 --> 00:03:51,360
+And we can see that it was executed
+
+112
+00:03:51,360 --> 00:03:55,100
+at $193.07. So let's click Exit.
+
+113
+00:03:55,240 --> 00:03:56,180
+Let's click Exit.
+
+114
+00:03:56,280 --> 00:03:57,560
+And let's take a look here at our
+
+115
+00:03:57,560 --> 00:03:57,960
+position.
+
+116
+00:03:58,380 --> 00:04:01,280
+Now our position is on 50 shares of
+
+117
+00:04:01,280 --> 00:04:01,600
+Tesla.
+
+118
+00:04:01,900 --> 00:04:05,260
+This red numbering here is whether we're down
+
+119
+00:04:05,260 --> 00:04:06,940
+red or up green.
+
+120
+00:04:07,200 --> 00:04:10,000
+We are so far down $1.50, $1.
+
+121
+00:04:10,340 --> 00:04:12,340
+So it's a real-time calculation of how
+
+122
+00:04:12,340 --> 00:04:13,820
+we're doing on these 50 shares.
+
+123
+00:04:14,240 --> 00:04:17,180
+And in addition, you'll see a SL and
+
+124
+00:04:17,180 --> 00:04:19,440
+TP or a reverse position.
+
+125
+00:04:19,680 --> 00:04:22,260
+And the X here would close your position.
+
+126
+00:04:22,460 --> 00:04:25,000
+Before we talk about closing the position, let
+
+127
+00:04:25,000 --> 00:04:27,120
+us just show you something that's just absolutely
+
+128
+00:04:27,120 --> 00:04:29,540
+fantastic, which is you can add a stop
+
+129
+00:04:29,540 --> 00:04:32,320
+loss just by clicking, holding, and dragging.
+
+130
+00:04:32,740 --> 00:04:34,680
+So why don't we make our stop loss
+
+131
+00:04:34,680 --> 00:04:37,180
+the absolute lows of this recent move?
+
+132
+00:04:37,640 --> 00:04:39,960
+So once we let go of our mouse,
+
+133
+00:04:40,260 --> 00:04:42,080
+now a new ticket opens up.
+
+134
+00:04:42,340 --> 00:04:44,540
+And that new ticket is our stop loss.
+
+135
+00:04:44,700 --> 00:04:46,400
+We're going to see the ticks, the price,
+
+136
+00:04:46,640 --> 00:04:47,860
+the dollar, the percentage.
+
+137
+00:04:48,320 --> 00:04:50,700
+We're going to click Modify to ensure that
+
+138
+00:04:50,700 --> 00:04:52,440
+that stop loss is placed there.
+
+139
+00:04:52,480 --> 00:04:53,460
+So we click Modify.
+
+140
+00:04:54,000 --> 00:04:55,440
+And the stop loss has been placed.
+
+141
+00:04:55,900 --> 00:04:57,420
+So you'll see it's been placed.
+
+142
+00:04:57,580 --> 00:04:58,440
+It's not executed.
+
+143
+00:04:58,700 --> 00:04:59,700
+It's just a stop loss.
+
+144
+00:05:00,220 --> 00:05:03,000
+A stop loss will only be executed if
+
+145
+00:05:03,000 --> 00:05:08,100
+price, for example, were to suddenly drop all
+
+146
+00:05:08,100 --> 00:05:09,420
+the way down this low.
+
+147
+00:05:09,720 --> 00:05:11,480
+And if it hits those levels, we'll sell.
+
+148
+00:05:12,000 --> 00:05:14,100
+And what's especially effective is you can see
+
+149
+00:05:14,100 --> 00:05:16,020
+here how much we would lose on the
+
+150
+00:05:16,020 --> 00:05:16,300
+trade.
+
+151
+00:05:16,580 --> 00:05:19,800
+We would lose $911 if it went all
+
+152
+00:05:19,800 --> 00:05:21,040
+the way down to those levels.
+
+153
+00:05:21,540 --> 00:05:23,460
+Now you'll notice we did not talk about
+
+154
+00:05:23,460 --> 00:05:24,220
+TP yet.
+
+155
+00:05:24,380 --> 00:05:25,100
+That's take profit.
+
+156
+00:05:25,900 --> 00:05:27,780
+If we click and hold and move the
+
+157
+00:05:27,780 --> 00:05:30,720
+tick profit to the top here, we are
+
+158
+00:05:30,720 --> 00:05:32,960
+going to gain $756.
+
+159
+00:05:33,460 --> 00:05:35,280
+And once again, you can see the ticks,
+
+160
+00:05:35,560 --> 00:05:36,860
+price, dollar, percentage.
+
+161
+00:05:37,280 --> 00:05:39,220
+And now you can also view them side
+
+162
+00:05:39,220 --> 00:05:39,820
+by side.
+
+163
+00:05:40,000 --> 00:05:42,040
+So take profit, stop loss.
+
+164
+00:05:42,140 --> 00:05:44,260
+You now have a complete picture of the
+
+165
+00:05:44,260 --> 00:05:45,680
+bracket trade you're placing.
+
+166
+00:05:46,000 --> 00:05:48,460
+By the way, you just learned this is
+
+167
+00:05:48,460 --> 00:05:50,440
+a bracket trade because you can see the
+
+168
+00:05:50,440 --> 00:05:51,240
+brackets here.
+
+169
+00:05:51,440 --> 00:05:54,040
+Your entry, your take profit, your exit.
+
+170
+00:05:54,540 --> 00:05:56,500
+Now this probably isn't the greatest trade of
+
+171
+00:05:56,500 --> 00:05:58,400
+all time because you can actually see our
+
+172
+00:05:58,400 --> 00:06:01,720
+stop loss is greater than our potential profit.
+
+173
+00:06:02,100 --> 00:06:04,160
+These are things for you to think about.
+
+174
+00:06:04,720 --> 00:06:07,080
+So perhaps you might want to adjust this
+
+175
+00:06:07,080 --> 00:06:07,340
+trade.
+
+176
+00:06:07,420 --> 00:06:08,520
+It's just an example.
+
+177
+00:06:08,720 --> 00:06:10,940
+Everyone has different ways of calculating their trades.
+
+178
+00:06:11,200 --> 00:06:13,480
+But it is interesting to take note of.
+
+179
+00:06:13,840 --> 00:06:15,980
+And what's especially helpful is you can see
+
+180
+00:06:15,980 --> 00:06:18,340
+that data right away once your take profit
+
+181
+00:06:18,340 --> 00:06:20,660
+and stop loss are placed on the chart.
+
+182
+00:06:21,200 --> 00:06:22,720
+Now you can go ahead and wait to
+
+183
+00:06:22,720 --> 00:06:24,360
+see if that trade executes.
+
+184
+00:06:24,940 --> 00:06:27,420
+Obviously this could take several days, weeks, or
+
+185
+00:06:27,420 --> 00:06:28,220
+months to play out.
+
+186
+00:06:28,300 --> 00:06:30,200
+So we won't see it right away.
+
+187
+00:06:30,460 --> 00:06:32,960
+But you now know the basics of paper
+
+188
+00:06:32,960 --> 00:06:33,320
+trading.
+
+189
+00:06:34,000 --> 00:06:36,760
+Now that the trade is placed, let's move
+
+190
+00:06:36,760 --> 00:06:39,240
+our mouse down here to the paper trading
+
+191
+00:06:39,240 --> 00:06:41,400
+menu because we want to make sure you
+
+192
+00:06:41,400 --> 00:06:43,520
+understand what's going on here.
+
+193
+00:06:43,920 --> 00:06:45,840
+First of all, it says paper trading here.
+
+194
+00:06:46,200 --> 00:06:47,860
+You can click the drop down and you
+
+195
+00:06:47,860 --> 00:06:51,280
+can get some really important extra settings as
+
+196
+00:06:51,280 --> 00:06:51,540
+needed.
+
+197
+00:06:51,800 --> 00:06:54,660
+You can customize your summary row so you
+
+198
+00:06:54,660 --> 00:06:57,140
+can see account balance, equity, P&L.
+
+199
+00:06:57,460 --> 00:06:58,780
+Those are these numbers here.
+
+200
+00:06:58,940 --> 00:07:00,880
+Account balance, equity, P&L.
+
+201
+00:07:01,060 --> 00:07:02,500
+If you don't want to see one of
+
+202
+00:07:02,500 --> 00:07:03,940
+these, perhaps you don't want to see equity
+
+203
+00:07:03,940 --> 00:07:06,020
+because it feels redundant to you, you can
+
+204
+00:07:06,020 --> 00:07:07,620
+uncheck it and it hides or not.
+
+205
+00:07:07,920 --> 00:07:10,220
+Account balance, you'll probably always want to see
+
+206
+00:07:10,220 --> 00:07:12,600
+profit and loss as well so that you
+
+207
+00:07:12,600 --> 00:07:14,920
+can get a feel for what your profit
+
+208
+00:07:14,920 --> 00:07:16,780
+and loss is at any point in your
+
+209
+00:07:16,780 --> 00:07:18,080
+account balance also.
+
+210
+00:07:18,600 --> 00:07:20,300
+Did you know you can also export your
+
+211
+00:07:20,300 --> 00:07:21,440
+data as well?
+
+212
+00:07:21,880 --> 00:07:23,720
+See the brokers list will bring you right
+
+213
+00:07:23,720 --> 00:07:25,540
+back to the brokers menu that we showed
+
+214
+00:07:25,540 --> 00:07:26,540
+you with real brokers.
+
+215
+00:07:27,040 --> 00:07:29,080
+Logout will log you out of paper trading
+
+216
+00:07:29,080 --> 00:07:31,240
+entirely and take this whole view away from
+
+217
+00:07:31,240 --> 00:07:31,400
+you.
+
+218
+00:07:31,420 --> 00:07:32,440
+So let's not click that yet.
+
+219
+00:07:32,920 --> 00:07:34,980
+More importantly is trading settings.
+
+220
+00:07:35,640 --> 00:07:38,500
+This is a really, really important thing to
+
+221
+00:07:38,500 --> 00:07:42,360
+grasp because on trading view, really you have
+
+222
+00:07:42,360 --> 00:07:45,420
+the freedom and capabilities to create a trading
+
+223
+00:07:45,420 --> 00:07:46,960
+environment that's best for you.
+
+224
+00:07:47,500 --> 00:07:49,220
+So we showed you how to right click
+
+225
+00:07:49,220 --> 00:07:51,180
+on the chart and place a trade, but
+
+226
+00:07:51,180 --> 00:07:52,200
+did you know if you go to your
+
+227
+00:07:52,200 --> 00:07:54,640
+chart settings, which can also be accessed here,
+
+228
+00:07:54,780 --> 00:07:57,740
+the setting wheel, or right clicked and settings,
+
+229
+00:07:58,640 --> 00:08:00,700
+there is a button that says trading.
+
+230
+00:08:00,960 --> 00:08:02,700
+We go ahead and we click that and
+
+231
+00:08:02,700 --> 00:08:04,080
+you'll see here it says buy and sell
+
+232
+00:08:04,080 --> 00:08:04,520
+buttons.
+
+233
+00:08:04,820 --> 00:08:06,540
+So if we click buy and sell buttons,
+
+234
+00:08:07,240 --> 00:08:10,000
+you'll notice, watch this section here, see that?
+
+235
+00:08:10,080 --> 00:08:10,900
+So we uncheck it.
+
+236
+00:08:11,000 --> 00:08:11,440
+They're gone.
+
+237
+00:08:11,680 --> 00:08:12,020
+Check it.
+
+238
+00:08:12,100 --> 00:08:12,480
+They're there.
+
+239
+00:08:12,880 --> 00:08:14,840
+You can have these buy and sell buttons,
+
+240
+00:08:14,980 --> 00:08:17,720
+market orders up at all times to place
+
+241
+00:08:17,720 --> 00:08:19,680
+instant trades as well in paper trading.
+
+242
+00:08:19,880 --> 00:08:22,260
+So if you're watching and practicing, watching and
+
+243
+00:08:22,260 --> 00:08:24,580
+practicing, let's go to a one minute chart.
+
+244
+00:08:24,660 --> 00:08:26,520
+If we really want to see some live
+
+245
+00:08:26,520 --> 00:08:27,140
+trades.
+
+246
+00:08:27,780 --> 00:08:27,980
+Okay.
+
+247
+00:08:28,060 --> 00:08:29,940
+Maybe it's below we're in the red.
+
+248
+00:08:30,000 --> 00:08:30,740
+Let's add some.
+
+249
+00:08:30,820 --> 00:08:31,679
+We click buy.
+
+250
+00:08:31,760 --> 00:08:33,020
+We get the order ticket up.
+
+251
+00:08:33,080 --> 00:08:35,280
+Let's add five more to our position.
+
+252
+00:08:35,440 --> 00:08:37,200
+Click buy executed.
+
+253
+00:08:37,400 --> 00:08:37,700
+Okay.
+
+254
+00:08:37,700 --> 00:08:38,460
+We're down again.
+
+255
+00:08:38,520 --> 00:08:39,320
+We're down $5.
+
+256
+00:08:39,320 --> 00:08:40,900
+Let's get these order tickets.
+
+257
+00:08:41,159 --> 00:08:43,000
+Let's try to double dip on the one
+
+258
+00:08:43,000 --> 00:08:43,260
+minute.
+
+259
+00:08:43,420 --> 00:08:44,480
+This time let's add 10.
+
+260
+00:08:44,680 --> 00:08:46,740
+You can do this as well to really
+
+261
+00:08:46,740 --> 00:08:47,680
+see what's possible.
+
+262
+00:08:47,680 --> 00:08:50,320
+Trying to buy a dip, trying to place
+
+263
+00:08:50,320 --> 00:08:52,400
+a better trade or improve your position.
+
+264
+00:08:52,400 --> 00:08:53,840
+You can do that with these buttons.
+
+265
+00:08:54,120 --> 00:08:55,700
+Let's right click and go to settings.
+
+266
+00:08:55,840 --> 00:08:56,800
+We have trading selected.
+
+267
+00:08:57,240 --> 00:08:59,440
+You've also got some other things to pay
+
+268
+00:08:59,440 --> 00:09:02,660
+attention to, which are instant order placements, as
+
+269
+00:09:02,660 --> 00:09:04,360
+well as play sound for execution.
+
+270
+00:09:04,580 --> 00:09:06,360
+So if you want to hear noises play
+
+271
+00:09:06,360 --> 00:09:08,380
+when you actually execute each trade.
+
+272
+00:09:09,040 --> 00:09:11,740
+And additionally, what's incredibly important is your appearance.
+
+273
+00:09:11,960 --> 00:09:13,660
+You may not want all of the data
+
+274
+00:09:13,660 --> 00:09:14,680
+on your chart.
+
+275
+00:09:14,860 --> 00:09:17,320
+So open this settings menu and get familiar
+
+276
+00:09:17,320 --> 00:09:18,720
+with all the things you can see.
+
+277
+00:09:18,900 --> 00:09:20,600
+So you can see here, we have positions
+
+278
+00:09:20,600 --> 00:09:21,280
+checked off.
+
+279
+00:09:21,380 --> 00:09:23,600
+There's positions, profit and loss.
+
+280
+00:09:23,600 --> 00:09:24,280
+That's gone.
+
+281
+00:09:24,420 --> 00:09:26,200
+Now we definitely want to see profit and
+
+282
+00:09:26,200 --> 00:09:26,540
+loss.
+
+283
+00:09:26,740 --> 00:09:29,340
+We can also do percentage profit and loss,
+
+284
+00:09:29,420 --> 00:09:30,780
+which is particularly helpful.
+
+285
+00:09:30,780 --> 00:09:33,040
+If you're just trying to base what your
+
+286
+00:09:33,040 --> 00:09:35,420
+profit and loss is in percentage terms, not
+
+287
+00:09:35,420 --> 00:09:38,500
+necessarily money, maybe you don't need the reverse
+
+288
+00:09:38,500 --> 00:09:41,520
+button because if you accidentally click reverse.
+
+289
+00:09:41,780 --> 00:09:43,340
+So watch what happens here.
+
+290
+00:09:43,480 --> 00:09:48,180
+It instantly closes the trade and then flips
+
+291
+00:09:48,180 --> 00:09:49,900
+it around into a short position.
+
+292
+00:09:50,360 --> 00:09:52,960
+So we quite literally had a trade on
+
+293
+00:09:52,960 --> 00:09:53,560
+long.
+
+294
+00:09:53,700 --> 00:09:55,600
+We clicked one button.
+
+295
+00:09:55,760 --> 00:09:58,280
+We closed that long trade out and instantly
+
+296
+00:09:58,280 --> 00:09:59,020
+went short.
+
+297
+00:09:59,420 --> 00:10:01,200
+So that's a pretty advanced tool.
+
+298
+00:10:01,620 --> 00:10:03,320
+You may not want to see that and
+
+299
+00:10:03,320 --> 00:10:04,920
+you can hide that from your chart as
+
+300
+00:10:04,920 --> 00:10:05,220
+needed.
+
+301
+00:10:05,800 --> 00:10:07,620
+And that's what all of these boxes are
+
+302
+00:10:07,620 --> 00:10:08,280
+going to do.
+
+303
+00:10:08,280 --> 00:10:11,340
+When you have the trading tab here, clicked
+
+304
+00:10:11,340 --> 00:10:14,600
+really tons of customizations, go dive in to
+
+305
+00:10:14,600 --> 00:10:16,580
+learn exactly what works best for you.
+
+306
+00:10:16,920 --> 00:10:19,000
+But of course we are now down $4.
+
+307
+00:10:19,460 --> 00:10:21,100
+Let's close this trade as well.
+
+308
+00:10:21,300 --> 00:10:22,940
+That's another way you can close a position
+
+309
+00:10:22,940 --> 00:10:24,940
+and pay attention to the fact that you
+
+310
+00:10:24,940 --> 00:10:28,340
+can partially close trades, which once again just
+
+311
+00:10:28,340 --> 00:10:32,820
+demonstrates how many trading capabilities you have when
+
+312
+00:10:32,820 --> 00:10:35,000
+the paper trading tool is open.
+
+313
+00:10:35,200 --> 00:10:36,700
+So we typed in 35.
+
+314
+00:10:36,740 --> 00:10:39,220
+So we're going to close, you know, a
+
+315
+00:10:39,220 --> 00:10:41,960
+little more than than half of this position.
+
+316
+00:10:42,020 --> 00:10:44,020
+Click partially close executed.
+
+317
+00:10:44,200 --> 00:10:47,460
+We're so far down $2 since we started
+
+318
+00:10:47,460 --> 00:10:49,900
+this tutorial, but you know what?
+
+319
+00:10:49,940 --> 00:10:52,040
+Let's close it out entirely and start over
+
+320
+00:10:52,040 --> 00:10:54,400
+because we want to keep walking you through
+
+321
+00:10:54,400 --> 00:10:55,180
+each tool.
+
+322
+00:10:55,380 --> 00:10:57,560
+We really are getting the basics across to
+
+323
+00:10:57,560 --> 00:10:57,720
+you.
+
+324
+00:10:58,380 --> 00:11:00,580
+We can feel that, but there's more to
+
+325
+00:11:00,580 --> 00:11:02,380
+do here because now we're on a one
+
+326
+00:11:02,380 --> 00:11:02,900
+minute chart.
+
+327
+00:11:03,080 --> 00:11:05,160
+We're zoomed in and we're going to try
+
+328
+00:11:05,160 --> 00:11:06,060
+this again.
+
+329
+00:11:06,420 --> 00:11:06,780
+Okay.
+
+330
+00:11:07,120 --> 00:11:09,000
+So here's a chart of Tesla on a
+
+331
+00:11:09,000 --> 00:11:09,700
+one minute chart.
+
+332
+00:11:10,040 --> 00:11:13,200
+We have got an interesting level here that
+
+333
+00:11:13,200 --> 00:11:14,320
+we are going to mark.
+
+334
+00:11:14,420 --> 00:11:15,620
+It's this low here.
+
+335
+00:11:16,120 --> 00:11:18,060
+So this would be the low of the
+
+336
+00:11:18,060 --> 00:11:18,460
+day.
+
+337
+00:11:19,080 --> 00:11:21,100
+Essentially since this, no, since this run up,
+
+338
+00:11:21,160 --> 00:11:22,240
+it would be the low since the run
+
+339
+00:11:22,240 --> 00:11:23,040
+up the retrace.
+
+340
+00:11:23,360 --> 00:11:24,980
+So this will be our stop loss.
+
+341
+00:11:25,220 --> 00:11:27,040
+We're going to open up our paper trading
+
+342
+00:11:27,040 --> 00:11:27,460
+tool.
+
+343
+00:11:28,260 --> 00:11:29,900
+And what we're going to do now is
+
+344
+00:11:29,900 --> 00:11:31,820
+we are going to place another trade.
+
+345
+00:11:32,500 --> 00:11:33,860
+This time, we're just going to click the
+
+346
+00:11:33,860 --> 00:11:35,820
+trade button right here and open up our
+
+347
+00:11:35,820 --> 00:11:37,740
+trade panel on the right side of the
+
+348
+00:11:37,740 --> 00:11:37,960
+chart.
+
+349
+00:11:38,060 --> 00:11:40,260
+Once again, so many different ways for you
+
+350
+00:11:40,260 --> 00:11:43,240
+to practice trading, whether it's the buttons, whether
+
+351
+00:11:43,240 --> 00:11:46,240
+it's right clicking and finding trade, getting that
+
+352
+00:11:46,240 --> 00:11:48,800
+floating ticket, or just clicking the trade button
+
+353
+00:11:48,800 --> 00:11:51,420
+here to open up this panel, the choice
+
+354
+00:11:51,420 --> 00:11:52,340
+is yours.
+
+355
+00:11:52,520 --> 00:11:54,200
+And hopefully you are still sticking around in
+
+356
+00:11:54,200 --> 00:11:56,660
+this video so that you can do this
+
+357
+00:11:56,660 --> 00:11:59,320
+exact same thing yourself and find the best
+
+358
+00:11:59,320 --> 00:12:00,920
+possible layout for you.
+
+359
+00:12:01,200 --> 00:12:03,700
+Now, when you do have the order ticket
+
+360
+00:12:03,700 --> 00:12:05,840
+open, you'll notice that there is a depth
+
+361
+00:12:05,840 --> 00:12:06,340
+of market.
+
+362
+00:12:06,340 --> 00:12:10,600
+This is especially helpful if you have a
+
+363
+00:12:10,600 --> 00:12:13,360
+brokerage on TradingView that provides this level of
+
+364
+00:12:13,360 --> 00:12:15,960
+data, or if you have access to a
+
+365
+00:12:15,960 --> 00:12:17,840
+data plan that gives you this level of
+
+366
+00:12:17,840 --> 00:12:18,100
+data.
+
+367
+00:12:18,460 --> 00:12:20,360
+There is a video on our YouTube channel
+
+368
+00:12:20,360 --> 00:12:23,340
+about the DOM or depth of market.
+
+369
+00:12:23,620 --> 00:12:25,340
+We're going to stick to the order panel
+
+370
+00:12:25,340 --> 00:12:27,880
+because this video is all about paper trading.
+
+371
+00:12:28,580 --> 00:12:30,080
+We are now going to set up a
+
+372
+00:12:30,080 --> 00:12:33,060
+trade from scratch, showing you an exact way
+
+373
+00:12:33,060 --> 00:12:34,520
+you could think about this.
+
+374
+00:12:35,000 --> 00:12:38,020
+So recall we drew this horizontal line because
+
+375
+00:12:38,020 --> 00:12:39,720
+we feel like this low is significant.
+
+376
+00:12:40,300 --> 00:12:42,020
+Everyone's analysis is different.
+
+377
+00:12:42,200 --> 00:12:44,420
+This is just our observation on a one
+
+378
+00:12:44,420 --> 00:12:44,980
+-minute chart.
+
+379
+00:12:45,460 --> 00:12:47,280
+One-minute charts are never all that easy
+
+380
+00:12:47,280 --> 00:12:49,340
+to trade, but this is just for an
+
+381
+00:12:49,340 --> 00:12:49,700
+example.
+
+382
+00:12:50,360 --> 00:12:51,800
+Now, what we're going to do is we
+
+383
+00:12:51,800 --> 00:12:53,300
+want to do a limit order.
+
+384
+00:12:54,180 --> 00:12:55,820
+A limit order, first of all, means we
+
+385
+00:12:55,820 --> 00:12:57,960
+only want to get filled at a specific
+
+386
+00:12:57,960 --> 00:12:58,560
+price.
+
+387
+00:12:58,560 --> 00:13:00,900
+It's not a market order, which just buys
+
+388
+00:13:00,900 --> 00:13:01,860
+at any price.
+
+389
+00:13:01,960 --> 00:13:03,420
+If you do market, it will literally just
+
+390
+00:13:03,420 --> 00:13:05,520
+get you filled at any price whatsoever.
+
+391
+00:13:06,180 --> 00:13:07,640
+Limit order is us being a little picky.
+
+392
+00:13:08,160 --> 00:13:09,780
+How about we only want to get filled
+
+393
+00:13:09,780 --> 00:13:11,720
+if it goes to $193?
+
+394
+00:13:11,980 --> 00:13:18,500
+So let's do $192.99. So we want
+
+395
+00:13:18,500 --> 00:13:22,100
+10 shares at $192.99, and we were
+
+396
+00:13:22,100 --> 00:13:23,360
+already filled just like that.
+
+397
+00:13:23,460 --> 00:13:24,220
+We're on a minute chart.
+
+398
+00:13:24,300 --> 00:13:27,660
+It happened quite fast, and that is how
+
+399
+00:13:27,660 --> 00:13:28,880
+you can place your limit order.
+
+400
+00:13:29,020 --> 00:13:31,080
+Now, remember we have not added a stop
+
+401
+00:13:31,080 --> 00:13:33,780
+loss or take profit, which as we mentioned
+
+402
+00:13:33,780 --> 00:13:36,160
+is really up to you.
+
+403
+00:13:36,260 --> 00:13:38,660
+You can drag and let go of those
+
+404
+00:13:38,660 --> 00:13:41,520
+stop losses and take profits, or when you
+
+405
+00:13:41,520 --> 00:13:44,160
+have this order panel open, you can check
+
+406
+00:13:44,160 --> 00:13:46,740
+to add a take profit, check to add
+
+407
+00:13:46,740 --> 00:13:47,460
+a stop loss.
+
+408
+00:13:47,660 --> 00:13:49,460
+In this case, you can see this horizontal
+
+409
+00:13:49,460 --> 00:13:53,000
+line says $192.55. That's our stop loss.
+
+410
+00:13:53,160 --> 00:13:55,960
+So it says $187 here, but let's add
+
+411
+00:13:55,960 --> 00:13:58,060
+a stop loss that says $192.
+
+412
+00:13:58,180 --> 00:14:00,900
+Let's do $192.50, round number.
+
+413
+00:14:01,840 --> 00:14:02,840
+There's our stop loss.
+
+414
+00:14:03,140 --> 00:14:05,240
+It has been placed and it's on the
+
+415
+00:14:05,240 --> 00:14:05,780
+chart.
+
+416
+00:14:06,120 --> 00:14:09,860
+So that is a very important component of
+
+417
+00:14:09,860 --> 00:14:11,680
+getting your stop loss on the chart using
+
+418
+00:14:11,680 --> 00:14:12,660
+the order ticket.
+
+419
+00:14:12,800 --> 00:14:15,980
+Now, the reason why we did place our
+
+420
+00:14:15,980 --> 00:14:17,760
+stop loss at that point is we wanted
+
+421
+00:14:17,760 --> 00:14:20,540
+to give our horizontal line here a little
+
+422
+00:14:20,540 --> 00:14:21,380
+bit of wiggle room.
+
+423
+00:14:21,560 --> 00:14:22,940
+We don't want to place it right at
+
+424
+00:14:22,940 --> 00:14:26,360
+the line because sometimes price has a tendency
+
+425
+00:14:26,360 --> 00:14:29,200
+to sort of break through, sort of fake
+
+426
+00:14:29,200 --> 00:14:31,020
+everyone out and then snap back up.
+
+427
+00:14:31,180 --> 00:14:33,720
+So hopefully this stop loss is playing into
+
+428
+00:14:33,720 --> 00:14:34,700
+that a little bit.
+
+429
+00:14:35,160 --> 00:14:36,600
+So look at this, we're up a dollar.
+
+430
+00:14:37,000 --> 00:14:38,340
+One more thing now is we want to
+
+431
+00:14:38,340 --> 00:14:39,160
+add our take profit.
+
+432
+00:14:39,400 --> 00:14:40,900
+So we check the box and we've got
+
+433
+00:14:40,900 --> 00:14:41,720
+our take profit here.
+
+434
+00:14:41,860 --> 00:14:44,160
+This is just like the floating ticket option
+
+435
+00:14:44,160 --> 00:14:44,880
+as well.
+
+436
+00:14:45,060 --> 00:14:47,860
+You'll recall, so let's actually right click to
+
+437
+00:14:47,860 --> 00:14:48,340
+shut that.
+
+438
+00:14:48,900 --> 00:14:51,480
+Remember, we could go here to trade and
+
+439
+00:14:51,480 --> 00:14:53,940
+create new order and it will pop up
+
+440
+00:14:53,940 --> 00:14:55,840
+and we can do the exact same process
+
+441
+00:14:55,840 --> 00:14:56,980
+as we did before.
+
+442
+00:14:57,220 --> 00:14:59,020
+Or of course, we can hover our mouse
+
+443
+00:14:59,020 --> 00:15:00,980
+over and drag our take profit.
+
+444
+00:15:01,320 --> 00:15:04,000
+In this case, our take profit target, and
+
+445
+00:15:04,000 --> 00:15:06,200
+pretty cool how this all works and automatically
+
+446
+00:15:06,200 --> 00:15:07,180
+updates from there.
+
+447
+00:15:07,420 --> 00:15:09,640
+In this case, our take profit target is
+
+448
+00:15:09,640 --> 00:15:11,040
+going to be a little bit better than
+
+449
+00:15:11,040 --> 00:15:13,580
+the last example we were showing you because
+
+450
+00:15:13,580 --> 00:15:16,020
+we're going to use these prior highs all
+
+451
+00:15:16,020 --> 00:15:17,960
+the way back here, which looks like it
+
+452
+00:15:17,960 --> 00:15:18,980
+was Friday morning.
+
+453
+00:15:19,060 --> 00:15:21,040
+We're recording this video on Friday the 9th.
+
+454
+00:15:21,360 --> 00:15:22,700
+So let's go ahead and draw our take
+
+455
+00:15:22,700 --> 00:15:24,380
+profit all the way up here to these
+
+456
+00:15:24,380 --> 00:15:25,100
+prior highs.
+
+457
+00:15:25,700 --> 00:15:27,200
+In fact, let's actually play a little more
+
+458
+00:15:27,200 --> 00:15:27,860
+bearish though.
+
+459
+00:15:28,840 --> 00:15:30,480
+Maybe it gets into this zone here.
+
+460
+00:15:30,580 --> 00:15:32,280
+So we've got this zone that we're kind
+
+461
+00:15:32,280 --> 00:15:33,940
+of playing off of for our take profit.
+
+462
+00:15:34,300 --> 00:15:36,860
+So now we've got our bracket trade set
+
+463
+00:15:36,860 --> 00:15:37,080
+up.
+
+464
+00:15:37,280 --> 00:15:39,140
+Let's watch it in real time.
+
+465
+00:15:39,340 --> 00:15:40,940
+And while we watch it in real time
+
+466
+00:15:40,940 --> 00:15:44,140
+on this one minute chart, let's also just
+
+467
+00:15:44,140 --> 00:15:46,800
+keep in mind the importance of the data
+
+468
+00:15:46,800 --> 00:15:48,240
+that we also have available.
+
+469
+00:15:48,500 --> 00:15:48,800
+Okay.
+
+470
+00:15:49,160 --> 00:15:51,020
+So right now we have positions open.
+
+471
+00:15:51,240 --> 00:15:53,100
+This is going to show us our live
+
+472
+00:15:53,100 --> 00:15:53,860
+positions.
+
+473
+00:15:54,240 --> 00:15:55,920
+So as you can see, we have a
+
+474
+00:15:55,920 --> 00:15:57,020
+Tesla trade on.
+
+475
+00:15:57,320 --> 00:15:59,620
+You just watched us place this trade from
+
+476
+00:15:59,620 --> 00:16:00,820
+start to finish.
+
+477
+00:16:01,340 --> 00:16:02,420
+Side means long.
+
+478
+00:16:02,560 --> 00:16:03,520
+That means we are long.
+
+479
+00:16:03,520 --> 00:16:06,020
+You'll recall, and if you go backward, when
+
+480
+00:16:06,020 --> 00:16:08,460
+we clicked this reverse button to suddenly close
+
+481
+00:16:08,460 --> 00:16:10,880
+out and go short, this changed to short.
+
+482
+00:16:11,480 --> 00:16:13,740
+Quantity shows how many shares we have.
+
+483
+00:16:13,900 --> 00:16:15,660
+Currently we have 20 shares.
+
+484
+00:16:15,940 --> 00:16:18,260
+If we buy more shares, this number will
+
+485
+00:16:18,260 --> 00:16:18,740
+go up.
+
+486
+00:16:19,220 --> 00:16:20,360
+Average fill price.
+
+487
+00:16:20,520 --> 00:16:23,440
+This is a wonderful stat for you to
+
+488
+00:16:23,440 --> 00:16:25,560
+get familiar with as a trader in paper
+
+489
+00:16:25,560 --> 00:16:30,340
+trading because average fill price is essentially telling
+
+490
+00:16:30,340 --> 00:16:32,800
+you what your average entry price is.
+
+491
+00:16:33,300 --> 00:16:35,520
+If you're picky, meaning you only use limit
+
+492
+00:16:35,520 --> 00:16:35,900
+orders.
+
+493
+00:16:36,180 --> 00:16:38,900
+If you're picky, and for example, maybe you
+
+494
+00:16:38,900 --> 00:16:41,040
+want to double dip down and lower your
+
+495
+00:16:41,040 --> 00:16:42,080
+average fill price.
+
+496
+00:16:42,200 --> 00:16:44,880
+Maybe you see here $192.50. You can
+
+497
+00:16:44,880 --> 00:16:47,420
+actually type that in because you want to
+
+498
+00:16:47,420 --> 00:16:49,560
+make a second purchase to lower that.
+
+499
+00:16:50,300 --> 00:16:51,660
+Let's do five more units.
+
+500
+00:16:52,060 --> 00:16:54,440
+Limit $192.50. Click buy.
+
+501
+00:16:54,440 --> 00:16:56,900
+Now we've got another buy order on the
+
+502
+00:16:56,900 --> 00:16:58,680
+chart as well in the hopes of lowering
+
+503
+00:16:58,680 --> 00:16:59,880
+this average fill price.
+
+504
+00:17:00,020 --> 00:17:02,000
+The point is that you can do things
+
+505
+00:17:02,000 --> 00:17:05,079
+just like this by paying attention to the
+
+506
+00:17:05,079 --> 00:17:05,480
+stats.
+
+507
+00:17:06,160 --> 00:17:06,720
+Take profit.
+
+508
+00:17:06,980 --> 00:17:09,319
+That's the exact thing you see here.
+
+509
+00:17:09,440 --> 00:17:11,359
+Remember, we drag this up to that level.
+
+510
+00:17:11,980 --> 00:17:12,480
+Stop loss.
+
+511
+00:17:12,599 --> 00:17:13,660
+That's what you see right here.
+
+512
+00:17:13,720 --> 00:17:15,540
+Remember, we drag this up to the level.
+
+513
+00:17:16,160 --> 00:17:18,420
+The last price is a real-time countdown
+
+514
+00:17:18,420 --> 00:17:20,660
+of the price right now and our profit
+
+515
+00:17:20,660 --> 00:17:21,359
+and loss.
+
+516
+00:17:21,920 --> 00:17:23,619
+Lastly, you're going to see this column set
+
+517
+00:17:23,619 --> 00:17:23,819
+up.
+
+518
+00:17:23,940 --> 00:17:27,040
+This really feeds into a key component about
+
+519
+00:17:27,040 --> 00:17:29,900
+the TradingView paper trading tool, which is what
+
+520
+00:17:29,900 --> 00:17:32,680
+we've been explaining almost since the start, and
+
+521
+00:17:32,680 --> 00:17:35,140
+all the customizations you have to make a
+
+522
+00:17:35,140 --> 00:17:38,620
+trading desktop look and feel that fits you
+
+523
+00:17:38,620 --> 00:17:39,140
+perfectly.
+
+524
+00:17:39,720 --> 00:17:41,920
+If you'd like to actually hide some of
+
+525
+00:17:41,920 --> 00:17:43,360
+these columns, maybe you find it to be
+
+526
+00:17:43,360 --> 00:17:44,060
+too noisy.
+
+527
+00:17:44,500 --> 00:17:47,040
+Maybe you literally only want to see quantity,
+
+528
+00:17:47,580 --> 00:17:50,760
+average fill price, and profit and loss.
+
+529
+00:17:50,820 --> 00:17:53,280
+You can simplify it to that degree.
+
+530
+00:17:53,660 --> 00:17:55,020
+Choice is yours.
+
+531
+00:17:55,600 --> 00:17:56,400
+Next up is orders.
+
+532
+00:17:56,800 --> 00:17:59,440
+Orders is going to be a very important
+
+533
+00:17:59,440 --> 00:18:02,200
+tool for those who are very meticulous in
+
+534
+00:18:02,200 --> 00:18:05,480
+tracking their trading history, everything that they've done
+
+535
+00:18:05,480 --> 00:18:06,900
+in the paper trading process.
+
+536
+00:18:07,380 --> 00:18:09,240
+This is where you can quickly see every
+
+537
+00:18:09,240 --> 00:18:11,280
+trade that you have placed.
+
+538
+00:18:11,700 --> 00:18:13,320
+Positions, these are live trades.
+
+539
+00:18:13,420 --> 00:18:14,740
+These are trades that are on.
+
+540
+00:18:14,860 --> 00:18:16,820
+They are positions that could be happening at
+
+541
+00:18:16,820 --> 00:18:17,320
+this moment.
+
+542
+00:18:17,980 --> 00:18:20,560
+Orders are every order that you've placed, whether
+
+543
+00:18:20,560 --> 00:18:23,740
+they've been filled, canceled, sold, anything of the
+
+544
+00:18:23,740 --> 00:18:23,980
+sort.
+
+545
+00:18:24,660 --> 00:18:26,060
+You can see here it says working.
+
+546
+00:18:26,420 --> 00:18:29,200
+That's because, remember, we just placed that limit
+
+547
+00:18:29,200 --> 00:18:30,920
+order to buy five more shares.
+
+548
+00:18:31,260 --> 00:18:31,940
+It's working.
+
+549
+00:18:32,140 --> 00:18:32,720
+It's waiting.
+
+550
+00:18:32,940 --> 00:18:33,700
+It's out there.
+
+551
+00:18:34,140 --> 00:18:35,580
+It's happening.
+
+552
+00:18:36,100 --> 00:18:39,260
+You can even sort all of these orders
+
+553
+00:18:39,260 --> 00:18:42,900
+by the specific category here to see how
+
+554
+00:18:42,900 --> 00:18:45,140
+many orders were filled, canceled, rejected.
+
+555
+00:18:45,140 --> 00:18:48,400
+This gives you more granular data into your
+
+556
+00:18:48,400 --> 00:18:50,520
+entire workflow as you get started.
+
+557
+00:18:51,040 --> 00:18:54,660
+History is especially powerful because history will track
+
+558
+00:18:54,660 --> 00:18:56,200
+your account all through time.
+
+559
+00:18:56,660 --> 00:18:58,160
+In fact, you'll see here we placed some
+
+560
+00:18:58,160 --> 00:19:00,480
+Apple trades, but you weren't watching the video
+
+561
+00:19:00,480 --> 00:19:01,360
+when we placed these.
+
+562
+00:19:01,780 --> 00:19:04,120
+But in the history section, we can go
+
+563
+00:19:04,120 --> 00:19:06,020
+that far back in time to see all
+
+564
+00:19:06,020 --> 00:19:08,960
+of these trades, the filled trades, canceled trades,
+
+565
+00:19:09,080 --> 00:19:10,500
+and rejected trades.
+
+566
+00:19:10,900 --> 00:19:13,000
+In addition, you have your account history.
+
+567
+00:19:13,000 --> 00:19:17,080
+This way you can get another look at
+
+568
+00:19:17,080 --> 00:19:19,760
+your account history, but not so much from
+
+569
+00:19:19,760 --> 00:19:21,420
+the positions that you have.
+
+570
+00:19:21,660 --> 00:19:24,320
+History, positions, orders are the orders you're placing,
+
+571
+00:19:24,520 --> 00:19:26,120
+positions are the positions you have on.
+
+572
+00:19:26,560 --> 00:19:28,520
+But account history more so in terms of
+
+573
+00:19:28,520 --> 00:19:29,360
+look at the balance.
+
+574
+00:19:30,220 --> 00:19:32,420
+You can actually track the balance of the
+
+575
+00:19:32,420 --> 00:19:36,160
+account and what trades played a role in
+
+576
+00:19:36,160 --> 00:19:40,360
+that balance and the details into that balance
+
+577
+00:19:40,360 --> 00:19:43,520
+change or the trade that moved the balance.
+
+578
+00:19:44,120 --> 00:19:47,680
+These are very, very important aspects to understand.
+
+579
+00:19:48,120 --> 00:19:50,200
+Lastly, we'll talk about the trading journal.
+
+580
+00:19:50,980 --> 00:19:55,720
+The trading journal is an especially detailed look
+
+581
+00:19:55,720 --> 00:19:56,760
+at your orders.
+
+582
+00:19:57,640 --> 00:20:00,280
+One common theme you'll notice about all of
+
+583
+00:20:00,280 --> 00:20:02,500
+this data that you can gather about your
+
+584
+00:20:02,500 --> 00:20:04,780
+paper trading journey is that most of them
+
+585
+00:20:04,780 --> 00:20:07,120
+feed into the positions that you have on,
+
+586
+00:20:07,360 --> 00:20:10,740
+the orders that have been executed, the history
+
+587
+00:20:10,740 --> 00:20:14,020
+throughout your account, your account's history and its
+
+588
+00:20:14,020 --> 00:20:15,640
+balance before and after.
+
+589
+00:20:16,020 --> 00:20:17,920
+The trading journal is a way for you
+
+590
+00:20:17,920 --> 00:20:20,680
+to actually look into the orders that were
+
+591
+00:20:20,680 --> 00:20:25,300
+successfully placed, canceled, modified, confirmed.
+
+592
+00:20:25,820 --> 00:20:28,020
+All of that good stuff is right here.
+
+593
+00:20:28,520 --> 00:20:31,280
+For many advanced traders, and the new traders
+
+594
+00:20:31,280 --> 00:20:33,900
+will find this interesting, sometimes this is some
+
+595
+00:20:33,900 --> 00:20:35,840
+of the most important information to gather because
+
+596
+00:20:35,840 --> 00:20:37,760
+you want to know what your entry was.
+
+597
+00:20:37,880 --> 00:20:39,020
+Did the trade go through?
+
+598
+00:20:39,360 --> 00:20:40,640
+Did it not go through?
+
+599
+00:20:40,980 --> 00:20:42,120
+Why did it not go through?
+
+600
+00:20:42,380 --> 00:20:44,520
+This is where you can really track that
+
+601
+00:20:44,520 --> 00:20:45,140
+process.
+
+602
+00:20:45,800 --> 00:20:48,400
+We've now given you the basics of paper
+
+603
+00:20:48,400 --> 00:20:48,740
+trading.
+
+604
+00:20:49,180 --> 00:20:51,360
+Our trade is still on at this very
+
+605
+00:20:51,360 --> 00:20:53,800
+moment and there are a final few key
+
+606
+00:20:53,800 --> 00:20:56,060
+details for you to pay attention to as
+
+607
+00:20:56,060 --> 00:20:57,000
+you watch this video.
+
+608
+00:20:57,860 --> 00:20:59,800
+That is the fact that you have your
+
+609
+00:20:59,800 --> 00:21:04,260
+account here, so TradingView USD account, and you
+
+610
+00:21:04,260 --> 00:21:06,820
+can create new accounts as needed.
+
+611
+00:21:07,160 --> 00:21:11,120
+This is key because not everyone has just
+
+612
+00:21:11,120 --> 00:21:12,660
+one brokerage account.
+
+613
+00:21:12,920 --> 00:21:16,920
+Some people have multiple brokerage accounts or multiple
+
+614
+00:21:16,920 --> 00:21:17,740
+portfolios.
+
+615
+00:21:18,160 --> 00:21:20,620
+This account is just called TradingView, but if
+
+616
+00:21:20,620 --> 00:21:22,780
+we wanted to start a fresh new account
+
+617
+00:21:22,780 --> 00:21:24,860
+and manage two different accounts at the same
+
+618
+00:21:24,860 --> 00:21:27,480
+time, we would call this paper trading account
+
+619
+00:21:27,480 --> 00:21:29,040
+number two.
+
+620
+00:21:29,260 --> 00:21:31,200
+We can set our starting balance.
+
+621
+00:21:31,340 --> 00:21:32,560
+Let's just start it at $100.
+
+622
+00:21:33,560 --> 00:21:35,920
+We don't want commission, actually, and let's click
+
+623
+00:21:35,920 --> 00:21:39,500
+create, and the account did not create.
+
+624
+00:21:39,600 --> 00:21:41,440
+Good reminder here, you can't have this number
+
+625
+00:21:41,440 --> 00:21:43,000
+in here, so let's delete that and click
+
+626
+00:21:43,000 --> 00:21:43,500
+create.
+
+627
+00:21:44,100 --> 00:21:44,940
+Oops, we still have the number.
+
+628
+00:21:45,140 --> 00:21:49,880
+Click create, and that's because of the, okay,
+
+629
+00:21:50,120 --> 00:21:50,760
+paper trading.
+
+630
+00:21:51,020 --> 00:21:52,900
+There we go, and now we're good to
+
+631
+00:21:52,900 --> 00:21:53,040
+go.
+
+632
+00:21:53,120 --> 00:21:55,120
+You just learned another important lesson there as
+
+633
+00:21:55,120 --> 00:21:58,160
+well, don't add the spaces, don't add the
+
+634
+00:21:58,160 --> 00:22:00,800
+numbers, just get it straight in there, one
+
+635
+00:22:00,800 --> 00:22:01,660
+straight shot.
+
+636
+00:22:01,780 --> 00:22:04,040
+Now we've got paper trading account and TradingView,
+
+637
+00:22:04,160 --> 00:22:04,700
+it's got $100.
+
+638
+00:22:05,280 --> 00:22:07,720
+Now we can bounce between our two accounts
+
+639
+00:22:07,720 --> 00:22:09,040
+as needed.
+
+640
+00:22:09,580 --> 00:22:11,880
+In addition, what's quite important here is the
+
+641
+00:22:11,880 --> 00:22:12,900
+account settings menu.
+
+642
+00:22:13,400 --> 00:22:14,900
+This, of course, is where you can choose
+
+643
+00:22:14,900 --> 00:22:18,080
+to include commission or reset the account.
+
+644
+00:22:18,400 --> 00:22:19,820
+We do not want to reset the account
+
+645
+00:22:19,820 --> 00:22:21,000
+at this point, but if you ever need
+
+646
+00:22:21,000 --> 00:22:23,720
+to start fresh, maybe your account's gotten a
+
+647
+00:22:23,720 --> 00:22:26,300
+little too messy, your account balance is messed
+
+648
+00:22:26,300 --> 00:22:29,420
+up, click reset account and start over from
+
+649
+00:22:29,420 --> 00:22:29,960
+scratch.
+
+650
+00:22:30,140 --> 00:22:32,640
+So ladies and gentlemen, that is paper trading.
+
+651
+00:22:32,880 --> 00:22:35,840
+It's a full walkthrough of the paper trading
+
+652
+00:22:35,840 --> 00:22:36,920
+process on TradingView.
+
+653
+00:22:37,240 --> 00:22:40,500
+You learned how to create bracket orders, how
+
+654
+00:22:40,500 --> 00:22:43,100
+to create market orders, you watched us place
+
+655
+00:22:43,100 --> 00:22:45,580
+a limit order, you saw us place stop
+
+656
+00:22:45,580 --> 00:22:48,520
+losses, you saw us place take profits and
+
+657
+00:22:48,520 --> 00:22:50,980
+stop losses at the same time, we even
+
+658
+00:22:50,980 --> 00:22:52,940
+reversed a trade and went from long to
+
+659
+00:22:52,940 --> 00:22:55,200
+short in a matter of seconds, we've been
+
+660
+00:22:55,200 --> 00:22:57,760
+watching this real-time trade the entire time,
+
+661
+00:22:58,180 --> 00:23:02,020
+and we walked you through the entire TradingView
+
+662
+00:23:02,020 --> 00:23:04,120
+panel here at the bottom of the chart
+
+663
+00:23:04,120 --> 00:23:07,080
+so that you know exactly what you're looking
+
+664
+00:23:07,080 --> 00:23:09,600
+at and all of the data that's before
+
+665
+00:23:09,600 --> 00:23:09,900
+you.
+
+666
+00:23:10,520 --> 00:23:12,940
+Now, as we wrap up this video, we
+
+667
+00:23:12,940 --> 00:23:14,420
+just want to make sure that you walk
+
+668
+00:23:14,420 --> 00:23:16,580
+away as well, especially for the new traders
+
+669
+00:23:16,580 --> 00:23:18,700
+out there, with some important details.
+
+670
+00:23:19,280 --> 00:23:22,640
+Paper trading is an effective way for you
+
+671
+00:23:22,640 --> 00:23:24,940
+to practice, practice, practice.
+
+672
+00:23:25,260 --> 00:23:27,380
+Right now, we've been placing trades on Tesla,
+
+673
+00:23:27,660 --> 00:23:30,020
+but you can do this across different asset
+
+674
+00:23:30,020 --> 00:23:32,960
+classes and place more than one practice trade
+
+675
+00:23:32,960 --> 00:23:33,620
+at a time.
+
+676
+00:23:34,000 --> 00:23:36,360
+For example, we have Bitcoin open here, let's
+
+677
+00:23:36,360 --> 00:23:39,120
+go ahead and place another order, and let's
+
+678
+00:23:39,120 --> 00:23:41,100
+actually do a market order, let's buy 10
+
+679
+00:23:41,100 --> 00:23:41,720
+Bitcoins.
+
+680
+00:23:42,400 --> 00:23:44,560
+Our take profit, this is still a one
+
+681
+00:23:44,560 --> 00:23:46,840
+-minute chart, so let's do our take profit
+
+682
+00:23:46,840 --> 00:23:48,240
+is right here at the high of this
+
+683
+00:23:48,240 --> 00:23:50,520
+green one-minute candle, looks like it's about
+
+684
+00:23:50,520 --> 00:23:58,600
+$47,800, let's do $47,800, and then
+
+685
+00:23:58,600 --> 00:24:00,080
+let's add a stop loss, which would be
+
+686
+00:24:00,080 --> 00:24:02,480
+the bottom of this wick here, which would
+
+687
+00:24:02,480 --> 00:24:05,580
+be $47,800.
+
+688
+00:24:06,520 --> 00:24:09,180
+Okay, so this is actually $47,800, let's
+
+689
+00:24:09,180 --> 00:24:15,100
+do $47,900, this is $47,800, and
+
+690
+00:24:15,100 --> 00:24:17,560
+now let's hit buy, let's make it happen,
+
+691
+00:24:17,980 --> 00:24:21,760
+the trade's been executed, we just placed another
+
+692
+00:24:21,760 --> 00:24:23,920
+bracket trade, and the reason for doing that
+
+693
+00:24:23,920 --> 00:24:25,280
+is as we were wrapping up our show,
+
+694
+00:24:25,380 --> 00:24:26,880
+we wanted to make sure you know, you
+
+695
+00:24:26,880 --> 00:24:29,860
+can manage multiple positions at once as well,
+
+696
+00:24:30,100 --> 00:24:32,320
+and as you click through each chart, it'll
+
+697
+00:24:32,320 --> 00:24:34,980
+load, our Bitcoin trade that we just placed
+
+698
+00:24:34,980 --> 00:24:39,000
+has already executed, looks like we lost money
+
+699
+00:24:39,000 --> 00:24:41,080
+on that, you can see here we had
+
+700
+00:24:41,080 --> 00:24:43,240
+that entry and we got stopped out rather
+
+701
+00:24:43,240 --> 00:24:45,740
+quickly, and even that took our whole account
+
+702
+00:24:45,740 --> 00:24:47,760
+into the red, we're now down 60 cents
+
+703
+00:24:47,760 --> 00:24:50,500
+just in this short period of time, but
+
+704
+00:24:50,500 --> 00:24:52,340
+we did demonstrate how you can manage multiple
+
+705
+00:24:52,340 --> 00:24:54,360
+positions at once, because if you think you
+
+706
+00:24:54,360 --> 00:24:56,420
+have what it takes to be an excellent
+
+707
+00:24:56,420 --> 00:24:59,560
+trader, this paper trading tool unlocks all of
+
+708
+00:24:59,560 --> 00:25:01,780
+that for you, you can place real trades,
+
+709
+00:25:02,120 --> 00:25:05,100
+practice your trades, work on bracket orders, and
+
+710
+00:25:05,100 --> 00:25:07,620
+do it across different asset classes, you saw
+
+711
+00:25:07,620 --> 00:25:09,680
+I went from Bitcoin to Tesla, we could
+
+712
+00:25:09,680 --> 00:25:12,780
+even go to Forex, here's EURUSD, we could
+
+713
+00:25:12,780 --> 00:25:14,880
+just place a market order, let's go ahead
+
+714
+00:25:14,880 --> 00:25:17,400
+and just buy 50, click buy, and now
+
+715
+00:25:17,400 --> 00:25:19,880
+we've got your USD as well, so you
+
+716
+00:25:19,880 --> 00:25:22,260
+can manage a portfolio as well, it does
+
+717
+00:25:22,260 --> 00:25:24,900
+not have to be just paper trading, so
+
+718
+00:25:24,900 --> 00:25:26,980
+before you risk your hard-earned money, before
+
+719
+00:25:26,980 --> 00:25:28,980
+you dive into markets, go see if you
+
+720
+00:25:28,980 --> 00:25:32,140
+have what it takes first to manage a
+
+721
+00:25:32,140 --> 00:25:36,840
+paper trading account into a profitable standpoint, that
+
+722
+00:25:36,840 --> 00:25:38,660
+is a great way to get started in
+
+723
+00:25:38,660 --> 00:25:41,720
+markets, as we mentioned, it's entirely free, and
+
+724
+00:25:41,720 --> 00:25:44,340
+we walked you through the entire journey here,
+
+725
+00:25:44,500 --> 00:25:46,920
+start to finish, from the most advanced concepts,
+
+726
+00:25:47,160 --> 00:25:49,740
+to the most basic concepts, and even the
+
+727
+00:25:49,740 --> 00:25:52,780
+settings process of making sure that you set
+
+728
+00:25:52,780 --> 00:25:55,560
+up a chart using this trading tab that
+
+729
+00:25:55,560 --> 00:25:58,460
+works for you, because as mentioned, we added
+
+730
+00:25:58,460 --> 00:26:00,780
+these buy buttons up here too, gives us
+
+731
+00:26:00,780 --> 00:26:03,100
+access to this order panel in a matter
+
+732
+00:26:03,100 --> 00:26:05,080
+of clicks, so thanks so much for watching,
+
+733
+00:26:05,080 --> 00:26:07,000
+we hope this video helps you get started.

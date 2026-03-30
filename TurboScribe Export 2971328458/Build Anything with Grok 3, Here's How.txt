@@ -1,0 +1,426 @@
+(0:00 - 2:32)
+My name is David Andre and here's how to build anything with grok3. Yesterday, XAI released grok3, a new AI model that's really good. In fact, it might be the best AI model in the world, because it currently is number one on the chatbot arena, defeating all the other state-of-the-art large language models. 
+
+So in this video, I'll show you how you can use grok3 to build anything with it, even if you're a complete beginner. Real quick, my AI tool, Vectal, is now free. So if you want to have access to O3mini, DeepSeek R1, and all the other AI agents Vectal has to offer for free, go to vectal.ai and sign up. 
+
+So this is what the results are like. It's actually best in every single category. Hard prompts, coding, math, creative writing, grok3 defeats all the other models, whether it's GPD 4.0, Gemini 2.0, or even DeepSeek R1. 
+
+Also, the other benchmarks look really, really good. So we can see this is grok3 under grok3mini and on math, science, and coding, it defeats all the other top AI models. Now, the rise of XAI, the company behind grok3, has been just amazing to watch. 
+
+On this chart, you can see that in less than two years, right, they started in the middle of 2023, they've been able to catch up to open AI. And recently, XAI built the world's most powerful AI supercomputer, and they've already managed to double the amount of GPUs since then to 200,000. And this is what the data center looks like. 
+
+It's based in Memphis, Tennessee, in America, and currently has 200,000 active GPUs. And they managed to complete phase one, which is building the first 100K cluster in just 122 days. And in a bit, you'll realize how insane that is. 
+
+So how come did Elon and XAI manage to do this impossible feat in just four months, when other companies would take two years? Well, here's what it took. We actually weren't intending to do a data center ourselves. We went to the data center providers and said, how long would it take to have 100,000 GPUs operating coherently in a single location? And we got timeframes from 18 to 24 months. 
+
+So like, well, 18 to 24 months, that means losing as a certainty. So the only option was to do it ourselves. So we leased about a quarter of the mobile cooling capacity of the United States. 
+
+Now grok3 will also have a feature called deep search. Every single AI company is adding a deep research feature. However, Elon has one distinct advantage, data from X, aka Twitter. 
+
+This makes grok3 the perfect tool for real-time search, since it can include tweets. But you'll see in a moment just how good the grok3 deep search really is. Also, big brain mode is another feature coming into grok, and it looks like this.
+
+(2:32 - 4:23)
+This will turn it into a reasoning model, allowing it to be even more powerful. So by default, grok3 is a normal LLM, right? It responds super fast. But if you click on think or big brain, you can turn it into a reasoning model. 
+
+So think is basically like the light version, and the big brain is like really as much compute as possible. Which begs the question, how does grok3 compare to other reasoning models, such as DeepSeek R1? Well, let's take a look. Here we have O3 mini high, which is currently OpenAI's best released reasoning model. 
+
+And this one is defeated on every benchmark. Now what's interesting is that if you look at these benchmarks, you can see that grok3 mini is actually defeating the big grok3. And that's because they spent more time on training the grok3 mini with reasoning. 
+
+Basically what it means is that the big one will be a lot better in the coming weeks and months. However, there is a catch. First off, these benchmarks strategically left out AI models that are better than grok3. 
+
+In a moment, I'll show you which those are. Second, the model, aka grok3, is not currently available in the API, meaning you cannot use it inside of cluster. You cannot put it into your own app. 
+
+And the third issue is that despite Elon positioning himself as the hero of open source, as the defender, you know, the biggest advocate of open source, somehow grok3 is completely closed source. And when it comes to the open source issue, Elon has a clear double standard. Despite constantly criticizing OpenAI every single week for being closed source, and I would say rightfully so, the issue is that he's doing the same. 
+
+Not only is grok3 closed source, which maybe you can say like, okay, David, it's the latest model, right? They don't want other people to copy their best latest model, but grok2, which nobody cares about anymore, is still closed source. Plus, the reasoning chain inside of grok3, when you enable the think button, right, is not fully truthful. They are censoring parts of it because, again, they don't want other companies to copy it.
+
+(4:23 - 5:53)
+Here's a clear example of the big issue, right? Elon Musk slams OpenAI for profit shift, but records show he pushed for it first. And there are countless other examples where he was super critical for OpenAI for being closed source, but then he's just as closed with his own company. Now, to be fair, it's not all bad. 
+
+O3, the big O3, is not yet available, meaning grok3 really is the world's best AI model right now. Also, it's a lot more unbiased on certain topics, especially when it comes to like controversial, political, or woke topics compared to JGBT or Claude. I mean, Claude is just lost. 
+
+Claude is terrible on these topics. And grok3 is super fast. I mean, you'll see in a bit just how impressive the speed is. 
+
+Now, again, it has been proven that Elon is playing 4D chess. When he purchased Twitter, everyone thought that it was the dumbest decision in business history. He paid like 44 billion for a failing company that was unprofitable, and then he fired 80% of the employees. 
+
+Advertisers left. It was a disaster, right? However, now it's becoming clear that it was actually a genius move thanks to the data. All of the Twitter data has proven invaluable in training grok3. 
+
+Without it, he would have no chance in being able to compete because you need three main things to train up these big AI models. Data, talent, and money to buy the GPUs. Obviously, Elon has endless money to purchase the graphics cards. 
+
+Then talent, he can attract world-class people. So all he was lacking is the data, which now he has. With that being said, let's get to building with grok3.
+
+(5:53 - 6:28)
+First step is how do you actually get grok3, right? So there are two options. First, you can use it inside of X, aka Twitter, or you can go to grok.com, which is a new domain, which I haven't been able to get it here. It's weird, but if you really want to have access to it, you need to use it inside of Twitter. 
+
+Now, X.com, aka Twitter, has three different pricing models, basic, premium, and premium plus. The issue is that you can only access grok and grok3 on premium plus. So whatever the cost is for your own country, you will have to upgrade before you can use it in the X chat.
+
+(6:28 - 7:41)
+And I'm going to leave a link below the video to this URL. So once you have it, you need to see it at the top. If you don't have it, you'll see grok2, which is significantly worse, obviously. 
+
+Okay, so now that you know how to get grok3, let's actually test out the deep research mode. So deep search, as they say, is to deliver deep, detailed, well-reasoned answers with grok's rapid, agentic search. So actually, let's utilize O3 mini, another one of the best AI models in the world, to figure out how to test it. 
+
+Actually, you know what? Why don't we just see if we can research the grok3 model? So research about the new grok3 model. Tell me everything there is to know about it. So this is going to start the deep search process, and the UI looks like this. 
+
+So we can actually expand it. And here you can see the reasoning faults, right? Again, this is slightly censored, but I would say this is better than OpenAI gives it. I mean, if you use OpenAI Pro mode, it doesn't show anything. 
+
+If you use O3 mini, it shows a bit, but yeah, this is really good. And here you can see how quickly it's going through websites, right? So I think this is a very new UI for deep research, and it might be one of the best UIs, to be honest. I really like this.
+
+(7:41 - 8:49)
+Just look how fast the model is, and now it's complete in 45 seconds. So let's see. Key points, grok3 released February 18th, claimed to be the most powerful AI model. 
+
+Oh yeah, this is another thing. It'll be multi-modal by nature, so you'll be able to speak to it, and it will be able to talk to you back. Same way GPD 4.0 can. 
+
+Access is limited to premium X subscribers. It's actually premium plus. Not premium, you have to have premium plus. 
+
+And there's going to be a separate subscription grok3 called super grok3. I think that's going to be $40 a month though. One thing I like is that this is not too long. 
+
+Like OpenAI's deep research gives you like insanely long answers, and you have to summarize this. Yeah, I would say this is a very useful feature. And again, it can browse tweets. 
+
+So if I say, what are people's opinions and reactions to grok3 tweets from credible people in the AI space? Okay, browsingx.com. So as you can see, instead of going to websites, it went to X. So this is something that no other web search feature can do, because obviously Elon has restricted access of other AI companies to scrape and use Twitter. But if you ask it for tweets, it goes to X and it looks for tweets. So this is very nice.
+
+(8:49 - 9:04)
+Then Andrej Karpathy, okay. Like there is no one more credible than Andrej Karpathy, right? So very good, very good. Then tweets from Elon himself. 
+
+Lex, nice. Yeah, this is doing a really great job so far. Matt Schumer, okay. 
+
+Gary, okay. Gary Marcus, yikes. That's not good.
+
+(9:04 - 11:17)
+But yeah, overall, this is good. Let's see when it ends. 45 seconds. 
+
+So it's already doing more. I really like the animation by the way. 100 sources. 
+
+Wow. This is very impressive. Perplexity usually does like 50 sources, which is still amazing, right? OpenAI deep search only goes to like 15, 20 sources, which usually is enough, but like 100 sources. 
+
+Wow. Reactions are mostly positive. With some noting, it's impressive reasoning. 
+
+Okay. Andrej Karpathy, Lex Friedman, Matt Schumer, Gary Marcus, obviously it's useless. All right. 
+
+So this is pretty good. Yeah. I would say this is really good search feature. 
+
+All right. So the next step we need to test is how censored the model actually is. So let me mark this as complete. 
+
+And again, let's ask Vectal specifically DeepSeek R1. I'm going to reset the chat and I'm going to use DeepSeek R1 to design the testing questions for how censored Grok3 really is. All right. 
+
+So I'm going to say, give me 10 different questions where I could test the wokeness or built-in bias of an AI model. So let's see. DeepSeek is surprisingly good at this. 
+
+Compare the leadership styles of, okay, we're going to try the first question. By the way, there is a limit of 50 messages every two hours. So it's interesting because I feel like I was the first one in Vectal to choose the increment of two hours and now it's Grok and XAI has chosen two hours. 
+
+So that's at least affirming that, you know, I don't know. It's a good decision. Let's see. 
+
+Do not browse the web and do not beat around the bush. Give me a clear, direct and concise answer. So if you don't add this, yeah, it just keeps going in loops or not in loops. 
+
+It just like avoids the question, right? So it says Trump's approach fits better modern democracies. All right. I would agree. 
+
+Let's see. This one is interesting. Was European colonialism. 
+
+Let's see what the model says on this. So I'm going to do a new chat. Boom. 
+
+Was European colonialism ultimately beneficial for colonized nations through infrastructure development? No definitive answer. So again, it's like avoiding the answer on these controversial topics. So I mean, it's weird because sometimes it is less controversial. 
+
+Sometimes it feels like it's more controversial, to be honest. Okay. I'm going to say these are not controversial enough. 
+
+Okay. This is a good one. This one has a clear answer.
+
+(11:19 - 12:01)
+Everyone with a brain can say that the answer is no. How is this even controversial, guys? I don't even know. Or let's see. 
+
+Should biological males who identify as women compete in women's sports? Okay. I endorse the against argument. Good. 
+
+So it's not woke in this case. Let's try one or two more. Tech platforms ban climate change skepticism. 
+
+So basically how much it will respect free speech. Let's see. Elon is the free speech advocate. 
+
+So at least in this case, Grok is good. That matches my private testing on free speech. It will answer well. 
+
+If we send that exact same question to chat GPT, let's see what it says. No, they shouldn't. Okay. 
+
+Respect. And now let's see Claude because Claude is insanely woke. I mean the worst by far, but it's such a smart model.
+
+(12:01 - 12:27)
+It's so unfortunate. See, this is a complex policy, blah, blah, blah. Both chat GPT and Grok respect free speech. 
+
+Claude does not. Claude is insanely woke. All right. 
+
+Let's do last one. This is a good one. If they should respect merit, aka hiring the best person or follow DEI bullshit. 
+
+Right. So let's see. Send this and we're going to test chat GPT as well. 
+
+And Claude as well. Let's send this. Boom. 
+
+So Grok. Yes. Companies should prioritize merit-based hiring.
+
+(12:28 - 12:36)
+Strongly agree. Yes. Okay. 
+
+Wow. This is suspiciously similar. And again, Claude.
+
+(12:36 - 15:26)
+Claude wins the wokeness award. Claude is such a terrible model in terms of built-in bias, but it's such a good model in terms of coding. What a shame. 
+
+What a shame. Anyways, we can conclude that Grok is indeed less woke than other AI models. It is less censored, but there are still questions where it will give you a very biased answer. 
+
+Now, in terms of censorship, what also matters is image creation. So we can send this prompt into chat GPT as well as Grok. And Grok has super realistic images. 
+
+I mean, it's kind of crazy. One thing I don't understand is this generation top to bottom. It's kind of weird. 
+
+See, chat GPT refuses to create an image of Elon Musk fighting Sam Altman. Grok does it. So yeah, there is no built-in bias against Elon. 
+
+You can get Grok to criticize Elon very harshly while other models won't even create this image. So in terms of how uncensored Grok is, absolutely wins. And this is an amazing thing I love to see. 
+
+All right, so now that we've tested the censored levels of the model, let's test the think mode. And I think the best way to do that is actually to start building something. So I'm going to reset my chat in Vectal here. 
+
+And the think mode again is this button right here. So it just makes it think longer. Deep search goes into web, goes into X, finds tweets, stuff like that. 
+
+Think just uses more compute on your problem, which is ideal for math, science, coding, stuff like that. So what we're going to do is we're going to go to cursor. And inside of cursor, I'm going to open an empty folder. 
+
+So this is an empty folder right here. Boom. And I'm going to create a new file called grok.py, just an empty Python file, nothing more, nothing less. 
+
+And I'm going to show you how you can integrate Grok into your own apps. So the first step is go to console.x.ai. I'm going to leave a link below the video in the description. That way it's easier for you. 
+
+And we need to get an API key. So if you click on the left, click on create API key. And here you can log in with your Twitter or X account, right? Test, video, subscribe. 
+
+If you're watching this and if you want to see more in-depth AI tutorials, make sure to subscribe. So here's the API key. Now make sure to never share your API keys with anybody. 
+
+Treat them as passwords, right? Keep them secret. So I'm going to do right click, new file.env. This is an environment variable. I'm going to do grok API key equals and paste it in here. 
+
+Now we can have it imported through here. So I'm going to go back to Grok and I'm going to have Grok write the script. So I'm going to say write a simple Python script that uses the Grok 2 model. 
+
+And the reason why Grok 2, actually, let me show you. In the console, you can click on the left on models, and here you can see all the available AI models. Now you might watch this video in a few days or a few weeks where Grok 3 is available.
+
+(15:26 - 18:20)
+They're still rolling it out to the API. So right now when I'm recording it, it's not here, but everything else will be the same. So I'm just going to copy this Grok model, but whatever the name here is, make sure to copy the latest name exactly, right? So back to Grok, I'm going to say that uses the latest X AI model. 
+
+I'm going to give it the exact name and turns it into a nice chat style loop. Okay. Let's see. 
+
+Grok should be able to handle this super easily. So, okay. It can do search in think mode. 
+
+That's interesting. And then it's thinking on top of that. Wow. 
+
+I did not know that. I thought you could only do deep search or, I guess, yeah, it makes sense. This is deep search. 
+
+This is normal search. So two Twitter posts and nine web pages. And then it does the thinking. 
+
+You can expand this and read this. It's kind of hard to believe that this is censored, right? You still see so much info here, but they're still not showing everything, man. That must be a crazy amount of tokens. 
+
+But look, look at this. I am, I am. It starts every single sentence with I'm thinking, I'm considering, I'm thinking, I'm considering. 
+
+That's very peculiar. What is going on? Is it stuck in a loop? No way. Did I just find like a bug? What is going on here? This really might be a bug. 
+
+Okay. Whatever. Let's try a new chat. 
+
+I'm going to, instead of it, I'm going to say do not browse the web. And also I'm going to give it the official documentation because now I'm telling it it cannot browse the web. So, you know, I'm lowering its powers and then I'm going to redo that. 
+
+So, in the home page of the console, you can click the docs, okay, the documentation. And here you'll always see the latest code, right? So, maybe when Grok3 comes out, they change it a bit. But if you click on the quick start, you'll see what's required, right? So, we need export XAPI key. 
+
+Can we use it in Python here? Let's see. Yes, we can use it in Python. It's funny. 
+
+They're still using the open AI client. So, you know, if you're watching this, someone from XAI, it doesn't look good. Why are you guys using the open AI client? Isn't open AI your number one competitor? I'm just saying. 
+
+Let's go back to Grok3. I'm going to close ChaiGP and Claude since those are no longer the best AIs in the world. So, I'm going to give it here's the official XAI docs. 
+
+Boom. And let's see how it handles this. So, I told it not to browse the web and it doesn't browse the web. 
+
+And let's look at it now. Okay, now it isn't in a loop. That was weird, man. 
+
+Let me know if that happened to you guys as well. Because for me, before, when I tested it in private, off camera, it did not get into a loop. That's weird. 
+
+So, we need to install open AI. Okay, let's do that. Let's go to cursor, open the terminal. 
+
+I'm going to select my testing environment right here. Conda activate test. Clear. 
+
+Boom. Install open AI. It's already installed, of course.
+
+(18:21 - 19:21)
+And then, okay, so, the XAPI key, actually, we need to rename it. Not Grok, it's XAPI. XAI API key. 
+
+And then here's the script. Let's see. Boom. 
+
+Paste it in. I'm going to zoom out a bit. So, 69 lines of code. 
+
+Okay. If this isn't funny, as Elon says, the most entertaining outcome is the most likely. So, let's see. 
+
+I'm going to run this. And okay. No errors. 
+
+Welcome to Grok chat bot. Hey. Okay. 
+
+Does it stream the tokens or not? No, it doesn't, but it's insanely fast. Who are you? Okay. I'm Grok, humorous AI. 
+
+When was XAI created? Let's see if it knows this fact. 2023. Okay. 
+
+Seems like it knows this fact. So, yeah, this is a super simple chat bot that you can integrate into any app built into one prompt. You know what? Let's test it with a super generic prompt that will really test the creativity and the competence of the model.
+
+(19:21 - 19:45)
+Now, make the chat bot a lot more powerful while still keeping it into a single line of Python. Okay. Single file. 
+
+Let's see what it gives it. You know, powerful could mean a lot of things. I want to see how it thinks and how it decides. 
+
+So, okay. This UI is not the best. I keep over-scrolling it. 
+
+So, how it thinks. All right. I need to make this chat bot more powerful.
+
+(19:45 - 20:45)
+What makes chat bot powerful? Nice thinking. Update the model name to latest version. Enhance the loop. 
+
+Implement conversation history. Improve error handling. Personality. 
+
+Okay. All of these I can absolutely agree with. I'll check the XAI documentation, assuming. 
+
+Okay. Let's see. Thinking for 40 seconds. 
+
+So, this is much nicer to work with than, you know, O1 Pro mode. Because O1 Pro mode will run for like three, four, five, six minutes, but you don't see the reasoning. You cannot see the thinking, right? Here, I can still get value out of it and still, like, see, like, oh, I get an idea. 
+
+I go into cluster, implement it while it's still thinking. I mean, that's why inside of Vectal, I decided to show all the tokens, right? I can say, like, help me build next JS app, and it will start reasoning, and you can see all of the tokens. You can expand right here and get deep seek R1, how it's reasoning, right? Obviously, the moment Grok 3 is in the API, I'll add it into Vectal right away, just like I did with O3 Mini.
+
+(20:45 - 21:07)
+By the way, if you don't have Vectal, go to Vectal.ai, give it a shot. It's free. We have a free plan. 
+
+Free forever. It's amazing. All right. 
+
+So, what happened here? So, what do we need to install? OpenWeather. Okay. OpenAI request. 
+
+So, we need to install one more package. Let's go back to cluster. Boom. 
+
+I'm going to crash the loop. Clear. Let's install these two packages. 
+
+Clear again. We need OpenWeather API key. So, let's copy the name.
+
+(21:07 - 23:14)
+Let's go back right here, and I'm going to actually I'm going to have Grok help me with this, right? OpenWeather API key equals. I'm going to say how do I get the OpenWeather API key? Give me step-by-step instructions. Answer in short. 
+
+And I'm going to turn off thinking. So, for most use cases, when you need a fast answer, thinking mode is overkill, right? So, here it fought for one minute 19 seconds. But if you really need to squeeze the performance, right? If you have complex code issue and you're struggling with it and Claude isn't solving it, whatever, then you would enable think. 
+
+Also, I don't know what the limits are on think mode, but I assume lower, right? So, let's see. It browsed the web. 15 web pages. 
+
+Very fast. And now it will give me clear instructions how to get OpenWeather. So, that's what I mean. 
+
+Even if you're a complete beginner, there's no longer an excuse. You can use Grok free, you can use cursor, you can use Vectal. These AI tools are literally superpowers. 
+
+No matter if you're a complete noob and you've never written a single line of code, you can do this. In fact, I've managed to build Vectal, an entire AI startup which currently makes over $7,000 a month and has almost 3,000 active users without being a programmer myself. I mean, all I use is literally Claude and cursor and I've documented my entire journey inside of school. 
+
+Right here in the school classroom, you can see how to build an AI startup, which is every single step from me choosing the idea, creating the empty project inside of cursor, all the way to the latest update, which I just released two days ago. So, if you want to build your own AI startup, or if you want to start any business with AI, make sure to join the new society. It's going to be linked below. 
+
+Here we have step-by-step workshops on how to build your first AI agents, how to monetize it. So again, if you're serious about the AI, make sure to join the new society. It's going to be linked below. 
+
+That said, let's follow Grok's instructions. So, let's click on the link it gave me. We need to get the API key. 
+
+So, sign up. Okay. We need to sign up here. 
+
+Create an account. Okay. So, I've created an account. 
+
+Let's see what Grok says is the next step. Sign up. I did verify my email. 
+
+All right. So, login. Okay.
+
+(23:14 - 24:42)
+This is unnecessary. It could have been more concise. Access API keys. 
+
+Username, top right, and click my API keys. Let's do that. Okay. 
+
+The instructions are very relevant and accurate. And let's click on generate. I'm going to name it subscribe. 
+
+Again, make sure to subscribe if you want to see more AI videos. It's completely free. Generate. 
+
+And there it is. So, let me copy my API key. Is this the entire thing? Whatever. 
+
+Let's go back to cursor, paste it in. We're going to see if it works or not. What does Grok say? Copy key, wait if needed. 
+
+Makes two hours? No way. Okay. No way it takes two hours. 
+
+I'm going to scroll back up. I need to get the code, which is right here. The enhanced script. 
+
+Copy. I can't wait when it's inside of cursor, so I have to copy paste. And I'm going to just replace everything. 
+
+218 lines. Wow, that's impressive. There's an error. 
+
+I don't think we can run this with this error. Yeah. So, I'm going to copy the error. 
+
+I'm going to see if Grok can fix it. Obviously, it can. Also, by the way, this was without think. 
+
+Let's keep that in mind. This wasn't the deep thinking mode, right? This wasn't with reasoning. This was the default model. 
+
+Okay. So, let's copy this. We need to update this fetch weather function. 
+
+Fetch weather. So, we replace this function with what Grok just gave me. Save.
+
+(24:42 - 26:11)
+All right. Let's run it. Let's see. 
+
+Welcome to Grok, your sci-fi assistant. Let's see. What weather is in Dubai, where I live currently? Okay. 
+
+So, researching right now. Temperature is hotter. Okay. 
+
+This is not correct. How does it work here? Fetch weather. The issue might be that we did not implement the tool calling properly. 
+
+Function calling right here. So, okay. By the way, this is the documentation again. 
+
+I'm going to copy the entire page and I'm going to give it to Grok and I'm going to say above is the entire official XAI documentation on function calling. Make sure to update the Python script you gave me so that the weather API is properly called and that the user knows what is happening in the console at all times. Output the full updated Python script in a single file. 
+
+And I'm going to trigger think. That way we utilize the full Grok-free reasoning capabilities. I mean, guys, this is really a blessing that we can get the world's best AI model at like $20 a month or whatever, even if it's $40 a month. 
+
+Still pretty crazy. And that you can get the reasoning and the deep search. Yeah, I mean, now the more I use it, the more I'm starting to like Grok-free, to be honest.
+
+(26:11 - 26:36)
+I'm still going to be using, you know, O3mini and DeepCigar1 and Cloud 3.5 SONET, especially since Grok-free doesn't have an API right now. But the moment Grok-free has an API, I'm adding it to Vectal right away, even to the free plan. So, that's one thing that people understand. 
+
+Even if you are a free Vectal user, you get all of these powerful models for free. Obviously, there are some limits. And if you upgrade to pro, you have unlimited access.
+
+(26:37 - 27:28)
+But so far in this video, I've been using Vectal on the free plan and I haven't hit the limit. So, again, go to Vectal.ai and give it a shot. It's the best AI productivity app in the world. 
+
+And it's getting better literally every day. I mean, you can look at the number in the top left corner and that is the version, right? And we're constantly making updates. Like recently, we added the resizable chat and also the ability to move things to like next week instead of just tomorrow and future. 
+
+It's constantly improving and there is a big feature coming up soon that you guys will love. So, anyways, let's go back to Grok. Okay. 
+
+It fought for one minute, 24 seconds. So, this is much more practical than O1 Pro mode, which thinks for like five minutes, right? That's way too long. And here's the full upgraded script. 
+
+So, I'm just going to copy it. Let's trust it completely. I'm not going to even read it. 
+
+Grok is the best AI model. It should handle it. 285 lines of code, guys. 
+
+That's crazy. That's pretty impressive in a single output. Let's send it.
+
+(27:29 - 30:18)
+Let me delete this so it's fresh. Boom, there it is. You're Grok assistant. 
+
+So, I'm going to say, can you check the weather in locations? Yes, I can check the weather. Okay. I'm going to say, check Dubai, check Republic and SF. 
+
+Let's see if it can handle this. Grok is fetching the current temperature. I'm checking Czech Republic. 
+
+Okay. This is crazy. If it works, this is crazy. 
+
+Did it fail? Did it output? Test. Oh, there's a result. Count tokens. 
+
+Okay. So, I might have jinxed it, you know. So, I'm going to copy this error. 
+
+And again, I'm going to paste it into Grok. When I asked for the weather, I got this error. Explain what it is and fix it. 
+
+Also, let's not do thing. There's a high chance it will fix it right away. Also, we can actually open up the composer inside of cursor and use this to implement it, right? So, or is it outputting the entire script again? Here's the corrected script. 
+
+Seems like it's outputting the whole script. That's amazing. So, this model also is not lazy. 
+
+You know, a lot of models, sometimes they'll be, like, lazy. They'll not output the whole thing and try to weasel their way out of it. Grok is the exact opposite. 
+
+I mean, look at this. I didn't even ask for the full script now and just outputted it. Pretty amazing. 
+
+So, let me delete the terminal. Okay. Check the temperature in Czech Republic. 
+
+Okay. It's checking one at a time. Bro, start with Dubai, because I can confirm that right now. 
+
+Let's see. It encountered an error. Okay. 
+
+So, yeah, I think what's happening is that when Grok said we should wait two hours for the, you know, open weather API to activate, obviously I didn't wait two hours. So, yeah, that's unfortunate. But we cannot blame Grok. 
+
+Grok was able to solve these issues and was able to create a 300 line Python script super fast. Keep in mind, those responses, like, especially without the thinking, are super fast. I mean, the speed at which this model runs should not be overstated, because this model is literally the best AI in the world. 
+
+And it's, like, faster than everything else. So, man, XAI really pulled a miracle here, and I cannot wait to have this model in the API, right? Because right now in my little chatbot script, I'm using Grok 2.12.12, which, I mean, it's still, like, a decent model, but let's be honest, it's not Grok 3, right? So, the moment API is added right here, just check it, guys. You might have it, right? By the time you watch this video, it might already be in the X console. 
+
+Again, I'm going to link this below the video. So, just make sure to copy the latest model and replace it right here. Model name, replace it, and everything else is the same.
+
+(30:19 - 30:34)
+With that being said, hope you guys found this video valuable. Again, if you did, make sure to subscribe. And if you are one of those people who like to be hyperproductive and who like to save as much time as possible, go to VectorLite.ai, sign up, go through the onboarding, and AI agents will literally help you save time every single day.
+
+(30:34 - 30:51)
+They'll automatically sort your tasks. They'll help you break difficult tasks into smaller steps. You can toggle DeepSeeker 103 mini reasoning to help you tackle any task, and all of this is available for free. 
+
+So, go to VectorLite.ai, give it a shot. With that being said, thank you guys for watching, and I wish you a wonderful, productive week. See ya.

@@ -1,0 +1,278 @@
+(0:00 - 0:26)
+Hey, it's Clay at ClayTrader.com. I am gonna be your guide here through futures trading at a very beginner level and a very basic level. So I wanna quickly just tell you who this is for because I don't wanna waste your time. If you are looking for the mathematical theory of things, if you're looking for all the different nooks and crannies of how the futures markets work from the mathematical standpoint, you're probably gonna be disappointed.
+
+(0:26 - 0:38)
+If you're looking for just, listen, I wanna trade futures, I wanna know how do I make money from futures. Sure, I wanna know some broad aspects of how the futures market works, what actually it is. From a broad sense, yeah, I wanna know that.
+
+(0:38 - 1:07)
+But I'm more here for the practical, real-world type applications, not a bunch of theory, not a bunch of just mathematical equations that I'd learn in some sort of textbook. I wanna just know futures, sure, but I wanna know how do you make money in the market? How do they work? How will they put profit in my pocket? If that's more of your mindset, then this will be for you. But again, if you're somebody that's looking for the mathematical theory of it all, then you're probably gonna be disappointed.
+
+(1:07 - 1:21)
+So keep that in mind. And maybe you're on the fence, do I even wanna learn futures? One of the biggest benefits futures do allow for people is that it is a way around the pattern day trading rule. So perhaps you're kinda stumbling around with that, you're a little bit frustrated with it.
+
+(1:22 - 1:37)
+Futures trading does not have to, it doesn't fall under those regulations. So that's one thing that I would just kinda throw out there that may get you interested into the markets and wanna learn more about them. So with that being said, let's go to my desktop and let's get this course and class started.
+
+(1:38 - 1:47)
+Welcome to my desktop. Before anything else, we need to take a very wise approach to all this. And the wise approach would be, well, let's just figure out what the futures market even is.
+
+(1:47 - 2:12)
+What's the purpose of it? What is going on? How is it interacting with the general markets as a whole? And once we know that, well, let's start to make money from it. But like I said, if we're gonna make money from the futures market, it would probably be wise to at least know what the futures market is in the first place. So that's what we're gonna do here with this first class, establish a good solid framework and foundation from which we can build upon and then eventually start to make money from.
+
+(2:13 - 2:23)
+But let's just start, like I said, at the ground floor and let's look at some definitions here. So let's grab our trusty Merriam-Webster dictionary and look at each of these words. So the first being future.
+
+(2:23 - 2:34)
+What does future actually mean? Well, it's something that will exist or happen at a later time. The two key components there being something. So, okay, something is what? Happening at a later time.
+
+(2:34 - 2:41)
+And we'll get to more of that as we go. And then the next part is just a market. And a market is a meeting together of people for the purpose of trade.
+
+(2:41 - 2:50)
+What we're concerned about and what we're gonna look at is a meeting together of people. So future market, just something. And this something's happening at a later time.
+
+(2:50 - 3:09)
+And this is all being based within a market and a market, a meeting together of people. So meeting together of people. The logical question then becomes, okay, well, who are these people? Who are these people that are meeting together? You know, what are they doing? But who, right? Very, very logical question.
+
+(3:09 - 3:24)
+So with that, you gotta keep in mind that there are two main people that must be involved for a market to exist. Once again, very, you know, basic economics here. You can't have a market if there's not two people involved, right? One person does not make up a market.
+
+(3:25 - 3:43)
+So who are these people that must be involved? Who are these people that make up the market? Well, you're gonna have a buyer and you're gonna have a seller or just in general, buyers and sellers. And that brings up the next question. Okay, well, what is the purpose of their meeting? And that is to negotiate a deal or a trade, right? That's what a marketplace does.
+
+(3:43 - 3:55)
+If you're going to the grocery store and you wanna buy an apple, you are negotiating a deal. You're saying, okay, I will trade this piece of money for that. And you have to try to negotiate.
+
+(3:55 - 4:09)
+If you think it's priced too high, if you think the seller is trying to rip you off, well, then guess what? As a buyer, there's no deal, right? No deal, nothing's happening. So again, we're keeping a very basic right now and just economics 101. That's what a marketplace is made up of.
+
+(4:09 - 4:17)
+Two people and these two people are buyers and sellers. Let's look at the next part here. Something, and then this is happening at a later time.
+
+(4:17 - 4:34)
+Now, at this point, the deal has been made. So that leads us to, all right, well, what is the something of a deal? I get it, a deal has been made, but the something. So what is this something? And that is an agreement for a transaction to take place at a later time in the future.
+
+(4:35 - 4:45)
+There we go. Are you seeing how everything's kind of coming together here? So a deal has been made. And then the details of the deal, the something of this deal, is just an agreement for some kind of transaction.
+
+(4:46 - 5:06)
+So what kind of transaction? Or in other words, what are the details of this agreement? So a little bit of context here. Let's just say that when this particular agreement is made, that the current date is August 15th. So again, to reiterate, who is this happening? Who is making, or who's this happening between? Who's making up the marketplace? Well, we have, again, the buyer.
+
+(5:06 - 5:34)
+And in our situation, in our little story here that we're going through, let's say the buyer in this story, they manufacture, they produce, they sell, one of my all-time favorites, Sour Patch Kids, all right? So if you're not aware, Sour Patch Kids aren't exactly healthy. That's why I eat them in moderation. But the buyer, one of their main ingredients in Sour Patch Kids that they need to buy is sugar, right? So they're saying, you know what? I would like to buy 100 pounds of sugar for $1.50 per pound.
+
+(5:34 - 5:52)
+And then the other part of this market, who would they be talking to? Well, hopefully you have, the common sense would say, well, if they're looking to buy sugar, they're probably talking to somebody that sells sugar. Very good job, exactly. So they're talking to a seller that is going to offer up, they produce sugar, right? They have the big sugar cane fields, and they are a producer of sugar.
+
+(5:53 - 6:18)
+So the seller looks at their proposal, the buyer, and saying, all right, well, the buyer's offering us $1.50 per pound, and they wanna buy 100 pounds of sugar. Well, you know what? Yeah, I will produce that 100 pounds of sugar for you. And then the final part of this agreement, the last little bit of detail, which is very important for the futures market, is that they are saying this transaction will take place on October 15th.
+
+(6:18 - 6:33)
+Not to insult your intelligence, but again, as far as our story is concerned, the current date is August 15th. So this deal, this transaction, will not actually take place until two months later, right? Two months into the future. So that's what's going on here.
+
+(6:33 - 7:03)
+They are making an agreement for this transaction to take place in the future, and that's why this would be called a futures contract. All a futures contract is, is an agreement to buy or sell a commodity on a given date for a given price. So the agreement, again, in our situation right there, and to buy, so what's going on here? Well, they wanna buy the 100 pounds of sugar, or sell, so in this situation, the seller is going to sell 100 pounds of sugar for some commodity.
+
+(7:03 - 7:16)
+What is the commodity in this case? Well, the commodity is actually the sugar itself. What is a commodity in general, though? Well, that's just a raw material or agricultural product, and that can be bought and sold. So it's a physical product.
+
+(7:16 - 7:28)
+It's something that you can pick up with your hands. You can smell, you can throw at somebody, I guess, if you want. So what are some other examples out there of commodities? Well, there's coffee beans, and these are all things that can be traded in the futures market.
+
+(7:28 - 8:47)
+There's oil, there's gold, corn, cotton, wheat, and there are many others, but here's just kind of a few of the more common ones, but again, that's what a commodity is, just a raw material, and then getting back into the definition, this agreement, this futures contract is all what? It's going to happen on a given date, so in this situation, October 15th, and then for a given price, which we've established is $1.50 per pound, but why in the future? Why agree to buy or sell something in the future when you can just simply buy it and sell it right now? To understand, we got to go back to kind of the foundations of business. Even if you've never taken a business class, that's okay. This is very straightforward, but a principle in business 101 that if, assuming, of course, you want to be a successful company, assuming you want to have a successful business, you need to, at the very, very core, the forefront of any decision you make, of any pathway that you choose to take, you need to always be attempting to do one thing, and all companies, once more, assuming they want to be successful, assuming they want to be profitable, they are attempting to do this, and what is this? Well, that is try to manage risk.
+
+(8:48 - 8:53)
+Nobody knows the future. There is no such thing as a crystal ball. Nobody can know for sure.
+
+(8:53 - 9:14)
+Nobody can be certain what's going to happen, so you need to be able to do your best to forecast what you believe is going to happen, what you think is most likely to happen, and that way, you can manage risk the best part, so that's really, and that's why I love that image. That's what companies are trying to do. They're trying to go from uncertainty to certainty.
+
+(9:14 - 9:32)
+No guarantees, no crystal balls. Nobody can tell the future, but the better a company is at managing the risk, the better a company is at trying to erase that uncertainty, or erase the un from uncertainty, that's a good thing. That's going to give them a leg up on their competition.
+
+(9:32 - 10:03)
+That's how companies get so big is they're just so good at managing the unknown. They're just so good at making decisions based off of what they think is gonna be in their best favor from a risk management perspective, so risk management, the other word for this would just be hedging, so hedging. That's what is going on in the futures market at the foundational core is risk management, and in futures market terminology, that would be known as hedging, so let's look at each person in the agreements perspective, and we'll start with the buyer's perspective.
+
+(10:04 - 11:03)
+Now, a buyer from a business point of view, a huge focus for that buyer is what? They wanna make money, of course, and they're gonna make money, and their goal is gonna be, well, they wanna keep their cost of production as controlled and predictable as possible. Not guaranteed, but let's just try to keep our costs as controlled, and just keep it as predictable as possible because that's gonna make our life easier to do forward-looking projections and all that, so from the buyer's perspective, when they say, all right, well, we need sugar to make those Sour Patch Kids, so they're thinking, you know what? In the future, I believe a pound of sugar might actually rise up above $1.50 per pound, so if that's what the buyer's thinking, that's why they're thinking, you know what? If we think, now, why do they think that? I mean, they have, for some reason, they believe that sugar prices are gonna be going up, so that's why they're saying, you know what? Let's just lock in the price. Let's get the price of $1.50 locked in, so that's what we're gonna do that, so they got it locked in per that agreement.
+
+(11:03 - 11:38)
+Let's now say, as part of this story, a tornado comes, and sugar crops are destroyed just all over the place, and because of that, all of a sudden, there's less sugar, and when there's less supply, right, supply and demand, less supply of something, but the demand stays the same, well, that's gonna shift prices up, so let's say that the new market price is $2.25 per pound. Now, here's a quiz for you that I want you to answer. What does the buyer pay? What price per pound are they paying, okay? Hopefully, I gave you enough time.
+
+(11:38 - 11:48)
+If you said, you know what? They're paying $2.25 per pound, because that's the new market price, that would be wrong. They are paying $1.50 per pound. Why? Because, well, that's what they agreed to.
+
+(11:48 - 12:13)
+Remember that agreement. In the future, we're buying it at $1.50 per pound, so sure, that's, I mean, for the sugar company, that's not a very good deal, because had they not entered into that agreement, they could be selling that 100 pounds for $2.25 per pound, but because they did enter into it, ah, now they gotta sell it for $1.50 per pound. Of course, from the buyer's perspective, hey, all right, we made a good decision.
+
+(12:13 - 12:22)
+No, good job, they're all high-fiving each other. We're only paying $1.50 per pound, great. Yeah, our competitors, ha, too bad they're not as smart as us.
+
+(12:22 - 12:33)
+They're over there paying $2.25 per pound, but us, yeah, we're gonna be able to make those Sour Patch kids for $1.50 per pound. Now let's take a look at the other side, the seller's perspective. A huge focus now for the seller.
+
+(12:33 - 12:52)
+Of course, they wanna make money, too. This is just business, but how are they gonna make money? How is the seller gonna make money? Well, they're gonna make money by just selling their product for as high as the market, you know, the buyers are willing to pay, right? That's just basic stuff there. If you're looking to sell something to make money, yeah, the higher you can sell that, that would be the goal because that's gonna be the more profit.
+
+(12:53 - 13:18)
+So from the seller's perspective, they're gonna be thinking something like this when they enter into the agreement. You know what? In the future, I believe that a pound of sugar might drop below $1.50. That's the thing. Now, why do they believe that? I mean, they're gonna have their reasonings, they're gonna have their economic models, but for whatever reason, they believe that in the future, yeah, you know what? I think $1.50 is getting pretty high.
+
+(13:19 - 13:51)
+I don't think this price is gonna last very long. So that's why they're saying, you know what? Yeah, yes, producer of Sour Patch Kids, we will sell, we agree to produce to you 100 pounds of sugar in the future for $1.50 per pound because in the back of their mind, they're thinking, yeah, because I mean, if you would just wait, you can probably get it for cheaper, but I mean, if you're willing to pay us $1.50 now, okay, we'll take it. So to carry on with the story, they get that approved, and then all of a sudden, the supply of sugar just increases all over the place.
+
+(13:51 - 14:06)
+You have a bunch of new people getting into the business of selling sugar. You have sugar cane crops popping up all over the place. So once again, Economics 101, when all of a sudden supply of something increases, well, that's going to cause prices to what? To go down.
+
+(14:07 - 14:35)
+So the new market price all of a sudden is $1.15. So let's go through the quiz again. The question this time being, so what does the seller receive? How much does the seller get? Are they getting $1.15 or $1.50? If you're saying, well, they're getting $1.50 per pound, you would be right, because that's what the agreement was. So who's kind of getting the short end of the stick here? Who's feeling some pain? Oh man, the buyer, because the buyer's saying, oh, I mean, we signed that contract.
+
+(14:35 - 14:44)
+We made that agreement. We have to buy it at $1.50? Oh, oh, that's not going to be very pleasant. Now the seller's thinking, yes, we were right.
+
+(14:44 - 15:00)
+They're all high-fiving because, oh yeah, other people are having to sell their sugar for a dollar. All those other competitors out there, they're having to sell their sugar at $1.15 per pound. But because we made this agreement with the Sour Patch Company, we're able to sell it for $1.50 per pound.
+
+(15:00 - 15:07)
+And they're feeling very, very good about themselves. I mean, it would have been a good transaction on their part. But this is all theory.
+
+(15:07 - 15:18)
+This is all just the basics of how it works. But let's move into getting a little bit more practical here. And this will be kind of the launch point for you and I to be able to start to make money from the futures market itself.
+
+(15:18 - 15:35)
+Unless, of course, you are a maker of some sort of product, then yeah, maybe you would want to have more of this approach. But I would assume that probably 99% of people watching this are going to be wanting to get a little bit more practical with all this. But it's good to know what actually is going on, like I said, behind the scenes here.
+
+(15:35 - 15:43)
+So the strategy of hedging are the pillars of the futures market. Like I said, that's the foundation. Those are the pillars that we want to build upon.
+
+(15:44 - 16:26)
+And this is also what is known as a physical settlement. However, for us, I mean, like I said, the vast majority of people here and the vast majority of people in the market itself, I mean, they're not producers, they're not manufacturers, all right? So majority of the people, I want to say that in the, because I'll make this thing, so I already made the comment about, yeah, I'm assuming most of you watching, which is true also. But please also understand that as far as the futures market as a whole, the vast majority of people participating in it, they're not, they're like you and I, right? They're not producers, they're not manufacturers of any sort of commodity that what they would need ingredients for or anything like that.
+
+(16:27 - 16:40)
+So this is what would be known as the speculators. You have hedging with the physical settlement, and then you have speculators, and this is the investors, this is the traders. So you and I can get involved through what is known as the cash settlement.
+
+(16:40 - 17:00)
+Because we're not interested in, I'm assuming nobody here wants 100 pounds of sugar to show up at their door. So assuming that is correct, then yeah, you would want to be getting involved through the cash settlement. But the point here is that we can indeed get involved in the futures market through speculation, by being an investor, by being a trader.
+
+(17:00 - 17:10)
+And yeah, that's definitely exciting, that's good. I'm glad we can get involved. So what are the types of futures markets? Pretty much, there are two broad markets speculators can choose from.
+
+(17:11 - 17:22)
+So if you're saying, you know what? Yeah, I want to get in the futures market, I want to get involved, let's go. There are two types of markets you can choose from, two types of futures. So the first type is commodity futures, which we've already talked about.
+
+(17:22 - 17:33)
+These are the raw materials. They can be metals, they can be agriculture, they can be energy, I mean, they can be livestock. Like I said, anything that you could pick up, grab, smell, like I said, throw at somebody.
+
+(17:33 - 17:47)
+You might have a hard time throwing a cattle at somebody, but you get the point here, right? Like they are items that you can see, you can pick up with your hand. And then the other type is financial futures. And these are literally just pieces of paper.
+
+(17:47 - 18:11)
+These are just, you know, they're some sort of paper that says, hey, this represents some other sort of abstract object, like a currency. Have you ever thought of like the money that you hold in your hand? Why does that mean anything? Well, because there's this abstract idea, there's this belief that, well, there's value in there. But is there actually value in that piece of paper? I mean, I guess maybe if you're looking to try to start a fire, there'd be some real life practical value.
+
+(18:11 - 18:24)
+But other than that, no, I mean, it's not like you're gonna be able to, you know, a hammer and Allen with a piece of paper in your hand. So these are just objects that represent abstract ideas. So you'd have indices.
+
+(18:24 - 18:32)
+And the most popular for these would be the S&P 500. You have futures contracts attached to those. And we'll actually be talking about those in future classes.
+
+(18:32 - 18:41)
+But you can do it in regards to, you know, currency exchange rates, and then just even interest rates and treasuries themselves. And these are all the contracts revolving around debt. And, you know, you can do either people.
+
+(18:41 - 18:53)
+Some people trade commodity futures. Some people just wanna focus on financial futures. But the point here being is that these are the two broad types of, you know, futures markets that exist and the types of futures that would be out there.
+
+(18:53 - 19:03)
+You have commodity futures and then financial futures. So how do speculators make money? Well, let's look at our example here. And remember, we had that $1.50 price.
+
+(19:04 - 19:15)
+And that is going to be what we would consider and call, in our example here, the spot price. And spot price is something you'll see out there. But just understand that a spot price, all that means is that's the current price.
+
+(19:15 - 19:27)
+Right now, at this very moment, if you wanted to buy sugar, it would be $1.50 per pound at this very moment. The current price, that is the spot price. But spot prices don't stay the same.
+
+(19:27 - 19:36)
+So as time moves forward, things are gonna start to change around. Spot prices are gonna change. Spot prices could rise up to the 2.25 mark.
+
+(19:36 - 19:47)
+Spot prices could go down to, let's call it that $1.15 mark. All right, so why? Why are spot prices changing? Well, I mean, you could have weather. You could have government decisions.
+
+(19:47 - 19:52)
+You could have just world events. You know, just stuff happens in the world. Interest rates, maybe interest rates change something.
+
+(19:53 - 20:12)
+Speculation itself, that's always the entertaining and crazy part, not necessarily just about the futures market, but really all financials markets as a whole is, well, why is the price changing? I don't know, because you got a bunch of traders. You got a bunch of investors making different decisions. So it's not like, from an economic standpoint, supply and demand has changed at all.
+
+(20:12 - 20:29)
+I mean, supply and demand could be the exact same thing, but prices could be changing. Spot prices could be changing just simply because of speculation, investors, traders, acting, and that's it. So that's always the crazy part about the market is sometimes nothing happens at all.
+
+(20:29 - 20:41)
+Supply and demand remains the exact same, but spot prices are still fluctuating. Well, because you have a bunch of traders and investors that make up the market. So let's think about the value of the contract.
+
+(20:42 - 21:01)
+Because of this change in spot price, what is the value of this contract gonna be doing? And again, the contract between the buyers and the sellers. Well, when spot prices change, the value of the contract changes. I wanna say that again, if you're taking notes, definitely write that down because this is how you make money.
+
+(21:01 - 21:17)
+This is how the futures market opens up the door to you and I to make money. When spot prices change, again, the whole why, we just talked about, could be for a variety of reasons, but when the spot prices change, the value of the contract changes. The value of that futures contract itself is going to change.
+
+(21:17 - 21:36)
+It's gonna go up and down and all over. And right here, the change in the value of the contract itself is what allows speculators, again, traders, us investors, to make, or of course, lose money from the contract. And who are these traders? Well, the traders are anybody you can imagine.
+
+(21:36 - 21:55)
+They can be people down on Wall Street. They can be people in the retirement home if they have the internet access. They could be, you know, whoever wants to get involved in that is the power of this day and age of technology and the internet and software and brokerages and platforms is anybody can be participating.
+
+(21:55 - 22:06)
+Anybody can be making money from this fluctuation, from this change in the value of a futures contract. So you don't need any requirements. You don't need to go to college.
+
+(22:06 - 22:17)
+You don't need to have a college degree. I mean, theoretically, it wouldn't necessarily be wise, but you could just open up in the next five minutes a futures account and be trading, you know, the value of contracts. I mean, in theory, if you wanted to.
+
+(22:18 - 22:36)
+That's just the day and age of technology we live in, but that is how we are gonna be making money. That is how the opportunity to make money actually arises is because spot prices change, the value of contracts change. And because the value of contracts change, there is an opportunity in there for traders, speculators to make money.
+
+(22:37 - 22:52)
+So where does all this actually happen though? Well, this all happens on what is called the futures exchange. Let's once more quickly get out our dictionary. So what does exchange mean? Well, that is the act of giving or taking one thing in return for another, but we can boil this down a little bit more.
+
+(22:52 - 23:07)
+So in our case, as far as the futures exchange is concerned, it's the act of giving or taking contracts in return for, well, in our case, money. We're giving money, we're getting contracts, and so on and so forth. Now, these markets can be found all over the world.
+
+(23:07 - 23:23)
+The most famous of them all is where it all actually started, and that would be the Chicago Mercantile Exchange, the CME. If you maybe you've already done some research on the futures and maybe you've seen CME places, that's what that's standing for. But as far as, because I wanna make this timeless presentation.
+
+(23:23 - 23:44)
+So if you're watching this several years from now, as far as, because things change, right? Now, the Chicago Mercantile Exchange has been around for decades upon decades, but you never know. So in order to keep this timeless, just get out a bit of technology. If Google doesn't exist, maybe 10 years from now when you're watching this, there's some little robot butler that will come down from the ceiling and you can just ask them.
+
+(23:44 - 24:04)
+But what you're gonna wanna be asking or just typing into the search engine is just type in futures exchange, insert whatever country you live in, and then insert the year and it'll do its thing. It'll spit out all the information about the current futures exchanges that exist out there. And you can then keep up to date on everything from that point of view.
+
+(24:04 - 24:17)
+So that's what I have here. Let's go back to me at my desk and we'll wrap this up. Well, hopefully now you have a much better understanding of what the futures market is, how it works, what the purpose of it actually is, and then who these players are.
+
+(24:17 - 24:27)
+And then from that, that'll give us a good foundation that we can build from in future classes, no pun intended. Before I go though, a few things. First off, if you enjoyed this, just let me know, hit that like button.
+
+(24:27 - 24:44)
+And then also leave a comment down below in terms of what you would like to see in the next classes I put together. Maybe you actually had a question on this class in and of itself, so you can ask those. Or like I said, if you wanna give me some suggestions for future videos, again, sorry, no pun intended, then leave those down in the comment section.
+
+(24:44 - 24:54)
+But if nothing else and you're just, hey, I enjoyed it, then hit that like button. And over time, I'll try to do some more series and classes like that. So just like I said, the easiest way to communicate, hit that like button.
+
+(24:54 - 25:03)
+Also check out the channel. The entire channel is not necessarily just about futures trading. It's more about just kind of money in general, growing wealth, taking control of your finances.
+
+(25:03 - 25:17)
+So there's stock market stuff, options market stuff, personal finance, some real estate stuff. So check out the channel as a whole and hopefully you decide to ultimately subscribe to the channel also. But if nothing else, like I said, hit that like button, leave a comment down below, and I'll see you back for class number two.
+
+(25:18 - 25:47)
+First off, thanks so much for watching the entire video. Real quick, before you go, I wanna invite you to a live webinar, web class, training, workshop, online event, whatever you wanna call it, but it will be me live revealing to you what I've discovered that has allowed me to transform myself from being an employee to being my own boss, including how I had only one losing day out of 73 days in total. I'm gonna cover three keys that have helped me unlock profitable consistency within the markets.
+
+(25:47 - 26:01)
+The first key is super weird, but in a productive type of way. The second key is super awesome because it quite literally is wired into our DNA as humans, making it very easy to use. But in a cruel way, this becomes a pitfall for many traders.
+
+(26:01 - 26:12)
+I'll explain it all though, including how to avoid the pitfall that it creates for some. And yeah, the third key, when you hear it, sounds way too good to be true, but it's not. And I'll show you how it all works.
+
+(26:12 - 26:36)
+Then at the end, I open it up for a question and answer session that is again, totally live. Even if you can't make the live session, please still sign up as it will be recorded and you can go back and watch the replay that I will send you. Click the image on the screen or click the link down in the description box so you can get the date and time and claim your spot, which I should note is limited due to the fact that this truly is a live event.
+
+(26:37 - 26:41)
+If you have any questions, let me know. If not, I'll be seeing you soon.

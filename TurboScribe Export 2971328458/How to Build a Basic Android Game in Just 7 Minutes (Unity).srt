@@ -1,0 +1,1007 @@
+1
+00:00:00,190 --> 00:00:01,530
+So the trick to Android development is to
+
+2
+00:00:01,530 --> 00:00:02,750
+choose the right tools for the job and
+
+3
+00:00:02,750 --> 00:00:04,230
+to learn only the skills you really need
+
+4
+00:00:04,230 --> 00:00:05,730
+to build the kind of app that you
+
+5
+00:00:05,730 --> 00:00:06,330
+want to make.
+
+6
+00:00:06,650 --> 00:00:08,750
+I believe that the best tool for Android
+
+7
+00:00:08,750 --> 00:00:10,310
+game development is Unity.
+
+8
+00:00:10,730 --> 00:00:12,530
+It makes the whole process so much quicker
+
+9
+00:00:12,530 --> 00:00:14,710
+and simpler, so much so that in this
+
+10
+00:00:14,710 --> 00:00:15,490
+video I'm going to show you how you
+
+11
+00:00:15,490 --> 00:00:17,450
+can get something up and running in just
+
+12
+00:00:17,450 --> 00:00:18,430
+seven minutes.
+
+13
+00:00:19,050 --> 00:00:20,490
+So Unity is a game engine, that means
+
+14
+00:00:20,490 --> 00:00:23,370
+it handles things like the physics and controls,
+
+15
+00:00:23,490 --> 00:00:25,610
+it provides certain assets for you ready-made,
+
+16
+00:00:25,830 --> 00:00:27,730
+it basically makes the whole process of creating
+
+17
+00:00:27,730 --> 00:00:30,030
+a game much simpler, so you can focus
+
+18
+00:00:30,030 --> 00:00:32,370
+on what makes the game unique and on
+
+19
+00:00:32,370 --> 00:00:34,210
+the assets and on the design and let
+
+20
+00:00:34,210 --> 00:00:35,850
+Unity handle a lot of the more advanced
+
+21
+00:00:35,850 --> 00:00:36,350
+code.
+
+22
+00:00:36,570 --> 00:00:38,090
+You only need very little code to get
+
+23
+00:00:38,090 --> 00:00:40,190
+started with Unity and what you do use
+
+24
+00:00:40,190 --> 00:00:42,830
+you can find tons of guides and references
+
+25
+00:00:42,830 --> 00:00:44,070
+online to help you through.
+
+26
+00:00:44,290 --> 00:00:46,150
+That said, Unity is still very powerful, very
+
+27
+00:00:46,150 --> 00:00:47,290
+flexible and it's used by a lot of
+
+28
+00:00:47,290 --> 00:00:48,190
+professional developers.
+
+29
+00:00:48,590 --> 00:00:50,170
+In fact many of your favorite games from
+
+30
+00:00:50,170 --> 00:00:53,010
+the Play Store were probably built using Unity.
+
+31
+00:00:53,350 --> 00:00:54,330
+Were you to try and make a game
+
+32
+00:00:54,330 --> 00:00:56,430
+in Android Studio you'd need to learn Java,
+
+33
+00:00:56,570 --> 00:00:58,970
+you need to understand classes and libraries, you
+
+34
+00:00:58,970 --> 00:01:00,870
+need to create the physics engine yourself, so
+
+35
+00:01:00,870 --> 00:01:03,330
+you're handling things like gravity and collision, whereas
+
+36
+00:01:03,330 --> 00:01:04,770
+Unity does all that for you and makes
+
+37
+00:01:04,770 --> 00:01:07,050
+it so much easier, while still being as
+
+38
+00:01:07,050 --> 00:01:09,110
+powerful as you could need even as a
+
+39
+00:01:09,110 --> 00:01:09,990
+professional developer.
+
+40
+00:01:10,170 --> 00:01:11,470
+If you're someone who'd like to create an
+
+41
+00:01:11,470 --> 00:01:12,930
+Android game but you think maybe it's too
+
+42
+00:01:12,930 --> 00:01:14,870
+difficult, it involves too much code, then I
+
+43
+00:01:14,870 --> 00:01:16,810
+hope this video is going to demonstrate just
+
+44
+00:01:16,810 --> 00:01:18,850
+how quick and simple and easy the whole
+
+45
+00:01:18,850 --> 00:01:19,850
+process can be.
+
+46
+00:01:20,270 --> 00:01:21,590
+I'm going to really run through it though,
+
+47
+00:01:21,630 --> 00:01:23,170
+so if you want to slow things down
+
+48
+00:01:23,170 --> 00:01:25,210
+and understand what each step does, then follow
+
+49
+00:01:25,210 --> 00:01:27,250
+the link in the description down below.
+
+50
+00:01:27,510 --> 00:01:29,530
+As you'll see though, the process really is
+
+51
+00:01:29,530 --> 00:01:30,170
+very simple.
+
+52
+00:01:30,790 --> 00:01:32,730
+You don't need any prior knowledge and as
+
+53
+00:01:32,730 --> 00:01:34,310
+long as you've got Unity and the Android
+
+54
+00:01:34,310 --> 00:01:36,950
+SDK installed on your computer already, then you'll
+
+55
+00:01:36,950 --> 00:01:37,550
+be good to go.
+
+56
+00:01:38,250 --> 00:01:40,250
+Okay so seven minutes, let's go!
+
+57
+00:01:40,610 --> 00:01:42,330
+So the first thing you want in any
+
+58
+00:01:42,330 --> 00:01:44,930
+game is probably player character, so you're going
+
+59
+00:01:44,930 --> 00:01:47,470
+to open up Paint or whatever, I mean
+
+60
+00:01:47,470 --> 00:01:49,010
+obviously there's better tools to use for this,
+
+61
+00:01:49,090 --> 00:01:50,370
+but this is all about the gravity.
+
+62
+00:01:51,130 --> 00:01:53,710
+And the easiest and quickest player character to
+
+63
+00:01:53,710 --> 00:02:02,770
+make is a square with a face, full
+
+64
+00:02:02,770 --> 00:02:04,190
+of attitude this guy.
+
+65
+00:02:04,550 --> 00:02:06,930
+You're going to take Squarey and you're going
+
+66
+00:02:06,930 --> 00:02:10,230
+to drop him into your game like that,
+
+67
+00:02:10,290 --> 00:02:11,010
+so he's a sprite.
+
+68
+00:02:11,150 --> 00:02:13,870
+We also need some platforms for him to
+
+69
+00:02:13,870 --> 00:02:16,750
+walk on, so drag your platform into your
+
+70
+00:02:16,750 --> 00:02:17,910
+game in the exact same way.
+
+71
+00:02:17,910 --> 00:02:20,870
+Cool thing is, look, you can drag and
+
+72
+00:02:20,870 --> 00:02:23,690
+reshape this, so if you copy that and
+
+73
+00:02:23,690 --> 00:02:26,030
+then paste it, you can make as many
+
+74
+00:02:26,030 --> 00:02:26,490
+as you want.
+
+75
+00:02:26,770 --> 00:02:30,230
+Select your player character, Squarey, and then you're
+
+76
+00:02:30,230 --> 00:02:31,790
+going to open up here on the right,
+
+77
+00:02:31,870 --> 00:02:32,570
+the Inspector.
+
+78
+00:02:33,550 --> 00:02:36,590
+In the Inspector, you're going to say Add
+
+79
+00:02:36,590 --> 00:02:40,790
+Component, Physics 2D, Rigid Body 2D.
+
+80
+00:02:41,450 --> 00:02:45,550
+So this is basically 2D physics for your
+
+81
+00:02:45,550 --> 00:02:45,950
+character.
+
+82
+00:02:46,510 --> 00:02:47,410
+What we're going to do is we're going
+
+83
+00:02:47,410 --> 00:02:50,170
+to drag the camera onto Squarey like so
+
+84
+00:02:50,170 --> 00:02:51,090
+in the hierarchy.
+
+85
+00:02:51,330 --> 00:02:53,430
+These along the top here are controls that
+
+86
+00:02:53,430 --> 00:02:55,790
+you can use to decide what you want
+
+87
+00:02:55,790 --> 00:02:58,650
+to do with your game objects, and that
+
+88
+00:02:58,650 --> 00:02:59,730
+one's used for moving stuff around.
+
+89
+00:02:59,790 --> 00:03:01,070
+If we place it right on top of
+
+90
+00:03:01,070 --> 00:03:03,870
+Squarey, then it kind of makes more sense
+
+91
+00:03:03,870 --> 00:03:06,150
+because you can click play and now he's
+
+92
+00:03:06,150 --> 00:03:07,210
+in the center of the screen.
+
+93
+00:03:08,330 --> 00:03:09,890
+So anything that's a child of anything else
+
+94
+00:03:09,890 --> 00:03:11,250
+will follow that thing around.
+
+95
+00:03:11,510 --> 00:03:12,830
+Anyways, enough talk.
+
+96
+00:03:13,570 --> 00:03:14,050
+Work.
+
+97
+00:03:14,590 --> 00:03:15,750
+Okay, so select Squarey.
+
+98
+00:03:16,530 --> 00:03:17,830
+The problem you can obviously see here is
+
+99
+00:03:17,830 --> 00:03:19,430
+he's falling through the ground, so we want
+
+100
+00:03:19,430 --> 00:03:21,170
+to add another component, and this time we're
+
+101
+00:03:21,170 --> 00:03:23,850
+going to add Physics 2D, Box Collider 2D,
+
+102
+00:03:24,070 --> 00:03:25,410
+and we're going to do the same thing
+
+103
+00:03:25,410 --> 00:03:26,890
+with the platform here.
+
+104
+00:03:27,150 --> 00:03:30,430
+Add Component, Physics 2D, Box Collider 2D.
+
+105
+00:03:31,130 --> 00:03:33,610
+Once more, and if we copy these now,
+
+106
+00:03:33,950 --> 00:03:36,730
+then we'll also be copying over that new
+
+107
+00:03:36,730 --> 00:03:37,970
+collider and the new physics.
+
+108
+00:03:38,270 --> 00:03:42,680
+Okay, so now click play, and hey, that's
+
+109
+00:03:42,680 --> 00:03:44,040
+starting to look more promising.
+
+110
+00:03:46,540 --> 00:03:48,040
+Okay, now the next thing we're going to
+
+111
+00:03:48,040 --> 00:03:50,500
+do is create our first script so that
+
+112
+00:03:50,500 --> 00:03:52,820
+we can actually start controlling what happens in
+
+113
+00:03:52,820 --> 00:03:53,220
+this game.
+
+114
+00:03:53,300 --> 00:03:54,540
+But don't worry, it's very easy.
+
+115
+00:03:55,040 --> 00:03:56,200
+So first of all, go down to your
+
+116
+00:03:56,200 --> 00:03:59,180
+assets folder in the project window here, and
+
+117
+00:03:59,180 --> 00:04:00,740
+you're going to right-click anywhere and say
+
+118
+00:04:00,740 --> 00:04:02,960
+Create Folder Script.
+
+119
+00:04:03,380 --> 00:04:05,500
+Now, with that open, right-click and say
+
+120
+00:04:05,500 --> 00:04:09,440
+Create C Sharp Script, and we're going to
+
+121
+00:04:09,440 --> 00:04:12,140
+call this Player Controls.
+
+122
+00:04:12,300 --> 00:04:13,680
+Okay, so double-click on that, and it
+
+123
+00:04:13,680 --> 00:04:15,620
+should open up Visual Studio for you here.
+
+124
+00:04:15,720 --> 00:04:16,820
+All right, and this is your first script.
+
+125
+00:04:16,920 --> 00:04:18,220
+You'll see there's already some code here.
+
+126
+00:04:18,519 --> 00:04:20,320
+I'm referring to a reference here because I'm
+
+127
+00:04:20,320 --> 00:04:22,020
+not, you know, Mr. Remember.
+
+128
+00:04:23,180 --> 00:04:26,200
+However, I did write the reference, so it
+
+129
+00:04:26,200 --> 00:04:27,220
+doesn't feel like cheating.
+
+130
+00:04:27,740 --> 00:04:28,840
+All right, so what we're doing up here
+
+131
+00:04:29,800 --> 00:04:32,260
+is we're going to create a new object
+
+132
+00:04:32,260 --> 00:04:33,760
+of the type Rigidbody 2D.
+
+133
+00:04:33,840 --> 00:04:36,020
+Like I say, don't worry too much about
+
+134
+00:04:36,020 --> 00:04:36,300
+this.
+
+135
+00:04:36,380 --> 00:04:38,080
+You can learn as you go.
+
+136
+00:04:42,520 --> 00:04:46,360
+It's going to be that same Rigidbody that
+
+137
+00:04:46,360 --> 00:04:50,660
+is attached to our player character.
+
+138
+00:04:50,840 --> 00:04:52,380
+So in order to move our character, all
+
+139
+00:04:52,380 --> 00:04:54,640
+we need to do is say RB, which
+
+140
+00:04:54,640 --> 00:04:57,160
+is the new Rigidbody, which refers to the
+
+141
+00:04:57,160 --> 00:04:58,280
+Rigidbody attached to our player.
+
+142
+00:04:59,940 --> 00:05:03,340
+Velocity equals new Vector2, and that's a point
+
+143
+00:05:03,340 --> 00:05:06,480
+that has two axes, and we're going to
+
+144
+00:05:06,480 --> 00:05:07,560
+say 1.
+
+145
+00:05:07,560 --> 00:05:09,780
+That seems like a decent speed to start
+
+146
+00:05:09,780 --> 00:05:12,900
+off with, and then RB Velocity Y.
+
+147
+00:05:13,280 --> 00:05:15,020
+Okay, so now open back up Unity.
+
+148
+00:05:15,900 --> 00:05:19,840
+Click on your player like that, and then
+
+149
+00:05:19,840 --> 00:05:21,480
+go to Add Component just as you did
+
+150
+00:05:21,480 --> 00:05:21,820
+before.
+
+151
+00:05:21,900 --> 00:05:23,500
+This time we're going to say Scripts, and
+
+152
+00:05:23,500 --> 00:05:24,320
+then there you have it.
+
+153
+00:05:24,640 --> 00:05:27,040
+You have your player control script that you
+
+154
+00:05:27,040 --> 00:05:27,340
+made.
+
+155
+00:05:27,460 --> 00:05:27,880
+Click Play.
+
+156
+00:05:28,120 --> 00:05:29,120
+We should speed along.
+
+157
+00:05:30,480 --> 00:05:32,820
+Well, speed along is a strong word, but
+
+158
+00:05:32,820 --> 00:05:34,180
+yeah, he's certainly moving.
+
+159
+00:05:34,860 --> 00:05:35,620
+I think that's three.
+
+160
+00:05:35,740 --> 00:05:37,000
+He's going to move three times as quickly.
+
+161
+00:05:38,760 --> 00:05:40,380
+Yeah, that's challenging.
+
+162
+00:05:41,000 --> 00:05:42,480
+We want to open up our script again.
+
+163
+00:05:43,060 --> 00:05:44,440
+Okay, and then we're going to say during
+
+164
+00:05:44,440 --> 00:05:55,240
+our method, if input getMouseButtonDown, index
+
+165
+00:05:55,240 --> 00:06:02,800
+zero, then we're going to say RB Velocity
+
+166
+00:06:03,460 --> 00:06:04,080
+Y.
+
+167
+00:06:05,000 --> 00:06:09,120
+RB Velocity equals new Vector2.
+
+168
+00:06:10,320 --> 00:06:13,940
+RB Velocity X, and then we'll make that
+
+169
+00:06:15,630 --> 00:06:16,690
+three.
+
+170
+00:06:17,230 --> 00:06:19,750
+So if the player clicks the mouse whilst
+
+171
+00:06:19,750 --> 00:06:24,190
+the game is running, then he should move
+
+172
+00:06:24,190 --> 00:06:24,930
+upwards now.
+
+173
+00:06:27,530 --> 00:06:29,030
+I know what you're thinking.
+
+174
+00:06:29,250 --> 00:06:31,770
+You're saying, Adam, there isn't a mouse click
+
+175
+00:06:31,770 --> 00:06:33,390
+on Android, but that's the cool thing because
+
+176
+00:06:33,390 --> 00:06:36,370
+a mouse click is equivalent to tapping anywhere
+
+177
+00:06:36,370 --> 00:06:37,110
+on the screen.
+
+178
+00:06:37,250 --> 00:06:38,010
+Bear with me.
+
+179
+00:06:39,150 --> 00:06:42,970
+We're just going to type out some variables,
+
+180
+00:06:43,670 --> 00:06:45,690
+and you don't need to worry about what
+
+181
+00:06:45,690 --> 00:06:46,310
+these mean.
+
+182
+00:06:52,830 --> 00:06:55,870
+I will explain it all as we go.
+
+183
+00:07:01,170 --> 00:07:04,530
+On ground, so our Boolean, our true or
+
+184
+00:07:04,530 --> 00:07:10,770
+false statement equals physics2D overlap circle ground check
+
+185
+00:07:10,770 --> 00:07:14,270
+dot position ground check radius.
+
+186
+00:07:14,670 --> 00:07:16,410
+What is ground?
+
+187
+00:07:17,370 --> 00:07:18,630
+I'm going to add one more thing here,
+
+188
+00:07:18,710 --> 00:07:21,730
+which is and on ground.
+
+189
+00:07:21,930 --> 00:07:24,310
+Now we're going to create a new empty
+
+190
+00:07:24,310 --> 00:07:26,450
+game object, and we're going to call that
+
+191
+00:07:26,450 --> 00:07:32,330
+check ground, and this is an invisible object
+
+192
+00:07:32,330 --> 00:07:33,890
+that we're going to use to see if
+
+193
+00:07:33,890 --> 00:07:35,310
+there's an overlap to see whether or not
+
+194
+00:07:35,310 --> 00:07:36,930
+we're hovering over the ground.
+
+195
+00:07:37,070 --> 00:07:38,530
+Of course, we want it to move as
+
+196
+00:07:38,530 --> 00:07:40,810
+Squarey moves, so just like the camera, I'm
+
+197
+00:07:40,810 --> 00:07:42,650
+going to drop it underneath Squarey so that
+
+198
+00:07:42,650 --> 00:07:43,510
+it becomes a child.
+
+199
+00:07:44,050 --> 00:07:45,830
+Now if you click Squarey, you should see
+
+200
+00:07:45,830 --> 00:07:48,590
+that in the script we have some new
+
+201
+00:07:48,590 --> 00:07:51,890
+options, and the ground check is a transform.
+
+202
+00:07:52,250 --> 00:07:54,430
+Then take check ground and drop it in
+
+203
+00:07:54,430 --> 00:07:55,870
+to ground check.
+
+204
+00:07:57,050 --> 00:07:59,070
+I'm going to set the radius to 0
+
+205
+00:07:59,070 --> 00:08:00,430
+.1. We want it to be nice and
+
+206
+00:08:00,430 --> 00:08:02,250
+small, and then now we're going to create
+
+207
+00:08:02,250 --> 00:08:03,230
+our new layer mask.
+
+208
+00:08:03,390 --> 00:08:05,510
+So select your platform, and up here in
+
+209
+00:08:05,510 --> 00:08:07,030
+the inspector, you can see it has the
+
+210
+00:08:07,030 --> 00:08:09,210
+option for layer, and you're going to go
+
+211
+00:08:09,210 --> 00:08:09,850
+add layer.
+
+212
+00:08:10,770 --> 00:08:13,350
+Then you're going to make this layer called
+
+213
+00:08:13,350 --> 00:08:14,810
+ground.
+
+214
+00:08:15,390 --> 00:08:18,350
+If you click back to the inspector, you
+
+215
+00:08:18,350 --> 00:08:20,570
+can now select ground as your layer.
+
+216
+00:08:21,410 --> 00:08:22,690
+Okay, so now go back to your player,
+
+217
+00:08:23,190 --> 00:08:26,090
+and then the last public variable, what is
+
+218
+00:08:26,090 --> 00:08:27,390
+ground, you're going to set that to your
+
+219
+00:08:27,390 --> 00:08:29,230
+new layer, as ground.
+
+220
+00:08:29,890 --> 00:08:32,309
+Now, fingers crossed it should work, unless we've
+
+221
+00:08:32,309 --> 00:08:32,990
+forgotten something.
+
+222
+00:08:33,850 --> 00:08:34,730
+So when he's on the ground, you can
+
+223
+00:08:34,730 --> 00:08:35,990
+click click, and he'll jump.
+
+224
+00:08:36,350 --> 00:08:37,890
+When he's not on the ground, he doesn't
+
+225
+00:08:37,890 --> 00:08:38,190
+jump.
+
+226
+00:08:39,470 --> 00:08:42,450
+There you go, and that is the basis
+
+227
+00:08:42,450 --> 00:08:44,350
+of a fun little game.
+
+228
+00:08:44,730 --> 00:08:45,750
+And yeah, if you followed my advice at
+
+229
+00:08:45,750 --> 00:08:46,810
+the start of this video, and you went
+
+230
+00:08:46,810 --> 00:08:49,470
+through the installation process, and set up Unity
+
+231
+00:08:49,470 --> 00:08:51,770
+and the Android SDK, you should now be
+
+232
+00:08:51,770 --> 00:08:53,970
+able to test your game on your Android
+
+233
+00:08:53,970 --> 00:08:54,430
+phone.
+
+234
+00:08:54,610 --> 00:08:55,810
+And it's quite a great feeling when you
+
+235
+00:08:55,810 --> 00:08:57,870
+see it come to life on your device.
+
+236
+00:08:58,250 --> 00:08:59,690
+Okay, so it's something pretty basic, but it's
+
+237
+00:08:59,690 --> 00:09:01,050
+a great foundation to build upon.
+
+238
+00:09:01,230 --> 00:09:02,990
+And there's not that much more code necessary
+
+239
+00:09:02,990 --> 00:09:06,910
+for handling things like enemies, collectibles, next levels,
+
+240
+00:09:07,110 --> 00:09:07,890
+and tilt controls.
+
+241
+00:09:08,390 --> 00:09:09,770
+Once you've done that, you can just focus
+
+242
+00:09:09,770 --> 00:09:12,630
+on designing your different graphics and dragging them,
+
+243
+00:09:12,750 --> 00:09:14,170
+dropping them into the scene.
+
+244
+00:09:14,770 --> 00:09:15,890
+So I hope you found this video useful
+
+245
+00:09:15,890 --> 00:09:16,690
+and interesting, guys.
+
+246
+00:09:16,770 --> 00:09:18,370
+If you did, then please leave a like.
+
+247
+00:09:18,630 --> 00:09:19,950
+Subscribe to the channel if you'd like to
+
+248
+00:09:19,950 --> 00:09:20,650
+see more like this.
+
+249
+00:09:20,690 --> 00:09:22,310
+Hit the bell button if you want notifications.
+
+250
+00:09:22,910 --> 00:09:24,390
+Comment down below if you have any questions.
+
+251
+00:09:24,790 --> 00:09:27,330
+And of course, check out AndroidAuthority.com, for
+
+252
+00:09:27,330 --> 00:09:30,130
+we are your source for all things Android.

@@ -1,0 +1,787 @@
+1
+00:00:03,250 --> 00:00:06,150
+Most option traders start out buying options because
+
+2
+00:00:06,150 --> 00:00:07,690
+it's simplest to understand.
+
+3
+00:00:08,330 --> 00:00:10,010
+If you think Facebook stock will go up,
+
+4
+00:00:10,250 --> 00:00:11,750
+you could buy a call, and if you
+
+5
+00:00:11,750 --> 00:00:13,670
+think Facebook stock will go down, you could
+
+6
+00:00:13,670 --> 00:00:14,290
+buy a put.
+
+7
+00:00:15,070 --> 00:00:16,870
+This sounds great because you can trade the
+
+8
+00:00:16,870 --> 00:00:19,270
+options with much less capital than if you
+
+9
+00:00:19,270 --> 00:00:20,610
+were to simply trade the stock.
+
+10
+00:00:21,010 --> 00:00:21,990
+Let me show you an example.
+
+11
+00:00:22,530 --> 00:00:24,150
+First, let's look at an option chain on
+
+12
+00:00:24,150 --> 00:00:27,250
+stock XYZ, which is currently trading at $75
+
+13
+00:00:27,250 --> 00:00:28,290
+per share.
+
+14
+00:00:28,790 --> 00:00:30,370
+Let's say you are bullish on the stock
+
+15
+00:00:30,370 --> 00:00:32,250
+and you're looking to buy a call option,
+
+16
+00:00:33,110 --> 00:00:34,150
+so we're just going to go ahead and
+
+17
+00:00:34,150 --> 00:00:35,430
+ignore the put options for now.
+
+18
+00:00:35,750 --> 00:00:37,670
+If you were to buy the 70 strike
+
+19
+00:00:37,670 --> 00:00:40,270
+call option, for example, this would cost you
+
+20
+00:00:40,270 --> 00:00:43,690
+$750, and you're hoping that the price of
+
+21
+00:00:43,690 --> 00:00:45,890
+XYZ will rise so you can make money,
+
+22
+00:00:46,350 --> 00:00:48,170
+but this is not a very good trading
+
+23
+00:00:48,170 --> 00:00:50,490
+strategy because it puts time decay against you,
+
+24
+00:00:50,590 --> 00:00:52,770
+and not only does the price of XYZ
+
+25
+00:00:52,770 --> 00:00:54,490
+have to move up, it has to move
+
+26
+00:00:54,490 --> 00:00:56,410
+up a significant amount for you to even
+
+27
+00:00:56,410 --> 00:00:56,950
+break even.
+
+28
+00:00:57,490 --> 00:00:59,250
+In this case, your break even is at
+
+29
+00:00:59,250 --> 00:01:01,790
+$77.50, a full two and a half
+
+30
+00:01:01,790 --> 00:01:04,610
+points above the current stock price, and if
+
+31
+00:01:04,610 --> 00:01:07,410
+XYZ sits still and trades sideways, you're screwed
+
+32
+00:01:07,410 --> 00:01:09,670
+because your option you just bought will decay
+
+33
+00:01:09,670 --> 00:01:10,730
+each and every day.
+
+34
+00:01:11,270 --> 00:01:12,730
+And that's what options are, guys.
+
+35
+00:01:12,870 --> 00:01:16,230
+They are depreciating assets, and any smart investor
+
+36
+00:01:16,230 --> 00:01:18,330
+is not going to buy a depreciating asset
+
+37
+00:01:18,330 --> 00:01:19,570
+and call it an investment.
+
+38
+00:01:20,090 --> 00:01:21,370
+Let me show you a better way that
+
+39
+00:01:21,370 --> 00:01:23,230
+allows you to make a directional bet on
+
+40
+00:01:23,230 --> 00:01:24,990
+the stock, but without having to buy a
+
+41
+00:01:24,990 --> 00:01:26,890
+naked option or put up tons of capital
+
+42
+00:01:26,890 --> 00:01:28,170
+to trade the stock itself.
+
+43
+00:01:28,690 --> 00:01:30,890
+And we're actually going to eliminate time decay
+
+44
+00:01:30,890 --> 00:01:31,590
+altogether.
+
+45
+00:01:31,930 --> 00:01:34,330
+Instead of just buying the 70 strike call
+
+46
+00:01:34,330 --> 00:01:36,170
+option, we're going to do something a little
+
+47
+00:01:36,170 --> 00:01:36,690
+bit different.
+
+48
+00:01:37,110 --> 00:01:38,710
+We're going to buy this option, but we're
+
+49
+00:01:38,710 --> 00:01:41,670
+also going to simultaneously sell a cheaper out
+
+50
+00:01:41,670 --> 00:01:43,830
+-of-the-money option to reduce our cost.
+
+51
+00:01:44,130 --> 00:01:46,150
+So in this case, we're going to buy
+
+52
+00:01:46,150 --> 00:01:49,450
+the 70 strike call for $750, but we're
+
+53
+00:01:49,450 --> 00:01:51,450
+also going to sell the 80 strike call
+
+54
+00:01:51,450 --> 00:01:52,630
+for $250.
+
+55
+00:01:53,270 --> 00:01:55,350
+This knocks our cost down by a full
+
+56
+00:01:55,350 --> 00:01:58,170
+$250, and our net price is now just
+
+57
+00:01:58,170 --> 00:01:58,670
+$500.
+
+58
+00:01:59,450 --> 00:02:01,970
+This is called buying a vertical spread.
+
+59
+00:02:02,370 --> 00:02:04,870
+By trading a vertical spread rather than simply
+
+60
+00:02:04,870 --> 00:02:07,690
+buying a single option, we're able to significantly
+
+61
+00:02:07,690 --> 00:02:10,310
+reduce the cost of our trade, which improves
+
+62
+00:02:10,310 --> 00:02:12,470
+our breakeven on the trade and our probability
+
+63
+00:02:12,470 --> 00:02:12,950
+of success.
+
+64
+00:02:13,290 --> 00:02:15,250
+The net price we pay for this vertical
+
+65
+00:02:15,250 --> 00:02:18,470
+spread is $5, so our breakeven is at
+
+66
+00:02:18,470 --> 00:02:20,930
+$75 per share, which is where the current
+
+67
+00:02:20,930 --> 00:02:21,810
+stock price is.
+
+68
+00:02:22,290 --> 00:02:23,430
+If you're lost, hang with me.
+
+69
+00:02:23,490 --> 00:02:24,770
+I'm going to show you how this works.
+
+70
+00:02:25,350 --> 00:02:27,990
+Let's compare the two strategies in three different
+
+71
+00:02:27,990 --> 00:02:28,570
+scenarios.
+
+72
+00:02:29,310 --> 00:02:30,370
+Scenario number one.
+
+73
+00:02:30,810 --> 00:02:33,450
+XYZ stock price has moved up, and at
+
+74
+00:02:33,450 --> 00:02:36,630
+the expiration date, it's at $79.50 per
+
+75
+00:02:36,630 --> 00:02:36,990
+share.
+
+76
+00:02:37,590 --> 00:02:39,790
+First, let's look at the 70-80 vertical
+
+77
+00:02:39,790 --> 00:02:40,310
+spread.
+
+78
+00:02:40,610 --> 00:02:42,430
+The short 80 call that you sold for
+
+79
+00:02:42,430 --> 00:02:45,010
+$250 would now be worthless because it's out
+
+80
+00:02:45,010 --> 00:02:45,430
+-of-the-money.
+
+81
+00:02:45,970 --> 00:02:48,510
+So you made $250 on the short 80
+
+82
+00:02:48,510 --> 00:02:51,250
+call, and the long 70 call you bought
+
+83
+00:02:51,250 --> 00:02:54,410
+for $7.50 is now $9.50 in
+
+84
+00:02:54,410 --> 00:02:57,730
+the money, so it's worth $9.50. So
+
+85
+00:02:57,730 --> 00:03:00,390
+you made $200 on the long 70 call,
+
+86
+00:03:00,610 --> 00:03:03,090
+so your net profit is $450.
+
+87
+00:03:04,310 --> 00:03:06,390
+Now remember, the net price we paid for
+
+88
+00:03:06,390 --> 00:03:09,490
+the vertical spread was $500, so our return
+
+89
+00:03:09,490 --> 00:03:11,530
+on capital was 90%.
+
+90
+00:03:11,530 --> 00:03:14,070
+Our max risk was simply the net price
+
+91
+00:03:14,070 --> 00:03:15,950
+we bought the spread for, which was $500.
+
+92
+00:03:16,730 --> 00:03:18,950
+Now let's compare this to if we simply
+
+93
+00:03:18,950 --> 00:03:22,270
+bought the 70 call for $7.50. With
+
+94
+00:03:22,270 --> 00:03:24,690
+the stock at $79.50, our long call
+
+95
+00:03:24,690 --> 00:03:27,030
+would be at $9.50, providing us with
+
+96
+00:03:27,030 --> 00:03:29,670
+a profit of $200, so our return on
+
+97
+00:03:29,670 --> 00:03:34,030
+capital was only 26.67%. Our max risk
+
+98
+00:03:34,030 --> 00:03:37,390
+was $750 we paid to buy this option.
+
+99
+00:03:37,810 --> 00:03:39,450
+Let's look at scenario two.
+
+100
+00:03:40,070 --> 00:03:42,910
+XYZ has mostly traded sideways, and at the
+
+101
+00:03:42,910 --> 00:03:45,550
+expiration date, the price is still at $75
+
+102
+00:03:45,550 --> 00:03:46,490
+per share.
+
+103
+00:03:46,950 --> 00:03:49,390
+Looking at the vertical spread, our long 70
+
+104
+00:03:49,390 --> 00:03:52,590
+call will now be worth $5, resulting in
+
+105
+00:03:52,590 --> 00:03:55,250
+a loss of $250 on that leg of
+
+106
+00:03:55,250 --> 00:03:55,690
+the trade.
+
+107
+00:03:55,990 --> 00:03:58,190
+But our short 80 call will again be
+
+108
+00:03:58,190 --> 00:04:01,510
+worthless, resulting in a profit of $250 on
+
+109
+00:04:01,510 --> 00:04:02,050
+that leg.
+
+110
+00:04:02,510 --> 00:04:04,210
+So the two cancel out, and we would
+
+111
+00:04:04,210 --> 00:04:05,790
+actually just be at break-even on the
+
+112
+00:04:05,790 --> 00:04:06,070
+trade.
+
+113
+00:04:06,650 --> 00:04:08,550
+Now compare that to if we simply bought
+
+114
+00:04:08,550 --> 00:04:11,450
+the 70 call at $7.50. We would
+
+115
+00:04:11,450 --> 00:04:13,990
+now be sitting on a $250 loss.
+
+116
+00:04:14,610 --> 00:04:16,130
+So in the case of the vertical spread,
+
+117
+00:04:16,470 --> 00:04:18,410
+time decay was not an issue whatsoever.
+
+118
+00:04:19,190 --> 00:04:21,290
+However, if you just bought the 70 call
+
+119
+00:04:21,290 --> 00:04:24,070
+rather than trading the vertical spread, you're sitting
+
+120
+00:04:24,070 --> 00:04:26,270
+on a 33% loss due to time
+
+121
+00:04:26,270 --> 00:04:26,590
+decay.
+
+122
+00:04:27,290 --> 00:04:28,510
+Okay, scenario three.
+
+123
+00:04:29,150 --> 00:04:31,410
+We are completely wrong about the direction of
+
+124
+00:04:31,410 --> 00:04:34,050
+XYZ, and the stock tanks down to $50
+
+125
+00:04:34,050 --> 00:04:35,010
+per share.
+
+126
+00:04:35,410 --> 00:04:37,390
+Both of the options that make up our
+
+127
+00:04:37,390 --> 00:04:39,590
+vertical spread are out of the money and
+
+128
+00:04:39,590 --> 00:04:40,110
+are worthless.
+
+129
+00:04:40,890 --> 00:04:43,410
+So we lost $750 on the long 70
+
+130
+00:04:43,410 --> 00:04:45,870
+call, but we made $250 on the short
+
+131
+00:04:45,870 --> 00:04:46,430
+80 call.
+
+132
+00:04:46,650 --> 00:04:50,370
+So our net loss is $500, much less
+
+133
+00:04:50,370 --> 00:04:53,550
+than losing $750 like we would have if
+
+134
+00:04:53,550 --> 00:04:55,150
+we were to simply buy the 70 strike
+
+135
+00:04:55,150 --> 00:04:55,450
+call.
+
+136
+00:04:56,190 --> 00:04:58,650
+Buying the vertical was better than buying the
+
+137
+00:04:58,650 --> 00:05:01,410
+naked option in all three of these scenarios,
+
+138
+00:05:01,830 --> 00:05:04,390
+but there is one scenario where buying the
+
+139
+00:05:04,390 --> 00:05:06,050
+naked call would have worked out better.
+
+140
+00:05:06,810 --> 00:05:08,890
+Let's say the stock rips higher and is
+
+141
+00:05:08,890 --> 00:05:11,590
+now at $85 per share at the expiration
+
+142
+00:05:11,590 --> 00:05:11,970
+date.
+
+143
+00:05:12,350 --> 00:05:14,570
+For the vertical, the 70 call we bought
+
+144
+00:05:14,570 --> 00:05:17,110
+for $7.50 would now be worth $15,
+
+145
+00:05:17,610 --> 00:05:20,790
+providing us with a profit of $750 on
+
+146
+00:05:20,790 --> 00:05:21,330
+that leg.
+
+147
+00:05:21,630 --> 00:05:23,610
+And the short 80 call we sold at
+
+148
+00:05:23,610 --> 00:05:26,390
+$250 would now be worth $5, resulting in
+
+149
+00:05:26,390 --> 00:05:28,610
+a loss of $250 on this leg of
+
+150
+00:05:28,610 --> 00:05:29,010
+the trade.
+
+151
+00:05:29,510 --> 00:05:32,990
+So our net profit is only $500 as
+
+152
+00:05:32,990 --> 00:05:35,790
+opposed to $750 if we would have just
+
+153
+00:05:35,790 --> 00:05:36,390
+bought the call.
+
+154
+00:05:36,890 --> 00:05:38,890
+So that's the only downfall with the vertical
+
+155
+00:05:38,890 --> 00:05:41,390
+spread, is that it has limited profit potential.
+
+156
+00:05:41,750 --> 00:05:44,570
+Whereas buying the naked option allows us unlimited
+
+157
+00:05:44,570 --> 00:05:45,570
+profit potential.
+
+158
+00:05:45,950 --> 00:05:48,250
+But is the profit potential really unlimited?
+
+159
+00:05:48,810 --> 00:05:49,610
+Of course not.
+
+160
+00:05:49,690 --> 00:05:52,990
+That's just theoretical because theoretically a stock can
+
+161
+00:05:52,990 --> 00:05:54,030
+go to infinity.
+
+162
+00:05:54,710 --> 00:05:56,810
+But look, you still made a 100%
+
+163
+00:05:56,810 --> 00:05:59,330
+return on capital on the vertical spread, so
+
+164
+00:05:59,330 --> 00:06:00,590
+what is there to be upset about?
+
+165
+00:06:01,130 --> 00:06:03,550
+And trust me, these three scenarios are going
+
+166
+00:06:03,550 --> 00:06:05,810
+to happen way more often and the vertical
+
+167
+00:06:05,810 --> 00:06:07,410
+spread will pay you far more in the
+
+168
+00:06:07,410 --> 00:06:09,230
+long run than the few times you might
+
+169
+00:06:09,230 --> 00:06:11,090
+eventually hit a home run with buying the
+
+170
+00:06:11,090 --> 00:06:11,710
+naked option.
+
+171
+00:06:12,250 --> 00:06:13,490
+Now let me show you how to pull
+
+172
+00:06:13,490 --> 00:06:15,350
+up an order to buy a vertical spread
+
+173
+00:06:15,350 --> 00:06:17,030
+in the thinkorswim trading platform.
+
+174
+00:06:17,450 --> 00:06:18,970
+All you're going to do is go to
+
+175
+00:06:18,970 --> 00:06:21,170
+the option chain, right-click the option you
+
+176
+00:06:21,170 --> 00:06:23,530
+want to buy, then click buy vertical.
+
+177
+00:06:24,090 --> 00:06:25,630
+From there all you have to do is
+
+178
+00:06:25,630 --> 00:06:26,790
+adjust your strike selection.
+
+179
+00:06:27,170 --> 00:06:29,310
+I personally prefer to buy one strike in
+
+180
+00:06:29,310 --> 00:06:31,130
+the money and sell one strike out of
+
+181
+00:06:31,130 --> 00:06:32,610
+the money when trading this strategy.
+
+182
+00:06:33,330 --> 00:06:35,050
+Now we can click confirm and send and
+
+183
+00:06:35,050 --> 00:06:36,750
+view the pop-up box to see the
+
+184
+00:06:36,750 --> 00:06:39,250
+details of the trade, such as max profit,
+
+185
+00:06:39,650 --> 00:06:42,830
+max loss, capital required, and break-even stock
+
+186
+00:06:42,830 --> 00:06:43,230
+price.
+
+187
+00:06:43,710 --> 00:06:45,190
+And you can also do this on the
+
+188
+00:06:45,190 --> 00:06:46,790
+put side if you want to make a
+
+189
+00:06:46,790 --> 00:06:48,470
+bet that the stock will go down.
+
+190
+00:06:49,230 --> 00:06:51,030
+So alright guys, hope you enjoyed the video
+
+191
+00:06:51,030 --> 00:06:52,090
+and learned from it.
+
+192
+00:06:52,310 --> 00:06:53,650
+If so, be sure to click the like
+
+193
+00:06:53,650 --> 00:06:56,110
+and subscribe button below and also check out
+
+194
+00:06:56,110 --> 00:06:57,950
+our website and join our email list for
+
+195
+00:06:57,950 --> 00:06:59,770
+three exclusive free videos.
+
+196
+00:07:00,410 --> 00:07:01,870
+And I will see you in the next
+
+197
+00:07:01,870 --> 00:07:02,190
+video.

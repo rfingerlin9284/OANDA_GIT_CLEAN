@@ -1,0 +1,936 @@
+(0:00 - 0:53)
+Algorithms, they're written by a programmer and they have to be written to go somewhere, okay? Where are they written to go? These technical areas that we're putting out, those algorithms are going to that as sure as we're having this conversation, there's no doubt. They want to shake out the longs and they want to get people short and what do the smart people do that are on the bottom of these algorithms that are scooping this stuff up? They're feeding into these people, that's what algorithms do. I'm able to take advantage of what they've given me, printing the money, man. 
+
+That's what we do and we do it every day, hundreds of times. In terms of market makers and hunting stops, there's a big thing in the retail space of like price hitting your stop loss and going completely the other way, people feeling very targeted. I've heard you say that that is a case, that is something that does take place. 
+
+Yes, you're 100% right. I started focusing on the algorithms a very long time ago. It wasn't my will, I was an agent.
+
+(0:53 - 1:30)
+Algorithms are there to create volatility and liquidity. They want to trap one of the trades that lose money 85-90% of the time is when you sell, fail, break down. Those algorithms know that. 
+
+You just know it and I know that those algorithms are going to make that print and they're programmed in to go to those strike places. A lot of retail traders, they all make the same mistake. The important thing is for retail traders is- The number one podcast in the trading space, the fastest growing and that's thanks to every single one of you.
+
+(1:36 - 4:32)
+Welcome back everyone to the Words of Wisdom podcast. We are back once again and still the number one podcast in the trading space and the fastest growing thanks to all of you and our incredible guests, talking of which we have a true veteran with us today. He first set foot on the New York Stock Exchange in 1965, so in one year's time that will make 60 years. 
+
+Absolutely incredible the amount of knowledge that is going to be shared here with us today. At one point he was responsible for 90% of the volume trade in IBM, which was almost 20% at one point of the S&P. And I am proud and honored to announce that we have Richie Nasser with us today. 
+
+Thank you so much for that. I appreciate it. I'm trying to work on my intros. 
+
+Richie, it's an absolute honor, like I said. Where we like to just start off with is sort of how you got into trading, like what were the mindset going into trading, especially at that time, you know, the New York Stock Exchange as well. Where was your mindset? Why trading in the first place? It's pretty amazing. 
+
+You know, first of all, I thank the good Lord, because I couldn't have carved out a better situation for myself without really knowing what I was doing. You know, I started out in a typical, my family is a typical Italian family growing up in Queens, New York. But I grew up in a very tough neighborhood. 
+
+And although I was a very big sports fanatic in everything I did, at sometimes in high levels, like getting a scholarship to high school for basketball. And, and so, you know, I formed many baseball teams and many softball teams and traveled around the tri-state area playing for money. Okay, my family had bingo games going on at the end of Sunday dinners at my grandmother's house. 
+
+You always, the kids always wanted to use their real money to play bingo with the older people. Okay. I grew up in, again, in a Queens neighborhood, a very tough Queens neighborhood, and pitched quarters against the wall, pitched, traded picture cards and flipped picture cards for money, played poker for money, played, played anything for money, played anything. 
+
+I once sat in my basement at 15 years old, and I'm prefacing this on a reason on purpose. I once sat in my basement and had four decks of cards faced upside down backwards. So I couldn't see what I was doing. 
+
+I placed a baseball hat against the wall, okay, against the wall. And I stood there for hours, days and hours and hours at a time, flipping those cards against the wall, and counting up what suit, what suit just fell into the hat. Didn't know what I was flipping. 
+
+At the end of the day, no matter what I did, the club suit always came out on top. Gave me an edge. I'm playing poker.
+
+(4:32 - 5:05)
+If I'm playing contact poker, and I played with bookmakers, and I played with the best wise guys, I played with everybody. But always clubs came out. So if there were three clubs on the board in contact poker, and there was one card in the deck that had to be pulled out, and I had three, four clubs, three clubs and one on the board, and I needed a club, I know what I was doing. 
+
+If I needed a diamond, I probably would have folded. So that's the level. And, you know, I had no real idea of what my future would be.
+
+(5:05 - 6:44)
+And so it was unbelievable. You know, the experience of winning and losing, you cannot replicate. You know, I tell people on my sessions to this day, well, I'm going to go on a simp account. 
+
+I'm going to go on a simp account. I said, do yourself a favor. You're not going to learn anything on a simp account. 
+
+The reason you're not because you're not risking anything. You've got to feel the emotions of risking. You've got to feel what it is to lose. 
+
+You can't. Everything is not fun and games. So anyway, it just meant it was a tremendous preparation for me to walk in there. 
+
+You know, graduating high school, they all started in with the yearbooks and they all wrote the salutations of what they're going to be in life. How they knew that at 17, I don't know, but they all knew it. They all knew it. 
+
+I had one line. I put one, one, one word and that was business. Did I know what business was that was, where it was, what kind of business it was? No, I didn't. 
+
+I just wrote business. I mean, I sold encyclopedias door to door. I mean, I was a, a, a manager trainee for John's bargain store. 
+
+People in this part of the country will know what that was. You know, soup to nuts across the court, you know, delivering newspapers at five 30 in the morning, you know, stuffing groceries at the supermarket for a quarter a day or whatever the hell it was, you know, stuff like that. But it all, I'm saying this for a reason.
+
+(6:44 - 8:03)
+Nothing is an accident, folks. Really nothing. It's all predetermined. 
+
+Nothing is an accident. And so when did trading come into your sort of path? Yeah. So I never traded a stock in my life. 
+
+I didn't have the money. I saw an ad in New York times that said, you know, wall street runner or whatever they called it. I said, Oh, New York stock exchange. 
+
+That's impressive to me. Yeah. I'm going to go and apply for this job. 
+
+So I put on my Easter suit, the only suit I owned, and only came out once or twice a year and, and walked into the stock exchange, filled out an application, got hired. I want to say one other thing. And I want to say one other thing, because it's important the way things are supposed to work out. 
+
+My first job interview was for an assistant accountant at a bookkeeping firm. Okay. And I didn't get the job, but the woman, I didn't get the job because I tested worse than the kid who was looking for the same job. 
+
+And, but the HR person or whatever they were called in that day, came up to me and said, I'm sorry, but I have to hire the other. He got higher on a test, but she said, I know I'm making a mistake. And that was the end of that.
+
+(8:04 - 8:25)
+Then I went to wall street. Then I got this clerk, a job as a runner on the floor of the New York stock exchange. That simple. 
+
+But I remember one thing and one thing that no, I found the home when they suited me up, you had a special jacket, blah, blah, blah. And then you walked into that trading room. They escorted you into that room.
+
+(8:26 - 9:16)
+It was like, it was like you got hit with a boulder. I mean, the energy that came out of that room that I felt went through my bones from the toe to top of my head, down to my top of my bottom of my toes, man, it was stupid. It was like, Oh my God, I had no idea. 
+
+No idea. And that was it. I was hooked after that. 
+
+I just did what I did. I did my, I did my study and I did my due diligence. I passed whatever I had to pass. 
+
+I was not a great student in school. I didn't care. I didn't think they would teach me anything, quite frankly. 
+
+And, you know, I, I rose through the ranks in New York stock exchange as a runner. And then as a reporter, somebody who recorded all the sales that took place. And after nine months, they offered me a job as a clerk, as a clerk.
+
+(9:18 - 10:25)
+What is a clerk? A clerk is a trainee, but they work for a firm. And that was a big step because that puts you on a level where you could start to advance if you were good enough to advance. Nobody gave you anything. 
+
+And I had a hard time. I can tell you, honestly, I had a really hard time because I couldn't understand what a quote was. I didn't understand what a bid and offer was. 
+
+I really didn't. I mean, I was a workaholic, but I did not. I couldn't, I couldn't get it through. 
+
+Okay. So my boss at the time sent me up to the over-the-counter desk. Over-the-counter. 
+
+Over-the-counter was rock and roll. There was no Nasdaq. This was a thousand people making markets in every stock on a planet that wasn't listed on the New York Stock Exchange. 
+
+And it was, this was, this was Dodge City. Check your pockets. I'll tell you that. 
+
+It was Dodge City. But when you were making markets, it was the best education I ever got because after that, it just all came together. Down to the trading floor again.
+
+(10:26 - 12:01)
+And just kept moving up on a trading floor, you know, where I was got the confidence of many, many different companies that called me, you know, to represent them, to be their clerk and to stuff like that. One thing you really, you said there, which really stood out to me was nothing was ever handed to anyone on the floor. Can you just speak on that a bit more? Yeah. 
+
+I mean, look, I was never handed anything. And, but the good news is that I didn't want to be handed anything. You know, I have a sibling that was handed everything, but I never wanted to be handed everything. 
+
+I always wanted to earn it. And so it fit my personality real well. Because when you're competing against other people, the best comes out. 
+
+And if you, and if you know the job that you could do, and if you know what you're capable of doing, and you have confidence in what you're doing, you are going to beat these other people. And you know, I mean, that's the way it is. That's capitalism. 
+
+That's it. You want to get a job, you want to do better than somebody else, you just do the best you can. And you automatically better than somebody else, as long as you don't cheat along the way, as long as you put in the time. 
+
+That's where the confidence comes from, putting in the time, you need to be a student of the game. How important is that mindset going into something like the floor where, whether even at that time, people who would be entitled and think they deserved something, think they have done enough time, and therefore they should get something? Oh, sure. I love though, I love to compete against those people, because that was easy stuff.
+
+(12:01 - 13:32)
+It was just easy. And especially on the floor, the New York Stock Exchange floor has a very high tradition in heritage, okay? The specialist system had lines of heritage. Grandfathers, grandfathers, to sons, to sons, all right? And many of the specialist firms had heritage like that running through them. 
+
+So conversely speaking, to answer your question, a lot of the offsprings of these senior people, if you will, they thought that this was easy life for them. They already had money, they knew they were getting money. And so it's good to compete against those people. 
+
+That's all I could say. When you're a kid that comes from a rough neighborhood, and you're able to work your way up through it, and you find yourself in an arena where people think they deserve something, you stand out. Going back to what you said about your sort of upbringing into the trading journey, you mentioned about essentially everything was winning and losing. 
+
+Everything was trying to play those odds. How important was that when you're coming into the New York Stock Exchange? Was it simply just some like almost familiar to you? Was it something that you just thought, this is just a larger game of what I've played before? Intellectually, at that point, no. But somehow, some way, my system knew it.
+
+(13:33 - 14:01)
+I did not recognize it at first. I really did not. It was, I don't know, a couple of years, two, three years where I started realizing, forget it. 
+
+And I started moving up quicker than a lot of people were moving up. And then I figured out, and the answer to your question is at one point, but not from the beginning. Not from the beginning. 
+
+I knew I belonged there because of the energy. And I knew that's what drives me. And that's what's always driven me, no matter what I did.
+
+(14:02 - 14:36)
+So from that perspective, the energy was just, oh my God, this is my home. This is where I belong. And I remember, I said, wow, when I got my first job and I was making $60 a week, that was the pay in 1960, $65. 
+
+$60 a week, I cleared $48.12. And that's what I remember. And I remember also, I said to myself, wow, if I can make, my goal was to make $40,000 a year. That was my goal.
+
+(14:36 - 15:54)
+And now I'm dead serious. That was my goal to make $40,000 a year, which was a lot of money at that time. In terms of, as you said, in terms of the energy, I'm sure there would have been people who would have gone there. 
+
+And rather than energy, they would have said chaos, would have said something maybe more of a negative feeling because they couldn't handle it. And what was it about you that felt that energy instead? What was it about the energy on the floor that really resonated with you and wanted you to be there? The gambling instincts, the gambling instincts. There were two times I had that feeling in my life. 
+
+Once, I was in a Marine Corps and stationed in 29 Palms, California, which is only two or three hours away from Las Vegas. I'd never been to Las Vegas. I'd never been anywhere. 
+
+And the same feeling is when I walked into a Las Vegas casino. But that was second to the New York Stock Exchange. The gambling mecca of Las Vegas is second to the gambling that goes on every day and to what I did. 
+
+Nothing comes close to that. Nothing. What would you say is the separation then between the gambling and the trading? I'm sure there were traders on the floor who were so emotional that you could call it gambling.
+
+(15:54 - 17:48)
+Then what would separate those from the traders to the gamblers? Profitable trading really boils down to two things, opportunity and volatility. And that is why the podcast has partnered with Market Journal. Because between the years 2016 and 2020, the amount of opportunity that was available, as well as volatility to take advantage of, was at the highest it's ever been. 
+
+And all of that really pointed towards one man, President Donald Trump. During his period in office, all it took was one tweet, and that would present so much volatility and the right traders would take advantage of that and would create their record P&Ls. And that is why those same traders are so excited for this new period between 2025 to 2029 when we have President Donald Trump back in office. 
+
+Now, Market Journal is going to give you the weekly insights you need across crypto, forex, futures and the stock market. So regardless of what happens, whether it's a tweet, a particular stock running up hundreds of percent, whatever volatility and opportunity that Market Journal can identify, it is going to share with you every single week. So you can purely focus on taking advantage of those opportunities and taking advantage of that volatility to create your record P&L. 
+
+Now, Market Journal is absolutely free. All you do is click the link in the description below, put in your email, and you will receive key updates on the markets every single week. So you are always up to date with what's going on and ready to execute when the time is right. 
+
+Links in description below. Thank you for enjoying this episode. Let's take a break for a minute there, guys, because I want to let you know about one of our sponsors. 
+
+Alpha Futures is offering the best one step evaluations in the industry. And in the month of December, they have no activation fees. They have the largest end of day based drawdowns in the entire industry with up to 90% profit split and lightning fast payout speeds and offering advanced and standard accounts to fit your needs.
+
+(17:48 - 21:21)
+Alpha Futures is truly offering the most elite plans for the lowest total cost to entry in the industry. You can start as low as $79. And thanks to the podcast using code RIZ, R I Z, you can get 20% off any of those challenges. 
+
+Go to the link in the description below. And let's get back to the episode. Gamblers take risk. 
+
+I say it to my in my sessions all the time. Folks, we're not here to gamble, okay? We're not here to gamble. If you're in a Las Vegas casino, they don't want you in there if you win 58.9% of the time, okay? They don't want you in there, all right? I take pride in figuring out the nuances that lead to a trading decision, and there are a lot of them, and they change rapidly. 
+
+They don't stay the same. You can go in and gamble in a Las Vegas casino, and you know what the odds are. You know what you're doing. 
+
+You know you have a disadvantage. You're every bet except one in a whole casino where the house does not have an advantage. But I say it all the time. 
+
+I say, look, I'm not here to gamble. I said, don't laugh because I'm dead serious. I'm not here to gamble. 
+
+I am here to make a bet, and I'm here to be on the right side of the percentages of that bet. I said, that's what I do, folks. That's what you're paying me for. 
+
+That's why you're in these sessions, and that's what I do. So what's the difference? I'm not a gambler. I'm not a gambler. 
+
+I'm a technical player that slices and dices everything that goes on a daily basis, on a second-to-second basis. Slices and dices, they can come up with an advantage, at least what I feel is an advantage, and then make the play. In terms of that, though, the differences between when you started your career and you're starting your career as a trader in the pits and within that energy in the room and the other traders in the room, you're able to read the order flow in the room because it's happening there and then in the room, versus today where you're trading from screens remotely. 
+
+If you want to read the order flow, you're using level two charts, for example. You're not really getting that emotion, direct emotion. But as someone with your experience, potentially you're getting that from the actual candlesticks and the way that the moves are printing within the technicals versus what it used to be in the pits. 
+
+Is there similarities that bridge the two? Well, yeah, there is. There is. Again, the specialist system was prominent. 
+
+They dictated the flow. They had the buy and sell orders that were above and below the market on what's called a specialist book. And depending on the level of player you were, i.e. the size of order flow you used to have, when you went into a specific trading crowd, you want to know where the supply and demand is. 
+
+Now, that wasn't public knowledge. But if you were a sizable player and had sizable order flow and you went into a trading stock, they know you meant business. And so they would help you and speak to you about where the order flow was, where was the supply, where was the demand. 
+
+If you had a large buy order, you wanted to know where the supply was and vice versa. So in this day and age, there are different ways to navigate that. And one of them is there's a superdome that we have and display every day on our sessions.
+
+(21:21 - 22:11)
+And it's a superdome. And a lot of the firms offer these domes, but these domes are not. This is a superdome. 
+
+And it shows the size of the order imbalances, depends what bar you're in. But if you're on a NASDAQ bar, it's 3,000 ticks I have set up. And 3,000 ticks will show in a 3,000 tick bar, it will show you the order imbalances with the size, with the sizes. 
+
+So you see. And you see the NASDAQ size coming in and blue imbalance orders in size. And it gives you a little bit of an edge. 
+
+Why? If I see the market shooting up, I mean, I left early today. But if you see the market shooting up, it's at a high, an intraday cycle high, high, high. And you see the superdome light up with blue imbalance orders.
+
+(22:13 - 24:19)
+I'm watching that very closely because I know these buy orders, these buyers here, they're long at the top. So number one, I know that it's going to be a difficult world to really break out if you want to get short. I know that. 
+
+And I do know also that I'm going to be covering my short when these people start to puke if they're wrong. And so that's an edge. And we have a superdome. 
+
+It's expensive. It's not proprietary to us, but we own it. And I don't know anybody else that has this superdome. 
+
+I really don't. So that's relative to the specialist book. And not everybody in my era or eras well before me and after me, for that matter, the specialist book was the Bible. 
+
+Because you don't want to look like an idiot by buying into a large seller that's just slightly above the market and vice versa on the downside. You don't want to sell into a huge buyer. So edges like that, it comes from the experience level. 
+
+And so I think very interesting what you said there in terms of that, like, depending on you and the size that you're sort of fulfilling and essentially your track record, if you will. There's a lot of talk about track record nowadays about traders, you know, trying to acquire them, whether it's to get capital, to prove themselves as traders. But the same happened back in the pit. 
+
+If you didn't have the performance behind you to be able to handle that size, no one was going to give you that size. So for you to be able to get the size that you got, you showed the skill set, the track record to be able to handle it and then continue to perform to this day. 100 percent. 
+
+I mean, that's just the fact of the matter. And, you know, I speak to my I speak to my subscribers all the time about the volume weighted average and, you know, the 80 percent of the order flow that comes down today, the volume weighted average is a huge factor. Why? Because the size of the positions today with the amount of money on the management, you can't have a million share position if you're managing 10 billion dollars or 20 billion.
+
+(24:20 - 24:42)
+Your positions are 20 million shares, 30 million shares. OK. And 80 percent, 80 percent, give or take, it's probably more 80 percent. 
+
+A portfolio manager says, all right, I own XYZ. It's up substantially and they own 20 million shares. I want to take off, you know, 5 percent of that.
+
+(24:42 - 24:57)
+OK, so sell an order, take an order to sell a half a million shares, two million shares, a million shares. And they give it to the trader on a desk and they sell to the trader. Just, you know, go along, beat the volume weighted average.
+
+(24:57 - 25:15)
+80 percent of the orders on these deep pocketed investors and funds have orders that are that are following an algorithm that allows them to stay close to the volume weighted average. Why? The trader doesn't want to be embarrassed. The portfolio manager doesn't really care.
+
+(25:16 - 25:27)
+He's banking money. So he doesn't want he doesn't want anybody playing the market on his dime. He'd rather just know that he's about around the mid price of the stock that it trades for the day.
+
+(25:28 - 26:24)
+But it's a very important factor when you're doing what I do, because where the volume weighted average is, you know, if a new bar comes up on a super superdome, for instance, and the bar is above the volume weighted average, those those orders that are in there following an algorithm on a volume weighted average are buyers. And when it's below the bar, they're sellers. And that's how they keep up. 
+
+It's a balancing act. So. So the VWAP is really, really important. 
+
+My clients, like you, what you just said, which prompted me to speak about this is my clients. I mean, you know, I represented Vanguard and I represented their index funds. So every time a stock went from one S&P to 400 to 500, they, you know, they restricted and they balanced, they had to balance the mathematics out to reflect what their index was.
+
+(26:24 - 29:59)
+And so so my customers, to your point, they didn't give me the order. I could put on an algorithm, too. No, they they they wanted me to trade the order and use my expertise. 
+
+So to your point, that's exactly what took place. And you want to know what? I destroyed the volume weighted average. I destroyed it almost every time. 
+
+Never really got hurt. Played in the market without any algorithms, without any machines, without anything. I mean, I can't tell you the amount of money I made for that index fund. 
+
+A lot of a lot of those people owe me a lot of money. They really do. Their subscribers owe me a lot of money. 
+
+I would tell you that. What was it like, though, going from obviously being a runner to being a clerk to then obviously starting to manage these positions yourself on behalf of your clients as well? But as the size was incrementally getting larger, did you face any sort of psychological issues, any barriers at all? Interesting question. The answer is no. 
+
+Never fazed me one bit. It was all the same to me, whether it was a thousand shares or a million shares. Yeah, I put up so many million share blocks in IBM, you know, they counted on me to price it and to trade out of it. 
+
+So the size never intimidated me at all. It's all relative. I, you know, just ambivalent to it. 
+
+It doesn't mean anything. It's just numbers. And so I just increase the numbers. 
+
+And no, the answer is no to your question. It never affects me at all. I never was intimidated by it. 
+
+And it never affected me. Where do you think that came from? My upbringing in a very tough neighborhood and in a lot of different ways. Drugs, wise guys, a lot of stuff. 
+
+It was a good, nice middle, middle class neighborhood in Queens. But there was a lot of stuff going on, a lot of stuff. And so where did it come from? I, you know, I just my personality, I guess. 
+
+I can't tell you where it came from. Well, what do you think when you see people going through psychological problems when it comes to trading, you know, even if they're handling much lesser size than what you were, for example? Yeah. What do you say to people when you see them or speak to them in that regard? Yeah, I say to them that, number one, they have to know their personality. 
+
+If you have to, you need to know your personality. I said, and I say all the time, don't laugh. Don't laugh when I say that. 
+
+You have to know your personality because your personality dictates the level of tolerance and level of controlling your emotions. And so it's extremely important to be able to manage your emotions in this game. And the way you do that best is to understand your personality. 
+
+Everybody's personality is different. Everybody can risk a certain amount without being not effective any longer. It's extremely important to know your personality. 
+
+It really is. And you have to stay focused, all right? You have to stay focused. What do I do? I give them an example all the time. 
+
+A horse races on a racetrack and a horse does, you know, it's getting beat, getting beat again, getting beat again. A horse, you know, on a warm-up track sets huge numbers and does great. Gets in a race, horse can't do anything. 
+
+And the trainer finally figures out that, wait a minute, the horse is getting distracted by looking peripherally. So what do they do? They put what they call blinders on them. And so the blinders make the horse look straight ahead.
+
+(29:59 - 30:18)
+And that's an example I give my people all the time. Stay focused, man. Because that is an interesting point. 
+
+A lot of people are so focused on the wrong things rather than what actually will make them into a better trader. Correct. Like, obviously trading in the pits is far different than, say, trading on your own, especially as a retail trader.
+
+(30:19 - 34:45)
+And as part of that, a lot of traders will need, like, trading plans, right? They'll need their systems that they follow in order to create their edge in the market. What have you, what can you speak on in terms of, like, trading plans, maybe outside of the trading floor era, I guess? Yeah. Well, I had to go through that. 
+
+I really had to go through that because I had no experience trading, you know, in front of screens until after I left. And so what can I speak to that? You know, people have to understand that what's good for one trader is not good for another trader. What one trader looks at, another trader looks at something different. 
+
+So you have to understand that this game is wide in scope. It is wide in scope. And so, you know, manage your trades, protect your money, protect your investment with stop orders. 
+
+But know what your limitations are with that. Know what your limitations are. I don't think I answered your question. 
+
+No, you did in terms of your trading plan. As you said, every trader is different, so it's not going to be fixed, of course. I think the benefit of trading is that there are so many options of how to do it successfully. 
+
+Equally, I feel like a lot of people think of that and then they start trying everything and therefore they find themselves very scattered as a trader versus, as you said earlier, focus on and know your personality. So if you combine those two, that's where you can start to probably really build that trading plan out. No, it's true. 
+
+It's true. And, you know, simplicity is best. And I refer to this a lot. 
+
+And, you know, and I say, keep it simple. You don't need all these things. You don't need all these. 
+
+Don't get carried away. When you start flipping around from one way to trade to another way to trade, one chart, another chart, one, you know, one technical area, another technical area, you know, one Keltner channel. I said, whoa, you know, it's too much. 
+
+You're confusing yourself. And, you know, I can delineate that, but you can't. You can't. 
+
+And that's going to retard your growth by exposing yourself to too much. It's OK to get to an area. You know, I had only two monitors, but I got to an area. 
+
+You get to the area, but you need to conquer simplicity first or you're going to retard your growth, like I just said. And you're going to it's going to it's going to stall your journey. This is a journey. 
+
+Well, that's where a lot of people find themselves, I think, is that they find themselves in this boom and bust cycle where they're just they're not losing. They're not winning. They're just going along sideways for a long chunk of their time. 
+
+And a lot of the time they're not really trying to learn or to be fair, on the flip side, they're learning too much and trying to overcomplicate things. Correct. Because they think that's a quicker way to get to where they want to be. 
+
+And they're wrong. What would you say in terms of people trying to manage larger capital? What is it that you've noticed? You know, because obviously you were handling large size, but I'm sure there are other players around you who you also recognize were handling large size, too. What were the common traits among those people? That's an interesting question. 
+
+The common traits were keeping you cool, keeping you focused, not getting flustered, holding, controlling your emotions. Do your best not to get swept away in an emotional situation. And there were many, many, many, many. 
+
+And those people were able to keep their cool, keep their focus. All right. You know, baseball player Andy Pennant, New York Yankees. 
+
+It always stuck me even when I was a kid watching this. His hat was bent downwards and bent in a way where he could only look forward. It's the same example. 
+
+It's a simple example. But that's the kind of focus that you need. And so the people that were competent people knew were not intimidated by the size of the order flow, were straightforward, honest people who stated their case. 
+
+All right. Listen, man, I'm going to buy a million shares of stock here, OK? Tell me where the supply is. Tell me now.
+
+(34:46 - 36:17)
+I'm putting up a block of a million, a million one eight IBM right now. Don't anybody leave the crowd. Stay here. 
+
+Tell me what your interest is now. All right. Customer A, customer B, customer B, this guy represent that. 
+
+But the people were straightforward and stated their case at the time. You put the block together and you slapped it on a tape. All right. 
+
+And those are the people that impressed me growing up. And those are the people that I learned from as well. Growing up, people like that. 
+
+Is there ever any sense of like missing those times? Because obviously that energy must have been so contagious, so almost addictive to some degree, no doubt. And to not be in that environment anymore, even after even if it's been some time, do you ever miss those days and that sort of flow? Let's take a break for a minute there, guys. I want to tell you about one of our sponsors, Alpha Capital. 
+
+Now, without our sponsors, it's not possible for us to host such incredible podcasts around the world and get the level of guests that we are getting. So again, thanks to Alpha Capital for sponsoring the podcast. Now, Alpha Capital is one of the best prop firms in the industry. 
+
+So far this year alone, they have done over $50 million in payouts, which is absolutely incredible. They have the very best infrastructure in place for longevity from an in-house broker so they can offer the very best trading conditions and platforms that all traders love to use. They're still able to offer services to the U.S. as well, so the U.S. traders can still trade with them on particular platforms.
+
+(36:17 - 36:49)
+They have institutional experience, so they know how to manage a prop firm correctly and have such an incredible team on hand, on top of which they have both a pro and swing plan. So depending on your style and strategy, you can choose which one is best for you. Now you can use and get the highest discount available at anywhere using RIS25. 
+
+So that's R-I-S-25 for 25% off all challenges. The link's in the description below. So let's get back to the episode.
+
+(36:49 - 37:04)
+You know, I mean, it was the greatest education one could ever get. You know, I consider myself blessed and very lucky that I found my way there. I had no idea, trust me, none whatsoever.
+
+(37:06 - 37:48)
+But looking back at it now, you know, been there, fine, another aspect of my life. I didn't expect to start LPQ trades. I did not expect it. 
+
+I was trading my own money, like I said earlier. I did not expect to start a trading room. I did not expect to probably start a hedge fund by the end of the year. 
+
+I did not expect any of it. I'm not the retiring type. I'm just not. 
+
+So I'm occupied, is the answer to your question. Do I miss that? No. Do I treasure it? Oh my God, do I ever treasure it? Again, I will tell you, you can bundle together all the great colleges of the world and you could not get the education of growing up in those times that I grew up.
+
+(37:49 - 40:09)
+You could not. Experience is king, as they say, because even just when I look at, you know, footage nowadays, it's really just footage or stock photos of those times. And you see it, and a lot of the time, maybe slightly dramatized with some music or whatever it may be, but you still see it and you think, wow, that must have been like chaos. 
+
+That must have been crazy to trade. And then when you speak to the traders like yourselves, you learn a whole nother level of, of perception that's actually going on in those moments. It is chaos, but it's very organized chaos. 
+
+It's very, as you say, educational to be in those moments because you're learning and picking up on so much that today's traders, they don't get that same sense, right? They're learning and it's not a negative thing necessarily, but they're learning just from the charts normally by themselves in their, in their office or at home, wherever it may be, but they very rarely know other traders. But in that environment, the only way to really know a trader is to then actually be in the room with all the traders. Bingo. 
+
+I mean, you just hit it on a head. That's exactly right. And again, and a reason why I started this room is because I replicated a Wall Street trading room. 
+
+You know, when I sold my broker dealers, I went to a hedge fund friend that were customers of mine, pretty big name, by the way. And they said, you know, come on in, you know, blah, blah, blah. I went in and they offered me and they say, Richard, we don't understand. 
+
+You don't need to give us 30 or 40% of your P&L because we're giving you extra money to trade. But we know you don't need that. I said, that's correct. 
+
+Why are you doing it? The chairman of the company. Why do you want to sit in this hedge fund? Because I want to be in a trading room environment. So there you go. 
+
+And that is a freaking letter of the law. All right. I never went there, but I started doing what I'm doing. 
+
+And now I hate to keep repeating myself, but I, you know, you, you hit on a head. What I can bring to people with the experience level is unparalleled. So I tell my people, I said, this room is a replication of a Wall Street trading room. 
+
+There are three master traders here comparing ideas during the whole session. So that's what we're giving you. And that is head and shoulders above anything out there.
+
+(40:10 - 44:43)
+And nowadays you are trading futures, right? Trading futures. I can trade anything, man. Doesn't matter. 
+
+I choose to trade futures. What is it about the futures market that got you sort of focused on it? The future markets are liquidity and volatility. All right. 
+
+The liquidity is paramount. The volatility is paramount. The other thing is that the market, the stock market is based on hope. 
+
+Everything is based on hope. Hope. You know, Apple's getting killed. 
+
+Apple doesn't have any growth. Where's the growth coming from, Apple? China's shutting them out there. China's like, you're not selling your phones here anymore or whatever, blah, blah, blah. 
+
+They come out with their earnings. Now everybody knows, I know, that their earnings were going to be bad. Okay. 
+
+They're not good. They were not going to be good. So what, what, what do they do? They give their investors hope on a conference call. 
+
+What's the hope? We're going to, we authorize a buyback of $110 billion. That's the hope. Hope. 
+
+Elon Musk. Earnings bad. You know, two, three year earnings ago. 
+
+Earnings bad. Stock is $150. What did he do? He gave them hope. 
+
+What was the hope? His robotics game. Robotics. Stock is $250 now. 
+
+I mean, $290. I don't know where. It's $290 yesterday. 
+
+Gave them hope. So the future market gives you hope. It also helps you stay focused on the stock market. 
+
+How does it stay focused? I have, one of my monitors has three one-minute charts up. The ES, the NQ, and the YM. And they all have micro and mini contracts. 
+
+So 10 to 1 usually. All right. 10 to 1. So these, nothing, nothing. 
+
+They're one-minute charts overlaid by technical areas, 9 EMA, and the volume weighted average. Nothing can take place in a marketplace without those three, rather than being reflected in those three charts. Because it's a bet on hope and it's a bet on a future. 
+
+And when you can get into a contract like that and turn 20, 30, 40 handles in a NASDAQ by picking off a divergence from one to the other, future markets are the place to be. I mean, I, and the other thing is, the other thing is, how much money are you going to invest to make $0.50 on Microsoft at $350 a share? How much do you have to invest? You know, LPQ stands for limited exposure, L. Limited exposure. I mean it. 
+
+I put on three trades yesterday. I put on three trades this morning before I left. One was $450 at 23 seconds. 
+
+One was $300 at six seconds, because I'm able to take advantage of what they've given me and keep printing the money, man. That's what we do. And you can, the liquidity, I'm sorry, but the liquidity in the future market allows you to do that. 
+
+You want to pay up a nickel for to buy Microsoft at $350 a share, or any of these other wild names? How long are you going to stick around if you're a day trader? You don't have the capital to do it. You mentioned earlier in terms of algorithms, and you gave a good description in terms of your medium, your low, your high. You're looking at the orders at these points as well. 
+
+And I've heard you previously, you've had a very viral video that went around. I remember on Twitter, like millions of views in regards to algorithms, talking about discounted prices, premium levels, and then the algorithms hunting these buy stops, sell stops. Can you speak more in terms of the intricacies and sort of where the knowledge comes from? Again, IBM was 19.78% of the S&P. 
+
+So that ES contract, my eyes were peeled on it. It also touched off buy and sell programs. So I started focusing on the algorithms a very long time ago as my order flow was touching off buy and sell programs at will. 
+
+It wasn't my will. I was an agent. I had to do with the order. 
+
+Listen, I had complete discretion over my order flow at 90% of the time. That's what my customers paid me for, as I mentioned earlier, regarding clients. So the order flow just came and the focus on the ES contract just came.
+
+(44:43 - 45:15)
+And therefore, with that being said, the algorithms come into play. Algorithms fuel the high frequency traders. Algorithms, and there's a video out there on this, and this is really, everybody should just go find that one because it really does describe. 
+
+Algorithms are there to create volatility and liquidity. They want volatility. They want volatility to create liquidity.
+
+(45:16 - 49:52)
+How does that work? Market's coming down to a major technical area. We put out technical areas every day, six o'clock in the morning. Major technical areas that one should be aware of. 
+
+Technical areas are borders. They're borders. Nothing is the end all or be all. 
+
+When an algorithm, a perfect example of algorithms, what they do. All right, technical area here. Markets are getting killed. 
+
+Boom, boom, boom, boom. Looks like it's resting here. Not going to rest there. 
+
+The algorithms are going to come in here and touch that technical area, which is usually a discount area. And they're going to come and touch that off. Two reasons. 
+
+Number one, they want to trap one of the trades that lose money 85, 90% of the time is when you sell a failed breakdown. Sell a failed breakdown. Those algorithms know that. 
+
+And by the way, what broke me through on the algorithms to make that video was discovering that, listen, ladies and gentlemen, algorithms may be mathematical equations generated by a code. Yeah. But they're written by a programmer and they have to be written to go somewhere. 
+
+OK, where are they written to go? These technical areas that we're putting out, that's a good example of where they're going to go if the situation arises. So what happens? Let's go back. Market comes down. 
+
+Market comes down. Market comes down. Stops here. 
+
+Market looks like it's firming up. Those algorithms are going to that as sure as we're having this conversation. There's no doubt why they want to do it again. 
+
+They want to shake out the longs and they want to get people short because at that point, it looks like the market's going to fall out of bed. What happens? Market stops. Market stops. 
+
+Market starts going up. The shorts have to cover and the longs are so, they knew, they realized they've been had and they were right on the long side. And what do they do? They jump on a bear wagon too. 
+
+And what do the smart people do that are on the bottom of these algorithms that are scooping this stuff up? They're feeding into these people that missed the market and have made bad sales. That's what algorithms do. And there's a way to look at these and it's a way to track them. 
+
+And we do it every day, hundreds of times. I'm not sure. Are you aware that in the retail space is a very large community of traders who follow, say, a mentor, if you will, who describes himself as someone who has like coded the algorithm or coded a algorithm and therefore teaches concepts that are supposed to help you decipher this algorithm. 
+
+And, you know, they get very fixated on essentially having concepts that literally can allow them to sort of decipher the algorithm in the markets. My answer to that, my question to that is, do they trade their own money based on their methodology? That's my answer. That's my question to them. 
+
+If they don't, I don't trust it because what we do, I can, I don't want to say guarantee, I don't like the word, but I know our methodology and there's nobody, there's nobody better on picking it off because I helped define it. And it's that simple. All right. 
+
+Everybody know what a bar chart comes down and one bar charts right in front of the other and there's a little space between them. It's because the algorithms are piling in, are piling in that area and it's wherever the direction that bar is going, it's going down lower. Those are algorithms. 
+
+But it's the mentality. It is really the mentality. It's known where the premium area is. 
+
+It's known where the discount area is. It's known where the gaps are. Algorithms will always come back and fill gaps. 
+
+That was one of my trades this morning. All right. I bought, I bought the, what did I buy? I don't know what. 
+
+I bought the Nasdaq. I bought Nasdaq. I bought NQ this morning because at 9.26 or whatever it was, the, the, there was, I like to call it a pre-market mini puke. 
+
+And I look for an opportunity there when it, when it does that. But what I, what I saw was I saw a gap here and you know, gap, what is a gap? A gap is a market comes up, market comes up, all of a sudden it shoots up. There's a gap.
+
+(49:53 - 55:28)
+Algorithms love to come back to those gaps. Same scenario, same, same instance I just gave. They'll come down here, down here. 
+
+The gap is here, down here, down here. Most of the time, you know, 50% of that gap is filled, if not all of it. And you know, that's it. 
+
+I took a long one. It hit that gap. And you know, I mean, it was about an eight second trade and I don't care where it goes after that, folks. 
+
+I really don't. Take what the market gives you. Don't turn your nose up at what the market gives you, especially if you can turn over that kind of money in six seconds. 
+
+So more so for you, it's following the algorithm, but just taking what the algorithm, you know, no matter even if it's a few seconds, a few minutes, wherever that play may be, that's the edge. Would you say the algorithm is designed for efficiency? Is that what it's designed for? Let's take a break for a minute there, guys, because I want to tell you about our sponsor, TradeZella. TradeZella is the number one trading tool for all traders. 
+
+It doesn't matter whether you're a crypto trader, a futures trader, or a forex trader, whatever trader you are, all you do is connect your trading platform directly with TradeZella. It automates and makes your trading journaling so easy. If you want to be a profitable trader, you need Trading Edge, and that is exactly what TradeZella does. 
+
+It allows you to identify edge, maintain your edge, and optimize your edge by automating your trade journaling, in-depth analytics, backtesting, bar replay, and so much more. Now, WOR gets you 20% off your yearly subscription with TradeZella, so use WOR for 20% off your yearly subscription, or RISC-10 for 10% off your monthly subscription. The link is in the description below. 
+
+Now, let's get back to this episode. The algorithms are designed to create volatility and liquidity. They want the fractions moving, and high-frequency traders live for this. 
+
+They live for that because they can get in the middle of all trades, especially for the retailers, especially if you're with a broker that says you're not paying any commissions, you know, free brokerage, check your pockets with that one, because, you know, your order flow is being sold. Because where would they make their capital then? Where would they? The brokers, if they're doing free commissions, they won't be making anything unless, as you say, the order flow or the data, whoever it may be. Correct. 
+
+What would you say in terms of common pitfalls that you see amongst retail traders of today? Yeah. You know, as we discussed that a lot of the time, they are just by themselves. At most, they have a community or some sort of trader room that they're part of. 
+
+But at the end of the day, they still are by themselves for the majority of the time. What pitfalls do you recognize within these traders? They don't know how to protect themselves. You need to know what you're willing to risk on a trade. 
+
+If you're lucky enough to be green on a day, you don't want to be in a position to give it back. And so you want to set a limit to what you're willing to give up of those profits on a given day. And in certain situations, you know, they ask me all the time, they ask me, you know, where would you put your stop on this particular trade? And I say, I don't have any specific area. 
+
+It's relative to where I am on a particular day and where I am relative to where the market is on that particular day. For instance, for instance, if I'm going to, if I'm buying, if I see strong, strong, strong, and I see a divergence with the Nasdaq trail in the YM, which is another trade I made this morning, Nasdaq trail in the YM. And I know the Nasdaq is coming up and I know the Nasdaq is coming up. 
+
+And I know I'm long. All right. And I make my profit. 
+
+And then I see the Nasdaq continue to go up. And I also see the technical area, a huge resistance area, a major resistance area right here on a market that's up pretty good during the day. All right. 
+
+If I want to short this here, I know that if it goes higher from there, it's going much higher. But if I want to play in case it's the top of the market, intraday, intracycle, whatever, I know I can protect that down three or four handles. Because, yeah, I can protect that three or four handles down. 
+
+If I'm long, it means they're taking it right up. And if I'm right, I'm covered. So, you know, and I put that the opposite way. 
+
+But if I'm short here and I want to protect it going to a level, I'm going to protect it up four handles. All right. You know, 100 bucks, 200 bucks, whatever it is, I know I'm protected because I know that if it's going through this area here, it's going through. 
+
+But I have a chance to hit a double and maybe even more than that, because I know that this technical area is major resistance. So just accepting the fact that, OK, at this level, the risk to reward makes sense. Right. 
+
+Because if the price does break through there and it hits my stop loss, whatever I've set, it's going to go anyway. But if not, the reward of this trade could be huge. 100 percent. 
+
+That's the kind of situation. So the question is relative about where to place your stops. There is no one place to place a stop, ladies and gentlemen. 
+
+The important thing is for retail traders is to place a stop. Whatever your tolerance is relative to the size of your account. That's the important thing. 
+
+Place a stop. Always do not leave yourself naked. Do not.
+
+(55:29 - 57:40)
+You know, you must protect your money and you must P as in L P Q prevent blow ups. Why? I just made up these names. I made up the names. 
+
+P prevent blow ups. Master trader, any master trader, all your experience in the world, in life or whatever it is, they will tell you prevent blow ups. Prevent blow ups. 
+
+You know, once you blow up, you blow up your account, you blow yourself up. You know, we help people pass apex accounts and people don't know how to do it. They roll the dice. 
+
+Yeah, I'm going all in. I'm going all in. Yeah. 
+
+Pay another whatever it is. Pay another fee. Pay another fee. 
+
+Pay another fee. You don't do that. You know, you you build up small with those people and you build up small and you build up small and stay under the radar until you're getting ready to get paid. 
+
+OK, what are your thoughts in terms of that? Like these prop firms or they're not the traditional prop firms that were truly around, but the new evaluation firms have entered the futures market. We're seeing a lot more into the futures market now. I just said, you know, people who trade them. 
+
+Yeah. Now, what are your thoughts on them being? It's such a wild different sort of product that has been around previously. But yet there is huge benefits to undercapitalized traders, too. 
+
+So what are your thoughts on them? Yeah, I mean, you're referring to funded broker dealers that fund accounts. Yeah. Pay a fee and you get a quarter million dollars or whatever it is. 
+
+Yeah. Check your pockets. That's my feeling. 
+
+If you really want to know, check your pockets. There's been a number of situations. I trade three different accounts and there's a number. 
+
+And I always keep that one around, too, because I'm trading anyway. What's the difference? If it costs me 40 dollars to have a third or fourth account, I'm going to spend 40 dollars. You know, I'm wheeling around hundreds, hundreds of thousands of dollars. 
+
+I want to give myself the best chance. So I've been in a couple of situations where I was about to hurt these people, hurt them, pass the test. All right. 
+
+Last week alone, it was an eighteen thousand dollar swing in an account where I had them. All right. I bet against an earnings report.
+
+(57:40 - 58:04)
+I was short the Nasdaq based on based on whatever Magnificent Seven stock reported. I don't remember. Maybe Meta or maybe Amazon. 
+
+I don't know. I think it was Meta. Soon I was up. 
+
+The Nasdaq puked. The Nasdaq puked. I was short 10 NQ contracts.
+
+(58:04 - 58:23)
+10 in a funded in a funding account. And the profit went to, I don't know what, 15, 18 thousand dollars. OK, certainly way past the amount of money you need to pass an account and get paid.
+
+(58:23 - 58:36)
+What happened? My system froze. They wouldn't allow me to take the trade off. I said, what? What are you talking about? And then what happened was the trade went the other way.
+
+(58:37 - 1:01:28)
+And blew up my account. Well, I went crazy. I just went crazy. 
+
+And I said, oh, well, we're sorry. We can't do anything. I said, oh, yeah. 
+
+I said, listen, the SEC is going to be very happy to hear about this. I said in the timing of this, this happened to two of my friends. And the timing of this does not sit well with me. 
+
+So I would suggest and they reinstated my account. But I don't like those firms. I don't trust them. 
+
+That's the answer to your question. In terms of the changes we see within the industry, we see a lot of traders stepping in, especially since Covid. We've seen so many people become traders. 
+
+What are your thoughts in general around trading? Do you feel like anyone should give trading a try if they're interested? Or do you think that trading is really for those who have the personality traits and I would say passion for the actual markets rather than just making money? Yeah. You know, it comes down to who you're going to listen to, who is going to be your mentor. I know what I bring to the table. 
+
+I know I want to help people, my group. We want to help people. The money is good and all that stuff. 
+
+But first and foremost, I want to help people. Well, listen, a drug company could come up with a drug to to, you know, help sick people with a certain disease. And that's good. 
+
+But it's only a small percentage of the population, relatively speaking. But what we're talking about here, you know, the potential of how many people you could add and help. But in this day and age where people are paying a lot of money for groceries and gas and rent and insurance and so on and so forth, and people are living paycheck to paycheck and people are paying 23 percent juice to credit card companies that maintain their standard of living. 
+
+OK, that's worse than you would pay a bookmaker in a neighborhood. I grew up to borrow money. Shylock, as you would call them. 
+
+I mean, it's unbelievable. So people are getting hurt. And I'm really my group. 
+
+One of the main reasons I started this company is to help people augment their incomes, show them how to make two or three hundred dollars a week. That's nothing. It's nothing. 
+
+So I think if you're with the right person and with the right group. Yes. Yes. 
+
+Who can cut out reading a novel and, you know, go to the library. I'm going to really, you know, nice to be able to have that sense. Go to the library and read every book you can on economics and and trading and this and that. 
+
+But man, it's the that means everything, because what I could say to these people at one specific time and one particular instance could help them for the rest of their lives. And that's what gets my juices going. And the people that are with me.
+
+(1:01:29 - 1:04:12)
+A big debate that seems you mentioned time, that's actually very interesting. A big debate that's been happening at the moment is between time and price are both important is one more significant than the other. I've had ex-institutional traders saying that time is irrelevant. 
+
+It's all about price and when price meets certain levels, that's all that matters. Where I've had other people on the podcast where they say time is the most crucial factor and that when you trade specific time windows, that's when that's the optimal time to trade and anything outside of that is not optimal and shouldn't be traded. What are your thoughts from your experience is time and price just as important as each other? Is anything that more prevalent than the other? Yeah, I mean, the market has a different personality every day. 
+
+OK, I've seen it all. All right. I don't I hear people say that all the time. 
+
+I only trade between the hours of nine and eleven or I trade. I don't trade in the afternoon anymore. I don't do that. 
+
+So I don't trade on news or I don't trade at the opening or I don't. I wait to 945. I don't get any of that myself. 
+
+I don't get it. You want to if you consider yourself a trader, you should you don't give in to not trading. You give you do not. 
+
+You apprise the situation and look at the opportunity. Now, you may have a pension. It may be mental. 
+
+I don't know. And that may be suit suit some people. But I don't close out any time frame when or when not to trade. 
+
+All right. If I looked at my trades over the course of a couple of years, I'm sure there'll be pockets of times when I was more successful. But it doesn't deter me from trading the market from 8 a.m. or even 6 a.m. sometimes until until the market close closes. 
+
+So, you know, and the timing of anything is always about the entry. It's always about the entry is always about the timing of the entry. All right. 
+
+And, you know, I talk about scalp trading with these things that these trades that take that took me six seconds, 20 seconds, 18 seconds. This is all fact. Constantly, constantly, because I'm able to pick out this info, this divergence in a market where I know I can print money. 
+
+All right. And it may still go up after I sell it. I don't care about that. 
+
+But it's a timing of the execute. It's a timing of the entry. And when you're trading with this mindset. 
+
+I say it all the time when you're trading with this mindset, you can you know, it's a difference between it's a difference in your P&L, because if you if you if you're paying up and by the way, retail traders don't chase. If you miss the entry level where you want to purchase, don't chase a lot of a lot of retail traders. They may they all make the same mistake.
+
+(1:04:12 - 1:04:17)
+You know, they say, oh, man, I didn't buy it. I didn't buy it. Meanwhile, it's up, whatever.
+
+(1:04:17 - 1:06:19)
+And they're buying it here. They're chasing. Well, you know, you just made this thing quadruple difficult for you to make money. 
+
+But if your entry, the time of your entry is where it's supposed to be, man, that is the difference between you making four handles or five handles or seven handles or eight handles. That's the difference. That pays the bills that pays the commissions and so on and so forth. 
+
+So, you know, the timing, the timing of the entry is really is really everything. Yeah. So that making sure that you are there to strike and how important is it, though, to be prepared for that? You know, so like a lot of people, they don't have a strict routine for their trading, for example, one day they'll turn up one day they won't. 
+
+Of course, a lot of these people are in that boom and bust or not profitable stage, unfortunately. So that's why, you know, as part of the podcast, we're just trying to educate and show showcase, you know, profitable traders and what they do. Is that something that is important to a profitable trader to making sure that they're consistently turning up so that if the time does arise, they're there to strike and not just essentially miss an opportunity just because of laziness or just not being prepared? Yeah. 
+
+I mean, you have to be prepared. I mean, you this is no this is no sprint this game. It is a marathon. 
+
+And you need to give you if you really want to do this and try to make a living or augment your income by by trading, you need to put in the time. OK, and it's OK. And, you know, putting in the time helps your confidence and confidence is the whole thing. 
+
+You've got to feel loose that you could do this and you can do this. But there's no easy way to do it. Anybody can roll the dice and get lucky. 
+
+But we're not talking about that. We're talking about consistently making money. So what are your thoughts about journaling trades? I know I've seen the pits journaling trades as an individual, as the trader themselves would be difficult because you're managing the flow all that day. 
+
+But you have, I believe, clerks and people who would track them for you and afterwards you would evaluate what trades have been processed, etc. Then you find your carry trades. And as you said, like days later, you'd find out about those.
+
+(1:06:20 - 1:06:45)
+But now, like as you've stepped away from there, how important has it been to journal your trades and keep track of your personal? A hundred percent. OK, a hundred percent. You need to look at your trades. 
+
+You need to learn from your trades. You know, it's one thing to see a profit and a loss, but it's another thing to see how you got there. And you will remember your trades as you're going over them. 
+
+You will remember. You will remember the prices. You will remember the circumstances.
+
+(1:06:45 - 1:07:42)
+You will remember. OK, you when you're journaling your trades, you don't want, you know, I hear people say, well, I'm 90 percent accurate. I'm not 90 percent accurate. 
+
+OK, great. That's that's great. But that doesn't mean anything. 
+
+I'd rather be 65, 70 percent accurate, because when you look at your journal, you know, some of the best trades you will make, some of the best trades your retailers will make, retail traders will make will be losing trades. They will be losing trades. OK, why? OK, you see something, you know, everything clicks in your head. 
+
+You whatever reason you get long here, you're wrong. And you and the earlier you see that you're wrong and you're willing to pull the trigger and take that trade off, you want to see that in your journal. And that kind of stuff is not going to promote 90 percent. 
+
+If you're at 90 percent, you're not seeing that. And you're at 90 percent. You're never going to be able to do that consistently.
+
+(1:07:42 - 1:07:53)
+You want to be at 65, 70 percent. What does it mean? It means that you cut losses on trades and it means that your road win is longer. That's what you want to see in your journal.
+
+(1:07:55 - 1:09:06)
+In terms of I've heard you talk on before, instead of having a single entry that you should be averaging into your entries instead. And is that more so in terms of if the market is going against you or do you mean once the market is showing you its hand and it's working in your favor, then you should be scaling in? Both. Both. 
+
+So what you don't want to do is you don't want to use up all your ammunition when you're initiating a trade. I never do it. That puts pressure on yourself to be right immediately. 
+
+You know, sometimes you are right immediately. Sometimes you feel no pain in a trade. That's wonderful. 
+
+It doesn't happen like that all the time. So, you know, you don't want to bunch together positions if you're going to average. Of course, you're not doing yourself a favor. 
+
+If you buy something at 50, you don't want to buy it at 49 because that's bringing your average down a half, two ticks. You don't want to do that. You're not accomplishing anything. 
+
+Why? Because you just used up another 50 percent or whatever you used up. You doubled your money. You may have more buying power, but you're clumped together.
+
+(1:09:07 - 1:09:34)
+Okay. You want to stretch that out. You want to bring that down to 45. 
+
+So now you're talking 47 and a half. You don't want to bunch together, but you don't want single entries because single entries will burn you every time. It will burn you every time. 
+
+But don't clump together. When you average it down and you want to average down to your initial position, don't clump it together. Let it spread out, especially in a NASDAQ.
+
+(1:09:34 - 1:10:05)
+You know, I don't maybe 10 to 20 handles. I don't average down in a NASDAQ. This morning, it was much more than that during some of these sessions where I was long 20 or 30 NQ futures. 
+
+Okay. Because, man, they kept coming down. And if you have the bank to do it, as it comes down lower and lower, you want to increase your size. 
+
+You don't want to buy one. If you're long four, you want to buy four to eight. And that brings your price way down.
+
+(1:10:06 - 1:13:27)
+And that helps you feed in when the market turns. And the market always turns for day trading purposes. It may not trade for, you know, to ride off into the sunset, but it will turn around and it will allow you to feed into a rally. 
+
+But if you're only buying one or two down, you're not bringing your price down enough. It's going to make it too difficult. So you have to close your eyes and buy them if you want to do it right. 
+
+What are your thoughts on market cycles? Because you've been through your fair few, you know, you've got your 87, you've got your dot com, you've got your 2008. You had obviously your COVID crash recently as well. Then last on Monday of this week, sorry, not even last Monday, August 5th is August 9th as of today. 
+
+And yeah, like on August 5th, we saw the market open up. We saw markets across the board red and selling off very aggressively, emotions extremely high. And yet we bounced back and actually, you know, printed new highs from those lows. 
+
+Amazing. You know, what can you speak on in terms of like recognizing the emotions, any sort of common traits amongst these volatile market conditions that come in from time to time? And any of the biggest mistakes that traders make when these moments happen? Yeah. Well, if the volatility is on a downside, as I mentioned earlier, one of the biggest failed trades is and sometimes you could do it. 
+
+But but vast majority of times, you know, you can't get away with it. And that's selling failed breakdowns or buying failed breakouts. OK, markets going crazy, going crazy, going crazy. 
+
+I mean, sometimes I will go crazy when I recognize that they're out of control by the various components that I look at and I realize they're out of control and I'll just hit that buy button and I'll just keep riding it. All right. And I'll just start flipping out as they as they come up. 
+
+But, you know, you can just recognize the emotions. You can recognize the emotions by the way the tape is moving. You can recognize the emotions, you know, you know, you know, by the technical areas that are being invaded by algorithms. 
+
+You could recognize it. And and, you know, when, you know, the market is out of control, I have a couple hundred, one hundred and fifty two hundred names. That's a watch list. 
+
+It's a customized watch list. It's a watch list, whatever the banks, the oil stocks, you know, the semis on and on and on. And I got a really good sense when all these things are puking in the same time at the same time and the volume picking up as such. 
+
+Of course, I always monitor the volume bars. I mean, you just know that the emotions are running high and that gets my juices going, because the emotions running high, you know, people make mistakes and all the folks out there, retail traders are probably in that group that makes mistakes. And, you know, for instance, you know, up, up, up, up market, everybody's having a grand old time by the by the market goes up, make money. 
+
+Oh, this is great. You know, a cab driver is talking about it up, up, up, up, up, up. OK, but they don't know how to handle down, down, down, down, down. 
+
+And there's less sophistication and down, down, down. And they make more mistakes and down, down, down. All right.
+
+(1:13:28 - 1:13:33)
+They'll sell at the bottom. And that's what they do. And that's the emotions.
+
+(1:13:34 - 1:18:17)
+How interesting has it been to recognize that over the last 60 years or coming up to 60 years of your career, the mistakes that traders make and the things that make traders be unprofitable are still the same? A hundred percent. That's no true statement was ever made. You can beat their head against the wall. 
+
+You can do anything they want. And they'll still make the same mistakes over and over again. And part of it is because new traders come into the fray and they're at a different stage and make mistakes. 
+
+Maybe the people that started this two or three years ago have advanced somewhat, but they'll still make the same mistakes. But collectively, as new traders come in and everybody wants to be a trader, the new traders come in, you know, as an average, they still make the same freaking mistakes. It's amazing. 
+
+Has trading always been sort of this allure, this this thing that people have always been interested in? Yeah, I absolutely, absolutely. You know, you know, I mean, I don't live in New York anymore, but everything I do is in New York. And, you know, people ask me, I just came over from a, doesn't matter, from a doctor and just normal stuff. 
+
+And, oh, man, give me, give me, give me a thing. I'm a, you know, a cardiologist nurse, a nurse practitioner. Oh, really? Give me, I want you to give me, give me, give me your, give me your email address. 
+
+Give me the, you know. So, yeah, the answer is, yeah, it's true. It's true. 
+
+People feel like they're missing a boat, number one. Number two, people are looking to augment their income because of the reasons we stated earlier. So one thing that did come out after August 5th as well, around that same time, earlier this week, was that Warren Buffett, Berkshire Hathaway, sitting on the most cash and they sold a huge portion, billions of dollars worth of Apple shares. 
+
+You know, these sort of traits that you've recognized previously when, you know, things are all time highs, you start to see these huge funds start to liquidate their shares and start to sit on cash. I know there's a lot of talk of potential recession and market downturn. We're currently in election years across multiple, not just the US, but UK just had an election. 
+
+France just had an election. When these things have happened in the past, what are the common occurrences that usually take place? Yeah. Well, you know, usually in election years, they'll buy the market in the last two months of the year. 
+
+You have tax selling at the end of the year as well. That's another famous play that I always made. I always specialized in, you know, stocks that have gotten beaten up, gotten beaten up during the year, down 30, 40 percent in an up year. 
+
+All right. Those stocks are going to be sold and replaced in a new year. So, I mean, that's a play. 
+
+To be fair, it's been a play or been in talk, should I say, and whispers of it for many years now since before COVID. COVID, we had that crash, which sort of instigated it being that the COVID and coronavirus instigated the crash. They turned the money printer on. 
+
+Interest rates were down at pretty much near zero. Everything turned back up, all new time highs. And now it seems like we're starting to stagnate again. 
+
+You know, we've got interest rates risen, inflation, all time highs. We've got a lot of wars across the world. We've got a lot of political distress as well. 
+
+And it seems like there's something on the horizon. There's a lot of talks of the US dollar collapsing and the end of that empire. What are your thoughts after being in the markets for so long and seeing different rises and falls from different stocks, for example, and different sectors of stocks? Like right now, we're in AI tech sector and the boom there. 
+
+Is anything worrying to you when you look at these markets? I mean, yeah, absolutely. That's why you saw the last three or four days doing what it did after it made a high. A couple of weeks ago, it made an all-time high. 
+
+You're not talking a long time here. Warren Buffett, that's what smart people, deep pocketed investors do. They're sitting there with cash, they buy at bottom, and then they start peeling off millions of shares in a questionable environment, which is what he does. 
+
+And no, I assumed he was doing that. I didn't have to read it to tell you the truth. And it doesn't really mean anything that he's doing it because I assumed he was doing it because that's what smart people do. 
+
+When they're throwing it out the window, smart people are there to catch it. And when they're coming up the other way, smart people are there to let it happen. So when was he doing this? At the height, near the height of the market. 
+
+Does it matter to him? Is the market going up another 20%, 10% in his face? Probably not. Probably not. Was it going up another 5%? Maybe.
+
+(1:18:18 - 1:19:04)
+But it doesn't matter to him. He's printing money by liquidating these positions. One of the smartest investors on the planet is Stanley Druckenmiller, who sold all his high-tech names and bought the IWM. 
+
+The IWM, lesser names, less growth names, potentially more growth names, that's why he bought it. The IWM lists companies that are 30%, 7% of them do not make money. But what they do do is have research and development. 
+
+And if you buy a basket of stocks in an ETF like that, one or two of them can hit. And that's what he did. Very smart dude.
+
+(1:19:04 - 1:19:39)
+But as far as the concept of going wall street, it will never change. We talked about a number of times during this conversation about selling bottoms, selling bottoms, selling bottoms. Well, in essence, or buying tops, buying tops. 
+
+Well, the smart people of the world, they know this. So when people are puking and the market is puking, they have to place their bets. And they have to stay in power just to hang on until it turns around. 
+
+And when they're selling up here, he's printing money. So this goes on over and over. It'll never change.
+
+(1:19:40 - 1:19:55)
+Do you feel like once, when everyone's talking about recession, that's obviously not when it's going to take place. It's normally when it catches everyone off guard, when peak euphoria, essentially. So like, every time we make a new all time high, everyone expects us to then suddenly crash.
+
+(1:19:56 - 1:20:00)
+It keeps doing it over and over again. Correct. Until the point where no one questions it anymore.
+
+(1:20:00 - 1:21:33)
+This is going to keep happening. Perfect. That's when it's going to take place. 
+
+Perfect. I stood up and watched the dot com era the same way. OK, you shook your head. 
+
+None of those companies ever made money. They didn't make money at the time. It didn't matter. 
+
+And every day, I shook my head. I said, you've got to stop this. My customers shook their head. 
+
+They couldn't believe it. They were getting running all over the place. What's this? The impetus on the money is capable of this. 
+
+Until, as you just eloquently said, until it's not. OK, and then it gets ugly. OK, and I firmly believe in the last three weeks, OK, what were they talking about? What word did you hear? Bubble. 
+
+It's a bubble. It's a bubble. Want to know why the market made new highs, all time highs, two weeks ago? Because everybody was talking about a bubble. 
+
+Exactly what you said. That's the way it goes. Simple common sense, man. 
+
+What are your thoughts in terms of, I know that you were part of history with the New York Stock Exchange. You placed the first trade, if I'm not mistaken. Was it executed via, I don't know if it was electronically, something you. 
+
+Buyback, the program trade orders. Program trade orders, that's right. First ever, first ever on a New York Stock Exchange. 
+
+First ever. I had six million shares, give or take, of 60 S&P names to buy, market on close, when there was no supply. No supply.
+
+(1:21:34 - 1:22:07)
+Stacker orders like this, no supply. Buy 100,000 mobile, market on close. Buy 20,000 IBM, market on close. 
+
+20,000 IBM, right. 20,000. 500 shares of IBM in those days to buy market on close could take the stock up a buck and a half or two bucks. 
+
+20,000. 60 S&P names. I had 25 brokers, seven of which worked for me, 25 of which were just my friends that were representing.
+
+(1:22:07 - 1:23:21)
+I'm staying in a separate location handling every freaking order. I said, wait a minute, this is not going to work. It's not working. 
+
+There was no supply. The place was in a panic. The chairman of the stock exchange, the directors, the board coming down. 
+
+Are these real orders? I said, fellas, what do you mean are these real orders? Yes, they're real orders. Oh, yes, they are. Oh, my God. 
+
+What are we going to do? We're going to do nothing. Get away from me. I'll take care of this. 
+
+25 brokers running all over the place. Finally, I realized that the traditional way to do this is not the way to do it. So what did I do? I called the largest, the biggest firm on Wall Street who were clients of mine and will pay me to trade IBM for them. 
+
+$15,000 a month in 1980, 1981, a lot of money, just as a retainer, just as a retainer. But they had the most successful person that headed a trading desk and the most powerful person on Wall Street, excuse me, named Stanley Shopkorn. Stanley Shopkorn was the head trader of Salomon Brothers.
+
+(1:23:22 - 1:24:15)
+Salomon Brothers was noted as a bond house, but they had a huge equity desk. Every piece of merchandise that came down the pike to get placed, called Stanley, called Salomon Brothers. I said, I need somebody with strength here. 
+
+I go to the phone. I say, give me Stanley. Stanley, Richie, what's happening? Stanley, listen to me. 
+
+I have debt. I have about to buy. Okay. 
+
+So, you know, call me back. He says, well, call me back and we'll wipe somebody's debt. I said, no, no, no. 
+
+There's no way. Cannot do that. There's none of that. 
+
+He says, give me my clerk. It's his clerk. He says, give Richie sell orders up to the amount of shares that he has to buy at his discretion to fill every one of those buy orders.
+
+(1:24:17 - 1:26:44)
+And that was an incredible day. And we just went up, talk about the specialist book, find out where supply was, you know, and then we filled it in with Salomon Brothers proprietary sell paper and priced every damn one of them. Wow. 
+
+Crazy. Wow. Crazy. 
+
+So that being part of that history, so that you being part of the history of being one of the first people to instigate a sell, a program, a trade. And how does that make you feel though, like knowing that you're part of that history? It was just, I wish I had those original papers. I wish I really did. 
+
+They'd be worth millions of dollars, but I don't. But how did it feel? It feels very satisfying. Here's a kid growing up in Queens with nothing. 
+
+I mean, I wasn't, I didn't grow up with a poor family, middle income people worked hard all their lives, you know, lived in a 10, $12,000 house. You know, I had everything that I wanted, which was really not much. And, and, and here I am dictating flow, which the top firm on Wall Street and the top, top, top trader on Wall Street, basically, not basically you go look them up. 
+
+Top guy. I mean, he's controlled everything. And here I am, you know, one-on-one with this person and he's given me discretion over millions of shares. 
+
+So how does it make me feel? It makes me feel great, man. It really does. As it should, as it should. 
+
+And, you know, as part of this whole interview, there's so many gems that we've taken away. That's for sure. And to speak from the experience and wealth of knowledge that you've had, you know, I know it's going to have a huge impact on traders out there. 
+
+As we discussed, like people of, you know, this audience, the retail audience of today, you know, we've talked about like their issues being more so of rushing, their greed, their lack of focus. But when it comes to, we talked about sizing trades, right? We talked about handling size for yourself, but what would you advise to traders out there who are going through that scaling process themselves? You know, they're going from, I would say trading a few thousand dollars into the tens of thousands, the six figures, the seven figures, you know, and a lot of them have these barriers when it comes to that psychology of being able to handle, you know, new size, whether it's new stop loss amounts, new take profits amounts or new contract sizes. Is there anything that you can sort of advise them to help them overcome those barriers? I would say something in a very profound manner here.
+
+(1:26:44 - 1:29:12)
+If you find yourself in that position, stop and manage what you can manage because it's not for you. You will make mistakes and it's going to cost you money. If you think you can fight through it, it's your prerogative to try it. 
+
+But if you have a roadblock and you sense a roadblock because the chips on a table have changed, you know, you may have to look in a mirror and say, maybe this is not for me. Or you may have to just stand in one place, you know. I think it's very fair. 
+
+I think it's very, very fair. And it's interesting you mentioned about chips on a table. How close of the relationship between, say, poker and trading is there? Because as you mentioned earlier, actually, the similar thing where you need to know the personalities, obviously, that was more so for the pits. 
+
+But do you treat the markets even now in a similar fashion of trying to recognize the emotion within the charts, if that makes sense? Like, if you're seeing a lot of a down movement, a lot of emotion just within the chart itself, when you're looking at the charts, you're seeing this huge red candles. Is that how you're operating? Are you looking at, OK, this is how the average trader is probably feeling right now, or the traders are out there. This is what the flow may be telling me and therefore acting accordingly. 
+
+Yeah. I mean, listen, I made my living and as of today, have learned under very stringent conditions how to control emotions and how to manage emotions. Again, the size doesn't really matter to me. 
+
+It means nothing. It doesn't mean anything. Trading that kind of volume under those circumstances, what the stock meant in the overall picture of the market, every trade, most of the trades during the day, I can recount and look at the percentages of every one of those trades and the decision process that takes place to pull the trigger on a specific trade. 
+
+Yes, it does. And I believe that those decisions really are the decisions that control the decisions we make in our everyday life, whether it's to stand on a curve, whether it's to take a step this way, whether it's to yell at somebody, whatever it is, there's a percentage in everything. So you talk about a poker game, there's a percentage in a game. 
+
+It plays. Do I want to play? Do I want to go all in? Do I want to fold? Am I going to make a bet? Am I going to make a raise? Blah, blah, blah. But the stock market boils all that down.
+
+(1:29:12 - 1:30:04)
+And the difference is there is no time. You have to make a split decision and you make a split decision based on the time you put in. And being a student of the game, as I say that word again, you need to get to a point where your gut spits this out. 
+
+And you can. You are capable of doing that, providing you have the right mentor. That'll tell you. 
+
+Providing you have the right mentor, you're all capable of doing it. But the decisions that I make to this day are based on that gut feeling. I tell everybody, look at the rhythm of the numbers. 
+
+What do you mean? I said, watch the quote and watch the size that trades. Watch it. That'll spit out scalp trades to you without looking at another thing. 
+
+Yes, it will. You'll see the momentum go. You'll see it.
+
+(1:30:05 - 1:31:43)
+So, you know, those decisions are based wholly on mathematics. And I say, if you're a student of the game, your gut will start spitting out, spitting out these moves. You will see it. 
+
+And learning from the way I learned it and lived it, to this day, it holds up. It just does. So it's all about mathematics, man. 
+
+To finish up on the algorithm side of things, what would be your advice for people to start trying to observe these algorithmic plays within the markets? I know you've described really well previously in terms of having sort of your range, knowing where your premium, your discount is, understanding your buy and sell stops within those ranges and acting accordingly. Is there anything that we can elaborate on that at all? You need to remember that algorithms are there to create liquidity and volatility. They have no mind. 
+
+They have to go to an area. They don't just go to an area. They're programmed by, no matter what you say, it comes down to a programmer programming them, programming whatever technicals they put in, whatever the mathematics is that make up this algorithm. 
+
+So it's not only the premium and discount areas, but when you see the NASDAQ go into a full number, coming up 20 or 30 handles, 19,200, all right, 200, 230, 240, 250, 270, 275, 280, market's rallying, 275, 280. You know it's printing at the main number. You just know it.
+
+(1:31:44 - 1:32:00)
+And I know that those algorithms are going to make that print. But it's the same example could be made by any firm even number. Where is that? 10, 20, 30, 40, 50, 60, 70, 80, especially 50.
+
+(1:32:01 - 1:33:15)
+You know, they sit and they sit and they want to go to those numbers. Why? We should spend a little time talking about algorithms going to option strike price areas. We specialize in that as well because this market and this enormity, we gave the example, the positions in this market this day and age are multimillion share positions. 
+
+It's not easy to put that kind of money to work. And they have to put it to work. It's their mandate to put it to work. 
+
+Why am I giving you my money if you're not putting it to work? So they have to. So their positions are huge. Does anybody out there think that they just sit back and they buy and hold and smile and go home and have dinner with their wives? No, that's not the way this works. 
+
+They hedge their positions as well. Where do they hedge their positions? For the most part, all right, options. So these strike prices become huge and the amount of puts and calls that sit at these strike prices, the algorithms know where they're sitting and they're programmed then to go to those strike places. 
+
+Why? To create liquidity and volatility. That's all their mandate is. They're not human.
+
+(1:33:15 - 1:33:26)
+They don't care about P&L. Understand that. Interesting to finish up on because I know it's a topic I've discussed previously on the podcast, but I haven't for some time.
+
+(1:33:27 - 1:34:34)
+In terms of market makers and hunting stops, there's a big thing in the retail space of like the market makers, like your price hitting your stop loss, then going completely the other way, people feeling very targeted. Correct. And I've heard you say that that is a case, so that is something that does take place. 
+
+Oh, 100 percent. One of the lock trades, as a member of the New York Stock Exchange, that a specialist made or if you were an agent and had size flow is to be on the other side of stop orders. OK, so conversely speaking, here's another little gimme for you folks out there. 
+
+Retail traders, especially if you're going down to a number and the market is coming down and down and down and it's you know, the algorithms are going to print a number. Put an order in two ticks underneath the number, because why? Because you wind up being on the assumption is that there are stop orders at those prices. And the assumption is that you will be on the other side of a bad sale. 
+
+The market is a buy and sell. There's a buyer and seller in every transaction. Somebody's going to be right.
+
+(1:34:34 - 1:35:30)
+Somebody's going to be wrong. You want to be on the other side of stop orders. Yes, you're 100 percent right. 
+
+You want to be on the other side of stop order. But it's not easy to identify where those stop orders lie. If you're going to put a stop order to protect yourself again, don't put it at 50, because they're going to get hit. 
+
+You know, put it at 48. Give yourself a chance. Give yourself a chance to breathe and for the position to be right. 
+
+Don't put it at 50. You're going to get swept away by some intelligent buy like myself who wants to who wants to get long or if you're a mistake. Richie, I love that. 
+
+I love that. And I'm sure we could keep going. But thank you for being with us today and sharing so much with us. 
+
+My pleasure. And everyone at home, drop a comment of your biggest takeaway from this episode. There was so much, as always, and the links for Richie will be in the description below. 
+
+So make sure you check those out as well. There'll be other episodes on screen. So check those out. 
+
+Hit subscribe. And until next time, take care.

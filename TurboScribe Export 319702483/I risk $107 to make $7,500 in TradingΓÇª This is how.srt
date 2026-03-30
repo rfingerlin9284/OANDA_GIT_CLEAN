@@ -1,0 +1,2559 @@
+1
+00:00:00,240 --> 00:00:02,300
+As a day trader, our main focus should
+
+2
+00:00:02,300 --> 00:00:04,340
+be to stay alive in this game as
+
+3
+00:00:04,340 --> 00:00:05,520
+long as possible.
+
+4
+00:00:05,860 --> 00:00:07,520
+And the only way we can stay alive
+
+5
+00:00:07,520 --> 00:00:10,760
+is by having a proper risk management strategy.
+
+6
+00:00:11,180 --> 00:00:12,520
+Now, a lot of traders when they get
+
+7
+00:00:12,520 --> 00:00:15,059
+started or that are trading, they focus on
+
+8
+00:00:15,059 --> 00:00:17,480
+what strategies they should focus on, how they
+
+9
+00:00:17,480 --> 00:00:19,680
+should approach the market, how they should chart
+
+10
+00:00:19,680 --> 00:00:21,240
+and all these other great things.
+
+11
+00:00:21,560 --> 00:00:24,280
+And while these things are great, they're not
+
+12
+00:00:24,280 --> 00:00:25,660
+enough to keep you alive.
+
+13
+00:00:25,660 --> 00:00:27,620
+The only way you'll be able to stay
+
+14
+00:00:27,620 --> 00:00:29,500
+alive and be able to put on more
+
+15
+00:00:29,500 --> 00:00:31,280
+trades is by having capital.
+
+16
+00:00:31,540 --> 00:00:34,300
+And our job is to protect that capital,
+
+17
+00:00:34,580 --> 00:00:36,840
+protect it day in and out, trade by
+
+18
+00:00:36,840 --> 00:00:37,180
+trade.
+
+19
+00:00:37,520 --> 00:00:38,780
+And in order to do that, we need
+
+20
+00:00:38,780 --> 00:00:41,160
+to have a well-defined plan, a well
+
+21
+00:00:41,160 --> 00:00:44,820
+-defined risk management plan that helps us avoid
+
+22
+00:00:44,820 --> 00:00:47,520
+taking too much risk and helps us avoid
+
+23
+00:00:47,520 --> 00:00:49,520
+having too much exposure in trades.
+
+24
+00:00:49,900 --> 00:00:51,280
+And in this video, I want to talk
+
+25
+00:00:51,280 --> 00:00:54,340
+about my risk management plan, how you guys
+
+26
+00:00:54,340 --> 00:00:55,720
+can build a risk management plan.
+
+27
+00:00:55,860 --> 00:00:57,820
+I'm going to talk about position sizing and
+
+28
+00:00:57,820 --> 00:00:59,080
+I'm going to talk about our multiple.
+
+29
+00:00:59,340 --> 00:01:01,540
+I'm talking about things that most traders don't
+
+30
+00:01:01,540 --> 00:01:01,900
+like.
+
+31
+00:01:02,060 --> 00:01:02,840
+That isn't amazing.
+
+32
+00:01:02,960 --> 00:01:05,080
+That isn't, you know, a shiny object.
+
+33
+00:01:05,460 --> 00:01:07,180
+But this is important, guys.
+
+34
+00:01:07,560 --> 00:01:10,100
+So please stay through the whole video, take
+
+35
+00:01:10,100 --> 00:01:12,220
+down notes, pay attention to the important parts
+
+36
+00:01:12,220 --> 00:01:14,580
+and understand that if you want to make
+
+37
+00:01:14,580 --> 00:01:17,440
+it here, you have to have a good
+
+38
+00:01:17,440 --> 00:01:18,940
+risk management plan.
+
+39
+00:01:19,200 --> 00:01:21,240
+So let's talk about the first component of
+
+40
+00:01:21,240 --> 00:01:24,900
+my risk management plan, which is every trade
+
+41
+00:01:24,900 --> 00:01:28,180
+I take, I have an idea on how
+
+42
+00:01:28,180 --> 00:01:30,920
+much I'm losing and where I am exiting.
+
+43
+00:01:31,600 --> 00:01:33,480
+So once again, before I take a trade,
+
+44
+00:01:33,560 --> 00:01:36,440
+guys, any single trade, I know where the
+
+45
+00:01:36,440 --> 00:01:37,980
+trade needs to go for me to be
+
+46
+00:01:37,980 --> 00:01:40,600
+wrong and how much I will lose if
+
+47
+00:01:40,600 --> 00:01:41,100
+I'm wrong.
+
+48
+00:01:41,340 --> 00:01:42,760
+Now, most traders, when they take a trade,
+
+49
+00:01:43,080 --> 00:01:44,820
+they go, well, if I buy this trade
+
+50
+00:01:44,820 --> 00:01:47,160
+at ten dollars and it goes to 15,
+
+51
+00:01:47,160 --> 00:01:49,100
+I will make five dollars or I'll make
+
+52
+00:01:49,100 --> 00:01:51,000
+fifty dollars or I'll make five thousand dollars.
+
+53
+00:01:51,100 --> 00:01:53,240
+And traders get in this fantasy land of
+
+54
+00:01:53,240 --> 00:01:54,200
+what they will make.
+
+55
+00:01:54,820 --> 00:01:56,740
+Now, on a professional level, if you want
+
+56
+00:01:56,740 --> 00:01:58,020
+to be here in a long period of
+
+57
+00:01:58,020 --> 00:01:59,600
+time, you need to flip that.
+
+58
+00:01:59,700 --> 00:02:01,420
+You need to go, well, if I take
+
+59
+00:02:01,420 --> 00:02:04,140
+this trade and let's just say, for example,
+
+60
+00:02:04,200 --> 00:02:07,360
+purposes, this is ten dollars and this is
+
+61
+00:02:07,360 --> 00:02:08,039
+twelve dollars.
+
+62
+00:02:08,180 --> 00:02:09,520
+And once again, just something basic.
+
+63
+00:02:09,520 --> 00:02:11,160
+Let's just go in like the basic of
+
+64
+00:02:11,720 --> 00:02:12,560
+support resistance.
+
+65
+00:02:12,740 --> 00:02:13,160
+Right.
+
+66
+00:02:13,200 --> 00:02:14,180
+And I'm like, well, I want to go
+
+67
+00:02:14,180 --> 00:02:15,340
+long in this particular trade.
+
+68
+00:02:15,340 --> 00:02:17,440
+The first question I ask, OK, well, where
+
+69
+00:02:17,440 --> 00:02:19,140
+does this trade need to go for me
+
+70
+00:02:19,140 --> 00:02:19,840
+to be wrong?
+
+71
+00:02:20,120 --> 00:02:20,360
+Right.
+
+72
+00:02:20,640 --> 00:02:22,840
+That's where I will be placing my stop.
+
+73
+00:02:22,940 --> 00:02:25,020
+So if I go long here, this trade
+
+74
+00:02:25,020 --> 00:02:26,800
+maybe needs to go to nine dollars.
+
+75
+00:02:27,040 --> 00:02:28,020
+Just going to make it a round number
+
+76
+00:02:28,020 --> 00:02:28,780
+for argument's sake.
+
+77
+00:02:28,980 --> 00:02:30,720
+That means if I am wrong and I
+
+78
+00:02:30,720 --> 00:02:33,820
+buy a ten, I will lose one dollar.
+
+79
+00:02:34,220 --> 00:02:34,520
+Right.
+
+80
+00:02:35,160 --> 00:02:37,780
+Now, that is the first step I take
+
+81
+00:02:37,780 --> 00:02:38,700
+before any trade.
+
+82
+00:02:38,800 --> 00:02:39,980
+Of course, I have a strategy.
+
+83
+00:02:40,120 --> 00:02:41,060
+Of course, I have setups.
+
+84
+00:02:41,100 --> 00:02:42,980
+I have a focus point on how I
+
+85
+00:02:42,980 --> 00:02:44,640
+think the market will or should move, whatever
+
+86
+00:02:44,640 --> 00:02:45,260
+the case is.
+
+87
+00:02:45,800 --> 00:02:47,740
+But when I get there, I have to
+
+88
+00:02:47,740 --> 00:02:50,740
+protect my downside and protecting my downside allows
+
+89
+00:02:50,740 --> 00:02:52,080
+me to look at should I take this
+
+90
+00:02:52,080 --> 00:02:52,340
+trade?
+
+91
+00:02:53,000 --> 00:02:55,000
+Does this trade make sense from a risk
+
+92
+00:02:55,000 --> 00:02:55,520
+perspective?
+
+93
+00:02:55,840 --> 00:02:57,460
+If a trade doesn't make sense in terms
+
+94
+00:02:57,460 --> 00:02:59,200
+of a risk perspective, I won't take the
+
+95
+00:02:59,200 --> 00:02:59,400
+trade.
+
+96
+00:02:59,500 --> 00:02:59,640
+Right.
+
+97
+00:02:59,860 --> 00:03:01,900
+So to just go to another example, would
+
+98
+00:03:01,900 --> 00:03:05,860
+you risk a hundred dollars to make one
+
+99
+00:03:05,860 --> 00:03:06,160
+dollar?
+
+100
+00:03:07,180 --> 00:03:09,460
+Now, of course, the one dollar is not
+
+101
+00:03:09,460 --> 00:03:09,780
+guaranteed.
+
+102
+00:03:09,780 --> 00:03:12,700
+You have a 50 percent chance that you
+
+103
+00:03:12,700 --> 00:03:14,740
+will make one dollar or 50 percent chance
+
+104
+00:03:14,740 --> 00:03:15,460
+you will make a hundred.
+
+105
+00:03:15,940 --> 00:03:18,880
+You most likely will not risk the hundred
+
+106
+00:03:18,880 --> 00:03:20,160
+to make the one dollar because it just
+
+107
+00:03:20,160 --> 00:03:20,960
+doesn't make sense.
+
+108
+00:03:21,160 --> 00:03:22,360
+But now what if I said, would you
+
+109
+00:03:22,360 --> 00:03:24,880
+risk a hundred dollars to make a thousand
+
+110
+00:03:24,880 --> 00:03:27,860
+dollars and you maybe have a 55 percent
+
+111
+00:03:27,860 --> 00:03:29,440
+chance of being right for argument's sake?
+
+112
+00:03:29,620 --> 00:03:29,780
+Right.
+
+113
+00:03:30,320 --> 00:03:31,580
+Now you'll maybe take the trade.
+
+114
+00:03:31,940 --> 00:03:34,080
+So these two numbers have to make sense
+
+115
+00:03:34,080 --> 00:03:35,960
+of like what you're risking and what your
+
+116
+00:03:35,960 --> 00:03:36,560
+reward is.
+
+117
+00:03:36,680 --> 00:03:38,240
+So when I look at a trade, my
+
+118
+00:03:38,240 --> 00:03:39,980
+first component of OK, if there's a setup,
+
+119
+00:03:40,260 --> 00:03:40,740
+great.
+
+120
+00:03:41,300 --> 00:03:42,620
+But the setup is not what makes me
+
+121
+00:03:42,620 --> 00:03:43,260
+take the trade.
+
+122
+00:03:43,700 --> 00:03:45,500
+The setup is what kind of ignites me
+
+123
+00:03:45,500 --> 00:03:47,120
+to look at the trade and be interested.
+
+124
+00:03:48,000 --> 00:03:50,440
+The risk component is what attracts me.
+
+125
+00:03:50,620 --> 00:03:50,720
+Right.
+
+126
+00:03:50,740 --> 00:03:51,660
+So if I look at this trade from
+
+127
+00:03:51,660 --> 00:03:53,980
+a risk component, I will realize that, OK,
+
+128
+00:03:54,000 --> 00:03:55,220
+I'm risking one dollar.
+
+129
+00:03:56,160 --> 00:03:56,520
+OK.
+
+130
+00:03:56,620 --> 00:03:58,040
+And also it's not just random.
+
+131
+00:03:58,120 --> 00:03:59,620
+I can't just say, well, I'm going to
+
+132
+00:03:59,620 --> 00:04:00,900
+buy this at 10 and I'm going to
+
+133
+00:04:00,900 --> 00:04:03,940
+risk, you know, one dollar or two dollars
+
+134
+00:04:03,940 --> 00:04:04,940
+because that's what I want to risk on
+
+135
+00:04:04,940 --> 00:04:05,240
+the trade.
+
+136
+00:04:05,320 --> 00:04:08,040
+No, my stop loss where the trade has
+
+137
+00:04:08,040 --> 00:04:08,480
+to go.
+
+138
+00:04:08,660 --> 00:04:10,160
+And if it goes down wrong, has to
+
+139
+00:04:10,160 --> 00:04:10,560
+make sense.
+
+140
+00:04:10,600 --> 00:04:12,080
+If I take the same example for argument's
+
+141
+00:04:12,080 --> 00:04:13,720
+sake, let's just say this trade is now
+
+142
+00:04:13,720 --> 00:04:15,019
+at twelve dollars.
+
+143
+00:04:15,240 --> 00:04:16,839
+If it's at twelve dollars and I'm like,
+
+144
+00:04:16,880 --> 00:04:17,880
+well, I want to risk a dollar.
+
+145
+00:04:18,640 --> 00:04:20,380
+And let's just say the dollar is at
+
+146
+00:04:20,380 --> 00:04:21,680
+eleven for argument's sake.
+
+147
+00:04:22,320 --> 00:04:24,880
+I'm still risking one dollar on this trade.
+
+148
+00:04:25,020 --> 00:04:27,080
+But if it goes to eleven, that doesn't
+
+149
+00:04:27,080 --> 00:04:27,720
+mean I'm wrong.
+
+150
+00:04:27,720 --> 00:04:29,480
+The trade could still be in play.
+
+151
+00:04:29,780 --> 00:04:31,840
+So that's what I'm saying by the trade
+
+152
+00:04:31,840 --> 00:04:33,860
+needs to prove that you're wrong.
+
+153
+00:04:34,020 --> 00:04:36,280
+OK, so just to go back to this
+
+154
+00:04:36,280 --> 00:04:36,720
+example.
+
+155
+00:04:37,320 --> 00:04:38,960
+Now, when I am looking at this particular
+
+156
+00:04:38,960 --> 00:04:40,360
+trade, once again, I'm risking a dollar.
+
+157
+00:04:40,500 --> 00:04:41,860
+I have to look at the second factor
+
+158
+00:04:41,860 --> 00:04:44,000
+is, does this trade have room to go
+
+159
+00:04:44,000 --> 00:04:44,200
+up?
+
+160
+00:04:44,280 --> 00:04:47,580
+So for basic examples, basic argument, once again,
+
+161
+00:04:47,900 --> 00:04:49,500
+if I'm buying this at 10 and this
+
+162
+00:04:49,500 --> 00:04:52,280
+does go to twelve, I'm basically making two
+
+163
+00:04:52,280 --> 00:04:53,880
+dollars if I'm right.
+
+164
+00:04:54,140 --> 00:04:57,280
+And if I'm wrong, I'm essentially risking one
+
+165
+00:04:57,280 --> 00:04:57,600
+dollar.
+
+166
+00:04:58,260 --> 00:05:01,220
+So in that trade, my potential R is
+
+167
+00:05:01,220 --> 00:05:02,360
+two to one.
+
+168
+00:05:02,540 --> 00:05:05,140
+I'm risking about a dollar to potentially make
+
+169
+00:05:05,140 --> 00:05:05,720
+two.
+
+170
+00:05:06,360 --> 00:05:07,980
+So that's how I look at trades from
+
+171
+00:05:07,980 --> 00:05:09,860
+a risk perspective whenever I take a trade.
+
+172
+00:05:10,500 --> 00:05:12,060
+Now, how much do I risk?
+
+173
+00:05:12,360 --> 00:05:14,860
+That is all contingent on my account size.
+
+174
+00:05:15,220 --> 00:05:16,980
+How much I risk will be different than
+
+175
+00:05:16,980 --> 00:05:18,460
+how much you risk, how much the guy
+
+176
+00:05:18,460 --> 00:05:19,700
+next to you or the girl next to
+
+177
+00:05:19,700 --> 00:05:21,880
+you risks will be different than everyone because
+
+178
+00:05:21,880 --> 00:05:24,240
+that is contingent on your account size.
+
+179
+00:05:24,280 --> 00:05:25,980
+So if your account size is, let's say,
+
+180
+00:05:26,040 --> 00:05:29,000
+a thousand, I always say go off the
+
+181
+00:05:29,000 --> 00:05:30,220
+one or two percent rule.
+
+182
+00:05:30,300 --> 00:05:31,580
+And also keep in mind, this is if
+
+183
+00:05:31,580 --> 00:05:33,660
+you're a beginner, this is if you have
+
+184
+00:05:33,660 --> 00:05:35,320
+not found profitability in your trading.
+
+185
+00:05:35,740 --> 00:05:38,200
+If that's the case, risk one to two
+
+186
+00:05:38,200 --> 00:05:39,440
+percent of your account size.
+
+187
+00:05:39,640 --> 00:05:42,800
+Now, if I risk one percent right of
+
+188
+00:05:42,800 --> 00:05:45,820
+a thousand dollars at that point, that is
+
+189
+00:05:45,820 --> 00:05:47,820
+what my risk component should be.
+
+190
+00:05:47,880 --> 00:05:49,220
+So if I look at this particular trade,
+
+191
+00:05:49,620 --> 00:05:51,720
+let's just say one percent is ten dollars.
+
+192
+00:05:52,440 --> 00:05:55,200
+That means I'm allowed to risk ten dollars
+
+193
+00:05:55,200 --> 00:05:56,080
+on this trade.
+
+194
+00:05:56,420 --> 00:06:00,020
+Now, in retrospect, if I'm risking ten dollars
+
+195
+00:06:00,020 --> 00:06:01,920
+on this trade, that doesn't mean I only
+
+196
+00:06:01,920 --> 00:06:03,640
+put ten dollars into the trade.
+
+197
+00:06:03,740 --> 00:06:06,500
+That means because I'm risking ten dollars on
+
+198
+00:06:06,500 --> 00:06:09,200
+this trade, I can only buy a certain
+
+199
+00:06:09,200 --> 00:06:11,340
+amount of shares or contracts or whatever the
+
+200
+00:06:11,340 --> 00:06:14,020
+case is to only lose ten dollars.
+
+201
+00:06:14,160 --> 00:06:14,900
+I'll show you guys.
+
+202
+00:06:15,100 --> 00:06:17,980
+So if you're buying this at ten, if
+
+203
+00:06:17,980 --> 00:06:19,760
+you're buying this stock at ten and your
+
+204
+00:06:19,760 --> 00:06:21,960
+stop loss is at nine, that means you
+
+205
+00:06:21,960 --> 00:06:24,520
+are risking one dollar, right?
+
+206
+00:06:24,800 --> 00:06:27,020
+Now, if you are risking one dollar and
+
+207
+00:06:27,020 --> 00:06:29,380
+I can only lose ten dollars per my
+
+208
+00:06:29,380 --> 00:06:31,760
+account size, the most I should be able
+
+209
+00:06:31,760 --> 00:06:34,620
+to buy is ten shares or ten contracts.
+
+210
+00:06:34,700 --> 00:06:36,840
+And ten contracts or ten shares are essentially
+
+211
+00:06:36,840 --> 00:06:38,540
+going to be a hundred dollars in cost.
+
+212
+00:06:38,620 --> 00:06:39,640
+So I'm paying a hundred dollars.
+
+213
+00:06:39,940 --> 00:06:42,540
+I am risking one dollar and I have
+
+214
+00:06:42,540 --> 00:06:43,320
+ten shares.
+
+215
+00:06:43,740 --> 00:06:45,200
+That means if I buy ten shares here
+
+216
+00:06:45,200 --> 00:06:46,800
+at ten and those ten shares go to
+
+217
+00:06:46,800 --> 00:06:49,760
+nine, I will only lose ten dollars.
+
+218
+00:06:50,640 --> 00:06:52,440
+That is what I mean by position sizing.
+
+219
+00:06:52,600 --> 00:06:53,720
+That is what I mean by you need
+
+220
+00:06:53,720 --> 00:06:54,860
+to look at your account size.
+
+221
+00:06:55,380 --> 00:06:56,780
+Now, obviously, when you get to a more
+
+222
+00:06:56,780 --> 00:06:59,380
+consistent level, your risk will be altered.
+
+223
+00:06:59,620 --> 00:07:01,280
+There are trades for me personally that I
+
+224
+00:07:01,280 --> 00:07:03,880
+increase my size, increase my risk, depending on
+
+225
+00:07:03,880 --> 00:07:06,300
+the day setups, depending on the market conditions,
+
+226
+00:07:06,340 --> 00:07:06,560
+right?
+
+227
+00:07:06,660 --> 00:07:09,320
+So my risk is not consistent day in
+
+228
+00:07:09,320 --> 00:07:10,440
+and out, week in and out.
+
+229
+00:07:10,540 --> 00:07:12,740
+It has gotten to a point where if
+
+230
+00:07:12,740 --> 00:07:15,100
+I have a high quality setup, I will
+
+231
+00:07:15,100 --> 00:07:16,460
+be more aggressive on risk.
+
+232
+00:07:16,620 --> 00:07:17,960
+If I have been trading well and I
+
+233
+00:07:17,960 --> 00:07:19,960
+have a strong bankroll, meaning a strong amount
+
+234
+00:07:19,960 --> 00:07:22,100
+of capital behind me of profits that I
+
+235
+00:07:22,100 --> 00:07:23,620
+can actually risk in the markets and it
+
+236
+00:07:23,620 --> 00:07:25,540
+makes sense, I will be harder and I
+
+237
+00:07:25,540 --> 00:07:26,760
+will double down on risk.
+
+238
+00:07:26,960 --> 00:07:28,560
+But that is also because I have been
+
+239
+00:07:28,560 --> 00:07:30,480
+profitable for a very long period of time.
+
+240
+00:07:30,840 --> 00:07:32,420
+Now, if I go back to the beginning
+
+241
+00:07:32,420 --> 00:07:35,520
+days, I would keep my risk consistent until
+
+242
+00:07:35,520 --> 00:07:38,040
+I find profitability and then I would look
+
+243
+00:07:38,040 --> 00:07:39,100
+to alter size.
+
+244
+00:07:39,100 --> 00:07:41,240
+So you also have to understand what stage
+
+245
+00:07:41,240 --> 00:07:42,140
+you are in.
+
+246
+00:07:42,380 --> 00:07:42,500
+Okay.
+
+247
+00:07:42,820 --> 00:07:44,080
+Another thing I want to talk about really
+
+248
+00:07:44,080 --> 00:07:46,360
+quick is working capital, right?
+
+249
+00:07:46,460 --> 00:07:49,380
+Meaning capital invested into a trade and risk,
+
+250
+00:07:49,740 --> 00:07:49,980
+right?
+
+251
+00:07:50,020 --> 00:07:51,840
+So I see a lot of traders, they
+
+252
+00:07:51,840 --> 00:07:53,960
+will see that I've taken a position where
+
+253
+00:07:53,960 --> 00:07:56,200
+I've put $100,000 in and they're like,
+
+254
+00:07:56,300 --> 00:07:59,020
+well, because he put $100,000 in, he's
+
+255
+00:07:59,020 --> 00:08:00,000
+risking $100,000.
+
+256
+00:08:00,100 --> 00:08:03,260
+No, guys, just because someone invested $100,000
+
+257
+00:08:03,260 --> 00:08:05,380
+doesn't mean he or she's risking that.
+
+258
+00:08:05,560 --> 00:08:07,400
+And that's not what you should because as
+
+259
+00:08:07,400 --> 00:08:09,060
+traders, we need to have a stop or
+
+260
+00:08:09,060 --> 00:08:10,980
+where this trade goes, we will be wrong.
+
+261
+00:08:11,580 --> 00:08:13,360
+We need to factor in what that loss
+
+262
+00:08:13,360 --> 00:08:13,920
+will be, right?
+
+263
+00:08:14,360 --> 00:08:16,120
+So for example, if I buy a trade
+
+264
+00:08:16,120 --> 00:08:18,500
+that is at $10, once again, same concept,
+
+265
+00:08:18,780 --> 00:08:20,760
+and I put my stop at nine, if
+
+266
+00:08:20,760 --> 00:08:22,140
+it goes to nine, I lose a dollar,
+
+267
+00:08:22,420 --> 00:08:22,680
+right?
+
+268
+00:08:23,080 --> 00:08:25,720
+And let's just say I can buy a
+
+269
+00:08:25,720 --> 00:08:26,440
+hundred shares.
+
+270
+00:08:26,600 --> 00:08:28,080
+If I buy a hundred shares at 10,
+
+271
+00:08:28,700 --> 00:08:30,760
+that's a thousand US dollars.
+
+272
+00:08:30,940 --> 00:08:33,120
+That's how much this trade is costing me.
+
+273
+00:08:33,179 --> 00:08:35,299
+This is how much capital is required for
+
+274
+00:08:35,299 --> 00:08:37,220
+me to put into this trade, a thousand
+
+275
+00:08:37,220 --> 00:08:37,740
+dollars.
+
+276
+00:08:37,919 --> 00:08:40,280
+But because I bought a hundred shares or
+
+277
+00:08:40,280 --> 00:08:42,340
+a hundred contracts or whatever, right?
+
+278
+00:08:43,020 --> 00:08:46,600
+And my stop is at nine, I'm risking
+
+279
+00:08:46,600 --> 00:08:47,220
+$1.
+
+280
+00:08:47,480 --> 00:08:50,260
+So $1 multiplied by my share amount, which
+
+281
+00:08:50,260 --> 00:08:50,700
+is a hundred.
+
+282
+00:08:51,080 --> 00:08:54,360
+I'm only risking a hundred dollars.
+
+283
+00:08:54,480 --> 00:08:56,020
+I'm not risking a thousand.
+
+284
+00:08:56,580 --> 00:08:58,420
+Me risking a thousand is if I don't
+
+285
+00:08:58,420 --> 00:09:00,980
+hit my stop and this trade goes all
+
+286
+00:09:00,980 --> 00:09:02,460
+the way down to zero.
+
+287
+00:09:03,400 --> 00:09:04,400
+So I just wanted to make that clear
+
+288
+00:09:04,400 --> 00:09:06,160
+because a lot of people have a misconception
+
+289
+00:09:06,160 --> 00:09:06,860
+about that.
+
+290
+00:09:07,120 --> 00:09:09,580
+So that's the first component of position sizing,
+
+291
+00:09:10,020 --> 00:09:14,680
+placing your stops and taking R multiple.
+
+292
+00:09:15,000 --> 00:09:17,520
+So one main thing that everyone should focus
+
+293
+00:09:17,520 --> 00:09:19,180
+on is something called R.
+
+294
+00:09:19,620 --> 00:09:20,960
+So this is something that I focus on
+
+295
+00:09:20,960 --> 00:09:21,380
+a lot.
+
+296
+00:09:21,680 --> 00:09:24,720
+I always say, guys, don't look at the
+
+297
+00:09:24,720 --> 00:09:26,020
+final number of my trades.
+
+298
+00:09:26,020 --> 00:09:28,720
+Look at what I risked to make that
+
+299
+00:09:28,720 --> 00:09:30,140
+trade or make that amount, right?
+
+300
+00:09:30,280 --> 00:09:32,560
+So if you see me make $30,000
+
+301
+00:09:32,560 --> 00:09:35,060
+or you see anyone make 30 grand, right?
+
+302
+00:09:35,080 --> 00:09:37,200
+The first question is what did this person
+
+303
+00:09:37,200 --> 00:09:37,660
+risk?
+
+304
+00:09:37,880 --> 00:09:41,000
+If I risked 30,000 to make 30
+
+305
+00:09:41,000 --> 00:09:43,380
+,000, I have a one R trade.
+
+306
+00:09:44,040 --> 00:09:47,420
+Now this looks great as a final number,
+
+307
+00:09:47,720 --> 00:09:50,220
+but does it really make sense for me
+
+308
+00:09:50,220 --> 00:09:51,620
+to have 30,000?
+
+309
+00:09:51,780 --> 00:09:53,960
+Does it make sense for me to view
+
+310
+00:09:53,960 --> 00:09:56,620
+this trade as great opposed to, let's just
+
+311
+00:09:56,620 --> 00:09:59,740
+say I made $5,000, but I risked
+
+312
+00:09:59,740 --> 00:10:02,860
+$1,000 to make that five grand.
+
+313
+00:10:03,260 --> 00:10:05,040
+Now this trade, which is a five R
+
+314
+00:10:05,040 --> 00:10:08,600
+trade is a much, much better trade than
+
+315
+00:10:08,600 --> 00:10:09,160
+anything else.
+
+316
+00:10:09,480 --> 00:10:11,460
+So that's why it's really important to understand
+
+317
+00:10:11,460 --> 00:10:13,520
+what you're risking on trades, right?
+
+318
+00:10:13,540 --> 00:10:14,900
+So I'll show you guys some examples.
+
+319
+00:10:14,900 --> 00:10:16,880
+So here we're going to look at my
+
+320
+00:10:16,880 --> 00:10:17,860
+trade Zella really quick.
+
+321
+00:10:17,860 --> 00:10:19,080
+Let's say I go to this trade.
+
+322
+00:10:19,600 --> 00:10:22,100
+You can see that I made 25 grand
+
+323
+00:10:22,100 --> 00:10:23,580
+on this particular trade, right?
+
+324
+00:10:24,000 --> 00:10:25,860
+Now, this number sounds great.
+
+325
+00:10:25,900 --> 00:10:26,460
+It's phenomenal.
+
+326
+00:10:26,760 --> 00:10:27,800
+But the main thing that we need to
+
+327
+00:10:27,800 --> 00:10:29,740
+understand is, okay, well, what was the R
+
+328
+00:10:29,740 --> 00:10:31,280
+on this particular trade, right?
+
+329
+00:10:31,460 --> 00:10:32,800
+It was 2.62 R.
+
+330
+00:10:32,920 --> 00:10:34,180
+How did we get to that number?
+
+331
+00:10:34,300 --> 00:10:35,640
+Let's take a look at that really quick,
+
+332
+00:10:36,060 --> 00:10:36,240
+right?
+
+333
+00:10:36,600 --> 00:10:38,440
+So when we look at the R number,
+
+334
+00:10:38,740 --> 00:10:40,720
+right, we are able to understand that based
+
+335
+00:10:40,720 --> 00:10:42,940
+on my stop, based on where this trade
+
+336
+00:10:42,940 --> 00:10:45,640
+had to go for me this particular trade,
+
+337
+00:10:46,000 --> 00:10:48,620
+you know, yes, 25,000 is the number,
+
+338
+00:10:49,160 --> 00:10:50,900
+but based on my stop, which was at
+
+339
+00:10:50,900 --> 00:10:53,640
+a dollar 20, I was risking $9,600.
+
+340
+00:10:54,180 --> 00:10:58,280
+So I risked 9,600 to make 25
+
+341
+00:10:58,280 --> 00:11:02,420
+,000, where my outcome once again was 25
+
+342
+00:11:02,420 --> 00:11:03,920
+K risk 9,600.
+
+343
+00:11:04,000 --> 00:11:06,500
+And I ended up making a little over
+
+344
+00:11:06,500 --> 00:11:10,120
+a 2.6 R I made 2.6
+
+345
+00:11:10,120 --> 00:11:11,960
+times my risk amount.
+
+346
+00:11:12,040 --> 00:11:14,080
+That is the main thing we as traders
+
+347
+00:11:14,080 --> 00:11:15,520
+need to care about.
+
+348
+00:11:15,900 --> 00:11:18,820
+There's nothing else that matters besides that, right?
+
+349
+00:11:18,880 --> 00:11:20,100
+So if I go to some other trades,
+
+350
+00:11:20,280 --> 00:11:22,320
+and I go, let's say here, 2.21
+
+351
+00:11:22,320 --> 00:11:24,360
+R, I go to some other trades, right?
+
+352
+00:11:25,160 --> 00:11:26,720
+2.43 R, right?
+
+353
+00:11:27,080 --> 00:11:29,220
+I go here, 3.6 R, right?
+
+354
+00:11:29,300 --> 00:11:30,880
+Some trades are great, some trades are not
+
+355
+00:11:30,880 --> 00:11:31,060
+great.
+
+356
+00:11:31,120 --> 00:11:32,420
+So if I go to this particular trade,
+
+357
+00:11:32,520 --> 00:11:35,380
+I made 0.29 R, right?
+
+358
+00:11:35,420 --> 00:11:41,400
+So I risked $562, but I made $162.
+
+359
+00:11:41,700 --> 00:11:43,080
+So this trade looks great.
+
+360
+00:11:43,180 --> 00:11:45,620
+It's like, wow, he made $162.
+
+361
+00:11:46,140 --> 00:11:47,920
+And I'm like, yeah, that's that's a green
+
+362
+00:11:47,920 --> 00:11:49,720
+trade that someone may check off and say,
+
+363
+00:11:49,800 --> 00:11:50,780
+well, this is a great trade.
+
+364
+00:11:51,080 --> 00:11:52,860
+But when I go into the logistics of
+
+365
+00:11:52,860 --> 00:11:55,020
+the trade, based on where my stop was
+
+366
+00:11:55,020 --> 00:11:56,620
+based on if this trade went through, I
+
+367
+00:11:56,620 --> 00:11:57,180
+would have been wrong.
+
+368
+00:11:57,540 --> 00:12:01,340
+I was risking $500 to make $162.
+
+369
+00:12:01,540 --> 00:12:02,320
+And guys, think about it.
+
+370
+00:12:02,640 --> 00:12:04,860
+Long term wise, that is not sustainable.
+
+371
+00:12:05,020 --> 00:12:07,540
+Because how many times do I have to
+
+372
+00:12:07,540 --> 00:12:10,340
+be right to be able to continuously being
+
+373
+00:12:10,340 --> 00:12:11,780
+profitable, right?
+
+374
+00:12:11,840 --> 00:12:15,040
+So having an R multiple that doesn't make
+
+375
+00:12:15,040 --> 00:12:17,620
+sense or is way off is just not
+
+376
+00:12:17,620 --> 00:12:19,020
+going to allow you to be profitable, even
+
+377
+00:12:19,020 --> 00:12:20,400
+if you have some trades that are profitable,
+
+378
+00:12:20,420 --> 00:12:20,680
+right?
+
+379
+00:12:21,020 --> 00:12:22,620
+So to go back to R, how is
+
+380
+00:12:22,620 --> 00:12:24,280
+R calculated, what that is, and how we
+
+381
+00:12:24,280 --> 00:12:25,920
+can calculate it is the following way.
+
+382
+00:12:26,000 --> 00:12:27,300
+What I do for R is every time
+
+383
+00:12:27,300 --> 00:12:28,680
+I take a trade, let's say we go
+
+384
+00:12:28,680 --> 00:12:31,060
+back to the 10 example, trades at 10,
+
+385
+00:12:31,400 --> 00:12:32,720
+I put my stop at 9.
+
+386
+00:12:33,180 --> 00:12:35,300
+Okay, so because my stop is at 9,
+
+387
+00:12:35,460 --> 00:12:36,740
+I will look at the trade outcome.
+
+388
+00:12:37,020 --> 00:12:38,560
+So I take a trade, I know I'm
+
+389
+00:12:38,560 --> 00:12:39,440
+buying this trade at 10.
+
+390
+00:12:39,740 --> 00:12:41,800
+I know my stop is at 9, meaning
+
+391
+00:12:41,800 --> 00:12:44,500
+my risk on this trade is $1, right?
+
+392
+00:12:44,580 --> 00:12:46,320
+So because my risk is $1, I look
+
+393
+00:12:46,320 --> 00:12:46,940
+at the trade outcome.
+
+394
+00:12:47,460 --> 00:12:49,820
+Now, if the trade outcome is $11, and
+
+395
+00:12:49,820 --> 00:12:52,600
+I profit $1, I just divide the one
+
+396
+00:12:52,600 --> 00:12:54,320
+by one, which I've shown you guys in
+
+397
+00:12:54,320 --> 00:12:56,660
+TradeZilla, my R multiple is one R.
+
+398
+00:12:56,900 --> 00:12:58,480
+I made one times my risk.
+
+399
+00:12:58,800 --> 00:13:00,500
+If I end up selling this at 12,
+
+400
+00:13:01,080 --> 00:13:03,120
+because I made $2 on the trade, and
+
+401
+00:13:03,120 --> 00:13:04,880
+I risked one, my R is two R.
+
+402
+00:13:05,260 --> 00:13:07,340
+If I end up going to 13, I
+
+403
+00:13:07,340 --> 00:13:10,460
+risk $1 to make three, so that's three
+
+404
+00:13:10,460 --> 00:13:10,680
+R.
+
+405
+00:13:11,080 --> 00:13:12,520
+So that's how it works on the upside,
+
+406
+00:13:12,720 --> 00:13:14,080
+and that's how we need to calculate it,
+
+407
+00:13:14,080 --> 00:13:14,260
+right?
+
+408
+00:13:14,620 --> 00:13:16,640
+Now, on the flip side, how R multiple
+
+409
+00:13:16,640 --> 00:13:18,760
+works is the following, right?
+
+410
+00:13:18,800 --> 00:13:20,000
+So when you have a red trade, how
+
+411
+00:13:20,000 --> 00:13:20,500
+does it work?
+
+412
+00:13:20,500 --> 00:13:22,060
+So it's the same exact concept.
+
+413
+00:13:22,260 --> 00:13:23,940
+You buy at 10, you put a stop
+
+414
+00:13:23,940 --> 00:13:24,300
+at 9.
+
+415
+00:13:24,820 --> 00:13:28,160
+Now, if you sell at 9, because you
+
+416
+00:13:28,160 --> 00:13:31,000
+plan to lose $1 and you lost $1,
+
+417
+00:13:31,580 --> 00:13:33,400
+your R is negative one R.
+
+418
+00:13:33,980 --> 00:13:37,080
+But there are instances where your R, and
+
+419
+00:13:37,080 --> 00:13:38,800
+people have asked me, Umar, your R is
+
+420
+00:13:38,800 --> 00:13:40,500
+not a negative one, it's a negative three
+
+421
+00:13:40,500 --> 00:13:42,080
+or a negative something.
+
+422
+00:13:42,660 --> 00:13:45,100
+So when you go to this day, right,
+
+423
+00:13:45,120 --> 00:13:48,840
+my R is negative 3.6. That's where
+
+424
+00:13:48,840 --> 00:13:50,140
+it gets interesting, right?
+
+425
+00:13:50,540 --> 00:13:53,240
+Now, to go into this trade, my stop
+
+426
+00:13:53,240 --> 00:13:56,200
+on this trade was $1.50, okay?
+
+427
+00:13:56,860 --> 00:13:59,260
+And I didn't hit my stop on this
+
+428
+00:13:59,260 --> 00:14:00,700
+particular trade.
+
+429
+00:14:01,060 --> 00:14:04,360
+So what happens when we have trades like
+
+430
+00:14:04,360 --> 00:14:06,840
+this is we start going, well, this is
+
+431
+00:14:06,840 --> 00:14:10,840
+what I'm risking based on my stop, but
+
+432
+00:14:10,840 --> 00:14:12,340
+this is what I lost.
+
+433
+00:14:12,500 --> 00:14:15,920
+So this happens if you don't follow your
+
+434
+00:14:15,920 --> 00:14:16,380
+stop.
+
+435
+00:14:16,380 --> 00:14:18,420
+So if you see your R ends up
+
+436
+00:14:18,420 --> 00:14:21,660
+being more than negative one R consistently, that
+
+437
+00:14:21,660 --> 00:14:24,680
+means you're not following your stop, you're not
+
+438
+00:14:24,680 --> 00:14:27,520
+executing at that number that you originally planned.
+
+439
+00:14:27,820 --> 00:14:30,820
+So I have a negative 3.62 R,
+
+440
+00:14:30,880 --> 00:14:34,060
+I lost 3.62 times what I actually
+
+441
+00:14:34,060 --> 00:14:36,200
+lost in the particular trade, which is a
+
+442
+00:14:36,200 --> 00:14:37,180
+big red flag.
+
+443
+00:14:37,500 --> 00:14:38,920
+So in this particular trade that I was
+
+444
+00:14:38,920 --> 00:14:41,960
+talking about, again, we go at 10, stop
+
+445
+00:14:41,960 --> 00:14:43,200
+at nine, right?
+
+446
+00:14:43,800 --> 00:14:45,760
+If I don't sell at nine, my stop,
+
+447
+00:14:45,880 --> 00:14:49,520
+which was my predetermined stop, losing $1, right?
+
+448
+00:14:49,620 --> 00:14:51,580
+And this goes to seven and I sell
+
+449
+00:14:51,580 --> 00:14:52,100
+at seven.
+
+450
+00:14:52,700 --> 00:14:55,320
+Now I lost $3, risking a dollar.
+
+451
+00:14:55,600 --> 00:14:57,580
+So my R is a negative three R,
+
+452
+00:14:57,860 --> 00:14:59,260
+which is a big red flag.
+
+453
+00:14:59,560 --> 00:15:00,820
+So that's why I look at R a
+
+454
+00:15:00,820 --> 00:15:02,060
+lot, because when I look at R from
+
+455
+00:15:02,060 --> 00:15:03,980
+a risk management point of view, I'm able
+
+456
+00:15:03,980 --> 00:15:06,760
+to identify, am I following my stop?
+
+457
+00:15:07,080 --> 00:15:09,480
+Am I making the most on my trades?
+
+458
+00:15:09,720 --> 00:15:11,160
+It also helps me look at my trades
+
+459
+00:15:11,160 --> 00:15:13,380
+from an actual trading point of view and
+
+460
+00:15:13,380 --> 00:15:15,020
+not a P&L point of view, right?
+
+461
+00:15:15,040 --> 00:15:17,900
+Because I'd rather have 10 trades where I
+
+462
+00:15:17,900 --> 00:15:20,680
+have more than a two R return than
+
+463
+00:15:20,680 --> 00:15:23,560
+have 10 trades where I made $20,000,
+
+464
+00:15:23,900 --> 00:15:27,700
+but the return was 0.5 R, right?
+
+465
+00:15:27,760 --> 00:15:30,180
+Because think about this guys, in trading, we
+
+466
+00:15:30,180 --> 00:15:31,460
+are not always going to be right.
+
+467
+00:15:31,460 --> 00:15:33,300
+It's just a given, like you're going to
+
+468
+00:15:33,300 --> 00:15:33,760
+be wrong.
+
+469
+00:15:33,880 --> 00:15:34,940
+You're going to lose money.
+
+470
+00:15:35,080 --> 00:15:36,920
+And trading is a probability game, right?
+
+471
+00:15:36,960 --> 00:15:40,020
+So if you have an average of, let's
+
+472
+00:15:40,020 --> 00:15:42,440
+say three R or even two R, let's
+
+473
+00:15:42,440 --> 00:15:43,600
+just say two R or three R.
+
+474
+00:15:43,760 --> 00:15:45,420
+If you have a two R, that means
+
+475
+00:15:45,420 --> 00:15:47,120
+you're making two times what you're risking.
+
+476
+00:15:47,780 --> 00:15:50,640
+If you're right five times out of 10
+
+477
+00:15:50,640 --> 00:15:53,500
+times, which is 50% of times, and
+
+478
+00:15:53,500 --> 00:15:55,380
+you have a two R, you're going to
+
+479
+00:15:55,380 --> 00:15:57,760
+be profitable on a 50% win ratio.
+
+480
+00:15:58,140 --> 00:16:00,700
+Now, if your win ratio is even 40%,
+
+481
+00:16:00,700 --> 00:16:01,580
+right?
+
+482
+00:16:01,900 --> 00:16:04,680
+You will still essentially be profitable because you
+
+483
+00:16:04,680 --> 00:16:05,880
+have a good R multiple.
+
+484
+00:16:06,100 --> 00:16:07,760
+You are making more than what you're risking.
+
+485
+00:16:08,100 --> 00:16:09,860
+And that kind of changes the concept where
+
+486
+00:16:09,860 --> 00:16:11,820
+traders think you need to be right all
+
+487
+00:16:11,820 --> 00:16:12,280
+the time.
+
+488
+00:16:12,440 --> 00:16:13,760
+You don't need to be right all the
+
+489
+00:16:13,760 --> 00:16:13,960
+time.
+
+490
+00:16:14,060 --> 00:16:15,900
+You just have to be able to focus
+
+491
+00:16:15,900 --> 00:16:17,500
+on your R multiple.
+
+492
+00:16:17,860 --> 00:16:20,040
+So that's where R is beautiful, right?
+
+493
+00:16:20,060 --> 00:16:22,520
+Because it allows you to look at your
+
+494
+00:16:22,520 --> 00:16:24,060
+trades from a better point of view.
+
+495
+00:16:24,160 --> 00:16:26,260
+And it also allows you to stay profitable
+
+496
+00:16:26,260 --> 00:16:28,380
+by being right less, right?
+
+497
+00:16:28,900 --> 00:16:31,240
+And if you can achieve this to get
+
+498
+00:16:31,240 --> 00:16:33,420
+to a higher number, it allows you to
+
+499
+00:16:33,420 --> 00:16:34,780
+make more money.
+
+500
+00:16:34,960 --> 00:16:36,240
+It allows you to stay in the game
+
+501
+00:16:36,240 --> 00:16:36,600
+longer.
+
+502
+00:16:36,820 --> 00:16:38,580
+A few words of advice that I want
+
+503
+00:16:38,580 --> 00:16:39,500
+to leave to you guys.
+
+504
+00:16:39,600 --> 00:16:41,280
+You know, depending on what stage you're at,
+
+505
+00:16:41,600 --> 00:16:43,060
+understand there's two stages, right?
+
+506
+00:16:43,480 --> 00:16:45,440
+One stage is a trader that's trying to
+
+507
+00:16:45,440 --> 00:16:46,440
+find his or her way.
+
+508
+00:16:46,800 --> 00:16:47,900
+They're trying to find profitability.
+
+509
+00:16:48,020 --> 00:16:49,680
+And second is a trader that has found
+
+510
+00:16:49,680 --> 00:16:52,000
+an edge, has found some profitability, but they're
+
+511
+00:16:52,000 --> 00:16:52,780
+trying to scale up.
+
+512
+00:16:53,140 --> 00:16:55,100
+I'm assuming most people are in stage A.
+
+513
+00:16:55,380 --> 00:16:57,360
+If you're in stage A, guys, keep your
+
+514
+00:16:57,360 --> 00:16:58,000
+risk consistent.
+
+515
+00:16:58,480 --> 00:16:59,400
+Focus on R.
+
+516
+00:16:59,880 --> 00:17:01,140
+Don't increase your risk size.
+
+517
+00:17:01,260 --> 00:17:02,240
+Try to find an edge.
+
+518
+00:17:02,420 --> 00:17:03,800
+And your job here is to just stay
+
+519
+00:17:03,800 --> 00:17:04,180
+alive.
+
+520
+00:17:04,319 --> 00:17:06,079
+Just be able to take as many trades
+
+521
+00:17:06,079 --> 00:17:08,140
+as you possibly can with the least amount
+
+522
+00:17:08,140 --> 00:17:09,900
+of risk, least amount of exposure.
+
+523
+00:17:10,460 --> 00:17:11,540
+This is where you want to get practice
+
+524
+00:17:11,540 --> 00:17:13,020
+in, where you want to test your strategies,
+
+525
+00:17:13,220 --> 00:17:14,920
+test your setups, and just stay alive.
+
+526
+00:17:15,260 --> 00:17:15,839
+Simple as that.
+
+527
+00:17:15,839 --> 00:17:18,060
+If you're in stage B, this is where
+
+528
+00:17:18,060 --> 00:17:19,619
+you have to be able to identify what
+
+529
+00:17:19,619 --> 00:17:21,819
+trades require me to put on a little
+
+530
+00:17:21,819 --> 00:17:22,460
+bit more size.
+
+531
+00:17:22,900 --> 00:17:25,160
+How do I increase size when it's needed?
+
+532
+00:17:25,280 --> 00:17:27,240
+How do I decrease size when markets get
+
+533
+00:17:27,240 --> 00:17:27,720
+difficult?
+
+534
+00:17:27,880 --> 00:17:29,420
+How do I kind of become subjective to
+
+535
+00:17:29,420 --> 00:17:29,840
+that, right?
+
+536
+00:17:29,880 --> 00:17:31,700
+Moving on, if you follow me, if you're
+
+537
+00:17:31,700 --> 00:17:33,100
+on my YouTube, I don't want you guys
+
+538
+00:17:33,100 --> 00:17:35,400
+to have the mindset of, I made $2
+
+539
+00:17:35,400 --> 00:17:35,620
+,000.
+
+540
+00:17:35,840 --> 00:17:36,400
+I don't care.
+
+541
+00:17:36,560 --> 00:17:37,300
+You shouldn't care.
+
+542
+00:17:38,020 --> 00:17:40,400
+What did this person risk?
+
+543
+00:17:40,480 --> 00:17:41,940
+If you talk about a trade, moving on,
+
+544
+00:17:42,020 --> 00:17:43,960
+just wire yourself to be this way.
+
+545
+00:17:44,680 --> 00:17:46,680
+I made a 2.5 R on a
+
+546
+00:17:46,680 --> 00:17:46,880
+trade.
+
+547
+00:17:47,520 --> 00:17:49,200
+That guy said he made $20,000.
+
+548
+00:17:49,300 --> 00:17:51,360
+That lady said she made $15,000.
+
+549
+00:17:51,500 --> 00:17:52,340
+What did they risk?
+
+550
+00:17:52,500 --> 00:17:53,400
+Where was their stop?
+
+551
+00:17:53,620 --> 00:17:55,900
+Was their stop at a good point that
+
+552
+00:17:55,900 --> 00:17:57,220
+proved they would be wrong?
+
+553
+00:17:57,500 --> 00:17:58,720
+Why was their stop there?
+
+554
+00:17:58,820 --> 00:18:00,540
+This is where we shift our mindset, right?
+
+555
+00:18:00,560 --> 00:18:03,080
+We start focusing on becoming better traders, and
+
+556
+00:18:03,080 --> 00:18:04,440
+then the money shows up automatically.
+
+557
+00:18:04,580 --> 00:18:06,840
+We don't go into trades with, oh, I'm
+
+558
+00:18:06,840 --> 00:18:08,240
+going to make this much if I'm right.
+
+559
+00:18:08,680 --> 00:18:10,400
+No, go into every trade.
+
+560
+00:18:11,260 --> 00:18:12,040
+What is my downside?
+
+561
+00:18:12,220 --> 00:18:13,020
+How much am I risking?
+
+562
+00:18:13,540 --> 00:18:16,160
+If you are right on a trade, well,
+
+563
+00:18:16,240 --> 00:18:17,600
+what did I risk to make this?
+
+564
+00:18:17,800 --> 00:18:18,660
+Did it make sense?
+
+565
+00:18:18,940 --> 00:18:20,080
+And there's a lot of times, guys, for
+
+566
+00:18:20,080 --> 00:18:22,500
+myself, I've had days where I literally had
+
+567
+00:18:22,500 --> 00:18:24,580
+a $30,000 or $40,000 day, and
+
+568
+00:18:24,580 --> 00:18:25,820
+I go back to that trade, and I
+
+569
+00:18:25,820 --> 00:18:27,380
+journal, and I recap, and I go, well,
+
+570
+00:18:28,280 --> 00:18:29,720
+based on my stop and based on what
+
+571
+00:18:29,720 --> 00:18:30,940
+I was going to risk on this trade,
+
+572
+00:18:30,960 --> 00:18:33,340
+I was risking $20,000 to make $20
+
+573
+00:18:33,340 --> 00:18:33,660
+,000?
+
+574
+00:18:34,400 --> 00:18:35,400
+That's not sustainable.
+
+575
+00:18:35,920 --> 00:18:37,340
+Okay, well, that's not a good trade.
+
+576
+00:18:37,460 --> 00:18:38,900
+Even though I made $20,000, it's not
+
+577
+00:18:38,900 --> 00:18:40,000
+a good trade, right?
+
+578
+00:18:40,060 --> 00:18:42,200
+And we have to be honest with ourselves
+
+579
+00:18:42,200 --> 00:18:43,220
+with these type of things.
+
+580
+00:18:43,540 --> 00:18:46,640
+So I highly recommend, go back, journal, right,
+
+581
+00:18:46,680 --> 00:18:47,600
+which is like the third point.
+
+582
+00:18:47,980 --> 00:18:49,660
+Go back, journal all your trades.
+
+583
+00:18:50,020 --> 00:18:51,280
+Look at where your stops were.
+
+584
+00:18:51,800 --> 00:18:53,660
+Look at if you were wrong, do those
+
+585
+00:18:53,660 --> 00:18:54,500
+stops make sense?
+
+586
+00:18:54,720 --> 00:18:55,960
+And if they do make sense, then look
+
+587
+00:18:55,960 --> 00:18:57,020
+at the outcome of the trade.
+
+588
+00:18:57,120 --> 00:18:58,780
+Well, if I was wrong in this trade,
+
+589
+00:18:58,800 --> 00:19:01,360
+I would have lost $500, but I only
+
+590
+00:19:01,360 --> 00:19:03,400
+made $200 on the trade, so I was
+
+591
+00:19:03,400 --> 00:19:05,240
+risking $500 to make $200?
+
+592
+00:19:05,520 --> 00:19:07,260
+Whoa, whoa, whoa, whoa, this is not a
+
+593
+00:19:07,260 --> 00:19:07,680
+good trade.
+
+594
+00:19:07,940 --> 00:19:09,240
+This is a terrible trade, actually.
+
+595
+00:19:09,580 --> 00:19:10,900
+Do that with all your trades, and you'll
+
+596
+00:19:10,900 --> 00:19:12,480
+start seeing patterns, right?
+
+597
+00:19:12,540 --> 00:19:14,400
+Because I see traders, they come in, they
+
+598
+00:19:14,400 --> 00:19:16,760
+have three or four weeks of profitability, and
+
+599
+00:19:16,760 --> 00:19:17,480
+they make a lot of money.
+
+600
+00:19:17,600 --> 00:19:20,360
+One week wipes it all out because they're
+
+601
+00:19:20,360 --> 00:19:22,720
+on this three-week journey or period where
+
+602
+00:19:22,720 --> 00:19:24,820
+they're risking $500 to make $200, and then
+
+603
+00:19:24,820 --> 00:19:26,600
+when that risk catches up to them, they
+
+604
+00:19:26,600 --> 00:19:27,060
+lose it all.
+
+605
+00:19:27,760 --> 00:19:29,520
+And then number three, guys, as I mentioned,
+
+606
+00:19:29,520 --> 00:19:32,120
+when you get into trades, just look at
+
+607
+00:19:32,120 --> 00:19:35,080
+every trade from a downside perspective.
+
+608
+00:19:35,320 --> 00:19:36,900
+This is the best advice I can give
+
+609
+00:19:36,900 --> 00:19:37,460
+you traders.
+
+610
+00:19:37,960 --> 00:19:40,280
+Every trade you guys take, look at it,
+
+611
+00:19:40,340 --> 00:19:42,400
+well, if I take this trade, the cost
+
+612
+00:19:42,400 --> 00:19:44,460
+of the trade is $200, meaning if I'm
+
+613
+00:19:44,460 --> 00:19:46,820
+wrong, I will lose $200, and mentally accept
+
+614
+00:19:46,820 --> 00:19:47,420
+that you're wrong.
+
+615
+00:19:47,860 --> 00:19:49,320
+Every time I take it on a trade,
+
+616
+00:19:49,400 --> 00:19:51,940
+I'm like, okay, this trade, based on where
+
+617
+00:19:51,940 --> 00:19:53,900
+my stop is, based on where this trade
+
+618
+00:19:53,900 --> 00:19:54,980
+goes, I will be wrong.
+
+619
+00:19:55,800 --> 00:19:58,460
+Based on my position sizing, I am risking
+
+620
+00:19:58,460 --> 00:19:59,580
+$4,000.
+
+621
+00:19:59,800 --> 00:20:00,860
+I'm risking $10,000.
+
+622
+00:20:01,280 --> 00:20:03,520
+So the cost of this trade is $10
+
+623
+00:20:03,520 --> 00:20:03,980
+,000.
+
+624
+00:20:04,280 --> 00:20:07,040
+Because the cost is $10,000, does it
+
+625
+00:20:07,040 --> 00:20:08,940
+also have room or potential to make me
+
+626
+00:20:08,940 --> 00:20:10,260
+at least two times that?
+
+627
+00:20:10,560 --> 00:20:12,480
+Can this trade that I'm risking $10,000
+
+628
+00:20:12,480 --> 00:20:15,380
+on, can this trade make me $20,000?
+
+629
+00:20:15,660 --> 00:20:17,040
+Can this make me a 2R?
+
+630
+00:20:17,620 --> 00:20:20,620
+That mindset has helped me look at trading
+
+631
+00:20:20,620 --> 00:20:22,260
+from a much better point of view, and
+
+632
+00:20:22,260 --> 00:20:25,420
+it also has drastically improved my trading on
+
+633
+00:20:25,420 --> 00:20:26,340
+so many different levels.
+
+634
+00:20:26,600 --> 00:20:27,980
+So with that being said, I hope you
+
+635
+00:20:27,980 --> 00:20:30,520
+guys incorporate these things, and I want to
+
+636
+00:20:30,520 --> 00:20:31,880
+see you guys make it in this game.
+
+637
+00:20:32,000 --> 00:20:34,820
+And as I keep mentioning, protecting your downside
+
+638
+00:20:34,820 --> 00:20:36,480
+is the most crucial thing.
+
+639
+00:20:36,520 --> 00:20:37,880
+With that being said, thank you so much
+
+640
+00:20:37,880 --> 00:20:38,540
+for watching, everyone.

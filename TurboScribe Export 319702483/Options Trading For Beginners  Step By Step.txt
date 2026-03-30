@@ -1,0 +1,359 @@
+(0:00 - 0:08)
+Big forehead, take two. Hi, my name is Andrei Jikh, hope you're doing well. Come for the finance and stay for the beginner video on options trading.
+
+(0:09 - 0:36)
+This is the big video that I've been meaning to make for so many years, but the truth is, I didn't know how to do options trading back then, and after playing with it for several years now, I still don't. So in today's video, I wanted to invite somebody who does know what they're doing, and his name is Alex Pandrea. He's somebody that I had on my YouTube channel when I first started almost three years ago, and back then, when I created his Robinhood account for him, he had zero experience with investing.
+
+(0:37 - 1:14)
+He started with about $15,000, he started to play around with options, and in just two short years, he was able to turn his $15,000 into well over a million dollars, which is kind of crazy to see that progress. Now, in this video, I'm going to show you how to do options trading with Alex, and it's going to be very complicated. Halfway through, you're gonna get bored, you're gonna be tired of it, you're gonna be like, where is this going? But I promise, if you watch this video all the way through till the end, you will learn three investing strategies that anyone can do, starting with very little money that you can apply today, and hopefully make some money with.
+
+(1:15 - 1:33)
+Now, in this video, I'm not gonna sell you a course. This is not about collecting emails or phone numbers from people. This is all 100% free, so I hope you enjoy it, and hopefully we can simplify options trading and have it go from this, to this.
+
+(1:38 - 1:48)
+So having said all that, let's get Alex on and finally start the video. What is up? This is Alex Pandrea. What's up, man? What is going on? Super excited to finally learn options trading.
+
+(1:48 - 2:00)
+It's something I've always wanted to learn. I already know what you're thinking. What's up? You wanna take your monthly salary and put it into out-of-the-money spy call options expiring tomorrow, make a lot of money, right? If you said yes, you're in the wrong place.
+
+(2:00 - 2:05)
+Get out. It's my house, bro. When we did a video together two years ago, you started with about $16,000.
+
+(2:06 - 2:12)
+I set up your Robinhood account, and in two years, show everybody your portfolio. I'm gonna make you do this. He's gonna make me do this.
+
+(2:13 - 2:25)
+This is what it is. All right, so this is from trading options in the last two years from about $16,000. It is now worth about 1.2 million, which is a crazy return.
+
+(2:25 - 2:42)
+It doesn't really seem realistic to me. You started my account with about, in Robinhood, I've been investing long-term for, since I was 20 years old or something, consistently, but when I got into Robinhood, I started learning more about trading and investing in different types. So I've been trying to learn over the last few years.
+
+(2:42 - 2:49)
+He's like, Andre's dividend investing is so boring. None of that Warren Buffett stuff. Well, I was watching the videos, and I was like, I need something else, man.
+
+(2:49 - 2:55)
+This is just like, yeah. The thing is about options trading is you don't have to be like this crazy day trader. Definitely not.
+
+(2:55 - 3:10)
+There is definitely a stigma to it that it is risky and that it's like almost going to the roulette table and putting it all on black, let's go. But that's the preconceived kind of thoughts that people have, especially in the last few years with Wall Street bets and the forums and everything that's going on. You're like, options, stay away.
+
+(3:10 - 3:25)
+Or if you're like a gambler, baby, options, sign me up. I'm terrified of options, which is why I've always wanted to learn it because I know there are very safe ways of doing options in a way that makes you some extra money. And you can essentially turn any portfolio into an almost dividend paying portfolio.
+
+(3:26 - 3:36)
+There's many different choices and options, no pun intended, for options. When you buy a stock, you can buy a stock, you can sell a stock. There's very few, it's limited.
+
+(3:36 - 3:48)
+Let's just get started with it. We've pumped it, we've hyped it enough. The first question I have is, what is the difference between buying stocks normally, like buying and selling stocks, which I totally understand, and options trading? Well, that's a very good question, Andre.
+
+(3:48 - 3:55)
+I'm glad you asked that. So get your phones ready because we're gonna go into this right after that. You got it? Yeah.
+
+(3:55 - 4:02)
+He's ahead of the game, this one. So when you're buying a stock, you can hold it forever. Sure, if you can live that long.
+
+(4:04 - 4:11)
+But in options, you have expiration dates and the contract will expire at some point. So it's not a forever thing. The second thing is leverage.
+
+(4:12 - 4:26)
+You have to understand that one option contract controls 100 shares of whatever the underlying stock is in your company. Okay, so if I buy one option contract, whatever it is, in Apple, you're controlling 100 shares. So you're leveraging up the position with less money.
+
+(4:26 - 4:36)
+So you're telling me one option is worth 100 shares? I don't even know how you do that and I'm watching from behind. Yeah. Yeah, this is totally incredible.
+
+(4:38 - 4:47)
+And the last thing is that there's just more choice. There's a variety of different things that you can do rather than just buying and selling a stock, which is basically what you could do with stocks. There's just a lot more choice.
+
+(4:47 - 4:55)
+All right, so pull your phone out and follow along. This is not gonna make any sense to you. When I first was shown this, I didn't make any sense to me, but I don't know about you.
+
+(4:55 - 5:08)
+Look, it didn't make sense to me either, but that's why we're here, right? To learn the basics and contract and options have a few key elements that I think are important to understand. Okay. And we're gonna go through them one by one and then we're gonna go through examples.
+
+(5:08 - 5:23)
+Yeah, and then I promised we're gonna apply these techniques to actually make some money with, but here's the interface. So walk me through to the beginning. Okay, so go ahead, grab your phone and go to your favorite underlying, your favorite asset, your favorite stock company, whatever you wanna call it, whatever turns you on.
+
+(5:23 - 5:30)
+We're gonna use our capital to purchase these underlying equities. While adjusting your bow tie, yeah. So go ahead, in this case, we chose Apple.
+
+(5:31 - 5:42)
+Okay. So as you can see at the bottom right-hand corner, you have trade. You might have to turn this feature on in Robinhood if it's not turned on already to get option trading, but you'll notice a few options here.
+
+(5:42 - 5:55)
+You can buy the shares, you can sell the shares if you have them, or you can trade options, and that's what we're gonna go on. So go ahead, click trade options, and you're gonna get something that pops up that looks a little bit like this. Now, at first, you're gonna be like, oh, I gotta read all of this.
+
+(5:55 - 6:04)
+It's very confusing looking, yeah. Gonna be like up, down, left, right. You're gonna be turning around in circles, you'll get dizzy, and then you wouldn't wanna do any of this anymore because you'd be like, I just need to lay down.
+
+(6:04 - 6:10)
+So don't worry, take it easy. We're gonna go through each of the key elements, starting with the top. Now, the top has a bunch of dates on there.
+
+(6:10 - 6:21)
+Okay. This is called the expiration date and is the first key feature of an options contract. And basically, what the expiration date is is how long is the contract gonna be valid for.
+
+(6:22 - 6:42)
+Two people make a contract, there's an expiration date, it expires then, and that is what the dates here represent. So you'll notice that it has August 6th, which is tomorrow, right? August 13th, which is next week, or September 3rd, which is next month. So as you can see, the options go out even to a few years out, right? So the farther out you go, the less risky it is.
+
+(6:43 - 6:48)
+And the closer you pick a date, the more risk you're taking. 100%. Because it's very hard to predict what's gonna happen tomorrow.
+
+(6:48 - 6:55)
+But we could probably predict that two years from now, the market will probably go a little bit higher. Yes, or probably not do something. Right.
+
+(6:56 - 7:04)
+As you'll see in the next example. So let's pick a date. Let's go September 3rd, a month from now, all right? Now, you'll notice once you hit a date, a whole bunch of things pop up.
+
+(7:05 - 7:09)
+Yes. Looks like a jet pilot screen. For those jet pilots out there, you'll be like, oh, wow.
+
+(7:09 - 7:15)
+This is my jam. But for everybody else, us included, we gotta just learn a little bit about the basics. Right.
+
+(7:15 - 7:25)
+So if we look in the middle here, we see share price, $146. This is what the current price of Apple, in this case, is right now at the time of recording. Now on the left side, you have strike prices.
+
+(7:26 - 7:33)
+We call them strike prices, which is basically the future potential price of the stock. Okay. So it could go up or it could go down.
+
+(7:33 - 7:39)
+This is pretty basic. But we have strike prices. We have 147, 148, 149, 150.
+
+(7:39 - 7:49)
+So strike prices are basically what the stock should be worth at the end of the contract. But investors could never use really simple words like that's what the price is. So far, so good.
+
+(7:49 - 8:07)
+Okay. Now the third key piece is just the premium and the contract, which is here on the side where you see all of these little numbers, $3.40, $3.95. This is called the premium. And the premium is the amount of money that is paid by the buyer or collected by the seller for the contract itself.
+
+(8:07 - 8:26)
+So those are the three key elements that you need to know. The expiration date, all right? When the contract expires, how long it's valid to, the strike price, the potential future price of the underlying stock, and the premium, which is either paid or collected. Let's give you an example of actually applying this stuff.
+
+(8:26 - 8:40)
+So you'll see it and it'll make a lot more sense. So in our contract, there's a few things that we have to discuss, right? Is the key elements that we just talked about, right? The expiration date, the strike price, et cetera. I wanna have the rights to buy this deck of cards six months from now.
+
+(8:40 - 8:49)
+And that is the expiration date, six months from now. And now we also have to put a price on it. I am willing to buy this for, let's say $13, okay? I think it's gonna go up to 15.
+
+(8:50 - 9:05)
+So I'm gonna put my strike price in at $13, let's say, but I think it could go maybe even more than that. So I'll just pick a strike price, $13, but I know this is selling for 10 right now. So now we've had the strike price figured out as well, okay? We have the expiration date, we have the strike price.
+
+(9:06 - 9:20)
+And now Andre comes to me and goes, why would I wanna enter into an agreement with this guy? Why would I want the contractual obligation? The reason I would ever wanna go into a contract with this guy is because he's gonna pay me a premium. Cough it up, son. What do you want, a dollar? Give me that dollar.
+
+(9:20 - 9:25)
+Oh, it didn't work. Give me that dollar. So that's my premium that I get to keep.
+
+(9:26 - 9:33)
+And that's the benefit for entering into a contract. Now our contract represents a hundred of these decks. It's not one deck, it's a hundred of them.
+
+(9:33 - 9:58)
+And we already know that, right? One contract controls a hundred shares of the underlying asset, or in this case, Apple, that we did, or in this case, a deck of cards, all right? So with this contract, we've already established our terms and we're gonna see how it plays out, okay? So options could be broken up into two sections, calls and puts. Option is basically just two things. It could either be a call or it could be a put.
+
+(9:58 - 10:05)
+And you can do one of two things with those options. You can buy a put or you can sell a put. You can buy a call or you can sell a call.
+
+(10:05 - 10:10)
+Simple. These are the four options. We're gonna jump right into exactly what each of those mean.
+
+(10:10 - 10:20)
+Very important to understand. And once we do that, we can go into some examples and make some money. Okay, so now that Alex is gone, let me just explain it in my own words because it's pretty complicated, but hopefully this helps.
+
+(10:20 - 10:54)
+First, you can buy a call option. This makes you a bull because you think that the stock is going to go up in value beyond the strike price at or before the date of expiration, at which point you have the option to buy that stock, but you also have to pay somebody a premium for doing that. Now you can buy what's called a put option, which is just a way for you to be a bear, which means that you think the stock will go down below the strike price at or before the date of expiration, at which point you have the option to sell your shares, but you also have to pay someone a premium for doing that.
+
+(10:54 - 11:30)
+Now you could also sell what are called call options, which means you have the obligation to sell your shares at a strike price at that expiration date, and you make money by collecting those premiums for selling those call options. Now, if the stock does not hit the strike price, you do not have to sell your shares and you get to keep your premium, but you can also sell the put option, which is the obligation to buy the stock at the strike price at or before the date of expiration. And again, you make money by collecting the premiums.
+
+(11:30 - 11:38)
+And if the stock does not hit the strike price, then you don't have to buy those shares. That's how it works. Those are the four things you can kind of do.
+
+(11:38 - 11:50)
+That's a very simple explanation, which I know is still complicated. So just press the J button on your keyboard a few times to go back and hopefully it makes more sense. Now that you know all of that, let's apply these techniques to your investing and hopefully make some money.
+
+(11:50 - 11:57)
+There's three ways to actually do this. And we're gonna start with the first one, which is selling covered calls. Yes, a very easy strategy.
+
+(11:58 - 12:18)
+If you are out there and you already have a portfolio of a bunch of stock with at least 100 shares of each, you can then sell a covered call, which basically means selling calls, exactly what you just explained, and collect the premium on your already invested shares. So let's go ahead and do that. So it's almost like you're getting some dividends.
+
+(12:18 - 12:22)
+So go ahead and show me how you would sell an option. So go ahead, trade. Okay, trade.
+
+(12:23 - 12:32)
+And then you're gonna hit trade options. And then again, like we did before, we're gonna pick an expiration date. I usually tend to think a safe route is a few months out, let's say.
+
+(12:33 - 12:40)
+Call it two months out. So go two months out. Okay, so what is that, October? Sure, let's do, yeah, October, September, that's fine.
+
+(12:41 - 12:52)
+So now, again, we're going to sell a call, which means- Sell call. Perfect. So we're going to sell the call, which means hit the sell button and hit the call button.
+
+(12:52 - 13:13)
+And once you do this, all you have to ask yourself is, I don't think Apple will get to X strike price. So go ahead and choose a strike price of where you don't think that Apple will be by October 15th. And guess what? Your opinion is fine, but Robinhood here does the calculation for you.
+
+(13:13 - 13:22)
+As you can see here, you have your strike prices and next to them, chance of profit. Now, if you go for a chance of profit, let's say 83%. I'm going to do that.
+
+(13:22 - 13:30)
+I want to do 83%. Okay, which is 83% chance you're going to make money off of this trade. Which means Apple will most likely not get to $160 by October.
+
+(13:30 - 13:43)
+That's right, and if it does, all that means is you are going to be forced or obligated to sell that- My shares. Your shares at that price. But it means that my investment doesn't go to zero.
+
+(13:43 - 13:53)
+It's not like I lose everything. All it means is just my stocks are forced to be sold. And that's okay because I'll still have money to either buy back into Apple, or I could buy something else.
+
+(13:53 - 14:07)
+And the best thing is you're still collecting the premium on it. So if you own a hundred shares, so for example, for me, if I put one, that represents 100 shares, my premium would be $177, which is pretty incredible. And if I put two, that's 200.
+
+(14:07 - 14:15)
+I know I have at least 200 shares. I don't want to have 300, so I can't put three, but I know I could use at least two. And that would give me a premium of $354.
+
+(14:15 - 14:26)
+That's right. So if Apple does not get to $160, you get to keep that premium, all $354, which you get right away. And you don't have to sell your shares.
+
+(14:26 - 14:29)
+So let's do it. Review. Bam, swipe up.
+
+(14:30 - 14:36)
+And it's gone. Now I still receive my dividends, even though Robinhood took it as collateral, right? That's right. It's still your shares.
+
+(14:37 - 14:47)
+These are yours that you own. They're just keeping it there just in case. All right, so the second application of options trading is buying stocks by selling puts, right? Yes.
+
+(14:47 - 15:02)
+So basically you might be out there saying, I want to buy whatever stock you're interested in. And before you go straight into buying that, you take a second and you say, hold on. I can probably get a better price by using options to get into my position.
+
+(15:03 - 15:16)
+So remember, selling a put is the obligation to buy that underlying. So we're going to use that to our advantage. So what company do you want to invest in? So I've always wanted to buy the win, but maybe I can get a better price on it.
+
+(15:16 - 15:23)
+Right now it's 98 bucks. And maybe you're saying I could do better than 98. So go ahead, trade.
+
+(15:23 - 15:32)
+Go to trade options. And we're going to pick first and foremost, the expiration date. So let's go to the end of the year, let's say the December 17th.
+
+(15:32 - 15:40)
+Okay. So now you have your option of, do I buy? Do I sell? Do I call? Do I put? All of that stuff. What do we do? Sell.
+
+(15:40 - 15:44)
+What did you call me? All right. Sell, put. Perfect.
+
+(15:44 - 15:58)
+So now you just have to ask yourself, what price do you want to pay? And are you okay owning win at? Right. So I'm okay with owning the win at, I mean, even honestly at these prices, but let's say $85. $85 is perfect.
+
+(15:58 - 16:05)
+I'm perfectly happy with owning it at $85. Okay. So worst case, and we're not saying worst case scenario now because you actually do want to own it.
+
+(16:05 - 16:17)
+Sometimes you're selling the put just to collect the premium, hoping it doesn't get there. But in this case, and a lot of institutions use this method to get into and out of positions, we're going to go to the strike price of 85. Great.
+
+(16:17 - 16:28)
+And for every one contract, that's going to have you buy a hundred shares. So let's just say one, for example, and you're going to collect a premium of $523. There you go.
+
+(16:29 - 16:41)
+So if it doesn't reach 85, guess what? You're going to collect that whole premium and go home happy, pappy, get yourself some Uber Eats and- Some Pokemon Uncut sheets. Oh, for 500 bucks. Nice.
+
+(16:42 - 16:44)
+That's not going to happen. Good deals right here. That's not going to happen.
+
+(16:44 - 16:57)
+And if it does hit that price, then guess what? You are obligated- I'm forced to buy those positions. I will be forced to buy a hundred shares at $85. Which is okay because when selling options, you just have to ask yourself.
+
+(16:57 - 17:03)
+And I'm going to ask you now, are you okay owning win at 85? We already established that. The answer is yes. That's good.
+
+(17:03 - 17:06)
+And we're good to go. We're good to go. So you're going to collect that premium.
+
+(17:06 - 17:15)
+Go ahead and hit review. And you need buying power, right? As collateral, just like we did covered calls. You're using collateral of your shares.
+
+(17:16 - 17:26)
+In Robinhood, for this case, you need to be enough to buy the 100 shares of stock. So make sure you have that. Robinhood will keep that as collateral and you'll be on your merry way.
+
+(17:26 - 17:40)
+So now I've just made $520 of premium right away. And on December 17th, if the win does not hit, that $85, I get to keep that $520. Because the option will expire worthless and you don't have to do anything.
+
+(17:40 - 17:50)
+Nothing happens. But if the win does hit $85 or below, then I would have to buy a hundred shares worth at $85. Which by his standards is okay.
+
+(17:51 - 17:53)
+Okay with me too. We're good to go. Done.
+
+(17:53 - 17:56)
+Bingo, bingo. Bongo. Bongo drums.
+
+(17:56 - 18:11)
+Where they at? All right, and the third option is something called leaps, which are pretty cool. Yeah, so basically we understand the fact that one option contracts controls 100 shares. And again, we're taking advantage of all these options, key features in our investing.
+
+(18:11 - 18:17)
+So if you want to, let's say buy Apple. So you want to buy Apple. Yeah, which is pretty expensive.
+
+(18:18 - 18:27)
+And I might not have the money to buy a hundred shares. And that's perfect because we just learned about options and we understand that one option share controls a hundred. You got it.
+
+(18:27 - 18:31)
+And they got it too. They're yelling at the screen, 100 shares. And smashing that like button.
+
+(18:31 - 18:45)
+It's so smooth. You're so smooth. So if you want to invest in Apple and maybe don't have the capital to buy a hundred shares, which is going to be at this price, $146 times, it's going to be $14,000 to buy 100 shares.
+
+(18:45 - 18:51)
+You can control that 100 shares by buying some options. So let's go ahead and do that. This is really interesting.
+
+(18:51 - 19:09)
+So just quick math here, a hundred times $146 is roughly $14,600 ish, right? Now let's say I don't have $14,500 to buy a hundred shares, but this is what we can do. We could go to trade, trade options. And we're going to pick an expiration date.
+
+(19:09 - 19:15)
+Really far. Really far, yes. So the farthest we can go in this case is September 15th, 2023.
+
+(19:16 - 19:34)
+Great, so that's a few years out. We're going to buy our call. So now you have to ask yourself, what price do I think Apple will be by September 23rd, 2023? Well, I don't know what price it will be, but I think it'll be above a hundred dollars.
+
+(19:34 - 19:44)
+That's a very good call. Get it, call? So we can make the bet that Apple will be above a hundred dollars. So we can go ahead and buy the call option for a hundred dollars.
+
+(19:44 - 20:00)
+Now, in this case, you'll notice something. If we go down to a hundred, the strike price of a hundred, we're going to give ourselves two years for Apple to be above a hundred dollars. But if you take a look right here, break even, it says 153, because we have to take into account the premium that we paid.
+
+(20:01 - 20:22)
+So yeah, this is the interesting thing. So even though it might seem as though by buying one contract for a lot cheaper, for example, if we click on this, you could see that right now today, it's going to cost me $5,340. And for that amount of money, you get to control a hundred shares and that's a lot cheaper than paying $14,600.
+
+(20:22 - 20:30)
+Exactly. But the catch is that this is a premium. You have to pay somebody to exercise this, right? To get a control of a hundred shares.
+
+(20:31 - 20:41)
+But that's why right here, the break even number that you see shows you $153. That means the strike price plus the premium that you're right. It's taking into account the premium.
+
+(20:41 - 20:56)
+So two years from today, if Apple is $153 and 40 cents, that means you technically broke even you didn't make any money. So for you to actually make money, Apple should be worth more than that. So 153 is around what the price is today.
+
+(20:56 - 21:07)
+We're basically saying our bet is it'll be worth more than it is today. Now, what if Apple actually drops below a hundred dollars? You lose money. There's no easy way to say it.
+
+(21:07 - 21:16)
+I mean, there is an inherent risk of options. This is one of them, right? But you have to keep in mind that you do not have to hold a contract to expiration. You can sell it further.
+
+(21:16 - 21:33)
+So if you're in profit a little bit, or if you're in profit loss and you think you're going to lose more, you sell it and you move on. The reason that you want to do this, maybe over buying a hundred shares is because again, you may not have enough money to do that with a hundred shares. And because you want to leverage and be exposed to the performance of Apple and still make money.
+
+(21:33 - 21:35)
+You got it. I'm impressed. I don't know what else to say.
+
+(21:36 - 21:49)
+Wait, that means I could take your monthly salary and put it into out of the money, spied fall options expiring tomorrow, make a lot of money. And that was options trading. So go check out Alex's channel on YouTube.
+
+(21:49 - 21:55)
+He just started it. He's going to talk about investing options, trading business, traveling, all sorts of things. He's like the magic Harry Potter.
+
+(21:55 - 22:04)
+That's better looking and more talented than me. And I'm really proud of him for turning his portfolio into over a million dollars. It's crazy what he's been able to accomplish.
+
+(22:04 - 22:10)
+And I think you'll learn a lot from his channel. So go check him out. And in the meantime, go get up those two free stocks with Weeble.
+
+(22:10 - 22:20)
+When you deposit a hundred dollars using the link down below, you'll get up to $250 worth of free Bitcoin using this block by link right here and go track those stocks automatically with the Patreon link down below. Love you. Thank you so much for watching.
+
+(22:21 - 22:22)
+I'll see you soon. Peace.

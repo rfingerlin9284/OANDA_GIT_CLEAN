@@ -1,0 +1,647 @@
+1
+00:00:00,170 --> 00:00:01,330
+All right, S&P is taking out this
+
+2
+00:00:01,330 --> 00:00:02,350
+85 in the...
+
+3
+00:00:02,350 --> 00:00:03,150
+I'm Stephen Klagian.
+
+4
+00:00:03,290 --> 00:00:05,450
+I'm the chief market strategist of TickerTocker and
+
+5
+00:00:05,450 --> 00:00:06,090
+co-founder.
+
+6
+00:00:06,270 --> 00:00:07,430
+I've been trading for 36 years.
+
+7
+00:00:07,570 --> 00:00:09,410
+I settled on the Florida American Stock Exchange,
+
+8
+00:00:09,570 --> 00:00:10,850
+then went over to the New York Stock
+
+9
+00:00:10,850 --> 00:00:13,050
+Exchange, and then went to the COMEX, and
+
+10
+00:00:13,050 --> 00:00:13,990
+then to the Board of Trade.
+
+11
+00:00:14,110 --> 00:00:15,610
+Well, I have five key words that I
+
+12
+00:00:15,610 --> 00:00:16,950
+tell anyone who's trading.
+
+13
+00:00:17,130 --> 00:00:18,490
+I don't care if you're a novice trader
+
+14
+00:00:18,490 --> 00:00:20,370
+or even if you're a top professional.
+
+15
+00:00:22,830 --> 00:00:24,710
+Where I come from, it's very simple.
+
+16
+00:00:25,050 --> 00:00:26,370
+It's got to be about consistency.
+
+17
+00:00:26,610 --> 00:00:27,930
+Number one is consistency.
+
+18
+00:00:27,930 --> 00:00:30,690
+I learned a great story about consistency from
+
+19
+00:00:30,690 --> 00:00:32,090
+a guy who was trading in the gold
+
+20
+00:00:32,090 --> 00:00:32,370
+pit.
+
+21
+00:00:32,630 --> 00:00:34,790
+He was a clerk making $100 a week,
+
+22
+00:00:34,870 --> 00:00:36,970
+and he just got married, and he was
+
+23
+00:00:36,970 --> 00:00:37,650
+having a baby.
+
+24
+00:00:37,870 --> 00:00:39,170
+And he knew that this was the only
+
+25
+00:00:39,170 --> 00:00:41,270
+time in his life that he could go
+
+26
+00:00:41,270 --> 00:00:43,430
+from being a clerk to going into the
+
+27
+00:00:43,430 --> 00:00:45,630
+gold pit to actually become a trader in
+
+28
+00:00:45,630 --> 00:00:46,990
+the gold pit on the COMEX.
+
+29
+00:00:47,170 --> 00:00:49,030
+And as a clerk, he was making $100
+
+30
+00:00:49,030 --> 00:00:52,390
+a day, so $500 a week back then.
+
+31
+00:00:52,690 --> 00:00:55,870
+And he then took the same philosophy into
+
+32
+00:00:55,870 --> 00:00:56,650
+the gold pit.
+
+33
+00:00:56,650 --> 00:00:58,950
+Goal was to make $100 a day.
+
+34
+00:00:59,450 --> 00:01:01,430
+After one month, he would then bump it
+
+35
+00:01:01,430 --> 00:01:02,030
+up to $200.
+
+36
+00:01:02,190 --> 00:01:03,730
+So if he lost $100, he stopped.
+
+37
+00:01:03,830 --> 00:01:05,130
+If he made $100, he stopped.
+
+38
+00:01:05,190 --> 00:01:06,470
+No matter what time of the day it
+
+39
+00:01:06,470 --> 00:01:08,430
+was, he took his trading cards, put it
+
+40
+00:01:08,430 --> 00:01:09,770
+in his pocket, and that was the end
+
+41
+00:01:09,770 --> 00:01:10,010
+of it.
+
+42
+00:01:10,370 --> 00:01:13,210
+So when I started trading upstairs for an
+
+43
+00:01:13,210 --> 00:01:15,450
+individual at the time, I decided to tighten
+
+44
+00:01:15,450 --> 00:01:16,050
+it up a little bit.
+
+45
+00:01:16,090 --> 00:01:17,430
+So I would try to make $100 a
+
+46
+00:01:17,430 --> 00:01:19,250
+day every week, then bump it up, and
+
+47
+00:01:19,250 --> 00:01:20,610
+then bump it up each and every week.
+
+48
+00:01:20,670 --> 00:01:22,030
+So after the first week, $100.
+
+49
+00:01:22,550 --> 00:01:24,110
+The second week, $200.
+
+50
+00:01:24,110 --> 00:01:27,350
+The third week, $300, and continually moving forward.
+
+51
+00:01:27,570 --> 00:01:29,570
+So to me, that's the most important thing
+
+52
+00:01:29,570 --> 00:01:30,090
+as a trader.
+
+53
+00:01:30,250 --> 00:01:32,170
+You don't want to make $100 on a
+
+54
+00:01:32,170 --> 00:01:34,950
+Monday, $100 on a Tuesday, lose $500 on
+
+55
+00:01:34,950 --> 00:01:37,750
+a Wednesday, lose $200 on a Thursday, make
+
+56
+00:01:37,750 --> 00:01:39,410
+$100 on a Friday.
+
+57
+00:01:39,610 --> 00:01:41,910
+And overall, you're net-net in the red
+
+58
+00:01:41,910 --> 00:01:42,390
+for the week.
+
+59
+00:01:42,430 --> 00:01:44,370
+And if you continue to do that, you'll
+
+60
+00:01:44,370 --> 00:01:45,750
+just eat up all your capital.
+
+61
+00:01:46,050 --> 00:01:48,270
+The second word that I tell everyone that's
+
+62
+00:01:48,270 --> 00:01:50,350
+super important is about discipline.
+
+63
+00:01:50,350 --> 00:01:52,970
+So the greatest story I have about discipline
+
+64
+00:01:52,970 --> 00:01:56,090
+is I had $3,000 to my name.
+
+65
+00:01:56,190 --> 00:01:58,150
+The first trade I ever did was an
+
+66
+00:01:58,150 --> 00:01:59,330
+option that was on the floor of the
+
+67
+00:01:59,330 --> 00:02:00,510
+American Stock Exchange.
+
+68
+00:02:01,210 --> 00:02:02,970
+And there was a stock that was right
+
+69
+00:02:02,970 --> 00:02:04,670
+behind me called American Can.
+
+70
+00:02:05,070 --> 00:02:06,530
+And it was a Dow stock, and the
+
+71
+00:02:06,530 --> 00:02:09,590
+stock was trading above 51 and change, I
+
+72
+00:02:09,590 --> 00:02:10,750
+believe, something like that.
+
+73
+00:02:10,930 --> 00:02:12,530
+And I bought an option.
+
+74
+00:02:12,710 --> 00:02:14,270
+I think it was October, and I bought
+
+75
+00:02:14,270 --> 00:02:15,430
+a Feb 50 call.
+
+76
+00:02:16,030 --> 00:02:18,750
+So a call option is that you're hoping
+
+77
+00:02:18,750 --> 00:02:22,710
+that by the time, sometime between then and
+
+78
+00:02:22,710 --> 00:02:25,710
+February, that the stock price would go higher.
+
+79
+00:02:25,910 --> 00:02:27,630
+And the call option that I bought at
+
+80
+00:02:27,630 --> 00:02:29,910
+two and three quarters would be higher than
+
+81
+00:02:29,910 --> 00:02:31,050
+what I purchased to that.
+
+82
+00:02:31,210 --> 00:02:33,290
+The stock started tanking over the next couple
+
+83
+00:02:33,290 --> 00:02:34,290
+weeks and then months.
+
+84
+00:02:34,390 --> 00:02:35,810
+And I think it traded all the way
+
+85
+00:02:35,810 --> 00:02:37,350
+down to $41 a share.
+
+86
+00:02:37,670 --> 00:02:41,150
+And my $3,000 investment was actually worth
+
+87
+00:02:41,150 --> 00:02:43,370
+pennies because I kept on buying all the
+
+88
+00:02:43,370 --> 00:02:45,630
+way down, utilizing the whole $3,000.
+
+89
+00:02:46,170 --> 00:02:48,250
+And I would never forget about a couple
+
+90
+00:02:48,250 --> 00:02:51,290
+weeks before the option expired, standing on the
+
+91
+00:02:51,290 --> 00:02:53,450
+floor, my head in my hands, and a
+
+92
+00:02:53,450 --> 00:02:55,150
+guy patted me on the back and said,
+
+93
+00:02:55,270 --> 00:02:56,130
+hey, kid, go home.
+
+94
+00:02:56,350 --> 00:02:58,150
+You can't turn the machines back on.
+
+95
+00:02:58,310 --> 00:03:00,590
+A week before expiration, the stock, if I
+
+96
+00:03:00,590 --> 00:03:02,690
+remember correctly, to my best recollection, went from
+
+97
+00:03:02,690 --> 00:03:04,170
+41 to like 54.
+
+98
+00:03:04,470 --> 00:03:07,170
+And at 3.45 in the afternoon, right
+
+99
+00:03:07,170 --> 00:03:09,170
+before the markets were going to close, my
+
+100
+00:03:09,170 --> 00:03:10,710
+father walked over to me, who was a
+
+101
+00:03:10,710 --> 00:03:11,550
+floor broker.
+
+102
+00:03:11,950 --> 00:03:12,550
+He was a member.
+
+103
+00:03:13,010 --> 00:03:14,430
+And he said to me, are you out?
+
+104
+00:03:14,830 --> 00:03:16,610
+And I said, I'm out because the stock
+
+105
+00:03:16,610 --> 00:03:18,770
+was trading higher and I sold all my
+
+106
+00:03:18,770 --> 00:03:20,830
+options out for a pretty nice profit.
+
+107
+00:03:20,950 --> 00:03:22,250
+He said to me, when I came on
+
+108
+00:03:22,250 --> 00:03:24,350
+the floor of the exchange on Monday, I
+
+109
+00:03:24,350 --> 00:03:25,670
+found a penny faced up.
+
+110
+00:03:25,750 --> 00:03:27,270
+And I said, oh, OK.
+
+111
+00:03:27,390 --> 00:03:29,510
+He said, what did you learn from this?
+
+112
+00:03:29,530 --> 00:03:31,150
+I said, whenever you have a losing trade,
+
+113
+00:03:31,190 --> 00:03:32,490
+you look for a penny faced up.
+
+114
+00:03:32,810 --> 00:03:34,910
+And he said, no, you never average down.
+
+115
+00:03:34,910 --> 00:03:38,070
+So to me, that was, again, the fact
+
+116
+00:03:38,070 --> 00:03:40,730
+that preservation of capital, I learned the hard
+
+117
+00:03:40,730 --> 00:03:40,910
+way.
+
+118
+00:03:40,990 --> 00:03:42,310
+I got very, very lucky.
+
+119
+00:03:43,310 --> 00:03:46,690
+And you basically do not want to average
+
+120
+00:03:46,690 --> 00:03:47,070
+down.
+
+121
+00:03:47,310 --> 00:03:49,310
+When you're wrong, you're out and you go
+
+122
+00:03:49,310 --> 00:03:49,910
+back in.
+
+123
+00:03:50,050 --> 00:03:51,870
+You can always make it back up again.
+
+124
+00:03:52,470 --> 00:03:55,350
+And that was probably the greatest lesson I
+
+125
+00:03:55,350 --> 00:03:55,770
+ever learned.
+
+126
+00:03:55,850 --> 00:03:58,090
+My first trade, I learned about discipline.
+
+127
+00:03:58,290 --> 00:04:00,030
+The third key word is confidence.
+
+128
+00:04:00,230 --> 00:04:02,630
+That to me is like, wake up every
+
+129
+00:04:02,630 --> 00:04:05,110
+single morning and you do this and traded
+
+130
+00:04:05,110 --> 00:04:07,970
+my own money for practically my whole life.
+
+131
+00:04:08,110 --> 00:04:09,410
+You don't think about it.
+
+132
+00:04:09,430 --> 00:04:11,870
+You just go in and you're confident based
+
+133
+00:04:11,870 --> 00:04:14,250
+upon the skills and the tools that you
+
+134
+00:04:14,250 --> 00:04:15,070
+have in front of you.
+
+135
+00:04:15,149 --> 00:04:16,810
+And that's why I built TickerTocker for.
+
+136
+00:04:17,250 --> 00:04:18,329
+I built TickerTocker.
+
+137
+00:04:18,410 --> 00:04:20,089
+And I built all the technology here that's
+
+138
+00:04:20,089 --> 00:04:23,170
+within TickerTocker to give the novice traders, the
+
+139
+00:04:23,170 --> 00:04:26,150
+retail traders, the most sophisticated traders, the proper
+
+140
+00:04:26,150 --> 00:04:28,150
+tools within the platform that I created.
+
+141
+00:04:28,290 --> 00:04:30,270
+The fourth word is patience.
+
+142
+00:04:30,270 --> 00:04:32,310
+As you saw today, there are some lows
+
+143
+00:04:32,310 --> 00:04:32,830
+in the day.
+
+144
+00:04:32,830 --> 00:04:34,790
+And I'm very patient and waiting for the
+
+145
+00:04:34,790 --> 00:04:37,110
+opportunity to address and wait patiently for those
+
+146
+00:04:37,110 --> 00:04:38,030
+patterns to set up.
+
+147
+00:04:38,170 --> 00:04:39,770
+And then the fifth key word is that
+
+148
+00:04:39,770 --> 00:04:40,970
+you have to have the passion.
+
+149
+00:04:41,330 --> 00:04:43,150
+The passion to do this every single day.
+
+150
+00:04:43,290 --> 00:04:44,630
+I'm 56 years old.
+
+151
+00:04:44,770 --> 00:04:46,390
+I have more passion in me now than
+
+152
+00:04:46,390 --> 00:04:47,570
+I did when I first started.
+
+153
+00:04:47,930 --> 00:04:49,410
+There's nothing greater than at the end of
+
+154
+00:04:49,410 --> 00:04:52,070
+the day, talking to people and hearing, you
+
+155
+00:04:52,070 --> 00:04:54,290
+know, their comments and the trades that they
+
+156
+00:04:54,290 --> 00:04:56,690
+did and how well they did and more
+
+157
+00:04:56,690 --> 00:04:59,270
+so how they're learning and how they're fully
+
+158
+00:04:59,270 --> 00:05:01,910
+understanding everything that I designed in this room.
+
+159
+00:05:01,910 --> 00:05:03,790
+And then on the TickerTocker platform.
+
+160
+00:05:03,950 --> 00:05:06,150
+So to me, these five key words are
+
+161
+00:05:06,150 --> 00:05:08,690
+essential to be able to become a great
+
+162
+00:05:08,690 --> 00:05:09,010
+trader.

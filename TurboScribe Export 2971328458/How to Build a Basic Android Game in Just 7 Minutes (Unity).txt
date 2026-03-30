@@ -1,0 +1,64 @@
+(0:00 - 4:16)
+So the trick to Android development is to choose the right tools for the job and to learn only the skills you really need to build the kind of app that you want to make. I believe that the best tool for Android game development is Unity. It makes the whole process so much quicker and simpler, so much so that in this video I'm going to show you how you can get something up and running in just seven minutes. 
+
+So Unity is a game engine, that means it handles things like the physics and controls, it provides certain assets for you ready-made, it basically makes the whole process of creating a game much simpler, so you can focus on what makes the game unique and on the assets and on the design and let Unity handle a lot of the more advanced code. You only need very little code to get started with Unity and what you do use you can find tons of guides and references online to help you through. That said, Unity is still very powerful, very flexible and it's used by a lot of professional developers. 
+
+In fact many of your favorite games from the Play Store were probably built using Unity. Were you to try and make a game in Android Studio you'd need to learn Java, you need to understand classes and libraries, you need to create the physics engine yourself, so you're handling things like gravity and collision, whereas Unity does all that for you and makes it so much easier, while still being as powerful as you could need even as a professional developer. If you're someone who'd like to create an Android game but you think maybe it's too difficult, it involves too much code, then I hope this video is going to demonstrate just how quick and simple and easy the whole process can be. 
+
+I'm going to really run through it though, so if you want to slow things down and understand what each step does, then follow the link in the description down below. As you'll see though, the process really is very simple. You don't need any prior knowledge and as long as you've got Unity and the Android SDK installed on your computer already, then you'll be good to go. 
+
+Okay so seven minutes, let's go! So the first thing you want in any game is probably player character, so you're going to open up Paint or whatever, I mean obviously there's better tools to use for this, but this is all about the gravity. And the easiest and quickest player character to make is a square with a face, full of attitude this guy. You're going to take Squarey and you're going to drop him into your game like that, so he's a sprite. 
+
+We also need some platforms for him to walk on, so drag your platform into your game in the exact same way. Cool thing is, look, you can drag and reshape this, so if you copy that and then paste it, you can make as many as you want. Select your player character, Squarey, and then you're going to open up here on the right, the Inspector. 
+
+In the Inspector, you're going to say Add Component, Physics 2D, Rigid Body 2D. So this is basically 2D physics for your character. What we're going to do is we're going to drag the camera onto Squarey like so in the hierarchy. 
+
+These along the top here are controls that you can use to decide what you want to do with your game objects, and that one's used for moving stuff around. If we place it right on top of Squarey, then it kind of makes more sense because you can click play and now he's in the center of the screen. So anything that's a child of anything else will follow that thing around. 
+
+Anyways, enough talk. Work. Okay, so select Squarey. 
+
+The problem you can obviously see here is he's falling through the ground, so we want to add another component, and this time we're going to add Physics 2D, Box Collider 2D, and we're going to do the same thing with the platform here. Add Component, Physics 2D, Box Collider 2D. Once more, and if we copy these now, then we'll also be copying over that new collider and the new physics. 
+
+Okay, so now click play, and hey, that's starting to look more promising. Okay, now the next thing we're going to do is create our first script so that we can actually start controlling what happens in this game. But don't worry, it's very easy. 
+
+So first of all, go down to your assets folder in the project window here, and you're going to right-click anywhere and say Create Folder Script. Now, with that open, right-click and say Create C Sharp Script, and we're going to call this Player Controls. Okay, so double-click on that, and it should open up Visual Studio for you here.
+
+(4:16 - 4:58)
+All right, and this is your first script. You'll see there's already some code here. I'm referring to a reference here because I'm not, you know, Mr. Remember. 
+
+However, I did write the reference, so it doesn't feel like cheating. All right, so what we're doing up here is we're going to create a new object of the type Rigidbody 2D. Like I say, don't worry too much about this. 
+
+You can learn as you go. It's going to be that same Rigidbody that is attached to our player character. So in order to move our character, all we need to do is say RB, which is the new Rigidbody, which refers to the Rigidbody attached to our player.
+
+(5:00 - 5:37)
+Velocity equals new Vector2, and that's a point that has two axes, and we're going to say 1. That seems like a decent speed to start off with, and then RB Velocity Y. Okay, so now open back up Unity. Click on your player like that, and then go to Add Component just as you did before. This time we're going to say Scripts, and then there you have it. 
+
+You have your player control script that you made. Click Play. We should speed along. 
+
+Well, speed along is a strong word, but yeah, he's certainly moving. I think that's three. He's going to move three times as quickly.
+
+(5:39 - 7:22)
+Yeah, that's challenging. We want to open up our script again. Okay, and then we're going to say during our method, if input getMouseButtonDown, index zero, then we're going to say RB Velocity Y. RB Velocity equals new Vector2. 
+
+RB Velocity X, and then we'll make that three. So if the player clicks the mouse whilst the game is running, then he should move upwards now. I know what you're thinking. 
+
+You're saying, Adam, there isn't a mouse click on Android, but that's the cool thing because a mouse click is equivalent to tapping anywhere on the screen. Bear with me. We're just going to type out some variables, and you don't need to worry about what these mean. 
+
+I will explain it all as we go. On ground, so our Boolean, our true or false statement equals physics2D overlap circle ground check dot position ground check radius. What is ground? I'm going to add one more thing here, which is and on ground.
+
+(7:22 - 9:30)
+Now we're going to create a new empty game object, and we're going to call that check ground, and this is an invisible object that we're going to use to see if there's an overlap to see whether or not we're hovering over the ground. Of course, we want it to move as Squarey moves, so just like the camera, I'm going to drop it underneath Squarey so that it becomes a child. Now if you click Squarey, you should see that in the script we have some new options, and the ground check is a transform. 
+
+Then take check ground and drop it in to ground check. I'm going to set the radius to 0.1. We want it to be nice and small, and then now we're going to create our new layer mask. So select your platform, and up here in the inspector, you can see it has the option for layer, and you're going to go add layer. 
+
+Then you're going to make this layer called ground. If you click back to the inspector, you can now select ground as your layer. Okay, so now go back to your player, and then the last public variable, what is ground, you're going to set that to your new layer, as ground. 
+
+Now, fingers crossed it should work, unless we've forgotten something. So when he's on the ground, you can click click, and he'll jump. When he's not on the ground, he doesn't jump. 
+
+There you go, and that is the basis of a fun little game. And yeah, if you followed my advice at the start of this video, and you went through the installation process, and set up Unity and the Android SDK, you should now be able to test your game on your Android phone. And it's quite a great feeling when you see it come to life on your device. 
+
+Okay, so it's something pretty basic, but it's a great foundation to build upon. And there's not that much more code necessary for handling things like enemies, collectibles, next levels, and tilt controls. Once you've done that, you can just focus on designing your different graphics and dragging them, dropping them into the scene. 
+
+So I hope you found this video useful and interesting, guys. If you did, then please leave a like. Subscribe to the channel if you'd like to see more like this. 
+
+Hit the bell button if you want notifications. Comment down below if you have any questions. And of course, check out AndroidAuthority.com, for we are your source for all things Android.

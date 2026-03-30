@@ -1,0 +1,2099 @@
+1
+00:00:00,170 --> 00:00:02,090
+So I turned $10 into over $1,300
+
+2
+00:00:02,090 --> 00:00:03,550
+in about a month to prove it's not
+
+3
+00:00:03,550 --> 00:00:05,050
+luck and that the only thing that matters
+
+4
+00:00:05,050 --> 00:00:06,090
+is your skill in trading.
+
+5
+00:00:06,250 --> 00:00:07,670
+You don't need a large amount of money
+
+6
+00:00:07,670 --> 00:00:08,790
+to make good returns.
+
+7
+00:00:09,010 --> 00:00:09,930
+So I want to show you the full
+
+8
+00:00:09,930 --> 00:00:12,010
+process I use to flip this small account
+
+9
+00:00:12,010 --> 00:00:13,490
+and I also just wanted to prove that
+
+10
+00:00:13,490 --> 00:00:15,110
+trading can be simpler than you think.
+
+11
+00:00:15,590 --> 00:00:17,790
+You just need one strategy, trade one pair
+
+12
+00:00:17,790 --> 00:00:20,170
+at one time and it's easy.
+
+13
+00:00:20,630 --> 00:00:22,330
+Like it doesn't have to be overly complicated.
+
+14
+00:00:22,530 --> 00:00:23,770
+Okay, first we're just going to cover risk
+
+15
+00:00:23,770 --> 00:00:24,170
+management.
+
+16
+00:00:24,490 --> 00:00:26,410
+So how much do I risk each trade?
+
+17
+00:00:26,870 --> 00:00:28,730
+What is the risk percentage, lot size, all
+
+18
+00:00:28,730 --> 00:00:29,230
+that sort of stuff.
+
+19
+00:00:29,350 --> 00:00:31,330
+Risk reward versus win rate, you have to
+
+20
+00:00:31,330 --> 00:00:31,950
+understand this.
+
+21
+00:00:32,010 --> 00:00:33,610
+You need to have a trading journal to
+
+22
+00:00:33,610 --> 00:00:36,870
+track everything to understand your win rate, your
+
+23
+00:00:36,870 --> 00:00:39,370
+risk reward, your average max drawdown of your
+
+24
+00:00:39,370 --> 00:00:40,330
+own unique system.
+
+25
+00:00:40,590 --> 00:00:42,350
+I have it all tracked down so I
+
+26
+00:00:42,350 --> 00:00:44,470
+know my win rate is 80% plus.
+
+27
+00:00:44,910 --> 00:00:46,810
+So I target around 1.5, I have
+
+28
+00:00:46,810 --> 00:00:48,250
+an 80% win rate so it's very
+
+29
+00:00:48,250 --> 00:00:48,570
+profitable.
+
+30
+00:00:49,990 --> 00:00:52,310
+But the thing is here, I focus mainly
+
+31
+00:00:52,310 --> 00:00:52,950
+on win rate.
+
+32
+00:00:53,270 --> 00:00:54,430
+A lot of people say to focus on
+
+33
+00:00:54,430 --> 00:00:56,670
+risk all that sort of stuff but I've
+
+34
+00:00:56,670 --> 00:00:57,590
+never found it helped me.
+
+35
+00:00:58,210 --> 00:01:00,130
+I'm more confident when I'm winning more often
+
+36
+00:01:00,130 --> 00:01:02,390
+and I trade better when I'm more confident.
+
+37
+00:01:02,670 --> 00:01:04,230
+So that's just what I focus on.
+
+38
+00:01:04,950 --> 00:01:07,170
+Smaller, more consistent moves, I trade in a
+
+39
+00:01:07,170 --> 00:01:09,410
+way that consistently gets more wins every single
+
+40
+00:01:09,410 --> 00:01:09,670
+day.
+
+41
+00:01:10,610 --> 00:01:12,510
+They're still having a positive risk to reward,
+
+42
+00:01:13,090 --> 00:01:14,750
+it's just focusing more on those probabilities.
+
+43
+00:01:15,310 --> 00:01:16,130
+Why is that?
+
+44
+00:01:17,650 --> 00:01:19,570
+A lot of people say to risk one
+
+45
+00:01:19,570 --> 00:01:19,890
+to two.
+
+46
+00:01:20,210 --> 00:01:21,950
+So have two times the reward of your
+
+47
+00:01:21,950 --> 00:01:22,310
+risk.
+
+48
+00:01:22,310 --> 00:01:25,530
+Yes, but likely everyone that I've coached and
+
+49
+00:01:25,530 --> 00:01:27,490
+mentored, they have around a 50% win
+
+50
+00:01:27,490 --> 00:01:30,030
+rate if they're succeeding really well with that.
+
+51
+00:01:30,630 --> 00:01:32,730
+But with a one to two, you have
+
+52
+00:01:32,730 --> 00:01:36,130
+a 97% chance of six losses in
+
+53
+00:01:36,130 --> 00:01:36,530
+a row.
+
+54
+00:01:37,410 --> 00:01:39,450
+Are you comfortable with taking six losses in
+
+55
+00:01:39,450 --> 00:01:39,690
+a row?
+
+56
+00:01:41,050 --> 00:01:43,130
+For a smaller risk to reward, a higher
+
+57
+00:01:43,130 --> 00:01:46,410
+win rate system like mine, higher probability scalping,
+
+58
+00:01:47,250 --> 00:01:49,710
+it's a 80 plus percent win rate.
+
+59
+00:01:50,410 --> 00:01:53,250
+I have a 86% chance of two
+
+60
+00:01:53,250 --> 00:01:54,010
+losses in a row.
+
+61
+00:01:54,790 --> 00:01:57,330
+I'm okay, really comfortable taking two losses in
+
+62
+00:01:57,330 --> 00:01:57,530
+a row.
+
+63
+00:01:58,090 --> 00:02:00,430
+So I just focus on small, consistent scalps
+
+64
+00:02:00,430 --> 00:02:01,290
+with a high win rate.
+
+65
+00:02:01,550 --> 00:02:04,550
+It's easier to execute on and it's easy
+
+66
+00:02:04,550 --> 00:02:08,050
+to be confident and trade well when it's
+
+67
+00:02:08,050 --> 00:02:09,729
+unlikely that I'll take more than three losses
+
+68
+00:02:09,729 --> 00:02:10,110
+in a row.
+
+69
+00:02:11,050 --> 00:02:13,730
+So understanding your win rate, it will help
+
+70
+00:02:13,730 --> 00:02:16,210
+you understand how many losing trades in a
+
+71
+00:02:16,210 --> 00:02:17,050
+you can expect.
+
+72
+00:02:17,910 --> 00:02:19,710
+And then once you know that, you can
+
+73
+00:02:19,710 --> 00:02:21,250
+then decide on how much to risk.
+
+74
+00:02:21,450 --> 00:02:23,530
+So my risk on a small account is
+
+75
+00:02:23,530 --> 00:02:24,450
+always going to be higher.
+
+76
+00:02:24,610 --> 00:02:25,970
+My leverage was one to 500.
+
+77
+00:02:26,210 --> 00:02:27,830
+So I had a good amount of leverage,
+
+78
+00:02:28,250 --> 00:02:31,730
+but I don't care if I blow $10.
+
+79
+00:02:32,170 --> 00:02:33,790
+So I can treat this small account like
+
+80
+00:02:33,790 --> 00:02:38,950
+a big account and risk 50% or
+
+81
+00:02:38,950 --> 00:02:40,110
+30% mainly.
+
+82
+00:02:40,270 --> 00:02:42,190
+So it was around 30 to 50%
+
+83
+00:02:43,830 --> 00:02:44,230
+risk.
+
+84
+00:02:44,230 --> 00:02:46,270
+Because I have a really high win rate,
+
+85
+00:02:46,430 --> 00:02:47,570
+I can risk a lot higher.
+
+86
+00:02:48,410 --> 00:02:51,170
+I can risk 30% pretty comfortably.
+
+87
+00:02:52,090 --> 00:02:53,870
+If you watch any of my Instagram reels,
+
+88
+00:02:54,050 --> 00:02:56,650
+you know I close my losses early.
+
+89
+00:02:57,190 --> 00:02:59,110
+So it's never actually that 50, 30%
+
+90
+00:02:59,110 --> 00:02:59,570
+loss.
+
+91
+00:02:59,870 --> 00:03:00,970
+It's a little bit less.
+
+92
+00:03:01,230 --> 00:03:02,450
+So I always close my losses early.
+
+93
+00:03:02,550 --> 00:03:05,070
+I always manage risk aggressively and I always
+
+94
+00:03:05,070 --> 00:03:05,930
+look to add to win.
+
+95
+00:03:05,970 --> 00:03:08,050
+If you have a lower win rate around
+
+96
+00:03:08,050 --> 00:03:13,830
+60, 50%, your percentage should decrease maybe around
+
+97
+00:03:13,830 --> 00:03:19,530
+10% or 20%, depending on your win
+
+98
+00:03:19,530 --> 00:03:19,770
+rate.
+
+99
+00:03:20,470 --> 00:03:22,870
+So the amount you risk should always be
+
+100
+00:03:22,870 --> 00:03:23,850
+based off your win rate.
+
+101
+00:03:24,070 --> 00:03:26,470
+You can only know your win rate if
+
+102
+00:03:26,470 --> 00:03:27,270
+you journal your trades.
+
+103
+00:03:27,530 --> 00:03:28,910
+So you better journal your trades.
+
+104
+00:03:29,290 --> 00:03:30,670
+I've never really cared about risk towards.
+
+105
+00:03:30,910 --> 00:03:32,590
+I think it's kind of overrated to target
+
+106
+00:03:32,590 --> 00:03:33,750
+one to twos, one to threes.
+
+107
+00:03:33,750 --> 00:03:36,430
+So my average risk reward is around one
+
+108
+00:03:36,430 --> 00:03:38,890
+to 1.5, but sometimes I take one
+
+109
+00:03:38,890 --> 00:03:40,130
+to one, sometimes negative.
+
+110
+00:03:40,830 --> 00:03:43,110
+But I focus on the probability of each
+
+111
+00:03:43,110 --> 00:03:45,130
+move and I always look to manage my
+
+112
+00:03:45,130 --> 00:03:47,110
+losses more aggressively, add to my winners.
+
+113
+00:03:47,530 --> 00:03:49,410
+So it still gives me a positive risk
+
+114
+00:03:49,410 --> 00:03:49,690
+reward.
+
+115
+00:03:49,910 --> 00:03:51,270
+It gives me a lot higher of a
+
+116
+00:03:51,270 --> 00:03:53,510
+win rate because I'm trading based on probabilities.
+
+117
+00:03:53,750 --> 00:03:55,570
+I'm not trying to force a risk to
+
+118
+00:03:55,570 --> 00:03:58,050
+reward on a market on conditions that actually
+
+119
+00:03:58,050 --> 00:03:59,710
+might not be the right way.
+
+120
+00:03:59,890 --> 00:04:02,950
+It's all about probabilities and it's consistent.
+
+121
+00:04:03,130 --> 00:04:04,930
+If you want to be consistently profitable, you
+
+122
+00:04:04,930 --> 00:04:06,010
+first need to be consistent.
+
+123
+00:04:06,410 --> 00:04:08,090
+That means doing the same actions every single
+
+124
+00:04:08,090 --> 00:04:08,410
+day.
+
+125
+00:04:08,810 --> 00:04:10,610
+If you're trading multiple different pairs at multiple
+
+126
+00:04:10,610 --> 00:04:13,090
+different times, using multiple different strategies, you're not
+
+127
+00:04:13,090 --> 00:04:14,650
+going to be consistent and you're probably not
+
+128
+00:04:14,650 --> 00:04:15,130
+going to make money.
+
+129
+00:04:15,269 --> 00:04:16,410
+Also embrace uncertainty.
+
+130
+00:04:16,890 --> 00:04:19,269
+Like this account flip, I've blown multiple accounts
+
+131
+00:04:19,269 --> 00:04:19,890
+before this.
+
+132
+00:04:20,589 --> 00:04:22,130
+And if you're going to do this as
+
+133
+00:04:22,130 --> 00:04:24,270
+well, accept the likelihood that you might blow
+
+134
+00:04:24,270 --> 00:04:24,670
+that account.
+
+135
+00:04:24,870 --> 00:04:26,550
+Nothing is certain in trading and you have
+
+136
+00:04:26,550 --> 00:04:27,310
+to accept that.
+
+137
+00:04:27,450 --> 00:04:29,370
+And so risk management is closely tied to
+
+138
+00:04:29,370 --> 00:04:31,950
+your technical analysis or strategy because if you
+
+139
+00:04:31,950 --> 00:04:33,330
+have a higher win rate, you can risk
+
+140
+00:04:33,330 --> 00:04:33,610
+more.
+
+141
+00:04:33,870 --> 00:04:35,250
+If it's lower, you can risk less.
+
+142
+00:04:35,350 --> 00:04:38,050
+It's all about understanding your approach, the pros
+
+143
+00:04:38,050 --> 00:04:39,670
+and cons of it, and then adjusting your
+
+144
+00:04:39,670 --> 00:04:41,270
+risk accordingly.
+
+145
+00:04:42,150 --> 00:04:44,170
+So I use pure price action, a three
+
+146
+00:04:44,170 --> 00:04:47,030
+-step approach, and always try to stack those
+
+147
+00:04:47,030 --> 00:04:49,990
+conferences to put probabilities in my favor.
+
+148
+00:04:50,350 --> 00:04:51,770
+So I trade at the same time every
+
+149
+00:04:51,770 --> 00:04:54,110
+single day on gold using the same strategy.
+
+150
+00:04:54,370 --> 00:04:56,690
+So that is the second hour of Asia.
+
+151
+00:04:57,110 --> 00:05:00,790
+That's 11 a.m. Australian Eastern Standard Time.
+
+152
+00:05:01,730 --> 00:05:03,970
+And I trade the exact same way every
+
+153
+00:05:03,970 --> 00:05:06,030
+single day and aim to take the same
+
+154
+00:05:06,030 --> 00:05:06,770
+type of trades.
+
+155
+00:05:07,010 --> 00:05:08,550
+So I trade live with my Discord every
+
+156
+00:05:08,550 --> 00:05:10,650
+single day at the exact same time, that
+
+157
+00:05:10,650 --> 00:05:12,750
+second hour of Asia, and catch the same
+
+158
+00:05:12,750 --> 00:05:13,290
+sort of moves.
+
+159
+00:05:13,550 --> 00:05:17,650
+So sales on gold using some DXY correlation,
+
+160
+00:05:17,750 --> 00:05:19,070
+which we'll go over as well.
+
+161
+00:05:20,090 --> 00:05:22,050
+Exact same trades, exact same time.
+
+162
+00:05:22,210 --> 00:05:24,810
+10.52, 11 a.m. It's always going
+
+163
+00:05:24,810 --> 00:05:26,810
+to be around 11 a.m. Because I
+
+164
+00:05:26,810 --> 00:05:28,330
+guarantee you, if you just trade at the
+
+165
+00:05:28,330 --> 00:05:30,410
+exact same time every single day and trade
+
+166
+00:05:30,410 --> 00:05:31,710
+on the same pair, you're going to see
+
+167
+00:05:31,710 --> 00:05:32,710
+the same things happening.
+
+168
+00:05:32,990 --> 00:05:34,870
+I'm going to go through some examples of
+
+169
+00:05:34,870 --> 00:05:36,770
+how the exact same thing happened every single
+
+170
+00:05:36,770 --> 00:05:38,390
+day for the past three days in a
+
+171
+00:05:38,390 --> 00:05:38,530
+row.
+
+172
+00:05:38,730 --> 00:05:40,730
+So I took the same trade pretty much
+
+173
+00:05:40,730 --> 00:05:42,470
+three days in a row, and it's really
+
+174
+00:05:42,470 --> 00:05:44,310
+easy to be consistent when you're just doing
+
+175
+00:05:44,310 --> 00:05:44,890
+the same things.
+
+176
+00:05:45,230 --> 00:05:46,870
+So this is how you get a really
+
+177
+00:05:46,870 --> 00:05:47,570
+high win rate.
+
+178
+00:05:48,050 --> 00:05:51,150
+You just niche down into one small thing,
+
+179
+00:05:51,690 --> 00:05:53,330
+and you get really good at that.
+
+180
+00:05:53,450 --> 00:05:54,290
+It's simply this.
+
+181
+00:05:54,650 --> 00:05:55,990
+It's a three-step approach.
+
+182
+00:05:56,850 --> 00:06:00,030
+You have your direction, you have an area
+
+183
+00:06:00,030 --> 00:06:02,610
+of interest, and then you have an entry
+
+184
+00:06:02,610 --> 00:06:02,870
+model.
+
+185
+00:06:03,270 --> 00:06:07,270
+This can be a shift, a type three,
+
+186
+00:06:07,450 --> 00:06:08,970
+or could be like a break-in retest,
+
+187
+00:06:09,150 --> 00:06:12,090
+volume shifting in your direction, could be like
+
+188
+00:06:12,090 --> 00:06:14,170
+a break of a low, volume shifting in
+
+189
+00:06:14,170 --> 00:06:14,510
+direction.
+
+190
+00:06:14,810 --> 00:06:16,610
+I just use that simple three-step approach,
+
+191
+00:06:16,750 --> 00:06:19,410
+direction, area of interest, entry model, stacking probabilities,
+
+192
+00:06:19,650 --> 00:06:21,090
+stacking confidences in my favor.
+
+193
+00:06:21,350 --> 00:06:23,450
+So I break price action down into counter
+
+194
+00:06:23,450 --> 00:06:24,930
+behavior and market structure.
+
+195
+00:06:25,230 --> 00:06:27,570
+So counter behavior is how an individual candle
+
+196
+00:06:27,570 --> 00:06:29,570
+moves throughout the life cycle of a candle.
+
+197
+00:06:29,970 --> 00:06:31,450
+So this is a good example here.
+
+198
+00:06:32,230 --> 00:06:34,250
+When we're moving bullish, and we have a
+
+199
+00:06:34,250 --> 00:06:37,210
+bullish candle close above a recent high and
+
+200
+00:06:37,210 --> 00:06:40,250
+low, I'm expecting that to continue moving bullish,
+
+201
+00:06:41,010 --> 00:06:44,250
+but I first expect it to create a
+
+202
+00:06:44,250 --> 00:06:46,010
+bottom wick in that first half of that
+
+203
+00:06:46,010 --> 00:06:46,270
+candle.
+
+204
+00:06:46,390 --> 00:06:48,190
+So if this is a day, I expect
+
+205
+00:06:48,190 --> 00:06:51,890
+it to be bearish first to create a
+
+206
+00:06:51,890 --> 00:06:54,870
+wick, fill in this body, and then push
+
+207
+00:06:54,870 --> 00:06:55,470
+bullish.
+
+208
+00:06:56,850 --> 00:06:58,750
+If it's bearish, I expect it to create
+
+209
+00:06:58,750 --> 00:07:01,270
+a top wick and then flip and push
+
+210
+00:07:01,270 --> 00:07:01,730
+bearish.
+
+211
+00:07:02,250 --> 00:07:04,790
+So in this scenario here, since it's bullish,
+
+212
+00:07:05,530 --> 00:07:07,690
+it should open, create a bottom wick first,
+
+213
+00:07:07,770 --> 00:07:08,590
+and then push bullish.
+
+214
+00:07:09,490 --> 00:07:11,690
+That's just because price tends to fill its
+
+215
+00:07:11,690 --> 00:07:12,010
+moves.
+
+216
+00:07:12,790 --> 00:07:14,670
+It's a push and pull between buyers and
+
+217
+00:07:14,670 --> 00:07:14,930
+sellers.
+
+218
+00:07:15,270 --> 00:07:17,570
+So I'm trading at that second hour here,
+
+219
+00:07:17,730 --> 00:07:19,690
+that second hour of Asia.
+
+220
+00:07:20,470 --> 00:07:22,990
+So at that new 4-hour candle, that's
+
+221
+00:07:22,990 --> 00:07:23,470
+what I'm trading.
+
+222
+00:07:24,330 --> 00:07:26,670
+So we had this 4-hour close bearish.
+
+223
+00:07:27,230 --> 00:07:28,710
+So I was expecting it to create a
+
+224
+00:07:28,710 --> 00:07:30,510
+top wick first on that 4-hour candle,
+
+225
+00:07:30,730 --> 00:07:32,510
+and then drive down to create that bottom
+
+226
+00:07:32,510 --> 00:07:33,610
+wick on that daily candle.
+
+227
+00:07:33,830 --> 00:07:36,550
+So using that counter behavior on different time
+
+228
+00:07:36,550 --> 00:07:37,850
+frames to find direction.
+
+229
+00:07:38,190 --> 00:07:40,410
+So the first step finding direction, I'm using
+
+230
+00:07:40,410 --> 00:07:44,030
+counter behavior, bit of market structure, because when
+
+231
+00:07:44,030 --> 00:07:46,750
+we're over bullish on high time frame, especially
+
+232
+00:07:46,750 --> 00:07:49,150
+for Asia session, will be bearish first to
+
+233
+00:07:49,150 --> 00:07:51,250
+create a bottom wick, and then push bullish.
+
+234
+00:07:51,650 --> 00:07:54,010
+If I'm looking for a sell, I'm looking
+
+235
+00:07:54,010 --> 00:07:56,510
+for the 4-hour to first create a
+
+236
+00:07:56,510 --> 00:07:59,510
+top wick, a reaction to some highs, maybe
+
+237
+00:07:59,510 --> 00:08:01,310
+after it takes out a high, looking for
+
+238
+00:08:01,310 --> 00:08:02,570
+a reversal off that.
+
+239
+00:08:03,610 --> 00:08:06,330
+So low time frame bearish, high time frame
+
+240
+00:08:06,330 --> 00:08:09,030
+bullish, something like this.
+
+241
+00:08:10,090 --> 00:08:12,030
+This is what to my Discord when I
+
+242
+00:08:12,030 --> 00:08:13,510
+was trading with them live this morning.
+
+243
+00:08:14,530 --> 00:08:17,330
+And then I use DXY correlation as well.
+
+244
+00:08:17,510 --> 00:08:18,410
+This is what it was looking like.
+
+245
+00:08:18,510 --> 00:08:20,090
+You had a break of a low, a
+
+246
+00:08:20,090 --> 00:08:22,630
+break of a high, the reaction to an
+
+247
+00:08:22,630 --> 00:08:24,510
+area of interest, but this would be a
+
+248
+00:08:24,510 --> 00:08:24,970
+type 3.
+
+249
+00:08:25,270 --> 00:08:26,710
+So type 3 is just a shift in
+
+250
+00:08:26,710 --> 00:08:29,090
+market structure where you're breaking a low, then
+
+251
+00:08:29,090 --> 00:08:30,550
+breaking a high, one coming in.
+
+252
+00:08:30,970 --> 00:08:33,309
+So just looking for a continuation of that
+
+253
+00:08:33,309 --> 00:08:34,270
+there.
+
+254
+00:08:35,150 --> 00:08:37,130
+So we're currently pulling back, reaction to this
+
+255
+00:08:37,130 --> 00:08:37,370
+high.
+
+256
+00:08:38,370 --> 00:08:40,510
+So I was just waiting for that there.
+
+257
+00:08:41,270 --> 00:08:42,650
+So I'm not taking a trade in these
+
+258
+00:08:42,650 --> 00:08:44,210
+conditions because it's kind of low time frame
+
+259
+00:08:44,210 --> 00:08:44,690
+range bound.
+
+260
+00:08:45,010 --> 00:08:47,150
+I'm waiting for it to create a top
+
+261
+00:08:47,150 --> 00:08:48,990
+wick on that 4-hour candle first.
+
+262
+00:08:51,490 --> 00:08:53,650
+Creating a top wick on that 4-hour
+
+263
+00:08:53,650 --> 00:08:53,910
+candle.
+
+264
+00:08:56,290 --> 00:08:58,870
+You had a break of a high, a
+
+265
+00:08:58,870 --> 00:09:01,270
+strong reaction to that area there.
+
+266
+00:09:02,110 --> 00:09:03,290
+Really strong reaction.
+
+267
+00:09:04,010 --> 00:09:05,510
+And what was DXY looking like here?
+
+268
+00:09:07,450 --> 00:09:09,950
+You're having a bit of a reaction to
+
+269
+00:09:09,950 --> 00:09:10,750
+around this area of interest.
+
+270
+00:09:12,990 --> 00:09:15,050
+And then as soon as we broke this
+
+271
+00:09:15,050 --> 00:09:19,010
+high here, this little high there, then the
+
+272
+00:09:19,010 --> 00:09:21,110
+next one, you have a break of that
+
+273
+00:09:21,110 --> 00:09:21,590
+high there.
+
+274
+00:09:21,790 --> 00:09:24,590
+That's looking pretty bullish for continuation of this
+
+275
+00:09:24,590 --> 00:09:25,110
+overall shift.
+
+276
+00:09:25,630 --> 00:09:27,270
+So you had a break of a low,
+
+277
+00:09:27,350 --> 00:09:29,610
+break of a high, a type 3 continuation
+
+278
+00:09:29,610 --> 00:09:32,970
+with gold looking bearish.
+
+279
+00:09:33,090 --> 00:09:34,110
+You had volume coming in.
+
+280
+00:09:35,170 --> 00:09:36,250
+This is looking pretty nice.
+
+281
+00:09:36,770 --> 00:09:39,270
+You also had the 4-hour looking like
+
+282
+00:09:39,270 --> 00:09:41,770
+it was going to flip bearish.
+
+283
+00:09:42,150 --> 00:09:44,130
+So this is the 4-hour candle flipping
+
+284
+00:09:44,130 --> 00:09:45,090
+bearish there.
+
+285
+00:09:45,430 --> 00:09:47,830
+So really nice quick little scalp.
+
+286
+00:09:49,110 --> 00:09:52,450
+Stop behind the high, targeting previous low of
+
+287
+00:09:52,450 --> 00:09:55,170
+the range for a nice pretty clear clean
+
+288
+00:09:55,170 --> 00:09:56,270
+trade there.
+
+289
+00:09:59,250 --> 00:10:01,610
+And so that was the 2nd hour of
+
+290
+00:10:01,610 --> 00:10:05,430
+Asia using that direction area of interest, using
+
+291
+00:10:05,430 --> 00:10:07,090
+market structure, using candle behaviour.
+
+292
+00:10:07,530 --> 00:10:10,690
+Then an entry model such as volume coming
+
+293
+00:10:10,690 --> 00:10:14,210
+in for a reversal and a DXY type
+
+294
+00:10:14,210 --> 00:10:15,510
+3 pushing bullish.
+
+295
+00:10:19,970 --> 00:10:22,850
+So you can look at entry models on
+
+296
+00:10:22,850 --> 00:10:24,850
+DXY and use them to take trades on
+
+297
+00:10:24,850 --> 00:10:25,130
+gold.
+
+298
+00:10:25,430 --> 00:10:27,950
+This is why I love trading correlation.
+
+299
+00:10:32,570 --> 00:10:35,850
+So at the exact same time or around
+
+300
+00:10:35,850 --> 00:10:37,810
+the exact same time, the day before this,
+
+301
+00:10:38,690 --> 00:10:40,010
+you had pretty much the exact same thing
+
+302
+00:10:40,010 --> 00:10:40,330
+happen.
+
+303
+00:10:40,710 --> 00:10:43,990
+You had the 4-hour open, immediately go
+
+304
+00:10:43,990 --> 00:10:44,450
+bullish.
+
+305
+00:10:45,590 --> 00:10:47,330
+It took a little buy before it created
+
+306
+00:10:47,330 --> 00:10:49,590
+that top wick, react to this previous area
+
+307
+00:10:49,590 --> 00:10:50,070
+of interest.
+
+308
+00:10:51,030 --> 00:10:52,670
+And then we had a pullback, a type
+
+309
+00:10:52,670 --> 00:10:53,510
+3 shift here.
+
+310
+00:10:54,230 --> 00:10:57,430
+Type 3 shift, entering on that pullback, a
+
+311
+00:10:57,430 --> 00:11:00,090
+reaction for a nice little scalp that continued
+
+312
+00:11:00,090 --> 00:11:00,630
+further on.
+
+313
+00:11:01,850 --> 00:11:03,130
+And that looks like that.
+
+314
+00:11:05,010 --> 00:11:07,450
+And then the day before that, at the
+
+315
+00:11:07,450 --> 00:11:09,830
+exact same time as well, that 2nd hour
+
+316
+00:11:09,830 --> 00:11:13,050
+of Asia, around that 4-hour open, took
+
+317
+00:11:13,050 --> 00:11:14,110
+the exact same type of trade.
+
+318
+00:11:14,690 --> 00:11:17,630
+You first opened, immediately created a top wick
+
+319
+00:11:17,630 --> 00:11:18,090
+there.
+
+320
+00:11:18,590 --> 00:11:21,110
+Then it flipped, took a sell on that
+
+321
+00:11:21,110 --> 00:11:23,110
+candle flip for a nice little scalp.
+
+322
+00:11:23,390 --> 00:11:25,070
+So 3 days in a row, I took
+
+323
+00:11:25,070 --> 00:11:26,170
+the exact same win.
+
+324
+00:11:27,270 --> 00:11:28,730
+And this is what consistency means.
+
+325
+00:11:29,210 --> 00:11:30,950
+This is what I say when if you
+
+326
+00:11:30,950 --> 00:11:32,670
+want to make money from trading, you shouldn't
+
+327
+00:11:32,670 --> 00:11:33,610
+focus on trying to win.
+
+328
+00:11:34,270 --> 00:11:35,530
+You should just focus on doing the exact
+
+329
+00:11:35,530 --> 00:11:36,650
+same thing every single day.
+
+330
+00:11:36,870 --> 00:11:38,130
+It's really easy, simple.
+
+331
+00:11:38,630 --> 00:11:39,630
+This is what trading is.
+
+332
+00:11:40,110 --> 00:11:41,730
+I see what's happening and then I trade
+
+333
+00:11:41,730 --> 00:11:41,930
+it.
+
+334
+00:11:42,490 --> 00:11:44,150
+Just going back to technical analysis, it's that
+
+335
+00:11:44,150 --> 00:11:47,030
+purely price action, candle behavior, market structure, that
+
+336
+00:11:47,030 --> 00:11:49,330
+3-step approach, direction, area of interest, entry
+
+337
+00:11:49,330 --> 00:11:51,690
+model, and then looking to stack, align different
+
+338
+00:11:51,690 --> 00:11:52,810
+confluences in your favor.
+
+339
+00:11:52,990 --> 00:11:53,990
+Really simple, easy.
+
+340
+00:11:54,810 --> 00:11:57,150
+And then using that gold and DXY correlation.
+
+341
+00:11:57,590 --> 00:12:01,410
+I love trading that gold and DXY correlation.
+
+342
+00:12:01,570 --> 00:12:02,910
+It has a really big increase to my
+
+343
+00:12:02,910 --> 00:12:04,770
+win rate, around 16%.
+
+344
+00:12:04,770 --> 00:12:06,750
+And it has an inverse relationship.
+
+345
+00:12:07,210 --> 00:12:10,490
+It's really nice for confirming as well.
+
+346
+00:12:11,210 --> 00:12:12,350
+If you actually want to be able to
+
+347
+00:12:12,350 --> 00:12:13,870
+do this for yourself, you need to be
+
+348
+00:12:13,870 --> 00:12:14,590
+journaling your trades.
+
+349
+00:12:15,250 --> 00:12:19,150
+So as I said recently, the easiest way
+
+350
+00:12:19,150 --> 00:12:21,090
+to improve your system, to improve your strategy
+
+351
+00:12:21,090 --> 00:12:22,870
+is just to journal your trades, do more
+
+352
+00:12:22,870 --> 00:12:24,630
+of what works and less of what doesn't.
+
+353
+00:12:24,710 --> 00:12:26,410
+So I've journaled around 300 trades.
+
+354
+00:12:26,930 --> 00:12:29,010
+This is the most recent iteration of that.
+
+355
+00:12:29,230 --> 00:12:31,470
+If I just go to using DXY correlation,
+
+356
+00:12:31,990 --> 00:12:34,050
+that 56% win rate goes into a
+
+357
+00:12:34,050 --> 00:12:35,450
+73% win rate.
+
+358
+00:12:35,630 --> 00:12:37,250
+Such a simple way to improve my system,
+
+359
+00:12:37,250 --> 00:12:40,610
+just using DXY correlation, using to stack that
+
+360
+00:12:40,610 --> 00:12:41,010
+confluence.
+
+361
+00:12:41,490 --> 00:12:42,750
+And then if I just look to take
+
+362
+00:12:42,750 --> 00:12:45,430
+a 1 minute type 3, a shift, that
+
+363
+00:12:45,430 --> 00:12:47,570
+73% win rate goes into an 83
+
+364
+00:12:47,570 --> 00:12:48,630
+% win rate.
+
+365
+00:12:48,990 --> 00:12:50,410
+So this is how you get a high
+
+366
+00:12:50,410 --> 00:12:50,810
+win rate.
+
+367
+00:12:51,110 --> 00:12:53,170
+You journal your trades, you focus on what
+
+368
+00:12:53,170 --> 00:12:56,990
+works, taking a trade with DXY correlation, 1
+
+369
+00:12:56,990 --> 00:12:59,910
+minute type 3, shift of structure, that gives
+
+370
+00:12:59,910 --> 00:13:01,030
+me an 83% win rate.
+
+371
+00:13:01,270 --> 00:13:03,470
+And you can keep refining this, focusing on
+
+372
+00:13:03,470 --> 00:13:04,090
+what works.
+
+373
+00:13:04,450 --> 00:13:05,810
+If you want to be profitable, you need
+
+374
+00:13:05,810 --> 00:13:07,810
+to be doing this, having a journal, that's
+
+375
+00:13:07,810 --> 00:13:11,030
+having objective data, also tracking the trades as
+
+376
+00:13:11,030 --> 00:13:14,570
+well, taking screenshots to trade your subjective data,
+
+377
+00:13:15,270 --> 00:13:17,050
+to be able to review those trades, look
+
+378
+00:13:17,050 --> 00:13:17,690
+at what works.
+
+379
+00:13:17,810 --> 00:13:19,010
+So this is a nice type 3 shift.
+
+380
+00:13:19,630 --> 00:13:21,550
+You make a high, break a low, enter
+
+381
+00:13:21,550 --> 00:13:23,490
+on the pullback, pretty much the exact same
+
+382
+00:13:23,490 --> 00:13:24,990
+trade as yesterday.
+
+383
+00:13:25,530 --> 00:13:27,010
+And then this is how you do the
+
+384
+00:13:27,010 --> 00:13:29,870
+exact same thing, get consistent, make consistent money
+
+385
+00:13:29,870 --> 00:13:30,370
+from trading.
+
+386
+00:13:30,830 --> 00:13:32,790
+You can get really high win rates just
+
+387
+00:13:32,790 --> 00:13:33,710
+through refining this.
+
+388
+00:13:34,270 --> 00:13:36,350
+Like I have a setup here, so I
+
+389
+00:13:36,350 --> 00:13:37,590
+have a setup here that has a 93
+
+390
+00:13:37,590 --> 00:13:39,870
+% win rate just on two little small
+
+391
+00:13:39,870 --> 00:13:40,350
+variables.
+
+392
+00:13:40,770 --> 00:13:43,650
+So it's really important that you refine your
+
+393
+00:13:43,650 --> 00:13:46,510
+approach, refine your system, using a journal.
+
+394
+00:13:47,050 --> 00:13:49,230
+There's a link to this journal in the
+
+395
+00:13:49,230 --> 00:13:52,730
+description below as well, that you can check
+
+396
+00:13:52,730 --> 00:13:53,030
+out.
+
+397
+00:13:54,170 --> 00:13:59,150
+So if you take anything from this, I
+
+398
+00:13:59,150 --> 00:14:01,510
+focus on probabilities, a small risk-to-reward,
+
+399
+00:14:02,770 --> 00:14:08,630
+using that 3-step approach, stacking confluences, and
+
+400
+00:14:08,630 --> 00:14:10,330
+trading at the same time every single day.
+
+401
+00:14:10,990 --> 00:14:12,530
+So I could only flip this account using
+
+402
+00:14:12,530 --> 00:14:15,490
+this trading journal, like I wouldn't have understood
+
+403
+00:14:15,490 --> 00:14:19,350
+my win rate, my risk-to-reward, what
+
+404
+00:14:19,350 --> 00:14:21,470
+confluences actually resulted in a high win rate,
+
+405
+00:14:21,510 --> 00:14:23,330
+such as the DXY, the type 3 shift.
+
+406
+00:14:24,130 --> 00:14:25,430
+So this is why you need to be
+
+407
+00:14:25,430 --> 00:14:26,110
+journaling your trades.
+
+408
+00:14:26,570 --> 00:14:29,850
+Record it, analyze the confluences, see how they
+
+409
+00:14:29,850 --> 00:14:33,170
+affect the outcome of a trading journal, see
+
+410
+00:14:33,170 --> 00:14:35,050
+how they affect the outcome of each individual
+
+411
+00:14:35,050 --> 00:14:37,710
+trade, track the outcomes, view and then reflect
+
+412
+00:14:37,710 --> 00:14:38,890
+that, refine.
+
+413
+00:14:39,470 --> 00:14:40,630
+And this is how you become profitable.
+
+414
+00:14:40,810 --> 00:14:43,610
+This exact process here is how you become
+
+415
+00:14:43,610 --> 00:14:43,990
+profitable.
+
+416
+00:14:45,030 --> 00:14:47,850
+No strategy really is going to get around
+
+417
+00:14:47,850 --> 00:14:48,230
+this.
+
+418
+00:14:49,250 --> 00:14:50,650
+You're not just going to pick up a
+
+419
+00:14:50,650 --> 00:14:52,090
+strategy straight away and make it profitable.
+
+420
+00:14:52,350 --> 00:14:53,970
+You have to put in the work, you
+
+421
+00:14:53,970 --> 00:14:55,090
+have to journal the trades, you have to
+
+422
+00:14:55,090 --> 00:14:57,810
+understand and slowly improve that win rate through
+
+423
+00:14:57,810 --> 00:15:01,790
+taking hundreds of trades, refining it slowly, all
+
+424
+00:15:01,790 --> 00:15:02,410
+that sort of stuff.
+
+425
+00:15:03,630 --> 00:15:05,990
+So keep it consistent, keep it simple.
+
+426
+00:15:06,330 --> 00:15:08,050
+The biggest learning I found in my trading,
+
+427
+00:15:08,250 --> 00:15:09,870
+the biggest aha moment was just to keep
+
+428
+00:15:09,870 --> 00:15:10,250
+it simple.
+
+429
+00:15:11,250 --> 00:15:13,570
+Define what your approach is, it can be
+
+430
+00:15:13,570 --> 00:15:15,050
+how do you define direction, how do you
+
+431
+00:15:15,050 --> 00:15:17,130
+define an area of interest, make it as
+
+432
+00:15:17,130 --> 00:15:19,550
+simple and as easy to replicate as possible.
+
+433
+00:15:20,590 --> 00:15:23,470
+And then test them using your journal and
+
+434
+00:15:23,470 --> 00:15:25,210
+see just what works, see what works.
+
+435
+00:15:25,850 --> 00:15:27,050
+Not everything is going to work.
+
+436
+00:15:27,510 --> 00:15:29,310
+And then the main basis of my approach
+
+437
+00:15:29,310 --> 00:15:31,750
+is just to, I've identified all the factors
+
+438
+00:15:31,750 --> 00:15:33,910
+that result in a positive expectancy.
+
+439
+00:15:34,230 --> 00:15:36,670
+So always looking to take a trade with
+
+440
+00:15:36,670 --> 00:15:40,370
+correlation, with a market structure shift, all that
+
+441
+00:15:40,370 --> 00:15:40,810
+sort of stuff.
+
+442
+00:15:41,430 --> 00:15:43,290
+I can assign weights to those and I
+
+443
+00:15:43,290 --> 00:15:44,670
+can just look to stack as many of
+
+444
+00:15:44,670 --> 00:15:46,950
+those probabilities, those confluences in my favor.
+
+445
+00:15:47,150 --> 00:15:50,430
+Stacking time frames, using timing, trading at the
+
+446
+00:15:50,430 --> 00:15:52,050
+same time, using the same pair, using the
+
+447
+00:15:52,050 --> 00:15:54,170
+same strategy, keeping it as simple and as
+
+448
+00:15:54,170 --> 00:15:55,970
+easy as possible to execute.
+
+449
+00:15:56,450 --> 00:15:57,230
+That is the key.
+
+450
+00:15:57,770 --> 00:15:59,910
+If you just do that, I guarantee you,
+
+451
+00:16:00,070 --> 00:16:01,550
+when you put in the work, you will
+
+452
+00:16:01,550 --> 00:16:02,070
+be profitable.
+
+453
+00:16:03,130 --> 00:16:06,770
+And then focusing on embracing a probabilistic mindset,
+
+454
+00:16:07,050 --> 00:16:09,370
+that means acknowledging that no trade is 100
+
+455
+00:16:09,370 --> 00:16:09,890
+% certain.
+
+456
+00:16:10,310 --> 00:16:11,550
+You can take the best trade set up
+
+457
+00:16:11,550 --> 00:16:13,230
+in the world and it can still lose
+
+458
+00:16:13,230 --> 00:16:14,170
+and that's okay.
+
+459
+00:16:14,970 --> 00:16:16,130
+Just focusing on your process.
+
+460
+00:16:16,130 --> 00:16:18,410
+I didn't focus on trying to flip $10
+
+461
+00:16:18,410 --> 00:16:21,070
+into $1,000 as quickly as possible.
+
+462
+00:16:21,610 --> 00:16:23,030
+I just focused on taking the best trades
+
+463
+00:16:23,030 --> 00:16:24,710
+and that was a happy accident that I
+
+464
+00:16:24,710 --> 00:16:25,150
+made money.
+
+465
+00:16:26,130 --> 00:16:27,710
+Because I could have easily blown the account
+
+466
+00:16:27,710 --> 00:16:29,750
+if I got unlucky or if just taking
+
+467
+00:16:29,750 --> 00:16:31,230
+off the conditions weren't great.
+
+468
+00:16:31,750 --> 00:16:33,670
+But the conditions on gold have been amazing
+
+469
+00:16:33,670 --> 00:16:34,450
+in the past month.
+
+470
+00:16:34,690 --> 00:16:36,370
+I've been trading the exact same way the
+
+471
+00:16:36,370 --> 00:16:37,570
+whole month and it's been paying off.
+
+472
+00:16:38,070 --> 00:16:39,470
+So I'm still managing risk aggressively.
+
+473
+00:16:39,610 --> 00:16:41,350
+I'm closing my losing trades before they hit
+
+474
+00:16:41,350 --> 00:16:43,470
+stop loss because I know if it's going
+
+475
+00:16:43,470 --> 00:16:45,090
+to hit stop loss, the bottom's moving against
+
+476
+00:16:45,090 --> 00:16:45,310
+you.
+
+477
+00:16:45,690 --> 00:16:48,130
+I'm always looking to manage risk and lose
+
+478
+00:16:48,130 --> 00:16:50,170
+less than I initially risked.
+
+479
+00:16:50,230 --> 00:16:51,950
+So what do 95% of traders do?
+
+480
+00:16:52,490 --> 00:16:53,310
+Well, they fail.
+
+481
+00:16:53,510 --> 00:16:55,550
+But they also lose more than they initially
+
+482
+00:16:55,550 --> 00:16:57,930
+risk through adding two loses, through moving their
+
+483
+00:16:57,930 --> 00:16:58,330
+stop loss.
+
+484
+00:16:58,450 --> 00:17:00,390
+I just simply do the opposite to be
+
+485
+00:17:00,390 --> 00:17:00,890
+a winning trader.
+
+486
+00:17:01,170 --> 00:17:02,470
+It's really that simple.
+
+487
+00:17:02,710 --> 00:17:04,410
+And then always focusing on continuous learning.
+
+488
+00:17:04,810 --> 00:17:06,569
+Learning from each loss you take because I
+
+489
+00:17:06,569 --> 00:17:07,230
+did take losses.
+
+490
+00:17:07,430 --> 00:17:08,450
+I didn't let them affect me.
+
+491
+00:17:09,069 --> 00:17:11,210
+I see value in them, if not more
+
+492
+00:17:11,210 --> 00:17:13,310
+than wins, because I learn more from losing
+
+493
+00:17:13,310 --> 00:17:13,730
+trades.
+
+494
+00:17:14,130 --> 00:17:16,010
+And learning is more valuable than a couple
+
+495
+00:17:16,010 --> 00:17:16,390
+of dollars.
+
+496
+00:17:16,910 --> 00:17:18,230
+So if you just use a simple approach,
+
+497
+00:17:18,589 --> 00:17:19,810
+it can be parts of my strategy.
+
+498
+00:17:19,990 --> 00:17:21,210
+It can be this psychology.
+
+499
+00:17:21,630 --> 00:17:23,109
+It can be the journal, which I think
+
+500
+00:17:23,109 --> 00:17:23,910
+is the most important.
+
+501
+00:17:24,210 --> 00:17:26,250
+It's actually possible to then have these big
+
+502
+00:17:26,250 --> 00:17:28,690
+flips, taking a small amount of money into
+
+503
+00:17:28,690 --> 00:17:31,390
+a bigger amount of money and be profitable.
+
+504
+00:17:31,570 --> 00:17:33,210
+It could be using this to pass prop
+
+505
+00:17:33,210 --> 00:17:36,150
+firms, using it to grow or compound your
+
+506
+00:17:36,150 --> 00:17:36,750
+personal account.
+
+507
+00:17:36,870 --> 00:17:38,470
+You don't have to go for big percentage
+
+508
+00:17:38,470 --> 00:17:39,950
+gains because it is high risk.
+
+509
+00:17:40,750 --> 00:17:42,090
+But yeah, hopefully this helped.
+
+510
+00:17:42,630 --> 00:17:44,310
+If you liked this video, like the video.
+
+511
+00:17:44,870 --> 00:17:46,430
+And if you want to see more, subscribe
+
+512
+00:17:46,430 --> 00:17:48,370
+because I will be posting more content in
+
+513
+00:17:48,370 --> 00:17:49,510
+the future as well.
+
+514
+00:17:49,810 --> 00:17:50,730
+And if you want to trade with us
+
+515
+00:17:50,730 --> 00:17:52,790
+every single day, every single morning, there's a
+
+516
+00:17:52,790 --> 00:17:54,330
+link in the description below to join the
+
+517
+00:17:54,330 --> 00:17:56,410
+discord where we trade at the exact same
+
+518
+00:17:56,410 --> 00:17:58,250
+time every single day, take wins.
+
+519
+00:17:58,430 --> 00:17:59,290
+I'm kind of on a win streak at
+
+520
+00:17:59,290 --> 00:17:59,530
+the moment.
+
+521
+00:17:59,650 --> 00:18:00,750
+We'll see how long it lasts.
+
+522
+00:18:01,390 --> 00:18:03,510
+But we all catch wins, lots of nice
+
+523
+00:18:03,510 --> 00:18:05,910
+profits around there as well.
+
+524
+00:18:06,450 --> 00:18:06,790
+So yeah.
+
+525
+00:18:07,110 --> 00:18:07,410
+See ya.

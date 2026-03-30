@@ -1,0 +1,83 @@
+(0:00 - 1:55)
+People might wonder what does the work involve once you have your algos? Because you do for sure a lot of testing, optimization and stuff, but what else do you have to do on a daily basis as a systems or algo trader? Yeah, so I'm actually the guy who doesn't do any optimization, doesn't do any backtesting. I don't believe in any of it. If backtests were great, how many guys do you know who have beautiful backtests? I know a million guys have shown me beautiful backtests the moment they go. 
+
+If the backtests worked, we'd all be billionaires because there's a billion backtests that all look beautiful, and yet nobody has ever made money on a backtest, because the market is, you don't trade history, you trade the future. So my view is what I want is a general concept of a system. And then it has to be obviously, don't get me wrong, it's not that I don't at all backtest, but in the backtest, what I wanted to show me is that it's not a complete failure. 
+
+It makes some sense. It does have a small edge. And generally, by the way, a 60-40 edge is about as good as you're ever going to get, right? So if I get a 60-40 edge, I'm super happy, right? One to one, or two to one? Yeah, one to one. 
+
+And the other big myth is trading two to one. You trade three to one, markets do not give you free dollar bills, and so you do the odds of how well you're going to do. I mean, I actually do this little test. 
+
+You take just any daily chart on any currency pair, and you say, okay, I'm going to do a five pip stop and a 20 pip target, right? And how many winning trades are you going to get? Pretty much zero, zero. Now, do it the other way. I'm going to do a five pip target and a 20 pip stop, which is a horrible risk-reward ratio. 
+
+I'm not advocating this. It's just simply to show people how stupid the ideas are. And you do that, all of a sudden, all your trades become winners.
+
+(1:55 - 2:47)
+Now, of course, you're going to hit losers down the road. They're going to give back all the money if you have that risk-reward ratio. But the point is, on an average day, the one to four ratio is a much better ratio than a four to one ratio. 
+
+So my view is that the best you can do is even money bets with a 60-40 edge. You can get anywhere close to that. You are way ahead of almost everybody around. 
+
+So my process is actually, let's create something that makes modest amount of sense. Let's trade it live. I always trade it live in live markets, because the other thing is, backtests always lie. 
+
+Let me explain to you what I mean by they lie. They lie about where the prices are, where the execution is possible. You think you could have gotten like an end-of-candle-perfect entry yesterday in dollar-yen at whatever the backtest told you? It would have been 200 pips.
+
+(2:47 - 3:35)
+So backtests always, always lie. So I always like to trade it in real market conditions, but with a small amount of money. I'm always trading small amounts of money. 
+
+Let's put the little reconnaissance soldiers out there. See how well this trades. You're going to learn so much more. 
+
+All your assumptions are going to be completely upturned once the market goes live. You begin to understand where's the volatility envelope. We know what currency pairs are actually responsive to your ideas, which are not. 
+
+And that's really where a lot of the true work goes. All my work is in front testing. Not even front testing, but front trading. 
+
+I don't believe in the word testing. I believe in the word trading. So it's experience-based. 
+
+All of my strategies are experience-based. And that's how, out of experience, you refine the rules, increase size, and create something that's tangible. That's my personal process of how I do it.
+
+(3:35 - 6:57)
+That's a really good process. And how long is that front trading phase? Does that last like a long time? The rule of thumb is you got to have at least, if you're day trading, you got to have about 100 trades just to have an idea of what the hell you're doing. Whatever your assumptions are, if you don't have 100 trades, it's not even a legitimate sample size. 
+
+So it takes a couple of months to babysit a strategy into a decent idea. And remember, the whole point is, it's an evolving organism. So the three myths I hate is positive risk-reward ratio, right? Back testing is a must. 
+
+And the other big myth I hate is set it and forget it. If you're a systems trader, it's a set it and forget it. I don't do anything. 
+
+Nonsense. You do a ton. There's nothing ever is a set it and forget it. 
+
+Do you think the NASA space probe is a set it and forget it? They just press a button, let the whole thing go? No, they're constantly monitoring the spaceship, and they're constantly adjusting to market conditions. Market conditions are just like weather conditions. They change all the time. 
+
+There is no such thing as a static life, right? Yesterday is not tomorrow. And tomorrow is not today. You have to adjust and watch. 
+
+It's just a higher level of management. But management is very much involved. I don't believe in this whole let your strategy go. 
+
+You want to evaluate your strategy. And I evaluate my strategy almost every single day on what's going on. I don't necessarily change it every day. 
+
+Of course, I don't change it every day. But I evaluate it every single day. So you have to be involved just at a higher level. 
+
+Yeah. And I guess one of the temptation of people when they have an alcohol, like when they treat manually, is that they might say, well, the alcohol is not working anymore. It's like the results are bad. 
+
+Sometimes they stop it. So how can you go back and review the alcohol? Is it like every month, every quarter or? Just a question. What does it mean when it's not working? Right. 
+
+Like the people go, you're losing money. That's that's that's. So I'm losing money. 
+
+It's not working. No, that's not the same thing. Losing money and it not working is not the same thing. 
+
+And that's where I think a lot of people make the mistake. That's a very, very common, I think, rookie retail mistake. Understand what's going on. 
+
+Maybe it's not working because the regime has completely changed. Like what is the algo supposed to do? What is it? What is it supposed to be working? Right. And also, I think a lot of times people have to be much more nuanced about what does it mean to be working? Like, for example. 
+
+My algo doesn't work very well on dollar Swiss. Right. But it works beautifully on euro dollar. 
+
+Why? Well, because because the volatility signature of the two pairs is quite different. And also liquidity, you know, liquidity characters are completely different. So just because it's not working on one thing doesn't mean it's a it's a it's a not successful algo. 
+
+What your job is to find out where it is working. Right. I guess that's kind of the key thing. 
+
+My constant process is to figure out as many possible instruments on which this is working as much as possible. That's what I'm doing constantly. I'm searching, you know, and and then when you have that kind of attitude, it makes a lot easier because you're not as you know, you're not as deterministic, you know, like, oh, you know, forget it. 
+
+I'm leaving it, you know, and I'm never going to trade it again. And then all the guys in my room who are much more intelligent, much more patient than I am, like keep on trading and then come back to me. I said, hey, you know what? I made 2000 pips from that algo that you gave me.
+
+(6:57 - 7:24)
+I'm like, what are you kidding me? Are you kidding me? And that was that was that was kind of an eye opening lesson to me that that it's not the strategy. It's you. You know, it's like, you know, it's not it's not it's not you. 
+
+It's me. Every trader should always look at themselves as the point of failure, not at their strategy, because usually that's always that's always the much truthful point of view. You have to be kind of much more honest with what's going on over there.
+
+(7:27 - 7:28)
+And.

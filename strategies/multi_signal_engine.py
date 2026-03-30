@@ -249,6 +249,24 @@ def detect_ema_stack(symbol: str, candles: list) -> Optional[SignalResult]:
     else:
         return None
 
+    # ── Candle body momentum quality check ────────────────────────────────────
+    # Source: "15 Best Price Action Strategies" — growing bodies = momentum gain,
+    # shrinking bodies as price approaches level = exhaustion / momentum loss.
+    try:
+        _bodies = [
+            abs(float(c.get("mid", {}).get("c", 0)) - float(c.get("mid", {}).get("o", 0)))
+            for c in candles[-6:] if isinstance(c, dict) and c.get("mid")
+        ]
+        if len(_bodies) >= 4:
+            _growing   = sum(1 for i in range(1, len(_bodies)) if _bodies[i] > _bodies[i-1])
+            _shrinking = sum(1 for i in range(1, len(_bodies)) if _bodies[i] < _bodies[i-1])
+            if _shrinking > _growing:
+                conf = max(conf - 0.10, 0.50)   # momentum loss → reduce confidence
+            elif _growing > _shrinking:
+                conf = min(conf + 0.03, 0.88)   # momentum gain → slight boost
+    except Exception:
+        pass  # Fail silent — never block a signal due to this check
+
     sl_dist = 12 * pip
     tp_dist = 36 * pip
     if direction == "BUY":

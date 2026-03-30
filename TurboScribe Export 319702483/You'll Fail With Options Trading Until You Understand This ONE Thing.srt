@@ -1,0 +1,1943 @@
+1
+00:00:00,390 --> 00:00:03,370
+Most options traders make one fatal mistake without
+
+2
+00:00:03,370 --> 00:00:06,430
+realizing it, and this is the primary cause
+
+3
+00:00:06,430 --> 00:00:07,150
+of their failure.
+
+4
+00:00:07,490 --> 00:00:09,450
+In this video, S&B's head of options
+
+5
+00:00:09,450 --> 00:00:12,430
+trading shows you what that major error is
+
+6
+00:00:12,430 --> 00:00:15,309
+and how to correct it quickly and easily.
+
+7
+00:00:15,670 --> 00:00:17,130
+I'm Mike Bellifiori, and we're one of the
+
+8
+00:00:17,130 --> 00:00:19,650
+top proprietary trading firms located in New York
+
+9
+00:00:19,650 --> 00:00:22,830
+City since 2005 and proud to develop number
+
+10
+00:00:22,830 --> 00:00:25,330
+seven and even eight figure per year traders.
+
+11
+00:00:25,510 --> 00:00:28,230
+Watch, take notes, and learn from a professional
+
+12
+00:00:28,230 --> 00:00:31,830
+proprietary trader on our desk so you can
+
+13
+00:00:31,830 --> 00:00:32,710
+grow your trading account.
+
+14
+00:00:33,030 --> 00:00:34,710
+Hi, I'm Seth Fruhberg, and I'm the head
+
+15
+00:00:34,710 --> 00:00:36,970
+trader of S&B Capital's options trading desk
+
+16
+00:00:36,970 --> 00:00:37,850
+here in Manhattan.
+
+17
+00:00:38,190 --> 00:00:40,910
+And I can tell you from training professional
+
+18
+00:00:40,910 --> 00:00:44,070
+traders and working with thousands of retail options
+
+19
+00:00:44,070 --> 00:00:45,950
+traders like yourself from all over the world,
+
+20
+00:00:46,570 --> 00:00:48,910
+the absolute number one complaint that I get
+
+21
+00:00:48,910 --> 00:00:51,730
+from beginning options traders goes something like this.
+
+22
+00:00:51,750 --> 00:00:54,650
+They tell me it's hard enough for me
+
+23
+00:00:54,650 --> 00:00:56,470
+to pick stocks that I think are gonna
+
+24
+00:00:56,470 --> 00:00:58,450
+go up and be right about it.
+
+25
+00:00:58,750 --> 00:01:01,410
+But what drives me crazy is that when
+
+26
+00:01:01,410 --> 00:01:03,569
+I buy a call on that stock, which
+
+27
+00:01:03,569 --> 00:01:04,830
+is what I thought you were supposed to
+
+28
+00:01:04,830 --> 00:01:06,690
+do when you think a stock's gonna go
+
+29
+00:01:06,690 --> 00:01:09,870
+up, and that stock actually does go up,
+
+30
+00:01:10,530 --> 00:01:13,350
+why the hell does that call go down
+
+31
+00:01:13,350 --> 00:01:14,710
+most of the time?
+
+32
+00:01:14,770 --> 00:01:17,030
+In other words, I got the stock's direction
+
+33
+00:01:17,030 --> 00:01:20,350
+right, and I still lose buying a call
+
+34
+00:01:20,350 --> 00:01:21,570
+option on that stock.
+
+35
+00:01:21,750 --> 00:01:23,930
+Is there any way to make money trading
+
+36
+00:01:23,930 --> 00:01:24,330
+options?
+
+37
+00:01:24,960 --> 00:01:26,950
+You can't imagine how many times I've heard
+
+38
+00:01:26,950 --> 00:01:28,210
+this exact complaint.
+
+39
+00:01:28,790 --> 00:01:31,330
+And so the purpose of today's video is
+
+40
+00:01:31,330 --> 00:01:32,870
+to be honest with you and tell you
+
+41
+00:01:32,870 --> 00:01:35,530
+that if you keep buying calls on stocks
+
+42
+00:01:35,530 --> 00:01:37,950
+that you think are gonna go up, you're
+
+43
+00:01:37,950 --> 00:01:40,530
+most likely going to keep having this exact
+
+44
+00:01:40,530 --> 00:01:43,650
+same experience, which is gonna get very frustrating.
+
+45
+00:01:44,090 --> 00:01:47,030
+But there's an easy way out of this
+
+46
+00:01:47,030 --> 00:01:47,910
+exact dilemma.
+
+47
+00:01:48,170 --> 00:01:50,210
+And once you implement it, you're gonna be
+
+48
+00:01:50,210 --> 00:01:52,950
+amazed at how much your options trading will
+
+49
+00:01:52,950 --> 00:01:53,650
+turn around.
+
+50
+00:01:53,850 --> 00:01:55,950
+And I can assure you that once you
+
+51
+00:01:55,950 --> 00:01:59,490
+understand this one basic principle, and you follow
+
+52
+00:01:59,490 --> 00:02:02,070
+what we're teaching you in this video, if
+
+53
+00:02:02,070 --> 00:02:03,950
+you do get the direction right on the
+
+54
+00:02:03,950 --> 00:02:06,570
+stock, you will make money on the options
+
+55
+00:02:06,570 --> 00:02:06,890
+trade.
+
+56
+00:02:07,130 --> 00:02:09,750
+So stick around because this is obviously very
+
+57
+00:02:09,750 --> 00:02:11,030
+important for you to understand.
+
+58
+00:02:11,210 --> 00:02:13,690
+Now, before we get into the strategy we'll
+
+59
+00:02:13,690 --> 00:02:15,250
+be teaching you in today's video, if you're
+
+60
+00:02:15,250 --> 00:02:18,270
+absolutely brand new to options trading, and you
+
+61
+00:02:18,270 --> 00:02:20,570
+don't know much about how options work, we've
+
+62
+00:02:20,570 --> 00:02:22,290
+put together a video for you to understand
+
+63
+00:02:22,290 --> 00:02:23,310
+options basics.
+
+64
+00:02:23,830 --> 00:02:25,730
+And if you click the video appearing on
+
+65
+00:02:25,730 --> 00:02:27,750
+your screen right now, it will lay out
+
+66
+00:02:27,750 --> 00:02:29,730
+the groundwork for you to understand the option
+
+67
+00:02:29,730 --> 00:02:31,930
+strategy that we'll be sharing with you in
+
+68
+00:02:31,930 --> 00:02:32,370
+this video.
+
+69
+00:02:32,370 --> 00:02:34,530
+Then when you're finished, you can come back
+
+70
+00:02:34,530 --> 00:02:36,230
+and watch the rest of this video.
+
+71
+00:02:36,450 --> 00:02:39,570
+This month, May of 2024, has had an
+
+72
+00:02:39,570 --> 00:02:42,090
+extremely bullish start with the S&P 500
+
+73
+00:02:42,090 --> 00:02:44,950
+up 5.3% through just the first
+
+74
+00:02:44,950 --> 00:02:47,830
+half of the month, ending on May 17th,
+
+75
+00:02:47,830 --> 00:02:50,690
+last Friday, which is a blistering start to
+
+76
+00:02:50,690 --> 00:02:53,510
+the month with the bulls fully in control
+
+77
+00:02:53,510 --> 00:02:56,910
+after a fairly mild pullback that took place
+
+78
+00:02:56,910 --> 00:02:57,390
+in April.
+
+79
+00:02:57,990 --> 00:03:00,450
+And so the all-time high that had
+
+80
+00:03:00,450 --> 00:03:03,030
+actually been set back in March of 2024
+
+81
+00:03:03,530 --> 00:03:05,770
+was exceeded on May 15th.
+
+82
+00:03:05,790 --> 00:03:08,710
+And so every day offers the opportunity for
+
+83
+00:03:08,710 --> 00:03:11,710
+the SPY to break yet another record to
+
+84
+00:03:11,710 --> 00:03:14,150
+the upside as the market remains convinced that
+
+85
+00:03:14,150 --> 00:03:16,670
+the Fed is gonna start reducing interest rates
+
+86
+00:03:16,670 --> 00:03:19,850
+without a serious slowdown in the economy, the
+
+87
+00:03:19,850 --> 00:03:21,950
+soft landing that everyone was hoping for.
+
+88
+00:03:22,170 --> 00:03:25,110
+And whether the market is eventually right about
+
+89
+00:03:25,110 --> 00:03:28,610
+this outcome or wrong, it's been acting like
+
+90
+00:03:28,610 --> 00:03:30,970
+that is exactly what's gonna happen.
+
+91
+00:03:31,090 --> 00:03:33,870
+And so May has undoubtedly been a really
+
+92
+00:03:33,870 --> 00:03:34,550
+bullish month.
+
+93
+00:03:35,210 --> 00:03:37,150
+Just the kind of month that you'd think
+
+94
+00:03:37,150 --> 00:03:39,450
+buying calls each day a few points above
+
+95
+00:03:39,450 --> 00:03:41,850
+where the SPY is trading is bound to
+
+96
+00:03:41,850 --> 00:03:43,010
+give you a winning outcome.
+
+97
+00:03:43,510 --> 00:03:45,990
+After all, we already know it's been a
+
+98
+00:03:45,990 --> 00:03:47,170
+blistering rally so far.
+
+99
+00:03:47,310 --> 00:03:49,510
+So we don't even have to worry about
+
+100
+00:03:49,510 --> 00:03:50,590
+the direction of SPY.
+
+101
+00:03:50,710 --> 00:03:51,550
+We already know it.
+
+102
+00:03:51,850 --> 00:03:54,030
+So let's go back and see exactly how
+
+103
+00:03:54,030 --> 00:03:56,450
+this would have played out knowing ahead of
+
+104
+00:03:56,450 --> 00:03:58,490
+time that SPY was going to go up
+
+105
+00:03:58,490 --> 00:04:00,210
+most of the days.
+
+106
+00:04:00,830 --> 00:04:02,730
+And let's assume that we have a $2
+
+107
+00:04:02,730 --> 00:04:04,270
+,000 count to start with.
+
+108
+00:04:04,410 --> 00:04:07,490
+Okay, so let's start first thing just as
+
+109
+00:04:07,490 --> 00:04:09,610
+the market is opening on May 1st and
+
+110
+00:04:09,610 --> 00:04:12,710
+with SPY opening at 501.70, we pull
+
+111
+00:04:12,710 --> 00:04:14,670
+up an options chain that expires that same
+
+112
+00:04:14,670 --> 00:04:15,970
+day, May 1st.
+
+113
+00:04:16,050 --> 00:04:18,329
+And you'll notice that there's a column called
+
+114
+00:04:18,329 --> 00:04:20,990
+Delta that you'll see on any brokerage platform
+
+115
+00:04:20,990 --> 00:04:22,350
+that supports options trading.
+
+116
+00:04:22,890 --> 00:04:24,950
+And so we're gonna look for the call
+
+117
+00:04:24,950 --> 00:04:26,890
+option, which is as close as we can
+
+118
+00:04:26,890 --> 00:04:30,150
+get to at least 20 deltas, which in
+
+119
+00:04:30,150 --> 00:04:32,290
+this case is the 506 call as you
+
+120
+00:04:32,290 --> 00:04:32,730
+can see.
+
+121
+00:04:33,050 --> 00:04:34,870
+And we're gonna buy five of those for
+
+122
+00:04:34,870 --> 00:04:36,510
+a price of 59 cents.
+
+123
+00:04:37,330 --> 00:04:39,130
+And so to explain what's going on here,
+
+124
+00:04:39,130 --> 00:04:41,490
+what's known as an options delta is a
+
+125
+00:04:41,490 --> 00:04:44,610
+mathematically arrived at prediction of how much an
+
+126
+00:04:44,610 --> 00:04:47,410
+options price is likely to move based upon
+
+127
+00:04:47,410 --> 00:04:49,110
+how much the stock price moves.
+
+128
+00:04:49,730 --> 00:04:51,730
+And depending on how volatile the market is
+
+129
+00:04:51,730 --> 00:04:54,170
+expected to be on any given day, the
+
+130
+00:04:54,170 --> 00:04:56,490
+20 delta call can be really close to
+
+131
+00:04:56,490 --> 00:04:59,050
+where the stock is trading, sometimes just a
+
+132
+00:04:59,050 --> 00:04:59,910
+few points away.
+
+133
+00:05:00,010 --> 00:05:01,730
+And on other days, it could be a
+
+134
+00:05:01,730 --> 00:05:02,630
+little further away.
+
+135
+00:05:03,050 --> 00:05:05,250
+And so on this day, it was a
+
+136
+00:05:05,250 --> 00:05:07,790
+little more than four points above where the
+
+137
+00:05:07,790 --> 00:05:09,250
+SPY opened that day.
+
+138
+00:05:09,630 --> 00:05:11,670
+Okay, and so from a cashflow standpoint, what's
+
+139
+00:05:11,670 --> 00:05:13,970
+happened is that the price of the calls
+
+140
+00:05:13,970 --> 00:05:16,930
+were 59 cents, but remember, each SPY call
+
+141
+00:05:16,930 --> 00:05:19,150
+option represents 100 shares of stock.
+
+142
+00:05:19,390 --> 00:05:21,750
+So we multiply that by 100 and we
+
+143
+00:05:21,750 --> 00:05:23,010
+bought five of them.
+
+144
+00:05:23,090 --> 00:05:25,130
+And so the final cost to us is
+
+145
+00:05:25,130 --> 00:05:28,950
+$295, as you can see from the calculation.
+
+146
+00:05:29,390 --> 00:05:31,210
+And so by the end of the day,
+
+147
+00:05:31,310 --> 00:05:33,630
+the SPY had indeed rallied off the open,
+
+148
+00:05:33,630 --> 00:05:36,430
+but then sold off in the afternoon, closing
+
+149
+00:05:36,430 --> 00:05:40,770
+at 500.83. And so we're gonna start
+
+150
+00:05:40,770 --> 00:05:42,970
+a record of each of these trades through
+
+151
+00:05:42,970 --> 00:05:44,130
+the first half of May.
+
+152
+00:05:44,330 --> 00:05:46,450
+And as you can see, with the stock
+
+153
+00:05:46,450 --> 00:05:50,230
+closing at 500.83, the call option expires
+
+154
+00:05:50,230 --> 00:05:51,010
+worthless, right?
+
+155
+00:05:51,090 --> 00:05:53,570
+Because no one is gonna exercise the option
+
+156
+00:05:53,570 --> 00:05:56,610
+to buy SPY at 506 when you can
+
+157
+00:05:56,610 --> 00:05:58,370
+get the shares in the open market for
+
+158
+00:05:58,370 --> 00:06:02,670
+500.83. And so that call just expires
+
+159
+00:06:02,670 --> 00:06:05,670
+with zero value and you lose your trade,
+
+160
+00:06:05,770 --> 00:06:06,110
+of course.
+
+161
+00:06:06,490 --> 00:06:08,570
+Okay, so let's move to the second day
+
+162
+00:06:08,570 --> 00:06:08,950
+of May.
+
+163
+00:06:09,390 --> 00:06:11,810
+And with the stock opening up at 503
+
+164
+00:06:11,810 --> 00:06:16,030
+.09, we're gonna go ahead again and buy
+
+165
+00:06:16,030 --> 00:06:18,690
+five of the 506 calls, which again are
+
+166
+00:06:18,690 --> 00:06:21,570
+at or above 20 deltas, which this time
+
+167
+00:06:21,570 --> 00:06:23,390
+is just three points above the market.
+
+168
+00:06:23,650 --> 00:06:25,610
+And we paid 215 for those.
+
+169
+00:06:25,890 --> 00:06:28,150
+And as you can see, after initially selling
+
+170
+00:06:28,150 --> 00:06:30,310
+off, the market rallied for the rest of
+
+171
+00:06:30,310 --> 00:06:34,850
+the day, closing at 505.02. But our
+
+172
+00:06:34,850 --> 00:06:36,550
+call was up at 506.
+
+173
+00:06:36,770 --> 00:06:39,430
+And so this time the market rallied strongly
+
+174
+00:06:39,430 --> 00:06:40,530
+off the open.
+
+175
+00:06:40,690 --> 00:06:43,770
+We bought calls at the open and we
+
+176
+00:06:43,770 --> 00:06:45,750
+got nothing to show for it because the
+
+177
+00:06:45,750 --> 00:06:48,330
+market closed below our call strike price again.
+
+178
+00:06:48,630 --> 00:06:51,490
+And so that becomes another loss, even though
+
+179
+00:06:51,490 --> 00:06:54,290
+we were absolutely right about the market's direction
+
+180
+00:06:54,290 --> 00:06:57,030
+that day and bought calls as a result.
+
+181
+00:06:57,830 --> 00:07:00,510
+And so updating our record, we end up
+
+182
+00:07:00,510 --> 00:07:02,810
+with another loss of $215.
+
+183
+00:07:03,470 --> 00:07:05,530
+Now on the third day, the 20 delta
+
+184
+00:07:05,530 --> 00:07:06,650
+call was 513.
+
+185
+00:07:07,270 --> 00:07:10,030
+We paid 285 for five of those, but
+
+186
+00:07:10,030 --> 00:07:12,670
+the SPY closed at 511.31. And so
+
+187
+00:07:12,670 --> 00:07:15,890
+even though the SPY was up $6.28
+
+188
+00:07:15,890 --> 00:07:19,090
+that day, we still lost money on the
+
+189
+00:07:19,090 --> 00:07:19,410
+trade.
+
+190
+00:07:20,130 --> 00:07:21,930
+Okay, so May 3rd was a Friday.
+
+191
+00:07:22,510 --> 00:07:24,830
+So the next trading day was Monday, May
+
+192
+00:07:24,830 --> 00:07:25,270
+6th.
+
+193
+00:07:25,270 --> 00:07:27,410
+And so on that day, the 20 delta
+
+194
+00:07:27,410 --> 00:07:30,250
+call was at 515, for which we paid
+
+195
+00:07:30,250 --> 00:07:31,190
+$165.
+
+196
+00:07:31,590 --> 00:07:34,730
+But this time the market really rocketed up
+
+197
+00:07:34,730 --> 00:07:38,090
+and closed at 516.57. And so this
+
+198
+00:07:38,090 --> 00:07:40,290
+one is a win because as you can
+
+199
+00:07:40,290 --> 00:07:42,670
+see from the calculation, the SPY's closing price
+
+200
+00:07:42,670 --> 00:07:46,510
+was $1.57 above the call strike price.
+
+201
+00:07:46,610 --> 00:07:49,830
+So each call's value is $1.57 at
+
+202
+00:07:49,830 --> 00:07:50,610
+the end of the day.
+
+203
+00:07:50,970 --> 00:07:53,250
+So we multiply that value times the 100
+
+204
+00:07:53,250 --> 00:07:54,870
+shares it gives you the right to buy
+
+205
+00:07:54,870 --> 00:07:55,930
+at 515.
+
+206
+00:07:56,630 --> 00:07:58,350
+And because you own five of those calls,
+
+207
+00:07:58,350 --> 00:08:01,550
+the final value of the calls is 785.
+
+208
+00:08:02,230 --> 00:08:04,250
+And to determine the profit on the trade,
+
+209
+00:08:04,390 --> 00:08:06,690
+we subtract out the original cost of the
+
+210
+00:08:06,690 --> 00:08:09,950
+options for a final profit of $620.
+
+211
+00:08:10,750 --> 00:08:13,130
+But then as you can see, we had
+
+212
+00:08:13,130 --> 00:08:14,930
+another loss on May 7th.
+
+213
+00:08:15,090 --> 00:08:17,710
+And then on May 8th, something interesting happened.
+
+214
+00:08:17,970 --> 00:08:20,910
+On that day, the 20 delta call was
+
+215
+00:08:20,910 --> 00:08:24,870
+517 and the SPY closed at 517.19.
+
+216
+00:08:25,010 --> 00:08:26,790
+So you think, hey, that's a good thing.
+
+217
+00:08:26,790 --> 00:08:29,070
+The SPY closed above our strike price by
+
+218
+00:08:29,070 --> 00:08:30,070
+19 cents.
+
+219
+00:08:30,630 --> 00:08:33,270
+But then you calculate it out and you
+
+220
+00:08:33,270 --> 00:08:36,150
+realize that for those five calls to require
+
+221
+00:08:36,150 --> 00:08:39,289
+a total cost of $190 at the beginning
+
+222
+00:08:39,289 --> 00:08:41,470
+of the day, that meant each option would
+
+223
+00:08:41,470 --> 00:08:43,430
+have been priced at 38 cents initially.
+
+224
+00:08:43,990 --> 00:08:45,250
+And at the end of the day, the
+
+225
+00:08:45,250 --> 00:08:49,010
+SPY closed 19 cents higher than the 517
+
+226
+00:08:49,010 --> 00:08:49,810
+strike price.
+
+227
+00:08:50,050 --> 00:08:53,030
+So all five options had a value of
+
+228
+00:08:53,030 --> 00:08:58,070
+$95 at the close, but we paid $190
+
+229
+00:08:58,070 --> 00:09:00,430
+for them, meaning that even though we were
+
+230
+00:09:00,430 --> 00:09:03,110
+right about the market direction, and we bought
+
+231
+00:09:03,110 --> 00:09:06,890
+a call that expired with value, the trade
+
+232
+00:09:06,890 --> 00:09:10,770
+still lost because the SPY didn't really rally
+
+233
+00:09:10,770 --> 00:09:13,770
+by enough to make the option worth more
+
+234
+00:09:13,770 --> 00:09:15,810
+than what we paid for it in the
+
+235
+00:09:15,810 --> 00:09:16,130
+morning.
+
+236
+00:09:16,530 --> 00:09:19,830
+And so again, we have a loss, even
+
+237
+00:09:19,830 --> 00:09:22,730
+though we were right about just about everything.
+
+238
+00:09:23,290 --> 00:09:25,530
+Okay, so at this point now, so as
+
+239
+00:09:25,530 --> 00:09:27,610
+not to be too tedious, we'll just show
+
+240
+00:09:27,610 --> 00:09:29,570
+you the rest of the record, which you
+
+241
+00:09:29,570 --> 00:09:31,190
+can do for yourself if you happen to
+
+242
+00:09:31,190 --> 00:09:33,290
+have options backtesting software.
+
+243
+00:09:33,910 --> 00:09:35,850
+And as you can see, other than wins
+
+244
+00:09:35,850 --> 00:09:38,790
+on May 9th and May 15th, all of
+
+245
+00:09:38,790 --> 00:09:40,290
+the rest of the trades were losses.
+
+246
+00:09:40,830 --> 00:09:43,550
+And so to summarize, the call buying campaign
+
+247
+00:09:43,550 --> 00:09:47,070
+resulted in three wins, 10 losses, and an
+
+248
+00:09:47,070 --> 00:09:51,130
+overall loss of $265, which comes to a
+
+249
+00:09:51,130 --> 00:09:54,730
+negative return of 13% in a very
+
+250
+00:09:54,730 --> 00:09:56,730
+bullish period for the SPY.
+
+251
+00:09:57,650 --> 00:09:59,590
+And so at this point, we have to
+
+252
+00:09:59,590 --> 00:10:02,090
+ask ourselves, do options even work?
+
+253
+00:10:02,370 --> 00:10:04,330
+Should we just bag this idea of trading
+
+254
+00:10:04,330 --> 00:10:07,730
+options to express our directional predictions on a
+
+255
+00:10:07,730 --> 00:10:09,890
+stock, or is there another solution?
+
+256
+00:10:10,650 --> 00:10:13,550
+Well, let's try something else and we'll see.
+
+257
+00:10:13,970 --> 00:10:16,530
+So let's go back to May 1st again,
+
+258
+00:10:16,530 --> 00:10:18,890
+the same day we started our call buying
+
+259
+00:10:18,890 --> 00:10:19,430
+campaign.
+
+260
+00:10:19,970 --> 00:10:22,730
+And on that morning, instead of buying the
+
+261
+00:10:22,730 --> 00:10:25,250
+20 Delta call, we'll go ahead and try
+
+262
+00:10:25,250 --> 00:10:27,190
+something completely different.
+
+263
+00:10:28,030 --> 00:10:30,550
+Remember, put options only have value if the
+
+264
+00:10:30,550 --> 00:10:33,430
+stock closes below the put strike price on
+
+265
+00:10:33,430 --> 00:10:34,790
+the day that it expires.
+
+266
+00:10:34,950 --> 00:10:37,590
+But if the stock price closes above the
+
+267
+00:10:37,590 --> 00:10:40,150
+put strike price, then the put expires with
+
+268
+00:10:40,150 --> 00:10:43,250
+zero value, the opposite of a call option.
+
+269
+00:10:43,250 --> 00:10:45,510
+So if on May 1st, instead of buying
+
+270
+00:10:45,510 --> 00:10:47,730
+the 20 Delta call, we go ahead and
+
+271
+00:10:47,730 --> 00:10:50,530
+sell five put options at the first strike
+
+272
+00:10:50,530 --> 00:10:53,430
+price below a 40 Delta put, which in
+
+273
+00:10:53,430 --> 00:10:55,450
+this case, as you can see, is the
+
+274
+00:10:55,450 --> 00:10:57,870
+500 put, which has a Delta of 36
+
+275
+00:10:57,870 --> 00:11:01,230
+.67. And you'll notice that the 500 put
+
+276
+00:11:01,230 --> 00:11:03,730
+is actually pretty close to where the market's
+
+277
+00:11:03,730 --> 00:11:07,050
+opening up that day at 501.70. And
+
+278
+00:11:07,050 --> 00:11:09,790
+in fact, on most days, the first strike
+
+279
+00:11:09,790 --> 00:11:12,830
+below 40 Delta will usually be just a
+
+280
+00:11:12,830 --> 00:11:14,930
+point or two below where the market opened.
+
+281
+00:11:15,530 --> 00:11:17,890
+And so let's go ahead and sell five
+
+282
+00:11:17,890 --> 00:11:20,570
+of those, and then move down two strikes
+
+283
+00:11:20,570 --> 00:11:23,630
+to the 498 puts and buy five of
+
+284
+00:11:23,630 --> 00:11:23,990
+those.
+
+285
+00:11:24,250 --> 00:11:26,290
+And when we do that, we are entering
+
+286
+00:11:26,290 --> 00:11:28,590
+into what options traders refer to as a
+
+287
+00:11:28,590 --> 00:11:31,810
+put credit spread, where you sell put options
+
+288
+00:11:31,810 --> 00:11:35,450
+higher up on an options chain and buy
+
+289
+00:11:35,450 --> 00:11:39,150
+put options below those on the same options
+
+290
+00:11:39,150 --> 00:11:39,450
+chain.
+
+291
+00:11:39,450 --> 00:11:41,350
+And so in the case of this strategy,
+
+292
+00:11:41,350 --> 00:11:44,850
+instead of spending cash to buy calls, in
+
+293
+00:11:44,850 --> 00:11:46,090
+this case, as you can see for the
+
+294
+00:11:46,090 --> 00:11:49,930
+calculation, we're actually gonna be receiving cash because
+
+295
+00:11:49,930 --> 00:11:52,450
+the puts we sold were priced at $1
+
+296
+00:11:52,450 --> 00:11:55,170
+.29, but the puts we bought were priced
+
+297
+00:11:55,170 --> 00:11:56,270
+at 69 cents.
+
+298
+00:11:56,430 --> 00:11:58,710
+And so netting it down, the five put
+
+299
+00:11:58,710 --> 00:12:02,290
+credit spreads bring in $300 for which your
+
+300
+00:12:02,290 --> 00:12:05,030
+broker will require you to have at least
+
+301
+00:12:05,030 --> 00:12:07,850
+$700 in your account in order to execute
+
+302
+00:12:07,850 --> 00:12:10,930
+this trade, which is also the trade's worst
+
+303
+00:12:10,930 --> 00:12:12,170
+case scenario loss.
+
+304
+00:12:12,870 --> 00:12:14,650
+And so moving to the end of the
+
+305
+00:12:14,650 --> 00:12:18,590
+day, as you'll remember, SPY actually closed lower
+
+306
+00:12:18,590 --> 00:12:22,150
+where it opened, closing at 500.83. And
+
+307
+00:12:22,150 --> 00:12:24,590
+so even though the market closed below where
+
+308
+00:12:24,590 --> 00:12:27,030
+it opened, let's take a look at the
+
+309
+00:12:27,030 --> 00:12:29,170
+outcome of our put credit spread trade.
+
+310
+00:12:29,570 --> 00:12:32,890
+And after taking into consideration the $300 that
+
+311
+00:12:32,890 --> 00:12:35,270
+we originally collected, the rest is pretty simple
+
+312
+00:12:35,270 --> 00:12:38,590
+because both the 500 short puts and the
+
+313
+00:12:38,590 --> 00:12:43,010
+498 long puts both expired worthless because the
+
+314
+00:12:43,010 --> 00:12:46,690
+SPY closed above both their strike prices, resulting
+
+315
+00:12:46,690 --> 00:12:50,170
+in us just pocketing that $300 as our
+
+316
+00:12:50,170 --> 00:12:50,790
+trade win.
+
+317
+00:12:51,170 --> 00:12:53,990
+So instead of losing our entire call premium,
+
+318
+00:12:54,270 --> 00:12:56,070
+as we did when we bought the call
+
+319
+00:12:56,070 --> 00:12:58,210
+on the open using the previous call buying
+
+320
+00:12:58,210 --> 00:13:01,790
+strategy on May 1st, we ended up keeping
+
+321
+00:13:01,790 --> 00:13:05,170
+our entire premium that we received, selling the
+
+322
+00:13:05,170 --> 00:13:07,510
+put credit spread for a full win of
+
+323
+00:13:07,510 --> 00:13:09,410
+$300 on that first trade.
+
+324
+00:13:10,290 --> 00:13:12,550
+And so we'll now start keeping a record
+
+325
+00:13:12,550 --> 00:13:15,150
+of the put credit spreads that we sold
+
+326
+00:13:15,150 --> 00:13:18,150
+located right below 40 deltas each day, as
+
+327
+00:13:18,150 --> 00:13:20,590
+opposed to the call buying strategy we were
+
+328
+00:13:20,590 --> 00:13:21,330
+using earlier.
+
+329
+00:13:21,530 --> 00:13:24,350
+And so let's turn to this next day,
+
+330
+00:13:24,850 --> 00:13:25,530
+May 2nd.
+
+331
+00:13:25,650 --> 00:13:27,890
+And in this case, we're selling the 502
+
+332
+00:13:28,270 --> 00:13:31,630
+and buying the 500 puts and collecting $260
+
+333
+00:13:32,270 --> 00:13:35,830
+with a worst case scenario loss of 740.
+
+334
+00:13:36,290 --> 00:13:38,870
+And as we saw previously, the SPY bounced
+
+335
+00:13:38,870 --> 00:13:42,390
+that day to 505.02. And so our
+
+336
+00:13:42,390 --> 00:13:44,270
+outcome is gonna be pretty much the same
+
+337
+00:13:44,270 --> 00:13:47,290
+as our first trade where both puts expired
+
+338
+00:13:47,290 --> 00:13:51,230
+well below the SPY closing price, thus expiring
+
+339
+00:13:51,230 --> 00:13:51,650
+worthless.
+
+340
+00:13:51,910 --> 00:13:54,790
+And again, allowing us to pocket the initial
+
+341
+00:13:54,790 --> 00:13:56,950
+$260 that we collected.
+
+342
+00:13:57,430 --> 00:13:58,770
+And so if we keep going through this
+
+343
+00:13:58,770 --> 00:14:02,670
+same exercise every day through to May 17th,
+
+344
+00:14:02,670 --> 00:14:05,570
+just like we did before, selling the nearly
+
+345
+00:14:05,570 --> 00:14:08,170
+40 delta put, usually just a point or
+
+346
+00:14:08,170 --> 00:14:10,970
+two below SPY's opening price, and buying the
+
+347
+00:14:10,970 --> 00:14:14,010
+put two points below for protection each day,
+
+348
+00:14:14,330 --> 00:14:16,490
+first thing in the morning, here are the
+
+349
+00:14:16,490 --> 00:14:18,750
+results that you'll see if you backtest this
+
+350
+00:14:18,750 --> 00:14:19,410
+for yourself.
+
+351
+00:14:19,890 --> 00:14:22,490
+And you can see it's quite a different
+
+352
+00:14:22,490 --> 00:14:25,810
+story where we literally had no losses.
+
+353
+00:14:26,090 --> 00:14:28,390
+And the only thing of any note actually
+
+354
+00:14:28,690 --> 00:14:31,190
+is that on the two highlighted occasions, May
+
+355
+00:14:31,190 --> 00:14:35,330
+13th and May 16th, the SPY actually closed
+
+356
+00:14:35,330 --> 00:14:37,390
+below the short puts location.
+
+357
+00:14:37,970 --> 00:14:40,030
+And so right before the market closed on
+
+358
+00:14:40,030 --> 00:14:42,250
+those days, once it was obvious that the
+
+359
+00:14:42,250 --> 00:14:44,690
+SPY was going to close below the puts
+
+360
+00:14:44,690 --> 00:14:47,510
+price, strike price, we would go ahead and
+
+361
+00:14:47,510 --> 00:14:50,410
+just buy those puts back to close the
+
+362
+00:14:50,410 --> 00:14:50,730
+trade.
+
+363
+00:14:50,890 --> 00:14:53,570
+And the cost of buying those back is
+
+364
+00:14:53,570 --> 00:14:55,930
+netted out of the profit on the trade
+
+365
+00:14:55,930 --> 00:14:58,950
+because the profit is always calculated by taking
+
+366
+00:14:58,950 --> 00:15:02,410
+the initial premium you received and reducing it
+
+367
+00:15:02,410 --> 00:15:04,870
+by any payments to close the short position
+
+368
+00:15:04,870 --> 00:15:08,430
+because that is cash outflow, which resulted in
+
+369
+00:15:08,430 --> 00:15:12,210
+lower profit numbers, you'll notice for those two
+
+370
+00:15:12,210 --> 00:15:12,710
+trades.
+
+371
+00:15:12,910 --> 00:15:15,810
+But those were the only two trades where
+
+372
+00:15:15,810 --> 00:15:17,710
+we even needed to do that.
+
+373
+00:15:17,970 --> 00:15:19,690
+And the reason we needed to do that
+
+374
+00:15:19,690 --> 00:15:22,130
+is because in all the other cases, the
+
+375
+00:15:22,130 --> 00:15:24,350
+SPY closed above the short put, so there
+
+376
+00:15:24,350 --> 00:15:26,750
+was no need to do anything, but pocket
+
+377
+00:15:26,750 --> 00:15:28,770
+our initial premium, whereas if the SPY is
+
+378
+00:15:28,770 --> 00:15:31,550
+about to close in the money, then you
+
+379
+00:15:31,550 --> 00:15:33,290
+need to buy the puts back to close
+
+380
+00:15:33,290 --> 00:15:33,610
+the trade.
+
+381
+00:15:33,690 --> 00:15:37,110
+Otherwise, you'll be assigned 100 shares of SPY
+
+382
+00:15:37,110 --> 00:15:40,330
+at your short put strike price times the
+
+383
+00:15:40,330 --> 00:15:42,390
+number of options that you have sold.
+
+384
+00:15:42,850 --> 00:15:45,290
+And that's not the purpose of this exercise
+
+385
+00:15:45,290 --> 00:15:47,230
+to actually own SPY shares.
+
+386
+00:15:47,450 --> 00:15:50,070
+So we just buy it back and close
+
+387
+00:15:50,070 --> 00:15:51,330
+the trade before that happens.
+
+388
+00:15:51,640 --> 00:15:54,170
+And so what's interesting is that you'll notice
+
+389
+00:15:54,170 --> 00:15:57,250
+that while SPY closed lower than where it
+
+390
+00:15:57,250 --> 00:15:59,410
+was when we entered on those two occasions
+
+391
+00:15:59,410 --> 00:16:03,070
+highlighted in yellow, we still made money on
+
+392
+00:16:03,070 --> 00:16:06,030
+the trade, which of course is essentially a
+
+393
+00:16:06,030 --> 00:16:08,390
+bullish trade where you were hoping the SPY
+
+394
+00:16:08,390 --> 00:16:11,230
+rallies as much as possible, which will then
+
+395
+00:16:11,230 --> 00:16:14,430
+cause our options to expire with no value,
+
+396
+00:16:14,790 --> 00:16:17,170
+allowing us to pocket the initial cash we
+
+397
+00:16:17,170 --> 00:16:19,270
+received at the outset of the trade.
+
+398
+00:16:19,790 --> 00:16:22,470
+And we're pointing this out to emphasize just
+
+399
+00:16:22,470 --> 00:16:25,410
+how powerful the put credit spread trade is,
+
+400
+00:16:25,470 --> 00:16:27,910
+that even if the stock goes down after
+
+401
+00:16:27,910 --> 00:16:30,290
+we enter the trade, we still have an
+
+402
+00:16:30,290 --> 00:16:33,690
+opportunity to win this otherwise bullish trade.
+
+403
+00:16:33,850 --> 00:16:34,870
+It's amazing.
+
+404
+00:16:35,130 --> 00:16:37,590
+And so when we summarize the outcome of
+
+405
+00:16:37,590 --> 00:16:40,450
+this trade, winning all of them with a
+
+406
+00:16:40,450 --> 00:16:43,910
+profit of 2,685 and a return of
+
+407
+00:16:43,910 --> 00:16:48,230
+well over 100%, it's obviously no contest in
+
+408
+00:16:48,230 --> 00:16:50,570
+a bullish month like the first half of
+
+409
+00:16:50,570 --> 00:16:51,270
+May this year.
+
+410
+00:16:51,830 --> 00:16:54,210
+And just to drive home how dramatically different
+
+411
+00:16:54,210 --> 00:16:56,030
+this outcome is, take a look at this
+
+412
+00:16:56,030 --> 00:16:57,750
+comparison between the two approaches.
+
+413
+00:16:58,330 --> 00:17:01,070
+And in this scenario, there's obviously no contest
+
+414
+00:17:01,070 --> 00:17:04,970
+with selling put credit spreads being far superior
+
+415
+00:17:04,970 --> 00:17:07,109
+in every single category.
+
+416
+00:17:07,869 --> 00:17:09,369
+And so what I'd like you to take
+
+417
+00:17:09,369 --> 00:17:12,069
+away from today's video is not that put
+
+418
+00:17:12,069 --> 00:17:14,630
+credit spreads will always perform better than buying
+
+419
+00:17:14,630 --> 00:17:17,890
+calls because they actually won't in certain conditions,
+
+420
+00:17:18,190 --> 00:17:21,690
+but rather that if you are bullish and
+
+421
+00:17:21,690 --> 00:17:25,150
+you're right, that selling slightly out of the
+
+422
+00:17:25,150 --> 00:17:28,250
+money, put credit spreads will always win on
+
+423
+00:17:28,250 --> 00:17:30,550
+a day where the market closes higher than
+
+424
+00:17:30,550 --> 00:17:31,070
+it opens.
+
+425
+00:17:31,470 --> 00:17:34,370
+While on the other hand, buying calls, as
+
+426
+00:17:34,370 --> 00:17:37,010
+we saw from this example, will fail and
+
+427
+00:17:37,010 --> 00:17:40,390
+fail a lot, only winning a few times
+
+428
+00:17:40,390 --> 00:17:43,310
+in this case, even though on most days,
+
+429
+00:17:43,670 --> 00:17:46,410
+we were absolutely right about the direction of
+
+430
+00:17:46,410 --> 00:17:49,490
+SPY, but not by enough for the calls
+
+431
+00:17:49,490 --> 00:17:52,150
+to close with any value at all.
+
+432
+00:17:52,450 --> 00:17:55,130
+And even when they did close with value,
+
+433
+00:17:55,510 --> 00:17:56,950
+we still lost one.
+
+434
+00:17:57,250 --> 00:17:59,130
+And even if the stock does manage to
+
+435
+00:17:59,130 --> 00:18:01,290
+exceed the strike price of the call, that
+
+436
+00:18:01,290 --> 00:18:03,790
+still does a guarantee that you'll win the
+
+437
+00:18:03,790 --> 00:18:06,350
+trade because you still need to recover the
+
+438
+00:18:06,350 --> 00:18:08,110
+premium you paid for the call.
+
+439
+00:18:08,390 --> 00:18:10,090
+And so the break even for a long
+
+440
+00:18:10,090 --> 00:18:13,110
+call is actually higher than the call's strike
+
+441
+00:18:13,110 --> 00:18:13,550
+price.
+
+442
+00:18:13,920 --> 00:18:17,390
+And so that's why you keep losing so
+
+443
+00:18:17,390 --> 00:18:20,330
+often when you try to buy relatively inexpensive
+
+444
+00:18:20,330 --> 00:18:21,470
+calls if you're bullish.
+
+445
+00:18:21,910 --> 00:18:24,370
+And that's because buying calls have this huge
+
+446
+00:18:24,370 --> 00:18:24,730
+hurdle.
+
+447
+00:18:25,150 --> 00:18:27,050
+The stock has to get, first of all,
+
+448
+00:18:27,230 --> 00:18:29,190
+beyond a strike price for you to make
+
+449
+00:18:29,190 --> 00:18:31,330
+any money at all in the trade, whereas
+
+450
+00:18:31,330 --> 00:18:33,710
+with the out of the money put credit
+
+451
+00:18:33,710 --> 00:18:37,690
+spreads, if the stock closes up, flat, or
+
+452
+00:18:37,690 --> 00:18:40,390
+even down a little compared to where it
+
+453
+00:18:40,390 --> 00:18:42,790
+was at the open, you will make money
+
+454
+00:18:42,790 --> 00:18:45,190
+in all of those cases, which as you
+
+455
+00:18:45,190 --> 00:18:47,530
+can see from this example, has a huge
+
+456
+00:18:47,530 --> 00:18:49,830
+effect on the win rate, which in turn
+
+457
+00:18:49,830 --> 00:18:54,570
+drives profitability and return in almost all cases,
+
+458
+00:18:54,950 --> 00:18:57,510
+let alone the way that it builds your
+
+459
+00:18:57,510 --> 00:18:58,670
+confidence as a trader.
+
+460
+00:18:59,090 --> 00:19:01,890
+So now you know what you've been doing
+
+461
+00:19:01,890 --> 00:19:04,430
+wrong and why your options trading has been
+
+462
+00:19:04,430 --> 00:19:05,250
+so inconsistent.
+
+463
+00:19:05,710 --> 00:19:08,450
+And now you know easily how to turn
+
+464
+00:19:08,450 --> 00:19:11,590
+things around to dramatically increase your win rate
+
+465
+00:19:11,590 --> 00:19:14,410
+on options trades if you're even a little
+
+466
+00:19:14,410 --> 00:19:16,410
+right on a stock's direction.
+
+467
+00:19:17,290 --> 00:19:19,390
+Pro options traders are well aware of the
+
+468
+00:19:19,390 --> 00:19:23,070
+edge embedded in put credit spreads and love
+
+469
+00:19:23,070 --> 00:19:24,290
+to trade them as a result.
+
+470
+00:19:24,650 --> 00:19:26,270
+Now, if you'd like to learn three more
+
+471
+00:19:26,270 --> 00:19:29,870
+options strategies that our pro traders use, including
+
+472
+00:19:29,870 --> 00:19:32,830
+the unique options trick that allows you to
+
+473
+00:19:32,830 --> 00:19:35,330
+make money while you wait to buy stocks
+
+474
+00:19:35,330 --> 00:19:38,190
+or ETFs at the price you want, and
+
+475
+00:19:38,190 --> 00:19:40,910
+the options income strategy that allows you to
+
+476
+00:19:40,910 --> 00:19:43,530
+make consistent money whether the market goes up
+
+477
+00:19:43,530 --> 00:19:47,150
+or down or sideways, and how to make
+
+478
+00:19:47,150 --> 00:19:49,750
+money on a stock or index trade even
+
+479
+00:19:49,750 --> 00:19:52,770
+if you're wrong on the direction, then click
+
+480
+00:19:52,770 --> 00:19:55,330
+the link that's appearing right now at the
+
+481
+00:19:55,330 --> 00:19:57,310
+top right-hand corner of your screen.
+
+482
+00:19:57,430 --> 00:20:00,350
+That will open up the free workshop registration
+
+483
+00:20:00,350 --> 00:20:01,990
+page in a new window.
+
+484
+00:20:02,330 --> 00:20:04,010
+So don't worry, you won't lose this video
+
+485
+00:20:04,010 --> 00:20:07,530
+or you can register directly for free at
+
+486
+00:20:07,530 --> 00:20:08,930
+optionsclass.com.

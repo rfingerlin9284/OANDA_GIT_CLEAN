@@ -1,0 +1,127 @@
+(0:00 - 1:05)
+What if I told you that there was an investor who achieved much higher returns than Warren Buffett, Ray Dalio, Peter Lynch, George Soros, Charlie Munger, and essentially all of the other great investors that you can think of. Not only did he beat them, his returns blew theirs out of the water. So if we look at this, Warren Buffett's annual average return is 20.1%, Dalio's 13%, Lynch 29.2%, Soros 20%, Charlie Munger 19.8%, Jim Simmons 66% average return. 
+
+Out of all of the investors that I've studied, no one has got a yield anywhere near close to his. And this is not just over one or two years, this is over the past 31 years of consistently just destroying the market. To put that into perspective at how impressive that is, if you invest at $100 and were able to achieve a 66% return every year, after 31 years, that $100 would be worth $665,810,000.
+
+(1:06 - 1:47)
+To regularly achieve something that high is unheard of until Jim Simmons came along. But how did he do it? Jim Simmons relies on quantitative analysis to decide the trades he makes. He's a numbers man, he was a math genius growing up, getting a bachelor's and PhD in mathematics when he was young. 
+
+Just for some reason, math turned him on. Now, the old excuse is, when do you ever use math in the real world? Well, Jim Simmons was about to answer this question in a big way. He used his math skill to become uber-rich.
+
+(1:47 - 2:07)
+Originally, he used it to break codes with the National Security Agency, as well as teaching at MIT. Although this paid good on a relative scale, this is not generally the profession you'd go for to amass a fortune. He then made the decision that he wants to step into finance and trading, where the real money is.
+
+(2:08 - 2:29)
+Now, naturally, Simmons keeps his trading secrets behind closed doors as much as possible. Of course, if you had a fund earning a 66% return every year, making you a multi-billionaire, you probably wouldn't tell your secrets either. However, there is quite a bit that has gotten through the cracks on his trading strategies.
+
+(2:29 - 3:01)
+So in this video, we're going to go over seven of his key strategies that Simmons used to trade in the market. Back in 1982, quantitative analysis was not a thing. The models that we see traders use today, no one had thought of. 
+
+So people generally relied a lot on perception and homemade systems to trade. For the first two years, Simmons did just this. He used ordinary, fundamental, and technical approaches to trade in the market.
+
+(3:01 - 3:40)
+A lot of it was based around intuition and instinct. No models for the first two years, like normal people do. It was a similar approach to the way everyday regular traders trade in the market today, except, unlike most, Jim actually made money. 
+
+Because one, he was a math genius, and two, because back in those days, there were so many more opportunities. Less competition, less computers trying to arbitrage the market. So he was able to make a decent amount of money this way, but at least according to Jim, he felt that it was mainly luck and also emotionally draining, not knowing if you're going to be making profits the next day or not.
+
+(3:41 - 3:48)
+We were extremely successful. I think it was just plain good luck, but nonetheless, we were very successful. But this was a very gut-wrenching business.
+
+(3:48 - 4:22)
+You know, you come in one morning, you think you're a genius, and the next morning you come and you feel like a jerk. The market's against you. He disliked the emotional side of trading, and he wanted to find a way where you could almost guarantee that money would be made. 
+
+Kind of like at a casino, the house is always going to profit because the odds are rigged in their favor. They don't get emotional, they just want you to keep playing. Simmons aspired to create a model like this, but for trading in the stock market, where if you just keep trading, you're guaranteed to win because the odds are in your favor.
+
+(4:27 - 4:44)
+In order to do this, Simmons needed a lot of data. For a quantitative analyst, data is obviously key, and he would gather information on everything. Weather, annual reports, monthly, quarterly reports, the historic data itself, volumes, you name it.
+
+(4:44 - 4:54)
+Whatever there is. We take in terabytes of data a day. So his team would gather all of this data up, backtrack it across history, and search for anomalies.
+
+(4:55 - 5:17)
+Where is there something consistently odd happening that I can profit from? And the anomaly might be something like, every time the date is leading into Christmas, the stock would increase in price. Most investors would try explaining the reasons why. Simmons did not care why, he just cared that the data showed it consistently happened.
+
+(5:17 - 5:37)
+And once he found the anomaly, he simply would buy the stock leading into Christmas, and sell after Christmas, each time making a profit. That is a simple example of anomaly trading. But Simmons would do this across thousands of data sets, and search where the abnormalities were that he could benefit from.
+
+(5:42 - 6:06)
+Secondly, he and his team would look for trends. This was an approach that worked very well in the early days of trading. The best place to go find trends, at least back in the day, was in the commodity market. 
+
+Copper, gold, silver, oil, corn, wheat. These things would often follow a pattern. So here's a simple example of the price data of a commodity for a year.
+
+(6:06 - 6:22)
+We'll say it's wheat. Simmons would zoom in on a smaller time frame, say 20 days, and he would notice that the commodity is trending. Maybe it's trending upwards because less farmers are able to sell during this time, or trending downwards because of oversupply.
+
+(6:22 - 6:36)
+As we said before, Simmons doesn't care on the reasons why. All he cares about is that it is happening, and how he can profit. So if it was trending upwards, he would trade it and buy, and if it was downwards, he could short it, and make some profit on the way down.
+
+(6:36 - 7:05)
+This system worked very well for him early on, even though it sounds quite easy. But after a while, people started to catch on with this method, and it became more and more obsolete. Years ago, such a system would work. 
+
+Not beautifully, but it would work. So you'd make money, you'd lose money, you'd make money, but it's a very vestigial system. Simmons would need to upgrade his strategy if he wanted to keep making money in the market, or risk going bust.
+
+(7:10 - 7:44)
+In the book, The Man Who Solved the Market, Gregory Zuckerman stated that Medallion, which is Simmons' flagship fund that averages the 66% return, earned profits from trending and reversion-predicting signals, especially a one called Deja Vu. Reversion, in terms of trading, is when a price of a particular stock will revert back to the average, or it will revert back to a particular metric. Sometimes it will fall below the average, sometimes above, but the job of Simmons' team will be to profit from these fluctuations.
+
+(7:44 - 9:17)
+For example, you would place a stock like Apple in the algorithmic model. Then, it would look at a bunch of different data points. Maybe revenue, book value, peg ratio, and the price to tangible book value. 
+
+And next, it would start to look for patterns. Where would it see the same things happen over and over again? Where would you get that feel of Deja Vu? And maybe the model would spot that over time, Apple generally has a price to tangible book value of 43. Sometimes it would dip below, sometimes above, but the pattern would always revert back to 43. 
+
+Again, Simmons would see this, he wouldn't care about the reasons why, he would just know that it happens. And he would take advantage of this pattern. His firm would simply make a trade when the price goes below 43, it reverts back to 43, and he makes some profit. 
+
+If it goes above 43, he could short the stock, and they would just keep doing this until the pattern would change. That's a basic example of reversion predicting signals. And maybe in the early days, it was as simple as just a few data points that you can profit from. 
+
+But as more and more traders started to click on to these techniques, Simmons would develop more complicated models to profit in the market. Instead of just simple pairs, he created a fund that involved complex signals and equity trades. It would go through all data it could find on a particular stock, correlate multiple variables, and then use machine learning and their models to find irregularities where they can make profits.
+
+(9:22 - 9:46)
+In order to create models that could take in such vast and complex amounts of data, then find patterns, and then profit, Jim would need to find a team of very smart people, like the Avengers. But instead of helping the planet, they would help solve complex trading algorithms. People with PhDs, doctorate degrees, top 1% of IQs, people who could code.
+
+(9:47 - 10:02)
+Instead of going for people on Wall Street and with finance backgrounds, Jim looked to universities. He started hiring people with doctorate degrees in math and physics, astronomers, and statisticians. People who could solve complicated problems.
+
+(10:02 - 10:11)
+They didn't necessarily have to have a finance background. In fact, he didn't want this. Simmons said the important thing was that they were very smart.
+
+(10:12 - 10:33)
+I like to say that you can teach a physicist finance, but you can't teach a finance person physics. And this great team of what can best be described as nerds would begin to crack the codes for trading in the stock market. And the smart thing about Simmons' strategy was that he didn't hire these people as employees, he hired them as partners.
+
+(10:34 - 10:58)
+The only way that you can be an owner in the medallion fund is to be employed there. So this way, all of these very smart workers are incentivized to make as much money as possible, because the money would not just go to a company, but to themselves as well. So you have hundreds of these PhD level geniuses, all with one incentive to make as much money in the market as possible.
+
+(10:59 - 11:21)
+This was a recipe for success. During the mid-1980s, a top researcher of Simmons' team began identifying ghost patterns in market prices. So the project was based on similar code cracking that Jim and his team had worked on at the National Security Agency.
+
+(11:22 - 11:45)
+The main idea was to look for patterns that others failed to detect and then profit from it. The medallion fund would feature a collection of a minimum of 8,000 signals based on the short-term patterns of the entire batch of scientists who work for medallion. The fund then leveraged these signals, aka they borrowed money, to trade in the market countless times per day.
+
+(11:46 - 12:03)
+Reports say that they borrowed around $17 for every $1 that they invested. And this was a bit of a secret to their success, the fact that they didn't even have to use their own money. They could borrow the money, quickly make some trades and profit, and then return the borrowed amount back.
+
+(12:03 - 12:25)
+Or just do the same thing again and again. The co-chief executive of Simmons' company said on an un-lavid basis, aka not borrowing, our models produce modest returns with very low volatility. Borrowing money helped change these returns into something that wasn't modest at all and basically put the company's returns on steroids.
+
+(12:31 - 12:54)
+The beauty of hiring PhD nerds over regular investors is that they would have one focus on the numbers. Astronomers, physicists, mathematicians, they don't worry too much on the emotions of the market, what investors are saying, the strength of the brand or anything like that. No, to them it's kind of like a science experiment or putting together an equation.
+
+(12:54 - 13:12)
+The only thing that matters is the numbers and making sure that they work. So instead of solving problems on how to get to space, or the force needed in a rocket, or solving a physics calculation, they would solve trading algorithms. Just like a science experiment, you just need to keep changing the variables.
+
+(13:13 - 13:41)
+Does this one work? Does this one make profit? No, let's try another. Does this one work? No, let's try another. Does this one? No, let's try another. 
+
+And they'll just keep fiddling with the equation and the variables until they find something that makes them a profit. By their very nature, they were perfectly suited for this type of work. As Jim Simmons was growing his fund, so too was the rise of machine learning.
+
+(13:41 - 14:05)
+So machine learning is the ability of a machine to use information to improve performance on some set of tasks. Whether that task be email filtering, speech recognition, chess, or finding profitable trades in the stock market. Just like with chess, the machine can analyze thousands of different moves and the consequences of making each move.
+
+(14:05 - 14:32)
+It can predict if a move is beneficial for the player or if it's going to make the position worse. And it's the same thing with a stock. Machines can test thousands of different moves and see which one leads to making money. 
+
+It's what's called machine learning. So you find things that are predictive. You might guess, oh, such and such should be predictive, might be predictive, and you test it out in the computer, and maybe it isn't, maybe it isn't.
+
+(14:32 - 15:05)
+The beauty about machines is they can test almost infinite amounts of data and theories in the time it takes for a human to test one thing, the machine can do a million tests. And Simmons realized this very early on, so he incorporated machines into his trading strategy, which gave him a huge advantage over his competition. So those are seven strategies that Simmons used to become what he is known as today, the greatest investor on Wall Street, and also the most successful hedge fund manager of all time.
+
+(15:06 - 15:24)
+So if you're currently a PhD major or just a high IQ individual, the next move might not be to become a professor, teacher, engineer. Maybe you can also get into trading and become the next Jim Simmons, but if you do, be sure to learn from these seven strategies.

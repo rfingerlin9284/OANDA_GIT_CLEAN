@@ -1,0 +1,11099 @@
+1
+00:00:00,300 --> 00:00:02,780
+Algorithms, they're written by a programmer and they
+
+2
+00:00:02,780 --> 00:00:04,520
+have to be written to go somewhere, okay?
+
+3
+00:00:04,680 --> 00:00:05,920
+Where are they written to go?
+
+4
+00:00:06,080 --> 00:00:08,180
+These technical areas that we're putting out, those
+
+5
+00:00:08,180 --> 00:00:10,120
+algorithms are going to that as sure as
+
+6
+00:00:10,120 --> 00:00:12,240
+we're having this conversation, there's no doubt.
+
+7
+00:00:12,500 --> 00:00:14,840
+They want to shake out the longs and
+
+8
+00:00:14,840 --> 00:00:16,320
+they want to get people short and what
+
+9
+00:00:16,320 --> 00:00:17,820
+do the smart people do that are on
+
+10
+00:00:17,820 --> 00:00:19,720
+the bottom of these algorithms that are scooping
+
+11
+00:00:19,720 --> 00:00:20,360
+this stuff up?
+
+12
+00:00:20,460 --> 00:00:22,860
+They're feeding into these people, that's what algorithms
+
+13
+00:00:22,860 --> 00:00:23,160
+do.
+
+14
+00:00:23,220 --> 00:00:25,260
+I'm able to take advantage of what they've
+
+15
+00:00:25,260 --> 00:00:26,860
+given me, printing the money, man.
+
+16
+00:00:26,940 --> 00:00:28,580
+That's what we do and we do it
+
+17
+00:00:28,580 --> 00:00:30,880
+every day, hundreds of times.
+
+18
+00:00:33,920 --> 00:00:36,440
+In terms of market makers and hunting stops,
+
+19
+00:00:36,720 --> 00:00:38,200
+there's a big thing in the retail space
+
+20
+00:00:38,200 --> 00:00:39,880
+of like price hitting your stop loss and
+
+21
+00:00:39,880 --> 00:00:41,900
+going completely the other way, people feeling very
+
+22
+00:00:41,900 --> 00:00:42,360
+targeted.
+
+23
+00:00:42,500 --> 00:00:44,040
+I've heard you say that that is a
+
+24
+00:00:44,040 --> 00:00:45,620
+case, that is something that does take place.
+
+25
+00:00:45,740 --> 00:00:47,200
+Yes, you're 100% right.
+
+26
+00:00:47,360 --> 00:00:50,440
+I started focusing on the algorithms a very
+
+27
+00:00:50,440 --> 00:00:51,260
+long time ago.
+
+28
+00:00:51,440 --> 00:00:52,820
+It wasn't my will, I was an agent.
+
+29
+00:00:52,820 --> 00:00:56,340
+Algorithms are there to create volatility and liquidity.
+
+30
+00:00:56,560 --> 00:00:58,100
+They want to trap one of the trades
+
+31
+00:00:58,100 --> 00:01:00,780
+that lose money 85-90% of the
+
+32
+00:01:00,780 --> 00:01:03,220
+time is when you sell, fail, break down.
+
+33
+00:01:03,340 --> 00:01:04,519
+Those algorithms know that.
+
+34
+00:01:04,640 --> 00:01:06,000
+You just know it and I know that
+
+35
+00:01:06,000 --> 00:01:07,960
+those algorithms are going to make that print
+
+36
+00:01:07,960 --> 00:01:09,860
+and they're programmed in to go to those
+
+37
+00:01:09,860 --> 00:01:10,560
+strike places.
+
+38
+00:01:10,720 --> 00:01:12,580
+A lot of retail traders, they all make
+
+39
+00:01:12,580 --> 00:01:13,480
+the same mistake.
+
+40
+00:01:13,620 --> 00:01:15,820
+The important thing is for retail traders is
+
+41
+00:01:15,820 --> 00:01:26,000
+- The
+
+42
+00:01:26,000 --> 00:01:27,840
+number one podcast in the trading space, the
+
+43
+00:01:27,840 --> 00:01:29,900
+fastest growing and that's thanks to every single
+
+44
+00:01:29,900 --> 00:01:30,400
+one of you.
+
+45
+00:01:36,320 --> 00:01:38,260
+Welcome back everyone to the Words of Wisdom
+
+46
+00:01:38,260 --> 00:01:38,760
+podcast.
+
+47
+00:01:38,880 --> 00:01:40,140
+We are back once again and still the
+
+48
+00:01:40,140 --> 00:01:42,440
+number one podcast in the trading space and
+
+49
+00:01:42,440 --> 00:01:43,940
+the fastest growing thanks to all of you
+
+50
+00:01:43,940 --> 00:01:46,420
+and our incredible guests, talking of which we
+
+51
+00:01:46,420 --> 00:01:48,940
+have a true veteran with us today.
+
+52
+00:01:49,680 --> 00:01:51,460
+He first set foot on the New York
+
+53
+00:01:51,460 --> 00:01:54,200
+Stock Exchange in 1965, so in one year's
+
+54
+00:01:54,200 --> 00:01:56,040
+time that will make 60 years.
+
+55
+00:01:56,420 --> 00:01:59,880
+Absolutely incredible the amount of knowledge that is
+
+56
+00:01:59,880 --> 00:02:01,300
+going to be shared here with us today.
+
+57
+00:02:01,660 --> 00:02:03,500
+At one point he was responsible for 90
+
+58
+00:02:03,500 --> 00:02:06,220
+% of the volume trade in IBM, which
+
+59
+00:02:06,220 --> 00:02:08,759
+was almost 20% at one point of
+
+60
+00:02:08,759 --> 00:02:09,560
+the S&P.
+
+61
+00:02:09,979 --> 00:02:12,340
+And I am proud and honored to announce
+
+62
+00:02:12,340 --> 00:02:14,680
+that we have Richie Nasser with us today.
+
+63
+00:02:14,940 --> 00:02:16,340
+Thank you so much for that.
+
+64
+00:02:16,500 --> 00:02:17,240
+I appreciate it.
+
+65
+00:02:17,560 --> 00:02:19,120
+I'm trying to work on my intros.
+
+66
+00:02:19,820 --> 00:02:21,760
+Richie, it's an absolute honor, like I said.
+
+67
+00:02:22,320 --> 00:02:23,900
+Where we like to just start off with
+
+68
+00:02:23,900 --> 00:02:25,800
+is sort of how you got into trading,
+
+69
+00:02:25,900 --> 00:02:28,580
+like what were the mindset going into trading,
+
+70
+00:02:28,640 --> 00:02:30,940
+especially at that time, you know, the New
+
+71
+00:02:30,940 --> 00:02:32,040
+York Stock Exchange as well.
+
+72
+00:02:32,420 --> 00:02:33,320
+Where was your mindset?
+
+73
+00:02:33,620 --> 00:02:34,980
+Why trading in the first place?
+
+74
+00:02:35,260 --> 00:02:36,440
+It's pretty amazing.
+
+75
+00:02:37,440 --> 00:02:39,300
+You know, first of all, I thank the
+
+76
+00:02:39,300 --> 00:02:42,120
+good Lord, because I couldn't have carved out
+
+77
+00:02:42,120 --> 00:02:45,600
+a better situation for myself without really knowing
+
+78
+00:02:45,600 --> 00:02:46,400
+what I was doing.
+
+79
+00:02:47,480 --> 00:02:49,320
+You know, I started out in a typical,
+
+80
+00:02:49,640 --> 00:02:53,120
+my family is a typical Italian family growing
+
+81
+00:02:53,120 --> 00:02:54,560
+up in Queens, New York.
+
+82
+00:02:54,780 --> 00:02:56,260
+But I grew up in a very tough
+
+83
+00:02:56,260 --> 00:02:56,700
+neighborhood.
+
+84
+00:02:57,200 --> 00:02:59,560
+And although I was a very big sports
+
+85
+00:02:59,560 --> 00:03:02,580
+fanatic in everything I did, at sometimes in
+
+86
+00:03:02,580 --> 00:03:05,360
+high levels, like getting a scholarship to high
+
+87
+00:03:05,360 --> 00:03:06,320
+school for basketball.
+
+88
+00:03:07,420 --> 00:03:10,780
+And, and so, you know, I formed many
+
+89
+00:03:10,780 --> 00:03:13,820
+baseball teams and many softball teams and traveled
+
+90
+00:03:13,820 --> 00:03:16,680
+around the tri-state area playing for money.
+
+91
+00:03:17,500 --> 00:03:20,800
+Okay, my family had bingo games going on
+
+92
+00:03:20,800 --> 00:03:23,000
+at the end of Sunday dinners at my
+
+93
+00:03:23,000 --> 00:03:23,920
+grandmother's house.
+
+94
+00:03:24,220 --> 00:03:25,980
+You always, the kids always wanted to use
+
+95
+00:03:25,980 --> 00:03:28,220
+their real money to play bingo with the
+
+96
+00:03:28,220 --> 00:03:28,920
+older people.
+
+97
+00:03:29,440 --> 00:03:29,740
+Okay.
+
+98
+00:03:30,100 --> 00:03:32,220
+I grew up in, again, in a Queens
+
+99
+00:03:32,220 --> 00:03:35,740
+neighborhood, a very tough Queens neighborhood, and pitched
+
+100
+00:03:35,740 --> 00:03:40,820
+quarters against the wall, pitched, traded picture cards
+
+101
+00:03:40,820 --> 00:03:44,680
+and flipped picture cards for money, played poker
+
+102
+00:03:44,680 --> 00:03:48,880
+for money, played, played anything for money, played
+
+103
+00:03:48,880 --> 00:03:49,280
+anything.
+
+104
+00:03:49,820 --> 00:03:52,220
+I once sat in my basement at 15
+
+105
+00:03:52,220 --> 00:03:54,500
+years old, and I'm prefacing this on a
+
+106
+00:03:54,500 --> 00:03:55,460
+reason on purpose.
+
+107
+00:03:56,060 --> 00:03:58,060
+I once sat in my basement and had
+
+108
+00:03:58,060 --> 00:04:02,040
+four decks of cards faced upside down backwards.
+
+109
+00:04:02,200 --> 00:04:03,720
+So I couldn't see what I was doing.
+
+110
+00:04:03,980 --> 00:04:06,260
+I placed a baseball hat against the wall,
+
+111
+00:04:06,900 --> 00:04:08,120
+okay, against the wall.
+
+112
+00:04:08,240 --> 00:04:10,840
+And I stood there for hours, days and
+
+113
+00:04:10,840 --> 00:04:13,200
+hours and hours at a time, flipping those
+
+114
+00:04:13,200 --> 00:04:16,079
+cards against the wall, and counting up what
+
+115
+00:04:16,079 --> 00:04:20,519
+suit, what suit just fell into the hat.
+
+116
+00:04:21,060 --> 00:04:22,440
+Didn't know what I was flipping.
+
+117
+00:04:23,060 --> 00:04:24,380
+At the end of the day, no matter
+
+118
+00:04:24,380 --> 00:04:27,480
+what I did, the club suit always came
+
+119
+00:04:27,480 --> 00:04:28,320
+out on top.
+
+120
+00:04:29,600 --> 00:04:30,480
+Gave me an edge.
+
+121
+00:04:30,960 --> 00:04:31,840
+I'm playing poker.
+
+122
+00:04:32,220 --> 00:04:34,620
+If I'm playing contact poker, and I played
+
+123
+00:04:34,620 --> 00:04:36,540
+with bookmakers, and I played with the best
+
+124
+00:04:36,540 --> 00:04:38,460
+wise guys, I played with everybody.
+
+125
+00:04:39,220 --> 00:04:40,800
+But always clubs came out.
+
+126
+00:04:41,360 --> 00:04:42,740
+So if there were three clubs on the
+
+127
+00:04:42,740 --> 00:04:46,260
+board in contact poker, and there was one
+
+128
+00:04:46,260 --> 00:04:47,740
+card in the deck that had to be
+
+129
+00:04:47,740 --> 00:04:49,720
+pulled out, and I had three, four clubs,
+
+130
+00:04:49,880 --> 00:04:51,700
+three clubs and one on the board, and
+
+131
+00:04:51,700 --> 00:04:53,460
+I needed a club, I know what I
+
+132
+00:04:53,460 --> 00:04:53,860
+was doing.
+
+133
+00:04:54,180 --> 00:04:55,820
+If I needed a diamond, I probably would
+
+134
+00:04:55,820 --> 00:04:56,220
+have folded.
+
+135
+00:04:56,940 --> 00:04:58,320
+So that's the level.
+
+136
+00:04:59,180 --> 00:05:01,820
+And, you know, I had no real idea
+
+137
+00:05:01,820 --> 00:05:04,500
+of what my future would be.
+
+138
+00:05:05,240 --> 00:05:08,580
+And so it was unbelievable.
+
+139
+00:05:09,320 --> 00:05:12,380
+You know, the experience of winning and losing,
+
+140
+00:05:12,700 --> 00:05:13,860
+you cannot replicate.
+
+141
+00:05:14,900 --> 00:05:17,300
+You know, I tell people on my sessions
+
+142
+00:05:17,300 --> 00:05:19,540
+to this day, well, I'm going to go
+
+143
+00:05:19,540 --> 00:05:20,300
+on a simp account.
+
+144
+00:05:20,460 --> 00:05:21,640
+I'm going to go on a simp account.
+
+145
+00:05:22,240 --> 00:05:23,360
+I said, do yourself a favor.
+
+146
+00:05:23,460 --> 00:05:24,700
+You're not going to learn anything on a
+
+147
+00:05:24,700 --> 00:05:25,240
+simp account.
+
+148
+00:05:25,380 --> 00:05:27,260
+The reason you're not because you're not risking
+
+149
+00:05:27,260 --> 00:05:27,760
+anything.
+
+150
+00:05:28,200 --> 00:05:30,200
+You've got to feel the emotions of risking.
+
+151
+00:05:30,200 --> 00:05:33,140
+You've got to feel what it is to
+
+152
+00:05:33,140 --> 00:05:33,680
+lose.
+
+153
+00:05:34,420 --> 00:05:34,760
+You can't.
+
+154
+00:05:34,860 --> 00:05:36,680
+Everything is not fun and games.
+
+155
+00:05:37,980 --> 00:05:40,460
+So anyway, it just meant it was a
+
+156
+00:05:40,460 --> 00:05:43,500
+tremendous preparation for me to walk in there.
+
+157
+00:05:43,980 --> 00:05:47,840
+You know, graduating high school, they all started
+
+158
+00:05:47,840 --> 00:05:50,480
+in with the yearbooks and they all wrote
+
+159
+00:05:50,480 --> 00:05:52,360
+the salutations of what they're going to be
+
+160
+00:05:52,360 --> 00:05:52,760
+in life.
+
+161
+00:05:52,820 --> 00:05:55,320
+How they knew that at 17, I don't
+
+162
+00:05:55,320 --> 00:05:56,540
+know, but they all knew it.
+
+163
+00:05:56,920 --> 00:05:57,800
+They all knew it.
+
+164
+00:05:58,500 --> 00:05:59,120
+I had one line.
+
+165
+00:05:59,260 --> 00:06:03,120
+I put one, one, one word and that
+
+166
+00:06:03,120 --> 00:06:03,780
+was business.
+
+167
+00:06:04,260 --> 00:06:06,420
+Did I know what business was that was,
+
+168
+00:06:06,620 --> 00:06:08,840
+where it was, what kind of business it
+
+169
+00:06:08,840 --> 00:06:09,100
+was?
+
+170
+00:06:09,260 --> 00:06:10,440
+No, I didn't.
+
+171
+00:06:10,920 --> 00:06:12,660
+I just wrote business.
+
+172
+00:06:15,170 --> 00:06:17,690
+I mean, I sold encyclopedias door to door.
+
+173
+00:06:18,430 --> 00:06:22,030
+I mean, I was a, a, a manager
+
+174
+00:06:22,030 --> 00:06:24,930
+trainee for John's bargain store.
+
+175
+00:06:25,450 --> 00:06:27,050
+People in this part of the country will
+
+176
+00:06:27,050 --> 00:06:27,810
+know what that was.
+
+177
+00:06:29,890 --> 00:06:32,470
+You know, soup to nuts across the court,
+
+178
+00:06:32,590 --> 00:06:35,230
+you know, delivering newspapers at five 30 in
+
+179
+00:06:35,230 --> 00:06:37,530
+the morning, you know, stuffing groceries at the
+
+180
+00:06:37,530 --> 00:06:39,530
+supermarket for a quarter a day or whatever
+
+181
+00:06:39,530 --> 00:06:41,550
+the hell it was, you know, stuff like
+
+182
+00:06:41,550 --> 00:06:41,930
+that.
+
+183
+00:06:41,990 --> 00:06:43,930
+But it all, I'm saying this for a
+
+184
+00:06:43,930 --> 00:06:44,170
+reason.
+
+185
+00:06:44,170 --> 00:06:46,070
+Nothing is an accident, folks.
+
+186
+00:06:46,490 --> 00:06:47,350
+Really nothing.
+
+187
+00:06:47,550 --> 00:06:48,870
+It's all predetermined.
+
+188
+00:06:49,230 --> 00:06:50,170
+Nothing is an accident.
+
+189
+00:06:51,710 --> 00:06:54,770
+And so when did trading come into your
+
+190
+00:06:54,770 --> 00:06:55,350
+sort of path?
+
+191
+00:06:55,690 --> 00:06:55,870
+Yeah.
+
+192
+00:06:56,290 --> 00:06:59,370
+So I never traded a stock in my
+
+193
+00:06:59,370 --> 00:06:59,610
+life.
+
+194
+00:06:59,690 --> 00:07:00,290
+I didn't have the money.
+
+195
+00:07:02,070 --> 00:07:04,190
+I saw an ad in New York times
+
+196
+00:07:04,190 --> 00:07:06,750
+that said, you know, wall street runner or
+
+197
+00:07:06,750 --> 00:07:08,450
+whatever they called it.
+
+198
+00:07:09,730 --> 00:07:11,490
+I said, Oh, New York stock exchange.
+
+199
+00:07:11,630 --> 00:07:12,610
+That's impressive to me.
+
+200
+00:07:13,470 --> 00:07:13,870
+Yeah.
+
+201
+00:07:14,930 --> 00:07:16,470
+I'm going to go and apply for this
+
+202
+00:07:16,470 --> 00:07:16,810
+job.
+
+203
+00:07:17,110 --> 00:07:18,670
+So I put on my Easter suit, the
+
+204
+00:07:18,670 --> 00:07:20,810
+only suit I owned, and only came out
+
+205
+00:07:20,810 --> 00:07:24,350
+once or twice a year and, and walked
+
+206
+00:07:24,350 --> 00:07:26,990
+into the stock exchange, filled out an application,
+
+207
+00:07:27,570 --> 00:07:28,190
+got hired.
+
+208
+00:07:28,330 --> 00:07:29,590
+I want to say one other thing.
+
+209
+00:07:30,590 --> 00:07:31,730
+And I want to say one other thing,
+
+210
+00:07:31,750 --> 00:07:33,610
+because it's important the way things are supposed
+
+211
+00:07:33,610 --> 00:07:34,310
+to work out.
+
+212
+00:07:34,890 --> 00:07:37,970
+My first job interview was for an assistant
+
+213
+00:07:37,970 --> 00:07:39,990
+accountant at a bookkeeping firm.
+
+214
+00:07:40,610 --> 00:07:40,790
+Okay.
+
+215
+00:07:40,970 --> 00:07:43,210
+And I didn't get the job, but the
+
+216
+00:07:43,210 --> 00:07:45,290
+woman, I didn't get the job because I
+
+217
+00:07:45,290 --> 00:07:48,210
+tested worse than the kid who was looking
+
+218
+00:07:48,210 --> 00:07:49,170
+for the same job.
+
+219
+00:07:50,010 --> 00:07:52,310
+And, but the HR person or whatever they
+
+220
+00:07:52,310 --> 00:07:54,390
+were called in that day, came up to
+
+221
+00:07:54,390 --> 00:07:56,330
+me and said, I'm sorry, but I have
+
+222
+00:07:56,330 --> 00:07:56,970
+to hire the other.
+
+223
+00:07:56,970 --> 00:07:59,690
+He got higher on a test, but she
+
+224
+00:07:59,690 --> 00:08:01,350
+said, I know I'm making a mistake.
+
+225
+00:08:02,010 --> 00:08:03,090
+And that was the end of that.
+
+226
+00:08:03,630 --> 00:08:04,890
+Then I went to wall street.
+
+227
+00:08:05,530 --> 00:08:07,730
+Then I got this clerk, a job as
+
+228
+00:08:07,730 --> 00:08:08,850
+a runner on the floor of the New
+
+229
+00:08:08,850 --> 00:08:09,690
+York stock exchange.
+
+230
+00:08:10,030 --> 00:08:10,710
+That simple.
+
+231
+00:08:11,090 --> 00:08:13,490
+But I remember one thing and one thing
+
+232
+00:08:13,490 --> 00:08:16,510
+that no, I found the home when they
+
+233
+00:08:16,510 --> 00:08:18,350
+suited me up, you had a special jacket,
+
+234
+00:08:18,550 --> 00:08:19,110
+blah, blah, blah.
+
+235
+00:08:19,870 --> 00:08:22,770
+And then you walked into that trading room.
+
+236
+00:08:22,850 --> 00:08:24,590
+They escorted you into that room.
+
+237
+00:08:25,810 --> 00:08:28,530
+It was like, it was like you got
+
+238
+00:08:28,530 --> 00:08:29,350
+hit with a boulder.
+
+239
+00:08:29,870 --> 00:08:31,909
+I mean, the energy that came out of
+
+240
+00:08:31,909 --> 00:08:34,090
+that room that I felt went through my
+
+241
+00:08:34,090 --> 00:08:36,110
+bones from the toe to top of my
+
+242
+00:08:36,110 --> 00:08:38,010
+head, down to my top of my bottom
+
+243
+00:08:38,010 --> 00:08:40,510
+of my toes, man, it was stupid.
+
+244
+00:08:40,870 --> 00:08:43,790
+It was like, Oh my God, I had
+
+245
+00:08:43,790 --> 00:08:44,550
+no idea.
+
+246
+00:08:45,050 --> 00:08:45,630
+No idea.
+
+247
+00:08:46,830 --> 00:08:47,710
+And that was it.
+
+248
+00:08:47,890 --> 00:08:49,490
+I was hooked after that.
+
+249
+00:08:49,590 --> 00:08:50,930
+I just did what I did.
+
+250
+00:08:50,990 --> 00:08:52,690
+I did my, I did my study and
+
+251
+00:08:52,690 --> 00:08:53,790
+I did my due diligence.
+
+252
+00:08:53,790 --> 00:08:55,410
+I passed whatever I had to pass.
+
+253
+00:08:55,730 --> 00:08:57,490
+I was not a great student in school.
+
+254
+00:08:57,670 --> 00:08:58,290
+I didn't care.
+
+255
+00:08:58,410 --> 00:08:59,770
+I didn't think they would teach me anything,
+
+256
+00:08:59,870 --> 00:09:00,450
+quite frankly.
+
+257
+00:09:01,410 --> 00:09:03,450
+And, you know, I, I rose through the
+
+258
+00:09:03,450 --> 00:09:05,430
+ranks in New York stock exchange as a
+
+259
+00:09:05,430 --> 00:09:05,710
+runner.
+
+260
+00:09:05,930 --> 00:09:08,490
+And then as a reporter, somebody who recorded
+
+261
+00:09:08,490 --> 00:09:10,050
+all the sales that took place.
+
+262
+00:09:10,670 --> 00:09:13,190
+And after nine months, they offered me a
+
+263
+00:09:13,190 --> 00:09:15,790
+job as a clerk, as a clerk.
+
+264
+00:09:17,550 --> 00:09:18,470
+What is a clerk?
+
+265
+00:09:18,530 --> 00:09:20,290
+A clerk is a trainee, but they work
+
+266
+00:09:20,290 --> 00:09:20,910
+for a firm.
+
+267
+00:09:21,670 --> 00:09:23,870
+And that was a big step because that
+
+268
+00:09:23,870 --> 00:09:25,890
+puts you on a level where you could
+
+269
+00:09:25,890 --> 00:09:28,050
+start to advance if you were good enough
+
+270
+00:09:28,050 --> 00:09:28,670
+to advance.
+
+271
+00:09:29,090 --> 00:09:30,350
+Nobody gave you anything.
+
+272
+00:09:31,550 --> 00:09:32,910
+And I had a hard time.
+
+273
+00:09:33,110 --> 00:09:35,190
+I can tell you, honestly, I had a
+
+274
+00:09:35,190 --> 00:09:38,190
+really hard time because I couldn't understand what
+
+275
+00:09:38,190 --> 00:09:38,850
+a quote was.
+
+276
+00:09:39,130 --> 00:09:40,830
+I didn't understand what a bid and offer
+
+277
+00:09:40,830 --> 00:09:41,210
+was.
+
+278
+00:09:41,530 --> 00:09:42,470
+I really didn't.
+
+279
+00:09:43,430 --> 00:09:46,310
+I mean, I was a workaholic, but I
+
+280
+00:09:46,310 --> 00:09:46,830
+did not.
+
+281
+00:09:47,070 --> 00:09:48,710
+I couldn't, I couldn't get it through.
+
+282
+00:09:49,350 --> 00:09:49,610
+Okay.
+
+283
+00:09:49,970 --> 00:09:52,510
+So my boss at the time sent me
+
+284
+00:09:52,510 --> 00:09:54,850
+up to the over-the-counter desk.
+
+285
+00:09:55,270 --> 00:09:56,210
+Over-the-counter.
+
+286
+00:09:56,550 --> 00:09:58,430
+Over-the-counter was rock and roll.
+
+287
+00:09:58,530 --> 00:09:59,370
+There was no Nasdaq.
+
+288
+00:09:59,470 --> 00:10:02,590
+This was a thousand people making markets in
+
+289
+00:10:02,590 --> 00:10:04,610
+every stock on a planet that wasn't listed
+
+290
+00:10:04,610 --> 00:10:05,670
+on the New York Stock Exchange.
+
+291
+00:10:06,030 --> 00:10:08,190
+And it was, this was, this was Dodge
+
+292
+00:10:08,190 --> 00:10:08,490
+City.
+
+293
+00:10:08,610 --> 00:10:09,390
+Check your pockets.
+
+294
+00:10:09,390 --> 00:10:10,250
+I'll tell you that.
+
+295
+00:10:10,830 --> 00:10:12,810
+It was Dodge City.
+
+296
+00:10:13,210 --> 00:10:16,270
+But when you were making markets, it was
+
+297
+00:10:16,270 --> 00:10:18,770
+the best education I ever got because after
+
+298
+00:10:18,770 --> 00:10:22,550
+that, it just all came together.
+
+299
+00:10:22,890 --> 00:10:24,790
+Down to the trading floor again.
+
+300
+00:10:26,250 --> 00:10:28,750
+And just kept moving up on a trading
+
+301
+00:10:28,750 --> 00:10:31,110
+floor, you know, where I was got the
+
+302
+00:10:31,110 --> 00:10:34,970
+confidence of many, many different companies that called
+
+303
+00:10:34,970 --> 00:10:37,870
+me, you know, to represent them, to be
+
+304
+00:10:37,870 --> 00:10:41,030
+their clerk and to stuff like that.
+
+305
+00:10:41,750 --> 00:10:43,590
+One thing you really, you said there, which
+
+306
+00:10:43,590 --> 00:10:45,970
+really stood out to me was nothing was
+
+307
+00:10:45,970 --> 00:10:48,590
+ever handed to anyone on the floor.
+
+308
+00:10:49,070 --> 00:10:50,450
+Can you just speak on that a bit
+
+309
+00:10:50,450 --> 00:10:50,710
+more?
+
+310
+00:10:51,410 --> 00:10:51,630
+Yeah.
+
+311
+00:10:51,670 --> 00:10:54,690
+I mean, look, I was never handed anything.
+
+312
+00:10:54,810 --> 00:10:56,610
+And, but the good news is that I
+
+313
+00:10:56,610 --> 00:10:57,990
+didn't want to be handed anything.
+
+314
+00:10:58,290 --> 00:11:00,110
+You know, I have a sibling that was
+
+315
+00:11:00,110 --> 00:11:02,390
+handed everything, but I never wanted to be
+
+316
+00:11:02,390 --> 00:11:03,810
+handed everything.
+
+317
+00:11:04,070 --> 00:11:05,350
+I always wanted to earn it.
+
+318
+00:11:05,650 --> 00:11:09,110
+And so it fit my personality real well.
+
+319
+00:11:09,390 --> 00:11:12,610
+Because when you're competing against other people, the
+
+320
+00:11:12,610 --> 00:11:13,570
+best comes out.
+
+321
+00:11:14,010 --> 00:11:15,470
+And if you, and if you know the
+
+322
+00:11:15,470 --> 00:11:17,310
+job that you could do, and if you
+
+323
+00:11:17,310 --> 00:11:19,410
+know what you're capable of doing, and you
+
+324
+00:11:19,410 --> 00:11:22,130
+have confidence in what you're doing, you are
+
+325
+00:11:22,130 --> 00:11:23,730
+going to beat these other people.
+
+326
+00:11:24,210 --> 00:11:25,730
+And you know, I mean, that's the way
+
+327
+00:11:25,730 --> 00:11:26,110
+it is.
+
+328
+00:11:26,390 --> 00:11:27,210
+That's capitalism.
+
+329
+00:11:27,550 --> 00:11:28,150
+That's it.
+
+330
+00:11:28,670 --> 00:11:29,930
+You want to get a job, you want
+
+331
+00:11:29,930 --> 00:11:31,890
+to do better than somebody else, you just
+
+332
+00:11:31,890 --> 00:11:33,010
+do the best you can.
+
+333
+00:11:33,170 --> 00:11:35,570
+And you automatically better than somebody else, as
+
+334
+00:11:35,570 --> 00:11:37,010
+long as you don't cheat along the way,
+
+335
+00:11:37,230 --> 00:11:38,750
+as long as you put in the time.
+
+336
+00:11:39,070 --> 00:11:41,510
+That's where the confidence comes from, putting in
+
+337
+00:11:41,510 --> 00:11:43,650
+the time, you need to be a student
+
+338
+00:11:43,650 --> 00:11:44,410
+of the game.
+
+339
+00:11:45,450 --> 00:11:47,330
+How important is that mindset going into something
+
+340
+00:11:47,330 --> 00:11:49,770
+like the floor where, whether even at that
+
+341
+00:11:49,770 --> 00:11:51,690
+time, people who would be entitled and think
+
+342
+00:11:51,690 --> 00:11:54,750
+they deserved something, think they have done enough
+
+343
+00:11:54,750 --> 00:11:56,490
+time, and therefore they should get something?
+
+344
+00:11:56,690 --> 00:11:57,050
+Oh, sure.
+
+345
+00:11:57,090 --> 00:11:58,690
+I love though, I love to compete against
+
+346
+00:11:58,690 --> 00:12:00,570
+those people, because that was easy stuff.
+
+347
+00:12:00,570 --> 00:12:01,690
+It was just easy.
+
+348
+00:12:02,390 --> 00:12:04,690
+And especially on the floor, the New York
+
+349
+00:12:04,690 --> 00:12:07,530
+Stock Exchange floor has a very high tradition
+
+350
+00:12:07,530 --> 00:12:09,070
+in heritage, okay?
+
+351
+00:12:09,150 --> 00:12:11,870
+The specialist system had lines of heritage.
+
+352
+00:12:13,150 --> 00:12:17,930
+Grandfathers, grandfathers, to sons, to sons, all right?
+
+353
+00:12:17,950 --> 00:12:21,310
+And many of the specialist firms had heritage
+
+354
+00:12:21,310 --> 00:12:22,690
+like that running through them.
+
+355
+00:12:22,990 --> 00:12:25,350
+So conversely speaking, to answer your question, a
+
+356
+00:12:25,350 --> 00:12:29,490
+lot of the offsprings of these senior people,
+
+357
+00:12:29,630 --> 00:12:32,070
+if you will, they thought that this was
+
+358
+00:12:32,070 --> 00:12:32,890
+easy life for them.
+
+359
+00:12:33,090 --> 00:12:36,410
+They already had money, they knew they were
+
+360
+00:12:36,410 --> 00:12:36,990
+getting money.
+
+361
+00:12:37,230 --> 00:12:42,610
+And so it's good to compete against those
+
+362
+00:12:42,610 --> 00:12:42,930
+people.
+
+363
+00:12:43,030 --> 00:12:43,890
+That's all I could say.
+
+364
+00:12:44,250 --> 00:12:45,890
+When you're a kid that comes from a
+
+365
+00:12:45,890 --> 00:12:48,730
+rough neighborhood, and you're able to work your
+
+366
+00:12:48,730 --> 00:12:52,170
+way up through it, and you find yourself
+
+367
+00:12:52,170 --> 00:12:55,990
+in an arena where people think they deserve
+
+368
+00:12:55,990 --> 00:12:57,830
+something, you stand out.
+
+369
+00:12:59,430 --> 00:13:00,770
+Going back to what you said about your
+
+370
+00:13:00,770 --> 00:13:03,590
+sort of upbringing into the trading journey, you
+
+371
+00:13:03,590 --> 00:13:06,550
+mentioned about essentially everything was winning and losing.
+
+372
+00:13:06,850 --> 00:13:08,890
+Everything was trying to play those odds.
+
+373
+00:13:09,450 --> 00:13:11,530
+How important was that when you're coming into
+
+374
+00:13:11,530 --> 00:13:12,410
+the New York Stock Exchange?
+
+375
+00:13:13,010 --> 00:13:15,830
+Was it simply just some like almost familiar
+
+376
+00:13:15,830 --> 00:13:16,330
+to you?
+
+377
+00:13:16,410 --> 00:13:17,670
+Was it something that you just thought, this
+
+378
+00:13:17,670 --> 00:13:20,450
+is just a larger game of what I've
+
+379
+00:13:20,450 --> 00:13:20,970
+played before?
+
+380
+00:13:24,970 --> 00:13:26,890
+Intellectually, at that point, no.
+
+381
+00:13:28,190 --> 00:13:31,750
+But somehow, some way, my system knew it.
+
+382
+00:13:32,650 --> 00:13:36,090
+I did not recognize it at first.
+
+383
+00:13:36,550 --> 00:13:37,510
+I really did not.
+
+384
+00:13:38,010 --> 00:13:40,510
+It was, I don't know, a couple of
+
+385
+00:13:40,510 --> 00:13:42,570
+years, two, three years where I started realizing,
+
+386
+00:13:43,170 --> 00:13:43,710
+forget it.
+
+387
+00:13:43,950 --> 00:13:45,870
+And I started moving up quicker than a
+
+388
+00:13:45,870 --> 00:13:47,070
+lot of people were moving up.
+
+389
+00:13:48,190 --> 00:13:50,370
+And then I figured out, and the answer
+
+390
+00:13:50,370 --> 00:13:52,250
+to your question is at one point, but
+
+391
+00:13:52,250 --> 00:13:53,050
+not from the beginning.
+
+392
+00:13:53,570 --> 00:13:54,250
+Not from the beginning.
+
+393
+00:13:54,410 --> 00:13:56,410
+I knew I belonged there because of the
+
+394
+00:13:56,410 --> 00:13:56,770
+energy.
+
+395
+00:13:57,110 --> 00:13:58,830
+And I knew that's what drives me.
+
+396
+00:13:58,950 --> 00:14:00,710
+And that's what's always driven me, no matter
+
+397
+00:14:00,710 --> 00:14:01,350
+what I did.
+
+398
+00:14:01,850 --> 00:14:04,710
+So from that perspective, the energy was just,
+
+399
+00:14:05,510 --> 00:14:07,830
+oh my God, this is my home.
+
+400
+00:14:07,890 --> 00:14:08,890
+This is where I belong.
+
+401
+00:14:08,890 --> 00:14:13,190
+And I remember, I said, wow, when I
+
+402
+00:14:13,190 --> 00:14:15,410
+got my first job and I was making
+
+403
+00:14:15,410 --> 00:14:19,470
+$60 a week, that was the pay in
+
+404
+00:14:19,470 --> 00:14:21,590
+1960, $65.
+
+405
+00:14:21,790 --> 00:14:25,290
+$60 a week, I cleared $48.12. And
+
+406
+00:14:25,290 --> 00:14:26,010
+that's what I remember.
+
+407
+00:14:26,450 --> 00:14:29,650
+And I remember also, I said to myself,
+
+408
+00:14:29,830 --> 00:14:31,830
+wow, if I can make, my goal was
+
+409
+00:14:31,830 --> 00:14:33,710
+to make $40,000 a year.
+
+410
+00:14:34,470 --> 00:14:35,570
+That was my goal.
+
+411
+00:14:36,170 --> 00:14:37,770
+And now I'm dead serious.
+
+412
+00:14:37,850 --> 00:14:39,690
+That was my goal to make $40,000
+
+413
+00:14:39,690 --> 00:14:41,590
+a year, which was a lot of money
+
+414
+00:14:41,590 --> 00:14:42,190
+at that time.
+
+415
+00:14:45,170 --> 00:14:46,910
+In terms of, as you said, in terms
+
+416
+00:14:46,910 --> 00:14:48,950
+of the energy, I'm sure there would have
+
+417
+00:14:48,950 --> 00:14:50,010
+been people who would have gone there.
+
+418
+00:14:50,070 --> 00:14:51,690
+And rather than energy, they would have said
+
+419
+00:14:51,690 --> 00:14:53,370
+chaos, would have said something maybe more of
+
+420
+00:14:53,370 --> 00:14:55,150
+a negative feeling because they couldn't handle it.
+
+421
+00:14:55,670 --> 00:14:58,690
+And what was it about you that felt
+
+422
+00:14:58,690 --> 00:14:59,670
+that energy instead?
+
+423
+00:14:59,810 --> 00:15:01,510
+What was it about the energy on the
+
+424
+00:15:01,510 --> 00:15:03,730
+floor that really resonated with you and wanted
+
+425
+00:15:03,730 --> 00:15:04,370
+you to be there?
+
+426
+00:15:04,390 --> 00:15:06,890
+The gambling instincts, the gambling instincts.
+
+427
+00:15:07,550 --> 00:15:09,390
+There were two times I had that feeling
+
+428
+00:15:09,390 --> 00:15:10,010
+in my life.
+
+429
+00:15:10,810 --> 00:15:15,010
+Once, I was in a Marine Corps and
+
+430
+00:15:15,010 --> 00:15:18,830
+stationed in 29 Palms, California, which is only
+
+431
+00:15:18,830 --> 00:15:20,610
+two or three hours away from Las Vegas.
+
+432
+00:15:21,110 --> 00:15:22,390
+I'd never been to Las Vegas.
+
+433
+00:15:22,430 --> 00:15:23,190
+I'd never been anywhere.
+
+434
+00:15:24,370 --> 00:15:26,670
+And the same feeling is when I walked
+
+435
+00:15:26,670 --> 00:15:28,910
+into a Las Vegas casino.
+
+436
+00:15:29,370 --> 00:15:32,230
+But that was second to the New York
+
+437
+00:15:32,230 --> 00:15:32,970
+Stock Exchange.
+
+438
+00:15:33,830 --> 00:15:36,950
+The gambling mecca of Las Vegas is second
+
+439
+00:15:36,950 --> 00:15:39,530
+to the gambling that goes on every day
+
+440
+00:15:39,530 --> 00:15:41,790
+and to what I did.
+
+441
+00:15:41,950 --> 00:15:43,230
+Nothing comes close to that.
+
+442
+00:15:43,470 --> 00:15:43,630
+Nothing.
+
+443
+00:15:45,310 --> 00:15:47,650
+What would you say is the separation then
+
+444
+00:15:47,650 --> 00:15:49,370
+between the gambling and the trading?
+
+445
+00:15:49,630 --> 00:15:51,550
+I'm sure there were traders on the floor
+
+446
+00:15:51,550 --> 00:15:53,370
+who were so emotional that you could call
+
+447
+00:15:53,370 --> 00:15:53,790
+it gambling.
+
+448
+00:15:53,790 --> 00:15:57,030
+Then what would separate those from the traders
+
+449
+00:15:57,030 --> 00:15:58,010
+to the gamblers?
+
+450
+00:15:58,290 --> 00:16:00,490
+Profitable trading really boils down to two things,
+
+451
+00:16:00,870 --> 00:16:03,010
+opportunity and volatility.
+
+452
+00:16:03,330 --> 00:16:04,970
+And that is why the podcast has partnered
+
+453
+00:16:04,970 --> 00:16:06,210
+with Market Journal.
+
+454
+00:16:06,570 --> 00:16:09,450
+Because between the years 2016 and 2020, the
+
+455
+00:16:09,450 --> 00:16:11,750
+amount of opportunity that was available, as well
+
+456
+00:16:11,750 --> 00:16:13,890
+as volatility to take advantage of, was at
+
+457
+00:16:13,890 --> 00:16:14,830
+the highest it's ever been.
+
+458
+00:16:14,950 --> 00:16:16,750
+And all of that really pointed towards one
+
+459
+00:16:16,750 --> 00:16:18,470
+man, President Donald Trump.
+
+460
+00:16:18,790 --> 00:16:20,710
+During his period in office, all it took
+
+461
+00:16:20,710 --> 00:16:22,570
+was one tweet, and that would present so
+
+462
+00:16:22,570 --> 00:16:24,990
+much volatility and the right traders would take
+
+463
+00:16:24,990 --> 00:16:27,230
+advantage of that and would create their record
+
+464
+00:16:27,230 --> 00:16:28,010
+P&Ls.
+
+465
+00:16:28,170 --> 00:16:29,710
+And that is why those same traders are
+
+466
+00:16:29,710 --> 00:16:32,850
+so excited for this new period between 2025
+
+467
+00:16:32,850 --> 00:16:37,050
+to 2029 when we have President Donald Trump
+
+468
+00:16:37,050 --> 00:16:37,930
+back in office.
+
+469
+00:16:38,270 --> 00:16:39,910
+Now, Market Journal is going to give you
+
+470
+00:16:39,910 --> 00:16:43,330
+the weekly insights you need across crypto, forex,
+
+471
+00:16:43,530 --> 00:16:45,170
+futures and the stock market.
+
+472
+00:16:45,370 --> 00:16:47,350
+So regardless of what happens, whether it's a
+
+473
+00:16:47,350 --> 00:16:50,030
+tweet, a particular stock running up hundreds of
+
+474
+00:16:50,030 --> 00:16:53,110
+percent, whatever volatility and opportunity that Market Journal
+
+475
+00:16:53,110 --> 00:16:55,230
+can identify, it is going to share with
+
+476
+00:16:55,230 --> 00:16:56,630
+you every single week.
+
+477
+00:16:56,730 --> 00:16:59,250
+So you can purely focus on taking advantage
+
+478
+00:16:59,250 --> 00:17:02,270
+of those opportunities and taking advantage of that
+
+479
+00:17:02,270 --> 00:17:04,550
+volatility to create your record P&L.
+
+480
+00:17:04,810 --> 00:17:07,470
+Now, Market Journal is absolutely free.
+
+481
+00:17:07,589 --> 00:17:08,770
+All you do is click the link in
+
+482
+00:17:08,770 --> 00:17:11,130
+the description below, put in your email, and
+
+483
+00:17:11,130 --> 00:17:13,550
+you will receive key updates on the markets
+
+484
+00:17:13,550 --> 00:17:15,210
+every single week.
+
+485
+00:17:15,390 --> 00:17:17,190
+So you are always up to date with
+
+486
+00:17:17,190 --> 00:17:19,770
+what's going on and ready to execute when
+
+487
+00:17:19,770 --> 00:17:20,609
+the time is right.
+
+488
+00:17:20,770 --> 00:17:21,750
+Links in description below.
+
+489
+00:17:22,050 --> 00:17:23,490
+Thank you for enjoying this episode.
+
+490
+00:17:24,790 --> 00:17:25,890
+Let's take a break for a minute there,
+
+491
+00:17:25,930 --> 00:17:26,770
+guys, because I want to let you know
+
+492
+00:17:26,770 --> 00:17:27,790
+about one of our sponsors.
+
+493
+00:17:27,970 --> 00:17:30,250
+Alpha Futures is offering the best one step
+
+494
+00:17:30,250 --> 00:17:32,390
+evaluations in the industry.
+
+495
+00:17:32,590 --> 00:17:34,270
+And in the month of December, they have
+
+496
+00:17:34,270 --> 00:17:35,490
+no activation fees.
+
+497
+00:17:35,670 --> 00:17:37,810
+They have the largest end of day based
+
+498
+00:17:37,810 --> 00:17:40,310
+drawdowns in the entire industry with up to
+
+499
+00:17:40,310 --> 00:17:43,570
+90% profit split and lightning fast payout
+
+500
+00:17:43,570 --> 00:17:46,950
+speeds and offering advanced and standard accounts to
+
+501
+00:17:46,950 --> 00:17:48,030
+fit your needs.
+
+502
+00:17:48,030 --> 00:17:50,910
+Alpha Futures is truly offering the most elite
+
+503
+00:17:50,910 --> 00:17:54,470
+plans for the lowest total cost to entry
+
+504
+00:17:54,470 --> 00:17:55,410
+in the industry.
+
+505
+00:17:55,610 --> 00:17:57,910
+You can start as low as $79.
+
+506
+00:17:58,710 --> 00:18:01,030
+And thanks to the podcast using code RIZ,
+
+507
+00:18:01,170 --> 00:18:03,090
+R I Z, you can get 20%
+
+508
+00:18:03,090 --> 00:18:05,190
+off any of those challenges.
+
+509
+00:18:05,530 --> 00:18:06,850
+Go to the link in the description below.
+
+510
+00:18:07,170 --> 00:18:08,230
+And let's get back to the episode.
+
+511
+00:18:08,890 --> 00:18:09,910
+Gamblers take risk.
+
+512
+00:18:10,190 --> 00:18:11,710
+I say it to my in my sessions
+
+513
+00:18:11,710 --> 00:18:12,450
+all the time.
+
+514
+00:18:12,870 --> 00:18:14,390
+Folks, we're not here to gamble, okay?
+
+515
+00:18:14,970 --> 00:18:15,830
+We're not here to gamble.
+
+516
+00:18:16,250 --> 00:18:18,350
+If you're in a Las Vegas casino, they
+
+517
+00:18:18,350 --> 00:18:20,330
+don't want you in there if you win
+
+518
+00:18:20,330 --> 00:18:24,050
+58.9% of the time, okay?
+
+519
+00:18:24,190 --> 00:18:25,910
+They don't want you in there, all right?
+
+520
+00:18:26,510 --> 00:18:33,350
+I take pride in figuring out the nuances
+
+521
+00:18:33,350 --> 00:18:35,710
+that lead to a trading decision, and there
+
+522
+00:18:35,710 --> 00:18:37,350
+are a lot of them, and they change
+
+523
+00:18:37,350 --> 00:18:37,770
+rapidly.
+
+524
+00:18:38,010 --> 00:18:39,050
+They don't stay the same.
+
+525
+00:18:39,570 --> 00:18:40,670
+You can go in and gamble in a
+
+526
+00:18:40,670 --> 00:18:43,350
+Las Vegas casino, and you know what the
+
+527
+00:18:43,350 --> 00:18:43,850
+odds are.
+
+528
+00:18:43,990 --> 00:18:44,710
+You know what you're doing.
+
+529
+00:18:45,410 --> 00:18:46,890
+You know you have a disadvantage.
+
+530
+00:18:47,110 --> 00:18:49,170
+You're every bet except one in a whole
+
+531
+00:18:49,170 --> 00:18:51,110
+casino where the house does not have an
+
+532
+00:18:51,110 --> 00:18:51,550
+advantage.
+
+533
+00:18:51,950 --> 00:18:53,150
+But I say it all the time.
+
+534
+00:18:53,430 --> 00:18:55,190
+I say, look, I'm not here to gamble.
+
+535
+00:18:55,650 --> 00:18:57,430
+I said, don't laugh because I'm dead serious.
+
+536
+00:18:57,530 --> 00:18:58,230
+I'm not here to gamble.
+
+537
+00:18:58,770 --> 00:19:01,970
+I am here to make a bet, and
+
+538
+00:19:01,970 --> 00:19:03,750
+I'm here to be on the right side
+
+539
+00:19:03,750 --> 00:19:05,110
+of the percentages of that bet.
+
+540
+00:19:05,310 --> 00:19:06,550
+I said, that's what I do, folks.
+
+541
+00:19:06,590 --> 00:19:08,130
+That's what you're paying me for.
+
+542
+00:19:08,210 --> 00:19:09,850
+That's why you're in these sessions, and that's
+
+543
+00:19:09,850 --> 00:19:10,290
+what I do.
+
+544
+00:19:10,630 --> 00:19:11,650
+So what's the difference?
+
+545
+00:19:11,770 --> 00:19:13,270
+I'm not a gambler.
+
+546
+00:19:13,470 --> 00:19:14,270
+I'm not a gambler.
+
+547
+00:19:14,350 --> 00:19:19,690
+I'm a technical player that slices and dices
+
+548
+00:19:19,690 --> 00:19:26,170
+everything that goes on a daily basis, on
+
+549
+00:19:26,170 --> 00:19:27,510
+a second-to-second basis.
+
+550
+00:19:28,270 --> 00:19:29,890
+Slices and dices, they can come up with
+
+551
+00:19:29,890 --> 00:19:31,850
+an advantage, at least what I feel is
+
+552
+00:19:31,850 --> 00:19:34,990
+an advantage, and then make the play.
+
+553
+00:19:37,390 --> 00:19:39,570
+In terms of that, though, the differences between
+
+554
+00:19:39,570 --> 00:19:42,330
+when you started your career and you're starting
+
+555
+00:19:42,330 --> 00:19:44,250
+your career as a trader in the pits
+
+556
+00:19:44,250 --> 00:19:46,590
+and within that energy in the room and
+
+557
+00:19:46,590 --> 00:19:48,190
+the other traders in the room, you're able
+
+558
+00:19:48,190 --> 00:19:49,690
+to read the order flow in the room
+
+559
+00:19:49,690 --> 00:19:51,490
+because it's happening there and then in the
+
+560
+00:19:51,490 --> 00:19:55,070
+room, versus today where you're trading from screens
+
+561
+00:19:55,070 --> 00:19:55,550
+remotely.
+
+562
+00:19:56,270 --> 00:19:57,530
+If you want to read the order flow,
+
+563
+00:19:57,590 --> 00:19:59,370
+you're using level two charts, for example.
+
+564
+00:19:59,370 --> 00:20:02,950
+You're not really getting that emotion, direct emotion.
+
+565
+00:20:03,430 --> 00:20:06,510
+But as someone with your experience, potentially you're
+
+566
+00:20:06,510 --> 00:20:08,210
+getting that from the actual candlesticks and the
+
+567
+00:20:08,210 --> 00:20:10,350
+way that the moves are printing within the
+
+568
+00:20:10,350 --> 00:20:12,930
+technicals versus what it used to be in
+
+569
+00:20:12,930 --> 00:20:13,310
+the pits.
+
+570
+00:20:13,470 --> 00:20:15,390
+Is there similarities that bridge the two?
+
+571
+00:20:16,330 --> 00:20:17,470
+Well, yeah, there is.
+
+572
+00:20:17,610 --> 00:20:18,130
+There is.
+
+573
+00:20:18,270 --> 00:20:20,310
+Again, the specialist system was prominent.
+
+574
+00:20:20,490 --> 00:20:21,770
+They dictated the flow.
+
+575
+00:20:22,250 --> 00:20:23,890
+They had the buy and sell orders that
+
+576
+00:20:23,890 --> 00:20:25,930
+were above and below the market on what's
+
+577
+00:20:25,930 --> 00:20:27,370
+called a specialist book.
+
+578
+00:20:28,590 --> 00:20:31,370
+And depending on the level of player you
+
+579
+00:20:31,370 --> 00:20:35,070
+were, i.e. the size of order flow
+
+580
+00:20:35,070 --> 00:20:37,530
+you used to have, when you went into
+
+581
+00:20:37,530 --> 00:20:40,970
+a specific trading crowd, you want to know
+
+582
+00:20:40,970 --> 00:20:42,270
+where the supply and demand is.
+
+583
+00:20:42,650 --> 00:20:44,050
+Now, that wasn't public knowledge.
+
+584
+00:20:44,550 --> 00:20:46,870
+But if you were a sizable player and
+
+585
+00:20:46,870 --> 00:20:49,350
+had sizable order flow and you went into
+
+586
+00:20:49,350 --> 00:20:51,750
+a trading stock, they know you meant business.
+
+587
+00:20:52,190 --> 00:20:57,150
+And so they would help you and speak
+
+588
+00:20:57,150 --> 00:20:59,390
+to you about where the order flow was,
+
+589
+00:20:59,470 --> 00:21:01,470
+where was the supply, where was the demand.
+
+590
+00:21:01,970 --> 00:21:03,630
+If you had a large buy order, you
+
+591
+00:21:03,630 --> 00:21:05,630
+wanted to know where the supply was and
+
+592
+00:21:05,630 --> 00:21:06,430
+vice versa.
+
+593
+00:21:07,090 --> 00:21:11,850
+So in this day and age, there are
+
+594
+00:21:11,850 --> 00:21:13,930
+different ways to navigate that.
+
+595
+00:21:14,430 --> 00:21:16,830
+And one of them is there's a superdome
+
+596
+00:21:16,830 --> 00:21:20,130
+that we have and display every day on
+
+597
+00:21:20,130 --> 00:21:20,730
+our sessions.
+
+598
+00:21:21,150 --> 00:21:22,110
+And it's a superdome.
+
+599
+00:21:22,530 --> 00:21:25,090
+And a lot of the firms offer these
+
+600
+00:21:25,090 --> 00:21:27,030
+domes, but these domes are not.
+
+601
+00:21:27,030 --> 00:21:29,110
+This is a superdome.
+
+602
+00:21:29,530 --> 00:21:32,490
+And it shows the size of the order
+
+603
+00:21:32,490 --> 00:21:35,810
+imbalances, depends what bar you're in.
+
+604
+00:21:35,850 --> 00:21:37,350
+But if you're on a NASDAQ bar, it's
+
+605
+00:21:37,350 --> 00:21:39,070
+3,000 ticks I have set up.
+
+606
+00:21:39,450 --> 00:21:41,770
+And 3,000 ticks will show in a
+
+607
+00:21:41,770 --> 00:21:43,930
+3,000 tick bar, it will show you
+
+608
+00:21:43,930 --> 00:21:47,290
+the order imbalances with the size, with the
+
+609
+00:21:47,290 --> 00:21:47,670
+sizes.
+
+610
+00:21:47,950 --> 00:21:48,890
+So you see.
+
+611
+00:21:48,970 --> 00:21:51,010
+And you see the NASDAQ size coming in
+
+612
+00:21:51,010 --> 00:21:52,950
+and blue imbalance orders in size.
+
+613
+00:21:52,950 --> 00:21:55,530
+And it gives you a little bit of
+
+614
+00:21:55,530 --> 00:21:55,830
+an edge.
+
+615
+00:21:55,990 --> 00:21:56,270
+Why?
+
+616
+00:21:56,610 --> 00:21:59,770
+If I see the market shooting up, I
+
+617
+00:21:59,770 --> 00:22:00,850
+mean, I left early today.
+
+618
+00:22:01,190 --> 00:22:02,770
+But if you see the market shooting up,
+
+619
+00:22:02,810 --> 00:22:05,370
+it's at a high, an intraday cycle high,
+
+620
+00:22:05,470 --> 00:22:06,130
+high, high.
+
+621
+00:22:06,990 --> 00:22:10,230
+And you see the superdome light up with
+
+622
+00:22:10,230 --> 00:22:11,410
+blue imbalance orders.
+
+623
+00:22:12,690 --> 00:22:14,870
+I'm watching that very closely because I know
+
+624
+00:22:14,870 --> 00:22:17,790
+these buy orders, these buyers here, they're long
+
+625
+00:22:17,790 --> 00:22:18,490
+at the top.
+
+626
+00:22:18,730 --> 00:22:20,770
+So number one, I know that it's going
+
+627
+00:22:20,770 --> 00:22:22,850
+to be a difficult world to really break
+
+628
+00:22:22,850 --> 00:22:24,010
+out if you want to get short.
+
+629
+00:22:24,190 --> 00:22:24,910
+I know that.
+
+630
+00:22:25,290 --> 00:22:27,630
+And I do know also that I'm going
+
+631
+00:22:27,630 --> 00:22:30,310
+to be covering my short when these people
+
+632
+00:22:30,310 --> 00:22:31,710
+start to puke if they're wrong.
+
+633
+00:22:32,330 --> 00:22:34,050
+And so that's an edge.
+
+634
+00:22:34,510 --> 00:22:35,950
+And we have a superdome.
+
+635
+00:22:36,070 --> 00:22:36,870
+It's expensive.
+
+636
+00:22:38,510 --> 00:22:42,210
+It's not proprietary to us, but we own
+
+637
+00:22:42,210 --> 00:22:42,490
+it.
+
+638
+00:22:43,990 --> 00:22:46,150
+And I don't know anybody else that has
+
+639
+00:22:46,150 --> 00:22:46,830
+this superdome.
+
+640
+00:22:46,950 --> 00:22:47,590
+I really don't.
+
+641
+00:22:47,810 --> 00:22:50,350
+So that's relative to the specialist book.
+
+642
+00:22:51,470 --> 00:22:54,590
+And not everybody in my era or eras
+
+643
+00:22:54,590 --> 00:22:57,070
+well before me and after me, for that
+
+644
+00:22:57,070 --> 00:22:59,690
+matter, the specialist book was the Bible.
+
+645
+00:23:00,050 --> 00:23:02,350
+Because you don't want to look like an
+
+646
+00:23:02,350 --> 00:23:05,430
+idiot by buying into a large seller that's
+
+647
+00:23:05,430 --> 00:23:08,170
+just slightly above the market and vice versa
+
+648
+00:23:08,170 --> 00:23:08,850
+on the downside.
+
+649
+00:23:09,670 --> 00:23:11,190
+You don't want to sell into a huge
+
+650
+00:23:11,190 --> 00:23:11,690
+buyer.
+
+651
+00:23:12,550 --> 00:23:17,150
+So edges like that, it comes from the
+
+652
+00:23:17,150 --> 00:23:18,170
+experience level.
+
+653
+00:23:18,990 --> 00:23:21,350
+And so I think very interesting what you
+
+654
+00:23:21,350 --> 00:23:23,250
+said there in terms of that, like, depending
+
+655
+00:23:23,250 --> 00:23:25,030
+on you and the size that you're sort
+
+656
+00:23:25,030 --> 00:23:27,830
+of fulfilling and essentially your track record, if
+
+657
+00:23:27,830 --> 00:23:28,170
+you will.
+
+658
+00:23:28,410 --> 00:23:29,810
+There's a lot of talk about track record
+
+659
+00:23:29,810 --> 00:23:31,830
+nowadays about traders, you know, trying to acquire
+
+660
+00:23:31,830 --> 00:23:33,630
+them, whether it's to get capital, to prove
+
+661
+00:23:33,630 --> 00:23:34,490
+themselves as traders.
+
+662
+00:23:35,030 --> 00:23:36,850
+But the same happened back in the pit.
+
+663
+00:23:36,910 --> 00:23:39,490
+If you didn't have the performance behind you
+
+664
+00:23:39,490 --> 00:23:41,010
+to be able to handle that size, no
+
+665
+00:23:41,010 --> 00:23:42,290
+one was going to give you that size.
+
+666
+00:23:42,710 --> 00:23:43,910
+So for you to be able to get
+
+667
+00:23:43,910 --> 00:23:45,710
+the size that you got, you showed the
+
+668
+00:23:45,710 --> 00:23:47,470
+skill set, the track record to be able
+
+669
+00:23:47,470 --> 00:23:49,590
+to handle it and then continue to perform
+
+670
+00:23:49,590 --> 00:23:50,110
+to this day.
+
+671
+00:23:50,510 --> 00:23:51,310
+100 percent.
+
+672
+00:23:51,590 --> 00:23:52,970
+I mean, that's just the fact of the
+
+673
+00:23:52,970 --> 00:23:53,170
+matter.
+
+674
+00:23:53,410 --> 00:23:55,310
+And, you know, I speak to my I
+
+675
+00:23:55,310 --> 00:23:58,170
+speak to my subscribers all the time about
+
+676
+00:23:58,170 --> 00:24:01,110
+the volume weighted average and, you know, the
+
+677
+00:24:01,110 --> 00:24:03,610
+80 percent of the order flow that comes
+
+678
+00:24:03,610 --> 00:24:06,310
+down today, the volume weighted average is a
+
+679
+00:24:06,310 --> 00:24:07,050
+huge factor.
+
+680
+00:24:07,050 --> 00:24:07,570
+Why?
+
+681
+00:24:08,090 --> 00:24:12,890
+Because the size of the positions today with
+
+682
+00:24:12,890 --> 00:24:14,690
+the amount of money on the management, you
+
+683
+00:24:14,690 --> 00:24:17,190
+can't have a million share position if you're
+
+684
+00:24:17,190 --> 00:24:19,450
+managing 10 billion dollars or 20 billion.
+
+685
+00:24:19,770 --> 00:24:23,530
+Your positions are 20 million shares, 30 million
+
+686
+00:24:23,530 --> 00:24:24,050
+shares.
+
+687
+00:24:24,810 --> 00:24:24,910
+OK.
+
+688
+00:24:25,270 --> 00:24:28,310
+And 80 percent, 80 percent, give or take,
+
+689
+00:24:28,550 --> 00:24:30,690
+it's probably more 80 percent.
+
+690
+00:24:31,950 --> 00:24:34,030
+A portfolio manager says, all right, I own
+
+691
+00:24:34,030 --> 00:24:34,870
+XYZ.
+
+692
+00:24:35,210 --> 00:24:37,670
+It's up substantially and they own 20 million
+
+693
+00:24:37,670 --> 00:24:37,970
+shares.
+
+694
+00:24:38,230 --> 00:24:40,950
+I want to take off, you know, 5
+
+695
+00:24:40,950 --> 00:24:42,250
+percent of that.
+
+696
+00:24:42,430 --> 00:24:44,070
+OK, so sell an order, take an order
+
+697
+00:24:44,070 --> 00:24:47,050
+to sell a half a million shares, two
+
+698
+00:24:47,050 --> 00:24:48,390
+million shares, a million shares.
+
+699
+00:24:49,010 --> 00:24:50,370
+And they give it to the trader on
+
+700
+00:24:50,370 --> 00:24:52,410
+a desk and they sell to the trader.
+
+701
+00:24:53,950 --> 00:24:55,930
+Just, you know, go along, beat the volume
+
+702
+00:24:55,930 --> 00:24:56,670
+weighted average.
+
+703
+00:24:57,410 --> 00:24:59,010
+80 percent of the orders on these deep
+
+704
+00:24:59,010 --> 00:25:03,130
+pocketed investors and funds have orders that are
+
+705
+00:25:04,170 --> 00:25:07,510
+that are following an algorithm that allows them
+
+706
+00:25:07,510 --> 00:25:10,190
+to stay close to the volume weighted average.
+
+707
+00:25:10,690 --> 00:25:10,950
+Why?
+
+708
+00:25:11,290 --> 00:25:13,090
+The trader doesn't want to be embarrassed.
+
+709
+00:25:13,450 --> 00:25:15,490
+The portfolio manager doesn't really care.
+
+710
+00:25:15,750 --> 00:25:16,690
+He's banking money.
+
+711
+00:25:17,070 --> 00:25:19,550
+So he doesn't want he doesn't want anybody
+
+712
+00:25:19,550 --> 00:25:21,850
+playing the market on his dime.
+
+713
+00:25:21,970 --> 00:25:24,450
+He'd rather just know that he's about around
+
+714
+00:25:24,450 --> 00:25:26,590
+the mid price of the stock that it
+
+715
+00:25:26,590 --> 00:25:27,390
+trades for the day.
+
+716
+00:25:27,850 --> 00:25:30,230
+But it's a very important factor when you're
+
+717
+00:25:30,230 --> 00:25:32,850
+doing what I do, because where the volume
+
+718
+00:25:32,850 --> 00:25:35,150
+weighted average is, you know, if a new
+
+719
+00:25:35,150 --> 00:25:37,510
+bar comes up on a super superdome, for
+
+720
+00:25:37,510 --> 00:25:40,150
+instance, and the bar is above the volume
+
+721
+00:25:40,150 --> 00:25:43,430
+weighted average, those those orders that are in
+
+722
+00:25:43,430 --> 00:25:46,210
+there following an algorithm on a volume weighted
+
+723
+00:25:46,210 --> 00:25:47,390
+average are buyers.
+
+724
+00:25:47,790 --> 00:25:50,530
+And when it's below the bar, they're sellers.
+
+725
+00:25:50,950 --> 00:25:52,770
+And that's how they keep up.
+
+726
+00:25:52,850 --> 00:25:53,870
+It's a balancing act.
+
+727
+00:25:54,850 --> 00:25:54,950
+So.
+
+728
+00:25:57,070 --> 00:26:00,190
+So the VWAP is really, really important.
+
+729
+00:26:00,710 --> 00:26:02,570
+My clients, like you, what you just said,
+
+730
+00:26:02,610 --> 00:26:05,110
+which prompted me to speak about this is
+
+731
+00:26:05,110 --> 00:26:06,070
+my clients.
+
+732
+00:26:06,510 --> 00:26:10,770
+I mean, you know, I represented Vanguard and
+
+733
+00:26:10,770 --> 00:26:12,390
+I represented their index funds.
+
+734
+00:26:12,610 --> 00:26:14,690
+So every time a stock went from one
+
+735
+00:26:14,690 --> 00:26:17,490
+S&P to 400 to 500, they, you
+
+736
+00:26:17,490 --> 00:26:19,730
+know, they restricted and they balanced, they had
+
+737
+00:26:19,730 --> 00:26:22,610
+to balance the mathematics out to reflect what
+
+738
+00:26:22,610 --> 00:26:23,730
+their index was.
+
+739
+00:26:24,310 --> 00:26:27,650
+And so so my customers, to your point,
+
+740
+00:26:28,650 --> 00:26:29,910
+they didn't give me the order.
+
+741
+00:26:30,450 --> 00:26:32,270
+I could put on an algorithm, too.
+
+742
+00:26:32,690 --> 00:26:35,970
+No, they they they wanted me to trade
+
+743
+00:26:35,970 --> 00:26:38,170
+the order and use my expertise.
+
+744
+00:26:38,570 --> 00:26:41,170
+So to your point, that's exactly what took
+
+745
+00:26:41,170 --> 00:26:41,510
+place.
+
+746
+00:26:41,650 --> 00:26:42,850
+And you want to know what?
+
+747
+00:26:43,130 --> 00:26:45,650
+I destroyed the volume weighted average.
+
+748
+00:26:46,310 --> 00:26:49,510
+I destroyed it almost every time.
+
+749
+00:26:49,930 --> 00:26:51,710
+Never really got hurt.
+
+750
+00:26:52,130 --> 00:26:56,550
+Played in the market without any algorithms, without
+
+751
+00:26:56,550 --> 00:26:59,170
+any machines, without anything.
+
+752
+00:27:00,090 --> 00:27:01,730
+I mean, I can't tell you the amount
+
+753
+00:27:01,730 --> 00:27:03,450
+of money I made for that index fund.
+
+754
+00:27:03,570 --> 00:27:04,670
+A lot of a lot of those people
+
+755
+00:27:04,670 --> 00:27:05,530
+owe me a lot of money.
+
+756
+00:27:06,290 --> 00:27:06,930
+They really do.
+
+757
+00:27:07,130 --> 00:27:08,770
+Their subscribers owe me a lot of money.
+
+758
+00:27:09,670 --> 00:27:11,110
+I would tell you that.
+
+759
+00:27:11,870 --> 00:27:14,330
+What was it like, though, going from obviously
+
+760
+00:27:14,330 --> 00:27:16,050
+being a runner to being a clerk to
+
+761
+00:27:16,050 --> 00:27:18,670
+then obviously starting to manage these positions yourself
+
+762
+00:27:18,670 --> 00:27:20,810
+on behalf of your clients as well?
+
+763
+00:27:20,990 --> 00:27:24,030
+But as the size was incrementally getting larger,
+
+764
+00:27:24,190 --> 00:27:26,270
+did you face any sort of psychological issues,
+
+765
+00:27:26,330 --> 00:27:27,270
+any barriers at all?
+
+766
+00:27:27,470 --> 00:27:28,370
+Interesting question.
+
+767
+00:27:28,510 --> 00:27:29,290
+The answer is no.
+
+768
+00:27:29,510 --> 00:27:30,990
+Never fazed me one bit.
+
+769
+00:27:31,370 --> 00:27:33,010
+It was all the same to me, whether
+
+770
+00:27:33,010 --> 00:27:35,050
+it was a thousand shares or a million
+
+771
+00:27:35,050 --> 00:27:35,510
+shares.
+
+772
+00:27:35,930 --> 00:27:37,630
+Yeah, I put up so many million share
+
+773
+00:27:37,630 --> 00:27:40,210
+blocks in IBM, you know, they counted on
+
+774
+00:27:40,210 --> 00:27:42,310
+me to price it and to trade out
+
+775
+00:27:42,310 --> 00:27:42,590
+of it.
+
+776
+00:27:43,010 --> 00:27:45,530
+So the size never intimidated me at all.
+
+777
+00:27:45,750 --> 00:27:46,750
+It's all relative.
+
+778
+00:27:47,130 --> 00:27:50,610
+I, you know, just ambivalent to it.
+
+779
+00:27:50,730 --> 00:27:51,910
+It doesn't mean anything.
+
+780
+00:27:52,290 --> 00:27:53,150
+It's just numbers.
+
+781
+00:27:53,650 --> 00:27:55,270
+And so I just increase the numbers.
+
+782
+00:27:55,850 --> 00:27:57,750
+And no, the answer is no to your
+
+783
+00:27:57,750 --> 00:27:58,530
+question.
+
+784
+00:27:58,750 --> 00:28:00,430
+It never affects me at all.
+
+785
+00:28:00,670 --> 00:28:02,410
+I never was intimidated by it.
+
+786
+00:28:02,890 --> 00:28:03,950
+And it never affected me.
+
+787
+00:28:03,950 --> 00:28:05,630
+Where do you think that came from?
+
+788
+00:28:06,670 --> 00:28:10,250
+My upbringing in a very tough neighborhood and
+
+789
+00:28:10,250 --> 00:28:11,530
+in a lot of different ways.
+
+790
+00:28:12,170 --> 00:28:14,630
+Drugs, wise guys, a lot of stuff.
+
+791
+00:28:15,030 --> 00:28:16,730
+It was a good, nice middle, middle class
+
+792
+00:28:16,730 --> 00:28:17,890
+neighborhood in Queens.
+
+793
+00:28:17,910 --> 00:28:20,010
+But there was a lot of stuff going
+
+794
+00:28:20,010 --> 00:28:21,710
+on, a lot of stuff.
+
+795
+00:28:22,190 --> 00:28:24,230
+And so where did it come from?
+
+796
+00:28:24,350 --> 00:28:27,310
+I, you know, I just my personality, I
+
+797
+00:28:27,310 --> 00:28:27,550
+guess.
+
+798
+00:28:27,770 --> 00:28:29,610
+I can't tell you where it came from.
+
+799
+00:28:30,390 --> 00:28:31,790
+Well, what do you think when you see
+
+800
+00:28:31,790 --> 00:28:34,370
+people going through psychological problems when it comes
+
+801
+00:28:34,370 --> 00:28:36,370
+to trading, you know, even if they're handling
+
+802
+00:28:36,370 --> 00:28:38,850
+much lesser size than what you were, for
+
+803
+00:28:38,850 --> 00:28:39,190
+example?
+
+804
+00:28:39,550 --> 00:28:39,670
+Yeah.
+
+805
+00:28:39,730 --> 00:28:41,430
+What do you say to people when you
+
+806
+00:28:41,430 --> 00:28:43,250
+see them or speak to them in that
+
+807
+00:28:43,250 --> 00:28:43,530
+regard?
+
+808
+00:28:43,710 --> 00:28:46,770
+Yeah, I say to them that, number one,
+
+809
+00:28:46,790 --> 00:28:48,030
+they have to know their personality.
+
+810
+00:28:48,650 --> 00:28:49,990
+If you have to, you need to know
+
+811
+00:28:49,990 --> 00:28:50,730
+your personality.
+
+812
+00:28:50,870 --> 00:28:52,130
+I said, and I say all the time,
+
+813
+00:28:52,170 --> 00:28:52,590
+don't laugh.
+
+814
+00:28:52,750 --> 00:28:53,690
+Don't laugh when I say that.
+
+815
+00:28:53,930 --> 00:28:55,810
+You have to know your personality because your
+
+816
+00:28:55,810 --> 00:29:00,770
+personality dictates the level of tolerance and level
+
+817
+00:29:00,770 --> 00:29:02,090
+of controlling your emotions.
+
+818
+00:29:02,870 --> 00:29:05,690
+And so it's extremely important to be able
+
+819
+00:29:05,690 --> 00:29:08,250
+to manage your emotions in this game.
+
+820
+00:29:08,350 --> 00:29:09,450
+And the way you do that best is
+
+821
+00:29:09,450 --> 00:29:11,170
+to understand your personality.
+
+822
+00:29:11,870 --> 00:29:13,550
+Everybody's personality is different.
+
+823
+00:29:13,930 --> 00:29:17,130
+Everybody can risk a certain amount without being
+
+824
+00:29:17,130 --> 00:29:18,430
+not effective any longer.
+
+825
+00:29:18,790 --> 00:29:21,150
+It's extremely important to know your personality.
+
+826
+00:29:21,430 --> 00:29:22,190
+It really is.
+
+827
+00:29:22,430 --> 00:29:24,610
+And you have to stay focused, all right?
+
+828
+00:29:24,730 --> 00:29:26,110
+You have to stay focused.
+
+829
+00:29:26,570 --> 00:29:27,070
+What do I do?
+
+830
+00:29:27,130 --> 00:29:28,930
+I give them an example all the time.
+
+831
+00:29:29,830 --> 00:29:32,510
+A horse races on a racetrack and a
+
+832
+00:29:32,510 --> 00:29:35,590
+horse does, you know, it's getting beat, getting
+
+833
+00:29:35,590 --> 00:29:36,930
+beat again, getting beat again.
+
+834
+00:29:37,350 --> 00:29:40,890
+A horse, you know, on a warm-up
+
+835
+00:29:40,890 --> 00:29:43,830
+track sets huge numbers and does great.
+
+836
+00:29:44,310 --> 00:29:45,990
+Gets in a race, horse can't do anything.
+
+837
+00:29:46,530 --> 00:29:49,670
+And the trainer finally figures out that, wait
+
+838
+00:29:49,670 --> 00:29:51,450
+a minute, the horse is getting distracted by
+
+839
+00:29:51,450 --> 00:29:52,470
+looking peripherally.
+
+840
+00:29:52,930 --> 00:29:53,630
+So what do they do?
+
+841
+00:29:53,690 --> 00:29:55,770
+They put what they call blinders on them.
+
+842
+00:29:56,230 --> 00:29:57,910
+And so the blinders make the horse look
+
+843
+00:29:57,910 --> 00:29:58,550
+straight ahead.
+
+844
+00:29:58,890 --> 00:30:01,230
+And that's an example I give my people
+
+845
+00:30:01,230 --> 00:30:02,050
+all the time.
+
+846
+00:30:02,450 --> 00:30:03,530
+Stay focused, man.
+
+847
+00:30:04,550 --> 00:30:06,230
+Because that is an interesting point.
+
+848
+00:30:06,310 --> 00:30:07,670
+A lot of people are so focused on
+
+849
+00:30:07,670 --> 00:30:09,710
+the wrong things rather than what actually will
+
+850
+00:30:09,710 --> 00:30:10,850
+make them into a better trader.
+
+851
+00:30:11,030 --> 00:30:11,370
+Correct.
+
+852
+00:30:11,790 --> 00:30:15,110
+Like, obviously trading in the pits is far
+
+853
+00:30:15,110 --> 00:30:17,210
+different than, say, trading on your own, especially
+
+854
+00:30:17,210 --> 00:30:18,050
+as a retail trader.
+
+855
+00:30:19,450 --> 00:30:20,990
+And as part of that, a lot of
+
+856
+00:30:20,990 --> 00:30:22,930
+traders will need, like, trading plans, right?
+
+857
+00:30:22,990 --> 00:30:26,190
+They'll need their systems that they follow in
+
+858
+00:30:26,190 --> 00:30:27,850
+order to create their edge in the market.
+
+859
+00:30:28,110 --> 00:30:29,810
+What have you, what can you speak on
+
+860
+00:30:29,810 --> 00:30:32,050
+in terms of, like, trading plans, maybe outside
+
+861
+00:30:32,050 --> 00:30:33,530
+of the trading floor era, I guess?
+
+862
+00:30:33,670 --> 00:30:33,810
+Yeah.
+
+863
+00:30:34,150 --> 00:30:35,610
+Well, I had to go through that.
+
+864
+00:30:36,050 --> 00:30:37,790
+I really had to go through that because
+
+865
+00:30:37,790 --> 00:30:41,110
+I had no experience trading, you know, in
+
+866
+00:30:41,110 --> 00:30:44,050
+front of screens until after I left.
+
+867
+00:30:44,930 --> 00:30:46,590
+And so what can I speak to that?
+
+868
+00:30:48,670 --> 00:30:55,320
+You know, people have to understand that what's
+
+869
+00:30:55,320 --> 00:30:56,900
+good for one trader is not good for
+
+870
+00:30:56,900 --> 00:30:57,540
+another trader.
+
+871
+00:30:58,060 --> 00:31:02,180
+What one trader looks at, another trader looks
+
+872
+00:31:02,180 --> 00:31:03,020
+at something different.
+
+873
+00:31:03,300 --> 00:31:06,000
+So you have to understand that this game
+
+874
+00:31:06,000 --> 00:31:07,100
+is wide in scope.
+
+875
+00:31:07,500 --> 00:31:08,640
+It is wide in scope.
+
+876
+00:31:09,200 --> 00:31:13,660
+And so, you know, manage your trades, protect
+
+877
+00:31:13,660 --> 00:31:18,980
+your money, protect your investment with stop orders.
+
+878
+00:31:19,580 --> 00:31:21,720
+But know what your limitations are with that.
+
+879
+00:31:21,940 --> 00:31:23,340
+Know what your limitations are.
+
+880
+00:31:23,340 --> 00:31:24,720
+I don't think I answered your question.
+
+881
+00:31:25,620 --> 00:31:27,800
+No, you did in terms of your trading
+
+882
+00:31:27,800 --> 00:31:28,000
+plan.
+
+883
+00:31:28,180 --> 00:31:30,620
+As you said, every trader is different, so
+
+884
+00:31:30,620 --> 00:31:31,940
+it's not going to be fixed, of course.
+
+885
+00:31:32,460 --> 00:31:34,280
+I think the benefit of trading is that
+
+886
+00:31:34,280 --> 00:31:35,940
+there are so many options of how to
+
+887
+00:31:35,940 --> 00:31:36,860
+do it successfully.
+
+888
+00:31:37,500 --> 00:31:39,020
+Equally, I feel like a lot of people
+
+889
+00:31:39,020 --> 00:31:41,080
+think of that and then they start trying
+
+890
+00:31:41,080 --> 00:31:43,880
+everything and therefore they find themselves very scattered
+
+891
+00:31:43,880 --> 00:31:46,040
+as a trader versus, as you said earlier,
+
+892
+00:31:46,180 --> 00:31:48,980
+focus on and know your personality.
+
+893
+00:31:49,240 --> 00:31:51,260
+So if you combine those two, that's where
+
+894
+00:31:51,260 --> 00:31:52,740
+you can start to probably really build that
+
+895
+00:31:52,740 --> 00:31:53,440
+trading plan out.
+
+896
+00:31:53,820 --> 00:31:54,440
+No, it's true.
+
+897
+00:31:54,620 --> 00:31:55,080
+It's true.
+
+898
+00:31:55,740 --> 00:31:59,240
+And, you know, simplicity is best.
+
+899
+00:32:00,100 --> 00:32:02,720
+And I refer to this a lot.
+
+900
+00:32:03,200 --> 00:32:06,180
+And, you know, and I say, keep it
+
+901
+00:32:06,180 --> 00:32:06,640
+simple.
+
+902
+00:32:06,940 --> 00:32:09,280
+You don't need all these things.
+
+903
+00:32:09,660 --> 00:32:11,520
+You don't need all these.
+
+904
+00:32:11,660 --> 00:32:13,420
+Don't get carried away.
+
+905
+00:32:13,880 --> 00:32:16,880
+When you start flipping around from one way
+
+906
+00:32:16,880 --> 00:32:18,780
+to trade to another way to trade, one
+
+907
+00:32:18,780 --> 00:32:22,420
+chart, another chart, one, you know, one technical
+
+908
+00:32:22,420 --> 00:32:26,340
+area, another technical area, you know, one Keltner
+
+909
+00:32:26,340 --> 00:32:26,740
+channel.
+
+910
+00:32:27,360 --> 00:32:30,840
+I said, whoa, you know, it's too much.
+
+911
+00:32:30,880 --> 00:32:32,100
+You're confusing yourself.
+
+912
+00:32:32,680 --> 00:32:37,500
+And, you know, I can delineate that, but
+
+913
+00:32:37,500 --> 00:32:38,320
+you can't.
+
+914
+00:32:38,940 --> 00:32:40,000
+You can't.
+
+915
+00:32:40,240 --> 00:32:43,060
+And that's going to retard your growth by
+
+916
+00:32:43,060 --> 00:32:44,780
+exposing yourself to too much.
+
+917
+00:32:45,240 --> 00:32:46,880
+It's OK to get to an area.
+
+918
+00:32:47,900 --> 00:32:50,100
+You know, I had only two monitors, but
+
+919
+00:32:50,100 --> 00:32:51,640
+I got to an area.
+
+920
+00:32:52,760 --> 00:32:54,520
+You get to the area, but you need
+
+921
+00:32:54,520 --> 00:32:57,300
+to conquer simplicity first or you're going to
+
+922
+00:32:57,300 --> 00:32:59,000
+retard your growth, like I just said.
+
+923
+00:32:59,380 --> 00:33:02,120
+And you're going to it's going to it's
+
+924
+00:33:02,120 --> 00:33:03,340
+going to stall your journey.
+
+925
+00:33:03,500 --> 00:33:04,340
+This is a journey.
+
+926
+00:33:05,660 --> 00:33:06,600
+Well, that's where a lot of people find
+
+927
+00:33:06,600 --> 00:33:08,120
+themselves, I think, is that they find themselves
+
+928
+00:33:08,120 --> 00:33:09,840
+in this boom and bust cycle where they're
+
+929
+00:33:09,840 --> 00:33:10,780
+just they're not losing.
+
+930
+00:33:10,920 --> 00:33:11,340
+They're not winning.
+
+931
+00:33:11,480 --> 00:33:13,600
+They're just going along sideways for a long
+
+932
+00:33:13,600 --> 00:33:14,460
+chunk of their time.
+
+933
+00:33:14,560 --> 00:33:16,560
+And a lot of the time they're not
+
+934
+00:33:16,560 --> 00:33:19,880
+really trying to learn or to be fair,
+
+935
+00:33:19,940 --> 00:33:21,800
+on the flip side, they're learning too much
+
+936
+00:33:21,800 --> 00:33:23,960
+and trying to overcomplicate things.
+
+937
+00:33:24,060 --> 00:33:24,360
+Correct.
+
+938
+00:33:24,520 --> 00:33:26,120
+Because they think that's a quicker way to
+
+939
+00:33:26,120 --> 00:33:27,200
+get to where they want to be.
+
+940
+00:33:27,220 --> 00:33:27,740
+And they're wrong.
+
+941
+00:33:28,680 --> 00:33:30,540
+What would you say in terms of people
+
+942
+00:33:30,540 --> 00:33:32,080
+trying to manage larger capital?
+
+943
+00:33:32,300 --> 00:33:33,480
+What is it that you've noticed?
+
+944
+00:33:33,920 --> 00:33:35,940
+You know, because obviously you were handling large
+
+945
+00:33:35,940 --> 00:33:37,360
+size, but I'm sure there are other players
+
+946
+00:33:37,360 --> 00:33:40,100
+around you who you also recognize were handling
+
+947
+00:33:40,100 --> 00:33:40,900
+large size, too.
+
+948
+00:33:40,980 --> 00:33:42,880
+What were the common traits among those people?
+
+949
+00:33:43,400 --> 00:33:44,820
+That's an interesting question.
+
+950
+00:33:45,280 --> 00:33:48,420
+The common traits were keeping you cool, keeping
+
+951
+00:33:48,420 --> 00:33:53,060
+you focused, not getting flustered, holding, controlling your
+
+952
+00:33:53,060 --> 00:33:53,660
+emotions.
+
+953
+00:33:54,620 --> 00:33:56,440
+Do your best not to get swept away
+
+954
+00:33:56,440 --> 00:33:58,540
+in an emotional situation.
+
+955
+00:33:58,720 --> 00:34:01,440
+And there were many, many, many, many.
+
+956
+00:34:01,920 --> 00:34:03,800
+And those people were able to keep their
+
+957
+00:34:03,800 --> 00:34:05,460
+cool, keep their focus.
+
+958
+00:34:06,120 --> 00:34:06,320
+All right.
+
+959
+00:34:07,219 --> 00:34:11,260
+You know, baseball player Andy Pennant, New York
+
+960
+00:34:11,260 --> 00:34:11,760
+Yankees.
+
+961
+00:34:12,179 --> 00:34:13,860
+It always stuck me even when I was
+
+962
+00:34:13,860 --> 00:34:14,760
+a kid watching this.
+
+963
+00:34:15,300 --> 00:34:19,360
+His hat was bent downwards and bent in
+
+964
+00:34:19,360 --> 00:34:21,639
+a way where he could only look forward.
+
+965
+00:34:21,639 --> 00:34:22,920
+It's the same example.
+
+966
+00:34:23,320 --> 00:34:24,639
+It's a simple example.
+
+967
+00:34:25,060 --> 00:34:26,960
+But that's the kind of focus that you
+
+968
+00:34:26,960 --> 00:34:27,380
+need.
+
+969
+00:34:27,860 --> 00:34:30,340
+And so the people that were competent people
+
+970
+00:34:30,340 --> 00:34:33,100
+knew were not intimidated by the size of
+
+971
+00:34:33,100 --> 00:34:36,719
+the order flow, were straightforward, honest people who
+
+972
+00:34:36,719 --> 00:34:37,780
+stated their case.
+
+973
+00:34:38,239 --> 00:34:38,600
+All right.
+
+974
+00:34:39,060 --> 00:34:40,540
+Listen, man, I'm going to buy a million
+
+975
+00:34:40,540 --> 00:34:41,880
+shares of stock here, OK?
+
+976
+00:34:42,000 --> 00:34:43,460
+Tell me where the supply is.
+
+977
+00:34:43,699 --> 00:34:44,520
+Tell me now.
+
+978
+00:34:45,699 --> 00:34:47,460
+I'm putting up a block of a million,
+
+979
+00:34:47,620 --> 00:34:50,699
+a million one eight IBM right now.
+
+980
+00:34:51,120 --> 00:34:52,719
+Don't anybody leave the crowd.
+
+981
+00:34:53,420 --> 00:34:54,480
+Stay here.
+
+982
+00:34:54,800 --> 00:34:56,700
+Tell me what your interest is now.
+
+983
+00:34:57,840 --> 00:34:58,160
+All right.
+
+984
+00:34:58,300 --> 00:35:00,220
+Customer A, customer B, customer B, this guy
+
+985
+00:35:00,220 --> 00:35:00,860
+represent that.
+
+986
+00:35:01,540 --> 00:35:04,360
+But the people were straightforward and stated their
+
+987
+00:35:04,360 --> 00:35:05,340
+case at the time.
+
+988
+00:35:05,460 --> 00:35:07,560
+You put the block together and you slapped
+
+989
+00:35:07,560 --> 00:35:08,240
+it on a tape.
+
+990
+00:35:08,480 --> 00:35:09,100
+All right.
+
+991
+00:35:09,140 --> 00:35:11,860
+And those are the people that impressed me
+
+992
+00:35:11,860 --> 00:35:12,780
+growing up.
+
+993
+00:35:12,820 --> 00:35:14,140
+And those are the people that I learned
+
+994
+00:35:14,140 --> 00:35:14,500
+from as well.
+
+995
+00:35:14,520 --> 00:35:17,320
+Growing up, people like that.
+
+996
+00:35:18,120 --> 00:35:20,140
+Is there ever any sense of like missing
+
+997
+00:35:20,140 --> 00:35:20,880
+those times?
+
+998
+00:35:20,900 --> 00:35:22,480
+Because obviously that energy must have been so
+
+999
+00:35:22,480 --> 00:35:25,780
+contagious, so almost addictive to some degree, no
+
+1000
+00:35:25,780 --> 00:35:26,000
+doubt.
+
+1001
+00:35:26,920 --> 00:35:29,160
+And to not be in that environment anymore,
+
+1002
+00:35:29,160 --> 00:35:30,900
+even after even if it's been some time,
+
+1003
+00:35:30,940 --> 00:35:32,420
+do you ever miss those days and that
+
+1004
+00:35:32,420 --> 00:35:33,400
+sort of flow?
+
+1005
+00:35:34,620 --> 00:35:35,720
+Let's take a break for a minute there,
+
+1006
+00:35:35,740 --> 00:35:35,920
+guys.
+
+1007
+00:35:35,980 --> 00:35:37,040
+I want to tell you about one of
+
+1008
+00:35:37,040 --> 00:35:38,900
+our sponsors, Alpha Capital.
+
+1009
+00:35:39,040 --> 00:35:40,740
+Now, without our sponsors, it's not possible for
+
+1010
+00:35:40,740 --> 00:35:43,440
+us to host such incredible podcasts around the
+
+1011
+00:35:43,440 --> 00:35:44,980
+world and get the level of guests that
+
+1012
+00:35:44,980 --> 00:35:45,600
+we are getting.
+
+1013
+00:35:45,800 --> 00:35:48,000
+So again, thanks to Alpha Capital for sponsoring
+
+1014
+00:35:48,000 --> 00:35:48,480
+the podcast.
+
+1015
+00:35:48,600 --> 00:35:49,980
+Now, Alpha Capital is one of the best
+
+1016
+00:35:49,980 --> 00:35:51,320
+prop firms in the industry.
+
+1017
+00:35:51,480 --> 00:35:53,600
+So far this year alone, they have done
+
+1018
+00:35:53,600 --> 00:35:57,740
+over $50 million in payouts, which is absolutely
+
+1019
+00:35:57,740 --> 00:35:58,920
+incredible.
+
+1020
+00:35:59,400 --> 00:36:02,000
+They have the very best infrastructure in place
+
+1021
+00:36:02,000 --> 00:36:04,880
+for longevity from an in-house broker so
+
+1022
+00:36:04,880 --> 00:36:07,120
+they can offer the very best trading conditions
+
+1023
+00:36:07,120 --> 00:36:10,020
+and platforms that all traders love to use.
+
+1024
+00:36:10,140 --> 00:36:12,160
+They're still able to offer services to the
+
+1025
+00:36:12,160 --> 00:36:13,320
+U.S. as well, so the U.S.
+
+1026
+00:36:13,380 --> 00:36:16,160
+traders can still trade with them on particular
+
+1027
+00:36:16,160 --> 00:36:17,020
+platforms.
+
+1028
+00:36:17,200 --> 00:36:19,740
+They have institutional experience, so they know how
+
+1029
+00:36:19,740 --> 00:36:21,840
+to manage a prop firm correctly and have
+
+1030
+00:36:21,840 --> 00:36:25,220
+such an incredible team on hand, on top
+
+1031
+00:36:25,220 --> 00:36:27,620
+of which they have both a pro and
+
+1032
+00:36:27,620 --> 00:36:28,440
+swing plan.
+
+1033
+00:36:28,580 --> 00:36:31,140
+So depending on your style and strategy, you
+
+1034
+00:36:31,140 --> 00:36:33,400
+can choose which one is best for you.
+
+1035
+00:36:33,540 --> 00:36:35,580
+Now you can use and get the highest
+
+1036
+00:36:35,580 --> 00:36:39,980
+discount available at anywhere using RIS25.
+
+1037
+00:36:40,240 --> 00:36:42,700
+So that's R-I-S-25 for 25
+
+1038
+00:36:42,700 --> 00:36:45,180
+% off all challenges.
+
+1039
+00:36:45,700 --> 00:36:47,160
+The link's in the description below.
+
+1040
+00:36:47,680 --> 00:36:48,760
+So let's get back to the episode.
+
+1041
+00:36:49,340 --> 00:36:51,680
+You know, I mean, it was the greatest
+
+1042
+00:36:51,680 --> 00:36:53,560
+education one could ever get.
+
+1043
+00:36:54,400 --> 00:36:57,900
+You know, I consider myself blessed and very
+
+1044
+00:36:57,900 --> 00:37:00,840
+lucky that I found my way there.
+
+1045
+00:37:01,260 --> 00:37:03,960
+I had no idea, trust me, none whatsoever.
+
+1046
+00:37:05,780 --> 00:37:08,120
+But looking back at it now, you know,
+
+1047
+00:37:08,420 --> 00:37:11,140
+been there, fine, another aspect of my life.
+
+1048
+00:37:11,600 --> 00:37:13,960
+I didn't expect to start LPQ trades.
+
+1049
+00:37:14,220 --> 00:37:15,440
+I did not expect it.
+
+1050
+00:37:15,760 --> 00:37:17,500
+I was trading my own money, like I
+
+1051
+00:37:17,500 --> 00:37:18,060
+said earlier.
+
+1052
+00:37:18,380 --> 00:37:20,120
+I did not expect to start a trading
+
+1053
+00:37:20,120 --> 00:37:20,360
+room.
+
+1054
+00:37:20,580 --> 00:37:22,520
+I did not expect to probably start a
+
+1055
+00:37:22,520 --> 00:37:24,240
+hedge fund by the end of the year.
+
+1056
+00:37:24,380 --> 00:37:26,020
+I did not expect any of it.
+
+1057
+00:37:26,840 --> 00:37:28,580
+I'm not the retiring type.
+
+1058
+00:37:29,340 --> 00:37:30,360
+I'm just not.
+
+1059
+00:37:30,740 --> 00:37:33,140
+So I'm occupied, is the answer to your
+
+1060
+00:37:33,140 --> 00:37:33,580
+question.
+
+1061
+00:37:33,820 --> 00:37:34,660
+Do I miss that?
+
+1062
+00:37:34,760 --> 00:37:34,900
+No.
+
+1063
+00:37:35,000 --> 00:37:35,940
+Do I treasure it?
+
+1064
+00:37:36,020 --> 00:37:38,280
+Oh my God, do I ever treasure it?
+
+1065
+00:37:38,540 --> 00:37:40,680
+Again, I will tell you, you can bundle
+
+1066
+00:37:40,680 --> 00:37:43,180
+together all the great colleges of the world
+
+1067
+00:37:43,180 --> 00:37:46,120
+and you could not get the education of
+
+1068
+00:37:46,120 --> 00:37:48,240
+growing up in those times that I grew
+
+1069
+00:37:48,240 --> 00:37:48,480
+up.
+
+1070
+00:37:48,620 --> 00:37:49,220
+You could not.
+
+1071
+00:37:51,140 --> 00:37:53,120
+Experience is king, as they say, because even
+
+1072
+00:37:53,120 --> 00:37:55,340
+just when I look at, you know, footage
+
+1073
+00:37:55,340 --> 00:37:57,580
+nowadays, it's really just footage or stock photos
+
+1074
+00:37:57,580 --> 00:37:58,880
+of those times.
+
+1075
+00:37:59,460 --> 00:38:01,260
+And you see it, and a lot of
+
+1076
+00:38:01,260 --> 00:38:03,700
+the time, maybe slightly dramatized with some music
+
+1077
+00:38:03,700 --> 00:38:05,240
+or whatever it may be, but you still
+
+1078
+00:38:05,240 --> 00:38:06,620
+see it and you think, wow, that must
+
+1079
+00:38:06,620 --> 00:38:07,380
+have been like chaos.
+
+1080
+00:38:07,540 --> 00:38:08,840
+That must have been crazy to trade.
+
+1081
+00:38:09,020 --> 00:38:10,740
+And then when you speak to the traders
+
+1082
+00:38:10,740 --> 00:38:12,840
+like yourselves, you learn a whole nother level
+
+1083
+00:38:12,840 --> 00:38:16,420
+of, of perception that's actually going on in
+
+1084
+00:38:16,420 --> 00:38:16,920
+those moments.
+
+1085
+00:38:16,920 --> 00:38:19,000
+It is chaos, but it's very organized chaos.
+
+1086
+00:38:19,580 --> 00:38:22,320
+It's very, as you say, educational to be
+
+1087
+00:38:22,320 --> 00:38:24,080
+in those moments because you're learning and picking
+
+1088
+00:38:24,080 --> 00:38:27,520
+up on so much that today's traders, they
+
+1089
+00:38:27,520 --> 00:38:29,100
+don't get that same sense, right?
+
+1090
+00:38:29,200 --> 00:38:31,140
+They're learning and it's not a negative thing
+
+1091
+00:38:31,140 --> 00:38:33,080
+necessarily, but they're learning just from the charts
+
+1092
+00:38:33,080 --> 00:38:35,560
+normally by themselves in their, in their office
+
+1093
+00:38:35,560 --> 00:38:37,300
+or at home, wherever it may be, but
+
+1094
+00:38:37,300 --> 00:38:39,300
+they very rarely know other traders.
+
+1095
+00:38:39,480 --> 00:38:40,940
+But in that environment, the only way to
+
+1096
+00:38:40,940 --> 00:38:42,460
+really know a trader is to then actually
+
+1097
+00:38:42,460 --> 00:38:44,440
+be in the room with all the traders.
+
+1098
+00:38:44,720 --> 00:38:44,960
+Bingo.
+
+1099
+00:38:45,160 --> 00:38:46,380
+I mean, you just hit it on a
+
+1100
+00:38:46,380 --> 00:38:46,540
+head.
+
+1101
+00:38:46,660 --> 00:38:47,580
+That's exactly right.
+
+1102
+00:38:48,020 --> 00:38:50,280
+And again, and a reason why I started
+
+1103
+00:38:50,280 --> 00:38:53,760
+this room is because I replicated a Wall
+
+1104
+00:38:53,760 --> 00:38:54,720
+Street trading room.
+
+1105
+00:38:55,840 --> 00:38:57,800
+You know, when I sold my broker dealers,
+
+1106
+00:38:57,920 --> 00:38:59,760
+I went to a hedge fund friend that
+
+1107
+00:38:59,760 --> 00:39:02,620
+were customers of mine, pretty big name, by
+
+1108
+00:39:02,620 --> 00:39:02,960
+the way.
+
+1109
+00:39:03,340 --> 00:39:05,100
+And they said, you know, come on in,
+
+1110
+00:39:05,220 --> 00:39:06,140
+you know, blah, blah, blah.
+
+1111
+00:39:06,300 --> 00:39:09,020
+I went in and they offered me and
+
+1112
+00:39:09,020 --> 00:39:11,180
+they say, Richard, we don't understand.
+
+1113
+00:39:11,380 --> 00:39:14,480
+You don't need to give us 30 or
+
+1114
+00:39:14,480 --> 00:39:17,660
+40% of your P&L because we're
+
+1115
+00:39:17,660 --> 00:39:19,320
+giving you extra money to trade.
+
+1116
+00:39:20,560 --> 00:39:22,100
+But we know you don't need that.
+
+1117
+00:39:22,420 --> 00:39:23,520
+I said, that's correct.
+
+1118
+00:39:24,300 --> 00:39:25,400
+Why are you doing it?
+
+1119
+00:39:25,400 --> 00:39:26,200
+The chairman of the company.
+
+1120
+00:39:26,380 --> 00:39:27,920
+Why do you want to sit in this
+
+1121
+00:39:27,920 --> 00:39:28,300
+hedge fund?
+
+1122
+00:39:28,900 --> 00:39:30,740
+Because I want to be in a trading
+
+1123
+00:39:30,740 --> 00:39:32,060
+room environment.
+
+1124
+00:39:33,560 --> 00:39:34,480
+So there you go.
+
+1125
+00:39:34,800 --> 00:39:36,500
+And that is a freaking letter of the
+
+1126
+00:39:36,500 --> 00:39:36,780
+law.
+
+1127
+00:39:37,340 --> 00:39:37,560
+All right.
+
+1128
+00:39:37,580 --> 00:39:39,360
+I never went there, but I started doing
+
+1129
+00:39:39,360 --> 00:39:39,960
+what I'm doing.
+
+1130
+00:39:40,400 --> 00:39:44,420
+And now I hate to keep repeating myself,
+
+1131
+00:39:44,700 --> 00:39:47,280
+but I, you know, you, you hit on
+
+1132
+00:39:47,280 --> 00:39:47,680
+a head.
+
+1133
+00:39:48,060 --> 00:39:49,860
+What I can bring to people with the
+
+1134
+00:39:49,860 --> 00:39:51,980
+experience level is unparalleled.
+
+1135
+00:39:52,420 --> 00:39:54,680
+So I tell my people, I said, this
+
+1136
+00:39:54,680 --> 00:39:57,420
+room is a replication of a Wall Street
+
+1137
+00:39:57,420 --> 00:39:58,180
+trading room.
+
+1138
+00:39:58,260 --> 00:40:01,580
+There are three master traders here comparing ideas
+
+1139
+00:40:01,580 --> 00:40:02,960
+during the whole session.
+
+1140
+00:40:03,520 --> 00:40:05,940
+So that's what we're giving you.
+
+1141
+00:40:06,220 --> 00:40:08,380
+And that is head and shoulders above anything
+
+1142
+00:40:08,380 --> 00:40:08,880
+out there.
+
+1143
+00:40:09,940 --> 00:40:12,480
+And nowadays you are trading futures, right?
+
+1144
+00:40:12,780 --> 00:40:13,480
+Trading futures.
+
+1145
+00:40:13,800 --> 00:40:15,120
+I can trade anything, man.
+
+1146
+00:40:15,120 --> 00:40:16,300
+Doesn't matter.
+
+1147
+00:40:16,540 --> 00:40:17,740
+I choose to trade futures.
+
+1148
+00:40:18,280 --> 00:40:20,680
+What is it about the futures market that
+
+1149
+00:40:20,680 --> 00:40:22,160
+got you sort of focused on it?
+
+1150
+00:40:22,260 --> 00:40:25,020
+The future markets are liquidity and volatility.
+
+1151
+00:40:25,780 --> 00:40:26,080
+All right.
+
+1152
+00:40:26,540 --> 00:40:28,100
+The liquidity is paramount.
+
+1153
+00:40:28,200 --> 00:40:29,540
+The volatility is paramount.
+
+1154
+00:40:29,820 --> 00:40:31,440
+The other thing is that the market, the
+
+1155
+00:40:31,440 --> 00:40:33,500
+stock market is based on hope.
+
+1156
+00:40:33,940 --> 00:40:35,360
+Everything is based on hope.
+
+1157
+00:40:36,120 --> 00:40:36,420
+Hope.
+
+1158
+00:40:37,100 --> 00:40:39,220
+You know, Apple's getting killed.
+
+1159
+00:40:39,640 --> 00:40:41,060
+Apple doesn't have any growth.
+
+1160
+00:40:41,360 --> 00:40:42,880
+Where's the growth coming from, Apple?
+
+1161
+00:40:43,100 --> 00:40:44,660
+China's shutting them out there.
+
+1162
+00:40:44,660 --> 00:40:47,080
+China's like, you're not selling your phones here
+
+1163
+00:40:47,080 --> 00:40:48,940
+anymore or whatever, blah, blah, blah.
+
+1164
+00:40:49,060 --> 00:40:50,180
+They come out with their earnings.
+
+1165
+00:40:50,280 --> 00:40:52,560
+Now everybody knows, I know, that their earnings
+
+1166
+00:40:52,560 --> 00:40:53,520
+were going to be bad.
+
+1167
+00:40:53,900 --> 00:40:54,100
+Okay.
+
+1168
+00:40:54,180 --> 00:40:54,660
+They're not good.
+
+1169
+00:40:54,680 --> 00:40:55,600
+They were not going to be good.
+
+1170
+00:40:55,820 --> 00:40:58,040
+So what, what, what do they do?
+
+1171
+00:40:58,100 --> 00:41:00,820
+They give their investors hope on a conference
+
+1172
+00:41:00,820 --> 00:41:01,080
+call.
+
+1173
+00:41:01,300 --> 00:41:02,040
+What's the hope?
+
+1174
+00:41:02,280 --> 00:41:04,540
+We're going to, we authorize a buyback of
+
+1175
+00:41:04,540 --> 00:41:05,380
+$110 billion.
+
+1176
+00:41:05,660 --> 00:41:06,420
+That's the hope.
+
+1177
+00:41:07,540 --> 00:41:07,940
+Hope.
+
+1178
+00:41:08,480 --> 00:41:09,160
+Elon Musk.
+
+1179
+00:41:09,560 --> 00:41:10,280
+Earnings bad.
+
+1180
+00:41:10,740 --> 00:41:12,960
+You know, two, three year earnings ago.
+
+1181
+00:41:13,580 --> 00:41:14,260
+Earnings bad.
+
+1182
+00:41:14,420 --> 00:41:15,080
+Stock is $150.
+
+1183
+00:41:16,200 --> 00:41:17,040
+What did he do?
+
+1184
+00:41:17,060 --> 00:41:17,700
+He gave them hope.
+
+1185
+00:41:17,840 --> 00:41:18,460
+What was the hope?
+
+1186
+00:41:18,780 --> 00:41:19,980
+His robotics game.
+
+1187
+00:41:20,580 --> 00:41:21,060
+Robotics.
+
+1188
+00:41:21,920 --> 00:41:23,660
+Stock is $250 now.
+
+1189
+00:41:23,860 --> 00:41:24,780
+I mean, $290.
+
+1190
+00:41:24,880 --> 00:41:25,400
+I don't know where.
+
+1191
+00:41:25,520 --> 00:41:26,880
+It's $290 yesterday.
+
+1192
+00:41:28,200 --> 00:41:29,120
+Gave them hope.
+
+1193
+00:41:29,440 --> 00:41:31,280
+So the future market gives you hope.
+
+1194
+00:41:31,780 --> 00:41:34,020
+It also helps you stay focused on the
+
+1195
+00:41:34,020 --> 00:41:34,700
+stock market.
+
+1196
+00:41:35,820 --> 00:41:37,160
+How does it stay focused?
+
+1197
+00:41:37,600 --> 00:41:39,960
+I have, one of my monitors has three
+
+1198
+00:41:39,960 --> 00:41:41,220
+one-minute charts up.
+
+1199
+00:41:41,560 --> 00:41:44,360
+The ES, the NQ, and the YM.
+
+1200
+00:41:44,780 --> 00:41:47,340
+And they all have micro and mini contracts.
+
+1201
+00:41:47,540 --> 00:41:48,840
+So 10 to 1 usually.
+
+1202
+00:41:49,640 --> 00:41:49,880
+All right.
+
+1203
+00:41:49,920 --> 00:41:50,440
+10 to 1.
+
+1204
+00:41:50,820 --> 00:41:53,800
+So these, nothing, nothing.
+
+1205
+00:41:54,540 --> 00:41:57,420
+They're one-minute charts overlaid by technical areas,
+
+1206
+00:41:58,020 --> 00:42:00,500
+9 EMA, and the volume weighted average.
+
+1207
+00:42:01,480 --> 00:42:03,740
+Nothing can take place in a marketplace without
+
+1208
+00:42:03,740 --> 00:42:06,180
+those three, rather than being reflected in those
+
+1209
+00:42:06,180 --> 00:42:06,820
+three charts.
+
+1210
+00:42:06,980 --> 00:42:09,040
+Because it's a bet on hope and it's
+
+1211
+00:42:09,040 --> 00:42:10,100
+a bet on a future.
+
+1212
+00:42:11,280 --> 00:42:12,640
+And when you can get into a contract
+
+1213
+00:42:12,640 --> 00:42:16,320
+like that and turn 20, 30, 40 handles
+
+1214
+00:42:16,320 --> 00:42:20,520
+in a NASDAQ by picking off a divergence
+
+1215
+00:42:20,520 --> 00:42:24,990
+from one to the other, future markets are
+
+1216
+00:42:24,990 --> 00:42:25,690
+the place to be.
+
+1217
+00:42:26,010 --> 00:42:28,170
+I mean, I, and the other thing is,
+
+1218
+00:42:28,690 --> 00:42:31,870
+the other thing is, how much money are
+
+1219
+00:42:31,870 --> 00:42:33,190
+you going to invest to make $0.50
+
+1220
+00:42:33,190 --> 00:42:35,550
+on Microsoft at $350 a share?
+
+1221
+00:42:35,550 --> 00:42:37,050
+How much do you have to invest?
+
+1222
+00:42:37,750 --> 00:42:41,030
+You know, LPQ stands for limited exposure, L.
+
+1223
+00:42:42,590 --> 00:42:43,670
+Limited exposure.
+
+1224
+00:42:43,910 --> 00:42:44,530
+I mean it.
+
+1225
+00:42:44,830 --> 00:42:46,430
+I put on three trades yesterday.
+
+1226
+00:42:46,730 --> 00:42:49,650
+I put on three trades this morning before
+
+1227
+00:42:49,650 --> 00:42:50,250
+I left.
+
+1228
+00:42:50,650 --> 00:42:53,790
+One was $450 at 23 seconds.
+
+1229
+00:42:54,130 --> 00:42:58,890
+One was $300 at six seconds, because I'm
+
+1230
+00:42:58,890 --> 00:43:01,050
+able to take advantage of what they've given
+
+1231
+00:43:01,050 --> 00:43:03,370
+me and keep printing the money, man.
+
+1232
+00:43:03,370 --> 00:43:04,590
+That's what we do.
+
+1233
+00:43:06,190 --> 00:43:08,690
+And you can, the liquidity, I'm sorry, but
+
+1234
+00:43:08,690 --> 00:43:11,590
+the liquidity in the future market allows you
+
+1235
+00:43:11,590 --> 00:43:12,250
+to do that.
+
+1236
+00:43:13,150 --> 00:43:14,890
+You want to pay up a nickel for
+
+1237
+00:43:14,890 --> 00:43:17,510
+to buy Microsoft at $350 a share, or
+
+1238
+00:43:17,510 --> 00:43:18,890
+any of these other wild names?
+
+1239
+00:43:19,990 --> 00:43:21,970
+How long are you going to stick around
+
+1240
+00:43:21,970 --> 00:43:23,110
+if you're a day trader?
+
+1241
+00:43:23,510 --> 00:43:25,010
+You don't have the capital to do it.
+
+1242
+00:43:27,460 --> 00:43:29,580
+You mentioned earlier in terms of algorithms, and
+
+1243
+00:43:29,580 --> 00:43:31,440
+you gave a good description in terms of
+
+1244
+00:43:31,440 --> 00:43:33,800
+your medium, your low, your high.
+
+1245
+00:43:34,340 --> 00:43:36,160
+You're looking at the orders at these points
+
+1246
+00:43:36,160 --> 00:43:36,560
+as well.
+
+1247
+00:43:37,140 --> 00:43:38,680
+And I've heard you previously, you've had a
+
+1248
+00:43:38,680 --> 00:43:40,800
+very viral video that went around.
+
+1249
+00:43:40,880 --> 00:43:42,660
+I remember on Twitter, like millions of views
+
+1250
+00:43:42,660 --> 00:43:45,780
+in regards to algorithms, talking about discounted prices,
+
+1251
+00:43:45,980 --> 00:43:49,500
+premium levels, and then the algorithms hunting these
+
+1252
+00:43:49,500 --> 00:43:50,480
+buy stops, sell stops.
+
+1253
+00:43:50,700 --> 00:43:52,580
+Can you speak more in terms of the
+
+1254
+00:43:52,580 --> 00:43:54,740
+intricacies and sort of where the knowledge comes
+
+1255
+00:43:54,740 --> 00:43:54,960
+from?
+
+1256
+00:43:55,400 --> 00:43:59,020
+Again, IBM was 19.78% of the
+
+1257
+00:43:59,020 --> 00:43:59,580
+S&P.
+
+1258
+00:44:00,080 --> 00:44:02,760
+So that ES contract, my eyes were peeled
+
+1259
+00:44:02,760 --> 00:44:03,200
+on it.
+
+1260
+00:44:03,200 --> 00:44:07,000
+It also touched off buy and sell programs.
+
+1261
+00:44:09,120 --> 00:44:13,220
+So I started focusing on the algorithms a
+
+1262
+00:44:13,220 --> 00:44:15,620
+very long time ago as my order flow
+
+1263
+00:44:15,620 --> 00:44:18,200
+was touching off buy and sell programs at
+
+1264
+00:44:18,200 --> 00:44:18,520
+will.
+
+1265
+00:44:19,500 --> 00:44:20,360
+It wasn't my will.
+
+1266
+00:44:20,800 --> 00:44:21,880
+I was an agent.
+
+1267
+00:44:23,300 --> 00:44:24,220
+I had to do with the order.
+
+1268
+00:44:25,240 --> 00:44:27,540
+Listen, I had complete discretion over my order
+
+1269
+00:44:27,540 --> 00:44:29,820
+flow at 90% of the time.
+
+1270
+00:44:30,300 --> 00:44:32,020
+That's what my customers paid me for, as
+
+1271
+00:44:32,020 --> 00:44:36,060
+I mentioned earlier, regarding clients.
+
+1272
+00:44:37,060 --> 00:44:40,520
+So the order flow just came and the
+
+1273
+00:44:40,520 --> 00:44:42,600
+focus on the ES contract just came.
+
+1274
+00:44:43,040 --> 00:44:46,420
+And therefore, with that being said, the algorithms
+
+1275
+00:44:46,420 --> 00:44:47,640
+come into play.
+
+1276
+00:44:49,400 --> 00:44:52,140
+Algorithms fuel the high frequency traders.
+
+1277
+00:44:55,100 --> 00:44:57,520
+Algorithms, and there's a video out there on
+
+1278
+00:44:57,520 --> 00:44:59,660
+this, and this is really, everybody should just
+
+1279
+00:44:59,660 --> 00:45:01,660
+go find that one because it really does
+
+1280
+00:45:01,660 --> 00:45:02,220
+describe.
+
+1281
+00:45:02,760 --> 00:45:07,420
+Algorithms are there to create volatility and liquidity.
+
+1282
+00:45:08,760 --> 00:45:10,180
+They want volatility.
+
+1283
+00:45:10,420 --> 00:45:14,640
+They want volatility to create liquidity.
+
+1284
+00:45:16,000 --> 00:45:17,320
+How does that work?
+
+1285
+00:45:17,840 --> 00:45:20,680
+Market's coming down to a major technical area.
+
+1286
+00:45:21,420 --> 00:45:24,300
+We put out technical areas every day, six
+
+1287
+00:45:24,300 --> 00:45:25,080
+o'clock in the morning.
+
+1288
+00:45:27,000 --> 00:45:29,540
+Major technical areas that one should be aware
+
+1289
+00:45:29,540 --> 00:45:29,740
+of.
+
+1290
+00:45:30,260 --> 00:45:31,760
+Technical areas are borders.
+
+1291
+00:45:32,320 --> 00:45:32,780
+They're borders.
+
+1292
+00:45:33,640 --> 00:45:35,120
+Nothing is the end all or be all.
+
+1293
+00:45:35,920 --> 00:45:39,040
+When an algorithm, a perfect example of algorithms,
+
+1294
+00:45:39,200 --> 00:45:39,740
+what they do.
+
+1295
+00:45:40,080 --> 00:45:41,720
+All right, technical area here.
+
+1296
+00:45:41,840 --> 00:45:42,720
+Markets are getting killed.
+
+1297
+00:45:43,240 --> 00:45:45,000
+Boom, boom, boom, boom.
+
+1298
+00:45:45,100 --> 00:45:46,540
+Looks like it's resting here.
+
+1299
+00:45:47,300 --> 00:45:48,340
+Not going to rest there.
+
+1300
+00:45:48,800 --> 00:45:50,360
+The algorithms are going to come in here
+
+1301
+00:45:50,360 --> 00:45:53,340
+and touch that technical area, which is usually
+
+1302
+00:45:53,340 --> 00:45:54,420
+a discount area.
+
+1303
+00:45:54,800 --> 00:45:56,260
+And they're going to come and touch that
+
+1304
+00:45:56,260 --> 00:45:56,600
+off.
+
+1305
+00:45:57,240 --> 00:45:57,820
+Two reasons.
+
+1306
+00:45:58,460 --> 00:46:02,650
+Number one, they want to trap one of
+
+1307
+00:46:02,650 --> 00:46:08,350
+the trades that lose money 85, 90%
+
+1308
+00:46:08,350 --> 00:46:10,410
+of the time is when you sell a
+
+1309
+00:46:10,410 --> 00:46:11,370
+failed breakdown.
+
+1310
+00:46:12,070 --> 00:46:13,250
+Sell a failed breakdown.
+
+1311
+00:46:14,430 --> 00:46:15,790
+Those algorithms know that.
+
+1312
+00:46:16,130 --> 00:46:18,990
+And by the way, what broke me through
+
+1313
+00:46:18,990 --> 00:46:21,630
+on the algorithms to make that video was
+
+1314
+00:46:21,630 --> 00:46:27,010
+discovering that, listen, ladies and gentlemen, algorithms may
+
+1315
+00:46:27,010 --> 00:46:33,750
+be mathematical equations generated by a code.
+
+1316
+00:46:34,790 --> 00:46:35,050
+Yeah.
+
+1317
+00:46:35,430 --> 00:46:38,830
+But they're written by a programmer and they
+
+1318
+00:46:38,830 --> 00:46:40,290
+have to be written to go somewhere.
+
+1319
+00:46:41,290 --> 00:46:42,870
+OK, where are they written to go?
+
+1320
+00:46:43,330 --> 00:46:45,670
+These technical areas that we're putting out, that's
+
+1321
+00:46:45,670 --> 00:46:47,750
+a good example of where they're going to
+
+1322
+00:46:47,750 --> 00:46:51,010
+go if the situation arises.
+
+1323
+00:46:52,150 --> 00:46:52,790
+So what happens?
+
+1324
+00:46:52,970 --> 00:46:53,670
+Let's go back.
+
+1325
+00:46:53,890 --> 00:46:54,470
+Market comes down.
+
+1326
+00:46:54,610 --> 00:46:55,190
+Market comes down.
+
+1327
+00:46:56,310 --> 00:46:57,110
+Market comes down.
+
+1328
+00:46:57,310 --> 00:46:57,870
+Stops here.
+
+1329
+00:46:58,470 --> 00:46:59,970
+Market looks like it's firming up.
+
+1330
+00:47:00,490 --> 00:47:02,570
+Those algorithms are going to that as sure
+
+1331
+00:47:02,570 --> 00:47:03,890
+as we're having this conversation.
+
+1332
+00:47:04,250 --> 00:47:06,770
+There's no doubt why they want to do
+
+1333
+00:47:06,770 --> 00:47:07,410
+it again.
+
+1334
+00:47:08,070 --> 00:47:11,750
+They want to shake out the longs and
+
+1335
+00:47:11,750 --> 00:47:13,530
+they want to get people short because at
+
+1336
+00:47:13,530 --> 00:47:15,650
+that point, it looks like the market's going
+
+1337
+00:47:15,650 --> 00:47:16,510
+to fall out of bed.
+
+1338
+00:47:17,230 --> 00:47:18,170
+What happens?
+
+1339
+00:47:19,330 --> 00:47:20,310
+Market stops.
+
+1340
+00:47:20,830 --> 00:47:21,550
+Market stops.
+
+1341
+00:47:22,390 --> 00:47:23,530
+Market starts going up.
+
+1342
+00:47:24,050 --> 00:47:26,870
+The shorts have to cover and the longs
+
+1343
+00:47:26,870 --> 00:47:28,910
+are so, they knew, they realized they've been
+
+1344
+00:47:28,910 --> 00:47:31,610
+had and they were right on the long
+
+1345
+00:47:31,610 --> 00:47:31,990
+side.
+
+1346
+00:47:32,190 --> 00:47:32,930
+And what do they do?
+
+1347
+00:47:33,010 --> 00:47:34,570
+They jump on a bear wagon too.
+
+1348
+00:47:35,310 --> 00:47:37,290
+And what do the smart people do that
+
+1349
+00:47:37,290 --> 00:47:38,830
+are on the bottom of these algorithms that
+
+1350
+00:47:38,830 --> 00:47:40,050
+are scooping this stuff up?
+
+1351
+00:47:40,390 --> 00:47:43,110
+They're feeding into these people that missed the
+
+1352
+00:47:43,110 --> 00:47:44,870
+market and have made bad sales.
+
+1353
+00:47:45,330 --> 00:47:46,710
+That's what algorithms do.
+
+1354
+00:47:47,310 --> 00:47:48,470
+And there's a way to look at these
+
+1355
+00:47:48,470 --> 00:47:49,570
+and it's a way to track them.
+
+1356
+00:47:50,170 --> 00:47:53,050
+And we do it every day, hundreds of
+
+1357
+00:47:53,050 --> 00:47:53,390
+times.
+
+1358
+00:47:55,210 --> 00:47:55,910
+I'm not sure.
+
+1359
+00:47:55,990 --> 00:47:57,670
+Are you aware that in the retail space
+
+1360
+00:47:57,670 --> 00:48:02,410
+is a very large community of traders who
+
+1361
+00:48:02,410 --> 00:48:05,550
+follow, say, a mentor, if you will, who
+
+1362
+00:48:05,550 --> 00:48:08,070
+describes himself as someone who has like coded
+
+1363
+00:48:08,070 --> 00:48:11,010
+the algorithm or coded a algorithm and therefore
+
+1364
+00:48:11,010 --> 00:48:14,150
+teaches concepts that are supposed to help you
+
+1365
+00:48:14,150 --> 00:48:15,430
+decipher this algorithm.
+
+1366
+00:48:16,170 --> 00:48:20,810
+And, you know, they get very fixated on
+
+1367
+00:48:20,810 --> 00:48:24,190
+essentially having concepts that literally can allow them
+
+1368
+00:48:24,190 --> 00:48:25,730
+to sort of decipher the algorithm in the
+
+1369
+00:48:25,730 --> 00:48:26,130
+markets.
+
+1370
+00:48:27,050 --> 00:48:30,210
+My answer to that, my question to that
+
+1371
+00:48:30,210 --> 00:48:32,110
+is, do they trade their own money based
+
+1372
+00:48:32,110 --> 00:48:32,930
+on their methodology?
+
+1373
+00:48:33,270 --> 00:48:33,890
+That's my answer.
+
+1374
+00:48:33,970 --> 00:48:34,990
+That's my question to them.
+
+1375
+00:48:35,390 --> 00:48:37,430
+If they don't, I don't trust it because
+
+1376
+00:48:37,430 --> 00:48:40,010
+what we do, I can, I don't want
+
+1377
+00:48:40,010 --> 00:48:41,390
+to say guarantee, I don't like the word,
+
+1378
+00:48:41,650 --> 00:48:45,550
+but I know our methodology and there's nobody,
+
+1379
+00:48:45,710 --> 00:48:47,290
+there's nobody better on picking it off because
+
+1380
+00:48:47,290 --> 00:48:48,270
+I helped define it.
+
+1381
+00:48:48,490 --> 00:48:49,630
+And it's that simple.
+
+1382
+00:48:49,850 --> 00:48:50,350
+All right.
+
+1383
+00:48:50,370 --> 00:48:52,310
+Everybody know what a bar chart comes down
+
+1384
+00:48:52,310 --> 00:48:53,950
+and one bar charts right in front of
+
+1385
+00:48:53,950 --> 00:48:55,970
+the other and there's a little space between
+
+1386
+00:48:55,970 --> 00:48:56,170
+them.
+
+1387
+00:48:56,230 --> 00:48:59,190
+It's because the algorithms are piling in, are
+
+1388
+00:48:59,190 --> 00:49:01,550
+piling in that area and it's wherever the
+
+1389
+00:49:01,550 --> 00:49:03,370
+direction that bar is going, it's going down
+
+1390
+00:49:03,370 --> 00:49:03,710
+lower.
+
+1391
+00:49:04,130 --> 00:49:05,350
+Those are algorithms.
+
+1392
+00:49:06,590 --> 00:49:07,890
+But it's the mentality.
+
+1393
+00:49:08,170 --> 00:49:09,830
+It is really the mentality.
+
+1394
+00:49:10,410 --> 00:49:12,410
+It's known where the premium area is.
+
+1395
+00:49:12,570 --> 00:49:14,710
+It's known where the discount area is.
+
+1396
+00:49:14,890 --> 00:49:16,830
+It's known where the gaps are.
+
+1397
+00:49:17,570 --> 00:49:19,750
+Algorithms will always come back and fill gaps.
+
+1398
+00:49:19,830 --> 00:49:21,250
+That was one of my trades this morning.
+
+1399
+00:49:22,090 --> 00:49:22,310
+All right.
+
+1400
+00:49:22,330 --> 00:49:24,750
+I bought, I bought the, what did I
+
+1401
+00:49:24,750 --> 00:49:24,930
+buy?
+
+1402
+00:49:24,990 --> 00:49:25,470
+I don't know what.
+
+1403
+00:49:25,570 --> 00:49:26,390
+I bought the Nasdaq.
+
+1404
+00:49:26,390 --> 00:49:27,210
+I bought Nasdaq.
+
+1405
+00:49:27,210 --> 00:49:29,830
+I bought NQ this morning because at 9
+
+1406
+00:49:29,830 --> 00:49:33,990
+.26 or whatever it was, the, the, there
+
+1407
+00:49:33,990 --> 00:49:35,490
+was, I like to call it a pre
+
+1408
+00:49:35,490 --> 00:49:36,670
+-market mini puke.
+
+1409
+00:49:37,270 --> 00:49:39,390
+And I look for an opportunity there when
+
+1410
+00:49:39,390 --> 00:49:40,590
+it, when it does that.
+
+1411
+00:49:40,750 --> 00:49:43,510
+But what I, what I saw was I
+
+1412
+00:49:43,510 --> 00:49:46,490
+saw a gap here and you know, gap,
+
+1413
+00:49:46,910 --> 00:49:47,730
+what is a gap?
+
+1414
+00:49:47,790 --> 00:49:49,730
+A gap is a market comes up, market
+
+1415
+00:49:49,730 --> 00:49:51,170
+comes up, all of a sudden it shoots
+
+1416
+00:49:51,170 --> 00:49:51,410
+up.
+
+1417
+00:49:51,810 --> 00:49:52,410
+There's a gap.
+
+1418
+00:49:53,270 --> 00:49:55,250
+Algorithms love to come back to those gaps.
+
+1419
+00:49:55,510 --> 00:49:58,690
+Same scenario, same, same instance I just gave.
+
+1420
+00:49:58,890 --> 00:50:01,170
+They'll come down here, down here.
+
+1421
+00:50:01,410 --> 00:50:04,470
+The gap is here, down here, down here.
+
+1422
+00:50:04,630 --> 00:50:06,990
+Most of the time, you know, 50%
+
+1423
+00:50:06,990 --> 00:50:09,030
+of that gap is filled, if not all
+
+1424
+00:50:09,030 --> 00:50:09,330
+of it.
+
+1425
+00:50:10,230 --> 00:50:12,110
+And you know, that's it.
+
+1426
+00:50:12,390 --> 00:50:13,430
+I took a long one.
+
+1427
+00:50:13,470 --> 00:50:14,190
+It hit that gap.
+
+1428
+00:50:14,810 --> 00:50:16,630
+And you know, I mean, it was about
+
+1429
+00:50:16,630 --> 00:50:18,870
+an eight second trade and I don't care
+
+1430
+00:50:18,870 --> 00:50:20,350
+where it goes after that, folks.
+
+1431
+00:50:20,510 --> 00:50:21,290
+I really don't.
+
+1432
+00:50:21,630 --> 00:50:23,090
+Take what the market gives you.
+
+1433
+00:50:23,690 --> 00:50:25,670
+Don't turn your nose up at what the
+
+1434
+00:50:25,670 --> 00:50:27,790
+market gives you, especially if you can turn
+
+1435
+00:50:27,790 --> 00:50:30,190
+over that kind of money in six seconds.
+
+1436
+00:50:31,310 --> 00:50:33,510
+So more so for you, it's following the
+
+1437
+00:50:33,510 --> 00:50:35,930
+algorithm, but just taking what the algorithm, you
+
+1438
+00:50:35,930 --> 00:50:37,050
+know, no matter even if it's a few
+
+1439
+00:50:37,050 --> 00:50:39,650
+seconds, a few minutes, wherever that play may
+
+1440
+00:50:39,650 --> 00:50:41,210
+be, that's the edge.
+
+1441
+00:50:41,850 --> 00:50:43,810
+Would you say the algorithm is designed for
+
+1442
+00:50:43,810 --> 00:50:44,310
+efficiency?
+
+1443
+00:50:44,490 --> 00:50:45,390
+Is that what it's designed for?
+
+1444
+00:50:45,570 --> 00:50:46,530
+Let's take a break for a minute there,
+
+1445
+00:50:46,570 --> 00:50:47,410
+guys, because I want to tell you about
+
+1446
+00:50:47,410 --> 00:50:49,330
+our sponsor, TradeZella.
+
+1447
+00:50:49,490 --> 00:50:51,890
+TradeZella is the number one trading tool for
+
+1448
+00:50:51,890 --> 00:50:52,770
+all traders.
+
+1449
+00:50:52,890 --> 00:50:54,230
+It doesn't matter whether you're a crypto trader,
+
+1450
+00:50:54,390 --> 00:50:56,530
+a futures trader, or a forex trader, whatever
+
+1451
+00:50:56,530 --> 00:50:58,190
+trader you are, all you do is connect
+
+1452
+00:50:58,190 --> 00:51:00,310
+your trading platform directly with TradeZella.
+
+1453
+00:51:00,490 --> 00:51:03,270
+It automates and makes your trading journaling so
+
+1454
+00:51:03,270 --> 00:51:04,050
+easy.
+
+1455
+00:51:04,190 --> 00:51:05,290
+If you want to be a profitable trader,
+
+1456
+00:51:05,370 --> 00:51:07,290
+you need Trading Edge, and that is exactly
+
+1457
+00:51:07,290 --> 00:51:08,170
+what TradeZella does.
+
+1458
+00:51:08,250 --> 00:51:10,350
+It allows you to identify edge, maintain your
+
+1459
+00:51:10,350 --> 00:51:13,390
+edge, and optimize your edge by automating your
+
+1460
+00:51:13,390 --> 00:51:16,610
+trade journaling, in-depth analytics, backtesting, bar replay,
+
+1461
+00:51:16,890 --> 00:51:18,790
+and so much more.
+
+1462
+00:51:18,990 --> 00:51:21,810
+Now, WOR gets you 20% off your
+
+1463
+00:51:21,810 --> 00:51:24,690
+yearly subscription with TradeZella, so use WOR for
+
+1464
+00:51:24,690 --> 00:51:27,670
+20% off your yearly subscription, or RISC
+
+1465
+00:51:27,670 --> 00:51:30,170
+-10 for 10% off your monthly subscription.
+
+1466
+00:51:30,510 --> 00:51:32,550
+The link is in the description below.
+
+1467
+00:51:32,690 --> 00:51:33,730
+Now, let's get back to this episode.
+
+1468
+00:51:33,810 --> 00:51:37,610
+The algorithms are designed to create volatility and
+
+1469
+00:51:37,610 --> 00:51:38,030
+liquidity.
+
+1470
+00:51:38,550 --> 00:51:41,450
+They want the fractions moving, and high-frequency
+
+1471
+00:51:41,450 --> 00:51:42,810
+traders live for this.
+
+1472
+00:51:42,910 --> 00:51:45,030
+They live for that because they can get
+
+1473
+00:51:45,030 --> 00:51:46,750
+in the middle of all trades, especially for
+
+1474
+00:51:46,750 --> 00:51:49,330
+the retailers, especially if you're with a broker
+
+1475
+00:51:49,330 --> 00:51:52,390
+that says you're not paying any commissions, you
+
+1476
+00:51:52,390 --> 00:51:56,370
+know, free brokerage, check your pockets with that
+
+1477
+00:51:56,370 --> 00:51:58,490
+one, because, you know, your order flow is
+
+1478
+00:51:58,490 --> 00:51:59,090
+being sold.
+
+1479
+00:52:00,930 --> 00:52:03,030
+Because where would they make their capital then?
+
+1480
+00:52:04,070 --> 00:52:05,210
+Where would they?
+
+1481
+00:52:05,630 --> 00:52:07,230
+The brokers, if they're doing free commissions, they
+
+1482
+00:52:07,230 --> 00:52:08,850
+won't be making anything unless, as you say,
+
+1483
+00:52:09,130 --> 00:52:11,250
+the order flow or the data, whoever it
+
+1484
+00:52:11,250 --> 00:52:11,750
+may be.
+
+1485
+00:52:11,890 --> 00:52:12,250
+Correct.
+
+1486
+00:52:13,510 --> 00:52:16,230
+What would you say in terms of common
+
+1487
+00:52:16,230 --> 00:52:18,670
+pitfalls that you see amongst retail traders of
+
+1488
+00:52:18,670 --> 00:52:18,970
+today?
+
+1489
+00:52:19,330 --> 00:52:19,450
+Yeah.
+
+1490
+00:52:19,690 --> 00:52:22,450
+You know, as we discussed that a lot
+
+1491
+00:52:22,450 --> 00:52:24,110
+of the time, they are just by themselves.
+
+1492
+00:52:24,330 --> 00:52:26,030
+At most, they have a community or some
+
+1493
+00:52:26,030 --> 00:52:27,410
+sort of trader room that they're part of.
+
+1494
+00:52:27,750 --> 00:52:28,430
+But at the end of the day, they
+
+1495
+00:52:28,430 --> 00:52:30,550
+still are by themselves for the majority of
+
+1496
+00:52:30,550 --> 00:52:30,930
+the time.
+
+1497
+00:52:31,410 --> 00:52:33,630
+What pitfalls do you recognize within these traders?
+
+1498
+00:52:34,210 --> 00:52:35,570
+They don't know how to protect themselves.
+
+1499
+00:52:35,790 --> 00:52:38,510
+You need to know what you're willing to
+
+1500
+00:52:38,510 --> 00:52:39,310
+risk on a trade.
+
+1501
+00:52:39,810 --> 00:52:42,190
+If you're lucky enough to be green on
+
+1502
+00:52:42,190 --> 00:52:43,730
+a day, you don't want to be in
+
+1503
+00:52:43,730 --> 00:52:44,910
+a position to give it back.
+
+1504
+00:52:45,290 --> 00:52:46,510
+And so you want to set a limit
+
+1505
+00:52:46,510 --> 00:52:48,050
+to what you're willing to give up of
+
+1506
+00:52:48,050 --> 00:52:50,170
+those profits on a given day.
+
+1507
+00:52:50,950 --> 00:52:53,510
+And in certain situations, you know, they ask
+
+1508
+00:52:53,510 --> 00:52:55,770
+me all the time, they ask me, you
+
+1509
+00:52:55,770 --> 00:52:57,830
+know, where would you put your stop on
+
+1510
+00:52:57,830 --> 00:52:58,810
+this particular trade?
+
+1511
+00:52:59,150 --> 00:53:03,130
+And I say, I don't have any specific
+
+1512
+00:53:03,130 --> 00:53:03,770
+area.
+
+1513
+00:53:04,090 --> 00:53:06,550
+It's relative to where I am on a
+
+1514
+00:53:06,550 --> 00:53:09,530
+particular day and where I am relative to
+
+1515
+00:53:09,530 --> 00:53:11,830
+where the market is on that particular day.
+
+1516
+00:53:12,070 --> 00:53:15,070
+For instance, for instance, if I'm going to,
+
+1517
+00:53:15,190 --> 00:53:17,350
+if I'm buying, if I see strong, strong,
+
+1518
+00:53:17,490 --> 00:53:19,450
+strong, and I see a divergence with the
+
+1519
+00:53:19,450 --> 00:53:21,510
+Nasdaq trail in the YM, which is another
+
+1520
+00:53:21,510 --> 00:53:23,770
+trade I made this morning, Nasdaq trail in
+
+1521
+00:53:23,770 --> 00:53:24,570
+the YM.
+
+1522
+00:53:25,170 --> 00:53:27,030
+And I know the Nasdaq is coming up
+
+1523
+00:53:27,030 --> 00:53:28,630
+and I know the Nasdaq is coming up.
+
+1524
+00:53:28,890 --> 00:53:30,350
+And I know I'm long.
+
+1525
+00:53:30,690 --> 00:53:31,250
+All right.
+
+1526
+00:53:31,290 --> 00:53:32,470
+And I make my profit.
+
+1527
+00:53:32,610 --> 00:53:34,470
+And then I see the Nasdaq continue to
+
+1528
+00:53:34,470 --> 00:53:35,010
+go up.
+
+1529
+00:53:35,390 --> 00:53:37,970
+And I also see the technical area, a
+
+1530
+00:53:37,970 --> 00:53:41,270
+huge resistance area, a major resistance area right
+
+1531
+00:53:41,270 --> 00:53:44,510
+here on a market that's up pretty good
+
+1532
+00:53:44,510 --> 00:53:45,170
+during the day.
+
+1533
+00:53:45,910 --> 00:53:46,290
+All right.
+
+1534
+00:53:47,070 --> 00:53:51,370
+If I want to short this here, I
+
+1535
+00:53:51,370 --> 00:53:53,690
+know that if it goes higher from there,
+
+1536
+00:53:53,750 --> 00:53:54,890
+it's going much higher.
+
+1537
+00:53:56,550 --> 00:53:58,270
+But if I want to play in case
+
+1538
+00:53:58,270 --> 00:54:01,190
+it's the top of the market, intraday, intracycle,
+
+1539
+00:54:01,270 --> 00:54:03,850
+whatever, I know I can protect that down
+
+1540
+00:54:03,850 --> 00:54:04,870
+three or four handles.
+
+1541
+00:54:08,230 --> 00:54:10,530
+Because, yeah, I can protect that three or
+
+1542
+00:54:10,530 --> 00:54:11,430
+four handles down.
+
+1543
+00:54:11,650 --> 00:54:14,070
+If I'm long, it means they're taking it
+
+1544
+00:54:14,070 --> 00:54:14,610
+right up.
+
+1545
+00:54:14,930 --> 00:54:17,130
+And if I'm right, I'm covered.
+
+1546
+00:54:17,750 --> 00:54:21,390
+So, you know, and I put that the
+
+1547
+00:54:21,390 --> 00:54:21,950
+opposite way.
+
+1548
+00:54:22,150 --> 00:54:24,430
+But if I'm short here and I want
+
+1549
+00:54:24,430 --> 00:54:26,430
+to protect it going to a level, I'm
+
+1550
+00:54:26,430 --> 00:54:27,850
+going to protect it up four handles.
+
+1551
+00:54:28,250 --> 00:54:28,530
+All right.
+
+1552
+00:54:28,710 --> 00:54:32,690
+You know, 100 bucks, 200 bucks, whatever it
+
+1553
+00:54:32,690 --> 00:54:35,250
+is, I know I'm protected because I know
+
+1554
+00:54:35,250 --> 00:54:37,210
+that if it's going through this area here,
+
+1555
+00:54:37,650 --> 00:54:38,470
+it's going through.
+
+1556
+00:54:39,670 --> 00:54:41,850
+But I have a chance to hit a
+
+1557
+00:54:41,850 --> 00:54:44,830
+double and maybe even more than that, because
+
+1558
+00:54:44,830 --> 00:54:46,830
+I know that this technical area is major
+
+1559
+00:54:46,830 --> 00:54:47,470
+resistance.
+
+1560
+00:54:48,490 --> 00:54:51,010
+So just accepting the fact that, OK, at
+
+1561
+00:54:51,010 --> 00:54:53,370
+this level, the risk to reward makes sense.
+
+1562
+00:54:53,690 --> 00:54:54,090
+Right.
+
+1563
+00:54:54,150 --> 00:54:56,530
+Because if the price does break through there
+
+1564
+00:54:56,530 --> 00:54:58,090
+and it hits my stop loss, whatever I've
+
+1565
+00:54:58,090 --> 00:54:59,610
+set, it's going to go anyway.
+
+1566
+00:54:59,770 --> 00:55:02,110
+But if not, the reward of this trade
+
+1567
+00:55:02,110 --> 00:55:03,310
+could be huge.
+
+1568
+00:55:03,970 --> 00:55:04,510
+100 percent.
+
+1569
+00:55:04,970 --> 00:55:06,390
+That's the kind of situation.
+
+1570
+00:55:06,810 --> 00:55:10,570
+So the question is relative about where to
+
+1571
+00:55:10,570 --> 00:55:11,310
+place your stops.
+
+1572
+00:55:11,630 --> 00:55:13,330
+There is no one place to place a
+
+1573
+00:55:13,330 --> 00:55:14,410
+stop, ladies and gentlemen.
+
+1574
+00:55:14,770 --> 00:55:16,930
+The important thing is for retail traders is
+
+1575
+00:55:16,930 --> 00:55:17,950
+to place a stop.
+
+1576
+00:55:19,010 --> 00:55:21,950
+Whatever your tolerance is relative to the size
+
+1577
+00:55:21,950 --> 00:55:22,530
+of your account.
+
+1578
+00:55:22,630 --> 00:55:23,690
+That's the important thing.
+
+1579
+00:55:24,290 --> 00:55:25,210
+Place a stop.
+
+1580
+00:55:25,330 --> 00:55:27,150
+Always do not leave yourself naked.
+
+1581
+00:55:27,570 --> 00:55:28,050
+Do not.
+
+1582
+00:55:28,730 --> 00:55:31,030
+You know, you must protect your money and
+
+1583
+00:55:31,030 --> 00:55:34,410
+you must P as in L P Q
+
+1584
+00:55:34,410 --> 00:55:35,770
+prevent blow ups.
+
+1585
+00:55:36,190 --> 00:55:36,630
+Why?
+
+1586
+00:55:36,810 --> 00:55:37,990
+I just made up these names.
+
+1587
+00:55:38,130 --> 00:55:38,850
+I made up the names.
+
+1588
+00:55:39,430 --> 00:55:40,610
+P prevent blow ups.
+
+1589
+00:55:41,110 --> 00:55:44,030
+Master trader, any master trader, all your experience
+
+1590
+00:55:44,030 --> 00:55:45,650
+in the world, in life or whatever it
+
+1591
+00:55:45,650 --> 00:55:49,150
+is, they will tell you prevent blow ups.
+
+1592
+00:55:50,690 --> 00:55:51,570
+Prevent blow ups.
+
+1593
+00:55:52,250 --> 00:55:53,470
+You know, once you blow up, you blow
+
+1594
+00:55:53,470 --> 00:55:55,030
+up your account, you blow yourself up.
+
+1595
+00:55:55,770 --> 00:55:58,130
+You know, we help people pass apex accounts
+
+1596
+00:55:58,130 --> 00:56:00,190
+and people don't know how to do it.
+
+1597
+00:56:00,430 --> 00:56:01,450
+They roll the dice.
+
+1598
+00:56:01,610 --> 00:56:02,490
+Yeah, I'm going all in.
+
+1599
+00:56:02,530 --> 00:56:03,210
+I'm going all in.
+
+1600
+00:56:03,270 --> 00:56:03,510
+Yeah.
+
+1601
+00:56:03,670 --> 00:56:05,030
+Pay another whatever it is.
+
+1602
+00:56:05,170 --> 00:56:05,930
+Pay another fee.
+
+1603
+00:56:06,010 --> 00:56:06,690
+Pay another fee.
+
+1604
+00:56:06,770 --> 00:56:07,370
+Pay another fee.
+
+1605
+00:56:08,550 --> 00:56:09,270
+You don't do that.
+
+1606
+00:56:09,650 --> 00:56:11,310
+You know, you you build up small with
+
+1607
+00:56:11,310 --> 00:56:13,450
+those people and you build up small and
+
+1608
+00:56:13,450 --> 00:56:16,350
+you build up small and stay under the
+
+1609
+00:56:16,350 --> 00:56:18,890
+radar until you're getting ready to get paid.
+
+1610
+00:56:19,830 --> 00:56:22,530
+OK, what are your thoughts in terms of
+
+1611
+00:56:22,530 --> 00:56:22,690
+that?
+
+1612
+00:56:22,930 --> 00:56:25,830
+Like these prop firms or they're not the
+
+1613
+00:56:25,830 --> 00:56:28,230
+traditional prop firms that were truly around, but
+
+1614
+00:56:28,230 --> 00:56:30,490
+the new evaluation firms have entered the futures
+
+1615
+00:56:30,490 --> 00:56:30,910
+market.
+
+1616
+00:56:31,150 --> 00:56:32,890
+We're seeing a lot more into the futures
+
+1617
+00:56:32,890 --> 00:56:33,530
+market now.
+
+1618
+00:56:33,610 --> 00:56:34,950
+I just said, you know, people who trade
+
+1619
+00:56:34,950 --> 00:56:35,230
+them.
+
+1620
+00:56:35,450 --> 00:56:35,570
+Yeah.
+
+1621
+00:56:36,090 --> 00:56:37,550
+Now, what are your thoughts on them being?
+
+1622
+00:56:37,630 --> 00:56:40,830
+It's such a wild different sort of product
+
+1623
+00:56:40,830 --> 00:56:42,730
+that has been around previously.
+
+1624
+00:56:43,170 --> 00:56:46,390
+But yet there is huge benefits to undercapitalized
+
+1625
+00:56:46,390 --> 00:56:47,090
+traders, too.
+
+1626
+00:56:47,230 --> 00:56:48,950
+So what are your thoughts on them?
+
+1627
+00:56:49,210 --> 00:56:52,790
+Yeah, I mean, you're referring to funded broker
+
+1628
+00:56:52,790 --> 00:56:54,150
+dealers that fund accounts.
+
+1629
+00:56:54,290 --> 00:56:54,410
+Yeah.
+
+1630
+00:56:54,590 --> 00:56:55,970
+Pay a fee and you get a quarter
+
+1631
+00:56:55,970 --> 00:56:57,490
+million dollars or whatever it is.
+
+1632
+00:56:57,630 --> 00:56:57,790
+Yeah.
+
+1633
+00:57:01,220 --> 00:57:02,100
+Check your pockets.
+
+1634
+00:57:02,100 --> 00:57:02,960
+That's my feeling.
+
+1635
+00:57:03,060 --> 00:57:04,840
+If you really want to know, check your
+
+1636
+00:57:04,840 --> 00:57:05,220
+pockets.
+
+1637
+00:57:05,500 --> 00:57:06,860
+There's been a number of situations.
+
+1638
+00:57:06,860 --> 00:57:09,200
+I trade three different accounts and there's a
+
+1639
+00:57:09,200 --> 00:57:09,400
+number.
+
+1640
+00:57:09,540 --> 00:57:11,200
+And I always keep that one around, too,
+
+1641
+00:57:11,260 --> 00:57:12,580
+because I'm trading anyway.
+
+1642
+00:57:12,580 --> 00:57:13,520
+What's the difference?
+
+1643
+00:57:13,860 --> 00:57:15,680
+If it costs me 40 dollars to have
+
+1644
+00:57:15,680 --> 00:57:19,400
+a third or fourth account, I'm going to
+
+1645
+00:57:19,400 --> 00:57:20,220
+spend 40 dollars.
+
+1646
+00:57:20,520 --> 00:57:23,540
+You know, I'm wheeling around hundreds, hundreds of
+
+1647
+00:57:23,540 --> 00:57:24,320
+thousands of dollars.
+
+1648
+00:57:24,500 --> 00:57:26,160
+I want to give myself the best chance.
+
+1649
+00:57:26,300 --> 00:57:27,780
+So I've been in a couple of situations
+
+1650
+00:57:27,780 --> 00:57:29,580
+where I was about to hurt these people,
+
+1651
+00:57:30,000 --> 00:57:32,120
+hurt them, pass the test.
+
+1652
+00:57:32,660 --> 00:57:32,880
+All right.
+
+1653
+00:57:33,040 --> 00:57:35,140
+Last week alone, it was an eighteen thousand
+
+1654
+00:57:35,140 --> 00:57:37,380
+dollar swing in an account where I had
+
+1655
+00:57:37,380 --> 00:57:37,620
+them.
+
+1656
+00:57:38,180 --> 00:57:38,460
+All right.
+
+1657
+00:57:38,640 --> 00:57:40,300
+I bet against an earnings report.
+
+1658
+00:57:40,300 --> 00:57:43,680
+I was short the Nasdaq based on based
+
+1659
+00:57:43,680 --> 00:57:47,460
+on whatever Magnificent Seven stock reported.
+
+1660
+00:57:47,760 --> 00:57:48,300
+I don't remember.
+
+1661
+00:57:48,700 --> 00:57:50,500
+Maybe Meta or maybe Amazon.
+
+1662
+00:57:50,700 --> 00:57:51,160
+I don't know.
+
+1663
+00:57:51,340 --> 00:57:52,160
+I think it was Meta.
+
+1664
+00:57:54,780 --> 00:57:57,260
+Soon I was up.
+
+1665
+00:57:58,680 --> 00:58:00,480
+The Nasdaq puked.
+
+1666
+00:58:00,660 --> 00:58:01,820
+The Nasdaq puked.
+
+1667
+00:58:01,860 --> 00:58:04,420
+I was short 10 NQ contracts.
+
+1668
+00:58:04,420 --> 00:58:08,020
+10 in a funded in a funding account.
+
+1669
+00:58:08,140 --> 00:58:13,660
+And the profit went to, I don't know
+
+1670
+00:58:13,660 --> 00:58:15,860
+what, 15, 18 thousand dollars.
+
+1671
+00:58:16,620 --> 00:58:19,760
+OK, certainly way past the amount of money
+
+1672
+00:58:19,760 --> 00:58:22,280
+you need to pass an account and get
+
+1673
+00:58:22,280 --> 00:58:22,620
+paid.
+
+1674
+00:58:22,800 --> 00:58:23,720
+What happened?
+
+1675
+00:58:24,420 --> 00:58:25,460
+My system froze.
+
+1676
+00:58:25,680 --> 00:58:27,940
+They wouldn't allow me to take the trade
+
+1677
+00:58:27,940 --> 00:58:28,300
+off.
+
+1678
+00:58:29,300 --> 00:58:30,340
+I said, what?
+
+1679
+00:58:30,940 --> 00:58:32,060
+What are you talking about?
+
+1680
+00:58:32,540 --> 00:58:35,060
+And then what happened was the trade went
+
+1681
+00:58:35,060 --> 00:58:35,760
+the other way.
+
+1682
+00:58:37,300 --> 00:58:38,780
+And blew up my account.
+
+1683
+00:58:39,700 --> 00:58:41,340
+Well, I went crazy.
+
+1684
+00:58:41,540 --> 00:58:42,440
+I just went crazy.
+
+1685
+00:58:43,100 --> 00:58:44,660
+And I said, oh, well, we're sorry.
+
+1686
+00:58:44,760 --> 00:58:45,600
+We can't do anything.
+
+1687
+00:58:45,760 --> 00:58:46,380
+I said, oh, yeah.
+
+1688
+00:58:46,840 --> 00:58:48,380
+I said, listen, the SEC is going to
+
+1689
+00:58:48,380 --> 00:58:50,160
+be very happy to hear about this.
+
+1690
+00:58:50,580 --> 00:58:52,700
+I said in the timing of this, this
+
+1691
+00:58:52,700 --> 00:58:53,900
+happened to two of my friends.
+
+1692
+00:58:54,080 --> 00:58:56,380
+And the timing of this does not sit
+
+1693
+00:58:56,380 --> 00:58:57,060
+well with me.
+
+1694
+00:58:57,280 --> 00:59:00,620
+So I would suggest and they reinstated my
+
+1695
+00:59:00,620 --> 00:59:01,020
+account.
+
+1696
+00:59:01,280 --> 00:59:03,860
+But I don't like those firms.
+
+1697
+00:59:03,980 --> 00:59:04,980
+I don't trust them.
+
+1698
+00:59:05,180 --> 00:59:06,520
+That's the answer to your question.
+
+1699
+00:59:08,180 --> 00:59:09,960
+In terms of the changes we see within
+
+1700
+00:59:09,960 --> 00:59:12,680
+the industry, we see a lot of traders
+
+1701
+00:59:12,680 --> 00:59:13,920
+stepping in, especially since Covid.
+
+1702
+00:59:14,020 --> 00:59:16,080
+We've seen so many people become traders.
+
+1703
+00:59:16,560 --> 00:59:18,160
+What are your thoughts in general around trading?
+
+1704
+00:59:18,300 --> 00:59:21,460
+Do you feel like anyone should give trading
+
+1705
+00:59:21,460 --> 00:59:22,860
+a try if they're interested?
+
+1706
+00:59:22,980 --> 00:59:24,460
+Or do you think that trading is really
+
+1707
+00:59:24,460 --> 00:59:27,080
+for those who have the personality traits and
+
+1708
+00:59:27,080 --> 00:59:30,000
+I would say passion for the actual markets
+
+1709
+00:59:30,000 --> 00:59:31,340
+rather than just making money?
+
+1710
+00:59:31,580 --> 00:59:31,680
+Yeah.
+
+1711
+00:59:32,020 --> 00:59:33,560
+You know, it comes down to who you're
+
+1712
+00:59:33,560 --> 00:59:35,600
+going to listen to, who is going to
+
+1713
+00:59:35,600 --> 00:59:36,380
+be your mentor.
+
+1714
+00:59:36,700 --> 00:59:38,380
+I know what I bring to the table.
+
+1715
+00:59:38,840 --> 00:59:41,780
+I know I want to help people, my
+
+1716
+00:59:41,780 --> 00:59:42,160
+group.
+
+1717
+00:59:42,280 --> 00:59:43,480
+We want to help people.
+
+1718
+00:59:43,800 --> 00:59:45,640
+The money is good and all that stuff.
+
+1719
+00:59:45,920 --> 00:59:48,280
+But first and foremost, I want to help
+
+1720
+00:59:48,280 --> 00:59:48,620
+people.
+
+1721
+00:59:49,020 --> 00:59:51,100
+Well, listen, a drug company could come up
+
+1722
+00:59:51,100 --> 00:59:53,640
+with a drug to to, you know, help
+
+1723
+00:59:53,640 --> 00:59:55,620
+sick people with a certain disease.
+
+1724
+00:59:55,740 --> 00:59:56,400
+And that's good.
+
+1725
+00:59:56,420 --> 00:59:58,200
+But it's only a small percentage of the
+
+1726
+00:59:58,200 --> 01:00:00,300
+population, relatively speaking.
+
+1727
+01:00:00,840 --> 01:00:04,160
+But what we're talking about here, you know,
+
+1728
+01:00:04,200 --> 01:00:08,380
+the potential of how many people you could
+
+1729
+01:00:08,380 --> 01:00:09,220
+add and help.
+
+1730
+01:00:09,420 --> 01:00:12,880
+But in this day and age where people
+
+1731
+01:00:12,880 --> 01:00:14,900
+are paying a lot of money for groceries
+
+1732
+01:00:14,900 --> 01:00:18,040
+and gas and rent and insurance and so
+
+1733
+01:00:18,040 --> 01:00:20,980
+on and so forth, and people are living
+
+1734
+01:00:20,980 --> 01:00:24,240
+paycheck to paycheck and people are paying 23
+
+1735
+01:00:24,240 --> 01:00:27,420
+percent juice to credit card companies that maintain
+
+1736
+01:00:27,420 --> 01:00:28,440
+their standard of living.
+
+1737
+01:00:28,920 --> 01:00:31,100
+OK, that's worse than you would pay a
+
+1738
+01:00:31,100 --> 01:00:32,220
+bookmaker in a neighborhood.
+
+1739
+01:00:32,220 --> 01:00:34,420
+I grew up to borrow money.
+
+1740
+01:00:34,820 --> 01:00:36,560
+Shylock, as you would call them.
+
+1741
+01:00:36,940 --> 01:00:38,260
+I mean, it's unbelievable.
+
+1742
+01:00:38,300 --> 01:00:39,820
+So people are getting hurt.
+
+1743
+01:00:39,980 --> 01:00:42,220
+And I'm really my group.
+
+1744
+01:00:42,340 --> 01:00:44,240
+One of the main reasons I started this
+
+1745
+01:00:44,240 --> 01:00:47,360
+company is to help people augment their incomes,
+
+1746
+01:00:47,900 --> 01:00:49,280
+show them how to make two or three
+
+1747
+01:00:49,280 --> 01:00:50,600
+hundred dollars a week.
+
+1748
+01:00:50,760 --> 01:00:51,680
+That's nothing.
+
+1749
+01:00:52,720 --> 01:00:53,240
+It's nothing.
+
+1750
+01:00:53,880 --> 01:00:56,560
+So I think if you're with the right
+
+1751
+01:00:56,560 --> 01:00:58,220
+person and with the right group.
+
+1752
+01:00:58,460 --> 01:00:58,860
+Yes.
+
+1753
+01:00:59,340 --> 01:00:59,680
+Yes.
+
+1754
+01:00:59,780 --> 01:01:02,180
+Who can cut out reading a novel and,
+
+1755
+01:01:02,480 --> 01:01:03,840
+you know, go to the library.
+
+1756
+01:01:04,040 --> 01:01:06,140
+I'm going to really, you know, nice to
+
+1757
+01:01:06,140 --> 01:01:08,080
+be able to have that sense.
+
+1758
+01:01:08,320 --> 01:01:09,660
+Go to the library and read every book
+
+1759
+01:01:09,660 --> 01:01:12,860
+you can on economics and and trading and
+
+1760
+01:01:12,860 --> 01:01:13,340
+this and that.
+
+1761
+01:01:13,960 --> 01:01:17,440
+But man, it's the that means everything, because
+
+1762
+01:01:17,440 --> 01:01:18,880
+what I could say to these people at
+
+1763
+01:01:18,880 --> 01:01:22,600
+one specific time and one particular instance could
+
+1764
+01:01:22,600 --> 01:01:24,160
+help them for the rest of their lives.
+
+1765
+01:01:24,440 --> 01:01:26,480
+And that's what gets my juices going.
+
+1766
+01:01:26,800 --> 01:01:27,980
+And the people that are with me.
+
+1767
+01:01:29,380 --> 01:01:31,480
+A big debate that seems you mentioned time,
+
+1768
+01:01:31,580 --> 01:01:32,580
+that's actually very interesting.
+
+1769
+01:01:32,820 --> 01:01:34,180
+A big debate that's been happening at the
+
+1770
+01:01:34,180 --> 01:01:37,080
+moment is between time and price are both
+
+1771
+01:01:37,080 --> 01:01:39,080
+important is one more significant than the other.
+
+1772
+01:01:39,180 --> 01:01:42,540
+I've had ex-institutional traders saying that time
+
+1773
+01:01:42,540 --> 01:01:43,140
+is irrelevant.
+
+1774
+01:01:43,260 --> 01:01:45,080
+It's all about price and when price meets
+
+1775
+01:01:45,080 --> 01:01:46,600
+certain levels, that's all that matters.
+
+1776
+01:01:46,880 --> 01:01:48,920
+Where I've had other people on the podcast
+
+1777
+01:01:48,920 --> 01:01:50,760
+where they say time is the most crucial
+
+1778
+01:01:50,760 --> 01:01:53,540
+factor and that when you trade specific time
+
+1779
+01:01:53,540 --> 01:01:56,720
+windows, that's when that's the optimal time to
+
+1780
+01:01:56,720 --> 01:01:58,700
+trade and anything outside of that is not
+
+1781
+01:01:58,700 --> 01:01:59,860
+optimal and shouldn't be traded.
+
+1782
+01:02:00,380 --> 01:02:02,120
+What are your thoughts from your experience is
+
+1783
+01:02:02,120 --> 01:02:04,020
+time and price just as important as each
+
+1784
+01:02:04,020 --> 01:02:04,180
+other?
+
+1785
+01:02:04,260 --> 01:02:05,720
+Is anything that more prevalent than the other?
+
+1786
+01:02:05,860 --> 01:02:08,040
+Yeah, I mean, the market has a different
+
+1787
+01:02:08,040 --> 01:02:09,260
+personality every day.
+
+1788
+01:02:09,340 --> 01:02:10,480
+OK, I've seen it all.
+
+1789
+01:02:10,820 --> 01:02:11,140
+All right.
+
+1790
+01:02:11,300 --> 01:02:13,120
+I don't I hear people say that all
+
+1791
+01:02:13,120 --> 01:02:13,460
+the time.
+
+1792
+01:02:13,740 --> 01:02:15,720
+I only trade between the hours of nine
+
+1793
+01:02:15,720 --> 01:02:17,120
+and eleven or I trade.
+
+1794
+01:02:17,240 --> 01:02:18,660
+I don't trade in the afternoon anymore.
+
+1795
+01:02:18,760 --> 01:02:19,500
+I don't do that.
+
+1796
+01:02:19,540 --> 01:02:21,100
+So I don't trade on news or I
+
+1797
+01:02:21,100 --> 01:02:22,420
+don't trade at the opening or I don't.
+
+1798
+01:02:22,500 --> 01:02:23,480
+I wait to 945.
+
+1799
+01:02:24,620 --> 01:02:26,740
+I don't get any of that myself.
+
+1800
+01:02:26,820 --> 01:02:27,420
+I don't get it.
+
+1801
+01:02:28,700 --> 01:02:31,240
+You want to if you consider yourself a
+
+1802
+01:02:31,240 --> 01:02:33,720
+trader, you should you don't give in to
+
+1803
+01:02:33,720 --> 01:02:34,540
+not trading.
+
+1804
+01:02:34,640 --> 01:02:35,920
+You give you do not.
+
+1805
+01:02:36,300 --> 01:02:38,820
+You apprise the situation and look at the
+
+1806
+01:02:38,820 --> 01:02:39,440
+opportunity.
+
+1807
+01:02:39,800 --> 01:02:40,820
+Now, you may have a pension.
+
+1808
+01:02:41,000 --> 01:02:41,700
+It may be mental.
+
+1809
+01:02:41,760 --> 01:02:42,280
+I don't know.
+
+1810
+01:02:42,580 --> 01:02:44,500
+And that may be suit suit some people.
+
+1811
+01:02:44,860 --> 01:02:46,460
+But I don't close out any time frame
+
+1812
+01:02:46,460 --> 01:02:47,820
+when or when not to trade.
+
+1813
+01:02:48,240 --> 01:02:48,560
+All right.
+
+1814
+01:02:48,600 --> 01:02:50,840
+If I looked at my trades over the
+
+1815
+01:02:50,840 --> 01:02:52,600
+course of a couple of years, I'm sure
+
+1816
+01:02:52,600 --> 01:02:54,360
+there'll be pockets of times when I was
+
+1817
+01:02:54,360 --> 01:02:55,080
+more successful.
+
+1818
+01:02:55,560 --> 01:02:58,280
+But it doesn't deter me from trading the
+
+1819
+01:02:58,280 --> 01:03:01,000
+market from 8 a.m. or even 6
+
+1820
+01:03:01,000 --> 01:03:04,420
+a.m. sometimes until until the market close
+
+1821
+01:03:04,420 --> 01:03:05,640
+closes.
+
+1822
+01:03:05,960 --> 01:03:10,140
+So, you know, and the timing of anything
+
+1823
+01:03:10,140 --> 01:03:11,520
+is always about the entry.
+
+1824
+01:03:11,800 --> 01:03:14,080
+It's always about the entry is always about
+
+1825
+01:03:14,080 --> 01:03:15,420
+the timing of the entry.
+
+1826
+01:03:16,120 --> 01:03:16,460
+All right.
+
+1827
+01:03:16,640 --> 01:03:18,540
+And, you know, I talk about scalp trading
+
+1828
+01:03:18,540 --> 01:03:20,620
+with these things that these trades that take
+
+1829
+01:03:20,620 --> 01:03:23,080
+that took me six seconds, 20 seconds, 18
+
+1830
+01:03:23,080 --> 01:03:23,500
+seconds.
+
+1831
+01:03:23,660 --> 01:03:24,540
+This is all fact.
+
+1832
+01:03:26,040 --> 01:03:29,340
+Constantly, constantly, because I'm able to pick out
+
+1833
+01:03:29,340 --> 01:03:33,140
+this info, this divergence in a market where
+
+1834
+01:03:33,140 --> 01:03:34,460
+I know I can print money.
+
+1835
+01:03:34,620 --> 01:03:35,220
+All right.
+
+1836
+01:03:35,480 --> 01:03:37,160
+And it may still go up after I
+
+1837
+01:03:37,160 --> 01:03:37,740
+sell it.
+
+1838
+01:03:37,840 --> 01:03:38,800
+I don't care about that.
+
+1839
+01:03:39,460 --> 01:03:42,020
+But it's a timing of the execute.
+
+1840
+01:03:42,180 --> 01:03:44,380
+It's a timing of the entry.
+
+1841
+01:03:44,780 --> 01:03:46,980
+And when you're trading with this mindset.
+
+1842
+01:03:48,600 --> 01:03:50,780
+I say it all the time when you're
+
+1843
+01:03:50,780 --> 01:03:54,600
+trading with this mindset, you can you know,
+
+1844
+01:03:54,720 --> 01:03:56,720
+it's a difference between it's a difference in
+
+1845
+01:03:56,720 --> 01:03:58,920
+your P&L, because if you if you
+
+1846
+01:03:58,920 --> 01:04:00,800
+if you're paying up and by the way,
+
+1847
+01:04:00,820 --> 01:04:02,940
+retail traders don't chase.
+
+1848
+01:04:03,440 --> 01:04:05,460
+If you miss the entry level where you
+
+1849
+01:04:05,460 --> 01:04:08,640
+want to purchase, don't chase a lot of
+
+1850
+01:04:08,640 --> 01:04:09,900
+a lot of retail traders.
+
+1851
+01:04:09,900 --> 01:04:12,020
+They may they all make the same mistake.
+
+1852
+01:04:12,440 --> 01:04:14,020
+You know, they say, oh, man, I didn't
+
+1853
+01:04:14,020 --> 01:04:14,420
+buy it.
+
+1854
+01:04:14,500 --> 01:04:15,340
+I didn't buy it.
+
+1855
+01:04:15,380 --> 01:04:16,800
+Meanwhile, it's up, whatever.
+
+1856
+01:04:16,940 --> 01:04:18,100
+And they're buying it here.
+
+1857
+01:04:18,140 --> 01:04:18,640
+They're chasing.
+
+1858
+01:04:18,880 --> 01:04:21,040
+Well, you know, you just made this thing
+
+1859
+01:04:21,040 --> 01:04:24,700
+quadruple difficult for you to make money.
+
+1860
+01:04:24,920 --> 01:04:27,080
+But if your entry, the time of your
+
+1861
+01:04:27,080 --> 01:04:29,660
+entry is where it's supposed to be, man,
+
+1862
+01:04:29,860 --> 01:04:32,560
+that is the difference between you making four
+
+1863
+01:04:32,560 --> 01:04:34,660
+handles or five handles or seven handles or
+
+1864
+01:04:34,660 --> 01:04:35,140
+eight handles.
+
+1865
+01:04:35,360 --> 01:04:36,220
+That's the difference.
+
+1866
+01:04:36,620 --> 01:04:38,320
+That pays the bills that pays the commissions
+
+1867
+01:04:38,320 --> 01:04:39,480
+and so on and so forth.
+
+1868
+01:04:39,760 --> 01:04:42,600
+So, you know, the timing, the timing of
+
+1869
+01:04:42,600 --> 01:04:45,180
+the entry is really is really everything.
+
+1870
+01:04:45,960 --> 01:04:46,400
+Yeah.
+
+1871
+01:04:46,440 --> 01:04:48,600
+So that making sure that you are there
+
+1872
+01:04:48,600 --> 01:04:49,920
+to strike and how important is it, though,
+
+1873
+01:04:49,960 --> 01:04:51,700
+to be prepared for that?
+
+1874
+01:04:51,900 --> 01:04:53,120
+You know, so like a lot of people,
+
+1875
+01:04:53,500 --> 01:04:56,000
+they don't have a strict routine for their
+
+1876
+01:04:56,000 --> 01:04:58,000
+trading, for example, one day they'll turn up
+
+1877
+01:04:58,000 --> 01:04:58,860
+one day they won't.
+
+1878
+01:04:59,200 --> 01:05:00,380
+Of course, a lot of these people are
+
+1879
+01:05:00,380 --> 01:05:01,920
+in that boom and bust or not profitable
+
+1880
+01:05:01,920 --> 01:05:02,800
+stage, unfortunately.
+
+1881
+01:05:03,160 --> 01:05:04,640
+So that's why, you know, as part of
+
+1882
+01:05:04,640 --> 01:05:06,460
+the podcast, we're just trying to educate and
+
+1883
+01:05:06,460 --> 01:05:09,240
+show showcase, you know, profitable traders and what
+
+1884
+01:05:09,240 --> 01:05:09,820
+they do.
+
+1885
+01:05:10,140 --> 01:05:11,780
+Is that something that is important to a
+
+1886
+01:05:11,780 --> 01:05:13,840
+profitable trader to making sure that they're consistently
+
+1887
+01:05:13,840 --> 01:05:16,320
+turning up so that if the time does
+
+1888
+01:05:16,320 --> 01:05:18,200
+arise, they're there to strike and not just
+
+1889
+01:05:18,200 --> 01:05:21,180
+essentially miss an opportunity just because of laziness
+
+1890
+01:05:21,180 --> 01:05:22,320
+or just not being prepared?
+
+1891
+01:05:22,720 --> 01:05:22,880
+Yeah.
+
+1892
+01:05:23,080 --> 01:05:24,660
+I mean, you have to be prepared.
+
+1893
+01:05:25,000 --> 01:05:26,920
+I mean, you this is no this is
+
+1894
+01:05:26,920 --> 01:05:28,060
+no sprint this game.
+
+1895
+01:05:28,520 --> 01:05:29,680
+It is a marathon.
+
+1896
+01:05:29,860 --> 01:05:31,400
+And you need to give you if you
+
+1897
+01:05:31,400 --> 01:05:33,300
+really want to do this and try to
+
+1898
+01:05:33,300 --> 01:05:36,300
+make a living or augment your income by
+
+1899
+01:05:36,300 --> 01:05:38,380
+by trading, you need to put in the
+
+1900
+01:05:38,380 --> 01:05:38,720
+time.
+
+1901
+01:05:39,080 --> 01:05:40,480
+OK, and it's OK.
+
+1902
+01:05:41,980 --> 01:05:44,040
+And, you know, putting in the time helps
+
+1903
+01:05:44,040 --> 01:05:46,060
+your confidence and confidence is the whole thing.
+
+1904
+01:05:46,120 --> 01:05:47,900
+You've got to feel loose that you could
+
+1905
+01:05:47,900 --> 01:05:49,720
+do this and you can do this.
+
+1906
+01:05:50,100 --> 01:05:51,800
+But there's no easy way to do it.
+
+1907
+01:05:51,880 --> 01:05:53,620
+Anybody can roll the dice and get lucky.
+
+1908
+01:05:53,880 --> 01:05:55,420
+But we're not talking about that.
+
+1909
+01:05:55,520 --> 01:05:57,920
+We're talking about consistently making money.
+
+1910
+01:05:58,980 --> 01:06:01,220
+So what are your thoughts about journaling trades?
+
+1911
+01:06:01,340 --> 01:06:03,360
+I know I've seen the pits journaling trades
+
+1912
+01:06:03,360 --> 01:06:05,600
+as an individual, as the trader themselves would
+
+1913
+01:06:05,600 --> 01:06:07,980
+be difficult because you're managing the flow all
+
+1914
+01:06:07,980 --> 01:06:08,360
+that day.
+
+1915
+01:06:08,440 --> 01:06:10,300
+But you have, I believe, clerks and people
+
+1916
+01:06:10,300 --> 01:06:11,980
+who would track them for you and afterwards
+
+1917
+01:06:11,980 --> 01:06:14,480
+you would evaluate what trades have been processed,
+
+1918
+01:06:14,620 --> 01:06:14,860
+etc.
+
+1919
+01:06:15,100 --> 01:06:16,540
+Then you find your carry trades.
+
+1920
+01:06:16,560 --> 01:06:18,020
+And as you said, like days later, you'd
+
+1921
+01:06:18,020 --> 01:06:18,840
+find out about those.
+
+1922
+01:06:19,780 --> 01:06:22,180
+But now, like as you've stepped away from
+
+1923
+01:06:22,180 --> 01:06:23,980
+there, how important has it been to journal
+
+1924
+01:06:23,980 --> 01:06:25,800
+your trades and keep track of your personal?
+
+1925
+01:06:26,160 --> 01:06:26,780
+A hundred percent.
+
+1926
+01:06:27,300 --> 01:06:28,820
+OK, a hundred percent.
+
+1927
+01:06:28,980 --> 01:06:30,600
+You need to look at your trades.
+
+1928
+01:06:30,840 --> 01:06:32,220
+You need to learn from your trades.
+
+1929
+01:06:32,800 --> 01:06:34,480
+You know, it's one thing to see a
+
+1930
+01:06:34,480 --> 01:06:36,700
+profit and a loss, but it's another thing
+
+1931
+01:06:36,700 --> 01:06:37,900
+to see how you got there.
+
+1932
+01:06:38,160 --> 01:06:40,080
+And you will remember your trades as you're
+
+1933
+01:06:40,080 --> 01:06:40,860
+going over them.
+
+1934
+01:06:41,020 --> 01:06:41,860
+You will remember.
+
+1935
+01:06:42,260 --> 01:06:43,940
+You will remember the prices.
+
+1936
+01:06:44,100 --> 01:06:45,440
+You will remember the circumstances.
+
+1937
+01:06:45,440 --> 01:06:46,640
+You will remember.
+
+1938
+01:06:47,400 --> 01:06:50,400
+OK, you when you're journaling your trades, you
+
+1939
+01:06:50,400 --> 01:06:51,920
+don't want, you know, I hear people say,
+
+1940
+01:06:52,020 --> 01:06:53,280
+well, I'm 90 percent accurate.
+
+1941
+01:06:53,380 --> 01:06:55,220
+I'm not 90 percent accurate.
+
+1942
+01:06:55,440 --> 01:06:56,320
+OK, great.
+
+1943
+01:06:56,600 --> 01:06:57,420
+That's that's great.
+
+1944
+01:06:57,700 --> 01:06:58,860
+But that doesn't mean anything.
+
+1945
+01:06:59,040 --> 01:07:02,600
+I'd rather be 65, 70 percent accurate, because
+
+1946
+01:07:02,600 --> 01:07:04,820
+when you look at your journal, you know,
+
+1947
+01:07:04,840 --> 01:07:06,500
+some of the best trades you will make,
+
+1948
+01:07:06,840 --> 01:07:09,980
+some of the best trades your retailers will
+
+1949
+01:07:09,980 --> 01:07:12,840
+make, retail traders will make will be losing
+
+1950
+01:07:12,840 --> 01:07:13,400
+trades.
+
+1951
+01:07:13,780 --> 01:07:14,900
+They will be losing trades.
+
+1952
+01:07:15,520 --> 01:07:16,460
+OK, why?
+
+1953
+01:07:16,720 --> 01:07:20,040
+OK, you see something, you know, everything clicks
+
+1954
+01:07:20,040 --> 01:07:20,600
+in your head.
+
+1955
+01:07:21,040 --> 01:07:24,060
+You whatever reason you get long here, you're
+
+1956
+01:07:24,060 --> 01:07:24,340
+wrong.
+
+1957
+01:07:24,960 --> 01:07:27,120
+And you and the earlier you see that
+
+1958
+01:07:27,120 --> 01:07:28,720
+you're wrong and you're willing to pull the
+
+1959
+01:07:28,720 --> 01:07:31,700
+trigger and take that trade off, you want
+
+1960
+01:07:31,700 --> 01:07:32,720
+to see that in your journal.
+
+1961
+01:07:32,980 --> 01:07:34,980
+And that kind of stuff is not going
+
+1962
+01:07:34,980 --> 01:07:36,340
+to promote 90 percent.
+
+1963
+01:07:36,440 --> 01:07:38,420
+If you're at 90 percent, you're not seeing
+
+1964
+01:07:38,420 --> 01:07:38,760
+that.
+
+1965
+01:07:38,960 --> 01:07:40,280
+And you're at 90 percent.
+
+1966
+01:07:40,320 --> 01:07:41,560
+You're never going to be able to do
+
+1967
+01:07:41,560 --> 01:07:42,320
+that consistently.
+
+1968
+01:07:42,320 --> 01:07:45,040
+You want to be at 65, 70 percent.
+
+1969
+01:07:45,140 --> 01:07:45,740
+What does it mean?
+
+1970
+01:07:45,820 --> 01:07:47,740
+It means that you cut losses on trades
+
+1971
+01:07:48,180 --> 01:07:49,860
+and it means that your road win is
+
+1972
+01:07:49,860 --> 01:07:50,280
+longer.
+
+1973
+01:07:50,940 --> 01:07:52,260
+That's what you want to see in your
+
+1974
+01:07:52,260 --> 01:07:52,580
+journal.
+
+1975
+01:07:54,740 --> 01:07:56,400
+In terms of I've heard you talk on
+
+1976
+01:07:56,400 --> 01:07:58,960
+before, instead of having a single entry that
+
+1977
+01:07:58,960 --> 01:08:01,060
+you should be averaging into your entries instead.
+
+1978
+01:08:01,220 --> 01:08:03,220
+And is that more so in terms of
+
+1979
+01:08:03,220 --> 01:08:04,560
+if the market is going against you or
+
+1980
+01:08:04,560 --> 01:08:05,880
+do you mean once the market is showing
+
+1981
+01:08:05,880 --> 01:08:07,280
+you its hand and it's working in your
+
+1982
+01:08:07,280 --> 01:08:09,100
+favor, then you should be scaling in?
+
+1983
+01:08:09,380 --> 01:08:09,720
+Both.
+
+1984
+01:08:10,200 --> 01:08:10,720
+Both.
+
+1985
+01:08:11,140 --> 01:08:14,360
+So what you don't want to do is
+
+1986
+01:08:14,360 --> 01:08:17,260
+you don't want to use up all your
+
+1987
+01:08:17,260 --> 01:08:19,340
+ammunition when you're initiating a trade.
+
+1988
+01:08:19,600 --> 01:08:20,560
+I never do it.
+
+1989
+01:08:21,819 --> 01:08:25,100
+That puts pressure on yourself to be right
+
+1990
+01:08:25,100 --> 01:08:25,760
+immediately.
+
+1991
+01:08:27,100 --> 01:08:28,960
+You know, sometimes you are right immediately.
+
+1992
+01:08:29,300 --> 01:08:31,260
+Sometimes you feel no pain in a trade.
+
+1993
+01:08:31,399 --> 01:08:32,380
+That's wonderful.
+
+1994
+01:08:33,319 --> 01:08:35,140
+It doesn't happen like that all the time.
+
+1995
+01:08:35,460 --> 01:08:37,939
+So, you know, you don't want to bunch
+
+1996
+01:08:37,939 --> 01:08:41,180
+together positions if you're going to average.
+
+1997
+01:08:42,240 --> 01:08:43,960
+Of course, you're not doing yourself a favor.
+
+1998
+01:08:44,240 --> 01:08:46,920
+If you buy something at 50, you don't
+
+1999
+01:08:46,920 --> 01:08:49,080
+want to buy it at 49 because that's
+
+2000
+01:08:49,080 --> 01:08:52,700
+bringing your average down a half, two ticks.
+
+2001
+01:08:52,960 --> 01:08:54,399
+You don't want to do that.
+
+2002
+01:08:54,580 --> 01:08:55,979
+You're not accomplishing anything.
+
+2003
+01:08:56,640 --> 01:08:57,120
+Why?
+
+2004
+01:08:57,300 --> 01:09:00,460
+Because you just used up another 50 percent
+
+2005
+01:09:00,460 --> 01:09:01,779
+or whatever you used up.
+
+2006
+01:09:02,060 --> 01:09:02,939
+You doubled your money.
+
+2007
+01:09:03,439 --> 01:09:05,660
+You may have more buying power, but you're
+
+2008
+01:09:05,660 --> 01:09:06,399
+clumped together.
+
+2009
+01:09:07,140 --> 01:09:07,340
+Okay.
+
+2010
+01:09:07,580 --> 01:09:09,140
+You want to stretch that out.
+
+2011
+01:09:09,200 --> 01:09:10,720
+You want to bring that down to 45.
+
+2012
+01:09:11,080 --> 01:09:13,399
+So now you're talking 47 and a half.
+
+2013
+01:09:14,200 --> 01:09:16,180
+You don't want to bunch together, but you
+
+2014
+01:09:16,180 --> 01:09:18,939
+don't want single entries because single entries will
+
+2015
+01:09:18,939 --> 01:09:20,220
+burn you every time.
+
+2016
+01:09:20,420 --> 01:09:21,479
+It will burn you every time.
+
+2017
+01:09:22,240 --> 01:09:24,020
+But don't clump together.
+
+2018
+01:09:25,380 --> 01:09:27,680
+When you average it down and you want
+
+2019
+01:09:27,680 --> 01:09:30,140
+to average down to your initial position, don't
+
+2020
+01:09:30,140 --> 01:09:31,240
+clump it together.
+
+2021
+01:09:31,399 --> 01:09:33,580
+Let it spread out, especially in a NASDAQ.
+
+2022
+01:09:34,439 --> 01:09:36,560
+You know, I don't maybe 10 to 20
+
+2023
+01:09:36,560 --> 01:09:36,939
+handles.
+
+2024
+01:09:37,279 --> 01:09:39,220
+I don't average down in a NASDAQ.
+
+2025
+01:09:39,540 --> 01:09:41,439
+This morning, it was much more than that
+
+2026
+01:09:41,439 --> 01:09:43,640
+during some of these sessions where I was
+
+2027
+01:09:43,640 --> 01:09:47,540
+long 20 or 30 NQ futures.
+
+2028
+01:09:47,939 --> 01:09:48,240
+Okay.
+
+2029
+01:09:48,340 --> 01:09:50,520
+Because, man, they kept coming down.
+
+2030
+01:09:51,260 --> 01:09:52,760
+And if you have the bank to do
+
+2031
+01:09:52,760 --> 01:09:55,280
+it, as it comes down lower and lower,
+
+2032
+01:09:55,400 --> 01:09:56,800
+you want to increase your size.
+
+2033
+01:09:57,280 --> 01:09:58,260
+You don't want to buy one.
+
+2034
+01:09:58,860 --> 01:10:01,040
+If you're long four, you want to buy
+
+2035
+01:10:01,040 --> 01:10:03,140
+four to eight.
+
+2036
+01:10:04,020 --> 01:10:05,480
+And that brings your price way down.
+
+2037
+01:10:06,060 --> 01:10:08,540
+And that helps you feed in when the
+
+2038
+01:10:08,540 --> 01:10:09,240
+market turns.
+
+2039
+01:10:09,380 --> 01:10:11,720
+And the market always turns for day trading
+
+2040
+01:10:11,720 --> 01:10:12,180
+purposes.
+
+2041
+01:10:12,560 --> 01:10:15,240
+It may not trade for, you know, to
+
+2042
+01:10:15,240 --> 01:10:17,560
+ride off into the sunset, but it will
+
+2043
+01:10:17,560 --> 01:10:20,820
+turn around and it will allow you to
+
+2044
+01:10:20,820 --> 01:10:23,460
+feed into a rally.
+
+2045
+01:10:23,720 --> 01:10:25,660
+But if you're only buying one or two
+
+2046
+01:10:25,660 --> 01:10:28,540
+down, you're not bringing your price down enough.
+
+2047
+01:10:28,700 --> 01:10:30,360
+It's going to make it too difficult.
+
+2048
+01:10:31,080 --> 01:10:32,560
+So you have to close your eyes and
+
+2049
+01:10:32,560 --> 01:10:34,240
+buy them if you want to do it
+
+2050
+01:10:34,240 --> 01:10:34,540
+right.
+
+2051
+01:10:35,580 --> 01:10:37,480
+What are your thoughts on market cycles?
+
+2052
+01:10:37,800 --> 01:10:39,960
+Because you've been through your fair few, you
+
+2053
+01:10:39,960 --> 01:10:41,540
+know, you've got your 87, you've got your
+
+2054
+01:10:41,540 --> 01:10:43,160
+dot com, you've got your 2008.
+
+2055
+01:10:43,580 --> 01:10:45,720
+You had obviously your COVID crash recently as
+
+2056
+01:10:45,720 --> 01:10:45,860
+well.
+
+2057
+01:10:45,880 --> 01:10:48,660
+Then last on Monday of this week, sorry,
+
+2058
+01:10:48,740 --> 01:10:51,120
+not even last Monday, August 5th is August
+
+2059
+01:10:51,120 --> 01:10:52,180
+9th as of today.
+
+2060
+01:10:53,480 --> 01:10:56,240
+And yeah, like on August 5th, we saw
+
+2061
+01:10:56,240 --> 01:10:57,320
+the market open up.
+
+2062
+01:10:57,480 --> 01:10:59,420
+We saw markets across the board red and
+
+2063
+01:10:59,420 --> 01:11:02,100
+selling off very aggressively, emotions extremely high.
+
+2064
+01:11:02,520 --> 01:11:04,980
+And yet we bounced back and actually, you
+
+2065
+01:11:04,980 --> 01:11:06,920
+know, printed new highs from those lows.
+
+2066
+01:11:07,240 --> 01:11:07,340
+Amazing.
+
+2067
+01:11:07,720 --> 01:11:09,900
+You know, what can you speak on in
+
+2068
+01:11:09,900 --> 01:11:13,800
+terms of like recognizing the emotions, any sort
+
+2069
+01:11:13,800 --> 01:11:16,960
+of common traits amongst these volatile market conditions
+
+2070
+01:11:16,960 --> 01:11:18,300
+that come in from time to time?
+
+2071
+01:11:18,640 --> 01:11:21,040
+And any of the biggest mistakes that traders
+
+2072
+01:11:21,040 --> 01:11:22,540
+make when these moments happen?
+
+2073
+01:11:22,680 --> 01:11:22,840
+Yeah.
+
+2074
+01:11:22,840 --> 01:11:26,720
+Well, if the volatility is on a downside,
+
+2075
+01:11:26,720 --> 01:11:29,420
+as I mentioned earlier, one of the biggest
+
+2076
+01:11:29,420 --> 01:11:31,720
+failed trades is and sometimes you could do
+
+2077
+01:11:31,720 --> 01:11:32,120
+it.
+
+2078
+01:11:32,400 --> 01:11:34,640
+But but vast majority of times, you know,
+
+2079
+01:11:34,640 --> 01:11:35,500
+you can't get away with it.
+
+2080
+01:11:35,500 --> 01:11:38,120
+And that's selling failed breakdowns or buying failed
+
+2081
+01:11:38,120 --> 01:11:38,840
+breakouts.
+
+2082
+01:11:39,500 --> 01:11:42,580
+OK, markets going crazy, going crazy, going crazy.
+
+2083
+01:11:43,080 --> 01:11:45,820
+I mean, sometimes I will go crazy when
+
+2084
+01:11:45,820 --> 01:11:47,840
+I recognize that they're out of control by
+
+2085
+01:11:47,840 --> 01:11:51,360
+the various components that I look at and
+
+2086
+01:11:51,360 --> 01:11:52,820
+I realize they're out of control and I'll
+
+2087
+01:11:52,820 --> 01:11:54,320
+just hit that buy button and I'll just
+
+2088
+01:11:54,320 --> 01:11:55,180
+keep riding it.
+
+2089
+01:11:55,700 --> 01:11:55,840
+All right.
+
+2090
+01:11:56,280 --> 01:11:58,920
+And I'll just start flipping out as they
+
+2091
+01:11:58,920 --> 01:11:59,800
+as they come up.
+
+2092
+01:11:59,960 --> 01:12:02,860
+But, you know, you can just recognize the
+
+2093
+01:12:02,860 --> 01:12:03,260
+emotions.
+
+2094
+01:12:03,460 --> 01:12:05,860
+You can recognize the emotions by the way
+
+2095
+01:12:05,860 --> 01:12:06,680
+the tape is moving.
+
+2096
+01:12:06,780 --> 01:12:10,920
+You can recognize the emotions, you know, you
+
+2097
+01:12:10,920 --> 01:12:14,020
+know, you know, by the technical areas that
+
+2098
+01:12:14,020 --> 01:12:15,960
+are being invaded by algorithms.
+
+2099
+01:12:15,960 --> 01:12:17,300
+You could recognize it.
+
+2100
+01:12:17,300 --> 01:12:19,280
+And and, you know, when, you know, the
+
+2101
+01:12:19,280 --> 01:12:21,840
+market is out of control, I have a
+
+2102
+01:12:21,840 --> 01:12:23,780
+couple hundred, one hundred and fifty two hundred
+
+2103
+01:12:23,780 --> 01:12:24,220
+names.
+
+2104
+01:12:24,340 --> 01:12:25,400
+That's a watch list.
+
+2105
+01:12:25,480 --> 01:12:26,980
+It's a customized watch list.
+
+2106
+01:12:27,300 --> 01:12:30,540
+It's a watch list, whatever the banks, the
+
+2107
+01:12:30,540 --> 01:12:34,620
+oil stocks, you know, the semis on and
+
+2108
+01:12:34,620 --> 01:12:35,240
+on and on.
+
+2109
+01:12:35,540 --> 01:12:37,840
+And I got a really good sense when
+
+2110
+01:12:37,840 --> 01:12:39,660
+all these things are puking in the same
+
+2111
+01:12:39,660 --> 01:12:41,880
+time at the same time and the volume
+
+2112
+01:12:41,880 --> 01:12:43,440
+picking up as such.
+
+2113
+01:12:43,880 --> 01:12:45,900
+Of course, I always monitor the volume bars.
+
+2114
+01:12:46,420 --> 01:12:49,300
+I mean, you just know that the emotions
+
+2115
+01:12:49,300 --> 01:12:52,140
+are running high and that gets my juices
+
+2116
+01:12:52,140 --> 01:12:56,640
+going, because the emotions running high, you know,
+
+2117
+01:12:56,820 --> 01:12:59,580
+people make mistakes and all the folks out
+
+2118
+01:12:59,580 --> 01:13:02,480
+there, retail traders are probably in that group
+
+2119
+01:13:02,480 --> 01:13:03,440
+that makes mistakes.
+
+2120
+01:13:04,300 --> 01:13:07,640
+And, you know, for instance, you know, up,
+
+2121
+01:13:07,680 --> 01:13:09,760
+up, up, up market, everybody's having a grand
+
+2122
+01:13:09,760 --> 01:13:11,600
+old time by the by the market goes
+
+2123
+01:13:11,600 --> 01:13:12,280
+up, make money.
+
+2124
+01:13:12,340 --> 01:13:12,920
+Oh, this is great.
+
+2125
+01:13:13,060 --> 01:13:15,520
+You know, a cab driver is talking about
+
+2126
+01:13:15,520 --> 01:13:16,780
+it up, up, up, up, up, up.
+
+2127
+01:13:17,800 --> 01:13:19,600
+OK, but they don't know how to handle
+
+2128
+01:13:19,600 --> 01:13:21,080
+down, down, down, down, down.
+
+2129
+01:13:21,300 --> 01:13:24,460
+And there's less sophistication and down, down, down.
+
+2130
+01:13:24,580 --> 01:13:26,460
+And they make more mistakes and down, down,
+
+2131
+01:13:26,520 --> 01:13:26,820
+down.
+
+2132
+01:13:27,220 --> 01:13:27,480
+All right.
+
+2133
+01:13:27,720 --> 01:13:28,880
+They'll sell at the bottom.
+
+2134
+01:13:29,780 --> 01:13:31,000
+And that's what they do.
+
+2135
+01:13:31,200 --> 01:13:32,640
+And that's the emotions.
+
+2136
+01:13:34,440 --> 01:13:36,540
+How interesting has it been to recognize that
+
+2137
+01:13:36,540 --> 01:13:39,060
+over the last 60 years or coming up
+
+2138
+01:13:39,060 --> 01:13:41,980
+to 60 years of your career, the mistakes
+
+2139
+01:13:41,980 --> 01:13:44,280
+that traders make and the things that make
+
+2140
+01:13:44,280 --> 01:13:46,500
+traders be unprofitable are still the same?
+
+2141
+01:13:47,200 --> 01:13:48,220
+A hundred percent.
+
+2142
+01:13:48,400 --> 01:13:51,140
+That's no true statement was ever made.
+
+2143
+01:13:51,580 --> 01:13:53,120
+You can beat their head against the wall.
+
+2144
+01:13:53,200 --> 01:13:54,420
+You can do anything they want.
+
+2145
+01:13:54,940 --> 01:13:57,080
+And they'll still make the same mistakes over
+
+2146
+01:13:57,080 --> 01:13:57,820
+and over again.
+
+2147
+01:13:58,120 --> 01:13:59,840
+And part of it is because new traders
+
+2148
+01:13:59,840 --> 01:14:03,040
+come into the fray and they're at a
+
+2149
+01:14:03,040 --> 01:14:04,380
+different stage and make mistakes.
+
+2150
+01:14:04,540 --> 01:14:06,380
+Maybe the people that started this two or
+
+2151
+01:14:06,380 --> 01:14:08,420
+three years ago have advanced somewhat, but they'll
+
+2152
+01:14:08,420 --> 01:14:09,540
+still make the same mistakes.
+
+2153
+01:14:09,880 --> 01:14:12,240
+But collectively, as new traders come in and
+
+2154
+01:14:12,240 --> 01:14:13,960
+everybody wants to be a trader, the new
+
+2155
+01:14:13,960 --> 01:14:16,080
+traders come in, you know, as an average,
+
+2156
+01:14:16,200 --> 01:14:18,160
+they still make the same freaking mistakes.
+
+2157
+01:14:18,740 --> 01:14:19,500
+It's amazing.
+
+2158
+01:14:19,880 --> 01:14:21,980
+Has trading always been sort of this allure,
+
+2159
+01:14:22,100 --> 01:14:23,560
+this this thing that people have always been
+
+2160
+01:14:23,560 --> 01:14:24,240
+interested in?
+
+2161
+01:14:24,340 --> 01:14:27,240
+Yeah, I absolutely, absolutely.
+
+2162
+01:14:27,540 --> 01:14:31,740
+You know, you know, I mean, I don't
+
+2163
+01:14:31,740 --> 01:14:33,780
+live in New York anymore, but everything I
+
+2164
+01:14:33,780 --> 01:14:34,820
+do is in New York.
+
+2165
+01:14:35,440 --> 01:14:38,420
+And, you know, people ask me, I just
+
+2166
+01:14:38,420 --> 01:14:41,960
+came over from a, doesn't matter, from a
+
+2167
+01:14:41,960 --> 01:14:43,720
+doctor and just normal stuff.
+
+2168
+01:14:44,180 --> 01:14:47,020
+And, oh, man, give me, give me, give
+
+2169
+01:14:47,020 --> 01:14:47,420
+me a thing.
+
+2170
+01:14:47,520 --> 01:14:50,760
+I'm a, you know, a cardiologist nurse, a
+
+2171
+01:14:50,760 --> 01:14:51,940
+nurse practitioner.
+
+2172
+01:14:52,280 --> 01:14:53,060
+Oh, really?
+
+2173
+01:14:53,240 --> 01:14:54,940
+Give me, I want you to give me,
+
+2174
+01:14:55,080 --> 01:14:56,660
+give me, give me your, give me your
+
+2175
+01:14:56,660 --> 01:14:57,420
+email address.
+
+2176
+01:14:57,480 --> 01:14:58,520
+Give me the, you know.
+
+2177
+01:15:00,160 --> 01:15:03,260
+So, yeah, the answer is, yeah, it's true.
+
+2178
+01:15:03,260 --> 01:15:04,180
+It's true.
+
+2179
+01:15:04,360 --> 01:15:06,580
+People feel like they're missing a boat, number
+
+2180
+01:15:06,580 --> 01:15:06,840
+one.
+
+2181
+01:15:06,980 --> 01:15:10,060
+Number two, people are looking to augment their
+
+2182
+01:15:10,060 --> 01:15:12,080
+income because of the reasons we stated earlier.
+
+2183
+01:15:14,000 --> 01:15:16,120
+So one thing that did come out after
+
+2184
+01:15:16,120 --> 01:15:18,380
+August 5th as well, around that same time,
+
+2185
+01:15:18,620 --> 01:15:22,340
+earlier this week, was that Warren Buffett, Berkshire
+
+2186
+01:15:22,340 --> 01:15:24,280
+Hathaway, sitting on the most cash and they
+
+2187
+01:15:24,280 --> 01:15:26,880
+sold a huge portion, billions of dollars worth
+
+2188
+01:15:26,880 --> 01:15:27,620
+of Apple shares.
+
+2189
+01:15:28,860 --> 01:15:30,500
+You know, these sort of traits that you've
+
+2190
+01:15:30,500 --> 01:15:33,120
+recognized previously when, you know, things are all
+
+2191
+01:15:33,120 --> 01:15:34,580
+time highs, you start to see these huge
+
+2192
+01:15:34,580 --> 01:15:36,960
+funds start to liquidate their shares and start
+
+2193
+01:15:36,960 --> 01:15:37,820
+to sit on cash.
+
+2194
+01:15:38,200 --> 01:15:39,760
+I know there's a lot of talk of
+
+2195
+01:15:39,760 --> 01:15:42,320
+potential recession and market downturn.
+
+2196
+01:15:42,320 --> 01:15:45,680
+We're currently in election years across multiple, not
+
+2197
+01:15:45,680 --> 01:15:47,220
+just the US, but UK just had an
+
+2198
+01:15:47,220 --> 01:15:47,480
+election.
+
+2199
+01:15:47,680 --> 01:15:48,580
+France just had an election.
+
+2200
+01:15:49,260 --> 01:15:50,760
+When these things have happened in the past,
+
+2201
+01:15:50,860 --> 01:15:52,980
+what are the common occurrences that usually take
+
+2202
+01:15:52,980 --> 01:15:53,340
+place?
+
+2203
+01:15:53,480 --> 01:15:53,580
+Yeah.
+
+2204
+01:15:53,580 --> 01:15:59,980
+Well, you know, usually in election years, they'll
+
+2205
+01:15:59,980 --> 01:16:01,660
+buy the market in the last two months
+
+2206
+01:16:01,660 --> 01:16:02,140
+of the year.
+
+2207
+01:16:02,580 --> 01:16:04,960
+You have tax selling at the end of
+
+2208
+01:16:04,960 --> 01:16:05,780
+the year as well.
+
+2209
+01:16:06,580 --> 01:16:08,780
+That's another famous play that I always made.
+
+2210
+01:16:08,860 --> 01:16:11,100
+I always specialized in, you know, stocks that
+
+2211
+01:16:11,100 --> 01:16:13,980
+have gotten beaten up, gotten beaten up during
+
+2212
+01:16:13,980 --> 01:16:16,260
+the year, down 30, 40 percent in an
+
+2213
+01:16:16,260 --> 01:16:16,780
+up year.
+
+2214
+01:16:17,300 --> 01:16:17,600
+All right.
+
+2215
+01:16:17,720 --> 01:16:19,780
+Those stocks are going to be sold and
+
+2216
+01:16:19,780 --> 01:16:21,180
+replaced in a new year.
+
+2217
+01:16:21,680 --> 01:16:23,700
+So, I mean, that's a play.
+
+2218
+01:16:23,880 --> 01:16:25,560
+To be fair, it's been a play or
+
+2219
+01:16:25,560 --> 01:16:27,060
+been in talk, should I say, and whispers
+
+2220
+01:16:27,060 --> 01:16:29,860
+of it for many years now since before
+
+2221
+01:16:29,860 --> 01:16:30,260
+COVID.
+
+2222
+01:16:30,460 --> 01:16:32,560
+COVID, we had that crash, which sort of
+
+2223
+01:16:32,560 --> 01:16:35,040
+instigated it being that the COVID and coronavirus
+
+2224
+01:16:35,040 --> 01:16:36,040
+instigated the crash.
+
+2225
+01:16:36,120 --> 01:16:37,320
+They turned the money printer on.
+
+2226
+01:16:38,280 --> 01:16:40,840
+Interest rates were down at pretty much near
+
+2227
+01:16:40,840 --> 01:16:41,200
+zero.
+
+2228
+01:16:41,940 --> 01:16:44,000
+Everything turned back up, all new time highs.
+
+2229
+01:16:45,380 --> 01:16:47,280
+And now it seems like we're starting to
+
+2230
+01:16:47,280 --> 01:16:47,980
+stagnate again.
+
+2231
+01:16:48,120 --> 01:16:50,460
+You know, we've got interest rates risen, inflation,
+
+2232
+01:16:50,600 --> 01:16:51,360
+all time highs.
+
+2233
+01:16:51,440 --> 01:16:53,880
+We've got a lot of wars across the
+
+2234
+01:16:53,880 --> 01:16:54,140
+world.
+
+2235
+01:16:54,220 --> 01:16:55,760
+We've got a lot of political distress as
+
+2236
+01:16:55,760 --> 01:16:56,020
+well.
+
+2237
+01:16:57,940 --> 01:16:59,900
+And it seems like there's something on the
+
+2238
+01:16:59,900 --> 01:17:00,300
+horizon.
+
+2239
+01:17:00,440 --> 01:17:01,820
+There's a lot of talks of the US
+
+2240
+01:17:01,820 --> 01:17:04,260
+dollar collapsing and the end of that empire.
+
+2241
+01:17:04,540 --> 01:17:06,840
+What are your thoughts after being in the
+
+2242
+01:17:06,840 --> 01:17:09,260
+markets for so long and seeing different rises
+
+2243
+01:17:09,260 --> 01:17:12,040
+and falls from different stocks, for example, and
+
+2244
+01:17:12,040 --> 01:17:13,600
+different sectors of stocks?
+
+2245
+01:17:13,600 --> 01:17:17,040
+Like right now, we're in AI tech sector
+
+2246
+01:17:17,040 --> 01:17:18,060
+and the boom there.
+
+2247
+01:17:18,620 --> 01:17:21,000
+Is anything worrying to you when you look
+
+2248
+01:17:21,000 --> 01:17:21,600
+at these markets?
+
+2249
+01:17:22,000 --> 01:17:23,540
+I mean, yeah, absolutely.
+
+2250
+01:17:23,700 --> 01:17:26,240
+That's why you saw the last three or
+
+2251
+01:17:26,240 --> 01:17:28,040
+four days doing what it did after it
+
+2252
+01:17:28,040 --> 01:17:28,500
+made a high.
+
+2253
+01:17:28,640 --> 01:17:29,740
+A couple of weeks ago, it made an
+
+2254
+01:17:29,740 --> 01:17:30,380
+all-time high.
+
+2255
+01:17:30,500 --> 01:17:31,900
+You're not talking a long time here.
+
+2256
+01:17:32,480 --> 01:17:36,240
+Warren Buffett, that's what smart people, deep pocketed
+
+2257
+01:17:36,240 --> 01:17:36,960
+investors do.
+
+2258
+01:17:38,140 --> 01:17:40,120
+They're sitting there with cash, they buy at
+
+2259
+01:17:40,120 --> 01:17:42,020
+bottom, and then they start peeling off millions
+
+2260
+01:17:42,020 --> 01:17:44,200
+of shares in a questionable environment, which is
+
+2261
+01:17:44,200 --> 01:17:44,760
+what he does.
+
+2262
+01:17:45,520 --> 01:17:47,220
+And no, I assumed he was doing that.
+
+2263
+01:17:47,300 --> 01:17:48,260
+I didn't have to read it to tell
+
+2264
+01:17:48,260 --> 01:17:48,740
+you the truth.
+
+2265
+01:17:49,000 --> 01:17:50,600
+And it doesn't really mean anything that he's
+
+2266
+01:17:50,600 --> 01:17:52,300
+doing it because I assumed he was doing
+
+2267
+01:17:52,300 --> 01:17:53,880
+it because that's what smart people do.
+
+2268
+01:17:54,720 --> 01:17:58,120
+When they're throwing it out the window, smart
+
+2269
+01:17:58,120 --> 01:18:00,020
+people are there to catch it.
+
+2270
+01:18:00,480 --> 01:18:02,280
+And when they're coming up the other way,
+
+2271
+01:18:02,400 --> 01:18:03,840
+smart people are there to let it happen.
+
+2272
+01:18:04,200 --> 01:18:05,300
+So when was he doing this?
+
+2273
+01:18:05,460 --> 01:18:06,820
+At the height, near the height of the
+
+2274
+01:18:06,820 --> 01:18:07,160
+market.
+
+2275
+01:18:07,680 --> 01:18:08,800
+Does it matter to him?
+
+2276
+01:18:09,320 --> 01:18:11,460
+Is the market going up another 20%, 10
+
+2277
+01:18:11,460 --> 01:18:12,380
+% in his face?
+
+2278
+01:18:12,900 --> 01:18:13,960
+Probably not.
+
+2279
+01:18:14,100 --> 01:18:14,800
+Probably not.
+
+2280
+01:18:14,860 --> 01:18:16,200
+Was it going up another 5%?
+
+2281
+01:18:16,460 --> 01:18:16,900
+Maybe.
+
+2282
+01:18:17,960 --> 01:18:19,140
+But it doesn't matter to him.
+
+2283
+01:18:19,200 --> 01:18:22,040
+He's printing money by liquidating these positions.
+
+2284
+01:18:24,180 --> 01:18:26,840
+One of the smartest investors on the planet
+
+2285
+01:18:26,840 --> 01:18:30,300
+is Stanley Druckenmiller, who sold all his high
+
+2286
+01:18:30,300 --> 01:18:33,200
+-tech names and bought the IWM.
+
+2287
+01:18:33,380 --> 01:18:38,060
+The IWM, lesser names, less growth names, potentially
+
+2288
+01:18:38,060 --> 01:18:40,680
+more growth names, that's why he bought it.
+
+2289
+01:18:41,560 --> 01:18:45,760
+The IWM lists companies that are 30%, 7
+
+2290
+01:18:45,760 --> 01:18:47,320
+% of them do not make money.
+
+2291
+01:18:49,060 --> 01:18:50,900
+But what they do do is have research
+
+2292
+01:18:50,900 --> 01:18:51,440
+and development.
+
+2293
+01:18:52,360 --> 01:18:53,980
+And if you buy a basket of stocks
+
+2294
+01:18:53,980 --> 01:18:58,140
+in an ETF like that, one or two
+
+2295
+01:18:58,140 --> 01:18:58,920
+of them can hit.
+
+2296
+01:18:59,780 --> 01:19:02,400
+And that's what he did.
+
+2297
+01:19:02,540 --> 01:19:03,580
+Very smart dude.
+
+2298
+01:19:03,960 --> 01:19:05,340
+But as far as the concept of going
+
+2299
+01:19:05,340 --> 01:19:06,460
+wall street, it will never change.
+
+2300
+01:19:06,880 --> 01:19:08,820
+We talked about a number of times during
+
+2301
+01:19:08,820 --> 01:19:13,340
+this conversation about selling bottoms, selling bottoms, selling
+
+2302
+01:19:13,340 --> 01:19:13,800
+bottoms.
+
+2303
+01:19:14,180 --> 01:19:17,080
+Well, in essence, or buying tops, buying tops.
+
+2304
+01:19:17,480 --> 01:19:19,580
+Well, the smart people of the world, they
+
+2305
+01:19:19,580 --> 01:19:20,660
+know this.
+
+2306
+01:19:21,600 --> 01:19:24,720
+So when people are puking and the market
+
+2307
+01:19:24,720 --> 01:19:27,040
+is puking, they have to place their bets.
+
+2308
+01:19:27,300 --> 01:19:30,200
+And they have to stay in power just
+
+2309
+01:19:30,200 --> 01:19:32,220
+to hang on until it turns around.
+
+2310
+01:19:33,100 --> 01:19:35,440
+And when they're selling up here, he's printing
+
+2311
+01:19:35,440 --> 01:19:35,780
+money.
+
+2312
+01:19:36,200 --> 01:19:38,020
+So this goes on over and over.
+
+2313
+01:19:38,160 --> 01:19:39,100
+It'll never change.
+
+2314
+01:19:39,960 --> 01:19:42,380
+Do you feel like once, when everyone's talking
+
+2315
+01:19:42,380 --> 01:19:44,140
+about recession, that's obviously not when it's going
+
+2316
+01:19:44,140 --> 01:19:44,680
+to take place.
+
+2317
+01:19:44,760 --> 01:19:47,000
+It's normally when it catches everyone off guard,
+
+2318
+01:19:47,220 --> 01:19:50,060
+when peak euphoria, essentially.
+
+2319
+01:19:50,300 --> 01:19:52,080
+So like, every time we make a new
+
+2320
+01:19:52,080 --> 01:19:53,940
+all time high, everyone expects us to then
+
+2321
+01:19:53,940 --> 01:19:54,640
+suddenly crash.
+
+2322
+01:19:55,500 --> 01:19:57,260
+It keeps doing it over and over again.
+
+2323
+01:19:57,360 --> 01:19:57,640
+Correct.
+
+2324
+01:19:57,800 --> 01:19:59,660
+Until the point where no one questions it
+
+2325
+01:19:59,660 --> 01:20:00,000
+anymore.
+
+2326
+01:20:00,000 --> 01:20:01,980
+This is going to keep happening.
+
+2327
+01:20:02,140 --> 01:20:02,440
+Perfect.
+
+2328
+01:20:02,680 --> 01:20:03,640
+That's when it's going to take place.
+
+2329
+01:20:03,780 --> 01:20:04,100
+Perfect.
+
+2330
+01:20:04,560 --> 01:20:06,780
+I stood up and watched the dot com
+
+2331
+01:20:06,780 --> 01:20:07,600
+era the same way.
+
+2332
+01:20:07,900 --> 01:20:08,960
+OK, you shook your head.
+
+2333
+01:20:09,340 --> 01:20:11,080
+None of those companies ever made money.
+
+2334
+01:20:11,480 --> 01:20:13,300
+They didn't make money at the time.
+
+2335
+01:20:13,480 --> 01:20:14,300
+It didn't matter.
+
+2336
+01:20:14,800 --> 01:20:16,600
+And every day, I shook my head.
+
+2337
+01:20:16,700 --> 01:20:18,000
+I said, you've got to stop this.
+
+2338
+01:20:18,320 --> 01:20:19,420
+My customers shook their head.
+
+2339
+01:20:19,500 --> 01:20:20,280
+They couldn't believe it.
+
+2340
+01:20:20,420 --> 01:20:22,180
+They were getting running all over the place.
+
+2341
+01:20:22,840 --> 01:20:23,360
+What's this?
+
+2342
+01:20:24,720 --> 01:20:27,300
+The impetus on the money is capable of
+
+2343
+01:20:27,300 --> 01:20:27,400
+this.
+
+2344
+01:20:27,740 --> 01:20:30,760
+Until, as you just eloquently said, until it's
+
+2345
+01:20:30,760 --> 01:20:31,080
+not.
+
+2346
+01:20:31,480 --> 01:20:32,960
+OK, and then it gets ugly.
+
+2347
+01:20:33,640 --> 01:20:35,960
+OK, and I firmly believe in the last
+
+2348
+01:20:35,960 --> 01:20:38,780
+three weeks, OK, what were they talking about?
+
+2349
+01:20:39,360 --> 01:20:40,680
+What word did you hear?
+
+2350
+01:20:40,820 --> 01:20:41,140
+Bubble.
+
+2351
+01:20:41,580 --> 01:20:42,440
+It's a bubble.
+
+2352
+01:20:42,760 --> 01:20:43,360
+It's a bubble.
+
+2353
+01:20:43,760 --> 01:20:45,300
+Want to know why the market made new
+
+2354
+01:20:45,300 --> 01:20:47,300
+highs, all time highs, two weeks ago?
+
+2355
+01:20:47,560 --> 01:20:49,760
+Because everybody was talking about a bubble.
+
+2356
+01:20:50,180 --> 01:20:51,320
+Exactly what you said.
+
+2357
+01:20:51,740 --> 01:20:52,860
+That's the way it goes.
+
+2358
+01:20:53,260 --> 01:20:55,100
+Simple common sense, man.
+
+2359
+01:20:56,200 --> 01:20:58,100
+What are your thoughts in terms of, I
+
+2360
+01:20:58,100 --> 01:21:00,300
+know that you were part of history with
+
+2361
+01:21:00,300 --> 01:21:01,060
+the New York Stock Exchange.
+
+2362
+01:21:01,280 --> 01:21:03,940
+You placed the first trade, if I'm not
+
+2363
+01:21:03,940 --> 01:21:04,320
+mistaken.
+
+2364
+01:21:05,940 --> 01:21:08,520
+Was it executed via, I don't know if
+
+2365
+01:21:08,520 --> 01:21:09,880
+it was electronically, something you.
+
+2366
+01:21:10,900 --> 01:21:13,700
+Buyback, the program trade orders.
+
+2367
+01:21:13,880 --> 01:21:14,900
+Program trade orders, that's right.
+
+2368
+01:21:15,000 --> 01:21:18,660
+First ever, first ever on a New York
+
+2369
+01:21:18,660 --> 01:21:19,260
+Stock Exchange.
+
+2370
+01:21:19,640 --> 01:21:20,160
+First ever.
+
+2371
+01:21:20,600 --> 01:21:23,320
+I had six million shares, give or take,
+
+2372
+01:21:24,120 --> 01:21:27,480
+of 60 S&P names to buy, market
+
+2373
+01:21:27,480 --> 01:21:30,780
+on close, when there was no supply.
+
+2374
+01:21:32,160 --> 01:21:33,120
+No supply.
+
+2375
+01:21:34,420 --> 01:21:37,480
+Stacker orders like this, no supply.
+
+2376
+01:21:38,020 --> 01:21:41,480
+Buy 100,000 mobile, market on close.
+
+2377
+01:21:41,680 --> 01:21:43,900
+Buy 20,000 IBM, market on close.
+
+2378
+01:21:43,900 --> 01:21:45,000
+20,000 IBM, right.
+
+2379
+01:21:45,240 --> 01:21:45,820
+20,000.
+
+2380
+01:21:46,240 --> 01:21:49,680
+500 shares of IBM in those days to
+
+2381
+01:21:49,680 --> 01:21:52,340
+buy market on close could take the stock
+
+2382
+01:21:52,340 --> 01:21:53,560
+up a buck and a half or two
+
+2383
+01:21:53,560 --> 01:21:53,920
+bucks.
+
+2384
+01:21:54,760 --> 01:21:55,960
+20,000.
+
+2385
+01:21:56,900 --> 01:21:58,320
+60 S&P names.
+
+2386
+01:21:58,680 --> 01:22:01,480
+I had 25 brokers, seven of which worked
+
+2387
+01:22:01,480 --> 01:22:04,960
+for me, 25 of which were just my
+
+2388
+01:22:04,960 --> 01:22:06,560
+friends that were representing.
+
+2389
+01:22:07,340 --> 01:22:10,860
+I'm staying in a separate location handling every
+
+2390
+01:22:10,860 --> 01:22:11,880
+freaking order.
+
+2391
+01:22:12,540 --> 01:22:16,500
+I said, wait a minute, this is not
+
+2392
+01:22:16,500 --> 01:22:17,040
+going to work.
+
+2393
+01:22:17,540 --> 01:22:18,260
+It's not working.
+
+2394
+01:22:18,660 --> 01:22:19,520
+There was no supply.
+
+2395
+01:22:19,620 --> 01:22:20,680
+The place was in a panic.
+
+2396
+01:22:21,780 --> 01:22:25,640
+The chairman of the stock exchange, the directors,
+
+2397
+01:22:26,040 --> 01:22:27,340
+the board coming down.
+
+2398
+01:22:27,420 --> 01:22:28,260
+Are these real orders?
+
+2399
+01:22:28,940 --> 01:22:30,580
+I said, fellas, what do you mean are
+
+2400
+01:22:30,580 --> 01:22:31,400
+these real orders?
+
+2401
+01:22:32,180 --> 01:22:33,400
+Yes, they're real orders.
+
+2402
+01:22:33,520 --> 01:22:34,220
+Oh, yes, they are.
+
+2403
+01:22:35,360 --> 01:22:36,340
+Oh, my God.
+
+2404
+01:22:36,440 --> 01:22:37,220
+What are we going to do?
+
+2405
+01:22:37,360 --> 01:22:38,260
+We're going to do nothing.
+
+2406
+01:22:38,360 --> 01:22:38,960
+Get away from me.
+
+2407
+01:22:39,020 --> 01:22:40,180
+I'll take care of this.
+
+2408
+01:22:40,780 --> 01:22:42,640
+25 brokers running all over the place.
+
+2409
+01:22:42,760 --> 01:22:45,280
+Finally, I realized that the traditional way to
+
+2410
+01:22:45,280 --> 01:22:48,180
+do this is not the way to do
+
+2411
+01:22:48,180 --> 01:22:48,360
+it.
+
+2412
+01:22:49,200 --> 01:22:50,000
+So what did I do?
+
+2413
+01:22:50,660 --> 01:22:53,540
+I called the largest, the biggest firm on
+
+2414
+01:22:53,540 --> 01:22:55,940
+Wall Street who were clients of mine and
+
+2415
+01:22:55,940 --> 01:22:58,440
+will pay me to trade IBM for them.
+
+2416
+01:22:59,220 --> 01:23:03,060
+$15,000 a month in 1980, 1981, a
+
+2417
+01:23:03,060 --> 01:23:06,320
+lot of money, just as a retainer, just
+
+2418
+01:23:06,320 --> 01:23:07,120
+as a retainer.
+
+2419
+01:23:07,220 --> 01:23:11,160
+But they had the most successful person that
+
+2420
+01:23:11,160 --> 01:23:13,040
+headed a trading desk and the most powerful
+
+2421
+01:23:13,040 --> 01:23:16,080
+person on Wall Street, excuse me, named Stanley
+
+2422
+01:23:16,080 --> 01:23:16,880
+Shopkorn.
+
+2423
+01:23:17,200 --> 01:23:20,480
+Stanley Shopkorn was the head trader of Salomon
+
+2424
+01:23:20,480 --> 01:23:20,880
+Brothers.
+
+2425
+01:23:21,700 --> 01:23:23,920
+Salomon Brothers was noted as a bond house,
+
+2426
+01:23:24,080 --> 01:23:26,200
+but they had a huge equity desk.
+
+2427
+01:23:26,900 --> 01:23:30,240
+Every piece of merchandise that came down the
+
+2428
+01:23:30,240 --> 01:23:35,440
+pike to get placed, called Stanley, called Salomon
+
+2429
+01:23:35,440 --> 01:23:35,740
+Brothers.
+
+2430
+01:23:37,420 --> 01:23:41,360
+I said, I need somebody with strength here.
+
+2431
+01:23:41,780 --> 01:23:42,740
+I go to the phone.
+
+2432
+01:23:43,580 --> 01:23:44,440
+I say, give me Stanley.
+
+2433
+01:23:44,620 --> 01:23:45,860
+Stanley, Richie, what's happening?
+
+2434
+01:23:46,040 --> 01:23:46,900
+Stanley, listen to me.
+
+2435
+01:23:47,520 --> 01:23:48,120
+I have debt.
+
+2436
+01:23:48,300 --> 01:23:50,140
+I have about to buy.
+
+2437
+01:23:50,740 --> 01:23:51,000
+Okay.
+
+2438
+01:23:51,300 --> 01:23:52,640
+So, you know, call me back.
+
+2439
+01:23:52,780 --> 01:23:55,200
+He says, well, call me back and we'll
+
+2440
+01:23:55,200 --> 01:23:55,980
+wipe somebody's debt.
+
+2441
+01:23:56,040 --> 01:23:56,820
+I said, no, no, no.
+
+2442
+01:23:57,300 --> 01:23:58,140
+There's no way.
+
+2443
+01:23:58,420 --> 01:23:59,080
+Cannot do that.
+
+2444
+01:23:59,200 --> 01:23:59,920
+There's none of that.
+
+2445
+01:24:00,960 --> 01:24:02,200
+He says, give me my clerk.
+
+2446
+01:24:03,840 --> 01:24:04,740
+It's his clerk.
+
+2447
+01:24:05,200 --> 01:24:09,080
+He says, give Richie sell orders up to
+
+2448
+01:24:09,080 --> 01:24:10,920
+the amount of shares that he has to
+
+2449
+01:24:10,920 --> 01:24:14,600
+buy at his discretion to fill every one
+
+2450
+01:24:14,600 --> 01:24:15,420
+of those buy orders.
+
+2451
+01:24:16,940 --> 01:24:19,800
+And that was an incredible day.
+
+2452
+01:24:20,220 --> 01:24:22,980
+And we just went up, talk about the
+
+2453
+01:24:22,980 --> 01:24:26,800
+specialist book, find out where supply was, you
+
+2454
+01:24:26,800 --> 01:24:29,720
+know, and then we filled it in with
+
+2455
+01:24:29,720 --> 01:24:34,060
+Salomon Brothers proprietary sell paper and priced every
+
+2456
+01:24:34,060 --> 01:24:34,720
+damn one of them.
+
+2457
+01:24:35,860 --> 01:24:36,020
+Wow.
+
+2458
+01:24:36,180 --> 01:24:36,580
+Crazy.
+
+2459
+01:24:36,780 --> 01:24:36,980
+Wow.
+
+2460
+01:24:37,180 --> 01:24:37,560
+Crazy.
+
+2461
+01:24:37,720 --> 01:24:39,480
+So that being part of that history, so
+
+2462
+01:24:39,480 --> 01:24:40,920
+that you being part of the history of
+
+2463
+01:24:40,920 --> 01:24:43,720
+being one of the first people to instigate
+
+2464
+01:24:43,720 --> 01:24:45,780
+a sell, a program, a trade.
+
+2465
+01:24:46,700 --> 01:24:47,620
+And how does that make you feel though,
+
+2466
+01:24:47,640 --> 01:24:49,100
+like knowing that you're part of that history?
+
+2467
+01:24:49,640 --> 01:24:51,700
+It was just, I wish I had those
+
+2468
+01:24:51,700 --> 01:24:52,900
+original papers.
+
+2469
+01:24:52,900 --> 01:24:54,180
+I wish I really did.
+
+2470
+01:24:54,280 --> 01:24:56,200
+They'd be worth millions of dollars, but I
+
+2471
+01:24:56,200 --> 01:24:56,640
+don't.
+
+2472
+01:24:56,900 --> 01:24:57,820
+But how did it feel?
+
+2473
+01:24:57,860 --> 01:24:59,520
+It feels very satisfying.
+
+2474
+01:24:59,980 --> 01:25:01,720
+Here's a kid growing up in Queens with
+
+2475
+01:25:01,720 --> 01:25:02,020
+nothing.
+
+2476
+01:25:02,620 --> 01:25:03,840
+I mean, I wasn't, I didn't grow up
+
+2477
+01:25:03,840 --> 01:25:06,120
+with a poor family, middle income people worked
+
+2478
+01:25:06,120 --> 01:25:08,160
+hard all their lives, you know, lived in
+
+2479
+01:25:08,160 --> 01:25:10,060
+a 10, $12,000 house.
+
+2480
+01:25:10,620 --> 01:25:13,440
+You know, I had everything that I wanted,
+
+2481
+01:25:13,540 --> 01:25:14,760
+which was really not much.
+
+2482
+01:25:15,380 --> 01:25:18,280
+And, and, and here I am dictating flow,
+
+2483
+01:25:18,420 --> 01:25:21,300
+which the top firm on Wall Street and
+
+2484
+01:25:21,300 --> 01:25:24,720
+the top, top, top trader on Wall Street,
+
+2485
+01:25:24,880 --> 01:25:27,280
+basically, not basically you go look them up.
+
+2486
+01:25:27,620 --> 01:25:28,360
+Top guy.
+
+2487
+01:25:28,480 --> 01:25:29,560
+I mean, he's controlled everything.
+
+2488
+01:25:30,220 --> 01:25:32,480
+And here I am, you know, one-on
+
+2489
+01:25:32,480 --> 01:25:34,160
+-one with this person and he's given me
+
+2490
+01:25:34,160 --> 01:25:36,280
+discretion over millions of shares.
+
+2491
+01:25:36,580 --> 01:25:38,900
+So how does it make me feel?
+
+2492
+01:25:38,960 --> 01:25:40,220
+It makes me feel great, man.
+
+2493
+01:25:40,720 --> 01:25:41,380
+It really does.
+
+2494
+01:25:41,600 --> 01:25:42,940
+As it should, as it should.
+
+2495
+01:25:43,060 --> 01:25:45,120
+And, you know, as part of this whole
+
+2496
+01:25:45,120 --> 01:25:46,740
+interview, there's so many gems that we've taken
+
+2497
+01:25:46,740 --> 01:25:47,080
+away.
+
+2498
+01:25:47,440 --> 01:25:48,300
+That's for sure.
+
+2499
+01:25:48,380 --> 01:25:50,620
+And to speak from the experience and wealth
+
+2500
+01:25:50,620 --> 01:25:52,460
+of knowledge that you've had, you know, I
+
+2501
+01:25:52,460 --> 01:25:53,920
+know it's going to have a huge impact
+
+2502
+01:25:53,920 --> 01:25:54,820
+on traders out there.
+
+2503
+01:25:55,440 --> 01:25:57,720
+As we discussed, like people of, you know,
+
+2504
+01:25:57,740 --> 01:26:00,960
+this audience, the retail audience of today, you
+
+2505
+01:26:00,960 --> 01:26:03,000
+know, we've talked about like their issues being
+
+2506
+01:26:03,000 --> 01:26:05,860
+more so of rushing, their greed, their lack
+
+2507
+01:26:05,860 --> 01:26:06,460
+of focus.
+
+2508
+01:26:07,900 --> 01:26:10,420
+But when it comes to, we talked about
+
+2509
+01:26:10,420 --> 01:26:11,420
+sizing trades, right?
+
+2510
+01:26:11,420 --> 01:26:14,180
+We talked about handling size for yourself, but
+
+2511
+01:26:14,180 --> 01:26:16,820
+what would you advise to traders out there
+
+2512
+01:26:16,820 --> 01:26:19,220
+who are going through that scaling process themselves?
+
+2513
+01:26:19,500 --> 01:26:21,460
+You know, they're going from, I would say
+
+2514
+01:26:21,460 --> 01:26:23,540
+trading a few thousand dollars into the tens
+
+2515
+01:26:23,540 --> 01:26:25,760
+of thousands, the six figures, the seven figures,
+
+2516
+01:26:26,420 --> 01:26:27,540
+you know, and a lot of them have
+
+2517
+01:26:27,540 --> 01:26:29,720
+these barriers when it comes to that psychology
+
+2518
+01:26:29,720 --> 01:26:32,120
+of being able to handle, you know, new
+
+2519
+01:26:32,120 --> 01:26:34,500
+size, whether it's new stop loss amounts, new
+
+2520
+01:26:34,500 --> 01:26:36,580
+take profits amounts or new contract sizes.
+
+2521
+01:26:36,960 --> 01:26:38,820
+Is there anything that you can sort of
+
+2522
+01:26:38,820 --> 01:26:40,680
+advise them to help them overcome those barriers?
+
+2523
+01:26:41,280 --> 01:26:43,260
+I would say something in a very profound
+
+2524
+01:26:43,260 --> 01:26:43,860
+manner here.
+
+2525
+01:26:43,860 --> 01:26:47,000
+If you find yourself in that position, stop
+
+2526
+01:26:47,000 --> 01:26:51,120
+and manage what you can manage because it's
+
+2527
+01:26:51,120 --> 01:26:51,660
+not for you.
+
+2528
+01:26:51,740 --> 01:26:53,180
+You will make mistakes and it's going to
+
+2529
+01:26:53,180 --> 01:26:53,780
+cost you money.
+
+2530
+01:26:54,080 --> 01:26:55,500
+If you think you can fight through it,
+
+2531
+01:26:55,620 --> 01:26:57,420
+it's your prerogative to try it.
+
+2532
+01:26:57,600 --> 01:26:59,080
+But if you have a roadblock and you
+
+2533
+01:26:59,080 --> 01:27:02,040
+sense a roadblock because the chips on a
+
+2534
+01:27:02,040 --> 01:27:05,160
+table have changed, you know, you may have
+
+2535
+01:27:05,160 --> 01:27:06,660
+to look in a mirror and say, maybe
+
+2536
+01:27:06,660 --> 01:27:07,660
+this is not for me.
+
+2537
+01:27:07,860 --> 01:27:10,300
+Or you may have to just stand in
+
+2538
+01:27:10,300 --> 01:27:11,700
+one place, you know.
+
+2539
+01:27:13,420 --> 01:27:14,440
+I think it's very fair.
+
+2540
+01:27:14,780 --> 01:27:15,980
+I think it's very, very fair.
+
+2541
+01:27:16,160 --> 01:27:17,860
+And it's interesting you mentioned about chips on
+
+2542
+01:27:17,860 --> 01:27:18,180
+a table.
+
+2543
+01:27:18,340 --> 01:27:20,880
+How close of the relationship between, say, poker
+
+2544
+01:27:20,880 --> 01:27:22,780
+and trading is there?
+
+2545
+01:27:22,840 --> 01:27:24,560
+Because as you mentioned earlier, actually, the similar
+
+2546
+01:27:24,560 --> 01:27:26,720
+thing where you need to know the personalities,
+
+2547
+01:27:26,860 --> 01:27:28,380
+obviously, that was more so for the pits.
+
+2548
+01:27:28,460 --> 01:27:30,580
+But do you treat the markets even now
+
+2549
+01:27:30,580 --> 01:27:33,400
+in a similar fashion of trying to recognize
+
+2550
+01:27:33,400 --> 01:27:36,580
+the emotion within the charts, if that makes
+
+2551
+01:27:36,580 --> 01:27:36,840
+sense?
+
+2552
+01:27:36,920 --> 01:27:38,900
+Like, if you're seeing a lot of a
+
+2553
+01:27:38,900 --> 01:27:40,740
+down movement, a lot of emotion just within
+
+2554
+01:27:40,740 --> 01:27:42,420
+the chart itself, when you're looking at the
+
+2555
+01:27:42,420 --> 01:27:44,080
+charts, you're seeing this huge red candles.
+
+2556
+01:27:44,700 --> 01:27:45,660
+Is that how you're operating?
+
+2557
+01:27:45,780 --> 01:27:47,600
+Are you looking at, OK, this is how
+
+2558
+01:27:47,600 --> 01:27:49,520
+the average trader is probably feeling right now,
+
+2559
+01:27:49,540 --> 01:27:51,040
+or the traders are out there.
+
+2560
+01:27:51,280 --> 01:27:52,540
+This is what the flow may be telling
+
+2561
+01:27:52,540 --> 01:27:54,040
+me and therefore acting accordingly.
+
+2562
+01:27:54,380 --> 01:27:54,480
+Yeah.
+
+2563
+01:27:54,960 --> 01:27:59,100
+I mean, listen, I made my living and
+
+2564
+01:27:59,100 --> 01:28:04,000
+as of today, have learned under very stringent
+
+2565
+01:28:04,000 --> 01:28:08,780
+conditions how to control emotions and how to
+
+2566
+01:28:08,780 --> 01:28:09,980
+manage emotions.
+
+2567
+01:28:11,020 --> 01:28:13,620
+Again, the size doesn't really matter to me.
+
+2568
+01:28:13,740 --> 01:28:15,200
+It means nothing.
+
+2569
+01:28:16,180 --> 01:28:17,480
+It doesn't mean anything.
+
+2570
+01:28:17,860 --> 01:28:20,240
+Trading that kind of volume under those circumstances,
+
+2571
+01:28:20,560 --> 01:28:23,900
+what the stock meant in the overall picture
+
+2572
+01:28:23,900 --> 01:28:27,240
+of the market, every trade, most of the
+
+2573
+01:28:27,240 --> 01:28:30,040
+trades during the day, I can recount and
+
+2574
+01:28:30,040 --> 01:28:32,060
+look at the percentages of every one of
+
+2575
+01:28:32,060 --> 01:28:35,360
+those trades and the decision process that takes
+
+2576
+01:28:35,360 --> 01:28:37,980
+place to pull the trigger on a specific
+
+2577
+01:28:37,980 --> 01:28:38,520
+trade.
+
+2578
+01:28:38,940 --> 01:28:39,580
+Yes, it does.
+
+2579
+01:28:40,960 --> 01:28:43,980
+And I believe that those decisions really are
+
+2580
+01:28:43,980 --> 01:28:48,480
+the decisions that control the decisions we make
+
+2581
+01:28:48,480 --> 01:28:51,040
+in our everyday life, whether it's to stand
+
+2582
+01:28:51,040 --> 01:28:52,540
+on a curve, whether it's to take a
+
+2583
+01:28:52,540 --> 01:28:54,540
+step this way, whether it's to yell at
+
+2584
+01:28:54,540 --> 01:28:57,660
+somebody, whatever it is, there's a percentage in
+
+2585
+01:28:57,660 --> 01:28:58,200
+everything.
+
+2586
+01:28:58,600 --> 01:29:00,880
+So you talk about a poker game, there's
+
+2587
+01:29:00,880 --> 01:29:02,280
+a percentage in a game.
+
+2588
+01:29:02,420 --> 01:29:02,880
+It plays.
+
+2589
+01:29:02,980 --> 01:29:03,640
+Do I want to play?
+
+2590
+01:29:03,720 --> 01:29:04,700
+Do I want to go all in?
+
+2591
+01:29:04,760 --> 01:29:05,560
+Do I want to fold?
+
+2592
+01:29:05,800 --> 01:29:06,860
+Am I going to make a bet?
+
+2593
+01:29:06,900 --> 01:29:07,980
+Am I going to make a raise?
+
+2594
+01:29:08,100 --> 01:29:08,860
+Blah, blah, blah.
+
+2595
+01:29:09,080 --> 01:29:11,620
+But the stock market boils all that down.
+
+2596
+01:29:11,760 --> 01:29:13,840
+And the difference is there is no time.
+
+2597
+01:29:14,040 --> 01:29:16,360
+You have to make a split decision and
+
+2598
+01:29:16,360 --> 01:29:18,240
+you make a split decision based on the
+
+2599
+01:29:18,240 --> 01:29:19,220
+time you put in.
+
+2600
+01:29:19,520 --> 01:29:21,560
+And being a student of the game, as
+
+2601
+01:29:21,560 --> 01:29:24,180
+I say that word again, you need to
+
+2602
+01:29:24,180 --> 01:29:27,100
+get to a point where your gut spits
+
+2603
+01:29:27,100 --> 01:29:27,700
+this out.
+
+2604
+01:29:27,980 --> 01:29:29,000
+And you can.
+
+2605
+01:29:29,340 --> 01:29:32,360
+You are capable of doing that, providing you
+
+2606
+01:29:32,360 --> 01:29:33,180
+have the right mentor.
+
+2607
+01:29:33,520 --> 01:29:34,340
+That'll tell you.
+
+2608
+01:29:35,620 --> 01:29:38,320
+Providing you have the right mentor, you're all
+
+2609
+01:29:38,320 --> 01:29:39,360
+capable of doing it.
+
+2610
+01:29:39,580 --> 01:29:42,060
+But the decisions that I make to this
+
+2611
+01:29:42,060 --> 01:29:45,060
+day are based on that gut feeling.
+
+2612
+01:29:45,440 --> 01:29:47,600
+I tell everybody, look at the rhythm of
+
+2613
+01:29:47,600 --> 01:29:48,080
+the numbers.
+
+2614
+01:29:48,280 --> 01:29:48,840
+What do you mean?
+
+2615
+01:29:49,640 --> 01:29:51,740
+I said, watch the quote and watch the
+
+2616
+01:29:51,740 --> 01:29:52,840
+size that trades.
+
+2617
+01:29:53,700 --> 01:29:54,260
+Watch it.
+
+2618
+01:29:55,800 --> 01:29:58,300
+That'll spit out scalp trades to you without
+
+2619
+01:29:58,300 --> 01:29:59,660
+looking at another thing.
+
+2620
+01:30:00,300 --> 01:30:01,100
+Yes, it will.
+
+2621
+01:30:01,500 --> 01:30:02,980
+You'll see the momentum go.
+
+2622
+01:30:03,300 --> 01:30:03,980
+You'll see it.
+
+2623
+01:30:05,280 --> 01:30:11,300
+So, you know, those decisions are based wholly
+
+2624
+01:30:11,300 --> 01:30:12,320
+on mathematics.
+
+2625
+01:30:13,200 --> 01:30:15,480
+And I say, if you're a student of
+
+2626
+01:30:15,480 --> 01:30:18,100
+the game, your gut will start spitting out,
+
+2627
+01:30:18,380 --> 01:30:19,720
+spitting out these moves.
+
+2628
+01:30:19,880 --> 01:30:20,740
+You will see it.
+
+2629
+01:30:21,260 --> 01:30:24,200
+And learning from the way I learned it
+
+2630
+01:30:24,200 --> 01:30:27,960
+and lived it, to this day, it holds
+
+2631
+01:30:27,960 --> 01:30:28,220
+up.
+
+2632
+01:30:28,780 --> 01:30:29,740
+It just does.
+
+2633
+01:30:30,240 --> 01:30:31,980
+So it's all about mathematics, man.
+
+2634
+01:30:32,380 --> 01:30:34,900
+To finish up on the algorithm side of
+
+2635
+01:30:34,900 --> 01:30:37,320
+things, what would be your advice for people
+
+2636
+01:30:37,320 --> 01:30:41,640
+to start trying to observe these algorithmic plays
+
+2637
+01:30:41,640 --> 01:30:42,500
+within the markets?
+
+2638
+01:30:42,760 --> 01:30:45,240
+I know you've described really well previously in
+
+2639
+01:30:45,240 --> 01:30:47,500
+terms of having sort of your range, knowing
+
+2640
+01:30:47,500 --> 01:30:50,200
+where your premium, your discount is, understanding your
+
+2641
+01:30:50,200 --> 01:30:52,140
+buy and sell stops within those ranges and
+
+2642
+01:30:52,140 --> 01:30:53,060
+acting accordingly.
+
+2643
+01:30:53,520 --> 01:30:55,160
+Is there anything that we can elaborate on
+
+2644
+01:30:55,160 --> 01:30:55,500
+that at all?
+
+2645
+01:30:55,920 --> 01:30:58,740
+You need to remember that algorithms are there
+
+2646
+01:30:58,740 --> 01:31:01,540
+to create liquidity and volatility.
+
+2647
+01:31:02,320 --> 01:31:03,740
+They have no mind.
+
+2648
+01:31:04,720 --> 01:31:06,320
+They have to go to an area.
+
+2649
+01:31:06,920 --> 01:31:08,600
+They don't just go to an area.
+
+2650
+01:31:09,520 --> 01:31:11,640
+They're programmed by, no matter what you say,
+
+2651
+01:31:11,680 --> 01:31:13,940
+it comes down to a programmer programming them,
+
+2652
+01:31:13,940 --> 01:31:17,180
+programming whatever technicals they put in, whatever the
+
+2653
+01:31:17,180 --> 01:31:19,780
+mathematics is that make up this algorithm.
+
+2654
+01:31:20,500 --> 01:31:23,400
+So it's not only the premium and discount
+
+2655
+01:31:23,400 --> 01:31:25,820
+areas, but when you see the NASDAQ go
+
+2656
+01:31:25,820 --> 01:31:28,360
+into a full number, coming up 20 or
+
+2657
+01:31:28,360 --> 01:31:34,420
+30 handles, 19,200, all right, 200, 230,
+
+2658
+01:31:34,600 --> 01:31:39,600
+240, 250, 270, 275, 280, market's rallying, 275,
+
+2659
+01:31:39,680 --> 01:31:40,000
+280.
+
+2660
+01:31:40,460 --> 01:31:42,400
+You know it's printing at the main number.
+
+2661
+01:31:42,700 --> 01:31:43,440
+You just know it.
+
+2662
+01:31:43,720 --> 01:31:45,580
+And I know that those algorithms are going
+
+2663
+01:31:45,580 --> 01:31:46,620
+to make that print.
+
+2664
+01:31:47,220 --> 01:31:49,440
+But it's the same example could be made
+
+2665
+01:31:49,440 --> 01:31:53,180
+by any firm even number.
+
+2666
+01:31:54,000 --> 01:31:54,840
+Where is that?
+
+2667
+01:31:55,120 --> 01:31:58,620
+10, 20, 30, 40, 50, 60, 70, 80,
+
+2668
+01:31:59,100 --> 01:32:00,180
+especially 50.
+
+2669
+01:32:00,800 --> 01:32:03,960
+You know, they sit and they sit and
+
+2670
+01:32:03,960 --> 01:32:05,220
+they want to go to those numbers.
+
+2671
+01:32:05,420 --> 01:32:05,820
+Why?
+
+2672
+01:32:06,400 --> 01:32:08,220
+We should spend a little time talking about
+
+2673
+01:32:08,220 --> 01:32:11,980
+algorithms going to option strike price areas.
+
+2674
+01:32:12,540 --> 01:32:17,640
+We specialize in that as well because this
+
+2675
+01:32:17,640 --> 01:32:21,040
+market and this enormity, we gave the example,
+
+2676
+01:32:21,340 --> 01:32:23,460
+the positions in this market this day and
+
+2677
+01:32:23,460 --> 01:32:25,820
+age are multimillion share positions.
+
+2678
+01:32:26,320 --> 01:32:28,060
+It's not easy to put that kind of
+
+2679
+01:32:28,060 --> 01:32:28,820
+money to work.
+
+2680
+01:32:28,820 --> 01:32:30,600
+And they have to put it to work.
+
+2681
+01:32:30,700 --> 01:32:32,240
+It's their mandate to put it to work.
+
+2682
+01:32:32,360 --> 01:32:33,780
+Why am I giving you my money if
+
+2683
+01:32:33,780 --> 01:32:34,780
+you're not putting it to work?
+
+2684
+01:32:35,100 --> 01:32:36,260
+So they have to.
+
+2685
+01:32:36,400 --> 01:32:37,880
+So their positions are huge.
+
+2686
+01:32:38,520 --> 01:32:41,140
+Does anybody out there think that they just
+
+2687
+01:32:41,140 --> 01:32:43,100
+sit back and they buy and hold and
+
+2688
+01:32:43,100 --> 01:32:45,100
+smile and go home and have dinner with
+
+2689
+01:32:45,100 --> 01:32:45,580
+their wives?
+
+2690
+01:32:45,760 --> 01:32:47,440
+No, that's not the way this works.
+
+2691
+01:32:47,680 --> 01:32:49,340
+They hedge their positions as well.
+
+2692
+01:32:49,720 --> 01:32:51,240
+Where do they hedge their positions?
+
+2693
+01:32:51,420 --> 01:32:54,500
+For the most part, all right, options.
+
+2694
+01:32:55,260 --> 01:32:58,600
+So these strike prices become huge and the
+
+2695
+01:32:58,600 --> 01:33:00,400
+amount of puts and calls that sit at
+
+2696
+01:33:00,400 --> 01:33:03,440
+these strike prices, the algorithms know where they're
+
+2697
+01:33:03,440 --> 01:33:06,100
+sitting and they're programmed then to go to
+
+2698
+01:33:06,100 --> 01:33:07,080
+those strike places.
+
+2699
+01:33:07,500 --> 01:33:07,720
+Why?
+
+2700
+01:33:07,960 --> 01:33:10,480
+To create liquidity and volatility.
+
+2701
+01:33:10,960 --> 01:33:13,580
+That's all their mandate is.
+
+2702
+01:33:14,080 --> 01:33:14,940
+They're not human.
+
+2703
+01:33:15,320 --> 01:33:16,760
+They don't care about P&L.
+
+2704
+01:33:18,040 --> 01:33:19,120
+Understand that.
+
+2705
+01:33:20,840 --> 01:33:23,220
+Interesting to finish up on because I know
+
+2706
+01:33:23,220 --> 01:33:24,820
+it's a topic I've discussed previously on the
+
+2707
+01:33:24,820 --> 01:33:26,320
+podcast, but I haven't for some time.
+
+2708
+01:33:26,980 --> 01:33:29,540
+In terms of market makers and hunting stops,
+
+2709
+01:33:29,980 --> 01:33:31,540
+there's a big thing in the retail space
+
+2710
+01:33:31,540 --> 01:33:34,040
+of like the market makers, like your price
+
+2711
+01:33:34,040 --> 01:33:36,180
+hitting your stop loss, then going completely the
+
+2712
+01:33:36,180 --> 01:33:37,920
+other way, people feeling very targeted.
+
+2713
+01:33:38,440 --> 01:33:38,560
+Correct.
+
+2714
+01:33:38,740 --> 01:33:40,920
+And I've heard you say that that is
+
+2715
+01:33:40,920 --> 01:33:42,120
+a case, so that is something that does
+
+2716
+01:33:42,120 --> 01:33:42,680
+take place.
+
+2717
+01:33:42,840 --> 01:33:43,700
+Oh, 100 percent.
+
+2718
+01:33:44,480 --> 01:33:48,100
+One of the lock trades, as a member
+
+2719
+01:33:48,100 --> 01:33:50,480
+of the New York Stock Exchange, that a
+
+2720
+01:33:50,480 --> 01:33:52,640
+specialist made or if you were an agent
+
+2721
+01:33:52,640 --> 01:33:55,240
+and had size flow is to be on
+
+2722
+01:33:55,240 --> 01:33:56,640
+the other side of stop orders.
+
+2723
+01:33:57,240 --> 01:34:00,520
+OK, so conversely speaking, here's another little gimme
+
+2724
+01:34:00,520 --> 01:34:01,720
+for you folks out there.
+
+2725
+01:34:02,080 --> 01:34:04,600
+Retail traders, especially if you're going down to
+
+2726
+01:34:04,600 --> 01:34:07,280
+a number and the market is coming down
+
+2727
+01:34:07,280 --> 01:34:09,940
+and down and down and it's you know,
+
+2728
+01:34:09,940 --> 01:34:11,860
+the algorithms are going to print a number.
+
+2729
+01:34:13,040 --> 01:34:15,900
+Put an order in two ticks underneath the
+
+2730
+01:34:15,900 --> 01:34:17,940
+number, because why?
+
+2731
+01:34:18,040 --> 01:34:19,920
+Because you wind up being on the assumption
+
+2732
+01:34:19,920 --> 01:34:21,880
+is that there are stop orders at those
+
+2733
+01:34:21,880 --> 01:34:22,300
+prices.
+
+2734
+01:34:23,100 --> 01:34:25,180
+And the assumption is that you will be
+
+2735
+01:34:25,180 --> 01:34:27,980
+on the other side of a bad sale.
+
+2736
+01:34:28,960 --> 01:34:30,740
+The market is a buy and sell.
+
+2737
+01:34:31,640 --> 01:34:33,440
+There's a buyer and seller in every transaction.
+
+2738
+01:34:33,620 --> 01:34:34,340
+Somebody's going to be right.
+
+2739
+01:34:34,400 --> 01:34:35,340
+Somebody's going to be wrong.
+
+2740
+01:34:36,260 --> 01:34:37,700
+You want to be on the other side
+
+2741
+01:34:37,700 --> 01:34:38,340
+of stop orders.
+
+2742
+01:34:38,460 --> 01:34:39,900
+Yes, you're 100 percent right.
+
+2743
+01:34:40,080 --> 01:34:41,180
+You want to be on the other side
+
+2744
+01:34:41,180 --> 01:34:41,760
+of stop order.
+
+2745
+01:34:42,020 --> 01:34:44,260
+But it's not easy to identify where those
+
+2746
+01:34:44,260 --> 01:34:45,200
+stop orders lie.
+
+2747
+01:34:45,880 --> 01:34:47,300
+If you're going to put a stop order
+
+2748
+01:34:47,300 --> 01:34:49,560
+to protect yourself again, don't put it at
+
+2749
+01:34:49,560 --> 01:34:52,000
+50, because they're going to get hit.
+
+2750
+01:34:52,460 --> 01:34:53,840
+You know, put it at 48.
+
+2751
+01:34:54,040 --> 01:34:55,120
+Give yourself a chance.
+
+2752
+01:34:55,280 --> 01:34:57,180
+Give yourself a chance to breathe and for
+
+2753
+01:34:57,180 --> 01:34:58,240
+the position to be right.
+
+2754
+01:34:58,880 --> 01:35:00,020
+Don't put it at 50.
+
+2755
+01:35:00,120 --> 01:35:01,660
+You're going to get swept away by some
+
+2756
+01:35:01,660 --> 01:35:04,360
+intelligent buy like myself who wants to who
+
+2757
+01:35:04,360 --> 01:35:05,900
+wants to get long or if you're a
+
+2758
+01:35:05,900 --> 01:35:06,280
+mistake.
+
+2759
+01:35:08,000 --> 01:35:09,020
+Richie, I love that.
+
+2760
+01:35:09,200 --> 01:35:09,600
+I love that.
+
+2761
+01:35:09,660 --> 01:35:10,680
+And I'm sure we could keep going.
+
+2762
+01:35:10,800 --> 01:35:13,680
+But thank you for being with us today
+
+2763
+01:35:13,680 --> 01:35:14,940
+and sharing so much with us.
+
+2764
+01:35:15,060 --> 01:35:15,340
+My pleasure.
+
+2765
+01:35:15,480 --> 01:35:17,060
+And everyone at home, drop a comment of
+
+2766
+01:35:17,060 --> 01:35:19,260
+your biggest takeaway from this episode.
+
+2767
+01:35:19,360 --> 01:35:21,720
+There was so much, as always, and the
+
+2768
+01:35:21,720 --> 01:35:23,220
+links for Richie will be in the description
+
+2769
+01:35:23,220 --> 01:35:23,500
+below.
+
+2770
+01:35:23,620 --> 01:35:24,840
+So make sure you check those out as
+
+2771
+01:35:24,840 --> 01:35:25,040
+well.
+
+2772
+01:35:25,280 --> 01:35:26,620
+There'll be other episodes on screen.
+
+2773
+01:35:26,700 --> 01:35:27,400
+So check those out.
+
+2774
+01:35:27,460 --> 01:35:28,020
+Hit subscribe.
+
+2775
+01:35:28,180 --> 01:35:29,760
+And until next time, take care.

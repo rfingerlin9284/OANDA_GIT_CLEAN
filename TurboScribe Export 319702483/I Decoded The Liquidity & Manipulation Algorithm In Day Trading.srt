@@ -1,0 +1,1191 @@
+1
+00:00:33,780 --> 00:00:36,820
+Price tends to move from structure to structure,
+
+2
+00:00:37,180 --> 00:00:39,960
+squeezing one side of the market participants most
+
+3
+00:00:39,960 --> 00:00:40,480
+of the time.
+
+4
+00:00:40,940 --> 00:00:43,820
+It rewards one side of the market, while
+
+5
+00:00:43,820 --> 00:00:46,140
+punishing the opposite side of participants.
+
+6
+00:00:46,900 --> 00:00:51,360
+And liquidity clearouts are constant processes observed on
+
+7
+00:00:51,360 --> 00:00:52,320
+the markets every day.
+
+8
+00:00:52,810 --> 00:00:55,740
+Today we'll talk about liquidity extraction and you'll
+
+9
+00:00:55,740 --> 00:00:58,820
+finally understand why the market moves against you
+
+10
+00:00:58,820 --> 00:01:00,260
+the moment you enter the market.
+
+11
+00:01:00,800 --> 00:01:03,379
+So if you could, like, subscribe to the
+
+12
+00:01:03,379 --> 00:01:05,420
+channel and stick around for the full video.
+
+13
+00:01:10,980 --> 00:01:13,920
+Regardless of how long you've been trading, at
+
+14
+00:01:13,920 --> 00:01:16,640
+some point you should have questioned the depth
+
+15
+00:01:16,640 --> 00:01:18,860
+of the market you are trading, in other
+
+16
+00:01:18,860 --> 00:01:20,020
+words its liquidity.
+
+17
+00:01:20,460 --> 00:01:24,000
+Make no mistake, trading the EURUSD, for example,
+
+18
+00:01:24,300 --> 00:01:27,900
+offers different conditions than trading an instrument like
+
+19
+00:01:27,900 --> 00:01:30,560
+the Canadian dollar versus the New Zealand dollar,
+
+20
+00:01:31,020 --> 00:01:34,860
+or Bitcoin versus Shiba Inu coin, or Tesla
+
+21
+00:01:34,860 --> 00:01:36,960
+versus some random penny stock.
+
+22
+00:01:37,700 --> 00:01:40,380
+Liquidity is the number one element to make
+
+23
+00:01:40,380 --> 00:01:42,560
+a market functionable and competitive.
+
+24
+00:01:43,300 --> 00:01:45,040
+For a market to be rich in liquidity,
+
+25
+00:01:45,540 --> 00:01:48,180
+there must be an ample participation of both
+
+26
+00:01:48,180 --> 00:01:49,260
+buyers and sellers.
+
+27
+00:01:49,960 --> 00:01:51,700
+This is why it makes sense for the
+
+28
+00:01:51,700 --> 00:01:54,800
+smart money or the market makers to extract
+
+29
+00:01:54,800 --> 00:01:56,240
+the liquidity from the market.
+
+30
+00:01:56,940 --> 00:01:59,160
+Liquidity hunting is a very common practice.
+
+31
+00:01:59,820 --> 00:02:01,960
+It's nothing more than the art of flushing
+
+32
+00:02:01,960 --> 00:02:04,900
+the losing players out of the market, which
+
+33
+00:02:04,900 --> 00:02:07,759
+are known as weak longs or weak shorts.
+
+34
+00:02:13,230 --> 00:02:16,490
+The larger the liquidity zone buildup, the more
+
+35
+00:02:16,490 --> 00:02:18,530
+likely it is for that zone to be
+
+36
+00:02:18,530 --> 00:02:21,710
+targeted by the smart money, especially if it's
+
+37
+00:02:21,710 --> 00:02:23,050
+a counter-trend setup.
+
+38
+00:02:23,710 --> 00:02:27,470
+Often liquidity clearouts will form against the main
+
+39
+00:02:27,470 --> 00:02:27,830
+trend.
+
+40
+00:02:28,590 --> 00:02:31,950
+For example, in an extended bullish trend structure,
+
+41
+00:02:32,310 --> 00:02:34,810
+in a consolidation, you will often see a
+
+42
+00:02:34,810 --> 00:02:38,010
+clearout of highs and a price reversal downwards.
+
+43
+00:02:38,810 --> 00:02:41,110
+This is more common in very liquid markets,
+
+44
+00:02:41,390 --> 00:02:43,530
+such as forex or stocks that trade on
+
+45
+00:02:43,530 --> 00:02:44,290
+strong volume.
+
+46
+00:02:44,930 --> 00:02:45,890
+And why is that?
+
+47
+00:02:45,890 --> 00:02:49,570
+Because smart money knows how retail traders think.
+
+48
+00:02:50,370 --> 00:02:53,090
+Smart money knows how retail traders use different
+
+49
+00:02:53,090 --> 00:02:57,490
+indicators, moving averages, candlesticks and chart patterns in
+
+50
+00:02:57,490 --> 00:02:59,750
+their attempt to day trade or scalp the
+
+51
+00:02:59,750 --> 00:03:00,170
+markets.
+
+52
+00:03:00,970 --> 00:03:03,890
+Smart money can easily trap retail traders into
+
+53
+00:03:03,890 --> 00:03:07,090
+the market at poor trade locations, and then
+
+54
+00:03:07,090 --> 00:03:09,830
+move against their positions, stopping them out.
+
+55
+00:03:10,290 --> 00:03:13,290
+They know that retail traders are programmed with
+
+56
+00:03:13,290 --> 00:03:15,150
+the phrase, trend is your friend.
+
+57
+00:03:15,770 --> 00:03:18,850
+That's why many clearouts will be formed against
+
+58
+00:03:18,850 --> 00:03:22,250
+the overall trend direction or against overall retail
+
+59
+00:03:22,250 --> 00:03:23,430
+trader participation.
+
+60
+00:03:24,970 --> 00:03:28,690
+Here's how liquidity is often positioned around structures
+
+61
+00:03:28,690 --> 00:03:29,350
+in the market.
+
+62
+00:03:30,010 --> 00:03:32,810
+Many traders will use these price levels to
+
+63
+00:03:32,810 --> 00:03:35,610
+place their entries or exits at, but more
+
+64
+00:03:35,610 --> 00:03:38,110
+frequently their exits or stop losses.
+
+65
+00:03:38,110 --> 00:03:40,930
+And these are exactly the zones used by
+
+66
+00:03:40,930 --> 00:03:43,990
+the smart money to trigger a liquidity clearout.
+
+67
+00:03:44,710 --> 00:03:47,850
+Institutional players cannot trade the same as the
+
+68
+00:03:47,850 --> 00:03:51,150
+retail trader, because in low liquidity price areas,
+
+69
+00:03:51,570 --> 00:03:53,850
+they might push price too much with large
+
+70
+00:03:53,850 --> 00:03:54,270
+orders.
+
+71
+00:03:54,850 --> 00:03:57,370
+So they use high liquidity zones to put
+
+72
+00:03:57,370 --> 00:04:00,110
+their own large orders in the market, without
+
+73
+00:04:00,110 --> 00:04:02,070
+having too much impact on the price.
+
+74
+00:04:03,050 --> 00:04:06,170
+Clearouts of liquidity are frequent in crypto and
+
+75
+00:04:06,170 --> 00:04:09,830
+forex markets, because a strong trending market attracts
+
+76
+00:04:09,830 --> 00:04:13,590
+many unexperienced traders, who step into margin trading,
+
+77
+00:04:14,050 --> 00:04:16,529
+usually buying around the lows and the highs.
+
+78
+00:04:17,130 --> 00:04:19,550
+Since they are unaware of the trap, it's
+
+79
+00:04:19,550 --> 00:04:22,530
+relatively easy for the market maker to replay
+
+80
+00:04:22,530 --> 00:04:26,190
+the pattern repeatedly, stopping the traders with liquidity
+
+81
+00:04:26,190 --> 00:04:26,770
+clearouts.
+
+82
+00:04:32,260 --> 00:04:35,760
+One critical concept for a liquidity clearout is
+
+83
+00:04:35,760 --> 00:04:38,140
+the consistency of structural symmetry.
+
+84
+00:04:38,840 --> 00:04:42,480
+Most targeted clearouts will happen around structures where
+
+85
+00:04:42,480 --> 00:04:45,900
+the price is consistently bouncing from a demand
+
+86
+00:04:45,900 --> 00:04:48,480
+or a support level, or from a resistance
+
+87
+00:04:48,480 --> 00:04:52,020
+or a supply level for multiple times before
+
+88
+00:04:52,020 --> 00:04:53,200
+it actually breaks it.
+
+89
+00:04:53,960 --> 00:04:56,880
+So very important, you should focus only on
+
+90
+00:04:56,880 --> 00:05:00,800
+such structures to identify and trade liquidity clearouts.
+
+91
+00:05:00,800 --> 00:05:03,960
+The more bounces in the structure, the better.
+
+92
+00:05:09,720 --> 00:05:12,620
+As time passes, and if price cannot break
+
+93
+00:05:12,620 --> 00:05:16,120
+areas with multiple highs or lows, chances are
+
+94
+00:05:16,120 --> 00:05:19,620
+the liquidity around those price levels will increase
+
+95
+00:05:19,620 --> 00:05:20,340
+with time.
+
+96
+00:05:20,880 --> 00:05:23,280
+The more time it passes, the more the
+
+97
+00:05:23,280 --> 00:05:26,400
+liquidity will increase, if major highs and lows
+
+98
+00:05:26,400 --> 00:05:27,080
+don't break.
+
+99
+00:05:27,740 --> 00:05:29,920
+Because of this factor, if you want to
+
+100
+00:05:29,920 --> 00:05:32,640
+trade a liquidity hunt pattern, you should be
+
+101
+00:05:32,640 --> 00:05:34,960
+aware of how time plays a role in
+
+102
+00:05:34,960 --> 00:05:39,140
+consolidating the orders above or under key liquidity
+
+103
+00:05:39,140 --> 00:05:39,660
+zones.
+
+104
+00:05:45,440 --> 00:05:48,920
+Now, a clearout is a liquidation event where
+
+105
+00:05:48,920 --> 00:05:51,660
+the stop losses of buyers or sellers are
+
+106
+00:05:51,660 --> 00:05:54,640
+taken out and the breakout traders are trapped
+
+107
+00:05:54,640 --> 00:05:54,940
+in.
+
+108
+00:05:55,760 --> 00:05:58,880
+Liquidity clearout and stop loss hunting are similar
+
+109
+00:05:58,880 --> 00:05:59,520
+concepts.
+
+110
+00:06:00,280 --> 00:06:02,920
+Stop loss hunting can happen around any price
+
+111
+00:06:02,920 --> 00:06:06,260
+or no structure at all, while a liquidity
+
+112
+00:06:06,260 --> 00:06:09,100
+clearout will most of the time happen around
+
+113
+00:06:09,100 --> 00:06:12,120
+dense price structures with multiple bounces.
+
+114
+00:06:13,040 --> 00:06:16,900
+So remember, liquidity clearouts are most common around
+
+115
+00:06:16,900 --> 00:06:20,760
+symmetrical structures, where many traders will watch the
+
+116
+00:06:20,760 --> 00:06:23,900
+same price level or place stop losses around
+
+117
+00:06:23,900 --> 00:06:25,180
+the same price level.
+
+118
+00:06:25,880 --> 00:06:29,020
+Therefore, market makers would want to see that
+
+119
+00:06:29,020 --> 00:06:33,120
+lever broken and enter their positions while liquidation
+
+120
+00:06:33,120 --> 00:06:36,080
+is taking place and absorb opposite orders.
+
+121
+00:06:41,960 --> 00:06:44,960
+For retail traders like you and me, the
+
+122
+00:06:44,960 --> 00:06:47,800
+aim should be to spot such potential liquidity
+
+123
+00:06:47,800 --> 00:06:50,380
+zones and join the game of the market
+
+124
+00:06:50,380 --> 00:06:53,400
+maker, and to avoid being a liquidity target.
+
+125
+00:06:54,040 --> 00:06:57,480
+A liquidity clearout should always present itself with
+
+126
+00:06:57,480 --> 00:07:00,740
+a rapid, strong reversal move after a critical
+
+127
+00:07:00,740 --> 00:07:02,800
+low or high is taken out.
+
+128
+00:07:03,600 --> 00:07:06,920
+Basically, a rapid rotation of the price back
+
+129
+00:07:06,920 --> 00:07:09,260
+into the structural support or resistance.
+
+130
+00:07:09,900 --> 00:07:12,500
+The speed of the rotation back will usually
+
+131
+00:07:12,500 --> 00:07:14,920
+depend on the market or the liquidity of
+
+132
+00:07:14,920 --> 00:07:15,380
+the market.
+
+133
+00:07:16,080 --> 00:07:19,160
+In some markets, the reversal back might take
+
+134
+00:07:19,160 --> 00:07:22,040
+15 or 30 minutes, as the smart money
+
+135
+00:07:22,040 --> 00:07:24,760
+needs to collect as many orders as possible
+
+136
+00:07:24,760 --> 00:07:28,380
+over time, while in forex or crypto, the
+
+137
+00:07:28,380 --> 00:07:31,420
+reversal will be much quicker on average, between
+
+138
+00:07:31,420 --> 00:07:34,520
+1 to 15 minutes, since those markets are
+
+139
+00:07:34,520 --> 00:07:35,400
+much more liquid.
+
+140
+00:07:40,920 --> 00:07:43,260
+If the structure is not even on highs
+
+141
+00:07:43,260 --> 00:07:46,980
+or lows positioning, for example, when highs or
+
+142
+00:07:46,980 --> 00:07:49,560
+lows are connected through a trend line instead
+
+143
+00:07:49,560 --> 00:07:52,080
+of a flat line, then the main area
+
+144
+00:07:52,080 --> 00:07:54,720
+to watch is the lowest low or the
+
+145
+00:07:54,720 --> 00:07:57,580
+highest high of the structure, that is, where
+
+146
+00:07:57,580 --> 00:08:00,740
+the majority of condensed stop losses will sit
+
+147
+00:08:00,740 --> 00:08:04,700
+and where breakout traders might initiate other positions.
+
+148
+00:08:05,760 --> 00:08:08,340
+This is the difference between a flat versus
+
+149
+00:08:08,340 --> 00:08:11,580
+a trend line positioning of lows and the
+
+150
+00:08:11,580 --> 00:08:13,300
+importance of the deepest low.
+
+151
+00:08:14,400 --> 00:08:17,180
+No matter how the structure is positioned, the
+
+152
+00:08:17,180 --> 00:08:19,060
+low of the structure will be the key
+
+153
+00:08:19,060 --> 00:08:21,320
+level that the market maker will want to
+
+154
+00:08:21,320 --> 00:08:24,100
+clear out and where the majority of stops
+
+155
+00:08:24,100 --> 00:08:25,200
+will likely sit.
+
+156
+00:08:26,240 --> 00:08:29,580
+There's a difference between a targeted and a
+
+157
+00:08:29,580 --> 00:08:33,500
+non-targeted liquidity clearout, meaning triggered by a
+
+158
+00:08:33,500 --> 00:08:36,679
+market maker or triggered by the overall market
+
+159
+00:08:36,679 --> 00:08:37,179
+action.
+
+160
+00:08:37,760 --> 00:08:40,200
+On the left side, we have a targeted
+
+161
+00:08:40,200 --> 00:08:43,620
+attempt and on the right, a non-targeted
+
+162
+00:08:43,620 --> 00:08:43,880
+one.
+
+163
+00:08:44,520 --> 00:08:48,140
+The difference between strong quick moves initiated by
+
+164
+00:08:48,140 --> 00:08:50,880
+the smart money and the move triggered by
+
+165
+00:08:50,880 --> 00:08:54,300
+the overall market action is usually spotted depending
+
+166
+00:08:54,300 --> 00:08:57,580
+on where price starts the actual move and
+
+167
+00:08:57,580 --> 00:08:59,080
+if that move is consistent.
+
+168
+00:08:59,900 --> 00:09:02,240
+In the case of a targeted attempt, most
+
+169
+00:09:02,240 --> 00:09:04,600
+of these moves will be initiated in the
+
+170
+00:09:04,600 --> 00:09:07,300
+middle of the structure, where not much liquidity
+
+171
+00:09:07,300 --> 00:09:07,760
+sits.
+
+172
+00:09:08,520 --> 00:09:12,040
+Meanwhile, strong moves triggered by the overall market
+
+173
+00:09:12,040 --> 00:09:14,580
+action are usually going to be on very
+
+174
+00:09:14,580 --> 00:09:17,160
+symmetrical and obvious price extremes.
+
+175
+00:09:22,810 --> 00:09:26,190
+After the liquidity clearout under the lows or
+
+176
+00:09:26,190 --> 00:09:29,410
+above the highs, the price should start reversing
+
+177
+00:09:29,410 --> 00:09:32,350
+back inside the structure relatively quickly.
+
+178
+00:09:33,090 --> 00:09:34,030
+Timing is the key.
+
+179
+00:09:34,570 --> 00:09:36,610
+Let's say you're a scalper and you're using
+
+180
+00:09:36,610 --> 00:09:37,550
+the 1-minute chart.
+
+181
+00:09:38,030 --> 00:09:40,270
+My own rule is that it shouldn't take
+
+182
+00:09:40,270 --> 00:09:43,010
+more than 10 1-minute candles for the
+
+183
+00:09:43,010 --> 00:09:45,490
+price to rotate back above support.
+
+184
+00:09:45,910 --> 00:09:47,950
+This depends a lot on how big the
+
+185
+00:09:47,950 --> 00:09:50,790
+structure is, how many candles are in each
+
+186
+00:09:50,790 --> 00:09:52,050
+leg of the structure.
+
+187
+00:09:52,650 --> 00:09:55,350
+The more candles per leg, the longer it
+
+188
+00:09:55,350 --> 00:09:57,970
+might take for the liquidity clearout move to
+
+189
+00:09:57,970 --> 00:09:58,290
+happen.
+
+190
+00:09:59,010 --> 00:10:01,530
+But it shouldn't be more than 10 candles.
+
+191
+00:10:02,190 --> 00:10:04,790
+In the best scenario, it happens within the
+
+192
+00:10:04,790 --> 00:10:06,510
+first 3-5 candles.
+
+193
+00:10:07,230 --> 00:10:10,070
+Again, it's a relative concept as it scales
+
+194
+00:10:10,070 --> 00:10:12,190
+with the market and the time frame chosen.
+
+195
+00:10:17,710 --> 00:10:20,250
+To trade a liquidity clearout, you need a
+
+196
+00:10:20,250 --> 00:10:22,070
+clear plan to find the pattern.
+
+197
+00:10:22,070 --> 00:10:25,270
+Using price alerts is a useful way to
+
+198
+00:10:25,270 --> 00:10:26,830
+support the searching process.
+
+199
+00:10:27,090 --> 00:10:28,670
+The plan is quite simple.
+
+200
+00:10:29,150 --> 00:10:32,710
+Once the potential symmetrical structure is spotted, with
+
+201
+00:10:32,710 --> 00:10:36,470
+variables that fit a potential liquidity clearout, you
+
+202
+00:10:36,470 --> 00:10:39,530
+place an alert below the structural lows or
+
+203
+00:10:39,530 --> 00:10:42,350
+above highs, depending if it's a bull or
+
+204
+00:10:42,350 --> 00:10:43,190
+a bear pattern.
+
+205
+00:10:43,830 --> 00:10:46,430
+This is important because once an alert is
+
+206
+00:10:46,430 --> 00:10:49,110
+placed, you can relax and do other stuff
+
+207
+00:10:49,110 --> 00:10:52,030
+and only come back once the alert rings
+
+208
+00:10:52,030 --> 00:10:54,990
+and the price clears the required liquidity area.
+
+209
+00:10:55,710 --> 00:10:57,510
+It's an important tip that helped me a
+
+210
+00:10:57,510 --> 00:10:57,690
+lot.
+
+211
+00:10:58,130 --> 00:11:00,950
+Using price alerts is critical to minimize the
+
+212
+00:11:00,950 --> 00:11:03,550
+screen time and to be more patient and
+
+213
+00:11:03,550 --> 00:11:04,870
+fresh as a trader.
+
+214
+00:11:10,510 --> 00:11:13,300
+The key when trading a liquidity hunt is
+
+215
+00:11:13,300 --> 00:11:14,420
+to focus on volume.
+
+216
+00:11:14,960 --> 00:11:17,440
+At the clearout price area, there should be
+
+217
+00:11:17,440 --> 00:11:18,800
+significant volume traded.
+
+218
+00:11:19,600 --> 00:11:22,020
+Let's analyze this liquidity clearout pattern.
+
+219
+00:11:22,020 --> 00:11:25,500
+We have a clear downtrend with lower lows
+
+220
+00:11:25,500 --> 00:11:27,200
+and lower highs in the structure.
+
+221
+00:11:27,900 --> 00:11:30,420
+This is our main focus point, the lowest
+
+222
+00:11:30,420 --> 00:11:31,520
+low in the structure.
+
+223
+00:11:32,240 --> 00:11:34,260
+This is where our price alert should be.
+
+224
+00:11:34,940 --> 00:11:37,480
+A drop into the lows will usually be
+
+225
+00:11:37,480 --> 00:11:40,220
+initiated by the market maker with a heavy
+
+226
+00:11:40,220 --> 00:11:43,820
+market order that will remove liquidity and swipe
+
+227
+00:11:43,820 --> 00:11:45,140
+price under the lows.
+
+228
+00:11:45,660 --> 00:11:47,880
+Look at the volume traded in the liquidity
+
+229
+00:11:47,880 --> 00:11:48,280
+hunt.
+
+230
+00:11:48,280 --> 00:11:51,920
+It increased considerably once the lowest low in
+
+231
+00:11:51,920 --> 00:11:53,640
+the structure was taken out.
+
+232
+00:11:54,520 --> 00:11:56,380
+For an entry, you should wait for the
+
+233
+00:11:56,380 --> 00:11:59,140
+liquidity clearout and then for the price to
+
+234
+00:11:59,140 --> 00:12:02,080
+start moving back above support for a long
+
+235
+00:12:02,080 --> 00:12:02,420
+entry.
+
+236
+00:12:03,000 --> 00:12:05,400
+Your risk should be the lowest low of
+
+237
+00:12:05,400 --> 00:12:06,020
+the clearout.
+
+238
+00:12:06,560 --> 00:12:08,340
+This is where your stop loss should be.
+
+239
+00:12:09,560 --> 00:12:11,420
+Here's another liquidity hunt.
+
+240
+00:12:11,880 --> 00:12:14,700
+We first observe a heavy sell-off ahead
+
+241
+00:12:14,700 --> 00:12:15,420
+of the structure.
+
+242
+00:12:15,420 --> 00:12:19,660
+We then find a symmetrical structure with approximately
+
+243
+00:12:19,660 --> 00:12:23,660
+even lows, ensuring even stop loss placement under
+
+244
+00:12:23,660 --> 00:12:24,020
+them.
+
+245
+00:12:24,700 --> 00:12:27,360
+High volume on the clearout with the highest
+
+246
+00:12:27,360 --> 00:12:29,620
+volume candle in the whole structure.
+
+247
+00:12:30,460 --> 00:12:33,440
+Volatility on the market is high, meaning we
+
+248
+00:12:33,440 --> 00:12:34,520
+have a wide range.
+
+249
+00:12:35,160 --> 00:12:37,380
+And we have a sharp and quick reversal
+
+250
+00:12:37,380 --> 00:12:40,460
+after the clearout and the reclaim of the
+
+251
+00:12:40,460 --> 00:12:41,280
+previous support.
+
+252
+00:12:41,280 --> 00:12:45,300
+So after the liquidity clearout, an important sign
+
+253
+00:12:45,300 --> 00:12:46,320
+should be the volume.
+
+254
+00:12:46,860 --> 00:12:49,660
+The volume traded was the highest 1-minute
+
+255
+00:12:49,660 --> 00:12:53,320
+volume candle inside the whole price structure, as
+
+256
+00:12:53,320 --> 00:12:57,120
+price quickly reclaimed support and then pushed higher.
+
+257
+00:12:57,660 --> 00:12:59,420
+This was a good moment to open a
+
+258
+00:12:59,420 --> 00:13:02,320
+buy position, with the stop loss below the
+
+259
+00:13:02,320 --> 00:13:03,320
+most recent low.
+
+260
+00:13:04,480 --> 00:13:07,460
+The key component for trading the clearout is
+
+261
+00:13:07,460 --> 00:13:09,920
+that it has to reclaim the support for
+
+262
+00:13:09,920 --> 00:13:12,660
+a long trade or the resistance for a
+
+263
+00:13:12,660 --> 00:13:13,240
+short trade.
+
+264
+00:13:13,680 --> 00:13:16,140
+If it doesn't reclaim, there is no trade
+
+265
+00:13:16,140 --> 00:13:17,920
+in the first place, it's a breakout.
+
+266
+00:13:18,560 --> 00:13:21,280
+Here's an example with high volume clearout under
+
+267
+00:13:21,280 --> 00:13:24,100
+the lows, as the long traders are stopped
+
+268
+00:13:24,100 --> 00:13:24,480
+out.
+
+269
+00:13:24,840 --> 00:13:27,840
+But the price didn't reclaim the support level,
+
+270
+00:13:28,360 --> 00:13:30,040
+thus this is not a long trade.
+
+271
+00:13:30,700 --> 00:13:32,260
+Remember this important point.
+
+272
+00:13:32,660 --> 00:13:36,060
+The faster the price reclaims support and pushes
+
+273
+00:13:36,060 --> 00:13:39,120
+above after the clearout, the better the trade.
+
+274
+00:13:39,400 --> 00:13:42,700
+On the best trades, price should reclaim support
+
+275
+00:13:42,700 --> 00:13:45,640
+within the first 5 candles after the clearout.
+
+276
+00:13:47,000 --> 00:13:50,060
+If the structure is not symmetrical, with evenly
+
+277
+00:13:50,060 --> 00:13:53,220
+positioned lows, it's hard to base the entry.
+
+278
+00:13:53,840 --> 00:13:56,040
+That is why I prefer to trade structures
+
+279
+00:13:56,040 --> 00:13:57,800
+that are clean and symmetrical.
+
+280
+00:13:58,500 --> 00:14:02,040
+This allows precise entry conditions across all trades.
+
+281
+00:14:02,620 --> 00:14:05,480
+Let's look at this asymmetric structure and clearout.
+
+282
+00:14:05,480 --> 00:14:08,060
+You can observe that the lows are not
+
+283
+00:14:08,060 --> 00:14:08,920
+evenly positioned.
+
+284
+00:14:09,560 --> 00:14:11,160
+We even have some higher lows.
+
+285
+00:14:11,900 --> 00:14:14,520
+This is the deepest lower low, the main
+
+286
+00:14:14,520 --> 00:14:16,140
+area that you should wait for.
+
+287
+00:14:16,720 --> 00:14:19,300
+We have the liquidity clearout and the quick
+
+288
+00:14:19,300 --> 00:14:20,980
+reversal after the clearout.
+
+289
+00:14:21,540 --> 00:14:23,820
+But now the question is, where's our entry?
+
+290
+00:14:24,400 --> 00:14:26,800
+This isn't so clear like in a symmetrical
+
+291
+00:14:26,800 --> 00:14:30,040
+structure, that's why I prefer the symmetrical ones.
+
+292
+00:14:31,260 --> 00:14:33,860
+If you found value and learned something new,
+
+293
+00:14:34,200 --> 00:14:34,820
+leave us a like.
+
+294
+00:14:35,220 --> 00:14:36,940
+This way we'll know if you'd like to
+
+295
+00:14:36,940 --> 00:14:38,380
+see more videos like this one.
+
+296
+00:14:38,920 --> 00:14:41,220
+And check out our academy program if you
+
+297
+00:14:41,220 --> 00:14:43,000
+want to further level up your trading.
+
+298
+00:14:44,280 --> 00:14:45,200
+Until next time.

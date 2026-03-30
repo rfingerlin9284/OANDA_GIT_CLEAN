@@ -1,0 +1,131 @@
+(0:00 - 0:21)
+Hello traders, Joanne again from Binary Trader, the YouTube channel focusing solely on binary options trading. Today I'm gonna make a $10 challenge, using the fractal indicator and moving average crossover based strategy, that I showed in my previous video. Before diving in, let me kindly ask you to like the video, and subscribe to the channel.
+
+(0:22 - 0:36)
+Thank you very much for the support. Let's start. I am trading at pocket option, you can find the platform link in the description as usual.
+
+(0:37 - 0:56)
+In my previous video, I showed this simple yet profitable strategy. Let's add a fractal indicator with period 3. Let's add a moving average with a period of 3. Apply a brighter color and make the line thicker. Add another moving average with a period of 7. Make it more visible as well, with a different color.
+
+(0:57 - 1:13)
+I trade this strategy on the 1 minute time frame, and the trade duration is also 1 minute. Set the trading amount to $10. Choose instruments with decent payout levels.
+
+(1:14 - 1:27)
+The $10 challenge means I start trading with $10 and risk everything I won on the subsequent trades. Basically throughout the whole session, I will only risk the $10 I started with. See how far I can get.
+
+(1:29 - 1:59)
+So this strategy in short. When the 3 period moving average, referred to as the faster SMA, set to white on my screen, crosses above the 7 period one, referred to as the slower SMA, yellow on my screen, and the fractal indicator printed a red spike below the turning point candle, we take it as a bullish sign and bet the price will go higher in the next minute. When the faster SMA crosses under the slower one, and a green spike is printed above the turning point candle, we bet the price will go lower.
+
+(2:00 - 2:17)
+It's that simple. Though to make the strategy really shine, an understanding of the surrounding market structure, identifying supply and demand zones, key price levels, trending in the market is crucial. Here the white moving average crossed below the yellow one.
+
+(2:18 - 2:51)
+Wait for the green fractal spike. There it is, bet the price will go lower. If you want to start trading, follow the platform link in the video description below to join Pocket Option.
+
+(2:53 - 3:16)
+Remember, after signing up, you should practice on demo balance first. You should invest real money only after you completely understand how the platform works and gained enough confidence with the strategy of your choice. If you use my link, you may also use the promo code 50START, also found in the description, to get an extra 50% on your first deposit.
+
+(3:25 - 3:34)
+Price went down. Set trading amount to $19.20 and look for another setup. This came fast.
+
+(3:34 - 3:44)
+Fractal already printed a red spike. Slower SMA is going to cross above the faster one. Wait for the close of the current candle to confirm the cross and bet the price will go higher.
+
+(3:48 - 4:01)
+While waiting here, you are welcome to share your thoughts in the comment section. Well, it tries to go down. It might cancel the cross.
+
+(4:25 - 4:41)
+This was a perfect example for the importance of patience. It seemed to turn into a big bearish candle at the middle of the frame, which could have canceled the cross, but it ended up as a doji candle instead. A candle without a meaningful body, but long wicks is called a doji candle.
+
+(4:41 - 4:58)
+It confirmed the cross and we have our entry. It went down quite a bit, but we have a lot of time until the trade ends. So do not worry.
+
+(4:59 - 5:29)
+It does not matter where the price is during the trade. Only the level at the end is what matters. As you've seen, it was not too promising during the trade, but at the end, it went up.
+
+(5:33 - 6:00)
+Another potential setup here. This is the perfect time to press the like button and subscribe to my channel, so you don't miss any upcoming content. Don't forget to select all notifications after subscribing.
+
+(6:21 - 7:01)
+Don't forget to check the payout levels regularly, as those might decrease over time. I only keep instruments with high payouts on my watch list. This was also a bit tough at the middle of the candle, but it worked out.
+
+(7:21 - 8:02)
+If you want to try trading at this platform, press on the link in the video description and sign up. You can then start practicing on Demo Balance for free. When the current green fractal was printed, looking at it in combination with the previous one, you should be able to identify the slight downtrend here, which gives a good confidence in our entry here.
+
+(9:09 - 9:58)
+The big bearish candle together with the small bullish one forms a bearish engulfing candle pattern, which is a strong indicator of an upcoming downward trend. The cross has a wide opening due to the huge bearish candles. This and the bearish engulfer tell me there is a high chance this reversal will continue here.
+
+(10:53 - 11:01)
+I'm trading for roughly half an hour. I feel like I need a short break now. I am back.
+
+(11:02 - 11:27)
+It's good to have short breaks during a session, so you can clear your mind a bit, fresh yourself up. Here we have a steep and clear downtrend. The signal from our strategy in combination with this huge bearish candle gives some confidence in the current trade.
+
+(12:45 - 13:06)
+If you want to start trading, follow the platform link in the video description below to join Pocket Option. Remember, after signing up, you should practice on Demo Balance first. You should invest real money only after you completely understand how the platform works and gained enough confidence with the strategy of your choice.
+
+(13:07 - 14:29)
+If you use my link, you may also use the promo code 50START, also found in the description, to get an extra 50% on your first deposit. I'm almost starving, so I'm gonna keep another short break. You might say the current amount is almost $1,000.
+
+(14:30 - 14:36)
+That's a great amount. You gonna either lower your risk level or end your trading session. That's perfectly right.
+
+(14:37 - 14:50)
+End your session, close your computer and go do the things you like. Many times I keep short sessions like that. But since this is a challenge video and I'm still focused, I will keep trading and probably catch a few more nice setups.
+
+(15:08 - 15:16)
+Please like the video, subscribe to the channel. It's just a few clicks for you, but helps me a lot. Thank you for the support.
+
+(15:38 - 15:53)
+I love these huge bullish candles. Yes, with a binary option it does not matter how big the candle is, but the bigger the candle, the better your analysis might have been. Look at the bullish engulfer.
+
+(15:53 - 16:32)
+That will give confidence in the signal when we receive it. Let's risk the whole balance again into splits. On this platform, 1,000 is the maximum amount to risk on a single trade.
+
+(16:32 - 16:46)
+But you can place any number of trades. Probably it would have been easier and safer to place two trades with $900. Next time.
+
+(17:37 - 17:47)
+Please like the video if you enjoy it. If you want to see more, subscribe to the channel, so you not miss any upcoming content. Share your thoughts in the comment section.
+
+(18:31 - 18:43)
+As you see, 90% of the time is just waiting. Looking for a potential setup, then doing the analysis, then waiting for the entry signal. Waiting for the trade after entered.
+
+(18:43 - 19:44)
+Then starting the process over again. With the next trade I can go up to gaining slightly above 11,000, while technically I was only risking the $10 I started with. Though I left $300 out of the trade.
+
+(19:44 - 19:57)
+So I will keep that and be in minor profit still. To be honest, I had a few attempts prior to this, where I failed at different levels. But I was only losing $10 on each.
+
+(19:58 - 20:06)
+So my total loss is somewhere around $60. That's not comparable to the 11 grand. Not even to the 6,000, you would say.
+
+(20:06 - 20:16)
+So it would make sense to stop now either. But just for the sake of the video, I will do one more trade. If I lose, my total loss will be $70, while I keep the $300.
+
+(20:16 - 20:29)
+That would mean a minor profit of $230. Which is still more than my daily salary was at my last job. But you can consider it as free tokens for 23 upcoming $10 challenges for future trading sessions.
+
+(20:29 - 20:41)
+Or $230 for $1 challenges. That's a bag of opportunities. Let's do the analysis.
+
+(20:42 - 20:49)
+Clear downtrend, check. Cross was confirmed on the previous candle, check. Green fractal is highly likely to be printed in a few seconds.
+
+(20:50 - 20:57)
+Though the consolidation zone here bothers me quite a bit. But this bearish engulfing pattern gives confidence. Let's do it.
+
+(21:05 - 21:13)
+I am trading now for almost an hour. So I will end my session regardless of the outcome. Always keep your trading session short.
+
+(21:14 - 22:00)
+After a while it becomes stressful, you likely lose focus, and that will lead to bad decisions, which lead to losses. This was tough. Perfect ending to a session.
+
+(22:02 - 22:10)
+Hope you enjoyed today's video. If you did, please press the like button and subscribe to my channel. Feel free to share your thoughts in the comment section.
+
+(22:11 - 22:24)
+If you haven't done it yet, use the platform link in the description to join Pocket Option today and start trading binary options. Thank you very much for watching my video. I wish you successful trading.
+
+(22:24 - 22:25)
+See you next time.

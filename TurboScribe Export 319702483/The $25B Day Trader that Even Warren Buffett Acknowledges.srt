@@ -1,0 +1,1703 @@
+1
+00:00:00,140 --> 00:00:02,760
+It's been said that a good investor must
+
+2
+00:00:02,760 --> 00:00:05,660
+always strive to crush his most cherished beliefs
+
+3
+00:00:05,660 --> 00:00:10,700
+Well, during Berkshire Hathaway's 2021 annual shareholder meeting,
+
+4
+00:00:11,160 --> 00:00:13,940
+Warren Buffett and Charlie Munger crushed one of
+
+5
+00:00:13,940 --> 00:00:15,800
+mine What do you think of quants?
+
+6
+00:00:16,480 --> 00:00:18,980
+Jim Simon's medallion fund has done 39%
+
+7
+00:00:18,980 --> 00:00:21,220
+net of fees for three decades, which proves
+
+8
+00:00:21,220 --> 00:00:23,540
+that it works But they were very very
+
+9
+00:00:23,540 --> 00:00:23,860
+smart.
+
+10
+00:00:24,060 --> 00:00:25,100
+Yes, they got very rich.
+
+11
+00:00:25,240 --> 00:00:27,360
+Very very smart and very smart and very
+
+12
+00:00:27,360 --> 00:00:29,840
+rich And very high grade by the way.
+
+13
+00:00:30,340 --> 00:00:33,060
+Yeah, Jim Simons We're not we're not trying
+
+14
+00:00:33,060 --> 00:00:34,100
+to make money trading stocks.
+
+15
+00:00:34,540 --> 00:00:36,300
+No, we don't think we know how to
+
+16
+00:00:36,300 --> 00:00:36,580
+do it.
+
+17
+00:00:36,660 --> 00:00:39,280
+I mean it isn't Charles Darwin used to
+
+18
+00:00:39,280 --> 00:00:42,260
+say that anytime he found evidence that contradicted
+
+19
+00:00:42,260 --> 00:00:45,000
+his previous convictions He had to write it
+
+20
+00:00:45,000 --> 00:00:48,020
+down in the first 30 minutes because otherwise
+
+21
+00:00:48,020 --> 00:00:50,960
+the mind would reject the evidence for cherished
+
+22
+00:00:50,960 --> 00:00:54,380
+beliefs Well, how about reading a whole book
+
+23
+00:00:54,380 --> 00:00:55,700
+and making a video about it?
+
+24
+00:00:56,660 --> 00:00:59,500
+During the last few years I've read tons
+
+25
+00:00:59,500 --> 00:01:02,200
+of books on personal finance and investing and
+
+26
+00:01:02,200 --> 00:01:04,680
+I settled down on a conclusion that Value
+
+27
+00:01:04,680 --> 00:01:07,900
+investing and fundamental analysis is the way to
+
+28
+00:01:07,900 --> 00:01:10,920
+go while day trading and studying price charts
+
+29
+00:01:10,920 --> 00:01:15,400
+It's just pure bogus or you know bots
+
+30
+00:01:15,400 --> 00:01:19,520
+trying to sell you something Enter Jim Simons
+
+31
+00:01:20,300 --> 00:01:24,200
+Jim Simons is the world's richest mathematician Forbes
+
+32
+00:01:24,200 --> 00:01:26,580
+estimates his wealth to be at a staggering
+
+33
+00:01:26,580 --> 00:01:30,780
+24.6 billion dollars currently He gained most
+
+34
+00:01:30,780 --> 00:01:32,960
+of this wealth through conquering the world of
+
+35
+00:01:32,960 --> 00:01:36,340
+trading by starting the quant revolution with his
+
+36
+00:01:36,340 --> 00:01:40,200
+company Renaissance Technologies and the Medallion Fund The
+
+37
+00:01:40,200 --> 00:01:42,900
+Medallion Fund has the best track record of
+
+38
+00:01:42,900 --> 00:01:45,960
+any hedge fund in history It has averaged
+
+39
+00:01:45,960 --> 00:01:48,960
+a 62.9% return per year before
+
+40
+00:01:48,960 --> 00:01:52,600
+fees and 37.2% net of fees
+
+41
+00:01:52,600 --> 00:01:55,640
+versus 11% for the S&P 500
+
+42
+00:01:55,640 --> 00:01:59,300
+That is the most impressive investment record I've
+
+43
+00:01:59,300 --> 00:02:02,380
+ever heard about It's even better than Warren
+
+44
+00:02:02,380 --> 00:02:04,740
+Buffett's, although it has been accomplished with a
+
+45
+00:02:04,740 --> 00:02:09,320
+much smaller capital so Should you abandon value
+
+46
+00:02:09,320 --> 00:02:11,280
+investing to become a day trading quant?
+
+47
+00:02:11,920 --> 00:02:14,420
+Let's not get ahead of ourselves here, but
+
+48
+00:02:14,420 --> 00:02:17,020
+we'll get to that In this video, we
+
+49
+00:02:17,020 --> 00:02:18,960
+shall take a closer look at the Medallion
+
+50
+00:02:18,960 --> 00:02:21,400
+Fund's success and reveal a few of its
+
+51
+00:02:21,400 --> 00:02:24,080
+secrets You'll have to stay put for that
+
+52
+00:02:24,080 --> 00:02:26,100
+But I think that a quote from agent
+
+53
+00:02:26,100 --> 00:02:28,340
+Smith from the movie The Matrix may be
+
+54
+00:02:28,340 --> 00:02:34,680
+used to set the stage This is a
+
+55
+00:02:34,680 --> 00:02:36,940
+top 5 takeaway summary of the man who
+
+56
+00:02:36,940 --> 00:02:40,700
+solved the market written by Gregory Zuckerman And
+
+57
+00:02:40,700 --> 00:02:43,340
+this is The Swedish Investor, bringing you the
+
+58
+00:02:43,340 --> 00:02:45,880
+best tips and tools for reaching financial freedom
+
+59
+00:02:45,880 --> 00:02:51,360
+through stock market trade investing Takeaway number 1
+
+60
+00:02:51,720 --> 00:02:56,040
+From 0 to 25 billion Before getting into
+
+61
+00:02:56,040 --> 00:02:59,520
+the hows of Simons' incredible success, let's first
+
+62
+00:02:59,520 --> 00:03:02,500
+have a look at the what's What did
+
+63
+00:03:02,500 --> 00:03:05,100
+Jim Simons do to go from $0 in
+
+64
+00:03:05,100 --> 00:03:08,900
+1938 to $25 billion in 2021?
+
+65
+00:03:10,460 --> 00:03:14,780
+Simons was born in 1938 Early on, he
+
+66
+00:03:14,780 --> 00:03:16,040
+began to read a lot.
+
+67
+00:03:16,600 --> 00:03:19,960
+I know, surprise, surprise Jim Simons is another
+
+68
+00:03:19,960 --> 00:03:22,280
+one of those successful people who read a
+
+69
+00:03:22,280 --> 00:03:24,760
+lot To be honest, I don't think that
+
+70
+00:03:24,760 --> 00:03:27,400
+the medium through which you consume information matters
+
+71
+00:03:27,400 --> 00:03:29,980
+too much What matters is that you strive
+
+72
+00:03:29,980 --> 00:03:34,600
+for more knowledge Simons enrolled at MIT in
+
+73
+00:03:34,600 --> 00:03:37,540
+1955 and was even able to skip the
+
+74
+00:03:37,540 --> 00:03:40,060
+first year of mathematics thanks to his extensive
+
+75
+00:03:40,060 --> 00:03:43,720
+high school curriculum He decided early on what
+
+76
+00:03:43,720 --> 00:03:48,140
+he wanted from life coffee, cigarettes and lots
+
+77
+00:03:48,140 --> 00:03:52,040
+and lots of maths Simons was quite the
+
+78
+00:03:52,040 --> 00:03:52,880
+adventurous type.
+
+79
+00:03:53,480 --> 00:03:55,360
+Together with two friends, he decided to go
+
+80
+00:03:55,360 --> 00:03:59,860
+from Boston to Buenos Aires riding scooters They
+
+81
+00:03:59,860 --> 00:04:03,100
+named the trip Buenos Aires or Bust Well,
+
+82
+00:04:03,540 --> 00:04:06,580
+they busted in Bogota in Colombia, but it
+
+83
+00:04:06,580 --> 00:04:10,420
+must have been a crazy trip nonetheless While
+
+84
+00:04:10,420 --> 00:04:12,840
+getting his PhD at the University of California,
+
+85
+00:04:13,000 --> 00:04:15,820
+Berkeley, Simons had his first dabble in stocks
+
+86
+00:04:16,420 --> 00:04:18,519
+He got up early each morning to drive
+
+87
+00:04:18,519 --> 00:04:21,100
+to Merrill Lynch's office in Los Angeles just
+
+88
+00:04:21,100 --> 00:04:22,640
+in time for the opening of the Chicago
+
+89
+00:04:22,640 --> 00:04:25,680
+exchange He would stand there to watch prices
+
+90
+00:04:25,680 --> 00:04:29,500
+flash by and make a few trades Simons
+
+91
+00:04:29,500 --> 00:04:32,880
+got his PhD by age 23 in 1961
+
+92
+00:04:33,820 --> 00:04:36,520
+At age 26, he got a job as
+
+93
+00:04:36,520 --> 00:04:39,820
+a codebreaker at a US intelligence unit targeting
+
+94
+00:04:39,820 --> 00:04:43,660
+old Soviet Russia Simons learned something important about
+
+95
+00:04:43,660 --> 00:04:46,820
+hiring people here The unit worked very well
+
+96
+00:04:46,820 --> 00:04:49,760
+while primarily focusing on hiring people for their
+
+97
+00:04:49,760 --> 00:04:54,020
+creativity, ambition and brain power rather than any
+
+98
+00:04:54,020 --> 00:04:58,260
+specific expertise or education Another important lesson from
+
+99
+00:04:58,260 --> 00:05:01,660
+this place was its motto Bad ideas is
+
+100
+00:05:01,660 --> 00:05:06,040
+good Good ideas is terrific No ideas is
+
+101
+00:05:06,040 --> 00:05:10,800
+terrible In 1968, Simons published a mathematical paper
+
+102
+00:05:10,800 --> 00:05:13,100
+on something which I find quite difficult to
+
+103
+00:05:13,100 --> 00:05:17,780
+pronounce, let alone understand Minimal varieties in Riemannian
+
+104
+00:05:17,780 --> 00:05:21,000
+manifolds To this day, the paper has been
+
+105
+00:05:21,000 --> 00:05:25,440
+cited 1,722 times, which counts as an
+
+106
+00:05:25,440 --> 00:05:30,240
+incredible success for a paper on geometry Also
+
+107
+00:05:30,240 --> 00:05:33,500
+in 1968, Simons was asked to build and
+
+108
+00:05:33,500 --> 00:05:36,720
+lead a maths department at Stony Brook University
+
+109
+00:05:37,300 --> 00:05:40,800
+It's been said that the extroverted mathematician will
+
+110
+00:05:40,800 --> 00:05:43,740
+look at your shoes during a conversation rather
+
+111
+00:05:43,740 --> 00:05:47,300
+than his own Well, Simons was extroverted period
+
+112
+00:05:47,300 --> 00:05:49,920
+and he had an unusual knack for leading
+
+113
+00:05:49,920 --> 00:05:55,120
+his fellow mathematicians In 1978, Simons had had
+
+114
+00:05:55,120 --> 00:05:57,780
+enough of the world of academia though He
+
+115
+00:05:57,780 --> 00:06:01,540
+wanted new challenges and solving the market, conquering
+
+116
+00:06:01,540 --> 00:06:04,180
+the world of trading, was something which no
+
+117
+00:06:04,180 --> 00:06:07,380
+one had done before, which sparked his enthusiasm
+
+118
+00:06:08,070 --> 00:06:11,360
+He called his first hedge fund Monometrics, which
+
+119
+00:06:11,360 --> 00:06:13,780
+was a play of words combining money and
+
+120
+00:06:13,780 --> 00:06:17,280
+econometrics Simons was hinting that he would use
+
+121
+00:06:17,280 --> 00:06:20,460
+math to analyze the financial markets and score
+
+122
+00:06:20,460 --> 00:06:25,640
+big time Simons utilized his unusual combination of
+
+123
+00:06:25,640 --> 00:06:29,400
+being an exceptionally skilled mathematician himself while possessing
+
+124
+00:06:29,400 --> 00:06:32,580
+some incredible leadership and interpersonal skills to hire
+
+125
+00:06:32,580 --> 00:06:34,660
+and get the most out of many fellow
+
+126
+00:06:34,660 --> 00:06:38,680
+mathematicians He realized early on that he wouldn't
+
+127
+00:06:38,680 --> 00:06:42,240
+solve this puzzle by himself In fact, I
+
+128
+00:06:42,240 --> 00:06:43,640
+think that the book might as well have
+
+129
+00:06:43,640 --> 00:06:46,060
+been called The Men Who Solved the Market
+
+130
+00:06:46,060 --> 00:06:48,540
+But you'll hear more about these people and
+
+131
+00:06:48,540 --> 00:06:51,660
+their contributions later because that's more about the
+
+132
+00:06:51,660 --> 00:06:54,540
+hows than the whats of this incredible trading
+
+133
+00:06:54,540 --> 00:07:00,200
+success In 1982, Simons renamed the company to
+
+134
+00:07:00,200 --> 00:07:03,040
+Renaissance Technologies, a name that it holds to
+
+135
+00:07:03,040 --> 00:07:08,160
+this day In 1988, Simons launched the Medallion
+
+136
+00:07:08,160 --> 00:07:10,800
+Fund, which is the most successful hedge fund
+
+137
+00:07:10,800 --> 00:07:13,420
+of all time in terms of returns on
+
+138
+00:07:13,420 --> 00:07:16,300
+capital While others were still relying on instinct
+
+139
+00:07:16,300 --> 00:07:19,340
+and intuition for their trades, Simons employed automated
+
+140
+00:07:19,340 --> 00:07:24,180
+algorithms, tons of data and advanced mathematics But
+
+141
+00:07:24,180 --> 00:07:27,540
+again, we're getting ahead of ourselves Medallion didn't
+
+142
+00:07:27,540 --> 00:07:29,780
+charge the usual rip-off fee of 2
+
+143
+00:07:29,780 --> 00:07:31,880
+.20 that other Wall Streeters did.
+
+144
+00:07:32,280 --> 00:07:36,520
+No, no They charged 5.20, eventually raising
+
+145
+00:07:36,520 --> 00:07:40,900
+that to 5.44 This is insane numbers,
+
+146
+00:07:41,300 --> 00:07:44,420
+but in Renaissance's case it proved to be
+
+147
+00:07:44,420 --> 00:07:48,740
+worth it In 1990, the Medallion Fund had
+
+148
+00:07:48,740 --> 00:07:51,280
+its first year surpassing a 50% return
+
+149
+00:07:51,840 --> 00:07:54,720
+It scored as high as 77.8%
+
+150
+00:07:54,720 --> 00:07:59,100
+before fees for the 12 months Simons kept
+
+151
+00:07:59,100 --> 00:08:00,280
+up his leadership skills.
+
+152
+00:08:00,920 --> 00:08:03,520
+He created a culture of unusual openness at
+
+153
+00:08:03,520 --> 00:08:08,020
+Renaissance Moreover, he used smart monetary incentives where
+
+154
+00:08:08,020 --> 00:08:10,340
+people were paid bonuses, but only if the
+
+155
+00:08:10,340 --> 00:08:13,540
+company reached certain levels of profit This money
+
+156
+00:08:13,540 --> 00:08:16,240
+was paid out over many years to key
+
+157
+00:08:16,240 --> 00:08:19,480
+people in the firm Renaissance had almost no
+
+158
+00:08:19,480 --> 00:08:23,000
+employee turnover Simons also had an important role
+
+159
+00:08:23,000 --> 00:08:25,460
+to play in the hiring process He wanted
+
+160
+00:08:25,460 --> 00:08:28,220
+people who had little or no connection to
+
+161
+00:08:28,220 --> 00:08:33,280
+Wall Street and generally accepted business dogmas In
+
+162
+00:08:33,280 --> 00:08:37,120
+1993, the Medallion Fund closed to outside investors.
+
+163
+00:08:37,640 --> 00:08:39,720
+From now on, it was only available to
+
+164
+00:08:39,720 --> 00:08:43,320
+employees of Renaissance and their families In the
+
+165
+00:08:43,320 --> 00:08:46,320
+year 2000, Medallion had its first year exceeding
+
+166
+00:08:46,320 --> 00:08:50,200
+a 100% return, achieving a stunning plus
+
+167
+00:08:50,200 --> 00:08:56,940
+128.1% In 2003, stocks had officially
+
+168
+00:08:56,940 --> 00:08:59,760
+taken over as the most important trading instrument
+
+169
+00:08:59,760 --> 00:09:02,320
+of the firm, from previously having focused on
+
+170
+00:09:02,320 --> 00:09:07,800
+currencies, commodities and bonds In 2005, Jim Simons
+
+171
+00:09:07,800 --> 00:09:10,920
+received a personal gain of $1.5 billion
+
+172
+00:09:11,320 --> 00:09:14,540
+which was the highest compensation among any hedge
+
+173
+00:09:14,540 --> 00:09:18,520
+fund manager that year Simons retired as CEO
+
+174
+00:09:18,520 --> 00:09:21,780
+of Renaissance in 2009 and handed over the
+
+175
+00:09:21,780 --> 00:09:24,220
+role to two of his colleagues Robert Mercer
+
+176
+00:09:24,220 --> 00:09:28,600
+and Peter Brown Simons stayed as chairman, but
+
+177
+00:09:28,600 --> 00:09:31,500
+eventually left that post too, just recently in
+
+178
+00:09:31,500 --> 00:09:34,560
+2021 But he remains on the board of
+
+179
+00:09:34,560 --> 00:09:38,420
+directors He earned a cool $2.6 billion
+
+180
+00:09:38,420 --> 00:09:41,120
+with his financial stake in the company in
+
+181
+00:09:41,120 --> 00:09:45,420
+2020, reaching an estimated personal wealth of $24
+
+182
+00:09:45,420 --> 00:09:51,620
+.6 billion Okay Let's now get into how
+
+183
+00:09:51,620 --> 00:09:53,640
+Jim Simons, and his colleagues I should add,
+
+184
+00:09:53,740 --> 00:09:56,420
+was able to achieve these stellar results in
+
+185
+00:09:56,420 --> 00:10:01,950
+the Medallion Fund Takeaway number 2 Medallion is
+
+186
+00:10:01,950 --> 00:10:05,930
+a short-term predictive algorithm The secret to
+
+187
+00:10:05,930 --> 00:10:08,990
+Renaissance's and the Medallion Fund's success has been
+
+188
+00:10:08,990 --> 00:10:12,270
+to employ tons of data and advanced mathematics
+
+189
+00:10:12,270 --> 00:10:16,810
+to develop automated trading algorithms Renaissance was one
+
+190
+00:10:16,810 --> 00:10:19,690
+of the pioneers of using machine learning and
+
+191
+00:10:19,690 --> 00:10:22,410
+applying it to the world of investing Today,
+
+192
+00:10:22,750 --> 00:10:25,770
+this black box algorithm is an exceptional short
+
+193
+00:10:25,770 --> 00:10:29,110
+-term predictor of market movements The Medallion Fund
+
+194
+00:10:29,110 --> 00:10:31,770
+holds onto positions for an average of a
+
+195
+00:10:31,770 --> 00:10:34,190
+day or so But sometimes as little as
+
+196
+00:10:34,190 --> 00:10:38,530
+minutes or seconds It executed 150,000 to
+
+197
+00:10:38,530 --> 00:10:41,270
+300,000 trades per day back in the
+
+198
+00:10:41,270 --> 00:10:43,870
+year 2000, and probably even more of them
+
+199
+00:10:43,870 --> 00:10:47,910
+today One employee expressed that Medallion's goal is
+
+200
+00:10:47,910 --> 00:10:52,410
+the following Scrutinize historic price information to discover
+
+201
+00:10:52,410 --> 00:10:55,850
+sequences that might repeat under the assumption that
+
+202
+00:10:55,850 --> 00:10:58,950
+investors will exhibit similar behavior in the future
+
+203
+00:11:00,210 --> 00:11:03,130
+Simons understood quite early on that the stock
+
+204
+00:11:03,130 --> 00:11:05,750
+market moves because of a complex process with
+
+205
+00:11:05,750 --> 00:11:09,710
+many, many inputs Some of these inputs may
+
+206
+00:11:09,710 --> 00:11:12,690
+be difficult or even impossible to understand They
+
+207
+00:11:12,690 --> 00:11:15,270
+may not be related to traditional fundamentals such
+
+208
+00:11:15,270 --> 00:11:18,990
+as earnings, dividends, interest rates or similar But
+
+209
+00:11:18,990 --> 00:11:21,790
+there may be some other more obscure reason
+
+210
+00:11:21,790 --> 00:11:26,190
+for certain moves However, eventually, they will all
+
+211
+00:11:26,190 --> 00:11:29,130
+be reflected in pricing data So Simons decided
+
+212
+00:11:29,130 --> 00:11:32,350
+to study that data What type of human
+
+213
+00:11:32,350 --> 00:11:34,270
+behavior is it that Medallion is able to
+
+214
+00:11:34,270 --> 00:11:35,170
+take advantage of?
+
+215
+00:11:36,010 --> 00:11:38,670
+Well, to Simons it didn't matter as long
+
+216
+00:11:38,670 --> 00:11:40,950
+as the patterns reappeared with a certain degree
+
+217
+00:11:40,950 --> 00:11:44,630
+of statistical significance But it can be interesting
+
+218
+00:11:44,630 --> 00:11:45,850
+to speculate a little.
+
+219
+00:11:46,330 --> 00:11:49,930
+Medallion's profits probably stem from human biases and
+
+220
+00:11:49,930 --> 00:11:52,550
+misjudgments We may have a few of the
+
+221
+00:11:52,550 --> 00:11:55,830
+suspects in Daniel Kahneman's famous book, Thinking Fast
+
+222
+00:11:55,830 --> 00:12:00,070
+and Slow • Loss aversion – people hate
+
+223
+00:12:00,070 --> 00:12:03,310
+losing more than they like winning • Anchoring
+
+224
+00:12:03,310 --> 00:12:06,250
+– one's judgment is skewed based on previous
+
+225
+00:12:06,250 --> 00:12:09,930
+prices and experiences • And the endowment effect
+
+226
+00:12:09,930 --> 00:12:12,590
+– you like what you already have more
+
+227
+00:12:12,590 --> 00:12:16,230
+than what is objectively sound One of the
+
+228
+00:12:16,230 --> 00:12:18,370
+core strategies ever since the inception of the
+
+229
+00:12:18,370 --> 00:12:21,490
+fund has been to rely on mean reversion
+
+230
+00:12:22,190 --> 00:12:24,990
+Early on, back in the 80s and 90s,
+
+231
+00:12:25,290 --> 00:12:28,210
+the Medallion fund used simple linear regression models
+
+232
+00:12:28,210 --> 00:12:31,030
+to plot, for example, the price of crude
+
+233
+00:12:31,030 --> 00:12:34,230
+oil versus the price of gasoline If you
+
+234
+00:12:34,230 --> 00:12:36,290
+look at enough data points, you can spot
+
+235
+00:12:36,290 --> 00:12:39,250
+a trend line – a linear relationship between
+
+236
+00:12:39,250 --> 00:12:42,250
+the two assets When gasoline is cheap compared
+
+237
+00:12:42,250 --> 00:12:44,890
+to oil, you'll buy gasoline and short oil,
+
+238
+00:12:45,270 --> 00:12:47,750
+and vice versa Then you wait for the
+
+239
+00:12:47,750 --> 00:12:50,770
+prices to go back to normal, reverting to
+
+240
+00:12:50,770 --> 00:12:54,870
+the mean Today, Medallion uses a technique called
+
+241
+00:12:54,870 --> 00:12:58,670
+statistical arbitrage, which is about identifying a small
+
+242
+00:12:58,670 --> 00:13:02,170
+set of quantifiable market-wide factors that best
+
+243
+00:13:02,170 --> 00:13:05,710
+explain certain market movements If, for instance, Exxon
+
+244
+00:13:05,710 --> 00:13:07,910
+tends to move in tandem with petroleum prices
+
+245
+00:13:07,910 --> 00:13:12,130
+and interest rates, Renaissance identifies that Then they
+
+246
+00:13:12,130 --> 00:13:13,770
+bet on the stocks that have moved the
+
+247
+00:13:13,770 --> 00:13:15,890
+least in the direction of their market-wide
+
+248
+00:13:15,890 --> 00:13:18,930
+factors while betting against those that have moved
+
+249
+00:13:18,930 --> 00:13:23,130
+more than the factors predicted Again, reversion to
+
+250
+00:13:23,130 --> 00:13:27,230
+the mean Today, these relationships often consist of
+
+251
+00:13:27,230 --> 00:13:30,350
+multiple variables, and the relationships no longer have
+
+252
+00:13:30,350 --> 00:13:33,350
+to be linear, so they're often difficult to
+
+253
+00:13:33,350 --> 00:13:37,470
+identify for the naked eye To identify such
+
+254
+00:13:37,470 --> 00:13:41,350
+relationships, the Medallion fund needed data – mountains
+
+255
+00:13:41,350 --> 00:13:47,290
+of data Takeaway number 3 – Medallion requires
+
+256
+00:13:47,290 --> 00:13:51,270
+tons of data One of the former CEOs
+
+257
+00:13:51,270 --> 00:13:54,570
+of Renaissance Technologies, Robert Mercer, said it best
+
+258
+00:13:54,570 --> 00:13:58,950
+There's no data like more data This became
+
+259
+00:13:58,950 --> 00:14:01,830
+something of a mantra at Renaissance Any data
+
+260
+00:14:01,830 --> 00:14:04,090
+that could be quantified and was deemed to
+
+261
+00:14:04,090 --> 00:14:07,050
+have some potential for predictive value was gathered
+
+262
+00:14:07,050 --> 00:14:11,490
+– newspaper stories, internet posts, insurance claims –
+
+263
+00:14:11,490 --> 00:14:15,670
+nothing is too obscure An employee named Sander
+
+264
+00:14:15,670 --> 00:14:18,390
+Strauss noticed the need for data early on
+
+265
+00:14:18,390 --> 00:14:20,910
+if Simon's wish for a fully automated algorithm
+
+266
+00:14:20,910 --> 00:14:24,670
+was to become reality Back then, having more
+
+267
+00:14:24,670 --> 00:14:27,310
+data than your competitors meant buying books from
+
+268
+00:14:27,310 --> 00:14:29,790
+the World Bank and magnetic tape from various
+
+269
+00:14:29,790 --> 00:14:32,690
+exchanges The data went back as far as
+
+270
+00:14:32,690 --> 00:14:35,890
+World War II Strauss collected more than even
+
+271
+00:14:35,890 --> 00:14:39,150
+Simon's thought was necessary Among other things, he
+
+272
+00:14:39,150 --> 00:14:41,930
+started to collect the intraday tick prices betting
+
+273
+00:14:41,930 --> 00:14:44,050
+that it would become useful to them at
+
+274
+00:14:44,050 --> 00:14:47,050
+some point Strauss even began to model data
+
+275
+00:14:47,050 --> 00:14:49,490
+itself for a while There were gaps in
+
+276
+00:14:49,490 --> 00:14:51,830
+the data at certain periods due to unexpected
+
+277
+00:14:51,830 --> 00:14:54,970
+circumstances such as when a major flood had
+
+278
+00:14:54,970 --> 00:14:59,410
+suspended Chicago trading Sometimes, modelling data was possible
+
+279
+00:14:59,410 --> 00:15:01,970
+just like it is possible to sometimes identify
+
+280
+00:15:01,970 --> 00:15:04,290
+the shape of a missing jigsaw puzzle piece
+
+281
+00:15:04,910 --> 00:15:07,930
+Today, more than 300 people are employed at
+
+282
+00:15:07,930 --> 00:15:10,270
+Renaissance and they have more than 30 people
+
+283
+00:15:10,270 --> 00:15:13,190
+with PhDs with the primary focus of cleaning
+
+284
+00:15:13,190 --> 00:15:15,770
+up different data feeds so that they have
+
+285
+00:15:15,770 --> 00:15:18,670
+the best data available for making short-term
+
+286
+00:15:18,670 --> 00:15:23,670
+predictions While studying this much quantitative information, Medallion
+
+287
+00:15:23,670 --> 00:15:25,630
+must be careful as to not run into
+
+288
+00:15:25,630 --> 00:15:28,950
+data overfitting If you look at enough data,
+
+289
+00:15:29,330 --> 00:15:32,030
+you're bound to find some signals that seem
+
+290
+00:15:32,030 --> 00:15:36,410
+statistically significant, just by pure chance For example,
+
+291
+00:15:36,890 --> 00:15:40,070
+a quant investor called David Laneweber had identified
+
+292
+00:15:40,070 --> 00:15:42,890
+that US stock returns could be predicted by
+
+293
+00:15:42,890 --> 00:15:46,650
+combining the jelly butter production of Bangladesh, the
+
+294
+00:15:46,650 --> 00:15:49,590
+cheese production of the US and the population
+
+295
+00:15:49,590 --> 00:15:52,350
+of sheep in Bangladesh and the US True
+
+296
+00:15:52,350 --> 00:15:56,430
+story For this reason, Medallion always starts to
+
+297
+00:15:56,430 --> 00:15:59,310
+trade new signals with smaller amounts of cash,
+
+298
+00:15:59,750 --> 00:16:02,610
+gradually ramping up the capital committed as profits
+
+299
+00:16:02,610 --> 00:16:08,690
+roll in Takeaway number 4 Medallion is based
+
+300
+00:16:08,690 --> 00:16:13,070
+on advanced mathematics As I said before, this
+
+301
+00:16:13,070 --> 00:16:14,830
+book might as well have been called The
+
+302
+00:16:14,830 --> 00:16:18,330
+Men Who Solved the Market, as Simons definitely
+
+303
+00:16:18,330 --> 00:16:21,850
+couldn't do this alone He employed various mathematicians
+
+304
+00:16:21,850 --> 00:16:25,270
+who were specialists within their fields Among the
+
+305
+00:16:25,270 --> 00:16:28,190
+men who solved the market were Lenny Baum,
+
+306
+00:16:28,530 --> 00:16:30,690
+who was an early employee that helped Simons
+
+307
+00:16:30,690 --> 00:16:34,950
+with something called Hidden Markov Processes James Axe,
+
+308
+00:16:35,250 --> 00:16:37,430
+who held the largest stake in Medallion's predecessor
+
+309
+00:16:37,430 --> 00:16:41,010
+Axecom Axe was a great algebraist and exceptional
+
+310
+00:16:41,010 --> 00:16:46,170
+at exploring correlations Rene Carmona helped incorporate some
+
+311
+00:16:46,170 --> 00:16:49,410
+stochastic differential equations to the models He began
+
+312
+00:16:49,410 --> 00:16:52,710
+applying so-called kernel methods to analyze patterns
+
+313
+00:16:52,710 --> 00:16:55,110
+in the datasets He was the first one
+
+314
+00:16:55,110 --> 00:16:57,690
+to implement a full black box approach, where
+
+315
+00:16:57,690 --> 00:17:00,490
+they allowed the computer to teach itself which
+
+316
+00:17:00,490 --> 00:17:05,690
+patterns were most important Elwin Berlekamp, who helped
+
+317
+00:17:05,690 --> 00:17:08,770
+with advanced game theory He even founded a
+
+318
+00:17:08,770 --> 00:17:13,089
+branch of mathematics called Combinatorial Game Theory Berlekamp
+
+319
+00:17:13,089 --> 00:17:16,130
+had also worked for John Larry Kelly Jr.,
+
+320
+00:17:16,130 --> 00:17:19,130
+the creator of the Kelly Criterion The Kelly
+
+321
+00:17:19,130 --> 00:17:22,210
+Criterion determines how large or small a certain
+
+322
+00:17:22,210 --> 00:17:24,910
+trading position should be It can be used
+
+323
+00:17:24,910 --> 00:17:26,970
+for value investing too by the way, something
+
+324
+00:17:26,970 --> 00:17:29,330
+I've discussed previously in a summary of The
+
+325
+00:17:29,330 --> 00:17:33,590
+Dondo Investor by Monish Pabrai And then there
+
+326
+00:17:33,590 --> 00:17:35,950
+were of course Robert Mercer and Peter Brown,
+
+327
+00:17:35,950 --> 00:17:38,830
+who were appointed co-CEOs of Renaissance in
+
+328
+00:17:38,830 --> 00:17:42,410
+2009 They both brought even more experience with
+
+329
+00:17:42,410 --> 00:17:45,410
+hidden Markov processes to the group, but most
+
+330
+00:17:45,410 --> 00:17:49,830
+of all, they were exceptional computer scientists Simons
+
+331
+00:17:49,830 --> 00:17:52,870
+headhunted both of them from IBM's former speech
+
+332
+00:17:52,870 --> 00:17:58,870
+recognition team Takeaway number 5 – Don't try
+
+333
+00:17:58,870 --> 00:18:02,310
+this at home Here's a little thought experiment
+
+334
+00:18:02,310 --> 00:18:05,790
+for you Since 2003, the Medallion fund has
+
+335
+00:18:05,790 --> 00:18:08,470
+primarily been trading in stocks, although they also
+
+336
+00:18:08,470 --> 00:18:12,470
+do trades in commodities, currencies and bonds Also
+
+337
+00:18:12,470 --> 00:18:15,830
+since 2003, Medallion has returned an average of
+
+338
+00:18:15,830 --> 00:18:19,590
+73.7% per year before fees, while
+
+339
+00:18:19,590 --> 00:18:22,050
+the S&P 500 has returned on average
+
+340
+00:18:22,050 --> 00:18:25,950
+10.6% per year The returns could
+
+341
+00:18:25,950 --> 00:18:27,970
+be explained by the fact that Medallion uses
+
+342
+00:18:27,970 --> 00:18:30,250
+leverage, but to say that that explains the
+
+343
+00:18:30,250 --> 00:18:32,630
+full overperformance I think would be a little
+
+344
+00:18:32,630 --> 00:18:35,830
+bit foolish No, Medallion is also just on
+
+345
+00:18:35,830 --> 00:18:38,990
+the right side of trades This leaves one
+
+346
+00:18:38,990 --> 00:18:42,150
+questioning – who does it take these profits
+
+347
+00:18:42,150 --> 00:18:42,530
+from?
+
+348
+00:18:43,050 --> 00:18:44,890
+Who is on the other side of the
+
+349
+00:18:44,890 --> 00:18:45,250
+trade?
+
+350
+00:18:46,370 --> 00:18:51,110
+According to a 2019 CNBC article, index investors
+
+351
+00:18:51,110 --> 00:18:54,170
+control nearly half of the US stock market
+
+352
+00:18:54,750 --> 00:18:56,970
+If you are an index investor and you've
+
+353
+00:18:56,970 --> 00:18:59,150
+been investing without buying and selling too much
+
+354
+00:18:59,150 --> 00:19:02,330
+since 2003, you would have received those 10
+
+355
+00:19:02,330 --> 00:19:06,130
+.6% in average returns Medallion cannot have
+
+356
+00:19:06,130 --> 00:19:09,010
+stolen profits from the index investors as they
+
+357
+00:19:09,010 --> 00:19:13,410
+will get the average almost by definition Then
+
+358
+00:19:13,410 --> 00:19:15,550
+we have the long-term investors who invest
+
+359
+00:19:15,550 --> 00:19:18,270
+based on fundamentals and hold over longer time
+
+360
+00:19:18,270 --> 00:19:21,150
+periods That's the Warren Buffett's of the investing
+
+361
+00:19:21,150 --> 00:19:24,350
+world This represents an area where Renaissance and
+
+362
+00:19:24,350 --> 00:19:27,290
+its mathematicians haven't been able to produce any
+
+363
+00:19:27,290 --> 00:19:31,530
+above average profits yet In 2005, Renaissance founded
+
+364
+00:19:31,530 --> 00:19:34,950
+a new fund called Renaissance Institutional Equities Fund
+
+365
+00:19:34,950 --> 00:19:38,510
+or REIF to take in outside capital without
+
+366
+00:19:38,510 --> 00:19:42,810
+risking the profits of Medallion Supposedly, this fund
+
+367
+00:19:42,810 --> 00:19:45,870
+would make similar long-term predictions as the
+
+368
+00:19:45,870 --> 00:19:48,510
+Medallion fund has been doing successfully for the
+
+369
+00:19:48,510 --> 00:19:52,050
+short-term ones To this date though, it
+
+370
+00:19:52,050 --> 00:19:54,650
+hasn't been able to do that That's a
+
+371
+00:19:54,650 --> 00:19:56,890
+9.1% return on average for all
+
+372
+00:19:56,890 --> 00:19:59,910
+of the full years since REIF's inception versus
+
+373
+00:19:59,910 --> 00:20:03,110
+9.9% for the S&P The
+
+374
+00:20:03,110 --> 00:20:06,450
+forecasting methods that Renaissance uses are similar to
+
+375
+00:20:06,450 --> 00:20:09,370
+weather predictions Very useful for saying what is
+
+376
+00:20:09,370 --> 00:20:11,570
+likely to happen in the coming hours or
+
+377
+00:20:11,570 --> 00:20:14,970
+perhaps days but not useful for longer time
+
+378
+00:20:14,970 --> 00:20:18,510
+periods than that Therefore, it is unlikely that
+
+379
+00:20:18,510 --> 00:20:20,850
+it's the acolytes of Warren Buffett who have
+
+380
+00:20:20,850 --> 00:20:23,730
+been the prey of Medallion either Who's left?
+
+381
+00:20:24,530 --> 00:20:29,410
+It is the traders Renaissance's profits stem from
+
+382
+00:20:29,410 --> 00:20:33,570
+fellow speculators, both large and small The people
+
+383
+00:20:33,570 --> 00:20:35,690
+who do not have a trading algorithm which
+
+384
+00:20:35,690 --> 00:20:38,850
+trades without being influenced by emotions who do
+
+385
+00:20:38,850 --> 00:20:40,670
+not have access to the same amount of
+
+386
+00:20:40,670 --> 00:20:42,850
+data who do not have access to some
+
+387
+00:20:42,850 --> 00:20:46,150
+of the greatest mathematicians of our time but
+
+388
+00:20:46,150 --> 00:20:47,930
+who decides to take a short-term gamble
+
+389
+00:20:47,930 --> 00:20:50,810
+in the stock market nonetheless The people who
+
+390
+00:20:50,810 --> 00:20:52,810
+buy a course in day trading from a
+
+391
+00:20:52,810 --> 00:20:56,170
+guru on Udemy and draw trend lines on
+
+392
+00:20:56,170 --> 00:20:59,210
+a head and shoulder pattern Simons came to
+
+393
+00:20:59,210 --> 00:21:01,890
+this conclusion himself that these must be the
+
+394
+00:21:01,890 --> 00:21:05,150
+people who Medallion is taking profits from and
+
+395
+00:21:05,150 --> 00:21:06,810
+it is good for you to know as
+
+396
+00:21:06,810 --> 00:21:08,950
+an investor too Do not think that you
+
+397
+00:21:08,950 --> 00:21:11,450
+can do this at home The only thing
+
+398
+00:21:11,450 --> 00:21:13,370
+that will happen is that you'll hand over
+
+399
+00:21:13,370 --> 00:21:16,090
+your hard-earned money to Renaissance or some
+
+400
+00:21:16,090 --> 00:21:18,690
+other quants What was it that Agent Smith
+
+401
+00:21:18,690 --> 00:21:19,410
+said now again?
+
+402
+00:21:20,250 --> 00:21:23,110
+Never send a human to do a machine's
+
+403
+00:21:23,110 --> 00:21:27,740
+job So, Jim Simons became one of the
+
+404
+00:21:27,740 --> 00:21:30,600
+richest people on the planet through his Medallion
+
+405
+00:21:30,600 --> 00:21:33,660
+fund The fund is a short-term algorithm
+
+406
+00:21:33,660 --> 00:21:37,720
+which scrutinizes historic price information to discover sequences
+
+407
+00:21:37,720 --> 00:21:40,680
+that might repeat under the assumption that investors
+
+408
+00:21:40,680 --> 00:21:44,460
+will exhibit similar behavior in the future To
+
+409
+00:21:44,460 --> 00:21:47,440
+do this, the fund requires tons of quantitative
+
+410
+00:21:47,440 --> 00:21:51,220
+data Moreover, Simons needed the help of a
+
+411
+00:21:51,220 --> 00:21:55,780
+few of the world's greatest mathematicians Finally, don't
+
+412
+00:21:55,780 --> 00:21:57,580
+think that you can do this at home
+
+413
+00:21:57,580 --> 00:22:00,860
+As a smaller and private investor, I'd still
+
+414
+00:22:00,860 --> 00:22:02,800
+opt for the value investing approach of Warren
+
+415
+00:22:02,800 --> 00:22:05,760
+Buffett over a day trading technical analysis approach
+
+416
+00:22:05,760 --> 00:22:10,120
+any day Value investing is an area where
+
+417
+00:22:10,120 --> 00:22:12,760
+the machines haven't caught up to us yet
+
+418
+00:22:13,600 --> 00:22:15,260
+If you want to learn how to invest
+
+419
+00:22:15,260 --> 00:22:17,040
+in a Warren Buffett way one of the
+
+420
+00:22:17,040 --> 00:22:19,500
+best methods for learning his secrets would be
+
+421
+00:22:19,500 --> 00:22:21,960
+to study his most important investments of all
+
+422
+00:22:21,960 --> 00:22:25,360
+time In this video, I've summarized the 25
+
+423
+00:22:25,360 --> 00:22:28,180
+most important ones Sure, it is a long
+
+424
+00:22:28,180 --> 00:22:30,780
+video, but hopefully there's a lot of meat
+
+425
+00:22:30,780 --> 00:22:33,420
+in there Cheers guys, hope to see you
+
+426
+00:22:33,420 --> 00:22:33,980
+again soon!

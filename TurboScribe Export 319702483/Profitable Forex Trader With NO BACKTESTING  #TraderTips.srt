@@ -1,0 +1,979 @@
+1
+00:00:00,230 --> 00:00:02,510
+People might wonder what does the work involve
+
+2
+00:00:02,510 --> 00:00:03,690
+once you have your algos?
+
+3
+00:00:04,070 --> 00:00:05,210
+Because you do for sure a lot of
+
+4
+00:00:05,210 --> 00:00:07,850
+testing, optimization and stuff, but what else do
+
+5
+00:00:07,850 --> 00:00:08,970
+you have to do on a daily basis
+
+6
+00:00:08,970 --> 00:00:11,050
+as a systems or algo trader?
+
+7
+00:00:11,710 --> 00:00:14,810
+Yeah, so I'm actually the guy who doesn't
+
+8
+00:00:14,810 --> 00:00:17,110
+do any optimization, doesn't do any backtesting.
+
+9
+00:00:17,610 --> 00:00:19,910
+I don't believe in any of it.
+
+10
+00:00:20,410 --> 00:00:23,510
+If backtests were great, how many guys do
+
+11
+00:00:23,510 --> 00:00:24,770
+you know who have beautiful backtests?
+
+12
+00:00:24,810 --> 00:00:26,230
+I know a million guys have shown me
+
+13
+00:00:26,230 --> 00:00:27,870
+beautiful backtests the moment they go.
+
+14
+00:00:28,090 --> 00:00:30,930
+If the backtests worked, we'd all be billionaires
+
+15
+00:00:30,930 --> 00:00:33,630
+because there's a billion backtests that all look
+
+16
+00:00:33,630 --> 00:00:35,650
+beautiful, and yet nobody has ever made money
+
+17
+00:00:35,650 --> 00:00:38,490
+on a backtest, because the market is, you
+
+18
+00:00:38,490 --> 00:00:40,330
+don't trade history, you trade the future.
+
+19
+00:00:41,030 --> 00:00:44,130
+So my view is what I want is
+
+20
+00:00:44,130 --> 00:00:46,550
+a general concept of a system.
+
+21
+00:00:47,170 --> 00:00:50,350
+And then it has to be obviously, don't
+
+22
+00:00:50,350 --> 00:00:51,590
+get me wrong, it's not that I don't
+
+23
+00:00:51,590 --> 00:00:55,510
+at all backtest, but in the backtest, what
+
+24
+00:00:55,510 --> 00:00:56,730
+I wanted to show me is that it's
+
+25
+00:00:56,730 --> 00:00:57,650
+not a complete failure.
+
+26
+00:00:57,830 --> 00:00:59,030
+It makes some sense.
+
+27
+00:00:59,310 --> 00:01:00,950
+It does have a small edge.
+
+28
+00:01:01,290 --> 00:01:03,750
+And generally, by the way, a 60-40
+
+29
+00:01:03,750 --> 00:01:05,590
+edge is about as good as you're ever
+
+30
+00:01:05,590 --> 00:01:06,390
+going to get, right?
+
+31
+00:01:06,470 --> 00:01:07,570
+So if I get a 60-40 edge,
+
+32
+00:01:07,610 --> 00:01:08,550
+I'm super happy, right?
+
+33
+00:01:08,750 --> 00:01:09,590
+One to one, or two to one?
+
+34
+00:01:09,790 --> 00:01:10,570
+Yeah, one to one.
+
+35
+00:01:10,730 --> 00:01:14,310
+And the other big myth is trading two
+
+36
+00:01:14,310 --> 00:01:14,770
+to one.
+
+37
+00:01:15,210 --> 00:01:17,710
+You trade three to one, markets do not
+
+38
+00:01:17,710 --> 00:01:20,550
+give you free dollar bills, and so you
+
+39
+00:01:20,550 --> 00:01:23,350
+do the odds of how well you're going
+
+40
+00:01:23,350 --> 00:01:23,550
+to do.
+
+41
+00:01:23,650 --> 00:01:26,390
+I mean, I actually do this little test.
+
+42
+00:01:26,790 --> 00:01:29,090
+You take just any daily chart on any
+
+43
+00:01:29,090 --> 00:01:31,990
+currency pair, and you say, okay, I'm going
+
+44
+00:01:31,990 --> 00:01:34,490
+to do a five pip stop and a
+
+45
+00:01:34,490 --> 00:01:36,670
+20 pip target, right?
+
+46
+00:01:37,250 --> 00:01:39,070
+And how many winning trades are you going
+
+47
+00:01:39,070 --> 00:01:39,310
+to get?
+
+48
+00:01:39,390 --> 00:01:41,030
+Pretty much zero, zero.
+
+49
+00:01:41,410 --> 00:01:42,950
+Now, do it the other way.
+
+50
+00:01:43,030 --> 00:01:44,630
+I'm going to do a five pip target
+
+51
+00:01:44,630 --> 00:01:46,190
+and a 20 pip stop, which is a
+
+52
+00:01:46,190 --> 00:01:46,950
+horrible risk-reward ratio.
+
+53
+00:01:47,050 --> 00:01:48,610
+I'm not advocating this.
+
+54
+00:01:48,630 --> 00:01:50,970
+It's just simply to show people how stupid
+
+55
+00:01:50,970 --> 00:01:51,810
+the ideas are.
+
+56
+00:01:52,250 --> 00:01:53,490
+And you do that, all of a sudden,
+
+57
+00:01:53,570 --> 00:01:54,630
+all your trades become winners.
+
+58
+00:01:54,630 --> 00:01:55,990
+Now, of course, you're going to hit losers
+
+59
+00:01:55,990 --> 00:01:56,410
+down the road.
+
+60
+00:01:56,450 --> 00:01:57,430
+They're going to give back all the money
+
+61
+00:01:57,430 --> 00:01:58,450
+if you have that risk-reward ratio.
+
+62
+00:01:58,510 --> 00:02:00,350
+But the point is, on an average day,
+
+63
+00:02:01,010 --> 00:02:03,310
+the one to four ratio is a much
+
+64
+00:02:03,310 --> 00:02:05,230
+better ratio than a four to one ratio.
+
+65
+00:02:05,750 --> 00:02:07,949
+So my view is that the best you
+
+66
+00:02:07,949 --> 00:02:10,330
+can do is even money bets with a
+
+67
+00:02:10,330 --> 00:02:11,550
+60-40 edge.
+
+68
+00:02:11,650 --> 00:02:13,310
+You can get anywhere close to that.
+
+69
+00:02:13,530 --> 00:02:16,250
+You are way ahead of almost everybody around.
+
+70
+00:02:17,350 --> 00:02:20,350
+So my process is actually, let's create something
+
+71
+00:02:20,350 --> 00:02:22,630
+that makes modest amount of sense.
+
+72
+00:02:23,310 --> 00:02:24,590
+Let's trade it live.
+
+73
+00:02:24,850 --> 00:02:26,370
+I always trade it live in live markets,
+
+74
+00:02:26,490 --> 00:02:29,010
+because the other thing is, backtests always lie.
+
+75
+00:02:29,510 --> 00:02:30,290
+Let me explain to you what I mean
+
+76
+00:02:30,290 --> 00:02:30,650
+by they lie.
+
+77
+00:02:31,230 --> 00:02:33,330
+They lie about where the prices are, where
+
+78
+00:02:33,330 --> 00:02:34,450
+the execution is possible.
+
+79
+00:02:34,710 --> 00:02:37,170
+You think you could have gotten like an
+
+80
+00:02:37,170 --> 00:02:40,970
+end-of-candle-perfect entry yesterday in dollar
+
+81
+00:02:40,970 --> 00:02:44,690
+-yen at whatever the backtest told you?
+
+82
+00:02:44,830 --> 00:02:46,610
+It would have been 200 pips.
+
+83
+00:02:46,790 --> 00:02:48,450
+So backtests always, always lie.
+
+84
+00:02:48,810 --> 00:02:49,830
+So I always like to trade it in
+
+85
+00:02:49,830 --> 00:02:51,250
+real market conditions, but with a small amount
+
+86
+00:02:51,250 --> 00:02:51,510
+of money.
+
+87
+00:02:51,610 --> 00:02:53,150
+I'm always trading small amounts of money.
+
+88
+00:02:53,510 --> 00:02:57,730
+Let's put the little reconnaissance soldiers out there.
+
+89
+00:02:58,430 --> 00:02:59,210
+See how well this trades.
+
+90
+00:02:59,410 --> 00:03:01,250
+You're going to learn so much more.
+
+91
+00:03:01,490 --> 00:03:02,990
+All your assumptions are going to be completely
+
+92
+00:03:02,990 --> 00:03:05,170
+upturned once the market goes live.
+
+93
+00:03:05,250 --> 00:03:07,370
+You begin to understand where's the volatility envelope.
+
+94
+00:03:07,810 --> 00:03:09,810
+We know what currency pairs are actually responsive
+
+95
+00:03:09,810 --> 00:03:12,030
+to your ideas, which are not.
+
+96
+00:03:12,370 --> 00:03:13,870
+And that's really where a lot of the
+
+97
+00:03:13,870 --> 00:03:14,690
+true work goes.
+
+98
+00:03:15,030 --> 00:03:17,870
+All my work is in front testing.
+
+99
+00:03:18,030 --> 00:03:19,530
+Not even front testing, but front trading.
+
+100
+00:03:19,590 --> 00:03:20,590
+I don't believe in the word testing.
+
+101
+00:03:20,730 --> 00:03:21,610
+I believe in the word trading.
+
+102
+00:03:22,090 --> 00:03:23,610
+So it's experience-based.
+
+103
+00:03:23,770 --> 00:03:25,430
+All of my strategies are experience-based.
+
+104
+00:03:25,610 --> 00:03:28,510
+And that's how, out of experience, you refine
+
+105
+00:03:28,510 --> 00:03:32,290
+the rules, increase size, and create something that's
+
+106
+00:03:32,290 --> 00:03:32,630
+tangible.
+
+107
+00:03:33,010 --> 00:03:35,190
+That's my personal process of how I do
+
+108
+00:03:35,190 --> 00:03:35,330
+it.
+
+109
+00:03:35,490 --> 00:03:36,570
+That's a really good process.
+
+110
+00:03:36,850 --> 00:03:39,890
+And how long is that front trading phase?
+
+111
+00:03:40,230 --> 00:03:41,190
+Does that last like a long time?
+
+112
+00:03:41,570 --> 00:03:43,650
+The rule of thumb is you got to
+
+113
+00:03:43,650 --> 00:03:45,830
+have at least, if you're day trading, you
+
+114
+00:03:45,830 --> 00:03:47,970
+got to have about 100 trades just to
+
+115
+00:03:47,970 --> 00:03:49,150
+have an idea of what the hell you're
+
+116
+00:03:49,150 --> 00:03:49,410
+doing.
+
+117
+00:03:50,930 --> 00:03:53,370
+Whatever your assumptions are, if you don't have
+
+118
+00:03:53,370 --> 00:03:56,110
+100 trades, it's not even a legitimate sample
+
+119
+00:03:56,110 --> 00:03:56,550
+size.
+
+120
+00:03:56,970 --> 00:03:58,970
+So it takes a couple of months to
+
+121
+00:03:58,970 --> 00:04:03,130
+babysit a strategy into a decent idea.
+
+122
+00:04:03,370 --> 00:04:06,290
+And remember, the whole point is, it's an
+
+123
+00:04:06,290 --> 00:04:07,250
+evolving organism.
+
+124
+00:04:07,630 --> 00:04:09,650
+So the three myths I hate is positive
+
+125
+00:04:09,650 --> 00:04:10,910
+risk-reward ratio, right?
+
+126
+00:04:12,430 --> 00:04:14,090
+Back testing is a must.
+
+127
+00:04:14,930 --> 00:04:16,490
+And the other big myth I hate is
+
+128
+00:04:16,490 --> 00:04:17,730
+set it and forget it.
+
+129
+00:04:17,930 --> 00:04:19,470
+If you're a systems trader, it's a set
+
+130
+00:04:19,470 --> 00:04:20,010
+it and forget it.
+
+131
+00:04:20,029 --> 00:04:20,690
+I don't do anything.
+
+132
+00:04:21,330 --> 00:04:21,710
+Nonsense.
+
+133
+00:04:22,530 --> 00:04:23,630
+You do a ton.
+
+134
+00:04:23,850 --> 00:04:26,390
+There's nothing ever is a set it and
+
+135
+00:04:26,390 --> 00:04:26,670
+forget it.
+
+136
+00:04:26,850 --> 00:04:30,710
+Do you think the NASA space probe is
+
+137
+00:04:30,710 --> 00:04:31,410
+a set it and forget it?
+
+138
+00:04:31,430 --> 00:04:32,610
+They just press a button, let the whole
+
+139
+00:04:32,610 --> 00:04:33,190
+thing go?
+
+140
+00:04:33,330 --> 00:04:35,970
+No, they're constantly monitoring the spaceship, and they're
+
+141
+00:04:35,970 --> 00:04:37,990
+constantly adjusting to market conditions.
+
+142
+00:04:38,310 --> 00:04:39,690
+Market conditions are just like weather conditions.
+
+143
+00:04:39,830 --> 00:04:41,310
+They change all the time.
+
+144
+00:04:41,830 --> 00:04:43,050
+There is no such thing as a static
+
+145
+00:04:43,050 --> 00:04:44,170
+life, right?
+
+146
+00:04:44,770 --> 00:04:46,010
+Yesterday is not tomorrow.
+
+147
+00:04:46,670 --> 00:04:48,090
+And tomorrow is not today.
+
+148
+00:04:48,190 --> 00:04:50,050
+You have to adjust and watch.
+
+149
+00:04:50,250 --> 00:04:52,570
+It's just a higher level of management.
+
+150
+00:04:53,050 --> 00:04:54,450
+But management is very much involved.
+
+151
+00:04:55,190 --> 00:04:57,110
+I don't believe in this whole let your
+
+152
+00:04:57,110 --> 00:04:57,870
+strategy go.
+
+153
+00:04:58,490 --> 00:05:00,010
+You want to evaluate your strategy.
+
+154
+00:05:00,110 --> 00:05:01,870
+And I evaluate my strategy almost every single
+
+155
+00:05:01,870 --> 00:05:02,750
+day on what's going on.
+
+156
+00:05:02,770 --> 00:05:04,110
+I don't necessarily change it every day.
+
+157
+00:05:04,150 --> 00:05:05,150
+Of course, I don't change it every day.
+
+158
+00:05:05,270 --> 00:05:06,350
+But I evaluate it every single day.
+
+159
+00:05:06,390 --> 00:05:08,230
+So you have to be involved just at
+
+160
+00:05:08,230 --> 00:05:08,850
+a higher level.
+
+161
+00:05:09,590 --> 00:05:09,710
+Yeah.
+
+162
+00:05:09,890 --> 00:05:11,250
+And I guess one of the temptation of
+
+163
+00:05:11,250 --> 00:05:12,850
+people when they have an alcohol, like when
+
+164
+00:05:12,850 --> 00:05:14,910
+they treat manually, is that they might say,
+
+165
+00:05:15,010 --> 00:05:16,710
+well, the alcohol is not working anymore.
+
+166
+00:05:16,830 --> 00:05:17,790
+It's like the results are bad.
+
+167
+00:05:17,850 --> 00:05:19,170
+Sometimes they stop it.
+
+168
+00:05:19,450 --> 00:05:20,770
+So how can you go back and review
+
+169
+00:05:20,770 --> 00:05:21,230
+the alcohol?
+
+170
+00:05:21,430 --> 00:05:23,650
+Is it like every month, every quarter or?
+
+171
+00:05:24,750 --> 00:05:25,470
+Just a question.
+
+172
+00:05:25,570 --> 00:05:26,770
+What does it mean when it's not working?
+
+173
+00:05:27,110 --> 00:05:27,270
+Right.
+
+174
+00:05:27,350 --> 00:05:29,750
+Like the people go, you're losing money.
+
+175
+00:05:30,010 --> 00:05:30,950
+That's that's that's.
+
+176
+00:05:31,010 --> 00:05:31,810
+So I'm losing money.
+
+177
+00:05:31,850 --> 00:05:32,210
+It's not working.
+
+178
+00:05:32,310 --> 00:05:34,110
+No, that's not the same thing.
+
+179
+00:05:34,410 --> 00:05:36,090
+Losing money and it not working is not
+
+180
+00:05:36,090 --> 00:05:36,610
+the same thing.
+
+181
+00:05:36,810 --> 00:05:37,630
+And that's where I think a lot of
+
+182
+00:05:37,630 --> 00:05:38,350
+people make the mistake.
+
+183
+00:05:38,510 --> 00:05:40,750
+That's a very, very common, I think, rookie
+
+184
+00:05:40,750 --> 00:05:41,890
+retail mistake.
+
+185
+00:05:42,870 --> 00:05:44,170
+Understand what's going on.
+
+186
+00:05:44,710 --> 00:05:47,190
+Maybe it's not working because the regime has
+
+187
+00:05:47,190 --> 00:05:47,790
+completely changed.
+
+188
+00:05:47,870 --> 00:05:49,610
+Like what is the algo supposed to do?
+
+189
+00:05:49,850 --> 00:05:50,210
+What is it?
+
+190
+00:05:50,210 --> 00:05:51,350
+What is it supposed to be working?
+
+191
+00:05:51,550 --> 00:05:51,710
+Right.
+
+192
+00:05:51,910 --> 00:05:53,810
+And also, I think a lot of times
+
+193
+00:05:53,810 --> 00:05:57,030
+people have to be much more nuanced about
+
+194
+00:05:57,030 --> 00:05:58,710
+what does it mean to be working?
+
+195
+00:05:58,790 --> 00:05:59,250
+Like, for example.
+
+196
+00:06:00,410 --> 00:06:03,030
+My algo doesn't work very well on dollar
+
+197
+00:06:03,030 --> 00:06:03,370
+Swiss.
+
+198
+00:06:03,650 --> 00:06:03,890
+Right.
+
+199
+00:06:04,310 --> 00:06:05,690
+But it works beautifully on euro dollar.
+
+200
+00:06:05,910 --> 00:06:06,210
+Why?
+
+201
+00:06:06,330 --> 00:06:10,410
+Well, because because the volatility signature of the
+
+202
+00:06:10,410 --> 00:06:11,570
+two pairs is quite different.
+
+203
+00:06:11,750 --> 00:06:15,330
+And also liquidity, you know, liquidity characters are
+
+204
+00:06:15,330 --> 00:06:15,930
+completely different.
+
+205
+00:06:16,530 --> 00:06:19,030
+So just because it's not working on one
+
+206
+00:06:19,030 --> 00:06:20,510
+thing doesn't mean it's a it's a it's
+
+207
+00:06:20,510 --> 00:06:21,770
+a not successful algo.
+
+208
+00:06:21,990 --> 00:06:23,810
+What your job is to find out where
+
+209
+00:06:23,810 --> 00:06:24,670
+it is working.
+
+210
+00:06:24,930 --> 00:06:25,150
+Right.
+
+211
+00:06:25,430 --> 00:06:27,070
+I guess that's kind of the key thing.
+
+212
+00:06:27,470 --> 00:06:30,550
+My constant process is to figure out as
+
+213
+00:06:30,550 --> 00:06:33,630
+many possible instruments on which this is working
+
+214
+00:06:33,630 --> 00:06:35,330
+as much as possible.
+
+215
+00:06:35,650 --> 00:06:36,690
+That's what I'm doing constantly.
+
+216
+00:06:36,790 --> 00:06:39,550
+I'm searching, you know, and and then when
+
+217
+00:06:39,550 --> 00:06:40,930
+you have that kind of attitude, it makes
+
+218
+00:06:40,930 --> 00:06:43,310
+a lot easier because you're not as you
+
+219
+00:06:43,310 --> 00:06:44,810
+know, you're not as deterministic, you know, like,
+
+220
+00:06:44,870 --> 00:06:45,670
+oh, you know, forget it.
+
+221
+00:06:45,770 --> 00:06:47,390
+I'm leaving it, you know, and I'm never
+
+222
+00:06:47,390 --> 00:06:48,130
+going to trade it again.
+
+223
+00:06:48,290 --> 00:06:49,990
+And then all the guys in my room
+
+224
+00:06:49,990 --> 00:06:51,650
+who are much more intelligent, much more patient
+
+225
+00:06:51,650 --> 00:06:53,650
+than I am, like keep on trading and
+
+226
+00:06:53,650 --> 00:06:54,210
+then come back to me.
+
+227
+00:06:54,290 --> 00:06:55,310
+I said, hey, you know what?
+
+228
+00:06:55,350 --> 00:06:57,030
+I made 2000 pips from that algo that
+
+229
+00:06:57,030 --> 00:06:57,370
+you gave me.
+
+230
+00:06:57,370 --> 00:06:58,850
+I'm like, what are you kidding me?
+
+231
+00:06:59,010 --> 00:06:59,770
+Are you kidding me?
+
+232
+00:07:00,030 --> 00:07:01,370
+And that was that was that was kind
+
+233
+00:07:01,370 --> 00:07:02,670
+of an eye opening lesson to me that
+
+234
+00:07:02,670 --> 00:07:05,810
+that it's not the strategy.
+
+235
+00:07:06,010 --> 00:07:06,710
+It's you.
+
+236
+00:07:06,810 --> 00:07:08,830
+You know, it's like, you know, it's not
+
+237
+00:07:08,830 --> 00:07:10,830
+it's not it's not you.
+
+238
+00:07:11,050 --> 00:07:11,470
+It's me.
+
+239
+00:07:11,750 --> 00:07:14,490
+Every trader should always look at themselves as
+
+240
+00:07:14,490 --> 00:07:16,610
+the point of failure, not at their strategy,
+
+241
+00:07:16,610 --> 00:07:19,170
+because usually that's always that's always the much
+
+242
+00:07:19,170 --> 00:07:20,970
+truthful point of view.
+
+243
+00:07:21,010 --> 00:07:21,930
+You have to be kind of much more
+
+244
+00:07:21,930 --> 00:07:23,890
+honest with what's going on over there.
+
+245
+00:07:27,370 --> 00:07:28,190
+And.

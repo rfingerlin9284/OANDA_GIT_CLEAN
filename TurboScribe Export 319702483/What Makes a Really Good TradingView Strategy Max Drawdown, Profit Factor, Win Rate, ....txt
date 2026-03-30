@@ -1,0 +1,192 @@
+(0:00 - 0:13)
+That's right guys. In this video, we're gonna learn how to evaluate a trading strategy based on the numbers from trading view. You're gonna learn which numbers are good, which numbers are bad, which strategies to stay away from and of course how to compare them against each other.
+
+(0:13 - 0:22)
+You guys are creating a lot of trading strategies now that you know how to do it with AI. My previous videos went through the roof. As you know, that's why you subscribe to this channel.
+
+(0:23 - 0:43)
+Now the next level, right? The next stage that you have to reach is how to compare these trading strategies with each other based on the numbers you're getting. And guys, having these numbers is actually a blessing. It's very nice, right? Because you were having no numbers at all. 
+
+Before that, you were using indicators. Okay, now you're using strategies. Okay, cool. 
+
+So you made the step from indicators to strategies. Great. Congratulations.
+
+(0:44 - 0:59)
+But now you need to also be able to use these numbers to make a decision, right? I'm gonna show you exactly how to do that in this video. We're gonna look at max drawdown, profit factor, percent profitable trades, net profit and other numbers. And we're gonna use some very simple mathematics, which you're gonna learn.
+
+(1:00 - 1:08)
+And then you can do the same as I do. You can evaluate trading strategies against each other very, very easily. And thanks again for the massive support that you give me, guys.
+
+(1:08 - 1:47)
+I appreciate each and every one of you, which is why I urge you to come to the Telegram group. The link is down below. It's fully free because I can give you even more value, right? You come to the group, you ask your questions, you learn more about strategies, automation, numbers, all of that, right? And we help each other there. 
+
+We even have people that started to help other people. It's not just me. Speaking of which, I want to mention these awesome people, which are in Telegram helping other people all the time. 
+
+And I'm very much appreciative of that. I think everyone else is. So thank you very much for being there. 
+
+You guys are awesome. And if you want a shout out, then just simply be helpful to other people and you will make it in my next video. So it's a great group for that.
+
+(1:48 - 1:51)
+It's not for trading signals. Okay. Don't come and expect buy this coin or something.
+
+(1:51 - 2:20)
+Not that. Okay. Go somewhere else for that. 
+
+Here we're learning about trading strategies and how to apply them, how to automate them and how to increase our chances of success. Having said that, this is not financial advice. Crypto is risky. 
+
+You can lose all of your money, but that is why you subscribe to this channel. You click the bell and you make sure to watch all of my educational videos because only then your chances of making money are at an all time high. And with all of that in mind, let's get started.
+
+(2:20 - 2:38)
+All right, guys, on the chart behind me, you can see the following strategies that I have prepared for you to go through in this video. We're going to look at the Gaussian channel strategy. We're going to look at also the improved Gaussian channel strategy for my previous video where I used AI to add the stochastic RSI to improve a lot of the numbers.
+
+(2:38 - 2:47)
+We're going to look at the whole suit strategy. We're going to look at the huddle strategy and also we're going to look at my strategy just for comparison, not in detail. Okay.
+
+(2:47 - 3:02)
+So we're going to go through all of that and we're going to look at the numbers and then figure out which strategy is the best one. Of course, all of that based on numbers and not based on my opinion. Let's go. 
+
+Okay. I put myself here onto the bottom right so that you can see the whole chart. You can see all of the relevant numbers.
+
+(3:03 - 5:32)
+And the first number I want to talk about is the max drawdown. The first number I look at whenever I put a strategy on the chart is the max drawdown. If the max drawdown guys is too high, I don't care about this strategy. 
+
+In this case, it's 30%, but too high is 50% or more. Okay guys, so if it's more than 50%, that means that my portfolio might end up being 50% worth less money than before. That is not good. 
+
+Okay. So because the max drawdown is not the max loss, that's true, but it could end up in a loss and I don't want to take the risk. Remember guys, that trading and investing is always about risk and reward. 
+
+So you cannot only look at the net profit. That's the reward. You have to also always look at the risk and you have to create a ratio, hint, hint. 
+
+I'm going to show you how to do that in this video. Okay. So 30% is fine because it's below 50. 
+
+Very simple. So that's rule number one. Rule number two is to look at the net profit and the net profit is the other part of the risk reward formula, right? So it makes money. 
+
+Okay, cool. It makes money. But now the question is, does it make enough money for the risk I'm taking? Okay. 
+
+And I'm not talking about profit factor. That's a different topic. Okay. 
+
+So max drawdown and net profit are in somehow in a relationship with each other, right? But what is the relationship? Well, it's very simple. Let me put myself here and explain. So what I do guys, right? I take the net profit percentage. 
+
+I take the percentage because then it doesn't matter how much money you invest and this will always work. So you take the 1,894.9. So let's round up to 1,895 and we divide it by 30 and then you get a ratio of about 63. Okay. 
+
+So remember that number because we're going to do the same for other strategies and then we can rank them based on that. That's not the only number, but we can rank them based on that as well. So that is the next thing that you have to do. 
+
+That's rule number three. Okay. So you had the max drawdown by itself, the net profit by itself, and now the ratio of those two, right? Nice. 
+
+So we're making progress, but the next thing I want to tell you is actually something very important, which is that you will gonna have the idea to compare this with the buy and hold return. Okay. Nice. 
+
+It's not a bad idea, right? But the problem is that you're only comparing the reward. You're not taking the risk into account, which is why I want to show you this stuff to keep you away from trouble. Okay.
+
+(5:32 - 13:45)
+So if you want to now check what is the buy and hold return for the strategy, right? It's 843%, because that's basically what trading view calculates from the first trade that ever happened, right? From here until here, 800, something like that, right? Very close. But the problem is that trading view starts from the first trade while the strategy actually started trading over here on 1st of January, 2018, right? As you can see here. So if the strategy avoided a lot of the drawdown and only bought at the bottom, then trading view will start calculating from the bottom, which is not really fair. 
+
+I'm just saying, right? Okay. So that's one thing you need to just understand how trading view works. So it goes from the first trade and pretends that it was also invested from the first trade. 
+
+That is not correct. So that is why I have a strategy here. It's called the hodl demo strategy. 
+
+I just developed it myself. If you want the code, I will put a document down below, and then you can just copy the code from that and you can use it yourself. Now, the only thing you need to do is to always put it one day before today, so that it also sells because it doesn't sell. 
+
+Then you don't see any numbers, right? So the max drawdown is 76%, okay? So just looking at going back to the Gaussian channel strategy, just looking at the buy and hold return here will not give you the full picture, okay? You have to use the hodl demo strategy to actually figure out what was the real return of the hodl strategy, right? If you start at the same time, right? And then you take the risk from the same point in time, which was the 1st of January, right? Then you have a drawdown of 77% rounding up, now let's do the same ratio calculation for the hodl strategy. So we compare now the hodl with the Gaussian channel preliminary because we're not yet fully through with all the numbers. So now take the net profit 573 divided by 77, okay? And you get a ratio of about 7.4. This is way worse than the Gaussian channel strategy. 
+
+You already know that the hodl is bad, okay? Like that's obvious, but you now also know how I calculate this stuff. Yes, sure, you can look at the drawdown already and you know already that it's about 50 and so it's already bad, okay? Yeah, Michael, but what about the DCA strategy? Well, here you go, the DCA strategy from the same timeframe selling yesterday so that we have the numbers. You can see 585% profit with the max drawdown of 13.3. Let's divide these numbers and you get to a ratio of 45. 
+
+Yes, that is better than the hodl strategy because the hodl strategy is the worst strategy in the universe for individual assets. And if you're not sure what I'm talking about, then watch this video here that a lot of people have watched already and opened their eyes, but watch it only after this one. We're going back to the Gaussian channel strategy to understand the profit factor and that would be rule number four, okay? So the profit factor, first of all, how is it defined? You can see here, it is the gross profits divided by the gross losses. 
+
+If you want to calculate this number yourself, simply go to the performance summary and divide this by this, right? It's very simple to do and this is the number 3.2. So the profit factor and don't confuse it right with the net profit versus max drawdown because that ratio is how much your portfolio is actually fluctuating up and down, but it doesn't mean that you actually realized that max drawdown, okay? It was just a max drawdown, but the profit factor shows you how the ratio is between the money you made and the money you lost. So that is the actual money that was made and lost and obviously this number has to be above one and the more it is above one, the better, okay? You see here 3.2, that is pretty good, right? But can we do better? Yes, there are strategies that do five or even six on Bitcoin, but on certain altcoins, this could be a huge number. This could be 40 or 30 and it doesn't mean that that strategy is good on every coin, right? But often you have this massive volatility to the upside and you were lucky to have only a couple of losing trades or maybe none at all and just make one massive winning trade, then of course the profit factor is huge, right? I mean, you have to have at least one losing trade, otherwise they divide by zero, but let's say you had a losing trade of 1%, but then you made 100%. 
+
+I mean, that profit factor would be massive, okay? So don't take that profit factor too seriously if they're not enough trades on the chart or also if the chart doesn't have enough price history, okay? So if you're looking at a new coin that starts in 2024, it just launched a couple of months ago, then the profit factor, you can't really take it too seriously, okay? But sure, it's one of the numbers, it's rule number four, like I said, and that is also why it's not the most important rule, but it's one that you have to look at. Let's go back to the chart, Gaussian channel strategy on the chart. The next number you should look at is the percent profitable trades. 
+
+You can also call it the win rate. I will call it the win rate because it's easier to say. And in this case, it's 29.27%. Now, is that good or bad? And what is the rule we have for it? Well, let's think about it a little bit. 
+
+So if the strategy wins more trades, then it should be a better strategy. Well, not necessarily, because the question is when it wins, how much does it win? And when it loses, how much does it lose? So does it really matter how many trades it wins? Well, it's a psychological thing, right? Because if you have a strategy, and let me show you this right here, that is losing a lot of trades and only then makes one massive winning trade like this one here, right? But before that, you had one, two, three, four, five, six, seven, eight losing trades, would you still use this strategy? Because it's psychologically a massive problem, right? So it is not so much a mathematical issue, but it's more like a psychological issue. So if you can choose a strategy that wins more, it's better for you, because the chances for you to stick to the strategy and to use it for a long time and benefit from the numbers is much higher when the win rate is higher, right? So yes, it's part of the calculation is not the most important number, but I'm looking at it as well. 
+
+And I do take it into account when it comes to my overall decision making. Well, this number is not disqualifying a strategy necessarily. So rule number five is not a particular number that has to be above or below, but it has to be better than the other strategy that you're comparing for. 
+
+So the rule here is that higher is better, but there is no particular number, it has to be above. It just has to be better than the other strategy you're looking at. And it also has to match your psychology. 
+
+So make sure that you can survive a lot of losing trades if you're picking a strategy with a low win rate. Now, you know which numbers to look at, how to look at them. Now let's take all these trading strategies, turn them on and check the numbers and figure out which strategy is the best one. 
+
+And at the end of the video, I will tell you one more thing that you must do when evaluating trading strategies. Stick around, let's go. Now we're going to look at the improved caution channel strategy, which is the one that I've created in my last video by adding the stochastic RSI to avoid a lot of these losing trades. 
+
+If you want to know all about that and simply watch my last video, I will link it up top. And so these numbers here look a little bit different. You see that the drawdown is way, way lower. 
+
+The net profit is pretty much the same, but the profit factor now is six and the percent profitable trades is 50. So it's way better, like without doing any calculation, I can already tell you that is way better. But let's do the simple calculation where we divide the net profit by the max drawdown. 
+
+And when doing that, we're getting to a factor of 130, which is pretty good and is way better than the previous caution channel strategy. Okay. The other numbers you can check for yourself. 
+
+That's all fine. And then the whole suit strategy. Well, you can already see that the max drawdown, the first number I'm looking at rule number one is about 50%. 
+
+So I don't care about this whatsoever. Okay. So let's get out of here. 
+
+Then we have the hodl strategy with 76% max drawdown. Get out of here. We have DCA, which is a bit better. 
+
+You can do the calculation. We did that already. The DCA strategy has a factor of 45, right? But it doesn't matter.
+
+(13:45 - 17:04)
+It's already pretty bad based on the, all the other numbers basically. And then we also have my own strategy, which has these numbers and I'm just putting it out there. So you see how it could also look like, right? Which has these numbers over here. 
+
+And if we're doing the calculation, then you will see that the factor between net profit and max drawdown is actually only 125. Whereas the Gaussian channel, the improved one here was actually at 130. So that looks a bit better, right? So it looks like the improved Gaussian channel strategy is better than my own strategy. 
+
+Well, is that the case? Now I want to show you one more important thing when it comes to evaluating strategies. And that is to apply the same strategy on different assets. Because if it works on one coin, I mean, I can make a strategy that works even better than the Gaussian channel strategy on Bitcoin and has a hundred percent win rate. 
+
+But isn't that overfitted to the coin? Well, yes, of course it is. And when a coin works super great on one coin, then there is a risk that it doesn't work on that same coin with future data, right? Because it is made for the past, it's overfitted to the past. But what if the future is a bit different? For example, Bitcoin now has an ETF, right? Different players are now playing the game as well. 
+
+So they might change the game, but you don't know, right? So you need a strategy that is general purpose that can deal with that as well, right? Not only with the past, but also with the future. So that is why you have to also take all of these strategies and apply them on other coins. And I will just look at the improved Gaussian channel and my own, because the improved one is the best one. 
+
+So I have less comparing to do. I only have to compare two strategies with each other because the other ones are already out of the question. And I'm using my own strategy here because I want you to learn something specific. 
+
+And I don't know which other strategy I can use to prove that same point I want to prove in the coming segment of this video. If you know another strategy, then let me know. Come to Telegram and chat with me there. 
+
+So let's go to Ethereum, right? Because why not, right? Go to Ethereum. You have the Gaussian channel strategy making, okay, first, the max drawdown, 53%. Screw that. 
+
+Now let's go to my strategy, 29.7, let's say 32,500% profit. Let's go way better without changing any parameters. Okay. 
+
+So let's go to Solana. This is the improved Gaussian channel strategy, almost 49% max drawdown with 10,544% net profit. The factor by the way is, I will put it here on the screen is 215. 
+
+And let's go to my strategy. We have a max drawdown of 37 and a net profit of 20,914. The factor again, I will put it here on the screen is 565. 
+
+Okay. That's a different universe. And that's why you need a strategy that is robust. 
+
+Okay. Let's turn it off again and let's go to Polygonmatic. And we have the improved Gaussian channel strategy, 71% max drawdown. 
+
+Screw that. That's too high. Let's go to my strategy, 36.28 with 4,744% net profit. 
+
+So that is on a different level. And that is why it's so hard to create very good and robust strategies. So make sure guys, why am I telling you all of that? Right? I'm not telling you that so that I'm saying use my strategy. 
+
+No. Okay. I'm telling you so that you can go here.
+
+(17:04 - 17:19)
+And when you mess around with the settings of the Gaussian channel strategy, then make sure to not have the settings in such a way that they work only for one coin. Okay. Make sure that they work for more coins. 
+
+Okay. That is actually the message over here. Right.
+
+(17:19 - 18:17)
+And so once you manage to do that, then you have a more robust version of the strategy. Okay. So it doesn't mean the Gaussian channel, the improved one is bad or the old one is bad. 
+
+It's just that you need to figure out the right configuration. Maybe you need to add another indicator to it, which we know how to do that. Right. 
+
+Because we have the freaking AI video that you guys love. It's linked up above. Okay. 
+
+So that is the message here, guys. Make sure to not overfit your strategy to one coin only. Okay, guys. 
+
+Now you know how to evaluate a trading strategy properly also on different coins. And I want you guys to go bananas with this because it has the potential to change your life forever. Okay. 
+
+Mess around, create a strategy that is not overfitted, works on the coins that you like more than one. Yes. More than one. 
+
+We want a robust strategy. But please take this knowledge and apply this knowledge. Okay. 
+
+Don't just listen to my voice and the guy's funny and drinks coffee and everything. By the way, cheers. I love this stuff.
+
+(18:17 - 19:12)
+But take this knowledge and actually apply it. Okay. Please make it happen and come to the telegram group, share your questions, but also share your successes. 
+
+Okay. Share your freaking successes to also motivate other people to do the same thing because not everyone will have the same strategy. So that's fine. 
+
+Right. And this way you're giving back a little bit to help other people, which is always nice. And if for some reason you want access to my trading strategies, then go to autotrading.vip. But hey, my calendar is full until January already. 
+
+So make sure if you put some information there about why you apply, then put something interesting because otherwise I cannot move you forward. Like it's very hard for me. Okay. 
+
+A lot of people want access. It's hardcore. I'm in calls all day long during the week. 
+
+That's why I'm making videos on the weekend. Okay. Having said all of that, if you want to learn about automation, you want to automate a trading strategy, which I think you should because that's the way to avoid emotions and all. 
+
+Then this is the next video you should watch.

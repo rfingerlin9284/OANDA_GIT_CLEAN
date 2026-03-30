@@ -1,0 +1,1515 @@
+1
+00:00:00,290 --> 00:00:02,270
+Hey traders, in this video I'll be showing
+
+2
+00:00:02,270 --> 00:00:05,150
+you 4 simple to learn trading strategies that's
+
+3
+00:00:05,150 --> 00:00:08,190
+able to generate $500 per day in profits.
+
+4
+00:00:08,630 --> 00:00:11,130
+And of course, these strategies are all backtested
+
+5
+00:00:11,130 --> 00:00:13,130
+to have a high win percentage, so you
+
+6
+00:00:13,130 --> 00:00:14,190
+can trust that they work.
+
+7
+00:00:14,490 --> 00:00:16,330
+And the best part is that I've laid
+
+8
+00:00:16,330 --> 00:00:18,970
+out specific instructions that you can easily follow,
+
+9
+00:00:19,270 --> 00:00:21,570
+so after watching this video, you can implement
+
+10
+00:00:21,570 --> 00:00:23,550
+these steps and start trading immediately.
+
+11
+00:00:23,950 --> 00:00:25,970
+So without further ado, let's move on with
+
+12
+00:00:25,970 --> 00:00:26,930
+the first strategy.
+
+13
+00:00:27,710 --> 00:00:30,370
+For this strategy, we're taking advantage of what's
+
+14
+00:00:30,370 --> 00:00:32,610
+called a stop hunt in order to find
+
+15
+00:00:32,610 --> 00:00:33,750
+trade opportunities.
+
+16
+00:00:34,310 --> 00:00:35,850
+Now, for those of you who don't know
+
+17
+00:00:35,850 --> 00:00:37,770
+what a stop hunt is, here's an example.
+
+18
+00:00:38,430 --> 00:00:39,870
+So let's say you look at a chart
+
+19
+00:00:39,870 --> 00:00:41,730
+and you see the price rejecting an area
+
+20
+00:00:41,730 --> 00:00:44,390
+multiple times, so you draw a support level.
+
+21
+00:00:44,910 --> 00:00:47,710
+Next, as it approaches that level again, you
+
+22
+00:00:47,710 --> 00:00:50,590
+think to yourself, hmm, the price did reverse
+
+23
+00:00:50,590 --> 00:00:52,630
+from this support level in the past, so
+
+24
+00:00:52,630 --> 00:00:55,010
+maybe it could reverse from it once again.
+
+25
+00:00:55,410 --> 00:00:57,810
+Hoping for a reversal, you enter a buy
+
+26
+00:00:57,810 --> 00:00:58,310
+position.
+
+27
+00:00:59,010 --> 00:01:01,050
+Now, being the disciplined trader that you are,
+
+28
+00:01:01,310 --> 00:01:03,269
+you did forget your stop loss, so you
+
+29
+00:01:03,269 --> 00:01:05,270
+place it slightly below that support level.
+
+30
+00:01:05,870 --> 00:01:08,850
+However, instead of reversing from that level, price
+
+31
+00:01:08,850 --> 00:01:11,190
+instead went down hitting your stop loss first
+
+32
+00:01:11,190 --> 00:01:12,950
+before reversing back up.
+
+33
+00:01:13,310 --> 00:01:15,230
+This is called a stop hunt, and it
+
+34
+00:01:15,230 --> 00:01:17,750
+is purposely done by institutions to hunt the
+
+35
+00:01:17,750 --> 00:01:19,410
+stop losses of retail traders.
+
+36
+00:01:19,410 --> 00:01:22,270
+Now, using the right technique, we can actually
+
+37
+00:01:22,270 --> 00:01:24,350
+use these stop hunts to our advantage to
+
+38
+00:01:24,350 --> 00:01:26,930
+get high win rate trade opportunities, and this
+
+39
+00:01:26,930 --> 00:01:27,330
+is how.
+
+40
+00:01:27,990 --> 00:01:29,990
+So, the first step is you want to
+
+41
+00:01:29,990 --> 00:01:31,450
+find an obvious key level.
+
+42
+00:01:31,750 --> 00:01:33,690
+This could either be a support or a
+
+43
+00:01:33,690 --> 00:01:34,430
+resistance level.
+
+44
+00:01:34,710 --> 00:01:37,230
+But remember, the key word here is obvious,
+
+45
+00:01:37,590 --> 00:01:39,330
+because you want to find a level where
+
+46
+00:01:39,330 --> 00:01:42,210
+many retail traders are also paying attention, which
+
+47
+00:01:42,210 --> 00:01:44,450
+is usually more susceptible to a stop hunt.
+
+48
+00:01:44,770 --> 00:01:46,550
+Here, we can see that the price went
+
+49
+00:01:46,550 --> 00:01:48,310
+up to this level and reversed from it,
+
+50
+00:01:48,550 --> 00:01:50,390
+making it an obvious resistance level.
+
+51
+00:01:50,770 --> 00:01:52,530
+The next step is to wait for the
+
+52
+00:01:52,530 --> 00:01:54,550
+price to approach that level again and break
+
+53
+00:01:54,550 --> 00:01:55,010
+out of it.
+
+54
+00:01:56,370 --> 00:01:58,810
+Once this happens, you take a closer look
+
+55
+00:01:58,810 --> 00:02:00,750
+at the price action that's happening at that
+
+56
+00:02:00,750 --> 00:02:01,070
+area.
+
+57
+00:02:01,510 --> 00:02:03,650
+So, you zoom in 2 timeframes below.
+
+58
+00:02:04,170 --> 00:02:06,110
+For example, currently we're on the 4-hour
+
+59
+00:02:06,110 --> 00:02:08,030
+chart, so let's zoom in into the 2
+
+60
+00:02:08,030 --> 00:02:08,590
+-hour chart.
+
+61
+00:02:09,550 --> 00:02:11,410
+Now, in the 2-hour chart, we can
+
+62
+00:02:11,410 --> 00:02:13,950
+actually see a large green candle breaking that
+
+63
+00:02:13,950 --> 00:02:14,630
+resistance area.
+
+64
+00:02:14,630 --> 00:02:17,390
+Now, a question arises, how do we know
+
+65
+00:02:17,390 --> 00:02:19,630
+if this will be a stop hunt, or
+
+66
+00:02:19,630 --> 00:02:22,610
+an actual breakout and price did continue upwards?
+
+67
+00:02:23,390 --> 00:02:25,610
+So, the good thing about this strategy is
+
+68
+00:02:25,610 --> 00:02:28,010
+we could still make profits regardless of what's
+
+69
+00:02:28,010 --> 00:02:28,770
+going to happen.
+
+70
+00:02:29,170 --> 00:02:31,130
+So, what I do instead, as soon as
+
+71
+00:02:31,130 --> 00:02:33,830
+the price breaks this resistance area, I immediately
+
+72
+00:02:33,830 --> 00:02:36,370
+place a limit sell order below this key
+
+73
+00:02:36,370 --> 00:02:36,650
+level.
+
+74
+00:02:37,230 --> 00:02:38,750
+Now, for those of you who don't know
+
+75
+00:02:38,750 --> 00:02:40,810
+what a limit order is, it's simply just
+
+76
+00:02:40,810 --> 00:02:42,590
+an order to open a position at a
+
+77
+00:02:42,590 --> 00:02:43,410
+specific price.
+
+78
+00:02:43,770 --> 00:02:45,910
+So, only if price touches my limit order,
+
+79
+00:02:46,490 --> 00:02:47,830
+a sell position would open.
+
+80
+00:02:48,170 --> 00:02:50,410
+If it doesn't, then no position would open.
+
+81
+00:02:51,130 --> 00:02:53,290
+By doing this, if this breakout happens to
+
+82
+00:02:53,290 --> 00:02:55,830
+be a stop hunt, then our sell order
+
+83
+00:02:55,830 --> 00:02:57,690
+would be triggered and we would make money
+
+84
+00:02:57,690 --> 00:02:59,550
+as the price reverses back down.
+
+85
+00:02:59,930 --> 00:03:02,090
+However, if this happens to be a real
+
+86
+00:03:02,090 --> 00:03:04,930
+breakout and price did continue upwards, our sell
+
+87
+00:03:04,930 --> 00:03:06,750
+order would not be triggered and we won't
+
+88
+00:03:06,750 --> 00:03:07,530
+lose any money.
+
+89
+00:03:07,950 --> 00:03:09,930
+Now, to add another layer to this strategy,
+
+90
+00:03:10,230 --> 00:03:12,350
+we can also place a limit buy order
+
+91
+00:03:12,350 --> 00:03:13,290
+above the breakout.
+
+92
+00:03:13,630 --> 00:03:15,530
+And the idea behind this is we're playing
+
+93
+00:03:15,530 --> 00:03:16,370
+both directions.
+
+94
+00:03:16,930 --> 00:03:18,950
+If this was a breakout, then our limit
+
+95
+00:03:18,950 --> 00:03:20,710
+buy order would get triggered and we would
+
+96
+00:03:20,710 --> 00:03:22,910
+make a profit as price continues to go
+
+97
+00:03:22,910 --> 00:03:23,190
+up.
+
+98
+00:03:23,470 --> 00:03:25,770
+However, if this was a stop hunt, then
+
+99
+00:03:25,770 --> 00:03:27,310
+our limit sell order will be the one
+
+100
+00:03:27,310 --> 00:03:29,150
+that gets triggered and we would make profit
+
+101
+00:03:29,150 --> 00:03:30,890
+as price reverses back down.
+
+102
+00:03:31,210 --> 00:03:33,150
+Now, of course, there's still the risk that
+
+103
+00:03:33,150 --> 00:03:35,530
+price moves in the opposite direction after one
+
+104
+00:03:35,530 --> 00:03:36,790
+of our limit order is triggered.
+
+105
+00:03:37,030 --> 00:03:38,990
+That's why it's important to place a stop
+
+106
+00:03:38,990 --> 00:03:40,930
+loss and profit target after one of them
+
+107
+00:03:40,930 --> 00:03:41,390
+is triggered.
+
+108
+00:03:41,810 --> 00:03:43,550
+Now, let's see which limit order would get
+
+109
+00:03:43,550 --> 00:03:43,870
+triggered.
+
+110
+00:03:44,910 --> 00:03:47,190
+As you can see, price moved downwards and
+
+111
+00:03:47,190 --> 00:03:49,270
+triggers our sell limit order which opens a
+
+112
+00:03:49,270 --> 00:03:49,910
+sell position.
+
+113
+00:03:50,410 --> 00:03:52,550
+After the sell position is opened, you place
+
+114
+00:03:52,550 --> 00:03:54,110
+a stop loss in the middle of the
+
+115
+00:03:54,110 --> 00:03:57,150
+breakout candle and take profit at 4x stop
+
+116
+00:03:57,150 --> 00:03:57,490
+loss.
+
+117
+00:03:58,870 --> 00:04:01,390
+And as you can see, price continued downwards
+
+118
+00:04:01,390 --> 00:04:02,530
+and hits our take profit.
+
+119
+00:04:03,150 --> 00:04:05,010
+Let's move on to the second strategy.
+
+120
+00:04:06,110 --> 00:04:09,010
+So, for this next strategy, we're utilizing the
+
+121
+00:04:09,010 --> 00:04:11,490
+Fibonacci Retracement tool, but we'll be using it
+
+122
+00:04:11,490 --> 00:04:13,590
+slightly different from what is usually taught.
+
+123
+00:04:13,970 --> 00:04:15,190
+Now, for those of you who don't know
+
+124
+00:04:15,190 --> 00:04:17,269
+how the Fibonacci tool works, here's a quick
+
+125
+00:04:17,269 --> 00:04:17,829
+explanation.
+
+126
+00:04:18,470 --> 00:04:20,230
+So, it is simply a tool that is
+
+127
+00:04:20,230 --> 00:04:22,770
+used to identify where a pullback or a
+
+128
+00:04:22,770 --> 00:04:23,950
+retracement might end.
+
+129
+00:04:24,190 --> 00:04:26,550
+For example, if price moves upwards and forms
+
+130
+00:04:26,550 --> 00:04:28,910
+a slight retracement, we can apply the Fibonacci
+
+131
+00:04:28,910 --> 00:04:31,410
+Retracement tool to know where this retracement might
+
+132
+00:04:31,410 --> 00:04:31,770
+end.
+
+133
+00:04:32,010 --> 00:04:33,790
+To do this, you drag the tool from
+
+134
+00:04:33,790 --> 00:04:35,350
+the low to the swing high.
+
+135
+00:04:36,330 --> 00:04:38,750
+Once applied, traders can observe these levels as
+
+136
+00:04:38,750 --> 00:04:40,870
+they often act as possible levels where the
+
+137
+00:04:40,870 --> 00:04:42,070
+retracement may end.
+
+138
+00:04:43,190 --> 00:04:45,810
+So, for this specific strategy, we're only using
+
+139
+00:04:45,810 --> 00:04:49,090
+the 0.618 and the 1.618 Fibonacci
+
+140
+00:04:49,090 --> 00:04:49,410
+level.
+
+141
+00:04:49,650 --> 00:04:51,410
+To do that, you go to the settings
+
+142
+00:04:51,410 --> 00:04:53,570
+of the Fibonacci tool and disable all the
+
+143
+00:04:53,570 --> 00:04:56,230
+other levels except the 0.618 and the
+
+144
+00:04:56,230 --> 00:04:59,210
+1.618. Once you've done that, your Fibonacci
+
+145
+00:04:59,210 --> 00:05:00,490
+tool should look like this.
+
+146
+00:05:00,890 --> 00:05:02,670
+Now, here's how you trade this strategy.
+
+147
+00:05:03,350 --> 00:05:04,670
+The first step is to look for a
+
+148
+00:05:04,670 --> 00:05:06,370
+price action where there's a trend and a
+
+149
+00:05:06,370 --> 00:05:08,410
+slight retracement, like in this example.
+
+150
+00:05:09,730 --> 00:05:12,370
+Next, you apply the Fibonacci Retracement tool on
+
+151
+00:05:12,370 --> 00:05:13,170
+that price action.
+
+152
+00:05:14,030 --> 00:05:16,130
+From here, we wait for the price to
+
+153
+00:05:16,130 --> 00:05:19,970
+pull back towards the 0.618 level and
+
+154
+00:05:19,970 --> 00:05:21,670
+try to see if the price shows some
+
+155
+00:05:21,670 --> 00:05:23,190
+type of rejection towards it.
+
+156
+00:05:23,410 --> 00:05:25,690
+To do that, we do a multi-timeframe
+
+157
+00:05:25,690 --> 00:05:28,210
+analysis by looking at lower timeframes to analyze
+
+158
+00:05:28,210 --> 00:05:29,410
+the price action further.
+
+159
+00:05:29,970 --> 00:05:31,610
+So, we're on the 4-hour timeframe.
+
+160
+00:05:31,910 --> 00:05:33,750
+Let's zoom in into the 1-hour timeframe.
+
+161
+00:05:34,490 --> 00:05:36,410
+Now, in the 1-hour timeframe, we can
+
+162
+00:05:36,410 --> 00:05:38,910
+apply the MACD indicator for trend confirmation.
+
+163
+00:05:40,370 --> 00:05:42,790
+As you can see, the MACD indicator crossed
+
+164
+00:05:42,790 --> 00:05:45,750
+over upwards after price hits the 0.618
+
+165
+00:05:45,750 --> 00:05:48,270
+level, which further confirms that the price will
+
+166
+00:05:48,270 --> 00:05:50,170
+likely bounce upwards from that level.
+
+167
+00:05:50,970 --> 00:05:52,450
+And so, we go back to the 4
+
+168
+00:05:52,450 --> 00:05:54,550
+-hour timeframe and enter a buy position.
+
+169
+00:05:55,130 --> 00:05:56,890
+The next step is we use the tool
+
+170
+00:05:56,890 --> 00:05:58,950
+once again, take the last highs of the
+
+171
+00:05:58,950 --> 00:06:01,170
+retracement, and drag it towards the lows of
+
+172
+00:06:01,170 --> 00:06:01,730
+the retracement.
+
+173
+00:06:02,370 --> 00:06:04,470
+And this is where the 1.618 level
+
+174
+00:06:04,470 --> 00:06:05,310
+comes into play.
+
+175
+00:06:05,490 --> 00:06:07,210
+We use it to set our target profit.
+
+176
+00:06:07,630 --> 00:06:09,330
+Once you've done that, you can let the
+
+177
+00:06:09,330 --> 00:06:09,850
+trade run.
+
+178
+00:06:11,230 --> 00:06:13,450
+And as you can see, price exactly hits
+
+179
+00:06:13,450 --> 00:06:14,150
+our profit target.
+
+180
+00:06:14,610 --> 00:06:16,430
+Now, let's move on to the third strategy.
+
+181
+00:06:17,710 --> 00:06:20,270
+So, unlike the other strategies on this list,
+
+182
+00:06:20,510 --> 00:06:22,810
+this one is a scalping strategy and we'll
+
+183
+00:06:22,810 --> 00:06:24,870
+trade it on the 1-minute timeframe using
+
+184
+00:06:24,870 --> 00:06:26,470
+an indicator called the CCI.
+
+185
+00:06:26,890 --> 00:06:29,690
+And so, based on backtesting results, the CCI
+
+186
+00:06:29,690 --> 00:06:32,790
+is particularly effective for identifying divergences.
+
+187
+00:06:33,010 --> 00:06:34,330
+But for those of you who don't know
+
+188
+00:06:34,330 --> 00:06:36,670
+how to spot divergences, here's a quick example.
+
+189
+00:06:37,390 --> 00:06:39,970
+So usually, an indicator will display the same
+
+190
+00:06:39,970 --> 00:06:41,330
+signal as the price movement.
+
+191
+00:06:41,530 --> 00:06:43,810
+If the price forms higher highs, the indicator
+
+192
+00:06:43,810 --> 00:06:45,610
+will also display higher highs.
+
+193
+00:06:45,910 --> 00:06:48,190
+However, there are setups where it's the opposite.
+
+194
+00:06:48,570 --> 00:06:51,330
+For example, price forms higher lows, but the
+
+195
+00:06:51,330 --> 00:06:53,270
+indicator displays lower lows instead.
+
+196
+00:06:53,650 --> 00:06:54,870
+And this is called a divergence.
+
+197
+00:06:55,410 --> 00:06:58,930
+Specifically, this is a bullish hidden divergence, presenting
+
+198
+00:06:58,930 --> 00:07:01,230
+a good opportunity to take a buy position.
+
+199
+00:07:01,810 --> 00:07:04,230
+There are multiple types of divergences, and you
+
+200
+00:07:04,230 --> 00:07:05,870
+can use this graphic as a guide to
+
+201
+00:07:05,870 --> 00:07:06,590
+identify them.
+
+202
+00:07:07,310 --> 00:07:09,350
+Now, I'm going to prove that this strategy
+
+203
+00:07:09,350 --> 00:07:11,610
+works by doing a live trading session.
+
+204
+00:07:12,690 --> 00:07:15,010
+So first, you want to apply the CCI
+
+205
+00:07:15,010 --> 00:07:16,210
+indicator onto your charts.
+
+206
+00:07:16,490 --> 00:07:18,730
+And if you're using the SimpleFX platform like
+
+207
+00:07:18,730 --> 00:07:20,830
+I am, you can go to the and
+
+208
+00:07:20,830 --> 00:07:22,130
+select CCI.
+
+209
+00:07:23,270 --> 00:07:25,670
+After that, go to the 1-minute chart,
+
+210
+00:07:26,010 --> 00:07:28,790
+and find a setup where the price forms
+
+211
+00:07:28,790 --> 00:07:29,350
+a divergence.
+
+212
+00:07:29,790 --> 00:07:31,370
+You can use the search menu here to
+
+213
+00:07:31,370 --> 00:07:34,010
+find different charts, whether it be crypto, forex,
+
+214
+00:07:34,250 --> 00:07:35,090
+stocks, or others.
+
+215
+00:07:36,030 --> 00:07:38,710
+So, after some searching, I came across this
+
+216
+00:07:38,710 --> 00:07:41,070
+setup on the Bitcoin USD 1-minute chart.
+
+217
+00:07:41,490 --> 00:07:44,610
+Price formed lower lows, but the CCI displays
+
+218
+00:07:44,610 --> 00:07:45,350
+higher lows.
+
+219
+00:07:45,850 --> 00:07:47,890
+And based on the guide, this is a
+
+220
+00:07:47,890 --> 00:07:48,770
+bullish divergence.
+
+221
+00:07:49,450 --> 00:07:50,850
+So you enter a buy position.
+
+222
+00:07:51,390 --> 00:07:53,450
+To do that, click the buy button here
+
+223
+00:07:53,450 --> 00:07:55,430
+and set your position size for this trade.
+
+224
+00:07:55,990 --> 00:07:58,390
+Next, for a take profit target, we can
+
+225
+00:07:58,390 --> 00:08:00,550
+set it at this minor resistance level at
+
+226
+00:08:00,550 --> 00:08:01,910
+64379.
+
+227
+00:08:02,250 --> 00:08:03,310
+So you insert that.
+
+228
+00:08:04,850 --> 00:08:07,010
+Now for a stop loss, we can set
+
+229
+00:08:07,010 --> 00:08:09,230
+it at slightly below the support area at
+
+230
+00:08:09,230 --> 00:08:11,850
+64209, and insert that as well.
+
+231
+00:08:13,170 --> 00:08:15,010
+Here, you can see how much you'd make
+
+232
+00:08:15,010 --> 00:08:16,770
+if price hits our profit target, and how
+
+233
+00:08:16,770 --> 00:08:18,310
+much we'd lose if the price hits our
+
+234
+00:08:18,310 --> 00:08:18,890
+stop loss.
+
+235
+00:08:19,350 --> 00:08:21,570
+Next, click submit to open the trade, and
+
+236
+00:08:21,570 --> 00:08:22,370
+let the trade run.
+
+237
+00:08:25,910 --> 00:08:27,550
+And as you can see, price hits our
+
+238
+00:08:27,550 --> 00:08:29,950
+take profit, and we made $90 profit in
+
+239
+00:08:29,950 --> 00:08:31,750
+a couple of minutes from this one setup.
+
+240
+00:08:32,110 --> 00:08:34,230
+You can keep repeating this strategy over and
+
+241
+00:08:34,230 --> 00:08:35,990
+over again as long as you spot a
+
+242
+00:08:35,990 --> 00:08:36,330
+divergence.
+
+243
+00:08:37,030 --> 00:08:38,590
+And by the way, if you're looking for
+
+244
+00:08:38,590 --> 00:08:40,730
+a broker to win more trades, I highly
+
+245
+00:08:40,730 --> 00:08:42,830
+recommend clicking the link in the description for
+
+246
+00:08:42,830 --> 00:08:43,470
+SimpleFX.
+
+247
+00:08:43,470 --> 00:08:45,910
+They're very simple to use, have all the
+
+248
+00:08:45,910 --> 00:08:47,710
+tools you need to make an analysis, and
+
+249
+00:08:47,710 --> 00:08:49,990
+you can trade multiple assets on one platform.
+
+250
+00:08:50,410 --> 00:08:51,870
+And if you use the link in my
+
+251
+00:08:51,870 --> 00:08:54,610
+description, you'll get a $40 deposit bonus if
+
+252
+00:08:54,610 --> 00:08:57,150
+you deposit at least $100 into your account.
+
+253
+00:08:57,450 --> 00:08:59,490
+Now let's move on to the fourth strategy.
+
+254
+00:09:00,690 --> 00:09:02,450
+So this one is one of my most
+
+255
+00:09:02,450 --> 00:09:04,790
+profitable strategy that has allowed me to scale
+
+256
+00:09:04,790 --> 00:09:07,170
+my trading account considerably, and this is how.
+
+257
+00:09:07,630 --> 00:09:10,170
+So we know that are only trending about
+
+258
+00:09:10,170 --> 00:09:12,490
+30% of the time, while remains within
+
+259
+00:09:12,490 --> 00:09:14,670
+a range about 70% of the time.
+
+260
+00:09:14,930 --> 00:09:17,270
+This means that prices aren't always moving towards
+
+261
+00:09:17,270 --> 00:09:18,110
+a certain trend.
+
+262
+00:09:18,430 --> 00:09:20,670
+Most of the time, they move overall sideways
+
+263
+00:09:20,670 --> 00:09:22,770
+while deviate between certain levels.
+
+264
+00:09:23,090 --> 00:09:24,850
+Because of this, if you know a strategy
+
+265
+00:09:24,850 --> 00:09:27,190
+to trade range markets, you'll be able to
+
+266
+00:09:27,190 --> 00:09:28,990
+generate more profitable signals.
+
+267
+00:09:29,330 --> 00:09:30,770
+And here's how this strategy works.
+
+268
+00:09:31,310 --> 00:09:33,510
+The first step is to identify a range
+
+269
+00:09:33,510 --> 00:09:35,710
+market, which is simply a market that moves
+
+270
+00:09:35,710 --> 00:09:36,810
+overall sideways.
+
+271
+00:09:37,270 --> 00:09:39,390
+Now, during a range market, you should be
+
+272
+00:09:39,390 --> 00:09:41,950
+able to identify both support and resistance level
+
+273
+00:09:41,950 --> 00:09:42,950
+within that range.
+
+274
+00:09:43,170 --> 00:09:45,310
+For example, if price rejects an upper level
+
+275
+00:09:45,310 --> 00:09:46,990
+multiple times, that's your resistance.
+
+276
+00:09:47,350 --> 00:09:49,690
+And if it rejects a lower level, that's
+
+277
+00:09:49,690 --> 00:09:50,210
+your support.
+
+278
+00:09:50,870 --> 00:09:53,250
+Now, here's how I trade range markets differently
+
+279
+00:09:53,250 --> 00:09:54,190
+from most traders.
+
+280
+00:09:54,490 --> 00:09:56,530
+Instead of only trading at these major key
+
+281
+00:09:56,530 --> 00:09:58,810
+levels, I also take advantage of the price
+
+282
+00:09:58,810 --> 00:10:00,690
+action that's middle area.
+
+283
+00:10:00,950 --> 00:10:02,870
+And to do that, I draw another line
+
+284
+00:10:02,870 --> 00:10:04,730
+in the exact middle of these major key
+
+285
+00:10:04,730 --> 00:10:05,150
+levels.
+
+286
+00:10:05,470 --> 00:10:06,910
+This is what I call the midline.
+
+287
+00:10:07,390 --> 00:10:09,450
+So, using the midline that we drew, we
+
+288
+00:10:09,450 --> 00:10:11,030
+can now see that the range is divided
+
+289
+00:10:11,030 --> 00:10:12,190
+between two zones.
+
+290
+00:10:12,570 --> 00:10:14,430
+The upper zone and the bottom zone.
+
+291
+00:10:14,950 --> 00:10:16,970
+So, we know that as long as price
+
+292
+00:10:16,970 --> 00:10:19,170
+stays within this range, only two things can
+
+293
+00:10:19,170 --> 00:10:19,510
+happen.
+
+294
+00:10:19,910 --> 00:10:22,170
+Either it stays on this upper zone, or
+
+295
+00:10:22,170 --> 00:10:23,670
+switch to this bottom zone.
+
+296
+00:10:23,950 --> 00:10:26,030
+And it will keep doing this until eventually,
+
+297
+00:10:26,350 --> 00:10:27,790
+price breaks out of the range.
+
+298
+00:10:28,210 --> 00:10:30,370
+But for this strategy, we only trade if
+
+299
+00:10:30,370 --> 00:10:32,350
+the price still remains within this range.
+
+300
+00:10:32,710 --> 00:10:33,750
+So, here's how it works.
+
+301
+00:10:34,150 --> 00:10:36,350
+The first step is to identify where the
+
+302
+00:10:36,350 --> 00:10:37,570
+current price is positioned.
+
+303
+00:10:37,890 --> 00:10:39,910
+In this example, it is currently in the
+
+304
+00:10:39,910 --> 00:10:42,510
+upper zone after it rejected this resistance level.
+
+305
+00:10:42,990 --> 00:10:45,070
+Next, you wait for the price to approach
+
+306
+00:10:45,070 --> 00:10:45,670
+the midline.
+
+307
+00:10:46,190 --> 00:10:47,610
+Now, remember what I said earlier.
+
+308
+00:10:47,910 --> 00:10:49,810
+As long as the price is still inside
+
+309
+00:10:49,810 --> 00:10:51,850
+this range, it's either going to stay on
+
+310
+00:10:51,850 --> 00:10:53,850
+this upper zone and bounce upwards from this
+
+311
+00:10:53,850 --> 00:10:56,890
+midline, or switch to this bottom zone and
+
+312
+00:10:56,890 --> 00:10:58,570
+breaks this midline downwards.
+
+313
+00:10:58,930 --> 00:11:00,710
+In order to know that, we need to
+
+314
+00:11:00,710 --> 00:11:03,070
+analyze the price action as it approaches this
+
+315
+00:11:03,070 --> 00:11:03,550
+midline.
+
+316
+00:11:03,910 --> 00:11:05,810
+So, a rule of thumb to remember is
+
+317
+00:11:05,810 --> 00:11:07,950
+that price will likely move towards the bottom
+
+318
+00:11:07,950 --> 00:11:10,250
+level if it manages to break the midline
+
+319
+00:11:10,250 --> 00:11:10,990
+decisively.
+
+320
+00:11:11,290 --> 00:11:13,950
+For example, if there's one giant momentum candle
+
+321
+00:11:13,950 --> 00:11:16,770
+crossing down, or if there are multiple red
+
+322
+00:11:16,770 --> 00:11:17,130
+candles.
+
+323
+00:11:17,770 --> 00:11:20,210
+However, if we manage to see some type
+
+324
+00:11:20,210 --> 00:11:22,450
+of rejection in this midline, there's a high
+
+325
+00:11:22,450 --> 00:11:24,570
+chance that the price will likely remain above
+
+326
+00:11:24,570 --> 00:11:26,850
+the midline and retest the resistance level.
+
+327
+00:11:27,210 --> 00:11:28,690
+So, let's see what happens to the price
+
+328
+00:11:28,690 --> 00:11:29,090
+next.
+
+329
+00:11:30,250 --> 00:11:32,410
+As you can see, it briefly broke through
+
+330
+00:11:32,410 --> 00:11:34,690
+the midline but managed to bounce back up,
+
+331
+00:11:34,850 --> 00:11:36,810
+indicating that there's a slight rejection in this
+
+332
+00:11:36,810 --> 00:11:37,370
+middle area.
+
+333
+00:11:37,730 --> 00:11:40,310
+However, because this is only a slight rejection,
+
+334
+00:11:40,630 --> 00:11:42,050
+we still need more confirmation.
+
+335
+00:11:42,570 --> 00:11:44,250
+So, let's not rush to take a position
+
+336
+00:11:44,250 --> 00:11:45,930
+and observe what happens next.
+
+337
+00:11:47,150 --> 00:11:49,270
+Here, we can see that the price briefly
+
+338
+00:11:49,270 --> 00:11:52,010
+moved downwards all the way here, but buyers
+
+339
+00:11:52,010 --> 00:11:54,250
+pushed it back up before the candle manages
+
+340
+00:11:54,250 --> 00:11:56,710
+to close, which forms this long wick below
+
+341
+00:11:56,710 --> 00:11:57,270
+this candle.
+
+342
+00:11:57,690 --> 00:12:00,410
+So now, after multiple attempts of breaking below
+
+343
+00:12:00,410 --> 00:12:02,610
+the midline, price failed to do so.
+
+344
+00:12:02,850 --> 00:12:04,670
+Meaning, there's a chance that the price will
+
+345
+00:12:04,670 --> 00:12:07,350
+actually remain above the upper level and retest
+
+346
+00:12:07,350 --> 00:12:08,310
+this resistance level.
+
+347
+00:12:08,650 --> 00:12:10,770
+So, this is a good opportunity to enter
+
+348
+00:12:10,770 --> 00:12:11,750
+a buy position.
+
+349
+00:12:11,750 --> 00:12:14,050
+As for your profit target, set it at
+
+350
+00:12:14,050 --> 00:12:16,490
+the resistance level and stop loss at slightly
+
+351
+00:12:16,490 --> 00:12:17,370
+below your entry.
+
+352
+00:12:19,070 --> 00:12:21,130
+And as you can see, price went upwards
+
+353
+00:12:21,130 --> 00:12:23,270
+towards the resistance level and hits our tick
+
+354
+00:12:23,270 --> 00:12:23,630
+profit.
+
+355
+00:12:24,250 --> 00:12:27,250
+So guys, for profitable strategies like this, you
+
+356
+00:12:27,250 --> 00:12:29,270
+would also need a good broker to execute
+
+357
+00:12:29,270 --> 00:12:31,550
+these trades, which is why I partnered with
+
+358
+00:12:31,550 --> 00:12:33,530
+SimpleFX to make your trading easier.
+
+359
+00:12:33,990 --> 00:12:36,010
+SimpleFX is a broker that lets you trade
+
+360
+00:12:36,010 --> 00:12:39,410
+any instrument, including stocks, forex, crypto, and more,
+
+361
+00:12:39,550 --> 00:12:40,710
+all in one platform.
+
+362
+00:12:41,010 --> 00:12:42,610
+They're very simple to use, and they also
+
+363
+00:12:42,610 --> 00:12:44,290
+come with a built-in trading view chart
+
+364
+00:12:44,290 --> 00:12:46,330
+so you can analyze trades and execute them
+
+365
+00:12:46,330 --> 00:12:47,630
+within the same platform.
+
+366
+00:12:47,950 --> 00:12:49,850
+They have no minimum deposit, which means you
+
+367
+00:12:49,850 --> 00:12:51,730
+can start trading with as little as $1.
+
+368
+00:12:52,350 --> 00:12:54,250
+They also have some of the lowest fees
+
+369
+00:12:54,250 --> 00:12:54,910
+on the market.
+
+370
+00:12:55,390 --> 00:12:56,870
+And if you sign up using my link
+
+371
+00:12:56,870 --> 00:12:59,430
+below, you'll get a free $40 bonus in
+
+372
+00:12:59,430 --> 00:13:01,890
+trading capital if you deposit at least $100.
+
+373
+00:13:02,470 --> 00:13:04,410
+Of course, you'll get more rewards as you
+
+374
+00:13:04,410 --> 00:13:05,090
+deposit more.
+
+375
+00:13:05,390 --> 00:13:07,550
+So big thanks to SimpleFX for helping me
+
+376
+00:13:07,550 --> 00:13:08,690
+make this video possible.
+
+377
+00:13:09,150 --> 00:13:11,030
+That's all for today, thank you so much
+
+378
+00:13:11,030 --> 00:13:12,710
+for watching and I'll see you in the
+
+379
+00:13:12,710 --> 00:13:13,230
+next video.

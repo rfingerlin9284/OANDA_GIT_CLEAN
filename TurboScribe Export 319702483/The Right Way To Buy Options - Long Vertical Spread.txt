@@ -1,0 +1,44 @@
+(0:03 - 2:13)
+Most option traders start out buying options because it's simplest to understand. If you think Facebook stock will go up, you could buy a call, and if you think Facebook stock will go down, you could buy a put. This sounds great because you can trade the options with much less capital than if you were to simply trade the stock. 
+
+Let me show you an example. First, let's look at an option chain on stock XYZ, which is currently trading at $75 per share. Let's say you are bullish on the stock and you're looking to buy a call option, so we're just going to go ahead and ignore the put options for now. 
+
+If you were to buy the 70 strike call option, for example, this would cost you $750, and you're hoping that the price of XYZ will rise so you can make money, but this is not a very good trading strategy because it puts time decay against you, and not only does the price of XYZ have to move up, it has to move up a significant amount for you to even break even. In this case, your break even is at $77.50, a full two and a half points above the current stock price, and if XYZ sits still and trades sideways, you're screwed because your option you just bought will decay each and every day. And that's what options are, guys. 
+
+They are depreciating assets, and any smart investor is not going to buy a depreciating asset and call it an investment. Let me show you a better way that allows you to make a directional bet on the stock, but without having to buy a naked option or put up tons of capital to trade the stock itself. And we're actually going to eliminate time decay altogether. 
+
+Instead of just buying the 70 strike call option, we're going to do something a little bit different. We're going to buy this option, but we're also going to simultaneously sell a cheaper out-of-the-money option to reduce our cost. So in this case, we're going to buy the 70 strike call for $750, but we're also going to sell the 80 strike call for $250. 
+
+This knocks our cost down by a full $250, and our net price is now just $500. This is called buying a vertical spread. By trading a vertical spread rather than simply buying a single option, we're able to significantly reduce the cost of our trade, which improves our breakeven on the trade and our probability of success.
+
+(2:13 - 2:37)
+The net price we pay for this vertical spread is $5, so our breakeven is at $75 per share, which is where the current stock price is. If you're lost, hang with me. I'm going to show you how this works. 
+
+Let's compare the two strategies in three different scenarios. Scenario number one. XYZ stock price has moved up, and at the expiration date, it's at $79.50 per share.
+
+(2:38 - 7:02)
+First, let's look at the 70-80 vertical spread. The short 80 call that you sold for $250 would now be worthless because it's out-of-the-money. So you made $250 on the short 80 call, and the long 70 call you bought for $7.50 is now $9.50 in the money, so it's worth $9.50. So you made $200 on the long 70 call, so your net profit is $450. 
+
+Now remember, the net price we paid for the vertical spread was $500, so our return on capital was 90%. Our max risk was simply the net price we bought the spread for, which was $500. Now let's compare this to if we simply bought the 70 call for $7.50. With the stock at $79.50, our long call would be at $9.50, providing us with a profit of $200, so our return on capital was only 26.67%. Our max risk was $750 we paid to buy this option. 
+
+Let's look at scenario two. XYZ has mostly traded sideways, and at the expiration date, the price is still at $75 per share. Looking at the vertical spread, our long 70 call will now be worth $5, resulting in a loss of $250 on that leg of the trade. 
+
+But our short 80 call will again be worthless, resulting in a profit of $250 on that leg. So the two cancel out, and we would actually just be at break-even on the trade. Now compare that to if we simply bought the 70 call at $7.50. We would now be sitting on a $250 loss. 
+
+So in the case of the vertical spread, time decay was not an issue whatsoever. However, if you just bought the 70 call rather than trading the vertical spread, you're sitting on a 33% loss due to time decay. Okay, scenario three. 
+
+We are completely wrong about the direction of XYZ, and the stock tanks down to $50 per share. Both of the options that make up our vertical spread are out of the money and are worthless. So we lost $750 on the long 70 call, but we made $250 on the short 80 call. 
+
+So our net loss is $500, much less than losing $750 like we would have if we were to simply buy the 70 strike call. Buying the vertical was better than buying the naked option in all three of these scenarios, but there is one scenario where buying the naked call would have worked out better. Let's say the stock rips higher and is now at $85 per share at the expiration date. 
+
+For the vertical, the 70 call we bought for $7.50 would now be worth $15, providing us with a profit of $750 on that leg. And the short 80 call we sold at $250 would now be worth $5, resulting in a loss of $250 on this leg of the trade. So our net profit is only $500 as opposed to $750 if we would have just bought the call. 
+
+So that's the only downfall with the vertical spread, is that it has limited profit potential. Whereas buying the naked option allows us unlimited profit potential. But is the profit potential really unlimited? Of course not. 
+
+That's just theoretical because theoretically a stock can go to infinity. But look, you still made a 100% return on capital on the vertical spread, so what is there to be upset about? And trust me, these three scenarios are going to happen way more often and the vertical spread will pay you far more in the long run than the few times you might eventually hit a home run with buying the naked option. Now let me show you how to pull up an order to buy a vertical spread in the thinkorswim trading platform. 
+
+All you're going to do is go to the option chain, right-click the option you want to buy, then click buy vertical. From there all you have to do is adjust your strike selection. I personally prefer to buy one strike in the money and sell one strike out of the money when trading this strategy. 
+
+Now we can click confirm and send and view the pop-up box to see the details of the trade, such as max profit, max loss, capital required, and break-even stock price. And you can also do this on the put side if you want to make a bet that the stock will go down. So alright guys, hope you enjoyed the video and learned from it. 
+
+If so, be sure to click the like and subscribe button below and also check out our website and join our email list for three exclusive free videos. And I will see you in the next video.

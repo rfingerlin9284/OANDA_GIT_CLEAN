@@ -1,0 +1,1247 @@
+1
+00:00:00,560 --> 00:00:01,400
+Good afternoon everyone.
+
+2
+00:00:02,080 --> 00:00:03,880
+In this video we're going to build some
+
+3
+00:00:03,880 --> 00:00:07,500
+SPX trades for monthly expiration pins and we're
+
+4
+00:00:07,500 --> 00:00:10,500
+going to do so by analyzing gamma exposure
+
+5
+00:00:10,500 --> 00:00:11,800
+and dealer flows.
+
+6
+00:00:12,140 --> 00:00:14,640
+By the end of this video we'll craft
+
+7
+00:00:14,640 --> 00:00:16,300
+two different trade ideas.
+
+8
+00:00:16,940 --> 00:00:19,300
+Each one is going to be a low
+
+9
+00:00:19,300 --> 00:00:20,300
+risk trade idea.
+
+10
+00:00:20,580 --> 00:00:23,360
+One is risking $30, the other is risking
+
+11
+00:00:23,360 --> 00:00:26,700
+$80 and in both cases we're looking to
+
+12
+00:00:26,700 --> 00:00:28,240
+make more than $800.
+
+13
+00:00:29,080 --> 00:00:32,040
+The whole idea of this low risk high
+
+14
+00:00:32,040 --> 00:00:34,960
+reward trade is to analyze what is the
+
+15
+00:00:34,960 --> 00:00:39,200
+market's underlying gamma exposure for this February's monthly
+
+16
+00:00:39,200 --> 00:00:43,080
+expiration and take advantage of that information by
+
+17
+00:00:43,080 --> 00:00:45,520
+putting on some low risk trades where you're
+
+18
+00:00:45,520 --> 00:00:47,960
+okay losing if the trade doesn't work out
+
+19
+00:00:47,960 --> 00:00:50,540
+but if you win you get a disproportionate
+
+20
+00:00:50,540 --> 00:00:52,340
+reward for taking on this risk.
+
+21
+00:00:53,120 --> 00:00:56,020
+Now to understand gamma exposure we need to
+
+22
+00:00:56,020 --> 00:00:58,360
+first understand the gamma piece of this.
+
+23
+00:00:58,940 --> 00:01:01,780
+Here's a quick overview of what gamma is
+
+24
+00:01:01,780 --> 00:01:04,080
+but I would recommend doing a deeper dive
+
+25
+00:01:04,080 --> 00:01:05,940
+if this is something you find interesting.
+
+26
+00:01:06,560 --> 00:01:08,580
+Now you've probably heard of the concept of
+
+27
+00:01:08,580 --> 00:01:08,820
+delta.
+
+28
+00:01:08,960 --> 00:01:10,860
+If you trade options you've most definitely heard
+
+29
+00:01:10,860 --> 00:01:13,920
+of delta because you're purchasing whatever delta strike
+
+30
+00:01:13,920 --> 00:01:16,120
+price option that you typically tend to purchase
+
+31
+00:01:16,120 --> 00:01:17,840
+and you've heard it measured in deltas.
+
+32
+00:01:18,460 --> 00:01:21,080
+Delta measures the change in the actual options
+
+33
+00:01:21,080 --> 00:01:23,860
+price for each plus or minus $1 move
+
+34
+00:01:23,860 --> 00:01:24,620
+in the underlying.
+
+35
+00:01:25,220 --> 00:01:27,780
+So say you have Apple for example, for
+
+36
+00:01:27,780 --> 00:01:30,580
+each plus or minus $1 move that Apple
+
+37
+00:01:30,580 --> 00:01:33,380
+moves the delta tells you how much that
+
+38
+00:01:33,380 --> 00:01:34,180
+option will move.
+
+39
+00:01:34,260 --> 00:01:36,540
+So say a delta 50 options will move
+
+40
+00:01:36,540 --> 00:01:39,660
+$50 for every plus or minus $1 move.
+
+41
+00:01:40,220 --> 00:01:42,680
+Now in this case you also have to
+
+42
+00:01:42,680 --> 00:01:45,120
+measure that the delta today is not going
+
+43
+00:01:45,120 --> 00:01:46,960
+to be the same as the delta tomorrow.
+
+44
+00:01:47,460 --> 00:01:49,940
+You have this concept called delta decay and
+
+45
+00:01:49,940 --> 00:01:50,980
+the delta changes.
+
+46
+00:01:51,620 --> 00:01:53,980
+Now the rate at which this delta changes
+
+47
+00:01:53,980 --> 00:01:55,800
+is measured through gamma.
+
+48
+00:01:56,380 --> 00:01:58,800
+Gamma measures the change in the options delta
+
+49
+00:01:58,800 --> 00:02:01,580
+for each plus or minus $1 stock move.
+
+50
+00:02:02,280 --> 00:02:06,020
+Now once you aggregate this gamma data across
+
+51
+00:02:06,020 --> 00:02:09,020
+the same strike but the different expirations you
+
+52
+00:02:09,020 --> 00:02:11,640
+can then create this concept called gamma exposure.
+
+53
+00:02:11,860 --> 00:02:13,960
+You're essentially summing up all of the data
+
+54
+00:02:13,960 --> 00:02:16,220
+and you're then trying to figure out is
+
+55
+00:02:16,220 --> 00:02:18,780
+this gamma exposure, the net gamma exposure positive
+
+56
+00:02:18,780 --> 00:02:21,040
+or is the net gamma exposure negative.
+
+57
+00:02:21,900 --> 00:02:25,220
+Now a net gamma exposure being positive would
+
+58
+00:02:25,220 --> 00:02:26,280
+imply the following.
+
+59
+00:02:26,420 --> 00:02:29,040
+If the net gamma exposure is positive then
+
+60
+00:02:29,040 --> 00:02:32,120
+we know that we should expect less volatility.
+
+61
+00:02:32,740 --> 00:02:35,760
+Market makers, options market makers have sold options
+
+62
+00:02:35,760 --> 00:02:38,000
+at whatever those strike prices are and it's
+
+63
+00:02:38,000 --> 00:02:40,580
+in their best interest to essentially keep price
+
+64
+00:02:40,580 --> 00:02:43,040
+fluctuating and to be able to collect all
+
+65
+00:02:43,040 --> 00:02:45,120
+of this premium that they've sold to retail
+
+66
+00:02:45,120 --> 00:02:46,980
+traders who have purchased these options.
+
+67
+00:02:47,420 --> 00:02:49,900
+This is your typical scenario that you've seen.
+
+68
+00:02:50,560 --> 00:02:52,640
+In periods like this at near these strike
+
+69
+00:02:52,640 --> 00:02:55,620
+prices it's trades like the mean reversion trades,
+
+70
+00:02:55,840 --> 00:02:58,000
+a lot of the choppy market trades that
+
+71
+00:02:58,000 --> 00:02:59,980
+work exceptionally well and if you keep trying
+
+72
+00:02:59,980 --> 00:03:02,600
+to trade trends during when prices near these
+
+73
+00:03:02,600 --> 00:03:05,240
+strikes you'll find that those trend following trades
+
+74
+00:03:05,240 --> 00:03:06,920
+fail a lot more frequently.
+
+75
+00:03:07,670 --> 00:03:09,400
+Now on the flip side if net gamma
+
+76
+00:03:09,400 --> 00:03:11,940
+exposure is negative then we should be expecting
+
+77
+00:03:11,940 --> 00:03:15,200
+a lot more volatility as price gravitates towards
+
+78
+00:03:15,200 --> 00:03:17,620
+that particular strike price and a lot more
+
+79
+00:03:17,620 --> 00:03:18,760
+directional moves.
+
+80
+00:03:19,120 --> 00:03:21,440
+The reason for this is if our net
+
+81
+00:03:21,440 --> 00:03:23,960
+gamma exposure is negative then a lot of
+
+82
+00:03:23,960 --> 00:03:26,100
+the retail traders have sold the options and
+
+83
+00:03:26,100 --> 00:03:28,760
+we actually have the options market makers who
+
+84
+00:03:28,760 --> 00:03:30,080
+have purchased those options.
+
+85
+00:03:30,520 --> 00:03:33,180
+It's in their best interest to keep price
+
+86
+00:03:33,180 --> 00:03:35,340
+away from whatever that strike is in which
+
+87
+00:03:35,340 --> 00:03:36,600
+they've purchased these options.
+
+88
+00:03:37,080 --> 00:03:39,020
+So say that strike might be let's just
+
+89
+00:03:39,020 --> 00:03:42,280
+use an example of $60 then if price
+
+90
+00:03:42,280 --> 00:03:45,180
+came exactly to $60 all of that premium
+
+91
+00:03:45,180 --> 00:03:47,840
+that they have purchased would be eradicated.
+
+92
+00:03:48,040 --> 00:03:50,400
+Instead they want to get price away from
+
+93
+00:03:50,400 --> 00:03:52,460
+$60 as quickly as they can so this
+
+94
+00:03:52,460 --> 00:03:54,620
+option is actually worth something to them.
+
+95
+00:03:55,240 --> 00:03:57,760
+So that's how gamma exposure can start to
+
+96
+00:03:57,760 --> 00:03:59,560
+become useful and this is a very high
+
+97
+00:03:59,560 --> 00:04:01,980
+level overview but you'll see how this all
+
+98
+00:04:01,980 --> 00:04:02,540
+ties in.
+
+99
+00:04:03,080 --> 00:04:04,300
+Now I tried to sum this up in
+
+100
+00:04:04,300 --> 00:04:06,700
+a easy to read table maybe you find
+
+101
+00:04:06,700 --> 00:04:07,260
+this useful.
+
+102
+00:04:07,500 --> 00:04:10,580
+If the net gamma exposure is positive then
+
+103
+00:04:10,580 --> 00:04:13,760
+we know that dealers are incentivized to reduce
+
+104
+00:04:13,760 --> 00:04:14,380
+the volatility.
+
+105
+00:04:14,620 --> 00:04:16,579
+It's periods in this where you'll see a
+
+106
+00:04:16,579 --> 00:04:19,060
+lot of choppy and range bound price action
+
+107
+00:04:19,060 --> 00:04:21,420
+and as a result you want to take
+
+108
+00:04:21,420 --> 00:04:23,260
+advantage of these sorts of setups.
+
+109
+00:04:23,400 --> 00:04:27,020
+Mean reversion setups, volatility box reversal setups, the
+
+110
+00:04:27,020 --> 00:04:28,800
+fade setup works really well here.
+
+111
+00:04:29,080 --> 00:04:31,160
+That's because you're taking advantage of not just
+
+112
+00:04:31,160 --> 00:04:33,640
+a volatility edge but you also have gamma
+
+113
+00:04:33,640 --> 00:04:36,560
+exposure and really big money on your side
+
+114
+00:04:36,560 --> 00:04:37,140
+here as well.
+
+115
+00:04:37,680 --> 00:04:40,400
+Selling spreads and condors in this, joining the
+
+116
+00:04:40,400 --> 00:04:43,220
+options market makers and selling the premium is
+
+117
+00:04:43,220 --> 00:04:44,360
+usually a good strategy.
+
+118
+00:04:44,920 --> 00:04:46,480
+Now on the flip side if you have
+
+119
+00:04:46,480 --> 00:04:49,100
+negative gamma exposure then you're looking for a
+
+120
+00:04:49,100 --> 00:04:51,560
+lot more volatility and greater swings as price
+
+121
+00:04:51,560 --> 00:04:54,440
+approaches whatever that strike price is because dealers
+
+122
+00:04:54,440 --> 00:04:56,860
+want to get price way the heck away
+
+123
+00:04:56,860 --> 00:04:59,020
+from whatever that negative volatility is.
+
+124
+00:04:59,420 --> 00:05:03,220
+In periods like this buying mispriced inexpensive options
+
+125
+00:05:03,220 --> 00:05:05,520
+think out of the money calls for example
+
+126
+00:05:05,520 --> 00:05:08,220
+make a lot of sense because you start
+
+127
+00:05:08,220 --> 00:05:09,940
+to actually see a lot of these crazy
+
+128
+00:05:09,940 --> 00:05:10,980
+directional moves.
+
+129
+00:05:11,120 --> 00:05:14,060
+Also during this period the opening range breakout
+
+130
+00:05:14,060 --> 00:05:16,520
+setup works really well because you start to
+
+131
+00:05:16,520 --> 00:05:19,260
+see the crazy movements, momentum base setups.
+
+132
+00:05:19,980 --> 00:05:22,260
+So this is a quick way of how
+
+133
+00:05:22,260 --> 00:05:24,440
+you can use gamma and gamma exposure to
+
+134
+00:05:24,440 --> 00:05:26,440
+make slightly smarter options decisions.
+
+135
+00:05:26,620 --> 00:05:28,940
+But now let's try and actually apply this
+
+136
+00:05:28,940 --> 00:05:30,500
+on SPX.
+
+137
+00:05:31,100 --> 00:05:34,080
+This Friday is monthly expiration and I want
+
+138
+00:05:34,080 --> 00:05:36,060
+to try and see where does big money
+
+139
+00:05:36,060 --> 00:05:38,860
+have their interests in the underlying market.
+
+140
+00:05:38,980 --> 00:05:40,300
+Where do they want the market to go?
+
+141
+00:05:40,380 --> 00:05:41,600
+Where do they want to take the flow?
+
+142
+00:05:42,240 --> 00:05:43,680
+Now this is a chart of the gamma
+
+143
+00:05:43,680 --> 00:05:45,620
+exposure by strike and this is a free
+
+144
+00:05:45,620 --> 00:05:46,080
+resource.
+
+145
+00:05:46,540 --> 00:05:48,820
+I've left the resource link in the description
+
+146
+00:05:48,820 --> 00:05:50,780
+box below it's bar chart dot com.
+
+147
+00:05:51,380 --> 00:05:53,360
+In the free version I think they choose
+
+148
+00:05:53,360 --> 00:05:54,760
+the strikes where you get to see just
+
+149
+00:05:54,760 --> 00:05:55,620
+the near dated months.
+
+150
+00:05:55,720 --> 00:05:57,080
+So right now you get to see February
+
+151
+00:05:57,080 --> 00:05:59,440
+which works out perfectly because that's four days
+
+152
+00:05:59,440 --> 00:05:59,940
+from now.
+
+153
+00:06:00,580 --> 00:06:03,280
+So with February and they've aggregated the data
+
+154
+00:06:03,280 --> 00:06:05,340
+for us let's take a look at where
+
+155
+00:06:05,340 --> 00:06:07,440
+we see the larger spikes here.
+
+156
+00:06:07,940 --> 00:06:10,800
+So let me remove the expiration and let's
+
+157
+00:06:10,800 --> 00:06:12,500
+start to analyze each strike.
+
+158
+00:06:12,640 --> 00:06:14,740
+So I see three spikes the first at
+
+159
+00:06:14,740 --> 00:06:17,920
+the 6100 strike where we have positive net
+
+160
+00:06:17,920 --> 00:06:20,320
+gamma exposure we can see that here positive
+
+161
+00:06:20,320 --> 00:06:26,420
+plus 4.061. Second strike 6150 positive net
+
+162
+00:06:26,420 --> 00:06:28,180
+gamma exposure here as well and then the
+
+163
+00:06:28,180 --> 00:06:31,620
+6200 strike positive net gamma exposure here as
+
+164
+00:06:31,620 --> 00:06:31,860
+well.
+
+165
+00:06:32,540 --> 00:06:34,660
+So with all three of these strikes 6150
+
+166
+00:06:34,660 --> 00:06:36,420
+is the one that seems to be the
+
+167
+00:06:36,420 --> 00:06:38,820
+biggest then 6100 and then 6200.
+
+168
+00:06:39,480 --> 00:06:42,680
+Current price is at 6114 so we're right
+
+169
+00:06:42,680 --> 00:06:45,520
+in between these two periods of our high
+
+170
+00:06:45,520 --> 00:06:46,920
+gamma exposure areas.
+
+171
+00:06:47,760 --> 00:06:49,360
+Now take a look at where this gamma
+
+172
+00:06:49,360 --> 00:06:52,460
+exposure goes negative and that's near the 6050
+
+173
+00:06:52,460 --> 00:06:54,840
+price mark which tells us that as price
+
+174
+00:06:54,840 --> 00:06:57,640
+gets closer and closer to 6050 we would
+
+175
+00:06:57,640 --> 00:07:00,140
+expect to see dealers start to get a
+
+176
+00:07:00,140 --> 00:07:03,440
+little bit more aggressive in getting price back
+
+177
+00:07:03,440 --> 00:07:05,380
+up towards the 6100 mark.
+
+178
+00:07:05,840 --> 00:07:07,880
+So 6050 is a place where I would
+
+179
+00:07:07,880 --> 00:07:09,840
+expect to see near term support that's the
+
+180
+00:07:09,840 --> 00:07:11,960
+first place where our net gamma goes negative
+
+181
+00:07:11,960 --> 00:07:13,540
+and if you were to load in the
+
+182
+00:07:13,540 --> 00:07:15,220
+full chart here you would be able to
+
+183
+00:07:15,220 --> 00:07:18,400
+see the 6000 strike excuse me which is
+
+184
+00:07:18,400 --> 00:07:21,060
+also the large negative gamma exposure strike where
+
+185
+00:07:21,060 --> 00:07:22,300
+I would expect to see a lot of
+
+186
+00:07:22,300 --> 00:07:24,560
+support but 6050 is where it first goes
+
+187
+00:07:24,560 --> 00:07:24,940
+negative.
+
+188
+00:07:25,940 --> 00:07:27,580
+So before I move to the next slide
+
+189
+00:07:27,580 --> 00:07:30,420
+let me sum that up so 6000 which
+
+190
+00:07:30,420 --> 00:07:32,280
+is not even on this chart is where
+
+191
+00:07:32,280 --> 00:07:35,420
+we have a large negative gamma exposure strike
+
+192
+00:07:35,420 --> 00:07:36,680
+bar just like we see here.
+
+193
+00:07:37,620 --> 00:07:39,420
+6050 where we start to see this go
+
+194
+00:07:39,420 --> 00:07:44,500
+negative then we have 6100, 6150 and 6200.
+
+195
+00:07:45,020 --> 00:07:48,040
+Out of these three 6150 is the strike
+
+196
+00:07:48,040 --> 00:07:50,220
+with the greatest gamma exposure all three are
+
+197
+00:07:50,220 --> 00:07:52,700
+positive then we have 6100 and then we
+
+198
+00:07:52,700 --> 00:07:53,440
+have 6200.
+
+199
+00:07:54,300 --> 00:07:56,240
+Now let's bring this together on a chart
+
+200
+00:07:56,240 --> 00:07:57,240
+of SPX.
+
+201
+00:07:57,720 --> 00:08:00,660
+I've drawn out all four levels price currently
+
+202
+00:08:00,660 --> 00:08:05,160
+6114 we have that 6100, 6150 and 6200
+
+203
+00:08:05,160 --> 00:08:08,780
+all three of these are positive gamma exposures
+
+204
+00:08:08,780 --> 00:08:11,260
+suggesting that as we're in this we would
+
+205
+00:08:11,260 --> 00:08:13,400
+expect to see choppy price action which is
+
+206
+00:08:13,400 --> 00:08:14,860
+what I think we're likely to see.
+
+207
+00:08:15,620 --> 00:08:18,400
+6050 is down here which is the first
+
+208
+00:08:18,400 --> 00:08:21,020
+place that gamma exposure goes negative so as
+
+209
+00:08:21,020 --> 00:08:22,860
+we approach there I would expect to see
+
+210
+00:08:22,860 --> 00:08:26,200
+dealers very aggressively picking price action back up
+
+211
+00:08:26,200 --> 00:08:27,340
+so place of support.
+
+212
+00:08:27,800 --> 00:08:29,820
+So 6050 if we get there looking to
+
+213
+00:08:29,820 --> 00:08:31,799
+aggressively buy maybe even some out of the
+
+214
+00:08:31,799 --> 00:08:33,419
+money calls expiring this week.
+
+215
+00:08:33,900 --> 00:08:36,539
+Monthly expiration is this week and now we
+
+216
+00:08:36,539 --> 00:08:38,780
+bring back in the gamma so we have
+
+217
+00:08:38,780 --> 00:08:43,580
+6100, 6150 both are potential pins 6100 is
+
+218
+00:08:43,580 --> 00:08:45,660
+closer more in the money to where price
+
+219
+00:08:45,660 --> 00:08:48,120
+is 6150 would be a new high but
+
+220
+00:08:48,120 --> 00:08:49,700
+still just a stone's throw away.
+
+221
+00:08:50,160 --> 00:08:52,800
+Now let's use all of this to analyze
+
+222
+00:08:52,800 --> 00:08:55,460
+the options chain and craft some trades this
+
+223
+00:08:55,460 --> 00:08:56,640
+is where it starts to get a little
+
+224
+00:08:56,640 --> 00:08:58,720
+bit more fun and we get our hands
+
+225
+00:08:58,720 --> 00:08:59,320
+a little bit dirty.
+
+226
+00:09:00,160 --> 00:09:04,080
+Now we had the 6100 strike excuse me
+
+227
+00:09:04,080 --> 00:09:05,580
+and if we take a look at the
+
+228
+00:09:05,580 --> 00:09:07,640
+open interest here notice how the open interest
+
+229
+00:09:07,640 --> 00:09:09,500
+stands out this is the largest open interest
+
+230
+00:09:09,500 --> 00:09:13,140
+for our Feb expiration series and the sum
+
+231
+00:09:13,140 --> 00:09:15,560
+of the open interest there almost 53,000
+
+232
+00:09:15,560 --> 00:09:16,000
+contracts.
+
+233
+00:09:16,420 --> 00:09:18,720
+The next strike we have 6150 and we
+
+234
+00:09:18,720 --> 00:09:20,180
+take a look at the open interest here
+
+235
+00:09:20,180 --> 00:09:23,800
+almost 30,000 contracts so a lot of
+
+236
+00:09:23,800 --> 00:09:26,060
+open interest but not as much as 6100.
+
+237
+00:09:26,740 --> 00:09:29,820
+Now we take this information and let's come
+
+238
+00:09:29,820 --> 00:09:31,280
+into the analyze tab.
+
+239
+00:09:31,640 --> 00:09:34,060
+In the analyze tab I've built in two
+
+240
+00:09:34,060 --> 00:09:36,940
+separate trades here and both of these trades
+
+241
+00:09:36,940 --> 00:09:37,800
+are butterflies.
+
+242
+00:09:38,680 --> 00:09:40,960
+Now before we take a look at anything
+
+243
+00:09:40,960 --> 00:09:43,460
+more with these butterflies notice the middle strikes.
+
+244
+00:09:44,000 --> 00:09:46,260
+The middle strikes are the two prices that
+
+245
+00:09:46,260 --> 00:09:47,720
+we've been looking at where we have the
+
+246
+00:09:47,720 --> 00:09:50,120
+greatest gamma exposure and it's also where we're
+
+247
+00:09:50,120 --> 00:09:51,740
+looking to sell that premium.
+
+248
+00:09:52,200 --> 00:09:55,780
+Positive gamma exposure we're looking to join the
+
+249
+00:09:55,780 --> 00:09:59,440
+option market makers who have sold options near
+
+250
+00:09:59,440 --> 00:10:02,220
+that strike price so 6100, 6150.
+
+251
+00:10:03,080 --> 00:10:05,640
+Now I've made these butterflies very narrow they're
+
+252
+00:10:05,640 --> 00:10:07,800
+just $10 wide which is how we're able
+
+253
+00:10:07,800 --> 00:10:09,340
+to keep the cost so low.
+
+254
+00:10:09,840 --> 00:10:14,060
+The 6100 is $30 the 6150 is currently
+
+255
+00:10:14,060 --> 00:10:14,620
+$80.
+
+256
+00:10:15,280 --> 00:10:18,400
+In both cases your reward is greater than
+
+257
+00:10:18,400 --> 00:10:18,880
+$800.
+
+258
+00:10:19,220 --> 00:10:20,600
+Take a look at the box down here
+
+259
+00:10:20,600 --> 00:10:22,460
+if you were to get the pin at
+
+260
+00:10:22,460 --> 00:10:24,520
+the exact prices which is why we're putting
+
+261
+00:10:24,520 --> 00:10:26,060
+on these trades in the first place.
+
+262
+00:10:26,660 --> 00:10:30,020
+Now if price does dip below to $60
+
+263
+00:10:30,020 --> 00:10:33,220
+.50 then you might consider buying the 6100
+
+264
+00:10:33,220 --> 00:10:35,800
+call as the out of the money call
+
+265
+00:10:35,800 --> 00:10:38,100
+where you're looking for price to gravitate towards
+
+266
+00:10:38,100 --> 00:10:39,660
+but if you do buy that call keep
+
+267
+00:10:39,660 --> 00:10:42,080
+in mind you're going against what is really
+
+268
+00:10:42,080 --> 00:10:44,320
+the big money position here so all I'm
+
+269
+00:10:44,320 --> 00:10:45,880
+looking to do is take advantage of that
+
+270
+00:10:45,880 --> 00:10:47,880
+quick burst and very quickly get out before
+
+271
+00:10:47,880 --> 00:10:48,480
+expiration.
+
+272
+00:10:49,080 --> 00:10:50,760
+It's just 6100 is where there's a lot
+
+273
+00:10:50,760 --> 00:10:51,220
+of liquidity.
+
+274
+00:10:52,400 --> 00:10:55,340
+So these two butterflies are my two favorite
+
+275
+00:10:55,340 --> 00:10:57,580
+trades and they're the ones that look a
+
+276
+00:10:57,580 --> 00:10:58,560
+little bit more practical.
+
+277
+00:10:58,760 --> 00:11:00,480
+If we get closer to that $60.50
+
+278
+00:11:00,480 --> 00:11:04,680
+$60.55 mark excuse me then I'm looking
+
+279
+00:11:04,680 --> 00:11:07,000
+to aggressively use this as a support zone
+
+280
+00:11:07,000 --> 00:11:09,420
+and try and use that 6100 which is
+
+281
+00:11:09,420 --> 00:11:11,160
+where I still think there's a lot of
+
+282
+00:11:11,160 --> 00:11:13,880
+open interest where price is likely to gravitate
+
+283
+00:11:13,880 --> 00:11:16,020
+towards into the expiration.
+
+284
+00:11:17,100 --> 00:11:19,860
+So now if we summarize everything that we
+
+285
+00:11:19,860 --> 00:11:22,380
+covered in this video we started our conversation
+
+286
+00:11:22,380 --> 00:11:25,740
+by first understanding what is gamma and understanding
+
+287
+00:11:25,740 --> 00:11:27,900
+why gamma exposure is useful.
+
+288
+00:11:28,420 --> 00:11:30,200
+Then we moved on to taking a look
+
+289
+00:11:30,200 --> 00:11:32,640
+at this free graph of the SPX gamma
+
+290
+00:11:32,640 --> 00:11:34,480
+exposure for this Friday's expiration.
+
+291
+00:11:34,940 --> 00:11:37,700
+It includes two other expiration dates as well
+
+292
+00:11:37,700 --> 00:11:39,880
+and we made note of all of the
+
+293
+00:11:39,880 --> 00:11:42,060
+key levels where we thought price was likely
+
+294
+00:11:42,060 --> 00:11:44,740
+to react around and we then plotted those
+
+295
+00:11:44,740 --> 00:11:47,000
+on our chart and once we plotted that
+
+296
+00:11:47,000 --> 00:11:49,420
+we used the option chain to build two
+
+297
+00:11:49,420 --> 00:11:52,360
+separate butterfly positions each of which is fairly
+
+298
+00:11:52,360 --> 00:11:55,980
+low risk but has a disproportionately high reward
+
+299
+00:11:55,980 --> 00:11:58,340
+associated with it and all of these stem
+
+300
+00:11:58,340 --> 00:12:00,340
+from where we think big money has their
+
+301
+00:12:00,340 --> 00:12:03,240
+interest for expiration three days from now.
+
+302
+00:12:03,860 --> 00:12:06,440
+And for all volatility box traders I'm looking
+
+303
+00:12:06,440 --> 00:12:08,800
+at those mean reversion fade setups this week.
+
+304
+00:12:09,060 --> 00:12:11,020
+Maybe I might make a video talking about
+
+305
+00:12:11,020 --> 00:12:12,460
+a few of those setups this week.
+
+306
+00:12:12,900 --> 00:12:14,340
+I'll also be curious if you create your
+
+307
+00:12:14,340 --> 00:12:16,520
+own options butterfly position or maybe a different
+
+308
+00:12:16,520 --> 00:12:18,880
+position using all the information that might be
+
+309
+00:12:18,880 --> 00:12:20,660
+even better than the trades that I've discussed
+
+310
+00:12:20,660 --> 00:12:21,240
+in this video.
+
+311
+00:12:21,820 --> 00:12:23,540
+Take care everyone and I'll see you in
+
+312
+00:12:23,540 --> 00:12:24,300
+our next update.

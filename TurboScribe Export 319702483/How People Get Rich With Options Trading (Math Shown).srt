@@ -1,0 +1,715 @@
+1
+00:00:00,290 --> 00:00:02,410
+In this video, you will see how people
+
+2
+00:00:02,410 --> 00:00:04,830
+get rich with options trading.
+
+3
+00:00:04,970 --> 00:00:05,950
+I will show you the math.
+
+4
+00:00:07,130 --> 00:00:08,330
+I think that the best way to do
+
+5
+00:00:08,330 --> 00:00:09,990
+this is running through an example, and I'm
+
+6
+00:00:09,990 --> 00:00:11,410
+going to be honest with you from the
+
+7
+00:00:11,410 --> 00:00:11,750
+start.
+
+8
+00:00:12,030 --> 00:00:12,870
+This is my warning.
+
+9
+00:00:13,950 --> 00:00:16,050
+You can make a lot of money with
+
+10
+00:00:16,050 --> 00:00:19,890
+options or screw it up and lose a
+
+11
+00:00:19,890 --> 00:00:20,590
+ton of money.
+
+12
+00:00:20,710 --> 00:00:22,490
+So if that sounds appealing to you, then
+
+13
+00:00:22,490 --> 00:00:24,730
+strap yourself in and let's do this.
+
+14
+00:00:24,970 --> 00:00:26,470
+First, let me clarify this.
+
+15
+00:00:26,470 --> 00:00:28,530
+If you're looking for a tutorial on call
+
+16
+00:00:28,530 --> 00:00:31,710
+options and put options, then please check out
+
+17
+00:00:31,710 --> 00:00:32,670
+my other video.
+
+18
+00:00:32,790 --> 00:00:34,130
+That is perfect for beginners.
+
+19
+00:00:34,430 --> 00:00:35,590
+I will leave a link for you down
+
+20
+00:00:35,590 --> 00:00:35,970
+below.
+
+21
+00:00:36,290 --> 00:00:37,310
+Now let's do the math.
+
+22
+00:00:39,110 --> 00:00:40,650
+So let's say that you have $10,000.
+
+23
+00:00:41,090 --> 00:00:42,290
+You're flush with cash.
+
+24
+00:00:42,810 --> 00:00:45,510
+With that $10,000, you have a choice.
+
+25
+00:00:45,870 --> 00:00:49,190
+You can buy stocks or stock options.
+
+26
+00:00:50,030 --> 00:00:53,310
+We'll run through two examples where you make
+
+27
+00:00:53,310 --> 00:00:55,650
+a ton of money and another where you
+
+28
+00:00:55,650 --> 00:00:56,470
+lose it all.
+
+29
+00:00:57,430 --> 00:00:58,670
+So you're going to see how crazy this
+
+30
+00:00:58,670 --> 00:00:59,830
+gets with stock options.
+
+31
+00:00:59,930 --> 00:01:00,810
+I'm telling you, it's nuts.
+
+32
+00:01:01,550 --> 00:01:04,750
+So let's use Yelp stock as an example,
+
+33
+00:01:04,910 --> 00:01:06,470
+and we're going to work with real numbers.
+
+34
+00:01:06,750 --> 00:01:07,510
+Keeping it real.
+
+35
+00:01:08,090 --> 00:01:10,330
+Yelp stock is at $36 a share.
+
+36
+00:01:10,930 --> 00:01:13,470
+If you use your $10,000 to buy
+
+37
+00:01:13,470 --> 00:01:16,930
+Yelp stock, then you can buy 277 shares.
+
+38
+00:01:18,310 --> 00:01:22,290
+If Yelp goes up by $10 from 36
+
+39
+00:01:22,290 --> 00:01:25,770
+to 46, you make $10 a share.
+
+40
+00:01:25,990 --> 00:01:28,950
+You have 277 shares and you make a
+
+41
+00:01:28,950 --> 00:01:31,370
+profit of $2,770.
+
+42
+00:01:31,870 --> 00:01:32,550
+So congratulations.
+
+43
+00:01:33,590 --> 00:01:35,150
+Okay, now let's do stock options.
+
+44
+00:01:35,790 --> 00:01:38,130
+Yelp stock is at 36 a share.
+
+45
+00:01:38,890 --> 00:01:41,990
+The 38 call option that expires in one
+
+46
+00:01:41,990 --> 00:01:44,370
+month is trading for 80 cents.
+
+47
+00:01:45,290 --> 00:01:46,470
+And keep in mind that these are real
+
+48
+00:01:46,470 --> 00:01:46,850
+numbers.
+
+49
+00:01:47,790 --> 00:01:50,430
+That means that a $38 call option will
+
+50
+00:01:50,430 --> 00:01:51,750
+cost you $80.
+
+51
+00:01:53,290 --> 00:01:58,130
+With $10,000, you can buy 125 call
+
+52
+00:01:58,130 --> 00:01:58,590
+options.
+
+53
+00:01:59,190 --> 00:02:03,190
+If Yelp stock goes from 36 to 46,
+
+54
+00:02:03,860 --> 00:02:05,950
+then you will make a profit of $90
+
+55
+00:02:05,950 --> 00:02:06,410
+,000.
+
+56
+00:02:07,370 --> 00:02:08,690
+Now let's compare.
+
+57
+00:02:09,449 --> 00:02:13,030
+Yelp stock went from 36 to 46 in
+
+58
+00:02:13,030 --> 00:02:13,690
+one month.
+
+59
+00:02:14,310 --> 00:02:17,030
+If you bought the stock, your profit is
+
+60
+00:02:17,030 --> 00:02:18,770
+$2,770.
+
+61
+00:02:19,390 --> 00:02:22,610
+If you bought the options, your profits is
+
+62
+00:02:22,610 --> 00:02:23,590
+$90,000.
+
+63
+00:02:24,330 --> 00:02:25,550
+Now listen carefully.
+
+64
+00:02:25,690 --> 00:02:26,810
+I'm going to show you the math.
+
+65
+00:02:27,130 --> 00:02:29,650
+If you get lost, or if you're already
+
+66
+00:02:29,650 --> 00:02:32,230
+lost, then you need to watch my other
+
+67
+00:02:32,230 --> 00:02:32,590
+video.
+
+68
+00:02:32,770 --> 00:02:33,770
+The link is down below.
+
+69
+00:02:34,390 --> 00:02:35,450
+Okay, so here's the math.
+
+70
+00:02:36,210 --> 00:02:38,170
+Yelp stock is at 36.
+
+71
+00:02:39,050 --> 00:02:43,010
+The $38 call option that expires in one
+
+72
+00:02:43,010 --> 00:02:44,830
+month is at 80 cents.
+
+73
+00:02:45,790 --> 00:02:48,290
+That means that one call option will cost
+
+74
+00:02:48,290 --> 00:02:48,950
+you $80.
+
+75
+00:02:49,570 --> 00:02:50,050
+Here's why.
+
+76
+00:02:51,010 --> 00:02:54,190
+There are 100 shares of stock in each
+
+77
+00:02:54,190 --> 00:02:54,950
+call option.
+
+78
+00:02:55,650 --> 00:02:58,430
+You take the cost of 80 cents each,
+
+79
+00:02:58,690 --> 00:03:03,270
+multiply by 100 shares, and that equals $80
+
+80
+00:03:03,270 --> 00:03:04,890
+for the call option.
+
+81
+00:03:05,750 --> 00:03:09,010
+So with $10,000, you can buy 125
+
+82
+00:03:09,010 --> 00:03:10,510
+call options.
+
+83
+00:03:11,070 --> 00:03:15,250
+Okay, now if Yelp stock increases from $36
+
+84
+00:03:15,250 --> 00:03:18,490
+to 46 in one month, then the $38
+
+85
+00:03:18,490 --> 00:03:22,030
+call option price will be worth at least
+
+86
+00:03:22,030 --> 00:03:22,770
+$8.
+
+87
+00:03:23,630 --> 00:03:25,170
+So it's very straightforward.
+
+88
+00:03:25,830 --> 00:03:28,270
+The stock went up to $46, right?
+
+89
+00:03:28,630 --> 00:03:31,070
+And your strike price is at 38.
+
+90
+00:03:31,570 --> 00:03:34,070
+That means that you have an $8 gain
+
+91
+00:03:34,070 --> 00:03:35,270
+on each share.
+
+92
+00:03:35,850 --> 00:03:38,690
+And each call option has 100 shares.
+
+93
+00:03:39,270 --> 00:03:42,450
+So each call option is now worth $800.
+
+94
+00:03:43,170 --> 00:03:44,870
+And you have to remember that you bought
+
+95
+00:03:44,870 --> 00:03:46,930
+each call option for $80.
+
+96
+00:03:47,310 --> 00:03:50,090
+And now each call option is worth $800.
+
+97
+00:03:50,630 --> 00:03:53,110
+And you have 125 call options.
+
+98
+00:03:53,610 --> 00:03:56,350
+Okay, so you started with $10,000, right?
+
+99
+00:03:56,850 --> 00:03:59,550
+Now you have 125 call options.
+
+100
+00:03:59,770 --> 00:04:01,210
+Each one is worth $800.
+
+101
+00:04:01,910 --> 00:04:03,390
+That's $100,000.
+
+102
+00:04:04,290 --> 00:04:06,490
+That means that you turned your $10,000
+
+103
+00:04:06,490 --> 00:04:07,830
+into $100,000.
+
+104
+00:04:08,090 --> 00:04:10,770
+And you made a profit of $90,000.
+
+105
+00:04:11,690 --> 00:04:14,050
+So this is how people get rich by
+
+106
+00:04:14,050 --> 00:04:15,170
+trading options.
+
+107
+00:04:15,570 --> 00:04:17,630
+So this is a real life example of
+
+108
+00:04:17,630 --> 00:04:20,589
+how a stock goes up by 28%
+
+109
+00:04:20,589 --> 00:04:22,390
+but you 10x your money.
+
+110
+00:04:23,330 --> 00:04:26,150
+It's because stock options give you leverage, but
+
+111
+00:04:26,150 --> 00:04:28,250
+it's a double edged sword.
+
+112
+00:04:28,630 --> 00:04:30,150
+So that's what happens when you get it
+
+113
+00:04:30,150 --> 00:04:30,470
+right.
+
+114
+00:04:30,870 --> 00:04:34,070
+If you get it wrong, then you can
+
+115
+00:04:34,070 --> 00:04:35,530
+guess it, then you're going to lose it
+
+116
+00:04:35,530 --> 00:04:35,790
+all.
+
+117
+00:04:36,370 --> 00:04:37,190
+So I want to show you.
+
+118
+00:04:38,290 --> 00:04:40,250
+Yelp stock is at 36, right?
+
+119
+00:04:40,830 --> 00:04:43,530
+You buy the $38 call option that expires
+
+120
+00:04:43,530 --> 00:04:44,310
+in one month.
+
+121
+00:04:44,690 --> 00:04:48,070
+If Yelp stock does not go above $38
+
+122
+00:04:48,070 --> 00:04:51,570
+in one month, then your call options will
+
+123
+00:04:51,570 --> 00:04:52,690
+expire worthless.
+
+124
+00:04:53,630 --> 00:04:54,910
+And you lose your $10,000.
+
+125
+00:04:56,110 --> 00:04:58,470
+In other words, to put it simply, there's
+
+126
+00:04:58,470 --> 00:04:59,290
+a time limit.
+
+127
+00:04:59,790 --> 00:05:02,250
+The call option has an expiration date.
+
+128
+00:05:04,660 --> 00:05:06,940
+If you used your $10,000 to buy
+
+129
+00:05:06,940 --> 00:05:11,140
+Yelp stock at 36, if Yelp stays at
+
+130
+00:05:11,140 --> 00:05:14,140
+36 after one month, then you don't lose
+
+131
+00:05:14,140 --> 00:05:14,600
+any money.
+
+132
+00:05:15,240 --> 00:05:17,020
+There's no time pressure when you buy the
+
+133
+00:05:17,020 --> 00:05:17,300
+stock.
+
+134
+00:05:17,380 --> 00:05:18,680
+You can hold the stock for years.
+
+135
+00:05:18,860 --> 00:05:20,180
+There's no time limits.
+
+136
+00:05:21,440 --> 00:05:24,280
+The problem with options is that you have
+
+137
+00:05:24,280 --> 00:05:27,260
+a time limit and that's risky because you
+
+138
+00:05:27,260 --> 00:05:29,640
+need the stock price to do what you
+
+139
+00:05:29,640 --> 00:05:32,220
+want it to do before the option expires.
+
+140
+00:05:32,320 --> 00:05:35,160
+Otherwise, you are at risk of losing all
+
+141
+00:05:35,160 --> 00:05:35,580
+your money.
+
+142
+00:05:35,920 --> 00:05:37,540
+Now, if you want to buy a call
+
+143
+00:05:37,540 --> 00:05:39,760
+option that gives you more time, let's just
+
+144
+00:05:39,760 --> 00:05:42,520
+say three months or one year, you can.
+
+145
+00:05:43,740 --> 00:05:46,680
+However, the more time on a call option,
+
+146
+00:05:46,760 --> 00:05:48,980
+the more expensive the call option will be.
+
+147
+00:05:49,220 --> 00:05:51,860
+If you want more time, it'll cost you.
+
+148
+00:05:53,100 --> 00:05:54,940
+So that's the challenge with stock options.
+
+149
+00:05:55,080 --> 00:05:56,520
+Time is against you.
+
+150
+00:05:56,700 --> 00:05:59,180
+That's why options are high risk and high
+
+151
+00:05:59,180 --> 00:05:59,700
+reward.
+
+152
+00:06:00,300 --> 00:06:03,400
+And buying the stock is lower risk and
+
+153
+00:06:03,400 --> 00:06:04,260
+lower reward.
+
+154
+00:06:05,180 --> 00:06:07,440
+So I hope that clarifies the difference between
+
+155
+00:06:07,440 --> 00:06:10,560
+buying $10,000 worth of stock versus stock
+
+156
+00:06:10,560 --> 00:06:11,200
+options.
+
+157
+00:06:11,440 --> 00:06:13,440
+Now, this is very important that you know
+
+158
+00:06:13,440 --> 00:06:13,700
+this.
+
+159
+00:06:14,440 --> 00:06:17,880
+You can use options to decrease your risk.
+
+160
+00:06:18,240 --> 00:06:20,680
+So I use options to hedge and lower
+
+161
+00:06:20,680 --> 00:06:21,300
+my risk.
+
+162
+00:06:21,700 --> 00:06:24,020
+That is not what we covered in this
+
+163
+00:06:24,020 --> 00:06:24,840
+video, clearly.
+
+164
+00:06:25,560 --> 00:06:28,300
+So I just showed you someone who's trying
+
+165
+00:06:28,300 --> 00:06:30,740
+to hit it big with the correct prediction,
+
+166
+00:06:30,940 --> 00:06:32,540
+high risk and high reward.
+
+167
+00:06:32,940 --> 00:06:34,620
+And a lot of people engage in this
+
+168
+00:06:34,620 --> 00:06:35,380
+type of behavior.
+
+169
+00:06:36,000 --> 00:06:37,700
+Some people make a ton of money by
+
+170
+00:06:37,700 --> 00:06:38,900
+being lucky and getting it right.
+
+171
+00:06:39,040 --> 00:06:40,780
+Some people make a ton of money by
+
+172
+00:06:40,780 --> 00:06:42,220
+doing this strategically.
+
+173
+00:06:42,760 --> 00:06:45,180
+And other people lose a lot of money
+
+174
+00:06:45,180 --> 00:06:47,220
+by doing this irresponsibly.
+
+175
+00:06:47,800 --> 00:06:50,020
+All I'm saying is be careful and just
+
+176
+00:06:50,020 --> 00:06:52,180
+know what you're getting yourself into.
+
+177
+00:06:52,960 --> 00:06:54,720
+Please check out my other video.
+
+178
+00:06:56,540 --> 00:06:57,460
+The support.
+
+179
+00:06:58,200 --> 00:06:58,600
+Take care.

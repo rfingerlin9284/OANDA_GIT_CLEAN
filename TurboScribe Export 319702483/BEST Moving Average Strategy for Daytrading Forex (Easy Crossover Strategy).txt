@@ -1,0 +1,65 @@
+(0:00 - 3:52)
+In this video, I will reveal the best strategy that you can use with the Moving Average Indicator. So, this strategy is called the Moving Average Crossover. It is a very simple and famous strategy, but most traders are actually trading it the wrong way. 
+
+The biggest mistake that everyone makes when trading this strategy is every time the moving average crosses over, they immediately take a position. When the faster moving average crosses above the slower moving average, they immediately take a buy position. And when the faster moving average crosses below the slower moving average, they immediately take a sell position. 
+
+This is actually the worst way of trading the moving average crossover because using the strategy this way only works if the market is If the market is on a range like this, you will receive so many false signals and this will wipe out your account very quickly. The next mistake that people make when trading the moving average crossover is that they use too many moving averages. Remember, the more moving averages that you use, the later your entry signals will be. 
+
+For example, let's say you're using two moving averages, the 20 and the 50 period. So, if the 20 period crosses above the 50 period, you take a buy position here. But if you added another moving average, let's say the 200 period, then you would instead enter here, which is a much later entry compared to if you only used two moving averages. 
+
+So the lesser, the better. Another mistake that people make when trading the crossover strategy is that they're trading it on lower time frames. Lower time frames tend to have less trend and more range markets. 
+
+So that is why most traders lose money when trading the crossover on lower time frames. So instead, this is how I would trade the moving average crossover. I'm only going to be using two moving averages, the 20 and the 50 period. 
+
+The first step is that I would choose a high time frame. I recommend using the daily time frame for this strategy, but if you think that that's too high, then you can just use the one hour chart instead. Next, I would pick a pair. 
+
+Then, what I'm trying to look at is how the market is reacting to the moving average crossover. Let me show you what I mean. If you zoom out and look closely at the 20 and 50 period, you can see that the price tend to not react to the crossover. 
+
+Here we can see that the moving average crosses over downwards, but instead of following the crossover and also heading downwards, the price instead reverses and heads back up. And now you can see it again here. The moving average crosses upwards, but the price instead went downwards. 
+
+So clearly, this market has a history of not reacting to the crossover, and so I will not use the crossover strategy on this market. So let's look at another pair instead. Here's the Euro GBP. 
+
+If you zoom out and look closely at the 20 and 50 period, we can actually see that the market tends to react to the crossover. Over here, we can see that the moving average crosses over upwards, and the price followed that signal and made an uptrend. Next, you can see it happening again here. 
+
+The moving average crosses over downwards, and the price made a downtrend. This has actually happened multiple times in this chart. Every time the moving average crosses over, the market tends to follow that same direction.
+
+(3:52 - 5:16)
+And so now we know that this market has a history of following the crossover, so I will confidently trade the crossover strategy on this market. But remember, just because a market reacted to the crossover in the past doesn't guarantee 100% that it's going to do that again in the future. However, it will still have a much higher chance of doing so compared to the market that never reacted to the crossover in the first place. 
+
+So once you identified the right market, it's time to trade the crossover. For your entry signal, if the 20MA crosses above the 50MA, you take a buy position. And if the 20MA crosses below the 50MA, you take a sell position. 
+
+And for your exit signal, you can use an exit indicator like the ATR trailing stop loss to exit your trades. This will give a much better exit compared to if you waited for the average to cross over again. For example, let's say you took a buy position here. 
+
+If you waited for the lines to cross over again, you would've exited your trade here and wasted so many pips. But if you had used a better exit indicator like the ATR trailing stop loss, you would instead exit here. Notice that it gave a much better exit signal and you would've kept more pips.
+
+(5:17 - 7:28)
+So that's my approach when trading the moving average crossover. Another way of using the moving average is by trading it like support and resistance. And another indicator that is perfect for the strategy is the stochastics. 
+
+So here's an example on how the strategy works. In this chart, we can see that the price went up to this level, it hit and reverses downwards. This happened multiple times which further confirms that the moving average is acting as a resistance. 
+
+Next, we also noticed a pattern. Every time prices went up to the resistance while the stochastics is at overbought, the price tends to reverse downwards. And now, as you can see in the current price, we are back at the resistance level while the stochastics is at overbought. 
+
+So this is a good opportunity to take a sell position. Let's look at another example. In this chart, we can see that the moving average is acting as a support. 
+
+As prices went down to this level, hit and reverses upwards multiple times. And we also noticed that the same pattern has formed. Every time prices went down to the moving average while the stochastics is at oversold, the price tends to reverse back up. 
+
+So now, as we look at the current price, you can see that it is back at the support line while the stochastics is at oversold. So this is a good opportunity to take a buy position. Another moving average strategy that you can use is by combining the 200 exponential moving average with any indicator and automatically increase its win rate. 
+
+Let me give you an example. If you're just trading only using the parabolic star, it will give you a win rate of only 38%. But if you combine it with a 200 EMA, it will increase the win rate to 46%. 
+
+It also works with other indicators as well. For example, the super trend. If you're trading only using the super trend indicator, it will give a win rate of only 39%.
+
+(7:28 - 7:59)
+But if you combine it with a 200 EMA, it can boost that win rate to 48%. So adding the 200 EMA with any indicator can automatically increase its win rate. And the way you combine the 200 EMA with other indicators is very simple. 
+
+If the price is above the 200 EMA, you only take buy positions. And if the price is below the 200 EMA, you only take sell positions. So let me give you an example.
+
+(8:00 - 8:21)
+If an indicator, in this case, the super trend, gave a buy signal while the price is above the 200 EMA, you take a buy position. But if the super trend gave a buy signal but the price is below the 200 EMA, then you ignore this buy signal. This also works for sell signals as well.
+
+(8:21 - 9:06)
+If the super trend gave a sell signal and the price is below the 200 EMA, you take a sell position. But if the super trend gave a sell signal but the price is above the 200 EMA, then you ignore this sell signal. So that's how you combine any indicator with the 200 EMA. 
+
+So I just gave you the best moving average strategy that you can implement in your trading system right now. And all I ask for in return is for you to take 2 seconds of your time into liking the video and subscribe to the channel. It literally takes only 2 clicks but it means so much to me. 
+
+And you can also check out my other videos as well. So thank you guys for watching and I'll see you in the next video.

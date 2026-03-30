@@ -1,0 +1,1079 @@
+1
+00:00:00,310 --> 00:00:00,730
+Hello traders!
+
+2
+00:00:01,190 --> 00:00:02,550
+I'm Joanne from Binary Trader.
+
+3
+00:00:02,930 --> 00:00:05,830
+The YouTube channel focusing exclusively on binary options
+
+4
+00:00:05,830 --> 00:00:06,170
+trading.
+
+5
+00:00:06,950 --> 00:00:09,130
+Today I will make a $1 challenge using
+
+6
+00:00:09,130 --> 00:00:11,030
+parabolic and CCI indicators.
+
+7
+00:00:11,730 --> 00:00:14,290
+Before diving in, let me kindly ask you
+
+8
+00:00:14,290 --> 00:00:16,830
+to like the video, and consider subscribing to
+
+9
+00:00:16,830 --> 00:00:19,090
+my channel, so you won't miss upcoming content.
+
+10
+00:00:19,710 --> 00:00:20,910
+Thank you for your support.
+
+11
+00:00:21,430 --> 00:00:22,110
+Let's start!
+
+12
+00:00:27,780 --> 00:00:29,660
+I am trading at Pocket Option.
+
+13
+00:00:30,100 --> 00:00:32,240
+Platform link is in the video description as
+
+14
+00:00:32,240 --> 00:00:32,640
+usual.
+
+15
+00:00:33,340 --> 00:00:35,300
+I will use 1 minute candles.
+
+16
+00:00:35,740 --> 00:00:38,020
+I will use 1 minute for trade duration.
+
+17
+00:00:39,460 --> 00:00:43,080
+Among indicators, I choose parabolic, and CCI indicators.
+
+18
+00:00:44,520 --> 00:00:46,800
+For parabolic I use the default settings.
+
+19
+00:00:47,820 --> 00:00:49,820
+For CCI I set the period to 13.
+
+20
+00:00:52,700 --> 00:00:54,760
+I choose some trading pairs with a decent
+
+21
+00:00:54,760 --> 00:00:55,200
+payout.
+
+22
+00:00:57,900 --> 00:00:59,200
+And let's look for setups.
+
+23
+00:01:00,760 --> 00:01:01,840
+Strategy is simple.
+
+24
+00:01:02,370 --> 00:01:05,480
+When parabolic flips to below candles, and CCI
+
+25
+00:01:05,480 --> 00:01:07,880
+is around 100, a trade should be placed
+
+26
+00:01:07,880 --> 00:01:08,860
+in the upward direction.
+
+27
+00:01:09,540 --> 00:01:13,100
+Likewise when parabolic flips above candles, and CCI
+
+28
+00:01:13,100 --> 00:01:15,480
+is around minus 100, a trade in the
+
+29
+00:01:15,480 --> 00:01:16,940
+downward direction should be placed.
+
+30
+00:01:18,180 --> 00:01:20,780
+Though as this is a $1 challenge, so
+
+31
+00:01:20,780 --> 00:01:22,980
+I only risk $1 throughout the whole session,
+
+32
+00:01:23,260 --> 00:01:25,120
+I won't spend too much time on market
+
+33
+00:01:25,120 --> 00:01:27,220
+analysis, especially in the beginning.
+
+34
+00:01:39,680 --> 00:01:42,700
+Here parabolic flips down, CCI is close to
+
+35
+00:01:42,700 --> 00:01:45,000
+100, so I place trade in the upward
+
+36
+00:01:45,000 --> 00:01:45,540
+direction.
+
+37
+00:01:53,340 --> 00:01:56,220
+$1 challenge means you start with $1 and
+
+38
+00:01:56,220 --> 00:01:58,000
+risk all you win on subsequent trades.
+
+39
+00:01:58,520 --> 00:02:00,980
+With a 92% payout level you can
+
+40
+00:02:00,980 --> 00:02:03,660
+get above $1,000 with 11 winning trades
+
+41
+00:02:03,660 --> 00:02:04,060
+in a row.
+
+42
+00:02:04,680 --> 00:02:06,680
+That's not as unlikely to happen as you
+
+43
+00:02:06,680 --> 00:02:07,100
+would think.
+
+44
+00:02:08,860 --> 00:02:10,820
+Of course do not expect to have a
+
+45
+00:02:10,820 --> 00:02:12,260
+long winning streak for the first time.
+
+46
+00:02:12,780 --> 00:02:15,860
+If you deposit like $100, that means you
+
+47
+00:02:15,860 --> 00:02:18,380
+have 100 chances to start a $1 challenge
+
+48
+00:02:18,380 --> 00:02:19,220
+again if you fail.
+
+49
+00:02:19,920 --> 00:02:21,780
+If you use the promo code also found
+
+50
+00:02:21,780 --> 00:02:23,960
+in the video description, you can boost that
+
+51
+00:02:23,960 --> 00:02:26,900
+up by 50%, so you will have 150
+
+52
+00:02:26,900 --> 00:02:27,540
+chances.
+
+53
+00:02:28,320 --> 00:02:30,240
+People with an attitude of taking more risks
+
+54
+00:02:30,240 --> 00:02:32,500
+can start from 10 or more dollars obviously.
+
+55
+00:02:36,100 --> 00:02:37,820
+If you can't bear staring at the shots,
+
+56
+00:02:38,120 --> 00:02:39,180
+feel free to take a break.
+
+57
+00:02:39,540 --> 00:02:41,300
+The trade will play out in your absence.
+
+58
+00:02:41,880 --> 00:02:44,380
+You can perform your analysis afterwards based on
+
+59
+00:02:44,380 --> 00:02:44,940
+the outcome.
+
+60
+00:02:50,570 --> 00:02:55,540
+Here I place a trade in the downward
+
+61
+00:02:55,540 --> 00:02:58,920
+direction as parabolic flipped up, CCI is close
+
+62
+00:02:58,920 --> 00:02:59,840
+to minus 100.
+
+63
+00:03:00,660 --> 00:03:02,660
+It's not too close and the candle is
+
+64
+00:03:02,660 --> 00:03:04,820
+already open, but we are at the beginning.
+
+65
+00:03:05,420 --> 00:03:07,120
+Risk is small, so we can be a
+
+66
+00:03:07,120 --> 00:03:08,260
+bit more loose on the rules.
+
+67
+00:03:40,640 --> 00:03:42,400
+Similar situation as previous.
+
+68
+00:03:53,980 --> 00:03:55,540
+I am trading at pocket option.
+
+69
+00:03:56,100 --> 00:03:58,380
+Platform link is in the video description as
+
+70
+00:03:58,380 --> 00:03:58,800
+usual.
+
+71
+00:04:08,130 --> 00:04:10,350
+If you haven't done yet, follow the link
+
+72
+00:04:10,350 --> 00:04:12,430
+in the video description to join pocket option
+
+73
+00:04:12,430 --> 00:04:13,710
+and start trading today.
+
+74
+00:04:14,170 --> 00:04:16,230
+You can use the fully functional demo mode
+
+75
+00:04:16,230 --> 00:04:17,510
+before investing your money.
+
+76
+00:04:33,250 --> 00:04:35,490
+The trade won, so look for next setup.
+
+77
+00:04:38,780 --> 00:04:41,140
+This is not the best setup either, and
+
+78
+00:04:41,140 --> 00:04:43,040
+it's a bit late here too, but we
+
+79
+00:04:43,040 --> 00:04:44,060
+are still at low risk.
+
+80
+00:04:59,610 --> 00:05:01,630
+This is a perfect time to press the
+
+81
+00:05:01,630 --> 00:05:05,430
+like button and subscribing to my channel.
+
+82
+00:05:05,430 --> 00:05:08,630
+Do not forget to select all notifications, so
+
+83
+00:05:08,630 --> 00:05:10,350
+you won't miss any upcoming content.
+
+84
+00:05:10,950 --> 00:05:13,030
+It's just a few clicks for you, but
+
+85
+00:05:13,030 --> 00:05:14,430
+means and helps a lot to me.
+
+86
+00:05:29,250 --> 00:05:30,750
+Great, look for next setup.
+
+87
+00:05:58,810 --> 00:06:00,790
+If you can't bear staring at the charts,
+
+88
+00:06:01,090 --> 00:06:02,170
+feel free to take a break.
+
+89
+00:06:02,550 --> 00:06:04,310
+The trade will play out in your absence.
+
+90
+00:06:04,950 --> 00:06:07,350
+You can perform your analysis afterwards based on
+
+91
+00:06:07,350 --> 00:06:07,870
+the outcome.
+
+92
+00:06:46,700 --> 00:06:48,180
+I am trading at pocket option.
+
+93
+00:06:48,900 --> 00:06:51,040
+Platform link is in the video description as
+
+94
+00:06:51,040 --> 00:06:51,420
+usual.
+
+95
+00:06:56,460 --> 00:06:58,780
+The trade won, so look for next setup.
+
+96
+00:07:19,780 --> 00:07:22,220
+Feel free to ask any further question in
+
+97
+00:07:22,220 --> 00:07:22,980
+the comment section.
+
+98
+00:07:48,480 --> 00:07:51,220
+Remember, you should practice on demo balance first
+
+99
+00:07:51,220 --> 00:07:52,140
+without any risk.
+
+100
+00:07:52,720 --> 00:07:54,680
+And deposit real money to trade with once
+
+101
+00:07:54,680 --> 00:07:56,540
+you become comfortable with the strategy of your
+
+102
+00:07:56,540 --> 00:07:56,860
+choice.
+
+103
+00:07:57,580 --> 00:07:59,680
+Check out my other videos for different strategies
+
+104
+00:07:59,680 --> 00:08:01,420
+to find the one that best suits your
+
+105
+00:08:01,420 --> 00:08:02,120
+style of trading.
+
+106
+00:08:03,200 --> 00:08:05,240
+Follow the link in the video description to
+
+107
+00:08:05,240 --> 00:08:07,560
+join pocket option and start practicing today.
+
+108
+00:08:25,200 --> 00:08:26,680
+Great, look for next setup.
+
+109
+00:08:51,350 --> 00:08:53,930
+Don't forget to check payout levels regularly as
+
+110
+00:08:53,930 --> 00:08:55,330
+they might fall for some pairs.
+
+111
+00:08:55,350 --> 00:08:56,690
+Rise for others.
+
+112
+00:08:57,130 --> 00:08:59,170
+I recommend to only keep pairs on your
+
+113
+00:08:59,170 --> 00:09:00,890
+watchlist with a payout level of at least
+
+114
+00:09:00,890 --> 00:09:01,130
+80%.
+
+115
+00:09:02,330 --> 00:09:04,810
+Remove pairs with low payout and add back
+
+116
+00:09:04,810 --> 00:09:06,110
+other ones with higher payout.
+
+117
+00:09:23,080 --> 00:09:25,420
+The trade won, so look for next setup.
+
+118
+00:09:45,680 --> 00:09:47,420
+This is a perfect time to press the
+
+119
+00:09:47,420 --> 00:09:47,980
+like button.
+
+120
+00:09:49,460 --> 00:09:51,200
+And subscribing to my channel.
+
+121
+00:09:51,800 --> 00:09:54,420
+Do not forget to select all notifications, so
+
+122
+00:09:54,420 --> 00:09:56,140
+you won't miss any upcoming content.
+
+123
+00:09:56,760 --> 00:09:58,800
+It's just a few clicks for you, but
+
+124
+00:09:58,800 --> 00:10:00,200
+means and helps a lot to me.
+
+125
+00:10:37,190 --> 00:10:39,530
+If you haven't done yet, follow the link
+
+126
+00:10:39,530 --> 00:10:41,610
+in the video description to join pocket option
+
+127
+00:10:41,610 --> 00:10:42,910
+and start trading today.
+
+128
+00:10:43,410 --> 00:10:45,410
+You can use the fully functional demo mode
+
+129
+00:10:45,410 --> 00:10:46,670
+before investing real money.
+
+130
+00:11:03,520 --> 00:11:04,960
+Great, look for next setup.
+
+131
+00:11:40,060 --> 00:11:42,060
+Feel free to ask any further question in
+
+132
+00:11:42,060 --> 00:11:42,780
+the comment section.
+
+133
+00:11:43,480 --> 00:11:45,340
+I especially like to see when you talk
+
+134
+00:11:45,340 --> 00:11:47,380
+to each other, that can build a community
+
+135
+00:11:47,380 --> 00:11:47,840
+here.
+
+136
+00:12:29,750 --> 00:12:31,390
+Great, look for next setup.
+
+137
+00:12:56,700 --> 00:12:58,600
+If you can't bear staring at the shots,
+
+138
+00:12:58,880 --> 00:12:59,980
+feel free to take a break.
+
+139
+00:13:00,300 --> 00:13:02,060
+The trade will play out in your absence.
+
+140
+00:13:02,260 --> 00:13:05,140
+You can perform your analysis afterwards based on
+
+141
+00:13:05,140 --> 00:13:05,700
+the outcome.
+
+142
+00:13:54,150 --> 00:13:56,330
+The trade won, so look for next setup.
+
+143
+00:14:27,830 --> 00:14:29,350
+I am trading at pocket option.
+
+144
+00:14:30,010 --> 00:14:32,170
+Platform link is in the video description as
+
+145
+00:14:32,170 --> 00:14:32,570
+usual.
+
+146
+00:15:00,300 --> 00:15:02,020
+This is a perfect time to press the
+
+147
+00:15:02,020 --> 00:15:02,600
+like button.
+
+148
+00:15:03,960 --> 00:15:05,820
+And subscribing to my channel.
+
+149
+00:15:06,400 --> 00:15:09,040
+Do not forget to select all notifications, so
+
+150
+00:15:09,040 --> 00:15:10,760
+you won't miss any upcoming content.
+
+151
+00:15:11,400 --> 00:15:13,420
+It's just a few clicks for you, but
+
+152
+00:15:13,420 --> 00:15:14,820
+means and helps a lot to me.
+
+153
+00:15:26,080 --> 00:15:28,600
+Great, the trade won and I reached the
+
+154
+00:15:28,600 --> 00:15:30,000
+$1,000 milestone.
+
+155
+00:15:30,660 --> 00:15:32,160
+But I won't stop just yet.
+
+156
+00:15:35,890 --> 00:15:37,730
+I'm trading for almost an hour.
+
+157
+00:15:38,550 --> 00:15:40,310
+Feel free to take breaks during your session
+
+158
+00:15:40,310 --> 00:15:41,570
+to avoid losing focus.
+
+159
+00:15:42,010 --> 00:15:44,110
+And keep your trading sessions short in general.
+
+160
+00:15:57,120 --> 00:15:59,840
+Remember, you should practice on demo balance first
+
+161
+00:15:59,840 --> 00:16:00,740
+without any risk.
+
+162
+00:16:01,060 --> 00:16:03,300
+And deposit real money to trade with once
+
+163
+00:16:03,300 --> 00:16:05,140
+you become comfortable with the strategy of your
+
+164
+00:16:05,140 --> 00:16:05,480
+choice.
+
+165
+00:16:06,140 --> 00:16:08,300
+Check out my other videos for different strategies
+
+166
+00:16:08,300 --> 00:16:10,020
+to find the one that best suits your
+
+167
+00:16:10,020 --> 00:16:10,740
+style of trading.
+
+168
+00:16:11,740 --> 00:16:13,960
+Follow the link in the video description to
+
+169
+00:16:13,960 --> 00:16:16,280
+join pocket option and start practicing today.
+
+170
+00:16:42,770 --> 00:16:44,250
+Great, look for next setup.
+
+171
+00:17:20,550 --> 00:17:22,150
+I am trading at pocket option.
+
+172
+00:17:22,750 --> 00:17:24,970
+Platform link is in the video description as
+
+173
+00:17:24,970 --> 00:17:25,369
+usual.
+
+174
+00:17:59,730 --> 00:18:02,330
+Don't forget to check payout levels regularly as
+
+175
+00:18:02,330 --> 00:18:04,550
+they might fall for some pairs and rise
+
+176
+00:18:04,550 --> 00:18:05,090
+for others.
+
+177
+00:18:05,690 --> 00:18:07,570
+I recommend to only keep pairs on your
+
+178
+00:18:07,570 --> 00:18:09,130
+watch list with a payout level of at
+
+179
+00:18:09,130 --> 00:18:09,580
+least 80%.
+
+180
+00:18:10,670 --> 00:18:12,250
+Remove pairs with low payout.
+
+181
+00:18:12,590 --> 00:18:14,510
+And add back other ones with higher payout.
+
+182
+00:18:14,510 --> 00:18:58,080
+As the
+
+183
+00:18:58,080 --> 00:19:00,460
+risk got high, accept good signals only.
+
+184
+00:19:01,180 --> 00:19:02,500
+You might need to wait a lot for
+
+185
+00:19:02,500 --> 00:19:02,820
+those.
+
+186
+00:19:03,500 --> 00:19:05,580
+Patience is the most important skill in trading.
+
+187
+00:19:48,960 --> 00:19:50,900
+This is a perfect time to press the
+
+188
+00:19:50,900 --> 00:19:51,500
+like button.
+
+189
+00:19:53,060 --> 00:19:54,700
+And subscribing to my channel.
+
+190
+00:19:55,280 --> 00:19:57,920
+Do not forget to select all notifications, so
+
+191
+00:19:57,920 --> 00:19:59,660
+you won't miss any upcoming content.
+
+192
+00:20:00,180 --> 00:20:02,300
+It's just a few clicks for you, but
+
+193
+00:20:02,300 --> 00:20:03,720
+means and helps a lot to me.
+
+194
+00:20:10,340 --> 00:20:12,000
+Great, look for next setup.
+
+195
+00:20:13,060 --> 00:20:36,460
+I stopped
+
+196
+00:20:36,460 --> 00:20:38,780
+risking everything from now on, as I'm trading
+
+197
+00:20:38,780 --> 00:20:40,620
+for almost an hour and I want to
+
+198
+00:20:40,620 --> 00:20:42,140
+keep a portion of the gain even if
+
+199
+00:20:42,140 --> 00:20:42,800
+things go bad.
+
+200
+00:21:10,940 --> 00:21:13,300
+If you haven't done yet, follow the link
+
+201
+00:21:13,300 --> 00:21:15,380
+in the video description to join pocket option
+
+202
+00:21:15,380 --> 00:21:16,680
+and start trading today.
+
+203
+00:21:17,200 --> 00:21:19,200
+You can use the fully functional demo mode
+
+204
+00:21:19,200 --> 00:21:20,440
+before investing your money.
+
+205
+00:21:46,570 --> 00:21:49,690
+Great, but before looking for next setup, I
+
+206
+00:21:49,690 --> 00:21:51,450
+will take a longer break, as I am
+
+207
+00:21:51,450 --> 00:21:52,630
+trading for like an hour.
+
+208
+00:21:53,190 --> 00:21:55,050
+Always keep breaks during long sessions.
+
+209
+00:21:55,050 --> 00:21:59,670
+As the account balance got quite high, so
+
+210
+00:21:59,670 --> 00:22:01,770
+even if the recent bullish engulfer and the
+
+211
+00:22:01,770 --> 00:22:04,250
+huge bullish candle makes the signal strong, I
+
+212
+00:22:04,250 --> 00:22:05,950
+don't risk all of the balance this time.
+
+213
+00:22:06,190 --> 00:22:07,710
+So I keep some of it if things
+
+214
+00:22:07,710 --> 00:22:08,210
+go bad.
+
+215
+00:22:24,050 --> 00:22:26,230
+Don't worry when price falls back after a
+
+216
+00:22:26,230 --> 00:22:27,770
+nice move during an open trade.
+
+217
+00:22:28,370 --> 00:22:30,090
+Only the price at the end matters.
+
+218
+00:22:37,310 --> 00:22:39,030
+This is a perfect time to press the
+
+219
+00:22:39,030 --> 00:22:39,610
+like button.
+
+220
+00:22:41,050 --> 00:22:42,830
+And subscribing to my channel.
+
+221
+00:22:43,310 --> 00:22:46,050
+Do not forget to select all notifications, so
+
+222
+00:22:46,050 --> 00:22:46,470
+you won't miss any upcoming content.
+
+223
+00:22:48,170 --> 00:22:50,410
+It's just a few clicks for you, but
+
+224
+00:22:50,410 --> 00:22:51,850
+means and helps a lot to me.
+
+225
+00:23:03,230 --> 00:23:04,430
+Cool, the trade won.
+
+226
+00:23:04,990 --> 00:23:06,090
+Look for one more setup.
+
+227
+00:23:08,790 --> 00:23:10,610
+I am trading for an hour and a
+
+228
+00:23:10,610 --> 00:23:11,170
+half already.
+
+229
+00:23:11,550 --> 00:23:14,050
+So next will be my last trade, whatever
+
+230
+00:23:14,050 --> 00:23:14,650
+happens.
+
+231
+00:23:15,290 --> 00:23:17,830
+The signal is clear and market analysis tells
+
+232
+00:23:17,830 --> 00:23:20,490
+the downtrend is forming, which confirms the signal,
+
+233
+00:23:20,870 --> 00:23:22,390
+though I won't risk more than half of
+
+234
+00:23:22,390 --> 00:23:23,750
+the capital, for safety.
+
+235
+00:23:24,250 --> 00:23:26,670
+Of course I was risking technically $1 only
+
+236
+00:23:26,670 --> 00:23:28,770
+throughout the whole session, but it was a
+
+237
+00:23:28,770 --> 00:23:30,650
+long one, and I want to keep some
+
+238
+00:23:30,650 --> 00:23:32,110
+profit even if things go bad.
+
+239
+00:23:53,190 --> 00:23:55,550
+If you haven't done yet, follow the link
+
+240
+00:23:55,550 --> 00:23:57,630
+in the video description to join Pocket Option
+
+241
+00:23:57,630 --> 00:23:58,910
+and start trading today.
+
+242
+00:23:59,450 --> 00:24:01,450
+You can use the fully functional demo mode
+
+243
+00:24:01,450 --> 00:24:02,710
+before investing real money.
+
+244
+00:24:03,510 --> 00:24:05,450
+And deposit real money to trade with once
+
+245
+00:24:05,450 --> 00:24:07,310
+you become comfortable with the strategy of your
+
+246
+00:24:07,310 --> 00:24:07,630
+choice.
+
+247
+00:24:08,250 --> 00:24:10,450
+Check out my other videos for different strategies
+
+248
+00:24:10,450 --> 00:24:12,170
+to find the one that best suits your
+
+249
+00:24:12,170 --> 00:24:12,890
+style of trading.
+
+250
+00:24:39,060 --> 00:24:41,340
+Great, that was my last trade today.
+
+251
+00:24:41,340 --> 00:24:43,100
+It's an amazing gain.
+
+252
+00:24:43,540 --> 00:24:45,620
+And I was risking technically only $1.
+
+253
+00:24:46,040 --> 00:24:47,740
+Hope you enjoyed today's video.
+
+254
+00:24:48,260 --> 00:24:50,520
+If you did, please press the like button.
+
+255
+00:24:50,860 --> 00:24:52,560
+And if you like my content in general,
+
+256
+00:24:52,980 --> 00:24:55,040
+consider subscribing to my channel as well.
+
+257
+00:24:55,600 --> 00:24:57,460
+Don't forget to select all notifications.
+
+258
+00:24:58,220 --> 00:25:00,540
+If you haven't done yet, use the link
+
+259
+00:25:00,540 --> 00:25:02,720
+in the video description below to join Pocket
+
+260
+00:25:02,720 --> 00:25:04,300
+Option and start trading today.
+
+261
+00:25:04,740 --> 00:25:06,580
+Use the promo code also found in the
+
+262
+00:25:06,580 --> 00:25:09,020
+description for 50% extra on your first
+
+263
+00:25:09,020 --> 00:25:09,380
+deposit.
+
+264
+00:25:11,680 --> 00:25:14,020
+Ask any further question in the comment section.
+
+265
+00:25:14,640 --> 00:25:16,180
+Or feel free to leave your thought or
+
+266
+00:25:16,180 --> 00:25:18,220
+idea there or whatever else is on your
+
+267
+00:25:18,220 --> 00:25:18,520
+mind.
+
+268
+00:25:19,320 --> 00:25:21,460
+Thank you very much for watching my video.
+
+269
+00:25:22,060 --> 00:25:23,480
+I wish you successful trading.
+
+270
+00:25:23,980 --> 00:25:24,800
+See you next time.

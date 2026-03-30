@@ -1,0 +1,959 @@
+1
+00:00:00,410 --> 00:00:02,590
+Albert Einstein believed that the rule of 72
+
+2
+00:00:02,590 --> 00:00:05,250
+was a more important discovery than his theory
+
+3
+00:00:05,250 --> 00:00:05,850
+of relativity.
+
+4
+00:00:06,470 --> 00:00:08,370
+The first reference of this rule comes from
+
+5
+00:00:08,370 --> 00:00:10,870
+Luca Pacioli, who is regarded as the father
+
+6
+00:00:10,870 --> 00:00:11,390
+of accounting.
+
+7
+00:00:12,050 --> 00:00:15,670
+In his 1494 book Summary of Arithmetic, Geometry,
+
+8
+00:00:15,890 --> 00:00:20,970
+Proportions and Proportionality, Summa De Arithmetic, Geometria, Proportiono
+
+9
+00:00:20,970 --> 00:00:24,350
+et Proportionalita, he explains the importance of this
+
+10
+00:00:24,350 --> 00:00:24,630
+rule.
+
+11
+00:00:25,310 --> 00:00:27,130
+Being able to double your money in just
+
+12
+00:00:27,130 --> 00:00:29,610
+a few short years is literally everybody's dream.
+
+13
+00:00:30,150 --> 00:00:31,910
+How many times have you wished upon a
+
+14
+00:00:31,910 --> 00:00:33,890
+falling star that you'll wake tomorrow with six
+
+15
+00:00:33,890 --> 00:00:34,990
+figures in your bank account?
+
+16
+00:00:35,390 --> 00:00:37,090
+Well, I'm here to tell you that this
+
+17
+00:00:37,090 --> 00:00:37,630
+is possible.
+
+18
+00:00:38,110 --> 00:00:39,090
+It is not a fantasy.
+
+19
+00:00:39,730 --> 00:00:42,290
+In today's practical wisdom video, I'll be talking
+
+20
+00:00:42,290 --> 00:00:43,510
+about the rule of 72.
+
+21
+00:00:44,730 --> 00:00:47,070
+So, stay tuned and be ready to learn.
+
+22
+00:00:47,630 --> 00:00:50,090
+Also, get my free passive income guide using
+
+23
+00:00:50,090 --> 00:00:51,110
+the link in the descriptions.
+
+24
+00:00:51,950 --> 00:00:52,630
+Number 1.
+
+25
+00:00:52,930 --> 00:00:55,850
+The Rule of 72 The rule of 72
+
+26
+00:00:55,850 --> 00:00:59,290
+is applied while setting financial objectives, when analyzing
+
+27
+00:00:59,290 --> 00:01:03,530
+economic trends, planning for financial goals, evaluating investments,
+
+28
+00:01:03,970 --> 00:01:05,370
+and also helping you with debt.
+
+29
+00:01:05,830 --> 00:01:07,730
+The way it works is by determining how
+
+30
+00:01:07,730 --> 00:01:09,450
+long it will take for an investment to
+
+31
+00:01:09,450 --> 00:01:11,650
+double while receiving a fixed interest rate.
+
+32
+00:01:11,970 --> 00:01:13,530
+Here's how you calculate it.
+
+33
+00:01:13,950 --> 00:01:15,850
+Take 72 and divide it by the rate
+
+34
+00:01:15,850 --> 00:01:17,030
+of return you hope to earn.
+
+35
+00:01:17,510 --> 00:01:19,250
+For example, if you plan on earning an
+
+36
+00:01:19,250 --> 00:01:22,470
+interest of 5%, divide 72 by 5.
+
+37
+00:01:22,470 --> 00:01:25,610
+That gives you 14.4. This is the
+
+38
+00:01:25,610 --> 00:01:26,910
+number of years it will take you to
+
+39
+00:01:26,910 --> 00:01:27,650
+double your money.
+
+40
+00:01:28,230 --> 00:01:29,830
+There are many advantages to this rule.
+
+41
+00:01:30,270 --> 00:01:32,530
+You can, for example, quickly and simply determine
+
+42
+00:01:32,530 --> 00:01:34,110
+whether you're keeping up with the trends.
+
+43
+00:01:34,610 --> 00:01:36,550
+Along with that, you can also ensure that
+
+44
+00:01:36,550 --> 00:01:38,310
+you are on the right track when it
+
+45
+00:01:38,310 --> 00:01:39,830
+comes to your financial decisions.
+
+46
+00:01:40,090 --> 00:01:42,490
+It can also be used to calculate inflations
+
+47
+00:01:42,490 --> 00:01:44,290
+because it shows you how many years it
+
+48
+00:01:44,290 --> 00:01:46,430
+will require for the value of the starting
+
+49
+00:01:46,430 --> 00:01:48,570
+sum to fall in half rather than double.
+
+50
+00:01:49,170 --> 00:01:51,550
+All this being said, using this rule also
+
+51
+00:01:51,550 --> 00:01:52,590
+comes with disadvantages.
+
+52
+00:01:53,190 --> 00:01:55,110
+For example, it can only be applied to
+
+53
+00:01:55,110 --> 00:01:57,630
+assets which calculate compound interest annually.
+
+54
+00:01:58,210 --> 00:02:01,050
+This rule also has some accuracy problems because
+
+55
+00:02:01,050 --> 00:02:03,390
+it can't calculate rates below and above 6
+
+56
+00:02:03,390 --> 00:02:05,310
+% and 10% respectively.
+
+57
+00:02:05,970 --> 00:02:09,270
+Nonetheless, don't let these disadvantages drive a wedge
+
+58
+00:02:09,270 --> 00:02:11,590
+between you and the rule of 72.
+
+59
+00:02:12,430 --> 00:02:14,670
+Get a hold of a financial advisor who
+
+60
+00:02:14,670 --> 00:02:17,050
+can thoroughly explain this rule in more depth
+
+61
+00:02:17,050 --> 00:02:18,690
+and guide you appropriately.
+
+62
+00:02:19,390 --> 00:02:20,250
+Number 2.
+
+63
+00:02:20,690 --> 00:02:21,750
+Compound Interest.
+
+64
+00:02:22,290 --> 00:02:25,190
+As stated before, the rule of 72 only
+
+65
+00:02:25,190 --> 00:02:26,770
+works with compound interest.
+
+66
+00:02:27,290 --> 00:02:29,390
+When you understand the rule and the power
+
+67
+00:02:29,390 --> 00:02:32,470
+of compound interest, you have the secret recipe
+
+68
+00:02:32,470 --> 00:02:33,890
+to financial growth.
+
+69
+00:02:34,350 --> 00:02:37,090
+Having also discussed the rule itself, let's talk
+
+70
+00:02:37,090 --> 00:02:38,270
+about compound interest.
+
+71
+00:02:38,750 --> 00:02:40,610
+The fantastic thing about it is that the
+
+72
+00:02:40,610 --> 00:02:42,830
+longer your money is invested, the greater your
+
+73
+00:02:42,830 --> 00:02:43,530
+earnings will be.
+
+74
+00:02:44,010 --> 00:02:45,710
+In other words, the interest earned on your
+
+75
+00:02:45,710 --> 00:02:47,650
+initial investments is added on to your initial
+
+76
+00:02:47,650 --> 00:02:49,770
+investment and this cycle keeps going.
+
+77
+00:02:50,310 --> 00:02:52,050
+Basically, invest your money in it and then
+
+78
+00:02:52,050 --> 00:02:52,730
+forget about it.
+
+79
+00:02:53,230 --> 00:02:54,690
+Now, if you want to know how long
+
+80
+00:02:54,690 --> 00:02:56,470
+it will take to double your current savings,
+
+81
+00:02:56,810 --> 00:02:58,290
+you'll use the rule of 72.
+
+82
+00:02:59,030 --> 00:03:01,910
+Take your interest rate, let's say 6%, and
+
+83
+00:03:01,910 --> 00:03:03,070
+divide it by 72.
+
+84
+00:03:04,030 --> 00:03:07,050
+72 divided by 6 gives us 12.
+
+85
+00:03:07,530 --> 00:03:09,250
+This is how long it will take for
+
+86
+00:03:09,250 --> 00:03:10,250
+you to double your money.
+
+87
+00:03:10,730 --> 00:03:12,970
+When it comes to compound interest, look for
+
+88
+00:03:12,970 --> 00:03:14,930
+one where the interest rate is high because
+
+89
+00:03:14,930 --> 00:03:16,950
+the higher the interest rate, the quicker you'll
+
+90
+00:03:16,950 --> 00:03:17,990
+have your doubled amount.
+
+91
+00:03:18,530 --> 00:03:21,070
+Get in touch with a financial advisor, ask
+
+92
+00:03:21,070 --> 00:03:23,210
+for the best compound interest and use the
+
+93
+00:03:23,210 --> 00:03:25,730
+rule of 72 to see just how quickly
+
+94
+00:03:25,730 --> 00:03:27,190
+you can grow your bank balance.
+
+95
+00:03:27,970 --> 00:03:28,690
+Number 3.
+
+96
+00:03:29,370 --> 00:03:29,810
+Investments.
+
+97
+00:03:30,270 --> 00:03:32,270
+The rule of 72 can also be used
+
+98
+00:03:32,270 --> 00:03:33,550
+to evaluate your investments.
+
+99
+00:03:34,210 --> 00:03:35,690
+At some point in life, we all want
+
+100
+00:03:35,690 --> 00:03:38,010
+to make investments and you can definitely use
+
+101
+00:03:38,010 --> 00:03:40,090
+this rule to have a key insight on
+
+102
+00:03:40,090 --> 00:03:41,750
+how long your money will take for it
+
+103
+00:03:41,750 --> 00:03:42,170
+to double.
+
+104
+00:03:42,830 --> 00:03:45,270
+Therefore, if you're considering investing, the rule of
+
+105
+00:03:45,270 --> 00:03:47,270
+72 can help you determine how long it
+
+106
+00:03:47,270 --> 00:03:49,670
+may take before you receive a 100%
+
+107
+00:03:49,670 --> 00:03:50,770
+return on your investment.
+
+108
+00:03:52,050 --> 00:03:54,210
+No matter what kind of investment you make,
+
+109
+00:03:54,470 --> 00:03:56,650
+the rule of 72 will benefit you as
+
+110
+00:03:56,650 --> 00:03:58,510
+long as you also use the idea of
+
+111
+00:03:58,510 --> 00:03:59,430
+compound interest.
+
+112
+00:04:00,010 --> 00:04:02,290
+For us to better understand this rule, let's
+
+113
+00:04:02,290 --> 00:04:03,770
+look at these following scenarios.
+
+114
+00:04:04,430 --> 00:04:05,490
+Investment number 1.
+
+115
+00:04:05,950 --> 00:04:08,390
+Savings deposit at 1% annual rate of
+
+116
+00:04:08,390 --> 00:04:08,770
+return.
+
+117
+00:04:08,770 --> 00:04:10,390
+Investment number 2.
+
+118
+00:04:10,770 --> 00:04:13,050
+Government bonds at 5% annual rate of
+
+119
+00:04:13,050 --> 00:04:13,450
+return.
+
+120
+00:04:14,110 --> 00:04:15,209
+Investment number 3.
+
+121
+00:04:15,649 --> 00:04:17,730
+Mutual funds at 8% annual rate of
+
+122
+00:04:17,730 --> 00:04:18,110
+return.
+
+123
+00:04:18,690 --> 00:04:19,790
+Investment number 4.
+
+124
+00:04:20,230 --> 00:04:22,410
+Stocks with a 12% annual return.
+
+125
+00:04:22,830 --> 00:04:26,050
+Now using the rule of 72, try calculating
+
+126
+00:04:26,050 --> 00:04:28,310
+by yourself how long it will take for
+
+127
+00:04:28,310 --> 00:04:30,410
+you to see returns on these investments.
+
+128
+00:04:31,090 --> 00:04:33,390
+Write your answers in the comments and tell
+
+129
+00:04:33,390 --> 00:04:34,690
+me what pattern you can see.
+
+130
+00:04:35,330 --> 00:04:37,830
+Also, if you're enjoying the video so far,
+
+131
+00:04:38,170 --> 00:04:40,270
+do me a huge favor and give this
+
+132
+00:04:40,270 --> 00:04:41,090
+video a like.
+
+133
+00:04:41,650 --> 00:04:42,650
+Number 4.
+
+134
+00:04:43,070 --> 00:04:43,990
+Inflation rate.
+
+135
+00:04:44,590 --> 00:04:46,410
+You may be hearing on the news that
+
+136
+00:04:46,410 --> 00:04:47,950
+there's an inflation right now.
+
+137
+00:04:48,310 --> 00:04:50,330
+But what does this actually mean?
+
+138
+00:04:50,910 --> 00:04:52,830
+An inflation rate is the rate at which
+
+139
+00:04:52,830 --> 00:04:55,330
+prices tend to increase over a certain period
+
+140
+00:04:55,330 --> 00:04:55,850
+of time.
+
+141
+00:04:56,450 --> 00:04:59,030
+Things like household goods and services, for example,
+
+142
+00:04:59,370 --> 00:05:01,170
+are affected by the inflation rate.
+
+143
+00:05:01,750 --> 00:05:04,130
+In simple terms, it costs more to buy
+
+144
+00:05:04,130 --> 00:05:06,210
+the same thing you bought this time last
+
+145
+00:05:06,210 --> 00:05:06,510
+year.
+
+146
+00:05:07,110 --> 00:05:09,790
+The rule of 72 helps us determine how
+
+147
+00:05:09,790 --> 00:05:11,510
+long it will take us to beat inflation.
+
+148
+00:05:12,130 --> 00:05:14,730
+If, for example, inflation averages to 3%
+
+149
+00:05:14,730 --> 00:05:17,170
+year after year, by doing the math, we
+
+150
+00:05:17,170 --> 00:05:18,890
+will realize that the price will double in
+
+151
+00:05:18,890 --> 00:05:20,030
+the next 24 years.
+
+152
+00:05:20,530 --> 00:05:22,730
+However, if the inflation rate stays at the
+
+153
+00:05:22,730 --> 00:05:26,430
+current 6.8%, 72 divided by 6.8
+
+154
+00:05:26,430 --> 00:05:29,330
+gives us 10.6. So in just a
+
+155
+00:05:29,330 --> 00:05:32,070
+span of 10 years, prices will astronomically rise.
+
+156
+00:05:32,650 --> 00:05:34,710
+By using the rule, you can financially plan
+
+157
+00:05:34,710 --> 00:05:36,930
+ahead to stay ahead of the curve so
+
+158
+00:05:36,930 --> 00:05:38,710
+that you are not beaten down by inflation.
+
+159
+00:05:39,990 --> 00:05:40,750
+Number 5.
+
+160
+00:05:41,250 --> 00:05:41,690
+Savings.
+
+161
+00:05:42,250 --> 00:05:44,510
+This rule has a lot of advantages, including
+
+162
+00:05:44,510 --> 00:05:46,390
+when it comes to your savings, as it
+
+163
+00:05:46,390 --> 00:05:48,310
+can enable you to project when those savings
+
+164
+00:05:48,310 --> 00:05:49,110
+will end up doubling.
+
+165
+00:05:49,770 --> 00:05:51,690
+When it comes to keeping your savings, what
+
+166
+00:05:51,690 --> 00:05:53,190
+is the first place that you think of?
+
+167
+00:05:53,570 --> 00:05:55,030
+Is it keeping your savings at home?
+
+168
+00:05:55,430 --> 00:05:57,050
+Well, this is too risky and easy to
+
+169
+00:05:57,050 --> 00:05:57,370
+lose.
+
+170
+00:05:57,370 --> 00:05:58,930
+Is it in the stock market?
+
+171
+00:05:59,330 --> 00:06:00,930
+Well, this has a higher chance of growing
+
+172
+00:06:00,930 --> 00:06:03,250
+your money, but also with high chances of
+
+173
+00:06:03,250 --> 00:06:03,630
+loss.
+
+174
+00:06:04,210 --> 00:06:06,350
+Perhaps it's opening a savings account with your
+
+175
+00:06:06,350 --> 00:06:07,010
+local bank.
+
+176
+00:06:07,530 --> 00:06:09,430
+If you're lucky here, then you might make
+
+177
+00:06:09,430 --> 00:06:11,590
+1% interest on your savings account.
+
+178
+00:06:12,190 --> 00:06:14,370
+And to be frank, this is usually the
+
+179
+00:06:14,370 --> 00:06:15,310
+lowest hanging fruit.
+
+180
+00:06:16,010 --> 00:06:18,370
+Setting a goal to save is good, and
+
+181
+00:06:18,370 --> 00:06:20,070
+setting a budget to save is a good
+
+182
+00:06:20,070 --> 00:06:20,830
+idea as well.
+
+183
+00:06:21,190 --> 00:06:22,870
+But you should also know how long it
+
+184
+00:06:22,870 --> 00:06:24,570
+will take until you double your investment.
+
+185
+00:06:25,130 --> 00:06:27,350
+So now, let's look at a few examples
+
+186
+00:06:27,350 --> 00:06:28,210
+using the rule.
+
+187
+00:06:28,970 --> 00:06:31,730
+72 divided by the rate of return equals
+
+188
+00:06:31,730 --> 00:06:33,250
+time for the investment to double.
+
+189
+00:06:33,770 --> 00:06:35,890
+For example, let's say you have $1,000
+
+190
+00:06:35,890 --> 00:06:37,470
+that you want to save in the bank.
+
+191
+00:06:37,930 --> 00:06:39,590
+Let's also say that you'll earn a 1
+
+192
+00:06:39,590 --> 00:06:40,910
+% interest rate every year.
+
+193
+00:06:41,370 --> 00:06:44,350
+So 72 divided by 1% equals 72
+
+194
+00:06:44,350 --> 00:06:44,750
+years.
+
+195
+00:06:45,270 --> 00:06:46,910
+That means if you put in $1,000
+
+196
+00:06:46,910 --> 00:06:49,350
+today, you can expect to have $2,000
+
+197
+00:06:49,350 --> 00:06:50,690
+in 72 years.
+
+198
+00:06:50,950 --> 00:06:52,890
+But I'm pretty sure you won't be around
+
+199
+00:06:52,890 --> 00:06:54,870
+in 72 years to get a $1,000
+
+200
+00:06:54,870 --> 00:06:55,410
+profit.
+
+201
+00:06:56,170 --> 00:06:58,790
+There are many investment programs out there that
+
+202
+00:06:58,790 --> 00:07:00,930
+can guarantee a minimum interest rate of at
+
+203
+00:07:00,930 --> 00:07:02,990
+least 4% to 7% per year.
+
+204
+00:07:03,510 --> 00:07:05,630
+You just have to do some research, sit
+
+205
+00:07:05,630 --> 00:07:07,770
+down with a financial advisor, and they'll show
+
+206
+00:07:07,770 --> 00:07:09,210
+you much better routes you can take.
+
+207
+00:07:09,730 --> 00:07:12,190
+So now, let's use the same previous example.
+
+208
+00:07:12,630 --> 00:07:14,870
+You still have the $1,000, but you
+
+209
+00:07:14,870 --> 00:07:17,350
+now put it towards a savings program, such
+
+210
+00:07:17,350 --> 00:07:19,550
+as an index with an interest rate guarantee
+
+211
+00:07:19,550 --> 00:07:20,850
+of 5% per year.
+
+212
+00:07:20,850 --> 00:07:24,910
+So 72 divided by 5 equals 14.5
+
+213
+00:07:24,910 --> 00:07:25,230
+years.
+
+214
+00:07:25,730 --> 00:07:28,310
+So instead of waiting for 72 years, it
+
+215
+00:07:28,310 --> 00:07:30,170
+will only take you 15 years to double
+
+216
+00:07:30,170 --> 00:07:32,510
+your investment with whatever amount you put in.
+
+217
+00:07:32,830 --> 00:07:33,630
+And it's safe.
+
+218
+00:07:34,050 --> 00:07:35,490
+5% is just an example.
+
+219
+00:07:36,010 --> 00:07:37,530
+Realistic rates can be higher.
+
+220
+00:07:38,110 --> 00:07:39,770
+All in all, the rule of 72 is
+
+221
+00:07:39,770 --> 00:07:42,470
+a handy-dandy mathematical calculation you can use
+
+222
+00:07:42,470 --> 00:07:43,970
+to identify a number of things.
+
+223
+00:07:44,530 --> 00:07:46,170
+This can mean seeing how long you'll have
+
+224
+00:07:46,170 --> 00:07:47,970
+to wait for your savings to grow or
+
+225
+00:07:47,970 --> 00:07:49,350
+how much money you'll have to make to
+
+226
+00:07:49,350 --> 00:07:50,670
+stay ahead of the inflation rates.
+
+227
+00:07:51,190 --> 00:07:52,490
+Out of all the things you can use
+
+228
+00:07:52,490 --> 00:07:54,470
+this rule on, the one common thing we
+
+229
+00:07:54,470 --> 00:07:55,890
+learn each time is to be patient.
+
+230
+00:07:56,390 --> 00:07:59,210
+Start your journey towards financial freedom today so
+
+231
+00:07:59,210 --> 00:08:00,570
+that you don't have to be patient for
+
+232
+00:08:00,570 --> 00:08:01,110
+too long.
+
+233
+00:08:01,670 --> 00:08:03,110
+I hope you've learned a lot from this
+
+234
+00:08:03,110 --> 00:08:03,410
+video.
+
+235
+00:08:03,930 --> 00:08:05,350
+Let me know in the comments how you
+
+236
+00:08:05,350 --> 00:08:06,370
+aim to use this rule.
+
+237
+00:08:06,790 --> 00:08:08,150
+And with that being said, have a great
+
+238
+00:08:08,150 --> 00:08:09,910
+day and see you all in the next
+
+239
+00:08:09,910 --> 00:08:10,230
+video.
+
+240
+00:08:12,050 --> 00:08:12,150
+Transcribed by https://otter.ai

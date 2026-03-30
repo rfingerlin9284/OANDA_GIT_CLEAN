@@ -1,0 +1,61 @@
+(0:00 - 1:34)
+Every investor is quick to talk about NVIDIA and Palantir. But the days of those companies hitting 500% growth in a single year are quickly disappearing. I'm not saying it's impossible, I'm just saying it's not likely. 
+
+If we want to see that type of growth, then we need to look at small cap stocks that are often priced lower than $10 a share. For example, 18 months ago, SoundHound AI was trading at $3.47 a share, and now it's up 572%, where NVIDIA was up 205% that same time period. That means that $10,000 invested 18 months ago into these two companies, well, it would now be worth over $57,000 from SoundHound AI versus $20,000 from NVIDIA. 
+
+That's a $37,000 difference, which is huge. The problem is, these small cap stocks are extremely risky, and they can go way up and way down in a matter of days. That's why I'm going to do my best to showcase the top five growth stocks under $10. 
+
+And this is a remake of a video that I'd done 18 months ago, where I'll list out on the screen what those companies were, and how they've performed over that time frame. Overall, as you can see, not a bad set of stock, and only one major dog in the group. I have spent a lot of time researching for today's video, and I'm the first to state that there just aren't that many good stocks that are available under $10. 
+
+But I'm doing my best to pick the ones that I believe have the most upside over the next couple of years. And I'm not going to waste everyone's time by keeping you hostage. I'm listing them on the screen right now, where I hope that you can appreciate my upfront approach.
+
+(1:34 - 3:23)
+And I also hope that you stick around to find out why they made my list. Let's jump right in with Fiscal Note Holdings, with the symbol N-O-T-E, where they are a technology company specializing in global policy and market intelligence. By combining artificial intelligence with comprehensive data and expert analysis, Fiscal Note provides organizations with critical insights to navigate complex policy landscapes. 
+
+And maybe it's the craziness of a new presidential administration, or shifts in foreign policy, or maybe even it's the simple fact that technology is racing forward at a crazy speed, which makes it necessary for a company to specialize in market and policy intelligence just like this. Now, not to get off topic, but with regards to technology flying at breakneck speeds, have you seen how one of Tesla's competitors has an electric car that can automatically sense potholes in the road and jump over them? Or the fact that a no-name Chinese company created DeepSeek, which seems to rival the best US AI models available. And it just came out today about the news of DeepSeek, and the stock market is starting to drop quite a bit. 
+
+So you can tell when I'm actually filming this. So it's no surprise that companies need a company like Fiscal Note to keep them at the tip of the most of up-to-date market intelligence. At a quick glance at their financials, they're not awesome. 
+
+Margins are improving, but still highly negative. Their debt-to-assets are climbing, and they've missed on forecasts. But analysts seem to give them a lot of love with over 100% upside over the next 12 months. 
+
+Look, I'm not going to lie, this stock is a big unknown. I believe that it's one that has a lot of value to provide the companies right now with all of the different policy changes. But this is a company that I'll want to watch over the next earnings to see if they can move more in the right direction for their sales and margin.
+
+(3:23 - 3:48)
+Like I said at the beginning, small cap companies carry a lot more risk, so make certain to do your own research and watch them closely. This next company meets all the requirements of having a low entry point and a large potential for growth, seeing as how it's up over 370% for the past year. But I couldn't include this one on my list because of them being today's sponsor, and that would be Poet Technologies, where they have made several announcements since I last spoke about them.
+
+(3:48 - 5:50)
+Poet is revolutionizing data centers and AI networking by tackling data transfer bottlenecks and heat using its patented optical interposer platform. Traditional electronics use copper wiring, which consumes substantial power and limits data transfer speeds. But Poet replaces these wires with efficient lasers, reducing power consumption and increasing data speeds, which overall lowers costs. 
+
+And recently, Poet announced a partnership with a global financial services leader to develop a custom optical engine for high-frequency securities trading, demonstrating the versatility of its optical interposer and low latency, allowing for trades that happen much faster than traditional hardware allows. In addition, Poet's acquisition of Super Photonics integrated circuits enhances its production capacity for optical engines. And with all the news around DeepSeek's R1 program demonstrates the increasing accessibility and market opportunities for AI, further highlighting the value of Poet's optical connectivity solutions. 
+
+Poet's technology is a crucial solution for the future of AI by reducing costs and latency. Learn more about Poet Technologies via the link down in the description. The next company is Archer Aviation, and truth be told, I could have easily have chosen Joby since they're both priced about the same and they're both at about the same stance in becoming operational. 
+
+So either one is a good choice. But for right now, I'm just going to focus on Archer, where they are an aerospace company developing electric vertical takeoff and landing aircraft for urban air mobility. And their flagship aircraft, Midnight, is designed to carry four passengers and a pilot on short urban trips. 
+
+And by short urban trips, I'm talking 10 to 15 minute flights in urban areas, where it would have easily taken an hour or more to drive that same distance. This is a company that has had some big contracts with the Air Force, and they've also partnered with Anduril Industries, where they plan to provide our military some extremely high-tech offerings. In addition to all that, they plan to have operations starting by the end of this year.
+
+(5:51 - 8:35)
+I see this as getting in early on something like Tesla, where it may be very slow for quite a while, but I expect it to take off over time. And trust me, I had a ton of friends 10 or 11 years ago that would say that electric cars would never become mainstream. And we all know how that panned out. 
+
+As for financials, they are up and down across the board. They look to be building up their assets, and they've beaten estimates several times. But this is a stock that can slide down just as fast as it blows up. 
+
+And analysts see Archer as having over 22% upside for the year. And as I say with any stock, I wait for a dip before I buy into it. Patience has always seemed to work in my favor, and I see this stock as being a long-term growth driver. 
+
+The next company is a repeat from my video 18 months ago, and that's Big Bear AI, with the symbol BBAI, where they are a technology company specializing in AI-powered decision intelligence solutions across sectors such as government and defense, manufacturing and warehouse operations, and healthcare and life sciences. Additionally, Big Bear AI was awarded a five-year production contract valued at $165 million to deliver the U.S. Army's Global Force Information Management objective environment, enhancing its role in national security. And during the taping of this video, the stock has had a major correction due to the news from that AI model, DeepSeek, which I find sort of ridiculous in having a correction because a lot of experts state that LLMs are simply becoming a commodity. 
+
+But the real value is creating the AI systems to drive real growth, sort of like what Palantir has already been doing. That, and with so much of Big Bear AI's revenue coming from the government, it won't really have any big impact from the new model like DeepSeek, making this a pretty good opportunity to buy the dip. Because in looking at their financials, they've shown margin inconsistency, but revenue is steady, and their debt-to-assets have dropped way down. 
+
+But they've also been missing in their forecast in the lower right. Despite that, analysts show Big Bear AI with nearly 20% upside. And given its price below $10, this happens to be a pretty good pick for today's video. 
+
+Our next company is D-Wave Quantum, which is a leader in quantum computing systems, software, and services, recognized as the world's first commercial supplier of quantum computers. The company also partnered with Kerasoft Technology to expand the distribution of its quantum computing solutions to the U.S. public sector, aiming to enhance government adoption of quantum technologies. I've spoken about this company a few different times in other videos because I see quantum computing as being an area of extreme growth over time, and in my opinion, we're in the early innings of this particular game.
+
+(8:35 - 10:51)
+And when we look at the financials, it doesn't really tell me much of a story because they're still in startup mode. But with their push to gain usage from government agencies, I expect their margins to quickly grow, and they've already been beating forecasts semi-regular in the lower right. And analysts see D-Wave with over 50% upside, and I can easily see that being the case. 
+
+And like all small cap companies, it has huge swings in the stock price. So definitely, as I say, buy on the dips because they've been happening a lot lately depending on which CEO wants to talk about quantum And our next company is Biomerica Inc., with the symbol BMRA, which is a global biomedical technology company that develops, patents, manufactures, and markets advanced diagnostic and therapeutic products, focusing on gastrointestinal and inflammatory diseases, where they secured three key international patents for its InFoods technology, targeting gastroesophageal reflux disease, Crohn's disease, and ulcerative colitis. Additionally, Biomerica has launched its InFoods IVS test directly to consumers, aiming to help individuals identify foods that may trigger irritable bowel syndrome symptoms. 
+
+This initiative reflects the company's commitment to provide accessible solutions for gastrointestinal health. And I was shocked to learn that about 20% of the U.S. population has GERD, and another 10% of the population has irritable bowel disease, which makes Biomerica a leader in the potentially multi-billion-dollar business with regards to advanced diagnostics. And in looking at their financials, the revenue and margin is cyclical with no consistent story. 
+
+But this is a company heavy in R&D, where they've just been granted several new patents and just started its direct-to-consumer test kits. I believe this to be in the early stages of the company's growth story, but it happens to be so early in its story that analysts don't seem to have any projections to work from. So this makes it a very challenging company to gauge where it's going to go. 
+
+But given the patents and the market, I believe this may be a little bit of a hidden gem. Now, if small cap stocks that may be hidden gems aren't your thing, I do have plenty of other large cap stock and ETF videos for you to check out at any time. Thanks so much for watching.

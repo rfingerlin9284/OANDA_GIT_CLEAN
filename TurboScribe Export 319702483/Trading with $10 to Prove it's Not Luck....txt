@@ -1,0 +1,154 @@
+(0:00 - 1:04)
+So I turned $10 into over $1,300 in about a month to prove it's not luck and that the only thing that matters is your skill in trading. You don't need a large amount of money to make good returns. So I want to show you the full process I use to flip this small account and I also just wanted to prove that trading can be simpler than you think. 
+
+You just need one strategy, trade one pair at one time and it's easy. Like it doesn't have to be overly complicated. Okay, first we're just going to cover risk management. 
+
+So how much do I risk each trade? What is the risk percentage, lot size, all that sort of stuff. Risk reward versus win rate, you have to understand this. You need to have a trading journal to track everything to understand your win rate, your risk reward, your average max drawdown of your own unique system. 
+
+I have it all tracked down so I know my win rate is 80% plus. So I target around 1.5, I have an 80% win rate so it's very profitable. But the thing is here, I focus mainly on win rate. 
+
+A lot of people say to focus on risk all that sort of stuff but I've never found it helped me. I'm more confident when I'm winning more often and I trade better when I'm more confident. So that's just what I focus on.
+
+(1:05 - 8:03)
+Smaller, more consistent moves, I trade in a way that consistently gets more wins every single day. They're still having a positive risk to reward, it's just focusing more on those probabilities. Why is that? A lot of people say to risk one to two. 
+
+So have two times the reward of your risk. Yes, but likely everyone that I've coached and mentored, they have around a 50% win rate if they're succeeding really well with that. But with a one to two, you have a 97% chance of six losses in a row. 
+
+Are you comfortable with taking six losses in a row? For a smaller risk to reward, a higher win rate system like mine, higher probability scalping, it's a 80 plus percent win rate. I have a 86% chance of two losses in a row. I'm okay, really comfortable taking two losses in a row. 
+
+So I just focus on small, consistent scalps with a high win rate. It's easier to execute on and it's easy to be confident and trade well when it's unlikely that I'll take more than three losses in a row. So understanding your win rate, it will help you understand how many losing trades in a you can expect. 
+
+And then once you know that, you can then decide on how much to risk. So my risk on a small account is always going to be higher. My leverage was one to 500. 
+
+So I had a good amount of leverage, but I don't care if I blow $10. So I can treat this small account like a big account and risk 50% or 30% mainly. So it was around 30 to 50% risk. 
+
+Because I have a really high win rate, I can risk a lot higher. I can risk 30% pretty comfortably. If you watch any of my Instagram reels, you know I close my losses early. 
+
+So it's never actually that 50, 30% loss. It's a little bit less. So I always close my losses early. 
+
+I always manage risk aggressively and I always look to add to win. If you have a lower win rate around 60, 50%, your percentage should decrease maybe around 10% or 20%, depending on your win rate. So the amount you risk should always be based off your win rate. 
+
+You can only know your win rate if you journal your trades. So you better journal your trades. I've never really cared about risk towards. 
+
+I think it's kind of overrated to target one to twos, one to threes. So my average risk reward is around one to 1.5, but sometimes I take one to one, sometimes negative. But I focus on the probability of each move and I always look to manage my losses more aggressively, add to my winners. 
+
+So it still gives me a positive risk reward. It gives me a lot higher of a win rate because I'm trading based on probabilities. I'm not trying to force a risk to reward on a market on conditions that actually might not be the right way. 
+
+It's all about probabilities and it's consistent. If you want to be consistently profitable, you first need to be consistent. That means doing the same actions every single day. 
+
+If you're trading multiple different pairs at multiple different times, using multiple different strategies, you're not going to be consistent and you're probably not going to make money. Also embrace uncertainty. Like this account flip, I've blown multiple accounts before this. 
+
+And if you're going to do this as well, accept the likelihood that you might blow that account. Nothing is certain in trading and you have to accept that. And so risk management is closely tied to your technical analysis or strategy because if you have a higher win rate, you can risk more. 
+
+If it's lower, you can risk less. It's all about understanding your approach, the pros and cons of it, and then adjusting your risk accordingly. So I use pure price action, a three-step approach, and always try to stack those conferences to put probabilities in my favor. 
+
+So I trade at the same time every single day on gold using the same strategy. So that is the second hour of Asia. That's 11 a.m. Australian Eastern Standard Time. 
+
+And I trade the exact same way every single day and aim to take the same type of trades. So I trade live with my Discord every single day at the exact same time, that second hour of Asia, and catch the same sort of moves. So sales on gold using some DXY correlation, which we'll go over as well. 
+
+Exact same trades, exact same time. 10.52, 11 a.m. It's always going to be around 11 a.m. Because I guarantee you, if you just trade at the exact same time every single day and trade on the same pair, you're going to see the same things happening. I'm going to go through some examples of how the exact same thing happened every single day for the past three days in a row. 
+
+So I took the same trade pretty much three days in a row, and it's really easy to be consistent when you're just doing the same things. So this is how you get a really high win rate. You just niche down into one small thing, and you get really good at that. 
+
+It's simply this. It's a three-step approach. You have your direction, you have an area of interest, and then you have an entry model. 
+
+This can be a shift, a type three, or could be like a break-in retest, volume shifting in your direction, could be like a break of a low, volume shifting in direction. I just use that simple three-step approach, direction, area of interest, entry model, stacking probabilities, stacking confidences in my favor. So I break price action down into counter behavior and market structure. 
+
+So counter behavior is how an individual candle moves throughout the life cycle of a candle. So this is a good example here. When we're moving bullish, and we have a bullish candle close above a recent high and low, I'm expecting that to continue moving bullish, but I first expect it to create a bottom wick in that first half of that candle. 
+
+So if this is a day, I expect it to be bearish first to create a wick, fill in this body, and then push bullish. If it's bearish, I expect it to create a top wick and then flip and push bearish. So in this scenario here, since it's bullish, it should open, create a bottom wick first, and then push bullish. 
+
+That's just because price tends to fill its moves. It's a push and pull between buyers and sellers. So I'm trading at that second hour here, that second hour of Asia. 
+
+So at that new 4-hour candle, that's what I'm trading. So we had this 4-hour close bearish. So I was expecting it to create a top wick first on that 4-hour candle, and then drive down to create that bottom wick on that daily candle. 
+
+So using that counter behavior on different time frames to find direction. So the first step finding direction, I'm using counter behavior, bit of market structure, because when we're over bullish on high time frame, especially for Asia session, will be bearish first to create a bottom wick, and then push bullish. If I'm looking for a sell, I'm looking for the 4-hour to first create a top wick, a reaction to some highs, maybe after it takes out a high, looking for a reversal off that.
+
+(8:04 - 10:28)
+So low time frame bearish, high time frame bullish, something like this. This is what to my Discord when I was trading with them live this morning. And then I use DXY correlation as well. 
+
+This is what it was looking like. You had a break of a low, a break of a high, the reaction to an area of interest, but this would be a type 3. So type 3 is just a shift in market structure where you're breaking a low, then breaking a high, one coming in. So just looking for a continuation of that there. 
+
+So we're currently pulling back, reaction to this high. So I was just waiting for that there. So I'm not taking a trade in these conditions because it's kind of low time frame range bound. 
+
+I'm waiting for it to create a top wick on that 4-hour candle first. Creating a top wick on that 4-hour candle. You had a break of a high, a strong reaction to that area there. 
+
+Really strong reaction. And what was DXY looking like here? You're having a bit of a reaction to around this area of interest. And then as soon as we broke this high here, this little high there, then the next one, you have a break of that high there. 
+
+That's looking pretty bullish for continuation of this overall shift. So you had a break of a low, break of a high, a type 3 continuation with gold looking bearish. You had volume coming in. 
+
+This is looking pretty nice. You also had the 4-hour looking like it was going to flip bearish. So this is the 4-hour candle flipping bearish there. 
+
+So really nice quick little scalp. Stop behind the high, targeting previous low of the range for a nice pretty clear clean trade there. And so that was the 2nd hour of Asia using that direction area of interest, using market structure, using candle behaviour. 
+
+Then an entry model such as volume coming in for a reversal and a DXY type 3 pushing bullish. So you can look at entry models on DXY and use them to take trades on gold. This is why I love trading correlation.
+
+(10:33 - 10:50)
+So at the exact same time or around the exact same time, the day before this, you had pretty much the exact same thing happen. You had the 4-hour open, immediately go bullish. It took a little buy before it created that top wick, react to this previous area of interest.
+
+(10:51 - 11:03)
+And then we had a pullback, a type 3 shift here. Type 3 shift, entering on that pullback, a reaction for a nice little scalp that continued further on. And that looks like that.
+
+(11:05 - 11:23)
+And then the day before that, at the exact same time as well, that 2nd hour of Asia, around that 4-hour open, took the exact same type of trade. You first opened, immediately created a top wick there. Then it flipped, took a sell on that candle flip for a nice little scalp.
+
+(11:23 - 12:15)
+So 3 days in a row, I took the exact same win. And this is what consistency means. This is what I say when if you want to make money from trading, you shouldn't focus on trying to win. 
+
+You should just focus on doing the exact same thing every single day. It's really easy, simple. This is what trading is. 
+
+I see what's happening and then I trade it. Just going back to technical analysis, it's that purely price action, candle behavior, market structure, that 3-step approach, direction, area of interest, entry model, and then looking to stack, align different confluences in your favor. Really simple, easy. 
+
+And then using that gold and DXY correlation. I love trading that gold and DXY correlation. It has a really big increase to my win rate, around 16%. 
+
+And it has an inverse relationship. It's really nice for confirming as well. If you actually want to be able to do this for yourself, you need to be journaling your trades.
+
+(12:15 - 17:40)
+So as I said recently, the easiest way to improve your system, to improve your strategy is just to journal your trades, do more of what works and less of what doesn't. So I've journaled around 300 trades. This is the most recent iteration of that. 
+
+If I just go to using DXY correlation, that 56% win rate goes into a 73% win rate. Such a simple way to improve my system, just using DXY correlation, using to stack that confluence. And then if I just look to take a 1 minute type 3, a shift, that 73% win rate goes into an 83% win rate. 
+
+So this is how you get a high win rate. You journal your trades, you focus on what works, taking a trade with DXY correlation, 1 minute type 3, shift of structure, that gives me an 83% win rate. And you can keep refining this, focusing on what works. 
+
+If you want to be profitable, you need to be doing this, having a journal, that's having objective data, also tracking the trades as well, taking screenshots to trade your subjective data, to be able to review those trades, look at what works. So this is a nice type 3 shift. You make a high, break a low, enter on the pullback, pretty much the exact same trade as yesterday. 
+
+And then this is how you do the exact same thing, get consistent, make consistent money from trading. You can get really high win rates just through refining this. Like I have a setup here, so I have a setup here that has a 93% win rate just on two little small variables. 
+
+So it's really important that you refine your approach, refine your system, using a journal. There's a link to this journal in the description below as well, that you can check out. So if you take anything from this, I focus on probabilities, a small risk-to-reward, using that 3-step approach, stacking confluences, and trading at the same time every single day. 
+
+So I could only flip this account using this trading journal, like I wouldn't have understood my win rate, my risk-to-reward, what confluences actually resulted in a high win rate, such as the DXY, the type 3 shift. So this is why you need to be journaling your trades. Record it, analyze the confluences, see how they affect the outcome of a trading journal, see how they affect the outcome of each individual trade, track the outcomes, view and then reflect that, refine. 
+
+And this is how you become profitable. This exact process here is how you become profitable. No strategy really is going to get around this. 
+
+You're not just going to pick up a strategy straight away and make it profitable. You have to put in the work, you have to journal the trades, you have to understand and slowly improve that win rate through taking hundreds of trades, refining it slowly, all that sort of stuff. So keep it consistent, keep it simple. 
+
+The biggest learning I found in my trading, the biggest aha moment was just to keep it simple. Define what your approach is, it can be how do you define direction, how do you define an area of interest, make it as simple and as easy to replicate as possible. And then test them using your journal and see just what works, see what works. 
+
+Not everything is going to work. And then the main basis of my approach is just to, I've identified all the factors that result in a positive expectancy. So always looking to take a trade with correlation, with a market structure shift, all that sort of stuff. 
+
+I can assign weights to those and I can just look to stack as many of those probabilities, those confluences in my favor. Stacking time frames, using timing, trading at the same time, using the same pair, using the same strategy, keeping it as simple and as easy as possible to execute. That is the key. 
+
+If you just do that, I guarantee you, when you put in the work, you will be profitable. And then focusing on embracing a probabilistic mindset, that means acknowledging that no trade is 100% certain. You can take the best trade set up in the world and it can still lose and that's okay. 
+
+Just focusing on your process. I didn't focus on trying to flip $10 into $1,000 as quickly as possible. I just focused on taking the best trades and that was a happy accident that I made money. 
+
+Because I could have easily blown the account if I got unlucky or if just taking off the conditions weren't great. But the conditions on gold have been amazing in the past month. I've been trading the exact same way the whole month and it's been paying off. 
+
+So I'm still managing risk aggressively. I'm closing my losing trades before they hit stop loss because I know if it's going to hit stop loss, the bottom's moving against you. I'm always looking to manage risk and lose less than I initially risked. 
+
+So what do 95% of traders do? Well, they fail. But they also lose more than they initially risk through adding two loses, through moving their stop loss. I just simply do the opposite to be a winning trader. 
+
+It's really that simple. And then always focusing on continuous learning. Learning from each loss you take because I did take losses. 
+
+I didn't let them affect me. I see value in them, if not more than wins, because I learn more from losing trades. And learning is more valuable than a couple of dollars. 
+
+So if you just use a simple approach, it can be parts of my strategy. It can be this psychology. It can be the journal, which I think is the most important. 
+
+It's actually possible to then have these big flips, taking a small amount of money into a bigger amount of money and be profitable. It could be using this to pass prop firms, using it to grow or compound your personal account. You don't have to go for big percentage gains because it is high risk.
+
+(17:41 - 18:07)
+But yeah, hopefully this helped. If you liked this video, like the video. And if you want to see more, subscribe because I will be posting more content in the future as well. 
+
+And if you want to trade with us every single day, every single morning, there's a link in the description below to join the discord where we trade at the exact same time every single day, take wins. I'm kind of on a win streak at the moment. We'll see how long it lasts. 
+
+But we all catch wins, lots of nice profits around there as well. So yeah. See ya.

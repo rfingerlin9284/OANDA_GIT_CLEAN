@@ -1,0 +1,119 @@
+(0:00 - 0:25)
+Most options traders make one fatal mistake without realizing it, and this is the primary cause of their failure. In this video, S&B's head of options trading shows you what that major error is and how to correct it quickly and easily. I'm Mike Bellifiori, and we're one of the top proprietary trading firms located in New York City since 2005 and proud to develop number seven and even eight figure per year traders.
+
+(0:26 - 0:52)
+Watch, take notes, and learn from a professional proprietary trader on our desk so you can grow your trading account. Hi, I'm Seth Fruhberg, and I'm the head trader of S&B Capital's options trading desk here in Manhattan. And I can tell you from training professional traders and working with thousands of retail options traders like yourself from all over the world, the absolute number one complaint that I get from beginning options traders goes something like this.
+
+(0:52 - 1:28)
+They tell me it's hard enough for me to pick stocks that I think are gonna go up and be right about it. But what drives me crazy is that when I buy a call on that stock, which is what I thought you were supposed to do when you think a stock's gonna go up, and that stock actually does go up, why the hell does that call go down most of the time? In other words, I got the stock's direction right, and I still lose buying a call option on that stock. Is there any way to make money trading options? You can't imagine how many times I've heard this exact complaint.
+
+(1:29 - 1:54)
+And so the purpose of today's video is to be honest with you and tell you that if you keep buying calls on stocks that you think are gonna go up, you're most likely going to keep having this exact same experience, which is gonna get very frustrating. But there's an easy way out of this exact dilemma. And once you implement it, you're gonna be amazed at how much your options trading will turn around.
+
+(1:54 - 2:23)
+And I can assure you that once you understand this one basic principle, and you follow what we're teaching you in this video, if you do get the direction right on the stock, you will make money on the options trade. So stick around because this is obviously very important for you to understand. Now, before we get into the strategy we'll be teaching you in today's video, if you're absolutely brand new to options trading, and you don't know much about how options work, we've put together a video for you to understand options basics.
+
+(2:24 - 2:57)
+And if you click the video appearing on your screen right now, it will lay out the groundwork for you to understand the option strategy that we'll be sharing with you in this video. Then when you're finished, you can come back and watch the rest of this video. This month, May of 2024, has had an extremely bullish start with the S&P 500 up 5.3% through just the first half of the month, ending on May 17th, last Friday, which is a blistering start to the month with the bulls fully in control after a fairly mild pullback that took place in April.
+
+(2:58 - 3:31)
+And so the all-time high that had actually been set back in March of 2024 was exceeded on May 15th. And so every day offers the opportunity for the SPY to break yet another record to the upside as the market remains convinced that the Fed is gonna start reducing interest rates without a serious slowdown in the economy, the soft landing that everyone was hoping for. And whether the market is eventually right about this outcome or wrong, it's been acting like that is exactly what's gonna happen.
+
+(3:31 - 3:47)
+And so May has undoubtedly been a really bullish month. Just the kind of month that you'd think buying calls each day a few points above where the SPY is trading is bound to give you a winning outcome. After all, we already know it's been a blistering rally so far.
+
+(3:47 - 4:00)
+So we don't even have to worry about the direction of SPY. We already know it. So let's go back and see exactly how this would have played out knowing ahead of time that SPY was going to go up most of the days.
+
+(4:01 - 4:22)
+And let's assume that we have a $2,000 count to start with. Okay, so let's start first thing just as the market is opening on May 1st and with SPY opening at 501.70, we pull up an options chain that expires that same day, May 1st. And you'll notice that there's a column called Delta that you'll see on any brokerage platform that supports options trading.
+
+(4:23 - 4:49)
+And so we're gonna look for the call option, which is as close as we can get to at least 20 deltas, which in this case is the 506 call as you can see. And we're gonna buy five of those for a price of 59 cents. And so to explain what's going on here, what's known as an options delta is a mathematically arrived at prediction of how much an options price is likely to move based upon how much the stock price moves.
+
+(4:50 - 5:09)
+And depending on how volatile the market is expected to be on any given day, the 20 delta call can be really close to where the stock is trading, sometimes just a few points away. And on other days, it could be a little further away. And so on this day, it was a little more than four points above where the SPY opened that day.
+
+(5:10 - 5:29)
+Okay, and so from a cashflow standpoint, what's happened is that the price of the calls were 59 cents, but remember, each SPY call option represents 100 shares of stock. So we multiply that by 100 and we bought five of them. And so the final cost to us is $295, as you can see from the calculation.
+
+(5:29 - 6:09)
+And so by the end of the day, the SPY had indeed rallied off the open, but then sold off in the afternoon, closing at 500.83. And so we're gonna start a record of each of these trades through the first half of May. And as you can see, with the stock closing at 500.83, the call option expires worthless, right? Because no one is gonna exercise the option to buy SPY at 506 when you can get the shares in the open market for 500.83. And so that call just expires with zero value and you lose your trade, of course. Okay, so let's move to the second day of May.
+
+(6:09 - 6:37)
+And with the stock opening up at 503.09, we're gonna go ahead again and buy five of the 506 calls, which again are at or above 20 deltas, which this time is just three points above the market. And we paid 215 for those. And as you can see, after initially selling off, the market rallied for the rest of the day, closing at 505.02. But our call was up at 506.
+
+(6:37 - 6:57)
+And so this time the market rallied strongly off the open. We bought calls at the open and we got nothing to show for it because the market closed below our call strike price again. And so that becomes another loss, even though we were absolutely right about the market's direction that day and bought calls as a result.
+
+(6:58 - 7:19)
+And so updating our record, we end up with another loss of $215. Now on the third day, the 20 delta call was 513. We paid 285 for five of those, but the SPY closed at 511.31. And so even though the SPY was up $6.28 that day, we still lost money on the trade.
+
+(7:20 - 7:31)
+Okay, so May 3rd was a Friday. So the next trading day was Monday, May 6th. And so on that day, the 20 delta call was at 515, for which we paid $165.
+
+(7:32 - 7:56)
+But this time the market really rocketed up and closed at 516.57. And so this one is a win because as you can see from the calculation, the SPY's closing price was $1.57 above the call strike price. So each call's value is $1.57 at the end of the day. So we multiply that value times the 100 shares it gives you the right to buy at 515.
+
+(7:57 - 8:15)
+And because you own five of those calls, the final value of the calls is 785. And to determine the profit on the trade, we subtract out the original cost of the options for a final profit of $620. But then as you can see, we had another loss on May 7th.
+
+(8:15 - 8:30)
+And then on May 8th, something interesting happened. On that day, the 20 delta call was 517 and the SPY closed at 517.19. So you think, hey, that's a good thing. The SPY closed above our strike price by 19 cents.
+
+(8:31 - 9:16)
+But then you calculate it out and you realize that for those five calls to require a total cost of $190 at the beginning of the day, that meant each option would have been priced at 38 cents initially. And at the end of the day, the SPY closed 19 cents higher than the 517 strike price. So all five options had a value of $95 at the close, but we paid $190 for them, meaning that even though we were right about the market direction, and we bought a call that expired with value, the trade still lost because the SPY didn't really rally by enough to make the option worth more than what we paid for it in the morning.
+
+(9:17 - 9:40)
+And so again, we have a loss, even though we were right about just about everything. Okay, so at this point now, so as not to be too tedious, we'll just show you the rest of the record, which you can do for yourself if you happen to have options backtesting software. And as you can see, other than wins on May 9th and May 15th, all of the rest of the trades were losses.
+
+(9:41 - 10:19)
+And so to summarize, the call buying campaign resulted in three wins, 10 losses, and an overall loss of $265, which comes to a negative return of 13% in a very bullish period for the SPY. And so at this point, we have to ask ourselves, do options even work? Should we just bag this idea of trading options to express our directional predictions on a stock, or is there another solution? Well, let's try something else and we'll see. So let's go back to May 1st again, the same day we started our call buying campaign.
+
+(10:20 - 10:43)
+And on that morning, instead of buying the 20 Delta call, we'll go ahead and try something completely different. Remember, put options only have value if the stock closes below the put strike price on the day that it expires. But if the stock price closes above the put strike price, then the put expires with zero value, the opposite of a call option.
+
+(10:43 - 11:39)
+So if on May 1st, instead of buying the 20 Delta call, we go ahead and sell five put options at the first strike price below a 40 Delta put, which in this case, as you can see, is the 500 put, which has a Delta of 36.67. And you'll notice that the 500 put is actually pretty close to where the market's opening up that day at 501.70. And in fact, on most days, the first strike below 40 Delta will usually be just a point or two below where the market opened. And so let's go ahead and sell five of those, and then move down two strikes to the 498 puts and buy five of those. And when we do that, we are entering into what options traders refer to as a put credit spread, where you sell put options higher up on an options chain and buy put options below those on the same options chain.
+
+(11:39 - 12:29)
+And so in the case of this strategy, instead of spending cash to buy calls, in this case, as you can see for the calculation, we're actually gonna be receiving cash because the puts we sold were priced at $1.29, but the puts we bought were priced at 69 cents. And so netting it down, the five put credit spreads bring in $300 for which your broker will require you to have at least $700 in your account in order to execute this trade, which is also the trade's worst case scenario loss. And so moving to the end of the day, as you'll remember, SPY actually closed lower where it opened, closing at 500.83. And so even though the market closed below where it opened, let's take a look at the outcome of our put credit spread trade.
+
+(12:30 - 13:21)
+And after taking into consideration the $300 that we originally collected, the rest is pretty simple because both the 500 short puts and the 498 long puts both expired worthless because the SPY closed above both their strike prices, resulting in us just pocketing that $300 as our trade win. So instead of losing our entire call premium, as we did when we bought the call on the open using the previous call buying strategy on May 1st, we ended up keeping our entire premium that we received, selling the put credit spread for a full win of $300 on that first trade. And so we'll now start keeping a record of the put credit spreads that we sold located right below 40 deltas each day, as opposed to the call buying strategy we were using earlier.
+
+(13:22 - 13:52)
+And so let's turn to this next day, May 2nd. And in this case, we're selling the 502 and buying the 500 puts and collecting $260 with a worst case scenario loss of 740. And as we saw previously, the SPY bounced that day to 505.02. And so our outcome is gonna be pretty much the same as our first trade where both puts expired well below the SPY closing price, thus expiring worthless.
+
+(13:52 - 14:26)
+And again, allowing us to pocket the initial $260 that we collected. And so if we keep going through this same exercise every day through to May 17th, just like we did before, selling the nearly 40 delta put, usually just a point or two below SPY's opening price, and buying the put two points below for protection each day, first thing in the morning, here are the results that you'll see if you backtest this for yourself. And you can see it's quite a different story where we literally had no losses.
+
+(14:26 - 15:13)
+And the only thing of any note actually is that on the two highlighted occasions, May 13th and May 16th, the SPY actually closed below the short puts location. And so right before the market closed on those days, once it was obvious that the SPY was going to close below the puts price, strike price, we would go ahead and just buy those puts back to close the trade. And the cost of buying those back is netted out of the profit on the trade because the profit is always calculated by taking the initial premium you received and reducing it by any payments to close the short position because that is cash outflow, which resulted in lower profit numbers, you'll notice for those two trades.
+
+(15:13 - 15:42)
+But those were the only two trades where we even needed to do that. And the reason we needed to do that is because in all the other cases, the SPY closed above the short put, so there was no need to do anything, but pocket our initial premium, whereas if the SPY is about to close in the money, then you need to buy the puts back to close the trade. Otherwise, you'll be assigned 100 shares of SPY at your short put strike price times the number of options that you have sold.
+
+(15:43 - 16:19)
+And that's not the purpose of this exercise to actually own SPY shares. So we just buy it back and close the trade before that happens. And so what's interesting is that you'll notice that while SPY closed lower than where it was when we entered on those two occasions highlighted in yellow, we still made money on the trade, which of course is essentially a bullish trade where you were hoping the SPY rallies as much as possible, which will then cause our options to expire with no value, allowing us to pocket the initial cash we received at the outset of the trade.
+
+(16:20 - 16:51)
+And we're pointing this out to emphasize just how powerful the put credit spread trade is, that even if the stock goes down after we enter the trade, we still have an opportunity to win this otherwise bullish trade. It's amazing. And so when we summarize the outcome of this trade, winning all of them with a profit of 2,685 and a return of well over 100%, it's obviously no contest in a bullish month like the first half of May this year.
+
+(16:52 - 17:31)
+And just to drive home how dramatically different this outcome is, take a look at this comparison between the two approaches. And in this scenario, there's obviously no contest with selling put credit spreads being far superior in every single category. And so what I'd like you to take away from today's video is not that put credit spreads will always perform better than buying calls because they actually won't in certain conditions, but rather that if you are bullish and you're right, that selling slightly out of the money, put credit spreads will always win on a day where the market closes higher than it opens.
+
+(17:31 - 18:08)
+While on the other hand, buying calls, as we saw from this example, will fail and fail a lot, only winning a few times in this case, even though on most days, we were absolutely right about the direction of SPY, but not by enough for the calls to close with any value at all. And even when they did close with value, we still lost one. And even if the stock does manage to exceed the strike price of the call, that still does a guarantee that you'll win the trade because you still need to recover the premium you paid for the call.
+
+(18:08 - 18:25)
+And so the break even for a long call is actually higher than the call's strike price. And so that's why you keep losing so often when you try to buy relatively inexpensive calls if you're bullish. And that's because buying calls have this huge hurdle.
+
+(18:25 - 19:16)
+The stock has to get, first of all, beyond a strike price for you to make any money at all in the trade, whereas with the out of the money put credit spreads, if the stock closes up, flat, or even down a little compared to where it was at the open, you will make money in all of those cases, which as you can see from this example, has a huge effect on the win rate, which in turn drives profitability and return in almost all cases, let alone the way that it builds your confidence as a trader. So now you know what you've been doing wrong and why your options trading has been so inconsistent. And now you know easily how to turn things around to dramatically increase your win rate on options trades if you're even a little right on a stock's direction.
+
+(19:17 - 20:02)
+Pro options traders are well aware of the edge embedded in put credit spreads and love to trade them as a result. Now, if you'd like to learn three more options strategies that our pro traders use, including the unique options trick that allows you to make money while you wait to buy stocks or ETFs at the price you want, and the options income strategy that allows you to make consistent money whether the market goes up or down or sideways, and how to make money on a stock or index trade even if you're wrong on the direction, then click the link that's appearing right now at the top right-hand corner of your screen. That will open up the free workshop registration page in a new window.
+
+(20:02 - 20:09)
+So don't worry, you won't lose this video or you can register directly for free at optionsclass.com.

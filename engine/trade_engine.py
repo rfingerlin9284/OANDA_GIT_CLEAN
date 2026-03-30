@@ -336,6 +336,34 @@ class TradeEngine:
                                 mom._timeframe = "M15+H4"
                     except Exception:
                         pass  # Fail open if H4 fetch fails
+
+                # ── Daily TF alignment gate ─────────────────────────────────────
+                # Source insight: "2-of-3 higher TFs must agree — Weekly/Daily/4H"
+                # We enforce H4 + Daily both aligned before momentum entry.
+                # Adds ~20% fewer false signals vs H4-only gate per source analysis.
+                if mom and getattr(mom, '_timeframe', '') == 'M15+H4':
+                    try:
+                        candles_d1 = self.connector.get_historical_data(symbol, count=50, granularity="D")
+                        closes_d1 = [float(c.get("mid", {}).get("c", 0)) for c in candles_d1]
+                        if len(closes_d1) >= 22:
+                            ema_d1 = sum(closes_d1[:21]) / 21.0
+                            k_d1 = 2.0 / 22.0
+                            for px in closes_d1[21:]:
+                                ema_d1 = (px - ema_d1) * k_d1 + ema_d1
+                            price_d1 = closes_d1[-1]
+                            if mom.direction == "BUY" and price_d1 < ema_d1:
+                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM BUY blocked — DAILY BEARISH")
+                                log_gate_block(symbol, "MTF_SNIPER_D1_BLOCK", {"d1_ema21": ema_d1, "price": price_d1})
+                                mom = None
+                            elif mom.direction == "SELL" and price_d1 > ema_d1:
+                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM SELL blocked — DAILY BULLISH")
+                                log_gate_block(symbol, "MTF_SNIPER_D1_BLOCK", {"d1_ema21": ema_d1, "price": price_d1})
+                                mom = None
+                            elif mom:
+                                mom._timeframe = "M15+H4+D1"
+                    except Exception:
+                        pass  # Fail open if D1 fetch fails
+
                 if mom:
                     candidates.append(mom)
 
@@ -353,6 +381,46 @@ class TradeEngine:
                 sc = run_scalp_pipeline(symbol, candles)
                 if sc:
                     candidates.append(sc)
+
+                # ── Fib + S&D Confluence Boost ───────────────────────────────
+                # Source: "COMPLETE S&D Course" — Fibonacci 61.8% + demand zone
+                # overlapping = "maximum confidence, risk more."
+                # When momentum pipeline (contains Fib) and mean-reversion
+                # pipeline (contains S&D scanner) agree on same direction
+                # → +5% confidence on aligned candidates (capped at 0.95).
+                if mom and mr and mom.direction == mr.direction:
+                    for _c in candidates:
+                        if _c.direction == mom.direction and not getattr(_c, '_conf_boosted', False):
+                            _c.confidence = min(_c.confidence + 0.05, 0.95)
+                            _c._conf_boosted = True
+                            print(f"  [CONFLUENCE] {symbol} {_c.direction} +5% conf — Fib+S&D aligned ({_c.confidence:.0%})")
+
+                # ── "Look Left" Trend Exhaustion Filter ─────────────────────
+                # Source: "15 Best Price Action Strategies" (15 years PA trading)
+                # "Fresh trends = high quality. Late exhausted trends = low quality."
+                # Block signals where price already traveled >65% of TP distance
+                # from the 30-candle swing. Prevents entering at the end of a move.
+                if candidates:
+                    _pip_sz  = 0.01 if "JPY" in symbol.upper() else 0.0001
+                    _tp_pips = float(os.getenv("RBOT_TP_PIPS", "150"))
+                    _live_px = float(candles[-1].get("mid", {}).get("c", 0))
+                    _h30     = max(float(c.get("mid", {}).get("h", 0)) for c in candles[-30:])
+                    _l30     = min(float(c.get("mid", {}).get("l", 0)) for c in candles[-30:])
+                    _thresh  = _tp_pips * 0.65 * _pip_sz
+                    _fresh   = []
+                    for _sig in candidates:
+                        _travel = (_live_px - _l30) if _sig.direction == "BUY" else (_h30 - _live_px)
+                        if _travel > _thresh:
+                            _pips_t = round(_travel / _pip_sz, 0)
+                            print(f"  [EXHAUST] {symbol} {_sig.direction} blocked — {_pips_t:.0f}p traveled (>{_tp_pips*0.65:.0f}p limit)")
+                            log_gate_block(symbol, "EXHAUSTION_BLOCK", {
+                                "travel_pips": _pips_t,
+                                "threshold_pips": _tp_pips * 0.65,
+                                "direction": _sig.direction,
+                            })
+                        else:
+                            _fresh.append(_sig)
+                    candidates = _fresh
 
                 # ─ Pick best signal for this pair ─────────────────────────────
                 if candidates:
@@ -549,12 +617,31 @@ class TradeEngine:
                 pip_size = 0.01 if "JPY" in symbol.upper() else 0.0001
                 min_ts_dist = 10.0 * pip_size          # 0.001 non-JPY, 0.10 JPY
                 raw_sl_dist = abs(live_mid - sig.sl)
-                # ── Configurable trailing stop distance ────────────────────────
-                # Default was raw_sl_dist (20 pips) — same as SL, kills winners.
-                # RBOT_TS_PIPS lets the trail breathe so trades can reach the TP.
-                _ts_pips = float(os.getenv("RBOT_TS_PIPS", "0"))
+                # ── Adaptive trailing stop distance ─────────────────────────────
+                # RBOT_TS_PIPS=N  → fixed N pips (override, current: 50)
+                # RBOT_TS_PIPS=0  → ATR mode: RBOT_TS_ATR_MULT × ATR(14)
+                # Source insight: ATR trail adapts to pair volatility vs fixed pips.
+                # JPY pairs naturally get wider trail; rangy pairs get tighter.
+                _ts_pips     = float(str(os.getenv("RBOT_TS_PIPS",     "0")).split("#", 1)[0].strip())
+                _ts_atr_mult = float(str(os.getenv("RBOT_TS_ATR_MULT", "0")).split("#", 1)[0].strip())
                 if _ts_pips > 0:
                     ts_dist = max(_ts_pips * pip_size, min_ts_dist * 2)
+                elif _ts_atr_mult > 0:
+                    # ATR(14) adaptive trail — scales to current pair volatility
+                    try:
+                        _atr_c = self.connector.get_historical_data(symbol, count=20, granularity="M15")
+                        _ch = [float(c.get("mid", {}).get("h", 0)) for c in _atr_c]
+                        _cl = [float(c.get("mid", {}).get("l", 0)) for c in _atr_c]
+                        _cc = [float(c.get("mid", {}).get("c", 0)) for c in _atr_c]
+                        if len(_ch) >= 15:
+                            _trs = [max(_ch[i]-_cl[i], abs(_ch[i]-_cc[i-1]), abs(_cl[i]-_cc[i-1]))
+                                    for i in range(1, len(_ch))]
+                            _atr = sum(_trs[-14:]) / 14.0
+                            ts_dist = max(_atr * _ts_atr_mult, min_ts_dist * 2)
+                        else:
+                            ts_dist = max(raw_sl_dist, min_ts_dist * 2)
+                    except Exception:
+                        ts_dist = max(raw_sl_dist, min_ts_dist * 2)
                 else:
                     ts_dist = max(raw_sl_dist, min_ts_dist * 2)
 

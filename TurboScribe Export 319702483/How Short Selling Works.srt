@@ -1,0 +1,1079 @@
+1
+00:00:00,380 --> 00:00:02,080
+The Big Short is probably one of the
+
+2
+00:00:02,080 --> 00:00:04,320
+most popular films on the topic of investing.
+
+3
+00:00:04,860 --> 00:00:06,960
+It's a star-studded movie that follows the
+
+4
+00:00:06,960 --> 00:00:09,060
+real story of three groups of people who
+
+5
+00:00:09,060 --> 00:00:11,800
+short, or bet against, the housing market for
+
+6
+00:00:11,800 --> 00:00:14,860
+billions of dollars, right before the 2008 real
+
+7
+00:00:14,860 --> 00:00:15,520
+estate crisis.
+
+8
+00:00:16,080 --> 00:00:17,760
+As you might expect, our heroes end up
+
+9
+00:00:17,760 --> 00:00:18,740
+making quite a bit of money.
+
+10
+00:00:19,320 --> 00:00:21,420
+But how exactly does a short work?
+
+11
+00:00:21,900 --> 00:00:23,760
+Well, in the movie, the positions are taken
+
+12
+00:00:23,760 --> 00:00:26,320
+through what are known as swaps, a derivative
+
+13
+00:00:26,320 --> 00:00:28,120
+agreement that is taken with the banks.
+
+14
+00:00:28,120 --> 00:00:31,659
+But for common investors, short positions typically involve
+
+15
+00:00:31,659 --> 00:00:34,540
+individual stocks, making them easy enough to take.
+
+16
+00:00:35,080 --> 00:00:37,840
+But be warned, shorting comes with a lot
+
+17
+00:00:37,840 --> 00:00:38,360
+of risks.
+
+18
+00:00:38,820 --> 00:00:40,580
+On top of charging you expenses you don't
+
+19
+00:00:40,580 --> 00:00:43,920
+normally see with standard investing, shorting also offers
+
+20
+00:00:43,920 --> 00:00:46,200
+a skewed payoff, where you face a limited
+
+21
+00:00:46,200 --> 00:00:49,680
+upside and an uncapped downside, meaning you could
+
+22
+00:00:49,680 --> 00:00:52,860
+lose an infinite amount of money, theoretically anyway.
+
+23
+00:00:53,260 --> 00:00:55,320
+So before you decide to short something, let's
+
+24
+00:00:55,320 --> 00:00:57,600
+go over the strategy and the risks involved
+
+25
+00:00:57,600 --> 00:00:58,840
+on today's plain bagel.
+
+26
+00:01:02,050 --> 00:01:04,470
+Shorting, also known as short selling, is a
+
+27
+00:01:04,470 --> 00:01:06,890
+trading strategy where an investor sells a security
+
+28
+00:01:06,890 --> 00:01:08,790
+today and buys it back in the future,
+
+29
+00:01:09,110 --> 00:01:10,770
+hoping that the price of the security will
+
+30
+00:01:10,770 --> 00:01:11,290
+go down.
+
+31
+00:01:11,670 --> 00:01:14,230
+It's effectively the opposite approach to a traditional
+
+32
+00:01:14,230 --> 00:01:17,790
+long position, where investors buy today and sell
+
+33
+00:01:17,790 --> 00:01:19,250
+at some point in the future to cash
+
+34
+00:01:19,250 --> 00:01:21,450
+in, hopefully after the price has gone up.
+
+35
+00:01:21,870 --> 00:01:24,190
+It follows the same buy low sell high
+
+36
+00:01:24,190 --> 00:01:27,050
+mentality as long investing, but it just reverses
+
+37
+00:01:27,050 --> 00:01:29,330
+the order of the motto, so investors sell
+
+38
+00:01:29,330 --> 00:01:31,190
+high today and hope that the price will
+
+39
+00:01:31,190 --> 00:01:32,930
+go down so they can buy low in
+
+40
+00:01:32,930 --> 00:01:33,350
+the future.
+
+41
+00:01:34,150 --> 00:01:36,370
+Now, shorting a stock is a bit more
+
+42
+00:01:36,370 --> 00:01:38,410
+complicated than going long on a position.
+
+43
+00:01:38,770 --> 00:01:41,390
+So let's go through a running example to
+
+44
+00:01:41,390 --> 00:01:43,930
+explain how the strategy works and the risks
+
+45
+00:01:43,930 --> 00:01:44,510
+it poses.
+
+46
+00:01:45,110 --> 00:01:47,130
+Imagine you have two investors who decide to
+
+47
+00:01:47,130 --> 00:01:49,350
+take opposite positions in plain bagel co.
+
+48
+00:01:49,490 --> 00:01:51,850
+The company's stock currently has a market price
+
+49
+00:01:51,850 --> 00:01:52,250
+of $10.
+
+50
+00:01:52,990 --> 00:01:55,010
+Investor A decides to buy 1,000 of
+
+51
+00:01:55,010 --> 00:01:56,930
+these stocks, thereby investing $10,000.
+
+52
+00:01:57,430 --> 00:01:59,710
+While investor B decides to short 1,000
+
+53
+00:01:59,710 --> 00:02:02,610
+stocks, thereby selling $10,000 worth of the
+
+54
+00:02:02,610 --> 00:02:03,030
+investment.
+
+55
+00:02:03,690 --> 00:02:04,930
+Now, I know what you're thinking.
+
+56
+00:02:05,370 --> 00:02:06,770
+How the hell do you sell a stock
+
+57
+00:02:06,770 --> 00:02:08,169
+that you don't own?
+
+58
+00:02:08,889 --> 00:02:11,330
+Well, oftentimes the process involves selling a borrowed
+
+59
+00:02:11,330 --> 00:02:11,790
+security.
+
+60
+00:02:12,370 --> 00:02:14,370
+For example, in a brokerage account, you can
+
+61
+00:02:14,370 --> 00:02:16,690
+often sell a position by borrowing a stock
+
+62
+00:02:16,690 --> 00:02:18,970
+from your broker and then shorting that way,
+
+63
+00:02:19,370 --> 00:02:21,290
+leaving you with the proceeds from the sale.
+
+64
+00:02:21,290 --> 00:02:23,430
+The money you make from the sale obviously
+
+65
+00:02:23,430 --> 00:02:25,850
+doesn't really belong to you, since you sold
+
+66
+00:02:25,850 --> 00:02:27,170
+someone else's stock to get it.
+
+67
+00:02:27,610 --> 00:02:29,570
+But eventually, when you buy the security back,
+
+68
+00:02:29,770 --> 00:02:31,790
+known as covering your short, you'll be able
+
+69
+00:02:31,790 --> 00:02:33,690
+to return the stock and keep whatever money
+
+70
+00:02:33,690 --> 00:02:35,970
+is left over, which is how you profit
+
+71
+00:02:35,970 --> 00:02:36,590
+from the trade.
+
+72
+00:02:37,090 --> 00:02:38,770
+So going back to our example, if the
+
+73
+00:02:38,770 --> 00:02:41,750
+stock price falls from $10 to $5, investor
+
+74
+00:02:41,750 --> 00:02:44,050
+A will lose $5,000 while investor B
+
+75
+00:02:44,050 --> 00:02:46,350
+will gain $5,000, since they'll be able
+
+76
+00:02:46,350 --> 00:02:48,010
+to buy the stock back for a lower
+
+77
+00:02:48,010 --> 00:02:50,270
+price and keep the remaining sales proceeds.
+
+78
+00:02:50,270 --> 00:02:52,270
+On the other side of things, if the
+
+79
+00:02:52,270 --> 00:02:55,270
+stock price increases from $10 to $15, investor
+
+80
+00:02:55,270 --> 00:02:57,790
+A will be up $5,000 while investor
+
+81
+00:02:57,790 --> 00:02:59,130
+B will be down $5,000.
+
+82
+00:02:59,470 --> 00:03:01,330
+But this raises an interesting question.
+
+83
+00:03:01,750 --> 00:03:03,830
+Up until this point, investor B hasn't actually
+
+84
+00:03:03,830 --> 00:03:05,350
+contributed any of their own money.
+
+85
+00:03:05,790 --> 00:03:07,210
+So how is he going to buy back
+
+86
+00:03:07,210 --> 00:03:09,270
+the stock for more money than what's in
+
+87
+00:03:09,270 --> 00:03:09,730
+the account?
+
+88
+00:03:10,470 --> 00:03:12,290
+Well, this is where the concept of margins
+
+89
+00:03:12,290 --> 00:03:13,010
+come into play.
+
+90
+00:03:13,610 --> 00:03:15,710
+You see, to short a position, an investor
+
+91
+00:03:15,710 --> 00:03:17,790
+needs to post what's known as an initial
+
+92
+00:03:17,790 --> 00:03:20,690
+margin of 50% into their account to
+
+93
+00:03:20,690 --> 00:03:22,750
+act as a buffer should the investment lose
+
+94
+00:03:22,750 --> 00:03:23,210
+value.
+
+95
+00:03:23,730 --> 00:03:25,990
+This means that investor B would have contributed
+
+96
+00:03:25,990 --> 00:03:28,330
+$5,000 of his own funds at the
+
+97
+00:03:28,330 --> 00:03:30,670
+beginning of our example to accommodate for any
+
+98
+00:03:30,670 --> 00:03:31,070
+losses.
+
+99
+00:03:31,350 --> 00:03:33,910
+The amount still belongs to the investor, but
+
+100
+00:03:33,910 --> 00:03:36,110
+it's held as collateral by the broker to
+
+101
+00:03:36,110 --> 00:03:37,870
+ensure that investor B can afford to buy
+
+102
+00:03:37,870 --> 00:03:38,770
+back the share in the future.
+
+103
+00:03:39,470 --> 00:03:41,470
+Investor B will also be responsible for what
+
+104
+00:03:41,470 --> 00:03:43,770
+are known as margin calls, a process that
+
+105
+00:03:43,770 --> 00:03:45,810
+occurs when the margin becomes insufficient.
+
+106
+00:03:45,810 --> 00:03:48,070
+For example, in the event that the share
+
+107
+00:03:48,070 --> 00:03:51,090
+price rises to $15, investor B would receive
+
+108
+00:03:51,090 --> 00:03:53,530
+a margin call to replenish their cash buffer
+
+109
+00:03:53,530 --> 00:03:56,170
+based on what's known as the maintenance margin,
+
+110
+00:03:56,530 --> 00:03:58,190
+since there's no more wiggle room in the
+
+111
+00:03:58,190 --> 00:04:00,190
+account to accommodate for further losses.
+
+112
+00:04:00,730 --> 00:04:02,890
+So a big difference between shorting and going
+
+113
+00:04:02,890 --> 00:04:04,650
+long a position is that you can only
+
+114
+00:04:04,650 --> 00:04:05,870
+short in a margin account.
+
+115
+00:04:06,390 --> 00:04:08,550
+While this has its downsides, it does add
+
+116
+00:04:08,550 --> 00:04:10,210
+leverage to the investor's return.
+
+117
+00:04:10,750 --> 00:04:11,670
+What do I mean by that?
+
+118
+00:04:12,110 --> 00:04:13,310
+Well, let's go back to our example.
+
+119
+00:04:13,310 --> 00:04:15,470
+Let's say that our share price falls from
+
+120
+00:04:15,470 --> 00:04:16,149
+$10 to $5.
+
+121
+00:04:16,690 --> 00:04:18,829
+This would lead investor A to lose $5
+
+122
+00:04:18,829 --> 00:04:21,130
+,000 and investor B to gain $5,000.
+
+123
+00:04:21,690 --> 00:04:24,310
+On an absolute basis, these returns equate one
+
+124
+00:04:24,310 --> 00:04:26,910
+another, but on a percentage basis, taking into
+
+125
+00:04:26,910 --> 00:04:29,150
+account margins, they're actually quite different.
+
+126
+00:04:29,710 --> 00:04:31,710
+You see, investor A has lost roughly 50
+
+127
+00:04:31,710 --> 00:04:34,330
+% of their investment, but since investor B
+
+128
+00:04:34,330 --> 00:04:37,170
+has only contributed $5,000 of his own
+
+129
+00:04:37,170 --> 00:04:39,830
+money to this margin account, he's actually gained
+
+130
+00:04:39,830 --> 00:04:42,530
+100% of his investment, double the percentage
+
+131
+00:04:42,530 --> 00:04:43,410
+of investor A.
+
+132
+00:04:43,870 --> 00:04:46,770
+Because borrowing is involved with shorting, investor B
+
+133
+00:04:46,770 --> 00:04:49,750
+will see his returns amplified, though this goes
+
+134
+00:04:49,750 --> 00:04:50,650
+both ways.
+
+135
+00:04:51,190 --> 00:04:53,830
+Percentage losses in the short position will be
+
+136
+00:04:53,830 --> 00:04:55,530
+double what they might have been for investor
+
+137
+00:04:55,530 --> 00:04:55,890
+A.
+
+138
+00:04:56,410 --> 00:04:58,070
+So a decline of 50% for investor
+
+139
+00:04:58,070 --> 00:05:00,870
+A would translate into a 100% decline
+
+140
+00:05:00,870 --> 00:05:01,770
+for investor B.
+
+141
+00:05:02,590 --> 00:05:04,710
+So short positions not only flip the percentage
+
+142
+00:05:04,710 --> 00:05:07,550
+return received by investors, but they also amplify
+
+143
+00:05:07,550 --> 00:05:09,810
+them, both on the way up and the
+
+144
+00:05:09,810 --> 00:05:10,250
+way down.
+
+145
+00:05:10,250 --> 00:05:12,870
+But here's where we get into the distinct
+
+146
+00:05:12,870 --> 00:05:14,550
+disadvantages of a short position.
+
+147
+00:05:15,230 --> 00:05:18,470
+Namely, short positions come with unique costs that
+
+148
+00:05:18,470 --> 00:05:20,410
+a standard long investor won't face.
+
+149
+00:05:20,990 --> 00:05:22,990
+For example, if the stock you borrowed pays
+
+150
+00:05:22,990 --> 00:05:25,170
+a dividend, you'll actually need to pay this
+
+151
+00:05:25,170 --> 00:05:27,310
+amount to your broker, meaning that you'll face
+
+152
+00:05:27,310 --> 00:05:29,510
+a cost equal to whatever dividend the stock
+
+153
+00:05:29,510 --> 00:05:29,910
+pays.
+
+154
+00:05:30,570 --> 00:05:33,250
+Short positions also charge investors an interest rate
+
+155
+00:05:33,250 --> 00:05:35,090
+on the value of the stock you borrowed.
+
+156
+00:05:35,470 --> 00:05:37,790
+After all, since you are borrowing and selling
+
+157
+00:05:37,790 --> 00:05:40,450
+someone else's security, you need to compensate them
+
+158
+00:05:40,450 --> 00:05:41,990
+in the same way that you would compensate
+
+159
+00:05:41,990 --> 00:05:44,050
+a bank with interest on a loan.
+
+160
+00:05:44,770 --> 00:05:46,630
+Typically, the rate charged on a short position
+
+161
+00:05:46,630 --> 00:05:49,190
+can range anywhere from 2.5 to 20%,
+
+162
+00:05:49,190 --> 00:05:51,050
+but it can be higher for what are
+
+163
+00:05:51,050 --> 00:05:53,490
+known as hard-to-borrow stocks, highly volatile
+
+164
+00:05:53,490 --> 00:05:55,010
+or small-cap positions.
+
+165
+00:05:55,750 --> 00:05:58,170
+So, needless to say, shorting a stock can
+
+166
+00:05:58,170 --> 00:06:00,090
+be quite a bit more expensive than a
+
+167
+00:06:00,090 --> 00:06:00,590
+simple buy.
+
+168
+00:06:00,970 --> 00:06:02,790
+But for the most part, these expenses are
+
+169
+00:06:02,790 --> 00:06:03,110
+fair.
+
+170
+00:06:03,570 --> 00:06:05,570
+The interest makes sense since you are taking
+
+171
+00:06:05,570 --> 00:06:08,370
+a leveraged position, and since you are trying
+
+172
+00:06:08,370 --> 00:06:10,810
+to inverse the return of a long position,
+
+173
+00:06:11,150 --> 00:06:12,610
+it's only natural that you pay out the
+
+174
+00:06:12,610 --> 00:06:14,070
+dividend received from the stock.
+
+175
+00:06:14,710 --> 00:06:17,270
+But there are some absolute disadvantages involved with
+
+176
+00:06:17,270 --> 00:06:19,790
+a short strategy, some of which may very
+
+177
+00:06:19,790 --> 00:06:21,430
+well turn you off the idea of ever
+
+178
+00:06:21,430 --> 00:06:22,310
+trying to short a stock.
+
+179
+00:06:22,810 --> 00:06:25,430
+For one, short strategies face what's known as
+
+180
+00:06:25,430 --> 00:06:27,650
+buy-in risk, the chance that a broker
+
+181
+00:06:27,650 --> 00:06:30,110
+will make you prematurely cover your position.
+
+182
+00:06:30,650 --> 00:06:32,710
+This can occur for a number of reasons.
+
+183
+00:06:32,930 --> 00:06:34,670
+A broker may need to return a stock
+
+184
+00:06:34,670 --> 00:06:36,690
+to the portfolio they took it from, or
+
+185
+00:06:36,690 --> 00:06:38,470
+the stock may simply see a surge in
+
+186
+00:06:38,470 --> 00:06:38,770
+demand.
+
+187
+00:06:39,350 --> 00:06:41,150
+But the end result is that you may
+
+188
+00:06:41,150 --> 00:06:43,190
+be forced to close your position at any
+
+189
+00:06:43,190 --> 00:06:43,590
+time.
+
+190
+00:06:44,170 --> 00:06:47,010
+This is a pretty significant drawback, especially when
+
+191
+00:06:47,010 --> 00:06:49,090
+it comes to waiting out market volatility.
+
+192
+00:06:49,830 --> 00:06:52,030
+In our example, perhaps investor B is confident
+
+193
+00:06:52,030 --> 00:06:55,090
+that certain factors, whether it be regulation or
+
+194
+00:06:55,090 --> 00:06:57,710
+technological change, will cause the stock to crash
+
+195
+00:06:57,710 --> 00:06:58,670
+in two years' time.
+
+196
+00:06:59,150 --> 00:07:00,730
+But if the price surges in the near
+
+197
+00:07:00,730 --> 00:07:03,030
+term, they may be forced to realize a
+
+198
+00:07:03,030 --> 00:07:04,850
+loss even if they end up being right.
+
+199
+00:07:05,390 --> 00:07:07,190
+On top of this, when shorting a position,
+
+200
+00:07:07,470 --> 00:07:09,230
+you may experience what's known as a short
+
+201
+00:07:09,230 --> 00:07:12,390
+squeeze, when a heavily shorted stock sees its
+
+202
+00:07:12,390 --> 00:07:15,390
+price surge because the investors shorting the stock
+
+203
+00:07:15,390 --> 00:07:16,650
+need to cover their position.
+
+204
+00:07:17,250 --> 00:07:19,650
+Since investors who short sell have an appropriately
+
+205
+00:07:19,650 --> 00:07:22,830
+shorter time horizon than long investors, there's a
+
+206
+00:07:22,830 --> 00:07:24,990
+chance that they buy back the stock around
+
+207
+00:07:24,990 --> 00:07:27,010
+the same time, which can lead to a
+
+208
+00:07:27,010 --> 00:07:28,770
+surge in the price and make it harder
+
+209
+00:07:28,770 --> 00:07:30,850
+for you to cover your own position without
+
+210
+00:07:30,850 --> 00:07:31,770
+realizing a loss.
+
+211
+00:07:32,470 --> 00:07:34,370
+So, as you can see, there are some
+
+212
+00:07:34,370 --> 00:07:38,130
+distinct disadvantages with shorting a position, which alone
+
+213
+00:07:38,130 --> 00:07:39,370
+may lead you to stay away.
+
+214
+00:07:39,950 --> 00:07:42,490
+But perhaps the biggest risk with short positions
+
+215
+00:07:42,490 --> 00:07:44,250
+has to do with their skewed payoff.
+
+216
+00:07:44,890 --> 00:07:46,710
+With our two investors longing in shorting the
+
+217
+00:07:46,710 --> 00:07:49,990
+$10 stock, we face two risk-reward profiles.
+
+218
+00:07:50,510 --> 00:07:52,350
+On the one hand, investor A can theoretically
+
+219
+00:07:52,350 --> 00:07:54,250
+earn an infinitely high return.
+
+220
+00:07:54,810 --> 00:07:57,030
+The $10,000 investment in the $10 stock
+
+221
+00:07:57,030 --> 00:08:00,050
+could double, triple, quadruple in value as the
+
+222
+00:08:00,050 --> 00:08:03,290
+stock price climbs to $20, $30, $40 or
+
+223
+00:08:03,290 --> 00:08:03,550
+higher.
+
+224
+00:08:04,010 --> 00:08:06,090
+On the downside, the most she can lose
+
+225
+00:08:06,090 --> 00:08:08,410
+is the money she's invested, the $10,000,
+
+226
+00:08:08,870 --> 00:08:10,850
+which would only happen if the stock fell
+
+227
+00:08:10,850 --> 00:08:12,810
+to zero, a pretty drastic outcome.
+
+228
+00:08:13,550 --> 00:08:15,990
+Now, investor B actually flips the risk-reward
+
+229
+00:08:15,990 --> 00:08:16,270
+here.
+
+230
+00:08:16,650 --> 00:08:18,370
+If the stock drops down to zero, ignoring
+
+231
+00:08:18,370 --> 00:08:20,490
+fees, they can achieve a 200% return
+
+232
+00:08:20,490 --> 00:08:22,170
+since they are able to keep the $10
+
+233
+00:08:22,170 --> 00:08:24,870
+,000 profits from their $5,000 investment.
+
+234
+00:08:25,430 --> 00:08:27,270
+On the other hand, if the stock instead
+
+235
+00:08:27,270 --> 00:08:31,309
+climbs to $20, $30, $40 or higher, they
+
+236
+00:08:31,309 --> 00:08:35,110
+can lose 200%, 400%, 600% or more.
+
+237
+00:08:35,630 --> 00:08:37,630
+This means that you can lose a lot
+
+238
+00:08:37,630 --> 00:08:39,890
+more money than what you've initially invested.
+
+239
+00:08:40,370 --> 00:08:42,750
+And indeed, this very feature has had devastating
+
+240
+00:08:42,750 --> 00:08:43,850
+impacts on investors.
+
+241
+00:08:44,590 --> 00:08:46,830
+This is why many investors tend to stick
+
+242
+00:08:46,830 --> 00:08:47,970
+with long-only positions.
+
+243
+00:08:48,270 --> 00:08:50,230
+For many, the return is simply not worth
+
+244
+00:08:50,230 --> 00:08:50,690
+the risk.
+
+245
+00:08:50,950 --> 00:08:52,150
+And on top of the fact that you're
+
+246
+00:08:52,150 --> 00:08:54,370
+going against the natural upward bias of stocks,
+
+247
+00:08:54,750 --> 00:08:56,470
+you're more or less betting against a company
+
+248
+00:08:56,470 --> 00:08:58,530
+that is actively trying to prove you wrong.
+
+249
+00:08:59,310 --> 00:09:01,150
+Short selling certainly does play an important role
+
+250
+00:09:01,150 --> 00:09:02,150
+in the world of investments.
+
+251
+00:09:02,510 --> 00:09:03,710
+And indeed, you can make a lot of
+
+252
+00:09:03,710 --> 00:09:05,850
+money by placing a short bet against a
+
+253
+00:09:05,850 --> 00:09:06,930
+deteriorating stock.
+
+254
+00:09:07,230 --> 00:09:08,610
+But if you're looking to speculate with short
+
+255
+00:09:08,610 --> 00:09:09,850
+selling, tread lightly.
+
+256
+00:09:10,450 --> 00:09:11,590
+You may end up buying off a lot
+
+257
+00:09:11,590 --> 00:09:12,310
+more than you can chew.
+
+258
+00:09:12,890 --> 00:09:13,590
+Thanks for watching.
+
+259
+00:09:13,810 --> 00:09:14,850
+If you like this video, make sure to
+
+260
+00:09:14,850 --> 00:09:15,490
+hit the like button.
+
+261
+00:09:15,710 --> 00:09:16,650
+And if you like what we're doing here,
+
+262
+00:09:16,830 --> 00:09:17,650
+make sure to subscribe.
+
+263
+00:09:17,970 --> 00:09:19,470
+Hit the bell icon if you want notifications
+
+264
+00:09:19,470 --> 00:09:20,410
+about future videos.
+
+265
+00:09:20,510 --> 00:09:22,030
+If you have any feedback or topics you
+
+266
+00:09:22,030 --> 00:09:23,190
+want me to cover in a future video,
+
+267
+00:09:23,190 --> 00:09:24,570
+leave a comment down below.
+
+268
+00:09:24,890 --> 00:09:26,150
+For The Plain Bagel, my name is Richard
+
+269
+00:09:26,150 --> 00:09:26,570
+Coffin.
+
+270
+00:09:26,790 --> 00:09:27,630
+Thanks for joining me today.

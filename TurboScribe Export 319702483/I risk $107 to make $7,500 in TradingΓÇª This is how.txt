@@ -1,0 +1,144 @@
+(0:00 - 0:37)
+As a day trader, our main focus should be to stay alive in this game as long as possible. And the only way we can stay alive is by having a proper risk management strategy. Now, a lot of traders when they get started or that are trading, they focus on what strategies they should focus on, how they should approach the market, how they should chart and all these other great things. 
+
+And while these things are great, they're not enough to keep you alive. The only way you'll be able to stay alive and be able to put on more trades is by having capital. And our job is to protect that capital, protect it day in and out, trade by trade.
+
+(0:38 - 0:59)
+And in order to do that, we need to have a well-defined plan, a well-defined risk management plan that helps us avoid taking too much risk and helps us avoid having too much exposure in trades. And in this video, I want to talk about my risk management plan, how you guys can build a risk management plan. I'm going to talk about position sizing and I'm going to talk about our multiple.
+
+(0:59 - 2:15)
+I'm talking about things that most traders don't like. That isn't amazing. That isn't, you know, a shiny object. 
+
+But this is important, guys. So please stay through the whole video, take down notes, pay attention to the important parts and understand that if you want to make it here, you have to have a good risk management plan. So let's talk about the first component of my risk management plan, which is every trade I take, I have an idea on how much I'm losing and where I am exiting. 
+
+So once again, before I take a trade, guys, any single trade, I know where the trade needs to go for me to be wrong and how much I will lose if I'm wrong. Now, most traders, when they take a trade, they go, well, if I buy this trade at ten dollars and it goes to 15, I will make five dollars or I'll make fifty dollars or I'll make five thousand dollars. And traders get in this fantasy land of what they will make. 
+
+Now, on a professional level, if you want to be here in a long period of time, you need to flip that. You need to go, well, if I take this trade and let's just say, for example, purposes, this is ten dollars and this is twelve dollars. And once again, just something basic. 
+
+Let's just go in like the basic of support resistance. Right. And I'm like, well, I want to go long in this particular trade.
+
+(2:15 - 8:11)
+The first question I ask, OK, well, where does this trade need to go for me to be wrong? Right. That's where I will be placing my stop. So if I go long here, this trade maybe needs to go to nine dollars. 
+
+Just going to make it a round number for argument's sake. That means if I am wrong and I buy a ten, I will lose one dollar. Right. 
+
+Now, that is the first step I take before any trade. Of course, I have a strategy. Of course, I have setups. 
+
+I have a focus point on how I think the market will or should move, whatever the case is. But when I get there, I have to protect my downside and protecting my downside allows me to look at should I take this trade? Does this trade make sense from a risk perspective? If a trade doesn't make sense in terms of a risk perspective, I won't take the trade. Right. 
+
+So to just go to another example, would you risk a hundred dollars to make one dollar? Now, of course, the one dollar is not guaranteed. You have a 50 percent chance that you will make one dollar or 50 percent chance you will make a hundred. You most likely will not risk the hundred to make the one dollar because it just doesn't make sense. 
+
+But now what if I said, would you risk a hundred dollars to make a thousand dollars and you maybe have a 55 percent chance of being right for argument's sake? Right. Now you'll maybe take the trade. So these two numbers have to make sense of like what you're risking and what your reward is. 
+
+So when I look at a trade, my first component of OK, if there's a setup, great. But the setup is not what makes me take the trade. The setup is what kind of ignites me to look at the trade and be interested. 
+
+The risk component is what attracts me. Right. So if I look at this trade from a risk component, I will realize that, OK, I'm risking one dollar. 
+
+OK. And also it's not just random. I can't just say, well, I'm going to buy this at 10 and I'm going to risk, you know, one dollar or two dollars because that's what I want to risk on the trade. 
+
+No, my stop loss where the trade has to go. And if it goes down wrong, has to make sense. If I take the same example for argument's sake, let's just say this trade is now at twelve dollars. 
+
+If it's at twelve dollars and I'm like, well, I want to risk a dollar. And let's just say the dollar is at eleven for argument's sake. I'm still risking one dollar on this trade. 
+
+But if it goes to eleven, that doesn't mean I'm wrong. The trade could still be in play. So that's what I'm saying by the trade needs to prove that you're wrong. 
+
+OK, so just to go back to this example. Now, when I am looking at this particular trade, once again, I'm risking a dollar. I have to look at the second factor is, does this trade have room to go up? So for basic examples, basic argument, once again, if I'm buying this at 10 and this does go to twelve, I'm basically making two dollars if I'm right. 
+
+And if I'm wrong, I'm essentially risking one dollar. So in that trade, my potential R is two to one. I'm risking about a dollar to potentially make two. 
+
+So that's how I look at trades from a risk perspective whenever I take a trade. Now, how much do I risk? That is all contingent on my account size. How much I risk will be different than how much you risk, how much the guy next to you or the girl next to you risks will be different than everyone because that is contingent on your account size. 
+
+So if your account size is, let's say, a thousand, I always say go off the one or two percent rule. And also keep in mind, this is if you're a beginner, this is if you have not found profitability in your trading. If that's the case, risk one to two percent of your account size. 
+
+Now, if I risk one percent right of a thousand dollars at that point, that is what my risk component should be. So if I look at this particular trade, let's just say one percent is ten dollars. That means I'm allowed to risk ten dollars on this trade. 
+
+Now, in retrospect, if I'm risking ten dollars on this trade, that doesn't mean I only put ten dollars into the trade. That means because I'm risking ten dollars on this trade, I can only buy a certain amount of shares or contracts or whatever the case is to only lose ten dollars. I'll show you guys. 
+
+So if you're buying this at ten, if you're buying this stock at ten and your stop loss is at nine, that means you are risking one dollar, right? Now, if you are risking one dollar and I can only lose ten dollars per my account size, the most I should be able to buy is ten shares or ten contracts. And ten contracts or ten shares are essentially going to be a hundred dollars in cost. So I'm paying a hundred dollars. 
+
+I am risking one dollar and I have ten shares. That means if I buy ten shares here at ten and those ten shares go to nine, I will only lose ten dollars. That is what I mean by position sizing. 
+
+That is what I mean by you need to look at your account size. Now, obviously, when you get to a more consistent level, your risk will be altered. There are trades for me personally that I increase my size, increase my risk, depending on the day setups, depending on the market conditions, right? So my risk is not consistent day in and out, week in and out. 
+
+It has gotten to a point where if I have a high quality setup, I will be more aggressive on risk. If I have been trading well and I have a strong bankroll, meaning a strong amount of capital behind me of profits that I can actually risk in the markets and it makes sense, I will be harder and I will double down on risk. But that is also because I have been profitable for a very long period of time. 
+
+Now, if I go back to the beginning days, I would keep my risk consistent until I find profitability and then I would look to alter size. So you also have to understand what stage you are in. Okay. 
+
+Another thing I want to talk about really quick is working capital, right? Meaning capital invested into a trade and risk, right? So I see a lot of traders, they will see that I've taken a position where I've put $100,000 in and they're like, well, because he put $100,000 in, he's risking $100,000. No, guys, just because someone invested $100,000 doesn't mean he or she's risking that. And that's not what you should because as traders, we need to have a stop or where this trade goes, we will be wrong.
+
+(8:12 - 10:18)
+We need to factor in what that loss will be, right? So for example, if I buy a trade that is at $10, once again, same concept, and I put my stop at nine, if it goes to nine, I lose a dollar, right? And let's just say I can buy a hundred shares. If I buy a hundred shares at 10, that's a thousand US dollars. That's how much this trade is costing me. 
+
+This is how much capital is required for me to put into this trade, a thousand dollars. But because I bought a hundred shares or a hundred contracts or whatever, right? And my stop is at nine, I'm risking $1. So $1 multiplied by my share amount, which is a hundred. 
+
+I'm only risking a hundred dollars. I'm not risking a thousand. Me risking a thousand is if I don't hit my stop and this trade goes all the way down to zero. 
+
+So I just wanted to make that clear because a lot of people have a misconception about that. So that's the first component of position sizing, placing your stops and taking R multiple. So one main thing that everyone should focus on is something called R. So this is something that I focus on a lot. 
+
+I always say, guys, don't look at the final number of my trades. Look at what I risked to make that trade or make that amount, right? So if you see me make $30,000 or you see anyone make 30 grand, right? The first question is what did this person risk? If I risked 30,000 to make 30,000, I have a one R trade. Now this looks great as a final number, but does it really make sense for me to have 30,000? Does it make sense for me to view this trade as great opposed to, let's just say I made $5,000, but I risked $1,000 to make that five grand. 
+
+Now this trade, which is a five R trade is a much, much better trade than anything else. So that's why it's really important to understand what you're risking on trades, right? So I'll show you guys some examples. So here we're going to look at my trade Zella really quick.
+
+(10:18 - 14:01)
+Let's say I go to this trade. You can see that I made 25 grand on this particular trade, right? Now, this number sounds great. It's phenomenal. 
+
+But the main thing that we need to understand is, okay, well, what was the R on this particular trade, right? It was 2.62 R. How did we get to that number? Let's take a look at that really quick, right? So when we look at the R number, right, we are able to understand that based on my stop, based on where this trade had to go for me this particular trade, you know, yes, 25,000 is the number, but based on my stop, which was at a dollar 20, I was risking $9,600. So I risked 9,600 to make 25,000, where my outcome once again was 25 K risk 9,600. And I ended up making a little over a 2.6 R I made 2.6 times my risk amount. 
+
+That is the main thing we as traders need to care about. There's nothing else that matters besides that, right? So if I go to some other trades, and I go, let's say here, 2.21 R, I go to some other trades, right? 2.43 R, right? I go here, 3.6 R, right? Some trades are great, some trades are not great. So if I go to this particular trade, I made 0.29 R, right? So I risked $562, but I made $162. 
+
+So this trade looks great. It's like, wow, he made $162. And I'm like, yeah, that's that's a green trade that someone may check off and say, well, this is a great trade. 
+
+But when I go into the logistics of the trade, based on where my stop was based on if this trade went through, I would have been wrong. I was risking $500 to make $162. And guys, think about it. 
+
+Long term wise, that is not sustainable. Because how many times do I have to be right to be able to continuously being profitable, right? So having an R multiple that doesn't make sense or is way off is just not going to allow you to be profitable, even if you have some trades that are profitable, right? So to go back to R, how is R calculated, what that is, and how we can calculate it is the following way. What I do for R is every time I take a trade, let's say we go back to the 10 example, trades at 10, I put my stop at 9. Okay, so because my stop is at 9, I will look at the trade outcome. 
+
+So I take a trade, I know I'm buying this trade at 10. I know my stop is at 9, meaning my risk on this trade is $1, right? So because my risk is $1, I look at the trade outcome. Now, if the trade outcome is $11, and I profit $1, I just divide the one by one, which I've shown you guys in TradeZilla, my R multiple is one R. I made one times my risk. 
+
+If I end up selling this at 12, because I made $2 on the trade, and I risked one, my R is two R. If I end up going to 13, I risk $1 to make three, so that's three R. So that's how it works on the upside, and that's how we need to calculate it, right? Now, on the flip side, how R multiple works is the following, right? So when you have a red trade, how does it work? So it's the same exact concept. You buy at 10, you put a stop at 9. Now, if you sell at 9, because you plan to lose $1 and you lost $1, your R is negative one R. But there are instances where your R, and people have asked me, Umar, your R is not a negative one, it's a negative three or a negative something. So when you go to this day, right, my R is negative 3.6. That's where it gets interesting, right? Now, to go into this trade, my stop on this trade was $1.50, okay? And I didn't hit my stop on this particular trade.
+
+(14:01 - 14:28)
+So what happens when we have trades like this is we start going, well, this is what I'm risking based on my stop, but this is what I lost. So this happens if you don't follow your stop. So if you see your R ends up being more than negative one R consistently, that means you're not following your stop, you're not executing at that number that you originally planned.
+
+(14:28 - 14:55)
+So I have a negative 3.62 R, I lost 3.62 times what I actually lost in the particular trade, which is a big red flag. So in this particular trade that I was talking about, again, we go at 10, stop at nine, right? If I don't sell at nine, my stop, which was my predetermined stop, losing $1, right? And this goes to seven and I sell at seven. Now I lost $3, risking a dollar.
+
+(14:56 - 20:39)
+So my R is a negative three R, which is a big red flag. So that's why I look at R a lot, because when I look at R from a risk management point of view, I'm able to identify, am I following my stop? Am I making the most on my trades? It also helps me look at my trades from an actual trading point of view and not a P&L point of view, right? Because I'd rather have 10 trades where I have more than a two R return than have 10 trades where I made $20,000, but the return was 0.5 R, right? Because think about this guys, in trading, we are not always going to be right. It's just a given, like you're going to be wrong. 
+
+You're going to lose money. And trading is a probability game, right? So if you have an average of, let's say three R or even two R, let's just say two R or three R. If you have a two R, that means you're making two times what you're risking. If you're right five times out of 10 times, which is 50% of times, and you have a two R, you're going to be profitable on a 50% win ratio. 
+
+Now, if your win ratio is even 40%, right? You will still essentially be profitable because you have a good R multiple. You are making more than what you're risking. And that kind of changes the concept where traders think you need to be right all the time. 
+
+You don't need to be right all the time. You just have to be able to focus on your R multiple. So that's where R is beautiful, right? Because it allows you to look at your trades from a better point of view. 
+
+And it also allows you to stay profitable by being right less, right? And if you can achieve this to get to a higher number, it allows you to make more money. It allows you to stay in the game longer. A few words of advice that I want to leave to you guys. 
+
+You know, depending on what stage you're at, understand there's two stages, right? One stage is a trader that's trying to find his or her way. They're trying to find profitability. And second is a trader that has found an edge, has found some profitability, but they're trying to scale up. 
+
+I'm assuming most people are in stage A. If you're in stage A, guys, keep your risk consistent. Focus on R. Don't increase your risk size. Try to find an edge. 
+
+And your job here is to just stay alive. Just be able to take as many trades as you possibly can with the least amount of risk, least amount of exposure. This is where you want to get practice in, where you want to test your strategies, test your setups, and just stay alive. 
+
+Simple as that. If you're in stage B, this is where you have to be able to identify what trades require me to put on a little bit more size. How do I increase size when it's needed? How do I decrease size when markets get difficult? How do I kind of become subjective to that, right? Moving on, if you follow me, if you're on my YouTube, I don't want you guys to have the mindset of, I made $2,000. 
+
+I don't care. You shouldn't care. What did this person risk? If you talk about a trade, moving on, just wire yourself to be this way. 
+
+I made a 2.5 R on a trade. That guy said he made $20,000. That lady said she made $15,000. 
+
+What did they risk? Where was their stop? Was their stop at a good point that proved they would be wrong? Why was their stop there? This is where we shift our mindset, right? We start focusing on becoming better traders, and then the money shows up automatically. We don't go into trades with, oh, I'm going to make this much if I'm right. No, go into every trade. 
+
+What is my downside? How much am I risking? If you are right on a trade, well, what did I risk to make this? Did it make sense? And there's a lot of times, guys, for myself, I've had days where I literally had a $30,000 or $40,000 day, and I go back to that trade, and I journal, and I recap, and I go, well, based on my stop and based on what I was going to risk on this trade, I was risking $20,000 to make $20,000? That's not sustainable. Okay, well, that's not a good trade. Even though I made $20,000, it's not a good trade, right? And we have to be honest with ourselves with these type of things. 
+
+So I highly recommend, go back, journal, right, which is like the third point. Go back, journal all your trades. Look at where your stops were. 
+
+Look at if you were wrong, do those stops make sense? And if they do make sense, then look at the outcome of the trade. Well, if I was wrong in this trade, I would have lost $500, but I only made $200 on the trade, so I was risking $500 to make $200? Whoa, whoa, whoa, whoa, this is not a good trade. This is a terrible trade, actually. 
+
+Do that with all your trades, and you'll start seeing patterns, right? Because I see traders, they come in, they have three or four weeks of profitability, and they make a lot of money. One week wipes it all out because they're on this three-week journey or period where they're risking $500 to make $200, and then when that risk catches up to them, they lose it all. And then number three, guys, as I mentioned, when you get into trades, just look at every trade from a downside perspective. 
+
+This is the best advice I can give you traders. Every trade you guys take, look at it, well, if I take this trade, the cost of the trade is $200, meaning if I'm wrong, I will lose $200, and mentally accept that you're wrong. Every time I take it on a trade, I'm like, okay, this trade, based on where my stop is, based on where this trade goes, I will be wrong. 
+
+Based on my position sizing, I am risking $4,000. I'm risking $10,000. So the cost of this trade is $10,000. 
+
+Because the cost is $10,000, does it also have room or potential to make me at least two times that? Can this trade that I'm risking $10,000 on, can this trade make me $20,000? Can this make me a 2R? That mindset has helped me look at trading from a much better point of view, and it also has drastically improved my trading on so many different levels. So with that being said, I hope you guys incorporate these things, and I want to see you guys make it in this game. And as I keep mentioning, protecting your downside is the most crucial thing. 
+
+With that being said, thank you so much for watching, everyone.

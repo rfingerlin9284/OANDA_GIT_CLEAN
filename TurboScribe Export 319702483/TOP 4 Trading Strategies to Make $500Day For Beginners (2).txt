@@ -1,0 +1,107 @@
+(0:00 - 0:58)
+Hey traders, in this video I'll be showing you 4 simple-to-learn trading strategies that's able to generate $500 per day in profits. And of course, these strategies are all backtested to have a high win percentage, so you can trust that they work. And the best part is that I've laid out specific instructions that you can easily follow, so after watching this video, you can implement these steps and start trading immediately. 
+
+So without further ado, let's move on with the first strategy. For this strategy, we're taking advantage of what's called a stop-hunt in order to find trade opportunities. Now, for those of you who don't know what a stop-hunt is, here's an example. 
+
+So, let's say you look at a chart and you see the price rejecting an area multiple times, so you draw a support level. Next, as it approaches that level again, you think to yourself, hmm, the price did reverse from this support level in the past, so maybe it could reverse from it once again. Hoping for a reversal, you enter a buy position.
+
+(0:59 - 1:55)
+Now, being the disciplined trader that you are, you did forget your stop-loss, so you placed it slightly below that support level. However, instead of reversing from that level, price instead went down hitting your stop-loss first before reversing back up. This is called a stop-hunt, and it is purposely done by institutions to hunt the stop-losses of retail traders. 
+
+Now, using the right technique, we can actually use these stop-hunts to our advantage to get high win-rate trade opportunities, and this is how. So, the first step is you want to find an obvious key level. This could either be a support or a resistance level. 
+
+But remember, the key word here is obvious, because you want to find a level where many retail traders are also paying attention, which is usually more susceptible to a stop-hunt. Here, we can see the price went up to this level and reversed from it, making it an obvious resistance level. The next step is to wait for the price to approach that level again and break out of it.
+
+(1:56 - 4:14)
+Once this happens, you take a closer look at the price action that's happening at that area. So, you zoom in two timeframes below. For example, currently we're on the 4-hour chart, so let's zoom in into the 2-hour chart. 
+
+Now, in the 2-hour chart, we can actually see a large green candle breaking that resistance area. Now, a question arises. How do we know if this will be a stop-hunt or an actual breakout and price did continue upwards? So, the good thing about this strategy is we could still make profits regardless of what's going to happen. 
+
+So, what I do instead, as soon as the price breaks this resistance area, I immediately place a limit sell order below this key level. Now, for those of you who don't know what a limit order is, it's simply just an order to open a position at a specific price. So, only if price touches my limit order, a sell position would open. 
+
+If it doesn't, then no position would open. By doing this, if this breakout happens to be a stop-hunt, then our sell order would be triggered and we would make money as the price reverses back down. However, if this happens to be a real breakout and price did continue upwards, our sell order would not be triggered and we won't lose any money. 
+
+Now, to add another layer to the strategy, we can also place a limit buy order above the breakout. And the idea behind this is we're playing both directions. If this was a breakout, then our limit buy order would get triggered and we would make a profit as price continues to go up. 
+
+However, if this was a stop-hunt, then our limit sell order will be the one that gets triggered and we would make profit as price reverses back down. Now, of course, there's still the risk that price moves in the opposite direction after one of our limit order is triggered. That's why it's important to place a stop-loss and profit target after one of them is triggered. 
+
+Now, let's see which limit order would get triggered. As you can see, price moved downwards and triggers our sell limit order which opens a sell position. After the sell position is opened, you place a stop-loss in the middle of the breakout candle and take profit at 4x stop-loss. 
+
+And as you can see, price continued downwards and hits our profit. Let's move on to the second strategy. So, for this next strategy, we're utilizing the Fibonacci retracement tool but we'll be using it slightly different from what is usually taught.
+
+(4:14 - 5:08)
+Now, for those of you who don't know how the Fibonacci tool works, here's a quick explanation. So, it is simply a tool that is used to identify where a pullback or a retracement might end. For example, if price moves upwards and forms a slight retracement, we can apply the Fibonacci retracement tool to know where this retracement might end. 
+
+To do this, you drag the tool from the swing low to the swing high. Once applied, traders can observe these levels as they often act as possible levels where the retracement may end. So, for this specific strategy, we're only using the 0.618 and the 1.618 Fibonacci level. 
+
+To do that, you go to the settings of the Fibonacci tool and disable all the other levels except the 0.618 and the 1.618. Once you've done that, your Fibonacci tool should look like this. Now, here's how you trade the strategy. The first step is to look for a price action where there's a trend and a slight retracement like in this example.
+
+(5:10 - 5:50)
+Next, you apply the Fibonacci retracement tool on that price action. From here, we wait for the price to pull back towards the 0.618 level and try to see if the price shows some type of rejection towards it. To do that, we do a multi-timeframe analysis by looking at lower timeframes to analyze the price action further. 
+
+So, we're on the 4-hour timeframe, let's zoom in into the 1-hour timeframe. Now, in the 1-hour timeframe, we can apply the MACD indicator for trend confirmation. As you can see, the MACD indicator crossed over upwards after price hits the 0.618 level which further confirms that the price will likely bounce upwards from that level.
+
+(5:51 - 7:12)
+And so, we go back to the 4-hour timeframe and enter a buy position. The next step is we use the tool once again, take the last highs of the retracement, and drag it towards the lows of the retracement. And this is where the 1.618 level comes into play. 
+
+We use it to set our target profit. Once you've done that, you can let the trade run. And as you can see, price exactly hits our profit target. 
+
+Now, let's move on to the third strategy. So, unlike the other strategies on this list, this one is a scalping strategy and we'll trade it on the 1-minute timeframe using an indicator called the CCI. And so, based on backtesting results, the CCI is particularly effective for identifying divergences. 
+
+But for those of you who don't know how to spot divergences, here's a quick example. So, usually, an indicator will display the same signal as the price movement. If the price forms higher highs, the indicator will also display higher highs. 
+
+However, there are setups where it's the opposite. For example, price forms higher lows but the indicator displays lower lows instead. And this is called a divergence. 
+
+Specifically, this is a bullish hidden divergence, presenting a good opportunity to take a buy position. There are multiple types of divergences and you can use this graphic as a guide to identify them. Now, I'm going to prove that this strategy works by doing a live trading session.
+
+(7:12 - 11:04)
+So first, you want to apply the CCI indicator onto your charts. And if you're using the SimpleFX platform like I am, you can go to the indicator section and select CCI. After that, go to the 1-minute chart and find a setup where the price forms a divergence. 
+
+You can use the search menu here to find different charts, whether it be crypto, forex, stocks, or others. So, after some searching, I came across this setup on the Bitcoin USD 1-minute chart. Price formed lower lows but the bullish divergence. 
+
+So you enter a buy position. To do that, click the buy button here and set your position size for this trade. Next, for our take profit target, we can set it at this minor resistance level at 64379. 
+
+So you insert that. Now for our stop loss, we can set it at slightly below the support area at 64209. And insert that as well. 
+
+Here, you can see how much you'd make if price hits our profit target and how much we'd lose if the price hits our stop loss. Next, click submit to open the trade and let the trade run. And as you can see, price hits our take profit and we made $90 profit in a couple of minutes from this one setup. 
+
+You can keep repeating this strategy over and over again as long as you spot a divergence. And by the way, if you're looking for a broker to win more trades, I highly recommend clicking the link in the description for SimpleFX. They're very simple to use, have all the tools you need to make an analysis, and you can trade multiple assets on one platform. 
+
+And if you use the link in my description, you'll get a $40 deposit bonus if you deposit at least $100 into your account. Now let's move on to the fourth strategy. So this one is one of my most profitable strategy that has allowed me to scale my trading account considerably. 
+
+And this is how. So we know that markets are only trending about 30% of the time, while remains within a range about 70% of the time. This means that prices aren't always moving towards a certain trend. 
+
+Most of the time, they move overall sideways while deviate between certain levels. Because of this, if you know a strategy to trade range markets, you'll be able to generate more profitable signals. And here's how this strategy works. 
+
+The first step is to identify a range market, which is simply a market that moves overall sideways. Now, during a range market, you should be able to identify both support and resistance levels within that range. For example, if price rejects an upper level multiple times, that's your resistance. 
+
+And if it rejects a lower level, that's your support. Now, here's how I trade range markets differently from most traders. Instead of only trading at these major key levels, I also take advantage of the price action that's happening in this middle area. 
+
+And to do that, I draw another line in the exact middle of these major key levels. This is what I call the midline. So, using the midline that we drew, we can now see that the range is divided between two zones. 
+
+The upper zone and the bottom zone. So, we know that as long as price stays within this range, only two things could happen. Either it stays on this upper zone or switch to this bottom zone. 
+
+And it will keep doing this until eventually price breaks out of the range. But for this strategy, we only trade if the price still remains within this range. So, here's how it works. 
+
+The first step is to identify where the current price is positioned. In this example, it is currently in the upper zone after it rejected this resistance level. Next, you wait for the price to approach the middle line. 
+
+Now, remember what I said earlier. As long as the price is still inside this range, it's either going to stay on this upper zone and bounce upwards from this middle line or switch to this bottom zone and breaks this middle line downwards. In order to know that, we need to analyze the price action as it approaches this middle line.
+
+(11:04 - 12:24)
+So, a rule of thumb to remember is that price will likely move towards the bottom level if it manages to break the middle line decisively. For example, if there's one giant momentum candle crossing down or if there are multiple red candles. However, if we manage to see some type of rejection in this middle line, there's a high chance that the price will likely remain above the middle line and retest the resistance level. 
+
+So, let's see what happens to the price next. As you can see, it briefly broke through the middle line but managed to bounce back up, indicating that there's a slight rejection in this middle area. However, because this is only a slight rejection, we still need more confirmation. 
+
+So, let's not rush to take a position and observe what happens next. Here, we can see that the price briefly moved downwards all the way here, but buyers pushed it back up before the candle manages to close, which forms this long wick below this candle. So now, after multiple attempts of breaking below the middle line, price failed to do so, meaning there's a chance that the price will actually remain above the upper level and retest this resistance level. 
+
+So, this is a good opportunity to enter a buy position. As for your profit target, set it at the resistance level and stop loss at slightly below your entry. And as you can see, price went upwards towards the resistance level and hits our tick profit.
+
+(12:24 - 12:48)
+So guys, for profitable strategies like this, you would also need a good broker to execute these trades, which is why I partnered with SimpleFX to make your trading easier. SimpleFX is a broker that lets you trade any instrument, including stocks, forex, crypto, and more, all in one platform. They're very simple to use and they also come with a built-in trading view chart so you can analyze trades and execute them within the same platform.
+
+(12:48 - 13:13)
+They have no minimum deposit, which means you can start trading with as little as $1. They also have some of the lowest fees on the market. And if you sign up using my link below, you'll get a free $40 bonus in trading capital if you deposit at least $100. 
+
+Of course, you'll get more rewards as you deposit more. So, big thanks to SimpleFX for helping me make this video possible. That's all for today. 
+
+Thank you so much for watching and I'll see you in the next video.

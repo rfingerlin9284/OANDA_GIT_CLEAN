@@ -1,0 +1,127 @@
+(0:00 - 0:34)
+Fibonacci Retracements It is a tool that displays horizontal lines based on the Fibonacci numbers. These lines can then be used as key support and resistance levels. To use the Fibonacci retracement tool, you first start by identifying a swing low and swing high on a chart. 
+
+Then, drag the tool from the swing low to the swing high. Next, wait for the price to make a pullback to one of these levels, ideally the 0.382 Fibonacci level, because that's the most common level where price tends to reverse from. So if price touches that level, that can be a good buy entry.
+
+(0:35 - 0:48)
+Keep in mind that price could also reverse from other Fibonacci levels. Combine it with other confirmation signals to get a better entry. Breakout Patterns It is when price makes a sudden and significant movement towards one direction.
+
+(0:48 - 0:58)
+This usually forms after the market makes a consolidation period. For example, here we can see that the price is consolidating. Then, it suddenly moves sharply to the downside.
+
+(0:58 - 1:12)
+This is called a breakout. To take advantage of this, traders could use specific patterns as a guide to identify breakouts before they happen. Most notable breakout patterns include wedges, triangles, and the rectangle pattern.
+
+(1:13 - 1:33)
+Reversal Patterns It is when price moves in the opposite direction of the current trend and forms a countertrend. Specific patterns could be identified in a chart which could help traders predict reversals before they happen. Most notable reversal patterns are double top and bottoms, triple top and bottoms, head and shoulders, cups and handles.
+
+(1:34 - 1:55)
+Elliott Wave It is a theory that suggests that market tends to move in a series of five waves before reversing and forming another set of waves in the opposite direction. By understanding the Elliott Wave sequence, traders could predict where the price is heading by following the pattern. In a chart, we can label each point of the waves as 1, 2, 3, 4, 5, and ABC.
+
+(1:56 - 2:23)
+Now, there are specific rules to ensure that a movement is considered as a valid Elliott Wave. First, wave 2 cannot be longer than wave 1 and usually pulls back to the 0.618 Fibonacci level. Second, wave 3 must be the longest wave amongst wave 1, 3, and 5. Third, wave 4 must remain above the peak of wave 1. And usually pulls back to the 0.382 Fibonacci level.
+
+(2:23 - 2:43)
+So here's an example of the Elliott Wave in action. In this chart, we can see that the price resembles a possible 1, 2, 3 Elliott Wave. And so, based on the theory of wave 4, which is that price tends to pull back to the 0.382 Fibonacci level before continuing upwards, we can use this as a potential buy entry when price makes a pullback.
+
+(2:45 - 2:59)
+Fair Value Gaps A fair value gap occurs when a candle forms a significant gap due to an imbalance of buying or selling. To find a fair value gap, you first need to find a candle with a large body. Then, draw a rectangle at the gap.
+
+(3:00 - 3:18)
+Place it between the previous candlestick and the next candlestick. This level now acts as a potential magnet, where price may revisit before continuing its movement. Candlestick Patterns It is a technique that traders use to analyze future price movements by looking at specific candlestick shapes.
+
+(3:19 - 3:34)
+Notable candlestick patterns include Engulfing Patterns, which signals strong momentum towards the direction of the engulfing candle. Hammer and Shooting Star Patterns, which indicates rejection as shown by the long wick on one side. Doji Patterns, which signals neutrality in the market.
+
+(3:35 - 3:53)
+Heikinashi It is an indicator that fully replaces a traditional candlestick chart to a Heikinashi chart. When applied, it tends to give less noise than a traditional candlestick. A green Heikinashi candle signals that the price is on an uptrend, and a red Heikinashi candle signals that the price is on a downtrend.
+
+(3:54 - 4:03)
+The size of the candle's body also indicates how strong a trend is. The larger the candle, the stronger the trend. Keep in mind that the Heikinashi only acts as an indicator.
+
+(4:03 - 4:18)
+It does not display the real market price. Moon Phases It is a concept that utilizes moon cycles to time the market. Moon phase traders believe that moon cycles are correlated with human emotions and behavior, which could have an influence on the market.
+
+(4:18 - 4:31)
+Specific moon phases are believed to be favorable towards a certain trend. A new moon means the market tends to be bullish, and a full moon means the market tends to be bearish. Today, it is used mostly as a confirmation tool.
+
+(4:32 - 4:50)
+Renko It replaces a traditional candlestick chart to a Renko chart. So, unlike a traditional candlestick which forms a new candle based on a certain period of time, a Renko chart forms its block based on the change of price. For example, every 1% change in price, a Renko block appears.
+
+(4:51 - 5:03)
+This means that each Renko block represents a 1% change in price. Of course, you can change the parameters of this through the indicator settings. Traders could utilize Renko charts to filter out noise and identify trends.
+
+(5:04 - 5:14)
+A green Renko block signals an uptrend, and a red Renko block signals a downtrend. And keep in mind that Renko charts only acts as an indicator. It does not display the real market price.
+
+(5:15 - 5:37)
+Harmonic Patterns These are advanced price patterns that follow a specific shape based on Fibonacci numbers. Traders can then use these specific shapes to predict future price movements. For example, a bullish-bad pattern is formed when price makes a series of 4 movements that is shaped like the letter M. Each point can be labeled as X, A, B, C, and D. And each of these points has a specific guideline.
+
+(5:38 - 6:03)
+For example, point X to point B needs to have a value between 0.382 and 0.5. Point A to C needs to have a value between 0.382 and 0.886. And the same thing works for the other points. Next, these specific guidelines can then be applied onto a real chart. So, if you see a price forming a series of 4 movements, you can apply the harmonic pattern tool to check if the price that formed matches the pattern's guideline.
+
+(6:05 - 6:16)
+If it does, then you can take a position based on the pattern that formed. There are multiple harmonic patterns that exist. Most notable are Butterfly, Bat, Crab.
+
+(6:16 - 6:34)
+And each have their own unique values. These are key levels that formed horizontally where the price has bounced off in the past and could possibly bounce again in the future. If the level is below the price, it's called support, where you can take a buy position if the price approaches it.
+
+(6:34 - 6:54)
+And if the level is above the price, it's called resistance, where you can take a sell position if the price approaches it. Similar to support and resistance, dynamic support and resistance also acts as key levels. But instead of using static horizontal lines, it uses indicators like the moving average to act as our key level.
+
+(6:56 - 7:06)
+Trendlines are key levels that form diagonally during a trending market. You can use trendlines to identify the overall direction of the price. Upwards trendline means bullish.
+
+(7:06 - 7:20)
+Downwards trendline means bearish. And similar to support and resistance, you can also use the trendline to identify possible entry scenarios. For example, if price retraces back to a trendline, it can be a good opportunity to take a buy position.
+
+(7:22 - 7:37)
+It is a tool that displays multiple lines that spread continuously on different angles. These lines can then act as possible key levels and could also help you measure the strength of a trend. Price moving within the steep angles of the tool indicates a strong trend.
+
+(7:37 - 7:48)
+And price moving within the shallow angles of the tool indicates a weak trend. To apply the GAN angles, first, you go to settings. Then, make sure to check the lock price to bar ratio.
+
+(7:49 - 8:02)
+Next, identify a market range and mark the swing low and the swing highs of that range. Then, draw a straight vertical line at the start of the range. After that, select the trend angle tool and measure 45 degrees.
+
+(8:03 - 8:18)
+Then, use the GAN fan tool and place it at the 45-degree angle. Momentum Indicators These are the types of indicator that measures the direction and strength of a trend. It is most effective when used in trending markets.
+
+(8:18 - 8:41)
+Some of the most notable momentum indicators are MACD, an upwards crossover indicates a bullish trend while a downwards crossover indicates a bearish trend. Moving Averages Price being above the moving average signals a bullish trend and price being below signals a bearish trend. Parabolic SAR A dot below the price indicates a bullish trend and a dot above the price indicates a bearish trend.
+
+(8:41 - 8:56)
+Supertrend Green signal indicates a bullish trend and a red signal indicates a bearish trend. Oscillators These are the types of indicator that displays the relative strength of a price. It is most effective when used on choppy or sideways markets.
+
+(8:57 - 9:14)
+Most notable oscillators include RSI When the line is in the oversold region, it indicates a possible reversal to the upside. If it's in the overbought region, it indicates a possible reversal to the downside. Stochastic If both lines are at oversold, it signals a possible reversal to the upside.
+
+(9:14 - 9:29)
+And if both lines are at overbought, it signals a possible reversal to the downside. These two lines can also cross over each other to predict future price movements. Divergences Divergences occur when an indicator displays an opposite signal of the real price movement.
+
+(9:29 - 9:50)
+When this happens, it is usually a sign that the trend might reverse. Divergences can occur in many indicators, such as the MACD, Stochastic, and the RSI. For example, here, using the MACD indicator, you can see that the price is forming higher highs, which is bullish, but the indicator shows the opposite, a lower highs, which is bearish.
+
+(9:50 - 10:12)
+In this case, this is a bearish divergence, which signals that the price may form a reversal, and so you can take a sell position. Volume Indicators These are types of indicator that shows the strength behind a price movement by tracking the trading volume. Notable volume indicators include Price Volume, which displays the volume for each candle.
+
+(10:12 - 10:24)
+The longer the bar, the higher the volume. Volume Weighted Average Price, which shows the ratio of an asset's price to its total volume. It can be traded like a moving average or as a dynamic support and resistance.
+
+(10:25 - 10:44)
+Volume Profiles It displays a volume bar horizontally, which can be treated as key levels for potential entry positions. Supply and Demand Also referred to as order blocks, these are zones where significant price movements have occurred. If price moves significantly upwards from a level, it is considered a demand zone.
+
+(10:45 - 11:02)
+And if price moves significantly downwards from a level, it is considered a supply zone. Just like support and resistance, these zones can be treated as key levels for potential entry positions. Market Structure Market structure is when trader analyzes the behavior, condition, and flow of the market.
+
+(11:03 - 11:25)
+An uptrend structure is characterized by price forming higher highs and higher lows, while downtrend structure is characterized by price forming lower highs and lower lows. Break of Structure It is when price breaks the previous price peak during a trend. For example, if the price forms a higher highs and higher lows, this break of the previous highs is called break of structure.
+
+(11:26 - 11:47)
+Change of Character It occurs when price breaks the previous structure during a trend, often signaling a reversal from that current trend. For example, if the price is forming higher highs and higher lows, then it breaks the previous lows forming lower lows, this is called a change of character. So, did I miss any strategy? Let me know in the comments below.
+
+(11:47 - 11:57)
+And if you find this enjoyable, kindly do a small favor by liking the video and subscribe to the channel. It only takes 2 clicks but it means so much to me. You can also check out my other videos as well.
+
+(11:58 - 12:00)
+So thank you for watching and I'll see you in the next video.

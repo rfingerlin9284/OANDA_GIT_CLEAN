@@ -1,0 +1,1851 @@
+1
+00:00:00,530 --> 00:00:00,950
+What's up everyone?
+
+2
+00:00:01,290 --> 00:00:02,270
+Welcome back to this channel.
+
+3
+00:00:02,530 --> 00:00:04,310
+In this video I'm gonna change your life.
+
+4
+00:00:04,470 --> 00:00:06,390
+I'm gonna show you three strategies that are
+
+5
+00:00:06,390 --> 00:00:09,410
+freely available on TradingView which are way better
+
+6
+00:00:09,410 --> 00:00:12,030
+than what most people are doing in crypto.
+
+7
+00:00:12,290 --> 00:00:14,770
+Actually it's better than 95% of all
+
+8
+00:00:14,770 --> 00:00:17,430
+retail investors making more money and having less
+
+9
+00:00:17,430 --> 00:00:18,930
+drawdown, less risk.
+
+10
+00:00:19,210 --> 00:00:21,150
+I'm gonna show you exactly which strategies those
+
+11
+00:00:21,150 --> 00:00:23,290
+are, I'm gonna analyze them, I'm gonna show
+
+12
+00:00:23,290 --> 00:00:25,290
+you the trades they're doing and then you
+
+13
+00:00:25,290 --> 00:00:27,730
+can decide for yourself if those strategies made
+
+14
+00:00:27,730 --> 00:00:30,790
+better decisions than you or worse and also
+
+15
+00:00:30,790 --> 00:00:32,250
+let me know down in the comments.
+
+16
+00:00:32,570 --> 00:00:34,150
+And the best thing of all you could
+
+17
+00:00:34,150 --> 00:00:37,110
+actually if you choose to automate these strategies
+
+18
+00:00:37,110 --> 00:00:39,250
+there is another video that I have about
+
+19
+00:00:39,250 --> 00:00:39,630
+that.
+
+20
+00:00:39,830 --> 00:00:41,170
+So you can take any of these strategies
+
+21
+00:00:41,170 --> 00:00:43,810
+you can automate them to actually buy and
+
+22
+00:00:43,810 --> 00:00:44,930
+sell on your exchange.
+
+23
+00:00:45,130 --> 00:00:46,450
+That is not part of this video but
+
+24
+00:00:46,450 --> 00:00:47,390
+part of this video.
+
+25
+00:00:47,690 --> 00:00:49,330
+But if you know me I'm all about
+
+26
+00:00:49,330 --> 00:00:51,770
+automation that's why all the strategies that I'm
+
+27
+00:00:51,770 --> 00:00:55,070
+talking about are automatable because I think that's
+
+28
+00:00:55,070 --> 00:00:56,830
+the highest success rate that you will have
+
+29
+00:00:56,830 --> 00:00:58,010
+when you automate things.
+
+30
+00:00:58,250 --> 00:00:59,510
+Alright let's get started.
+
+31
+00:00:59,810 --> 00:01:01,210
+Eyes on the screen, coffee in your hand
+
+32
+00:01:01,210 --> 00:01:03,010
+so you have enough energy to watch the
+
+33
+00:01:03,010 --> 00:01:03,970
+whole video through.
+
+34
+00:01:04,190 --> 00:01:05,470
+I mean how would you miss a second
+
+35
+00:01:05,470 --> 00:01:07,130
+of it when it is about making more
+
+36
+00:01:07,130 --> 00:01:07,950
+money than before?
+
+37
+00:01:08,350 --> 00:01:10,650
+And as always don't like the video, don't
+
+38
+00:01:10,650 --> 00:01:13,370
+subscribe to the channel unless you hear something
+
+39
+00:01:13,370 --> 00:01:16,490
+interesting, you learn something new, I'm inspiring you
+
+40
+00:01:16,490 --> 00:01:18,530
+and then it makes sense and then click
+
+41
+00:01:18,530 --> 00:01:19,010
+the button.
+
+42
+00:01:19,210 --> 00:01:20,350
+Not now, later.
+
+43
+00:01:20,750 --> 00:01:22,670
+So watch the full video so you know
+
+44
+00:01:22,670 --> 00:01:23,870
+if it helped you or not.
+
+45
+00:01:24,290 --> 00:01:24,650
+Let's go.
+
+46
+00:01:25,730 --> 00:01:28,350
+As you know 95% of crypto investors
+
+47
+00:01:28,350 --> 00:01:31,470
+lose money and I think that is horrendous
+
+48
+00:01:31,470 --> 00:01:33,710
+and they could do much better than that.
+
+49
+00:01:33,910 --> 00:01:36,190
+Let's look at three strategies that I found
+
+50
+00:01:36,190 --> 00:01:37,170
+on TradingView.
+
+51
+00:01:37,330 --> 00:01:39,510
+They are fully free and how they perform
+
+52
+00:01:39,510 --> 00:01:42,430
+and if they perform better than what most
+
+53
+00:01:42,430 --> 00:01:43,110
+people are doing.
+
+54
+00:01:43,470 --> 00:01:45,210
+So keep in mind what you were doing
+
+55
+00:01:45,210 --> 00:01:47,110
+in the last bull and bear market and
+
+56
+00:01:47,110 --> 00:01:49,630
+compare to the outcome of these strategies.
+
+57
+00:01:49,850 --> 00:01:51,730
+If these strategies are better then you have
+
+58
+00:01:51,730 --> 00:01:53,490
+to ask yourself what are you doing?
+
+59
+00:01:53,790 --> 00:01:55,290
+Alright let's get into it.
+
+60
+00:01:55,430 --> 00:01:57,210
+In the background I have a strategy called
+
+61
+00:01:57,210 --> 00:01:58,750
+the Supertrend strategy.
+
+62
+00:01:59,130 --> 00:02:00,190
+Now how do I get there?
+
+63
+00:02:00,330 --> 00:02:02,430
+I go to TradingView, I click on indicators
+
+64
+00:02:02,430 --> 00:02:05,030
+and here I search for strategy and then
+
+65
+00:02:05,030 --> 00:02:06,750
+I scroll down a bit and I find
+
+66
+00:02:06,750 --> 00:02:08,350
+the Supertrend strategy.
+
+67
+00:02:08,669 --> 00:02:10,009
+You click on it and when you click
+
+68
+00:02:10,009 --> 00:02:11,890
+on it it will be added to your
+
+69
+00:02:11,890 --> 00:02:14,210
+strategies and immediately it will pop up like
+
+70
+00:02:14,210 --> 00:02:14,490
+this.
+
+71
+00:02:14,710 --> 00:02:16,570
+You might see it actually in this particular
+
+72
+00:02:16,570 --> 00:02:18,090
+way where you have all the text on
+
+73
+00:02:18,090 --> 00:02:18,490
+the chart.
+
+74
+00:02:18,650 --> 00:02:20,590
+You can turn this off by unchecking signal
+
+75
+00:02:20,590 --> 00:02:23,410
+labels and quantity, click OK and now the
+
+76
+00:02:23,410 --> 00:02:24,750
+chart looks much cleaner.
+
+77
+00:02:25,210 --> 00:02:26,890
+Now let's look at the performance of this
+
+78
+00:02:26,890 --> 00:02:27,370
+strategy.
+
+79
+00:02:27,730 --> 00:02:31,410
+It made 6,266% profit since the
+
+80
+00:02:31,410 --> 00:02:32,390
+beginning of Bitcoin.
+
+81
+00:02:32,710 --> 00:02:34,410
+This strategy is now applied on the chart
+
+82
+00:02:34,410 --> 00:02:36,970
+since the beginning and it had a drawdown
+
+83
+00:02:36,970 --> 00:02:39,870
+of only 15% which is quite good
+
+84
+00:02:39,870 --> 00:02:42,290
+actually if you think about how volatile the
+
+85
+00:02:42,290 --> 00:02:43,950
+asset is and also was.
+
+86
+00:02:44,150 --> 00:02:45,950
+That means if you put money into the
+
+87
+00:02:45,950 --> 00:02:47,750
+strategy and let it play out you would
+
+88
+00:02:47,750 --> 00:02:51,150
+have lost maximum 15% on a particular
+
+89
+00:02:51,150 --> 00:02:51,590
+trade.
+
+90
+00:02:52,090 --> 00:02:53,950
+Alright and then we also have this number
+
+91
+00:02:53,950 --> 00:02:54,810
+which is quite important.
+
+92
+00:02:55,130 --> 00:02:57,190
+How often did the strategy win when it
+
+93
+00:02:57,190 --> 00:02:57,570
+invested?
+
+94
+00:02:57,910 --> 00:03:00,190
+It won 47.9% of the time.
+
+95
+00:03:00,410 --> 00:03:01,970
+When it lost it lost a little amount.
+
+96
+00:03:02,130 --> 00:03:03,650
+When it won it won a higher amount
+
+97
+00:03:03,650 --> 00:03:05,670
+of course otherwise it wouldn't be profitable.
+
+98
+00:03:06,010 --> 00:03:07,750
+But let's zoom in into the last bull
+
+99
+00:03:07,750 --> 00:03:09,910
+market and check what the strategy did.
+
+100
+00:03:10,170 --> 00:03:10,790
+When did it buy?
+
+101
+00:03:10,910 --> 00:03:11,650
+When did it sell?
+
+102
+00:03:12,150 --> 00:03:14,450
+And you should always compare with what you
+
+103
+00:03:14,450 --> 00:03:14,730
+did.
+
+104
+00:03:14,850 --> 00:03:16,890
+Is it better or worse than what you
+
+105
+00:03:16,890 --> 00:03:17,130
+did?
+
+106
+00:03:17,410 --> 00:03:17,830
+Let's go.
+
+107
+00:03:18,130 --> 00:03:19,950
+First of all I'm closing the strategy tester
+
+108
+00:03:19,950 --> 00:03:21,930
+to get rid of it and then let's
+
+109
+00:03:21,930 --> 00:03:24,910
+check out when it invested before the bull
+
+110
+00:03:24,910 --> 00:03:25,650
+run started.
+
+111
+00:03:25,950 --> 00:03:27,890
+Trading view shows buys and sells with arrows
+
+112
+00:03:27,890 --> 00:03:29,650
+so the blue one is buy and the
+
+113
+00:03:29,650 --> 00:03:31,270
+red one is sell of course.
+
+114
+00:03:31,490 --> 00:03:33,230
+So here you can see it bought in
+
+115
+00:03:33,230 --> 00:03:36,850
+at 11,500 and then it sold here
+
+116
+00:03:36,850 --> 00:03:40,990
+with 166% profit at 30,700.
+
+117
+00:03:41,390 --> 00:03:42,090
+That's not bad.
+
+118
+00:03:42,510 --> 00:03:43,450
+What did it do afterwards?
+
+119
+00:03:43,770 --> 00:03:45,650
+It waited it out and then bought and
+
+120
+00:03:45,650 --> 00:03:47,470
+sold here with no profit at all.
+
+121
+00:03:47,770 --> 00:03:49,930
+Bought and sold here lost 11% and
+
+122
+00:03:49,930 --> 00:03:50,950
+what happened afterwards?
+
+123
+00:03:51,190 --> 00:03:54,650
+Afterwards it protected people from losing money meaning
+
+124
+00:03:54,650 --> 00:03:57,930
+that it prevented a 44.6% drawdown.
+
+125
+00:03:58,010 --> 00:03:58,610
+That is nice.
+
+126
+00:03:58,970 --> 00:04:00,430
+People can do other things with the money
+
+127
+00:04:00,430 --> 00:04:01,510
+other than losing it here.
+
+128
+00:04:01,750 --> 00:04:03,950
+Then it invested back in here made another
+
+129
+00:04:03,950 --> 00:04:06,890
+27% then invested back in here made
+
+130
+00:04:06,890 --> 00:04:10,070
+another 15% and again protected people from
+
+131
+00:04:10,070 --> 00:04:12,390
+losing here 38% of their money but
+
+132
+00:04:12,390 --> 00:04:14,490
+still made a losing trade here 12%
+
+133
+00:04:14,490 --> 00:04:15,130
+and so on.
+
+134
+00:04:15,290 --> 00:04:16,709
+Now you can compare with what you did
+
+135
+00:04:16,709 --> 00:04:18,490
+in the last bull and bear market right?
+
+136
+00:04:18,630 --> 00:04:20,070
+Did you buy early enough or not?
+
+137
+00:04:20,230 --> 00:04:22,650
+If not then consider using a strategy like
+
+138
+00:04:22,650 --> 00:04:24,510
+this one it's free and if it is
+
+139
+00:04:24,510 --> 00:04:26,590
+better than you then use it right?
+
+140
+00:04:26,770 --> 00:04:27,150
+Makes sense.
+
+141
+00:04:27,450 --> 00:04:28,390
+Then when did you sell?
+
+142
+00:04:28,510 --> 00:04:30,310
+Did you forget to sell here before the
+
+143
+00:04:30,310 --> 00:04:32,830
+crash came or did you sell only later
+
+144
+00:04:32,830 --> 00:04:35,410
+on and lost like 50% 70%
+
+145
+00:04:35,410 --> 00:04:35,950
+of your money?
+
+146
+00:04:36,070 --> 00:04:38,390
+If that is the case then again this
+
+147
+00:04:38,390 --> 00:04:40,750
+strategy would be way better for you than
+
+148
+00:04:40,750 --> 00:04:42,010
+what you have done manually.
+
+149
+00:04:42,230 --> 00:04:43,930
+Now let's see what it does right now
+
+150
+00:04:43,930 --> 00:04:45,250
+in the current state of affairs.
+
+151
+00:04:45,250 --> 00:04:46,930
+We can see that it bought here on
+
+152
+00:04:46,930 --> 00:04:49,650
+the bottom at 27,900 made a profit
+
+153
+00:04:49,650 --> 00:04:52,150
+of 41% and currently it is invested
+
+154
+00:04:52,150 --> 00:04:54,690
+again and is in profit 14%.
+
+155
+00:04:54,690 --> 00:04:56,730
+Now did you miss this buy signal for
+
+156
+00:04:56,730 --> 00:04:58,530
+example here at 27.9?
+
+157
+00:04:58,670 --> 00:05:00,630
+Are you not invested in Bitcoin or did
+
+158
+00:05:00,630 --> 00:05:02,190
+you buy much later?
+
+159
+00:05:02,410 --> 00:05:04,570
+Again this strategy would be much better for
+
+160
+00:05:04,570 --> 00:05:04,730
+you.
+
+161
+00:05:04,810 --> 00:05:06,330
+So what I'm trying to explain here is
+
+162
+00:05:06,330 --> 00:05:08,090
+that you need a strategy but then which
+
+163
+00:05:08,090 --> 00:05:09,410
+strategy to use right?
+
+164
+00:05:09,530 --> 00:05:11,850
+Because usually good strategies cost money that is
+
+165
+00:05:11,850 --> 00:05:14,090
+correct but if you can find strategies that
+
+166
+00:05:14,090 --> 00:05:15,610
+are free which is why I'm making this
+
+167
+00:05:15,610 --> 00:05:17,490
+video and they are better than what most
+
+168
+00:05:17,490 --> 00:05:19,690
+people are doing especially than what you are
+
+169
+00:05:19,690 --> 00:05:22,250
+doing then why not use a strategy that
+
+170
+00:05:22,250 --> 00:05:24,310
+actually has a proper back test like this
+
+171
+00:05:24,310 --> 00:05:26,690
+one and you can actually see how it
+
+172
+00:05:26,690 --> 00:05:27,630
+performs right?
+
+173
+00:05:27,750 --> 00:05:29,970
+So it's more mathematics, it's more logic behind
+
+174
+00:05:29,970 --> 00:05:33,310
+it, it's more thinking behind it than emotionally
+
+175
+00:05:33,310 --> 00:05:35,690
+deciding every day what to do with your
+
+176
+00:05:35,690 --> 00:05:36,410
+investment right?
+
+177
+00:05:36,590 --> 00:05:38,110
+This is the first strategy I wanted to
+
+178
+00:05:38,110 --> 00:05:39,950
+show you and it's already much better than
+
+179
+00:05:39,950 --> 00:05:41,830
+what most people are doing out there with
+
+180
+00:05:41,830 --> 00:05:42,270
+their money.
+
+181
+00:05:42,410 --> 00:05:44,110
+But there's more let's go to the second
+
+182
+00:05:44,110 --> 00:05:44,670
+strategy.
+
+183
+00:05:44,850 --> 00:05:48,010
+Alright the second one is hull suit strategy
+
+184
+00:05:48,010 --> 00:05:50,090
+and again you can find it by going
+
+185
+00:05:50,090 --> 00:05:52,590
+to indicators and you type in hull suit
+
+186
+00:05:52,590 --> 00:05:54,550
+strategy you can copy that also from the
+
+187
+00:05:54,550 --> 00:05:56,330
+bottom of this video description and then you
+
+188
+00:05:56,330 --> 00:05:58,590
+click on the one from dash trader and
+
+189
+00:05:58,590 --> 00:06:00,410
+once you've done that the strategy will appear
+
+190
+00:06:00,410 --> 00:06:02,830
+on your screen on your chart and then
+
+191
+00:06:02,830 --> 00:06:04,530
+you can see the performance metrics in the
+
+192
+00:06:04,530 --> 00:06:05,010
+back test.
+
+193
+00:06:05,410 --> 00:06:07,490
+Now this strategy made more profit it is
+
+194
+00:06:07,490 --> 00:06:11,570
+at 9322% and that looks awesome on
+
+195
+00:06:11,570 --> 00:06:14,510
+paper but it also had a much higher
+
+196
+00:06:14,510 --> 00:06:17,950
+drawdown a max drawdown of 70% but
+
+197
+00:06:17,950 --> 00:06:19,790
+what does it mean that this drawdown is
+
+198
+00:06:19,790 --> 00:06:20,230
+so high?
+
+199
+00:06:20,530 --> 00:06:22,430
+Well it means that you have to emotionally
+
+200
+00:06:22,430 --> 00:06:24,730
+survive that one of your trades during the
+
+201
+00:06:24,730 --> 00:06:28,170
+time of trading might be minus 70%
+
+202
+00:06:28,170 --> 00:06:31,230
+not realized loss but in between the trades
+
+203
+00:06:31,230 --> 00:06:33,770
+so it might rebound it might go back
+
+204
+00:06:33,770 --> 00:06:35,770
+up it might make a profit it might
+
+205
+00:06:35,770 --> 00:06:38,250
+make a loss but in between it was
+
+206
+00:06:38,250 --> 00:06:40,670
+minus 70 and that's usually very hard for
+
+207
+00:06:40,670 --> 00:06:42,590
+people to sustain and that's why I'm showing
+
+208
+00:06:42,590 --> 00:06:44,350
+you this so you understand when you look
+
+209
+00:06:44,350 --> 00:06:45,930
+at such a strategy yes it makes more
+
+210
+00:06:45,930 --> 00:06:48,490
+money but also you have to mentally prepare
+
+211
+00:06:48,490 --> 00:06:49,750
+for the drawdown.
+
+212
+00:06:49,950 --> 00:06:51,130
+If you really want to know what the
+
+213
+00:06:51,130 --> 00:06:54,150
+largest losing trade was then simply click on
+
+214
+00:06:54,150 --> 00:06:57,150
+the performance summary and then scroll down and
+
+215
+00:06:57,150 --> 00:06:59,370
+at some point you find these two line
+
+216
+00:06:59,370 --> 00:07:03,070
+items here largest losing trade was 24.6
+
+217
+00:07:03,070 --> 00:07:06,630
+% and largest winning trade was 132%
+
+218
+00:07:06,630 --> 00:07:08,850
+on one trade that means that it didn't
+
+219
+00:07:08,850 --> 00:07:12,070
+lose 70% but the max drawdown is
+
+220
+00:07:12,070 --> 00:07:14,550
+an indicator that is important because it is
+
+221
+00:07:14,550 --> 00:07:17,690
+psychologically problematic if you have a trade that
+
+222
+00:07:17,690 --> 00:07:20,930
+is potentially 70% in minus because you
+
+223
+00:07:20,930 --> 00:07:23,010
+might sell manually instead of letting it play
+
+224
+00:07:23,010 --> 00:07:25,030
+out and rebound right so a strategy like
+
+225
+00:07:25,030 --> 00:07:26,970
+that it's quite risky and I would never
+
+226
+00:07:26,970 --> 00:07:28,990
+use such a strategy because it has a
+
+227
+00:07:28,990 --> 00:07:31,590
+higher drawdown than 50% and 50%
+
+228
+00:07:31,590 --> 00:07:34,330
+is also hardcore to sustain you can choose
+
+229
+00:07:34,330 --> 00:07:36,350
+if you can stomach 70% because you
+
+230
+00:07:36,350 --> 00:07:39,950
+trust the overall outcome well then perfect then
+
+231
+00:07:39,950 --> 00:07:41,770
+use it and then you can see here
+
+232
+00:07:41,770 --> 00:07:44,030
+that it had a 49% chance of
+
+233
+00:07:44,030 --> 00:07:46,050
+winning trades which is quite good as well
+
+234
+00:07:46,050 --> 00:07:47,550
+so as you can see on the chart
+
+235
+00:07:47,550 --> 00:07:48,790
+if we zoom in a little bit and
+
+236
+00:07:48,790 --> 00:07:51,010
+see how it performed in the last bull
+
+237
+00:07:51,010 --> 00:07:53,090
+market what did it do there you can
+
+238
+00:07:53,090 --> 00:07:54,990
+see it was buying here at ten thousand
+
+239
+00:07:54,990 --> 00:07:57,530
+seven hundred sixty six which is even earlier
+
+240
+00:07:57,530 --> 00:07:59,310
+than the other one and then it sold
+
+241
+00:07:59,310 --> 00:08:02,610
+here with the profit of 67% then
+
+242
+00:08:02,610 --> 00:08:04,630
+it went back in here made another profit
+
+243
+00:08:04,630 --> 00:08:06,850
+of 55% by the way in the
+
+244
+00:08:06,850 --> 00:08:09,430
+bull market almost any strategy makes money the
+
+245
+00:08:09,430 --> 00:08:12,570
+magic is to sell before it falls off
+
+246
+00:08:12,570 --> 00:08:14,170
+a cliff now let's see how it performed
+
+247
+00:08:14,170 --> 00:08:15,770
+in that case so as you can see
+
+248
+00:08:15,770 --> 00:08:18,010
+here it made another trade that was profitable
+
+249
+00:08:18,010 --> 00:08:20,790
+27% and then it started actually losing
+
+250
+00:08:20,790 --> 00:08:22,630
+a little bit of money 8% here
+
+251
+00:08:22,630 --> 00:08:25,530
+and then here like 0% basically 5
+
+252
+00:08:25,530 --> 00:08:27,070
+% and why is that because it started
+
+253
+00:08:27,070 --> 00:08:29,310
+to be a sideways market and let's see
+
+254
+00:08:29,310 --> 00:08:31,650
+so it protected from a downside of 40
+
+255
+00:08:31,650 --> 00:08:33,830
+% that's quite nice then it made some
+
+256
+00:08:33,830 --> 00:08:36,270
+well not so smart trades here losing 13
+
+257
+00:08:36,270 --> 00:08:38,789
+% not really necessary and then it made
+
+258
+00:08:38,789 --> 00:08:41,750
+another profit here that's nice 30% and
+
+259
+00:08:41,750 --> 00:08:43,450
+let's see what it did in the massive
+
+260
+00:08:43,450 --> 00:08:46,130
+bear market it sold here that's fine but
+
+261
+00:08:46,130 --> 00:08:48,350
+then it bought here lost bought here lost
+
+262
+00:08:48,350 --> 00:08:50,710
+lost yeah so it's a bit more risky
+
+263
+00:08:50,710 --> 00:08:52,390
+as you can see that's why the drawdown
+
+264
+00:08:52,390 --> 00:08:54,250
+is higher as well so yeah it protected
+
+265
+00:08:54,250 --> 00:08:56,230
+but it's not as easy to use I
+
+266
+00:08:56,230 --> 00:08:58,870
+think as the super trend strategy still better
+
+267
+00:08:58,870 --> 00:09:00,730
+than what most people did because most people
+
+268
+00:09:00,730 --> 00:09:03,110
+actually lost money even this strategy if it
+
+269
+00:09:03,110 --> 00:09:04,770
+buys and sells and loses a little bit
+
+270
+00:09:04,770 --> 00:09:07,050
+it made a lot of profit beforehand to
+
+271
+00:09:07,050 --> 00:09:09,290
+compensate for a few losses let's see how
+
+272
+00:09:09,290 --> 00:09:11,290
+it's performing right now on the current price
+
+273
+00:09:11,290 --> 00:09:13,110
+and the current market we can see here
+
+274
+00:09:13,110 --> 00:09:15,650
+that it bought in at 28,000 that's
+
+275
+00:09:15,650 --> 00:09:17,830
+good and then it sold over here with
+
+276
+00:09:17,830 --> 00:09:20,570
+48% profit that is nice then somehow
+
+277
+00:09:20,570 --> 00:09:22,530
+it made a loss here 3% not
+
+278
+00:09:22,530 --> 00:09:24,550
+really necessary and now it's in the trade
+
+279
+00:09:24,550 --> 00:09:26,410
+and it's also in profit so right now
+
+280
+00:09:26,410 --> 00:09:28,950
+it seems to actually capture the current trend
+
+281
+00:09:28,950 --> 00:09:32,010
+would I use the strategy myself no because
+
+282
+00:09:32,010 --> 00:09:33,810
+it has a high drawdown and it also
+
+283
+00:09:33,810 --> 00:09:35,770
+seems to be trading way too often for
+
+284
+00:09:35,770 --> 00:09:38,050
+my taste I rather trade less often but
+
+285
+00:09:38,050 --> 00:09:40,870
+then be right more often but my argument
+
+286
+00:09:40,870 --> 00:09:43,790
+is that most people maybe including you would
+
+287
+00:09:43,790 --> 00:09:46,110
+be better off using a strategy like that
+
+288
+00:09:46,110 --> 00:09:48,830
+compared to trading with emotions and listening to
+
+289
+00:09:48,830 --> 00:09:51,050
+social media people giving you buy and sell
+
+290
+00:09:51,050 --> 00:09:53,510
+signals which you cannot back test as efficiently
+
+291
+00:09:53,510 --> 00:09:55,450
+as you can a strategy like this where
+
+292
+00:09:55,450 --> 00:09:56,690
+you see the numbers in front of you
+
+293
+00:09:56,690 --> 00:09:59,170
+and you can decide which strategy to use
+
+294
+00:09:59,170 --> 00:10:02,270
+based on actual proof and mathematics and not
+
+295
+00:10:02,270 --> 00:10:04,430
+based on emotions but there's more let's go
+
+296
+00:10:04,430 --> 00:10:06,470
+to the third strategy okay this strategy is
+
+297
+00:10:06,470 --> 00:10:09,530
+quite funny actually because it's called moon phases
+
+298
+00:10:09,530 --> 00:10:11,730
+now what do you think that is well
+
+299
+00:10:11,730 --> 00:10:13,590
+you look at the moon and depending on
+
+300
+00:10:13,590 --> 00:10:15,330
+how the moon is you buy Bitcoin and
+
+301
+00:10:15,330 --> 00:10:18,390
+you sell Bitcoin yeah somebody developed that crazy
+
+302
+00:10:18,390 --> 00:10:22,310
+strategy funny enough it is in profit 651
+
+303
+00:10:22,310 --> 00:10:24,530
+% over the whole time frame of Bitcoin
+
+304
+00:10:24,530 --> 00:10:26,930
+that is not a great performance but still
+
+305
+00:10:26,930 --> 00:10:30,910
+and 81% max drawdown horrible but funny
+
+306
+00:10:30,910 --> 00:10:32,810
+enough 60% of the time it is
+
+307
+00:10:32,810 --> 00:10:35,290
+correct buying and selling in a profit if
+
+308
+00:10:35,290 --> 00:10:36,590
+we zoom out here we can see that
+
+309
+00:10:36,590 --> 00:10:40,090
+it traded from December 2014 and then until
+
+310
+00:10:40,090 --> 00:10:43,690
+December 2021 and then since then somehow it
+
+311
+00:10:43,690 --> 00:10:45,930
+didn't trade maybe because the data was not
+
+312
+00:10:45,930 --> 00:10:48,770
+updated about the moon phases because the strategy
+
+313
+00:10:48,770 --> 00:10:50,710
+needs to have some input from somewhere about
+
+314
+00:10:50,710 --> 00:10:52,750
+the moon phases otherwise it can't trade so
+
+315
+00:10:52,750 --> 00:10:54,230
+I don't know let's give it the benefit
+
+316
+00:10:54,230 --> 00:10:55,550
+of the doubt and say that it would
+
+317
+00:10:55,550 --> 00:10:57,950
+have continued the same way as it has
+
+318
+00:10:57,950 --> 00:10:59,830
+in the past of course you should not
+
+319
+00:10:59,830 --> 00:11:01,530
+use the strategy but I wanted to show
+
+320
+00:11:01,530 --> 00:11:03,270
+you that there are crazy strategies like this
+
+321
+00:11:03,270 --> 00:11:05,650
+which are in profit while most people are
+
+322
+00:11:05,650 --> 00:11:08,650
+losing money even moon phases are better than
+
+323
+00:11:08,650 --> 00:11:10,830
+what most people are doing okay but seriously
+
+324
+00:11:10,830 --> 00:11:13,950
+let's go to the actual third strategy I
+
+325
+00:11:13,950 --> 00:11:15,390
+want to show you the third strategy is
+
+326
+00:11:15,390 --> 00:11:17,190
+quite crazy as you can see there is
+
+327
+00:11:17,190 --> 00:11:19,410
+a lot happening in the background but why
+
+328
+00:11:19,410 --> 00:11:21,330
+I'm choosing this one is because it's not
+
+329
+00:11:21,330 --> 00:11:23,570
+trading that much and I really enjoy that
+
+330
+00:11:23,570 --> 00:11:25,150
+so let's go very quickly through the numbers
+
+331
+00:11:25,150 --> 00:11:26,810
+you already know how to look at them
+
+332
+00:11:26,810 --> 00:11:28,050
+and by the way this is the name
+
+333
+00:11:28,050 --> 00:11:29,970
+of the strategy yes it's crazy I will
+
+334
+00:11:29,970 --> 00:11:31,810
+not speak it out loud but you will
+
+335
+00:11:31,810 --> 00:11:33,910
+find it down below so you can copy
+
+336
+00:11:33,910 --> 00:11:35,730
+paste it and then you pick the one
+
+337
+00:11:35,730 --> 00:11:37,970
+from Duke of Dolman click on it so
+
+338
+00:11:37,970 --> 00:11:40,710
+three thousand three hundred sixty percent net profit
+
+339
+00:11:40,710 --> 00:11:42,750
+since the beginning of Bitcoin with the max
+
+340
+00:11:42,750 --> 00:11:45,170
+drawdown below fifty percent so that's forty four
+
+341
+00:11:45,170 --> 00:11:47,410
+forty five percent it wins forty eight percent
+
+342
+00:11:47,410 --> 00:11:49,190
+of the time and it doesn't trade that
+
+343
+00:11:49,190 --> 00:11:50,810
+often what I mean by that when you
+
+344
+00:11:50,810 --> 00:11:52,390
+zoom in here and you try to ignore
+
+345
+00:11:52,390 --> 00:11:54,410
+all the lines instead you are looking only
+
+346
+00:11:54,410 --> 00:11:56,850
+at the buy and sell arrows you can
+
+347
+00:11:56,850 --> 00:11:59,110
+see that it was buying here and then
+
+348
+00:11:59,110 --> 00:12:01,550
+selling here so that's nice just one trade
+
+349
+00:12:01,550 --> 00:12:03,630
+keep it simple right it made three hundred
+
+350
+00:12:03,630 --> 00:12:05,910
+sixty six percent profit and then it protected
+
+351
+00:12:05,910 --> 00:12:08,510
+from the downside nicely forty four percent downside
+
+352
+00:12:08,510 --> 00:12:11,110
+protection and then only bought back in here
+
+353
+00:12:11,110 --> 00:12:13,730
+and then sold here with basically five percent
+
+354
+00:12:13,730 --> 00:12:15,450
+profit that's fine and then it made a
+
+355
+00:12:15,450 --> 00:12:18,630
+loss here this was 14% loss but
+
+356
+00:12:18,630 --> 00:12:21,550
+then it actually protected from the downside again
+
+357
+00:12:21,550 --> 00:12:24,010
+quite nicely made another loss here but then
+
+358
+00:12:24,010 --> 00:12:27,150
+again it protected from the downside massively because
+
+359
+00:12:27,150 --> 00:12:29,650
+it sold here at forty thousand and then
+
+360
+00:12:29,650 --> 00:12:31,510
+didn't buy back in for a long time
+
+361
+00:12:31,510 --> 00:12:33,630
+which is good because the price crashed down
+
+362
+00:12:33,630 --> 00:12:36,310
+minus sixty percent and that capital was protected
+
+363
+00:12:36,310 --> 00:12:37,870
+and then it went back in here in
+
+364
+00:12:37,870 --> 00:12:41,010
+January 2023 started to make some profit 28
+
+365
+00:12:41,010 --> 00:12:42,510
+% and so on and so on and
+
+366
+00:12:42,510 --> 00:12:44,250
+now let's look at the current state of
+
+367
+00:12:44,250 --> 00:12:46,430
+affairs in the current market conditions is doing
+
+368
+00:12:46,430 --> 00:12:48,150
+quite well it was buying here at twenty
+
+369
+00:12:48,150 --> 00:12:50,550
+seven thousand five hundred and then selling here
+
+370
+00:12:50,550 --> 00:12:53,230
+at forty two thousand five hundred making a
+
+371
+00:12:53,230 --> 00:12:55,210
+profit of fifty four percent that's quite nice
+
+372
+00:12:55,210 --> 00:12:56,890
+and currently it is in a trade as
+
+373
+00:12:56,890 --> 00:12:58,550
+you can see here I think it bought
+
+374
+00:12:58,550 --> 00:13:00,510
+in a bit late but still it's in
+
+375
+00:13:00,510 --> 00:13:02,590
+profit and let's see what's gonna happen here
+
+376
+00:13:02,590 --> 00:13:04,650
+overall this is a decent strategy it made
+
+377
+00:13:04,650 --> 00:13:06,830
+good profit and also it is below fifty
+
+378
+00:13:06,830 --> 00:13:09,230
+percent drawdown which I like it doesn't trade
+
+379
+00:13:09,230 --> 00:13:11,110
+too much so this could be a strategy
+
+380
+00:13:11,110 --> 00:13:13,410
+that I use but do I use such
+
+381
+00:13:13,410 --> 00:13:15,010
+a strategy do I use any of these
+
+382
+00:13:15,010 --> 00:13:17,070
+strategies that I showed you in this video
+
+383
+00:13:17,070 --> 00:13:18,650
+but before I talk about what I do
+
+384
+00:13:18,650 --> 00:13:19,910
+I want to add some more value to
+
+385
+00:13:19,910 --> 00:13:21,730
+you I have a video showing you how
+
+386
+00:13:21,730 --> 00:13:24,190
+to automate buying and selling from all of
+
+387
+00:13:24,190 --> 00:13:26,750
+these strategies actually any strategy from trading view
+
+388
+00:13:26,750 --> 00:13:28,650
+you can automate buying and selling on your
+
+389
+00:13:28,650 --> 00:13:30,750
+exchange you can get the signals you can
+
+390
+00:13:30,750 --> 00:13:32,510
+send them to your exchange and they will
+
+391
+00:13:32,510 --> 00:13:34,370
+actually buy and sell okay if you want
+
+392
+00:13:34,370 --> 00:13:35,670
+to do that because you want to have
+
+393
+00:13:35,670 --> 00:13:37,670
+an hands-off approach and you want to
+
+394
+00:13:37,670 --> 00:13:40,630
+eliminate emotions by just letting it happen right
+
+395
+00:13:40,630 --> 00:13:42,970
+automatically then check out the video it's quite
+
+396
+00:13:42,970 --> 00:13:44,730
+nice it might actually change the way that
+
+397
+00:13:44,730 --> 00:13:46,690
+you invest okay let's go back to what
+
+398
+00:13:46,690 --> 00:13:48,270
+we wanted to talk about which is what
+
+399
+00:13:48,270 --> 00:13:50,070
+I'm doing am I using any of these
+
+400
+00:13:50,070 --> 00:13:52,030
+strategies am I doing other things what am
+
+401
+00:13:52,030 --> 00:13:54,630
+I doing well I'm an engineer and that's
+
+402
+00:13:54,630 --> 00:13:57,170
+why I like automation and I spend quite
+
+403
+00:13:57,170 --> 00:13:59,650
+a lot of time thinking about my own
+
+404
+00:13:59,650 --> 00:14:02,890
+strategies so I created my own okay I
+
+405
+00:14:02,890 --> 00:14:04,770
+can show you one of those strategies here
+
+406
+00:14:04,770 --> 00:14:06,390
+in the back you do not have access
+
+407
+00:14:06,390 --> 00:14:08,670
+to this because this is VIP only don't
+
+408
+00:14:08,670 --> 00:14:10,210
+worry about it so do not search for
+
+409
+00:14:10,210 --> 00:14:11,450
+it in trading view but I want to
+
+410
+00:14:11,450 --> 00:14:14,290
+show you the comparison between the free strategies
+
+411
+00:14:14,290 --> 00:14:16,430
+which are still better than what most people
+
+412
+00:14:16,430 --> 00:14:19,850
+are doing and professional strategies for example like
+
+413
+00:14:19,850 --> 00:14:22,690
+this one same chart Bitcoin it made a
+
+414
+00:14:22,690 --> 00:14:26,170
+net profit of seven hundred twenty three thousand
+
+415
+00:14:26,170 --> 00:14:30,010
+percent with a max drawdown of 17 let's
+
+416
+00:14:30,010 --> 00:14:33,390
+say 18% rounding up also it didn't
+
+417
+00:14:33,390 --> 00:14:36,450
+trade a lot and it won 63%
+
+418
+00:14:36,450 --> 00:14:38,450
+of the time you have seen the other
+
+419
+00:14:38,450 --> 00:14:40,950
+strategies now you can compare the numbers so
+
+420
+00:14:40,950 --> 00:14:42,730
+now you know what I'm talking about my
+
+421
+00:14:42,730 --> 00:14:45,370
+point still stands any of the other three
+
+422
+00:14:45,370 --> 00:14:47,650
+strategies I showed you are better than what
+
+423
+00:14:47,650 --> 00:14:49,870
+most people are doing better than maybe what
+
+424
+00:14:49,870 --> 00:14:51,490
+you are doing and I'm here to help
+
+425
+00:14:51,490 --> 00:14:53,070
+that's why I'm sharing with you all of
+
+426
+00:14:53,070 --> 00:14:55,350
+this information what I think is the best
+
+427
+00:14:55,350 --> 00:14:58,650
+is to automate the strategy okay because otherwise
+
+428
+00:14:58,650 --> 00:15:00,150
+it's quite hard to stick to it there
+
+429
+00:15:00,150 --> 00:15:02,030
+is a lot of emotion involved right there
+
+430
+00:15:02,030 --> 00:15:04,270
+is a good signal but then you hesitate
+
+431
+00:15:04,270 --> 00:15:06,710
+right or it's weekend or you're on vacation
+
+432
+00:15:06,710 --> 00:15:08,490
+or whatever right that's why I really like
+
+433
+00:15:08,490 --> 00:15:10,310
+automation this is why I'm telling you watch
+
+434
+00:15:10,310 --> 00:15:12,390
+the video I mentioned before because it shows
+
+435
+00:15:12,390 --> 00:15:14,910
+you how to automate strategies even if you
+
+436
+00:15:14,910 --> 00:15:16,550
+choose one of those I showed you before
+
+437
+00:15:16,550 --> 00:15:19,370
+they're good enough for starting with automation and
+
+438
+00:15:19,370 --> 00:15:21,250
+once you have your feet wet you can
+
+439
+00:15:21,250 --> 00:15:24,050
+go further and further and improve your performance
+
+440
+00:15:24,050 --> 00:15:26,430
+and reduce your drawdown also you can talk
+
+441
+00:15:26,430 --> 00:15:27,690
+to me as well if you like you
+
+442
+00:15:27,690 --> 00:15:28,990
+have a link down below you can book
+
+443
+00:15:28,990 --> 00:15:31,710
+a call we can talk automation makes sense
+
+444
+00:15:31,710 --> 00:15:33,630
+and it's very easy to set up and
+
+445
+00:15:33,630 --> 00:15:35,450
+this is what I'm all about so finding
+
+446
+00:15:35,450 --> 00:15:37,690
+a good strategy automating the strategy and then
+
+447
+00:15:37,690 --> 00:15:40,010
+sticking to the strategy this is the winning
+
+448
+00:15:40,010 --> 00:15:42,250
+recipe alright I hope I inspired you to
+
+449
+00:15:42,250 --> 00:15:44,370
+check this out even further all the links
+
+450
+00:15:44,370 --> 00:15:46,490
+that you need are down below and while
+
+451
+00:15:46,490 --> 00:15:48,370
+you are down below there you can also
+
+452
+00:15:48,370 --> 00:15:50,510
+click the like button and also the subscribe
+
+453
+00:15:50,510 --> 00:15:52,410
+button and while you're there you can also
+
+454
+00:15:52,410 --> 00:15:54,430
+click the bell why because I'm here to
+
+455
+00:15:54,430 --> 00:15:56,710
+make you money literally I'm showing you how
+
+456
+00:15:56,710 --> 00:15:59,290
+to find strategies automate strategies which strategies are
+
+457
+00:15:59,290 --> 00:16:01,490
+good and I'm even sharing with you the
+
+458
+00:16:01,490 --> 00:16:04,370
+signals from my own strategies actually just for
+
+459
+00:16:04,370 --> 00:16:06,770
+Bitcoin but still so join my telegram group
+
+460
+00:16:06,770 --> 00:16:08,450
+where you can get all the Bitcoin signals
+
+461
+00:16:08,450 --> 00:16:11,210
+there for free and now we have deserved
+
+462
+00:16:11,210 --> 00:16:13,650
+a coffee so get yours and I see
+
+463
+00:16:13,650 --> 00:16:16,130
+you in the next video Cheers

@@ -1,0 +1,113 @@
+(0:06 - 0:22)
+What you are looking at is an option chain of Netflix, and these options have 37 days until they expire. Here are the out of the money calls and puts, and we know that if these options remain out of the money, they will gradually go to zero. And I'll just show you an example here.
+
+(0:22 - 0:32)
+Let's just reference the 90 strike put. It's trading at 335 by 350. Now let's fast forward to the options that expire in just two days.
+
+(0:32 - 0:51)
+You can see that they are all much cheaper. And if you look at the 90 strike put that expires in two days, it's only at 11 cents by 15 cents, whereas the 90 strike put with 37 days to expiration is at 335 by 350. So each and every day, time premium is sucked out of these options.
+
+(0:51 - 1:08)
+Now if you buy options, you already know that you are constantly fighting this time decay. Instead of fighting it, we prefer to let it work for us and make us money. Let me show you one of our favorite option strategies that you can start utilizing immediately to put time decay in your favor, even with a small account.
+
+(1:09 - 1:26)
+We can achieve this by trading an iron condor. So what exactly is an iron condor? Don't let the name intimidate you, it's actually very simple. The first part of an iron condor consists of selling to open an out of the money put, and simultaneously selling to open an out of the money call.
+
+(1:27 - 1:49)
+We would do this in hopes that between now and expiration, the stock will stay in between the strikes and the options we sold will go to zero. If this is the case, we will keep the entire price we sold these options for. But since short naked options can have a lot of risk and can require a lot of capital, we are also going to buy a further out of the money put and call for protection.
+
+(1:50 - 2:00)
+These four option trades are collectively called an iron condor. But we're selling two options and buying two options. So how does this work? Well let me show you.
+
+(2:00 - 2:16)
+Stock XYZ is trading at $75 per share. Let's sell the 85 call for $2, and we're also going to sell the 65 put for $2. And our idea is that the stock will stay in between these strikes and the options we sold will expire worthless.
+
+(2:16 - 2:38)
+But again, since naked options theoretically have unlimited risk, we are going to buy some protection. So we're also going to buy the 90 call for $1, and the 60 put for $1. And I know that keeping track with all of these individual option trades seems like a lot to keep up with, but we can actually trade an iron condor with one order and view it as one trade.
+
+(2:38 - 2:53)
+And I'm going to show you how to do that in the end of the video, but for now just stick with me. Let's say we initiated this trade with 30 days to expiration. And as time passes and we near expiration, let's say the stock doesn't move much and just kind of bounces around and trades sideways.
+
+(2:54 - 3:13)
+So as we near expiration, these options remain out of the money and the price of each option gradually goes to zero. If all of these options are worthless, what does that mean for our trade? Well we make $200 on the 85 call and also on the 65 put. Because we are short those options and they are now at zero.
+
+(3:13 - 3:30)
+So we collected a credit, and since they are of no value, we get to keep that credit. Okay, but we also lost some money on the options we bought as protection. We lost $100 on the 90 strike call and also on the 60 strike put, because we bought these options and they now have no value.
+
+(3:31 - 3:54)
+Adding all of these numbers up totals to a net profit of $200, because we made $400 on the short options and lost $200 on the long options. So by trading an iron condor, we are simply betting that the stock will stay within a certain range and we treat it as one trade. We lost money on the long call and put, but that's exactly what we want to happen, because we simply bought these options as protection.
+
+(3:54 - 4:15)
+It's kind of like, we pay for car insurance, but we don't actually want to crash our car. So now that you know how we make money on the trade, let me show you how we can lose money and also how much we can lose. Let's say the stock goes crazy and although it was completely unexpected, it goes well outside of our range we wanted it to stay in and ends up at $96 per share.
+
+(4:16 - 4:30)
+Well we already know that both the long put and the short put are out of the money and are worthless. So we made $200 on the short put and lost $100 on the long put. So this totals to a net profit of $100 on the puts.
+
+(4:31 - 5:02)
+But what about the calls? The 85 call is 11 points in the money, so it's worth 11, and the 90 call is 6 points in the money, so it's worth 6. We are short the 85 call at 2, and it's at 11, so this means we lost 9 points, or $900 on that leg of the trade. So that sucks, but fortunately we bought the 90 call for protection. We paid $1 for the 90 call, and it's now trading at 6. So we made $500 on that leg of the trade.
+
+(5:02 - 5:17)
+This $500 and the $100 we made on the put side cancels out much of the $900 we lost on the short call. Adding up all of these numbers totals to a net loss of $300 on the entire trade. Now this is the cool part.
+
+(5:17 - 5:40)
+We lost $300 on the entire trade, but that's the maximum amount we can lose on this trade no matter where the stock is. It doesn't matter if the stock goes to 104, 25, 0, infinity, whatever the case may be, we can't lose more than $300 on this trade. And the way we end up with this max loss is if the stock is outside of our long option strikes at the expiration date.
+
+(5:41 - 5:53)
+Now I keep mentioning how we treat this trade as one trade. When we trade an iron condor, we are usually just monitoring the price of the iron condor as a whole. Check out this iron condor we just opened in Facebook.
+
+(5:53 - 6:14)
+You can see that when we trade an iron condor, the platform automatically calculates everything for us. We are able to see the individual legs of the trade, but we are also able to see the total net prices. In this example, you can see we sold this iron condor at $1.12, it's currently trading at $0.82, and we have a profit of just $30 on the trade.
+
+(6:14 - 6:34)
+When trading an iron condor, our maximum potential profit is simply the price we sold the iron condor for. In this example, we sold the iron condor for a net price of $2, so our maximum profit is $200. Our maximum loss is simply the width between our short and long strikes minus our net entry price.
+
+(6:34 - 6:49)
+So in this case, our strikes are 5 points wide on both the call and put side. And if we subtract our entry price from that, we get a max loss of 3 points, or $300. This $300 is also our capital requirement for the trade.
+
+(6:50 - 7:18)
+This is the reason the iron condor is so powerful, because we can sell option premium with very little risk, and also without the large capital requirement. Now our break-even prices that we need the stock to stay between is just our entry price plus the short call strike, and on the downside, it's our short put strike minus our entry price. And at the expiration date, if the stock stays within this range, then we make money, and if the stock is outside of this range, then we lose money.
+
+(7:19 - 7:39)
+And I know this seems like a lot to keep up with, but check this out. Before entering the trade, the thinkorswim platform will calculate all of this information for you. On this pop-up box, you can see your max profit on the trade is $200, your max loss is $300, and the range you need the stock to stay between for you to at least break-even is 63 and 87.
+
+(7:40 - 7:58)
+So before you trade an iron condor, just be sure to check this pop-up box before sending the order. And also, if you are a member of our website, we will help you with your first iron condor trades to make sure you don't click any wrong buttons or mess anything up. Now let me show you how to pull up an order to trade an iron condor.
+
+(7:58 - 8:19)
+Let's say that we want to collect time decay in Tesla options, but we aren't necessarily bullish or bearish on the stock. To do this, we're going to trade an iron condor, and the strikes we choose are going to give us a neutral stance on the stock. First, before we build the iron condor, we need to add the probability in the money column to our option chain.
+
+(8:19 - 8:37)
+If you are using a platform that doesn't have this feature, then you can use Delta instead. For this example, we're going to trade an iron condor with 30 days to expiration. You are free to choose whatever expiration you want to trade in, but we prefer to initiate our trades with 30 to 60 days to expiration.
+
+(8:37 - 8:50)
+Now, for starters, let's find a call with a probability in the money of 13%. That brings us to the 260 call. We're going to right click on the bid, click sell, iron condor.
+
+(8:50 - 9:04)
+In this case, it defaulted to 5 points wide, which is what we're going to stick with in this example. So you see we're selling the 260 call and buying the 265 call for protection. Now we just have to select our put strikes.
+
+(9:04 - 9:35)
+Since we want to place a trade that is directionally neutral, we will find a put that has the same probability in the money as our call did. Scrolling up, we can find the put that has a probability in the money of around 13. And that brings us to the strike of 187.50. So we're just going to adjust the short put strike on our order to 187.50 and then adjust the long put to 5 points further out of the money to 182.50. Now, if we click confirm and send, we can see our max profit is $101.
+
+(9:36 - 9:58)
+Our max loss is $399. And the range we need Tesla to stay between is 186.49 and 261.01. This gives us a nice wide range for us to make a profit. So the trade has a very high probability of success, but it has a poor risk to reward because our max profit is only 101 and our max loss is 399.
+
+(9:58 - 10:17)
+What we could do is just simply move in our strikes a bit. This will lower our probability of success because it will narrow the range we need Tesla to stay within, but in exchange for this, we will collect a bigger credit for the trade which improves our risk to reward. So let's move the strikes in 10 points on both sides.
+
+(10:18 - 10:35)
+You can see our credit is now 170 rather than just 101. Now let's see what this iron condor will be trading at in the future if the stock price and implied volatility doesn't move. To do this, we can just look at the same trade but with only 2 days to expiration rather than 30.
+
+(10:36 - 10:47)
+So we're just going to change the expiration of our order to the July weekly options that expire in 2 days. You can see the net price of the iron condor is just at 1 cent. We could do one of two things.
+
+(10:48 - 11:02)
+We could close this position at 1 cent for a profit, or we could try and let the options expire worthless as long as the stock stays still and the options remain out of the money. The choice is yours. And this is just one way to trade the iron condor.
+
+(11:03 - 11:18)
+There are many variations of the iron condor that you can learn about. We are able to adjust our strike selection and even vary our expirations to achieve different things. If you want to learn about these variations and also see which iron condors we are trading, head over to our website.
+
+(11:18 - 11:34)
+If you liked this video and want more like it on different trading concepts, be sure to show us your support by clicking the like and subscribe button below. Also check out our website and join our email list for 3 exclusive free videos. We even make a live iron condor trade in the third video.
+
+(11:34 - 11:35)
+So I will see you there.

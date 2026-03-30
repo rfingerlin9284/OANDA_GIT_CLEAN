@@ -1,0 +1,987 @@
+1
+00:00:00,420 --> 00:00:01,560
+So in this video, we are going to
+
+2
+00:00:01,560 --> 00:00:02,960
+make a game in 10 minutes.
+
+3
+00:00:03,059 --> 00:00:04,600
+So at the end of the video, you
+
+4
+00:00:04,600 --> 00:00:05,940
+will have something like this.
+
+5
+00:00:21,820 --> 00:00:24,080
+And we are going to use something called
+
+6
+00:00:24,080 --> 00:00:24,520
+code.
+
+7
+00:00:24,660 --> 00:00:26,480
+This is powered by Unreal Engine 4.
+
+8
+00:00:26,920 --> 00:00:30,020
+So this is quite powerful and way beyond
+
+9
+00:00:30,020 --> 00:00:31,580
+Roblox and other tools.
+
+10
+00:00:31,960 --> 00:00:33,640
+So if you want to start making games,
+
+11
+00:00:33,720 --> 00:00:35,960
+but you don't know all the aspects of
+
+12
+00:00:35,960 --> 00:00:38,140
+game development, this video is perfect for you.
+
+13
+00:00:40,560 --> 00:00:42,300
+So first I'll leave a link down in
+
+14
+00:00:42,300 --> 00:00:42,880
+the description.
+
+15
+00:00:43,100 --> 00:00:44,760
+You can click that link and you can
+
+16
+00:00:44,760 --> 00:00:45,620
+go to this website.
+
+17
+00:00:45,860 --> 00:00:47,740
+So you need to make an account here.
+
+18
+00:00:47,860 --> 00:00:50,640
+So just sign up and after signing up,
+
+19
+00:00:50,660 --> 00:00:51,680
+you can download code.
+
+20
+00:00:52,480 --> 00:00:54,320
+After installing it, you can open it.
+
+21
+00:00:54,840 --> 00:00:56,600
+So we can create a new project either
+
+22
+00:00:56,600 --> 00:00:59,820
+by selecting the empty project or we can
+
+23
+00:00:59,820 --> 00:01:02,340
+create a project using a gameplay framework.
+
+24
+00:01:03,420 --> 00:01:04,900
+So we are going to select a gameplay
+
+25
+00:01:04,900 --> 00:01:05,420
+framework.
+
+26
+00:01:05,420 --> 00:01:08,120
+And as you can see, code gives us
+
+27
+00:01:08,120 --> 00:01:10,140
+a lot of gameplay frameworks to work with.
+
+28
+00:01:10,520 --> 00:01:12,640
+So we have a battle royale, we have
+
+29
+00:01:12,640 --> 00:01:13,240
+a deathmatch.
+
+30
+00:01:13,360 --> 00:01:15,200
+So you can really make full-fledged multiplayer
+
+31
+00:01:15,200 --> 00:01:16,940
+games and you don't need to worry about
+
+32
+00:01:16,940 --> 00:01:18,160
+any networking and stuff.
+
+33
+00:01:18,320 --> 00:01:20,160
+So I'm going to do a multiplayer video
+
+34
+00:01:20,160 --> 00:01:20,520
+later.
+
+35
+00:01:20,960 --> 00:01:22,360
+But in this video, we are going to
+
+36
+00:01:22,360 --> 00:01:24,180
+use the dungeon crawler framework.
+
+37
+00:01:24,380 --> 00:01:26,660
+So you can name your project whatever you
+
+38
+00:01:26,660 --> 00:01:29,120
+like and you can just create this project.
+
+39
+00:01:31,380 --> 00:01:33,380
+And this is the interface of code.
+
+40
+00:01:35,600 --> 00:01:37,120
+Now, what we are going to do is
+
+41
+00:01:37,120 --> 00:01:38,540
+we are going to select the maps folder
+
+42
+00:01:38,540 --> 00:01:41,100
+in the hierarchy and the map folder contains
+
+43
+00:01:41,100 --> 00:01:42,700
+all the objects that are in the scene.
+
+44
+00:01:42,780 --> 00:01:44,560
+So you can select the map folder and
+
+45
+00:01:44,560 --> 00:01:46,780
+you can delete it because I'm going to
+
+46
+00:01:46,780 --> 00:01:47,660
+start from scratch.
+
+47
+00:01:48,620 --> 00:01:51,280
+After that, you can go under the core
+
+48
+00:01:51,280 --> 00:01:51,760
+content.
+
+49
+00:01:52,480 --> 00:01:55,940
+And in this core content panel, you have
+
+50
+00:01:55,940 --> 00:01:57,100
+all kinds of objects.
+
+51
+00:01:57,140 --> 00:02:00,860
+You have 3D objects, animated meshes, audio decals,
+
+52
+00:02:00,980 --> 00:02:02,320
+particle systems, materials.
+
+53
+00:02:02,680 --> 00:02:04,800
+So you have all kinds of objects here.
+
+54
+00:02:05,500 --> 00:02:07,720
+So we are going to search for sky
+
+55
+00:02:07,720 --> 00:02:10,320
+and we are going to pick the night
+
+56
+00:02:10,320 --> 00:02:10,660
+sky.
+
+57
+00:02:11,000 --> 00:02:12,920
+So this is just a skybox.
+
+58
+00:02:13,740 --> 00:02:15,160
+Actually, this is a skysphere.
+
+59
+00:02:15,640 --> 00:02:18,260
+After you have created the sky, you can
+
+60
+00:02:18,260 --> 00:02:20,560
+go in the terrain editor and you can
+
+61
+00:02:20,560 --> 00:02:21,640
+generate a new terrain.
+
+62
+00:02:22,340 --> 00:02:24,660
+I'm going to generate a flat terrain and
+
+63
+00:02:24,660 --> 00:02:26,340
+you can click the generate button.
+
+64
+00:02:34,100 --> 00:02:36,180
+After that, we are going to search for
+
+65
+00:02:36,180 --> 00:02:38,060
+something called as a spawn point.
+
+66
+00:02:38,060 --> 00:02:41,080
+And this spawn point object decides the position
+
+67
+00:02:41,080 --> 00:02:42,860
+of the player in the beginning of the
+
+68
+00:02:42,860 --> 00:02:43,060
+game.
+
+69
+00:02:43,520 --> 00:02:45,540
+So you can drag the spawn point object
+
+70
+00:02:45,540 --> 00:02:46,220
+in your scene.
+
+71
+00:02:47,260 --> 00:02:49,700
+And if you test it out, the player
+
+72
+00:02:49,700 --> 00:02:51,040
+spawns at that position.
+
+73
+00:02:54,000 --> 00:02:56,240
+So let's give our terrain a material.
+
+74
+00:02:56,900 --> 00:02:59,060
+So you can go under the material section.
+
+75
+00:03:05,040 --> 00:03:07,520
+So I'm going to use this triplanar landscape
+
+76
+00:03:07,520 --> 00:03:07,980
+material.
+
+77
+00:03:09,740 --> 00:03:12,120
+After you have selected your material, you can
+
+78
+00:03:12,120 --> 00:03:14,600
+sculpt the terrain and by default, you have
+
+79
+00:03:14,600 --> 00:03:16,220
+the surface tool selected.
+
+80
+00:03:17,160 --> 00:03:19,100
+So there are a lot of brushes that
+
+81
+00:03:19,100 --> 00:03:20,560
+you can use to sculpt your terrain.
+
+82
+00:03:25,120 --> 00:03:27,600
+After you have done sculpting, you can select
+
+83
+00:03:27,600 --> 00:03:30,100
+the smooth tool and you can just smooth
+
+84
+00:03:30,100 --> 00:03:31,820
+this out and this will give your terrain
+
+85
+00:03:31,820 --> 00:03:32,960
+a very natural look.
+
+86
+00:03:33,960 --> 00:03:35,640
+So just smooth this out and I will
+
+87
+00:03:35,640 --> 00:03:37,600
+recommend you that you play with all these
+
+88
+00:03:37,600 --> 00:03:38,100
+brushes.
+
+89
+00:03:38,460 --> 00:03:40,360
+You can really make some interesting things with
+
+90
+00:03:40,360 --> 00:03:40,600
+this.
+
+91
+00:03:42,180 --> 00:03:44,380
+So after we are done sculpting, we are
+
+92
+00:03:44,380 --> 00:03:45,480
+going to add some foliage.
+
+93
+00:03:46,100 --> 00:03:48,540
+So under the foliage panel, so you can
+
+94
+00:03:48,540 --> 00:03:50,160
+search for grass and you can add the
+
+95
+00:03:50,160 --> 00:03:50,500
+grass.
+
+96
+00:03:51,900 --> 00:03:54,760
+You can change the distance between each grass.
+
+97
+00:03:55,020 --> 00:03:57,360
+So if you decrease the distance, you get
+
+98
+00:03:57,360 --> 00:03:58,620
+a very dense looking grass.
+
+99
+00:04:06,280 --> 00:04:08,160
+So now our grass is looking good.
+
+100
+00:04:08,360 --> 00:04:09,800
+You can stop here, but I'm going to
+
+101
+00:04:09,800 --> 00:04:10,820
+add one more grass.
+
+102
+00:04:10,820 --> 00:04:12,600
+So I'm going to add the tall grass.
+
+103
+00:04:13,140 --> 00:04:14,820
+Variation is the key thing while you are
+
+104
+00:04:14,820 --> 00:04:16,760
+creating natural looking scenes.
+
+105
+00:04:19,959 --> 00:04:21,580
+We are going to add some trees now
+
+106
+00:04:21,580 --> 00:04:23,580
+and this is quite similar to how we
+
+107
+00:04:23,580 --> 00:04:24,860
+added our grass meshes.
+
+108
+00:04:39,090 --> 00:04:41,310
+So our forest scene looks pretty good.
+
+109
+00:04:41,730 --> 00:04:43,290
+So now we are going to select the
+
+110
+00:04:43,290 --> 00:04:45,250
+spawn point and I'm going to add a
+
+111
+00:04:45,250 --> 00:04:46,810
+mesh on our spawn point.
+
+112
+00:04:47,530 --> 00:04:50,070
+So this will sort of define the starting
+
+113
+00:04:50,070 --> 00:04:51,050
+position of our player.
+
+114
+00:04:51,870 --> 00:04:53,810
+So this is just for visual purposes.
+
+115
+00:04:54,130 --> 00:04:56,450
+So you can search for an arch and
+
+116
+00:04:56,450 --> 00:04:58,590
+I'm going to add the arch mesh in
+
+117
+00:04:58,590 --> 00:04:59,090
+my scene.
+
+118
+00:05:02,190 --> 00:05:04,150
+After that, you can go in your hierarchy
+
+119
+00:05:04,150 --> 00:05:07,350
+and you can search for fog and you
+
+120
+00:05:07,350 --> 00:05:08,730
+can select the environment fog.
+
+121
+00:05:09,110 --> 00:05:10,750
+So you can move the fog on the
+
+122
+00:05:10,750 --> 00:05:11,170
+z-axis.
+
+123
+00:05:13,990 --> 00:05:15,850
+So after you have changed the height of
+
+124
+00:05:15,850 --> 00:05:17,490
+your fog, you can change the color of
+
+125
+00:05:17,490 --> 00:05:17,890
+this fog.
+
+126
+00:05:25,500 --> 00:05:27,860
+You can also turn on the volumetric fog
+
+127
+00:05:27,860 --> 00:05:30,080
+if you like, and the volumetric fog is
+
+128
+00:05:30,080 --> 00:05:30,860
+quite powerful.
+
+129
+00:05:31,120 --> 00:05:33,140
+It gives your scene a very realistic and
+
+130
+00:05:33,140 --> 00:05:34,120
+atmospheric look.
+
+131
+00:05:48,790 --> 00:05:50,410
+Now let's make things interesting.
+
+132
+00:05:50,690 --> 00:05:52,650
+At the moment, we don't have any enemies
+
+133
+00:05:52,650 --> 00:05:53,250
+in our scene.
+
+134
+00:05:53,610 --> 00:05:55,050
+So let's add some enemies.
+
+135
+00:05:55,050 --> 00:05:58,130
+Under the project content, you can search for
+
+136
+00:05:58,130 --> 00:05:58,590
+a skeleton.
+
+137
+00:05:58,950 --> 00:06:01,250
+I'm going to add a skeleton swordsman.
+
+138
+00:06:08,990 --> 00:06:10,350
+So let's test it out.
+
+139
+00:06:14,600 --> 00:06:17,420
+So the player can damage the skeleton and
+
+140
+00:06:17,420 --> 00:06:19,200
+the skeleton can also damage the player.
+
+141
+00:06:19,640 --> 00:06:22,080
+So the combat system is working really well.
+
+142
+00:06:22,480 --> 00:06:23,800
+So this looks pretty good.
+
+143
+00:06:24,100 --> 00:06:26,400
+Now the default dagger that the player has
+
+144
+00:06:26,400 --> 00:06:27,940
+is really quite boring weapon.
+
+145
+00:06:28,520 --> 00:06:30,740
+So I'm going to search for a fire
+
+146
+00:06:30,740 --> 00:06:33,160
+sword and I'm going to add this fire
+
+147
+00:06:33,160 --> 00:06:34,660
+sword in my scene.
+
+148
+00:06:40,400 --> 00:06:43,440
+So we can equip the fire sword and
+
+149
+00:06:43,440 --> 00:06:45,460
+this fire sword has a very anime-like
+
+150
+00:06:45,460 --> 00:06:46,260
+moveset.
+
+151
+00:06:46,440 --> 00:06:47,880
+And I really like this, like it has
+
+152
+00:06:47,880 --> 00:06:49,620
+some particles for the trail effects.
+
+153
+00:06:50,340 --> 00:06:50,920
+Cool stuff.
+
+154
+00:06:51,480 --> 00:06:54,140
+After we have added the fire sword, we
+
+155
+00:06:54,140 --> 00:06:56,020
+are going to give our character the ability
+
+156
+00:06:56,020 --> 00:06:57,560
+to roll and to heal.
+
+157
+00:06:58,080 --> 00:07:00,000
+So you can go in the community content
+
+158
+00:07:00,000 --> 00:07:02,940
+and you can search for basic abilities.
+
+159
+00:07:03,740 --> 00:07:06,740
+So this will give you some basic abilities,
+
+160
+00:07:06,880 --> 00:07:08,840
+such as a healing ability and a rolling
+
+161
+00:07:08,840 --> 00:07:09,340
+ability.
+
+162
+00:07:09,580 --> 00:07:12,040
+So you can just import this package.
+
+163
+00:07:12,620 --> 00:07:13,940
+Just import this.
+
+164
+00:07:14,200 --> 00:07:16,740
+After you have imported this, you can see
+
+165
+00:07:16,740 --> 00:07:19,900
+the basic abilities package under the imported content.
+
+166
+00:07:20,180 --> 00:07:22,860
+So just add this abilities object in your
+
+167
+00:07:22,860 --> 00:07:23,100
+scene.
+
+168
+00:07:25,180 --> 00:07:28,820
+So you can select the roll object and
+
+169
+00:07:28,820 --> 00:07:31,060
+the roll object is currently bound to the
+
+170
+00:07:31,060 --> 00:07:31,940
+ability feet.
+
+171
+00:07:31,940 --> 00:07:34,680
+So the action binding is the ability feet.
+
+172
+00:07:35,080 --> 00:07:36,700
+So you can change that by going under
+
+173
+00:07:36,700 --> 00:07:37,200
+settings.
+
+174
+00:07:38,100 --> 00:07:39,880
+So as you can see, here are all
+
+175
+00:07:39,880 --> 00:07:42,080
+the abilities and the abilities are bound to
+
+176
+00:07:42,080 --> 00:07:42,960
+a certain key.
+
+177
+00:07:43,660 --> 00:07:46,200
+So the ability feet is bound to spacebar.
+
+178
+00:07:46,520 --> 00:07:48,340
+So the spacebar key will be used for
+
+179
+00:07:48,340 --> 00:07:48,960
+the roll ability.
+
+180
+00:07:50,620 --> 00:07:52,800
+After that, let's move our UI to the
+
+181
+00:07:52,800 --> 00:07:53,440
+left-hand side.
+
+182
+00:07:54,040 --> 00:07:56,080
+You could also disable this UI if you
+
+183
+00:07:56,080 --> 00:07:56,300
+like.
+
+184
+00:08:02,880 --> 00:08:04,680
+So back in our abilities, we are going
+
+185
+00:08:04,680 --> 00:08:05,720
+to select the heal ability.
+
+186
+00:08:06,060 --> 00:08:08,240
+Here are all the settings that you can
+
+187
+00:08:08,240 --> 00:08:08,640
+change.
+
+188
+00:08:09,360 --> 00:08:11,180
+So for instance, you can change whether the
+
+189
+00:08:11,180 --> 00:08:13,120
+character can move while he is healing.
+
+190
+00:08:13,300 --> 00:08:15,380
+You can set the execution time.
+
+191
+00:08:15,640 --> 00:08:18,300
+You can set the recovery rate.
+
+192
+00:08:18,440 --> 00:08:20,100
+You can also set the cooldown of this
+
+193
+00:08:20,100 --> 00:08:20,440
+ability.
+
+194
+00:08:34,730 --> 00:08:36,830
+So just to show you how much variety
+
+195
+00:08:36,830 --> 00:08:39,010
+there is, I'm going to add this ice
+
+196
+00:08:39,010 --> 00:08:39,610
+elemental.
+
+197
+00:08:40,169 --> 00:08:41,950
+The ice elemental has a very cool move
+
+198
+00:08:41,950 --> 00:08:42,190
+set.
+
+199
+00:08:49,330 --> 00:08:51,670
+So from here on, you can create more
+
+200
+00:08:51,670 --> 00:08:54,150
+interesting levels and you can add more enemies
+
+201
+00:08:54,150 --> 00:08:56,490
+and you can really pretty much make your
+
+202
+00:08:56,490 --> 00:08:56,910
+own game.
+
+203
+00:08:57,490 --> 00:08:59,770
+So after you have made your own game,
+
+204
+00:08:59,810 --> 00:09:01,050
+I'm going to show you how you can
+
+205
+00:09:01,050 --> 00:09:01,870
+publish the game.
+
+206
+00:09:02,690 --> 00:09:04,990
+So go under the file and you can
+
+207
+00:09:04,990 --> 00:09:06,530
+select the publish option.
+
+208
+00:09:07,530 --> 00:09:10,090
+And here you can define the name of
+
+209
+00:09:10,090 --> 00:09:10,490
+your game.
+
+210
+00:09:11,070 --> 00:09:12,850
+You can write a short summary about your
+
+211
+00:09:12,850 --> 00:09:15,270
+game and you can also add tags.
+
+212
+00:09:15,670 --> 00:09:17,810
+And these tags are going to help other
+
+213
+00:09:17,810 --> 00:09:18,870
+players find your game.
+
+214
+00:09:19,510 --> 00:09:21,430
+So after you have decided the name of
+
+215
+00:09:21,430 --> 00:09:23,390
+your game, you have written a short summary
+
+216
+00:09:23,390 --> 00:09:25,250
+and you have added your tags.
+
+217
+00:09:25,370 --> 00:09:26,910
+It's time to add some screenshots.
+
+218
+00:09:27,950 --> 00:09:30,490
+So you can upload your own screenshots, but
+
+219
+00:09:30,490 --> 00:09:33,710
+there is also option to take screenshots in
+
+220
+00:09:33,710 --> 00:09:34,070
+engine.
+
+221
+00:09:34,450 --> 00:09:37,250
+So let's take a screenshot of this.
+
+222
+00:09:42,760 --> 00:09:44,740
+Let's take the screenshot of the skeleton.
+
+223
+00:09:49,450 --> 00:09:51,890
+And finally, let's take the screenshot of this
+
+224
+00:09:51,890 --> 00:09:52,650
+ice guy.
+
+225
+00:09:53,390 --> 00:09:58,770
+Make sure that the game is set to
+
+226
+00:09:58,770 --> 00:09:59,210
+public.
+
+227
+00:09:59,510 --> 00:10:01,430
+Now you can pretty much publish your game.
+
+228
+00:10:09,980 --> 00:10:11,820
+And as you can see, we have successfully
+
+229
+00:10:11,820 --> 00:10:13,080
+published our game.
+
+230
+00:10:13,320 --> 00:10:15,400
+So your game now has a link on
+
+231
+00:10:15,400 --> 00:10:16,160
+the core store.
+
+232
+00:10:16,360 --> 00:10:18,120
+So let's visit the game page.
+
+233
+00:10:18,740 --> 00:10:21,020
+So here you can see our game page
+
+234
+00:10:21,020 --> 00:10:22,680
+looks pretty similar to steam.
+
+235
+00:10:29,080 --> 00:10:32,020
+So at the end, I modified some things
+
+236
+00:10:32,020 --> 00:10:33,140
+and I changed some things.
+
+237
+00:10:33,560 --> 00:10:36,020
+So it took me around 40 to 45
+
+238
+00:10:36,020 --> 00:10:37,080
+minutes to make this.
+
+239
+00:10:37,080 --> 00:10:39,020
+So you can watch the full gameplay here.
+
+240
+00:10:39,500 --> 00:10:41,260
+But first, if you like this video, leave
+
+241
+00:10:41,260 --> 00:10:41,900
+a like down below.
+
+242
+00:10:41,960 --> 00:10:42,500
+It helps a lot.
+
+243
+00:10:42,960 --> 00:10:44,060
+Subscribe to the channel.
+
+244
+00:10:44,420 --> 00:10:45,020
+Enjoy the gameplay.
+
+245
+00:10:45,200 --> 00:10:46,460
+I'm going to see you in the next
+
+246
+00:10:46,460 --> 00:10:46,760
+video.
+
+247
+00:10:46,760 --> 00:10:47,320
+Bye.

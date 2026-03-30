@@ -1,0 +1,71 @@
+(0:00 - 1:52)
+In this video, you will see how people get rich with options trading. I will show you the math. I think that the best way to do this is running through an example, and I'm going to be honest with you from the start. 
+
+This is my warning. You can make a lot of money with options or screw it up and lose a ton of money. So if that sounds appealing to you, then strap yourself in and let's do this. 
+
+First, let me clarify this. If you're looking for a tutorial on call options and put options, then please check out my other video. That is perfect for beginners. 
+
+I will leave a link for you down below. Now let's do the math. So let's say that you have $10,000. 
+
+You're flush with cash. With that $10,000, you have a choice. You can buy stocks or stock options. 
+
+We'll run through two examples where you make a ton of money and another where you lose it all. So you're going to see how crazy this gets with stock options. I'm telling you, it's nuts. 
+
+So let's use Yelp stock as an example, and we're going to work with real numbers. Keeping it real. Yelp stock is at $36 a share. 
+
+If you use your $10,000 to buy Yelp stock, then you can buy 277 shares. If Yelp goes up by $10 from 36 to 46, you make $10 a share. You have 277 shares and you make a profit of $2,770. 
+
+So congratulations. Okay, now let's do stock options. Yelp stock is at 36 a share. 
+
+The 38 call option that expires in one month is trading for 80 cents. And keep in mind that these are real numbers. That means that a $38 call option will cost you $80.
+
+(1:53 - 2:50)
+With $10,000, you can buy 125 call options. If Yelp stock goes from 36 to 46, then you will make a profit of $90,000. Now let's compare. 
+
+Yelp stock went from 36 to 46 in one month. If you bought the stock, your profit is $2,770. If you bought the options, your profits is $90,000. 
+
+Now listen carefully. I'm going to show you the math. If you get lost, or if you're already lost, then you need to watch my other video. 
+
+The link is down below. Okay, so here's the math. Yelp stock is at 36. 
+
+The $38 call option that expires in one month is at 80 cents. That means that one call option will cost you $80. Here's why.
+
+(2:51 - 3:42)
+There are 100 shares of stock in each call option. You take the cost of 80 cents each, multiply by 100 shares, and that equals $80 for the call option. So with $10,000, you can buy 125 call options. 
+
+Okay, now if Yelp stock increases from $36 to 46 in one month, then the $38 call option price will be worth at least $8. So it's very straightforward. The stock went up to $46, right? And your strike price is at 38. 
+
+That means that you have an $8 gain on each share. And each call option has 100 shares. So each call option is now worth $800.
+
+(3:43 - 6:59)
+And you have to remember that you bought each call option for $80. And now each call option is worth $800. And you have 125 call options. 
+
+Okay, so you started with $10,000, right? Now you have 125 call options. Each one is worth $800. That's $100,000. 
+
+That means that you turned your $10,000 into $100,000. And you made a profit of $90,000. So this is how people get rich by trading options. 
+
+So this is a real life example of how a stock goes up by 28% but you 10x your money. It's because stock options give you leverage, but it's a double edged sword. So that's what happens when you get it right. 
+
+If you get it wrong, then you can guess it, then you're going to lose it all. So I want to show you. Yelp stock is at 36, right? You buy the $38 call option that expires in one month. 
+
+If Yelp stock does not go above $38 in one month, then your call options will expire worthless. And you lose your $10,000. In other words, to put it simply, there's a time limit. 
+
+The call option has an expiration date. If you used your $10,000 to buy Yelp stock at 36, if Yelp stays at 36 after one month, then you don't lose any money. There's no time pressure when you buy the stock. 
+
+You can hold the stock for years. There's no time limits. The problem with options is that you have a time limit and that's risky because you need the stock price to do what you want it to do before the option expires. 
+
+Otherwise, you are at risk of losing all your money. Now, if you want to buy a call option that gives you more time, let's just say three months or one year, you can. However, the more time on a call option, the more expensive the call option will be. 
+
+If you want more time, it'll cost you. So that's the challenge with stock options. Time is against you. 
+
+That's why options are high risk and high reward. And buying the stock is lower risk and lower reward. So I hope that clarifies the difference between buying $10,000 worth of stock versus stock options. 
+
+Now, this is very important that you know this. You can use options to decrease your risk. So I use options to hedge and lower my risk. 
+
+That is not what we covered in this video, clearly. So I just showed you someone who's trying to hit it big with the correct prediction, high risk and high reward. And a lot of people engage in this type of behavior. 
+
+Some people make a ton of money by being lucky and getting it right. Some people make a ton of money by doing this strategically. And other people lose a lot of money by doing this irresponsibly. 
+
+All I'm saying is be careful and just know what you're getting yourself into. Please check out my other video. The support. 
+
+Take care.

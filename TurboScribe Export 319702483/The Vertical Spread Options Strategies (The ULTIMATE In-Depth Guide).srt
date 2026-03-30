@@ -1,0 +1,6779 @@
+1
+00:00:00,300 --> 00:00:02,300
+There are so many different options strategies out
+
+2
+00:00:02,300 --> 00:00:04,220
+there that are available to you as an
+
+3
+00:00:04,220 --> 00:00:07,600
+options trader, but today's video is incredibly important
+
+4
+00:00:07,600 --> 00:00:10,100
+because we will be focusing on arguably the
+
+5
+00:00:10,100 --> 00:00:13,640
+four most powerful options trading strategies that you
+
+6
+00:00:13,640 --> 00:00:15,320
+can trade as an options trader.
+
+7
+00:00:15,480 --> 00:00:16,920
+And let me just tell you, if you
+
+8
+00:00:16,920 --> 00:00:19,420
+can master your understanding of these four vertical
+
+9
+00:00:19,420 --> 00:00:22,340
+spread strategies today, you will make a massive
+
+10
+00:00:22,340 --> 00:00:25,180
+leap forward in your options trading expertise and
+
+11
+00:00:25,180 --> 00:00:25,560
+knowledge.
+
+12
+00:00:25,680 --> 00:00:27,240
+And that's because if you understand these four
+
+13
+00:00:27,240 --> 00:00:30,580
+vertical spread strategies, you will essentially understand 80
+
+14
+00:00:30,580 --> 00:00:33,560
+% of the options strategies in existence.
+
+15
+00:00:33,800 --> 00:00:35,800
+Specifically, I'm going to teach you these four
+
+16
+00:00:35,800 --> 00:00:39,900
+strategies using numerous examples and trade performance illustrations
+
+17
+00:00:39,900 --> 00:00:42,680
+so that you can fully understand how these
+
+18
+00:00:42,680 --> 00:00:45,500
+strategies perform relative to changes in the stock
+
+19
+00:00:45,500 --> 00:00:47,160
+price and the passage of time.
+
+20
+00:00:47,300 --> 00:00:49,260
+Before we get started, I should note that
+
+21
+00:00:49,260 --> 00:00:51,220
+there are prerequisites for this video.
+
+22
+00:00:51,520 --> 00:00:53,660
+This is considered, at least in my opinion,
+
+23
+00:00:54,260 --> 00:00:56,740
+the second installment of my options trading for
+
+24
+00:00:56,740 --> 00:00:58,340
+beginners ultimate guide.
+
+25
+00:00:59,020 --> 00:01:00,420
+And I'm going to assume in this video
+
+26
+00:01:00,420 --> 00:01:02,280
+that you have an understanding of how buying
+
+27
+00:01:02,280 --> 00:01:05,080
+call options and put options works, how shorting
+
+28
+00:01:05,080 --> 00:01:07,980
+call options and put options works, and I
+
+29
+00:01:07,980 --> 00:01:10,060
+will also be assuming that you understand what
+
+30
+00:01:10,060 --> 00:01:12,200
+intrinsic and extrinsic value are.
+
+31
+00:01:12,300 --> 00:01:14,320
+Without further ado, let's get started.
+
+32
+00:01:14,540 --> 00:01:16,620
+So today's video is all about vertical spreads,
+
+33
+00:01:16,940 --> 00:01:19,380
+but what exactly is a vertical spread?
+
+34
+00:01:19,560 --> 00:01:22,100
+A vertical spread is the combination of two
+
+35
+00:01:22,100 --> 00:01:24,160
+options trades that are placed simultaneously.
+
+36
+00:01:24,960 --> 00:01:27,320
+The first trade is purchasing a call or
+
+37
+00:01:27,320 --> 00:01:29,840
+put option at a strike price, and then
+
+38
+00:01:29,840 --> 00:01:32,200
+the second component of a vertical spread is
+
+39
+00:01:32,200 --> 00:01:35,300
+shorting another call or put option at a
+
+40
+00:01:35,300 --> 00:01:36,520
+different strike price.
+
+41
+00:01:37,020 --> 00:01:39,300
+Now, you'll be using either calls or puts.
+
+42
+00:01:39,580 --> 00:01:41,640
+As a quick example of a vertical spread,
+
+43
+00:01:41,840 --> 00:01:44,100
+let's look at a vertical spread setup in
+
+44
+00:01:44,100 --> 00:01:44,540
+Apple.
+
+45
+00:01:44,800 --> 00:01:46,580
+In this image, we can see a call
+
+46
+00:01:46,580 --> 00:01:48,900
+vertical spread that I've queued up in Apple
+
+47
+00:01:48,900 --> 00:01:53,220
+by purchasing the $140 call option and shorting
+
+48
+00:01:53,220 --> 00:01:55,000
+the $150 call option.
+
+49
+00:01:55,540 --> 00:01:57,200
+This is an example of a vertical spread
+
+50
+00:01:57,200 --> 00:01:59,460
+because I am purchasing a call option at
+
+51
+00:01:59,460 --> 00:02:02,720
+one strike price and shorting another call option
+
+52
+00:02:02,720 --> 00:02:04,080
+at a higher strike price.
+
+53
+00:02:04,580 --> 00:02:06,320
+Now, this is called a vertical spread because
+
+54
+00:02:06,320 --> 00:02:09,060
+you're trading two different options at different strike
+
+55
+00:02:09,060 --> 00:02:12,340
+prices within the same expiration, and the strike
+
+56
+00:02:12,340 --> 00:02:14,820
+prices are listed vertically on the option chain,
+
+57
+00:02:15,220 --> 00:02:18,820
+so you're basically creating a spread vertically when
+
+58
+00:02:18,820 --> 00:02:20,300
+you're looking at it on the option chain.
+
+59
+00:02:20,660 --> 00:02:21,940
+At least that's how I interpret it.
+
+60
+00:02:22,040 --> 00:02:23,860
+But why would somebody want to trade this
+
+61
+00:02:23,860 --> 00:02:26,980
+vertical spread as opposed to simply purchasing that
+
+62
+00:02:26,980 --> 00:02:28,780
+$140 call all by itself?
+
+63
+00:02:28,900 --> 00:02:30,740
+Let me go through a real quick demonstration
+
+64
+00:02:30,740 --> 00:02:33,840
+by hopping over to my brokerage platform, which
+
+65
+00:02:33,840 --> 00:02:34,820
+is Tastyworks.
+
+66
+00:02:35,020 --> 00:02:36,240
+And by the way, if you are in
+
+67
+00:02:36,240 --> 00:02:38,100
+need of a brokerage account and you're interested
+
+68
+00:02:38,100 --> 00:02:40,580
+in Tastyworks, please check out the links down
+
+69
+00:02:40,580 --> 00:02:42,780
+in the description below, and you'll learn how
+
+70
+00:02:42,780 --> 00:02:45,140
+you can get my exclusive S&P 500
+
+71
+00:02:45,140 --> 00:02:48,160
+options trading course when you open and fund
+
+72
+00:02:48,160 --> 00:02:51,620
+your first Tastyworks account using the project option
+
+73
+00:02:51,620 --> 00:02:52,500
+referral code.
+
+74
+00:02:52,680 --> 00:02:54,800
+And look, I don't make money on this
+
+75
+00:02:54,800 --> 00:02:56,440
+channel by having you pay me out of
+
+76
+00:02:56,440 --> 00:02:59,440
+pocket, and by using that referral code and
+
+77
+00:02:59,440 --> 00:03:01,620
+opening a Tastyworks account, if you are interested,
+
+78
+00:03:02,140 --> 00:03:04,100
+it's a phenomenal way to support me and
+
+79
+00:03:04,100 --> 00:03:06,220
+the channel, and that's how I prefer to
+
+80
+00:03:06,220 --> 00:03:08,200
+make my money, through things that don't cost
+
+81
+00:03:08,200 --> 00:03:10,220
+you anything and that actually connect you with
+
+82
+00:03:10,220 --> 00:03:12,100
+things that are valuable to you.
+
+83
+00:03:12,580 --> 00:03:13,820
+So go ahead and check out those links
+
+84
+00:03:13,820 --> 00:03:15,500
+in the description if you are interested.
+
+85
+00:03:15,820 --> 00:03:17,580
+So let's check out this trade right now.
+
+86
+00:03:18,000 --> 00:03:20,460
+So I'm going to look at Apple, and
+
+87
+00:03:20,460 --> 00:03:23,120
+right now, Apple is down about $7 today,
+
+88
+00:03:23,380 --> 00:03:25,720
+with the stock price around $124.
+
+89
+00:03:26,260 --> 00:03:28,180
+So let's go ahead and look at a
+
+90
+00:03:28,180 --> 00:03:31,860
+$120 call purchase in the October expiration cycle.
+
+91
+00:03:32,300 --> 00:03:34,240
+If I wanted to buy the $120 call
+
+92
+00:03:34,240 --> 00:03:37,180
+option in Apple today, it's currently listed at
+
+93
+00:03:37,180 --> 00:03:40,700
+a price of about $11.60, and with
+
+94
+00:03:40,700 --> 00:03:43,000
+that, I would have to basically put up
+
+95
+00:03:43,000 --> 00:03:48,080
+$1,160 to enter this call option position.
+
+96
+00:03:48,860 --> 00:03:50,920
+But what if I didn't want to spend
+
+97
+00:03:50,920 --> 00:03:52,760
+so much money on this call option, but
+
+98
+00:03:52,760 --> 00:03:54,580
+I still wanted to have a trade that
+
+99
+00:03:54,580 --> 00:03:56,640
+would make money when the stock price increased?
+
+100
+00:03:57,180 --> 00:03:59,080
+And let's say I thought Apple might increase
+
+101
+00:03:59,080 --> 00:04:02,680
+to $130 over the next 43 days.
+
+102
+00:04:03,300 --> 00:04:05,880
+Instead of just purchasing this $120 call option,
+
+103
+00:04:06,260 --> 00:04:09,660
+I could also short the $130 call option,
+
+104
+00:04:10,120 --> 00:04:12,560
+and by doing so, I reduce the cost
+
+105
+00:04:12,560 --> 00:04:15,620
+of my trade from around $1,100 to
+
+106
+00:04:15,620 --> 00:04:16,959
+$435.
+
+107
+00:04:17,660 --> 00:04:20,600
+Now this not only reduces my risk, but
+
+108
+00:04:20,600 --> 00:04:22,880
+it reduces my breakeven price as well.
+
+109
+00:04:23,300 --> 00:04:26,120
+So the breakeven price for this vertical spread
+
+110
+00:04:26,120 --> 00:04:30,160
+here would be $124.35, which essentially means
+
+111
+00:04:30,160 --> 00:04:33,000
+I only need Apple to be at $124
+
+112
+00:04:33,000 --> 00:04:36,360
+.35 at expiration for this spread to not
+
+113
+00:04:36,360 --> 00:04:37,420
+make or lose any money.
+
+114
+00:04:37,940 --> 00:04:40,020
+But if I were to just purchase that
+
+115
+00:04:40,020 --> 00:04:44,740
+$120 call option for $11.40, then my
+
+116
+00:04:44,740 --> 00:04:50,620
+breakeven price would be $130.40. So by
+
+117
+00:04:50,620 --> 00:04:52,780
+doing a vertical spread trade, you can actually
+
+118
+00:04:52,780 --> 00:04:55,120
+reduce your risk, and you can make it
+
+119
+00:04:55,120 --> 00:04:57,440
+a higher probability trade that you can make
+
+120
+00:04:57,440 --> 00:05:00,160
+money on because your breakeven price will be
+
+121
+00:05:00,160 --> 00:05:03,400
+much more favorable as opposed to simply buying
+
+122
+00:05:03,400 --> 00:05:04,920
+that call or put outright.
+
+123
+00:05:05,140 --> 00:05:06,900
+So now that we've briefly touched on what
+
+124
+00:05:06,900 --> 00:05:08,940
+a vertical spread is and why somebody would
+
+125
+00:05:08,940 --> 00:05:10,980
+want to trade one as opposed to simply
+
+126
+00:05:10,980 --> 00:05:13,940
+trading an option by itself, let's look at
+
+127
+00:05:13,940 --> 00:05:16,460
+the four vertical spread strategies in depth so
+
+128
+00:05:16,460 --> 00:05:18,720
+that you can fully understand each of these
+
+129
+00:05:18,720 --> 00:05:20,880
+four strategies, and then we'll move on to
+
+130
+00:05:20,880 --> 00:05:23,540
+the more important and exciting topics, in my
+
+131
+00:05:23,540 --> 00:05:23,860
+opinion.
+
+132
+00:05:24,040 --> 00:05:25,400
+Now I will warn you, this is going
+
+133
+00:05:25,400 --> 00:05:27,940
+to be a fairly repetitive and lengthy section
+
+134
+00:05:27,940 --> 00:05:28,540
+of the video.
+
+135
+00:05:29,000 --> 00:05:30,620
+So by all means, if you want to
+
+136
+00:05:30,620 --> 00:05:33,060
+skip ahead because you're starting to grasp the
+
+137
+00:05:33,060 --> 00:05:35,040
+strategies very quickly, and you want to go
+
+138
+00:05:35,040 --> 00:05:37,500
+to the more unique and exciting topics near
+
+139
+00:05:37,500 --> 00:05:39,500
+the end of the video, please feel free
+
+140
+00:05:39,500 --> 00:05:40,080
+to do so.
+
+141
+00:05:40,240 --> 00:05:41,960
+And you can look at the playhead on
+
+142
+00:05:41,960 --> 00:05:44,340
+the video, which is sectioned out, or you
+
+143
+00:05:44,340 --> 00:05:46,460
+can go to the video description and click
+
+144
+00:05:46,460 --> 00:05:49,840
+on the timestamps to access various sections of
+
+145
+00:05:49,840 --> 00:05:50,360
+this video.
+
+146
+00:05:50,620 --> 00:05:52,200
+By the way, if you are enjoying this
+
+147
+00:05:52,200 --> 00:05:53,660
+video thus far and you like what you
+
+148
+00:05:53,660 --> 00:05:56,340
+see, please give this video a thumbs up
+
+149
+00:05:56,340 --> 00:05:58,200
+and hit that like button down below.
+
+150
+00:05:58,500 --> 00:05:59,780
+And if you're new to the channel and
+
+151
+00:05:59,780 --> 00:06:01,680
+you have no idea who I am, please
+
+152
+00:06:01,680 --> 00:06:03,920
+consider checking out some other videos on my
+
+153
+00:06:03,920 --> 00:06:05,720
+channel and consider subscribing.
+
+154
+00:06:05,920 --> 00:06:08,040
+The first of the four vertical spread strategies
+
+155
+00:06:08,040 --> 00:06:10,380
+we will cover today is called the bull
+
+156
+00:06:10,380 --> 00:06:11,260
+call spread.
+
+157
+00:06:11,800 --> 00:06:13,960
+Now as the name suggests, the bull call
+
+158
+00:06:13,960 --> 00:06:17,500
+spread is a bullish options trading strategy that
+
+159
+00:06:17,500 --> 00:06:19,780
+is constructed using call options.
+
+160
+00:06:19,940 --> 00:06:22,400
+The bull call spread is constructed by purchasing
+
+161
+00:06:22,400 --> 00:06:24,720
+a call option at one strike price and
+
+162
+00:06:24,720 --> 00:06:27,980
+simultaneously shorting another call option at a higher
+
+163
+00:06:27,980 --> 00:06:28,640
+strike price.
+
+164
+00:06:28,860 --> 00:06:30,880
+Sometimes the bull call spread is referred to
+
+165
+00:06:30,880 --> 00:06:33,520
+as simply buying a call spread or a
+
+166
+00:06:33,520 --> 00:06:34,740
+call debit spread.
+
+167
+00:06:35,040 --> 00:06:37,120
+So these vertical spreads have many different names
+
+168
+00:06:37,120 --> 00:06:38,920
+and it depends on the trader you're talking
+
+169
+00:06:38,920 --> 00:06:41,240
+to, so you'll just have to familiarize yourself
+
+170
+00:06:41,240 --> 00:06:43,900
+with the various names of these spreads with
+
+171
+00:06:43,900 --> 00:06:44,500
+experience.
+
+172
+00:06:44,820 --> 00:06:46,240
+So we're going to look at a real
+
+173
+00:06:46,240 --> 00:06:49,080
+historical bull call spread, and we're going to
+
+174
+00:06:49,080 --> 00:06:51,840
+see how the trade performed over time relative
+
+175
+00:06:51,840 --> 00:06:53,420
+to changes in the stock price.
+
+176
+00:06:53,680 --> 00:06:55,960
+So let's check out the characteristics of this
+
+177
+00:06:55,960 --> 00:06:57,220
+bull call spread example.
+
+178
+00:06:57,560 --> 00:07:01,600
+The stock price at entry is $142.28,
+
+179
+00:07:02,040 --> 00:07:05,080
+and to construct this call spread, we're going
+
+180
+00:07:05,080 --> 00:07:07,800
+to buy the $1.35 call for $9
+
+181
+00:07:07,800 --> 00:07:11,080
+.30, and we're going to short the $1
+
+182
+00:07:11,080 --> 00:07:15,400
+.50 call for $1.54. Both of these
+
+183
+00:07:15,400 --> 00:07:17,920
+call options are in the 46-day expiration
+
+184
+00:07:17,920 --> 00:07:18,440
+cycle.
+
+185
+00:07:18,860 --> 00:07:21,720
+The purchase price of this spread is $7
+
+186
+00:07:21,720 --> 00:07:25,000
+.76, which comes from the fact that I
+
+187
+00:07:25,000 --> 00:07:27,880
+bought the $1.35 call for $9.30
+
+188
+00:07:27,880 --> 00:07:31,420
+and shorted the $1.50 call for $1
+
+189
+00:07:31,420 --> 00:07:35,860
+.54, bringing my net payment for this spread
+
+190
+00:07:35,860 --> 00:07:39,620
+to $7.76. Now, this means I actually
+
+191
+00:07:39,620 --> 00:07:44,220
+need $776 to purchase this spread because we
+
+192
+00:07:44,220 --> 00:07:46,860
+need to multiply that spread's price by the
+
+193
+00:07:46,860 --> 00:07:49,980
+option contract multiplier of 100, and that's something
+
+194
+00:07:49,980 --> 00:07:51,860
+you will have learned in the options trading
+
+195
+00:07:51,860 --> 00:07:53,080
+for beginners video.
+
+196
+00:07:53,800 --> 00:07:57,000
+The breakeven price for this spread at expiration
+
+197
+00:07:57,000 --> 00:08:01,120
+is $142.76, and that comes from the
+
+198
+00:08:01,120 --> 00:08:04,140
+call strike price of $1.35 plus the
+
+199
+00:08:04,140 --> 00:08:08,440
+entry price of $7.76. Now, I just
+
+200
+00:08:08,440 --> 00:08:11,540
+did a video explaining breakeven prices in depth,
+
+201
+00:08:11,860 --> 00:08:14,640
+so if you are unfamiliar with how breakeven
+
+202
+00:08:14,640 --> 00:08:17,400
+prices are calculated or why they make sense,
+
+203
+00:08:17,940 --> 00:08:19,840
+be sure to check out that video in
+
+204
+00:08:19,840 --> 00:08:22,340
+the description on how to get any strategy's
+
+205
+00:08:22,340 --> 00:08:23,800
+breakeven price at expiration.
+
+206
+00:08:24,220 --> 00:08:26,880
+So before visualizing the performance of this trade
+
+207
+00:08:26,880 --> 00:08:29,520
+through time, let's actually look at the risk
+
+208
+00:08:29,520 --> 00:08:33,000
+profile for this position at expiration so we
+
+209
+00:08:33,000 --> 00:08:36,059
+can understand at expiration what the profits and
+
+210
+00:08:36,059 --> 00:08:38,539
+losses will be for this position based on
+
+211
+00:08:38,539 --> 00:08:40,539
+various stock price scenarios.
+
+212
+00:08:40,720 --> 00:08:42,220
+The first thing to know is that this
+
+213
+00:08:42,220 --> 00:08:44,640
+strategy has limited risk, and the most the
+
+214
+00:08:44,640 --> 00:08:47,800
+strategy can lose, as described earlier, is the
+
+215
+00:08:47,800 --> 00:08:51,600
+entry price or entry cost of $776.
+
+216
+00:08:52,040 --> 00:08:53,940
+So if I buy this spread for $7
+
+217
+00:08:53,940 --> 00:08:57,920
+.76 and it expires worthless, my loss will
+
+218
+00:08:57,920 --> 00:08:59,500
+be $776.
+
+219
+00:09:00,040 --> 00:09:02,160
+And that will occur if the stock price
+
+220
+00:09:02,160 --> 00:09:06,700
+is at or below $135 at expiration, because
+
+221
+00:09:06,700 --> 00:09:08,320
+if the stock price is at or below
+
+222
+00:09:08,320 --> 00:09:12,600
+$135, the $135 call and the $150 call
+
+223
+00:09:12,600 --> 00:09:15,800
+will both expire worthless, and therefore the spread
+
+224
+00:09:15,800 --> 00:09:17,080
+itself will be worthless.
+
+225
+00:09:17,520 --> 00:09:19,800
+The breakeven price of this call spread is
+
+226
+00:09:19,800 --> 00:09:23,660
+$142.76 at expiration, and that means if
+
+227
+00:09:23,660 --> 00:09:26,720
+the stock price is at $142.76 at
+
+228
+00:09:26,720 --> 00:09:31,040
+expiration, the $135 call option will have intrinsic
+
+229
+00:09:31,040 --> 00:09:35,920
+value of $7.76, but the short $150
+
+230
+00:09:35,920 --> 00:09:39,380
+call will have $0 of intrinsic value, and
+
+231
+00:09:39,380 --> 00:09:41,860
+therefore the net value of the spread would
+
+232
+00:09:41,860 --> 00:09:45,680
+be $7.76, which is the same as
+
+233
+00:09:45,680 --> 00:09:46,580
+the entry cost.
+
+234
+00:09:46,940 --> 00:09:49,140
+And therefore, the position will not have a
+
+235
+00:09:49,140 --> 00:09:51,040
+profit or loss if the stock price is
+
+236
+00:09:51,040 --> 00:09:54,600
+exactly at $142.76 at the time of
+
+237
+00:09:54,600 --> 00:09:55,080
+expiration.
+
+238
+00:09:55,720 --> 00:09:59,580
+And lastly, the maximum profit potential of $724
+
+239
+00:09:59,580 --> 00:10:02,180
+will occur if the stock price is at
+
+240
+00:10:02,180 --> 00:10:06,000
+or above the upper strike price of $150
+
+241
+00:10:06,000 --> 00:10:08,120
+at the time of expiration.
+
+242
+00:10:08,980 --> 00:10:11,400
+And that's because the maximum value of any
+
+243
+00:10:11,400 --> 00:10:13,960
+vertical spread at expiration is the width of
+
+244
+00:10:13,960 --> 00:10:14,440
+the strikes.
+
+245
+00:10:14,840 --> 00:10:17,000
+And in this case, the call spread has
+
+246
+00:10:17,000 --> 00:10:20,140
+strikes that are $15 apart, which means the
+
+247
+00:10:20,140 --> 00:10:22,520
+maximum value of this call spread at expiration
+
+248
+00:10:22,520 --> 00:10:26,980
+is $15, or an actual value of $1
+
+249
+00:10:26,980 --> 00:10:27,680
+,500.
+
+250
+00:10:28,340 --> 00:10:30,180
+So if I buy this call spread for
+
+251
+00:10:30,180 --> 00:10:35,060
+an entry cost of $776 and it appreciates
+
+252
+00:10:35,060 --> 00:10:38,480
+to its maximum value of $1,500, my
+
+253
+00:10:38,480 --> 00:10:41,060
+profit on the trade will be $724.
+
+254
+00:10:41,720 --> 00:10:44,340
+The reason that this call spread can only
+
+255
+00:10:44,340 --> 00:10:48,000
+be worth $15 at expiration is because if
+
+256
+00:10:48,000 --> 00:10:50,040
+the stock price is fully above the call
+
+257
+00:10:50,040 --> 00:10:51,980
+spread, meaning the stock price is at or
+
+258
+00:10:51,980 --> 00:10:56,380
+above $150, if we take the intrinsic value
+
+259
+00:10:56,380 --> 00:10:58,200
+of the call option that I own and
+
+260
+00:10:58,200 --> 00:11:00,560
+subtract the intrinsic value of the option that
+
+261
+00:11:00,560 --> 00:11:02,720
+I'm short, it will always come out to
+
+262
+00:11:02,720 --> 00:11:04,340
+$15 at expiration.
+
+263
+00:11:05,020 --> 00:11:07,080
+So for example, if the stock price is
+
+264
+00:11:07,080 --> 00:11:11,640
+at $155 at expiration, the $135 call that
+
+265
+00:11:11,640 --> 00:11:14,500
+I own will have $20 of intrinsic value,
+
+266
+00:11:15,060 --> 00:11:17,480
+but the $150 call that I am short
+
+267
+00:11:17,480 --> 00:11:20,340
+will have $5 of intrinsic value.
+
+268
+00:11:20,960 --> 00:11:22,600
+And basically what that means is that if
+
+269
+00:11:22,600 --> 00:11:24,760
+I want to close that spread at expiration,
+
+270
+00:11:25,340 --> 00:11:27,640
+I could sell the $135 call for $20,
+
+271
+00:11:28,180 --> 00:11:32,260
+collecting $2,000 in premium, and I would
+
+272
+00:11:32,260 --> 00:11:35,140
+have to buy back the short $150 call
+
+273
+00:11:35,140 --> 00:11:39,600
+for $5, therefore paying out $500 in premium,
+
+274
+00:11:40,080 --> 00:11:42,020
+and that would leave me with a net
+
+275
+00:11:42,020 --> 00:11:45,880
+premium collection of $1,500 at expiration.
+
+276
+00:11:46,520 --> 00:11:49,020
+So this is the expiration payoff graph, which
+
+277
+00:11:49,020 --> 00:11:51,620
+only really matters at expiration, but how did
+
+278
+00:11:51,620 --> 00:11:54,240
+this strategy actually perform as the stock price
+
+279
+00:11:54,240 --> 00:11:55,500
+changed over time?
+
+280
+00:11:55,500 --> 00:11:56,760
+Let's take a look.
+
+281
+00:11:57,220 --> 00:11:58,920
+On the top portion of this graph, we
+
+282
+00:11:58,920 --> 00:12:01,220
+have the changes in the stock price relative
+
+283
+00:12:01,220 --> 00:12:03,220
+to the strike prices of this call spread,
+
+284
+00:12:03,480 --> 00:12:05,300
+and on the bottom portion of the graph,
+
+285
+00:12:05,440 --> 00:12:07,440
+we're looking at the actual changes in the
+
+286
+00:12:07,440 --> 00:12:10,000
+spread's value as the stock price changed.
+
+287
+00:12:10,640 --> 00:12:12,340
+In the first few days of the trade,
+
+288
+00:12:12,640 --> 00:12:15,300
+the stock price drifted lower, which caused the
+
+289
+00:12:15,300 --> 00:12:16,540
+call spread to lose value.
+
+290
+00:12:17,160 --> 00:12:18,960
+If the spread price declines from the price
+
+291
+00:12:18,960 --> 00:12:21,240
+you pay for it, you'll have an unrealized
+
+292
+00:12:21,240 --> 00:12:21,580
+loss.
+
+293
+00:12:22,080 --> 00:12:24,160
+Fortunately, we can see that the stock price
+
+294
+00:12:24,160 --> 00:12:27,040
+rocketed higher in the subsequent weeks, leading to
+
+295
+00:12:27,040 --> 00:12:29,060
+an increase in the call spread's value.
+
+296
+00:12:29,640 --> 00:12:31,460
+You'll notice that there was a moment where
+
+297
+00:12:31,460 --> 00:12:33,660
+the stock price was above the entire call
+
+298
+00:12:33,660 --> 00:12:36,560
+spread, but why wasn't the spread's price $15?
+
+299
+00:12:37,380 --> 00:12:39,240
+Because I know I said that the maximum
+
+300
+00:12:39,240 --> 00:12:41,880
+value of this spread at expiration would be
+
+301
+00:12:41,880 --> 00:12:45,480
+$15 if the stock price was above $150.
+
+302
+00:12:46,220 --> 00:12:48,100
+Well, we will talk about that later in
+
+303
+00:12:48,100 --> 00:12:51,400
+the section titled Vertical Spread Profitability vs.
+
+304
+00:12:51,660 --> 00:12:52,620
+Time to Expiration.
+
+305
+00:12:52,960 --> 00:12:55,460
+At around 4 days to expiration, the spread's
+
+306
+00:12:55,460 --> 00:12:58,040
+price was very close to its maximum value
+
+307
+00:12:58,040 --> 00:12:58,760
+of $15.
+
+308
+00:12:59,360 --> 00:13:01,500
+It's worth mentioning here that you can close
+
+309
+00:13:01,500 --> 00:13:04,080
+a vertical spread whenever you want to, you
+
+310
+00:13:04,080 --> 00:13:06,020
+don't have to hold until expiration.
+
+311
+00:13:06,760 --> 00:13:09,060
+If the maximum potential value of the spread
+
+312
+00:13:09,060 --> 00:13:11,920
+is $15, and the spread's price gets close
+
+313
+00:13:11,920 --> 00:13:14,560
+to $15, then it makes sense to close
+
+314
+00:13:14,560 --> 00:13:16,840
+the trade because you have very little left
+
+315
+00:13:16,840 --> 00:13:18,920
+to gain from holding it, but you have
+
+316
+00:13:18,920 --> 00:13:19,800
+everything to lose.
+
+317
+00:13:20,020 --> 00:13:21,320
+At the very end of the trade, we
+
+318
+00:13:21,320 --> 00:13:23,080
+can see that the stock price did dip
+
+319
+00:13:23,080 --> 00:13:25,920
+lower and the call spread lost substantial value,
+
+320
+00:13:26,200 --> 00:13:28,040
+and that's exactly why a spread should be
+
+321
+00:13:28,040 --> 00:13:31,160
+closed when it approaches the maximum potential value.
+
+322
+00:13:31,400 --> 00:13:32,800
+It's really not worth holding.
+
+323
+00:13:33,100 --> 00:13:35,120
+At the time of expiration, the stock price
+
+324
+00:13:35,120 --> 00:13:38,420
+was at $148.06, leaving the trade with
+
+325
+00:13:38,420 --> 00:13:40,260
+a profit of $530.
+
+326
+00:13:40,880 --> 00:13:42,660
+But where does this profit come from?
+
+327
+00:13:43,080 --> 00:13:46,460
+If the stock price is at $148.06
+
+328
+00:13:46,460 --> 00:13:50,340
+at expiration, the 135 call will have intrinsic
+
+329
+00:13:50,340 --> 00:13:54,480
+value of $13.06, while the 150 call
+
+330
+00:13:54,480 --> 00:13:57,660
+will have no intrinsic value and expire worthless.
+
+331
+00:13:58,640 --> 00:14:00,660
+Therefore, the value of the spread at expiration
+
+332
+00:14:00,660 --> 00:14:03,860
+is limited to the intrinsic value of the
+
+333
+00:14:03,860 --> 00:14:08,200
+135 call, which is $13.06, meaning that
+
+334
+00:14:08,200 --> 00:14:11,440
+in actual dollar terms, the spread's value would
+
+335
+00:14:11,440 --> 00:14:12,960
+be $1306.
+
+336
+00:14:13,520 --> 00:14:16,880
+And if I buy a spread for $776
+
+337
+00:14:16,880 --> 00:14:21,260
+and it expires with a value of $1306,
+
+338
+00:14:21,860 --> 00:14:24,440
+my profit is $530.
+
+339
+00:14:24,980 --> 00:14:26,980
+So what we've learned with this example is
+
+340
+00:14:26,980 --> 00:14:29,160
+that when you buy a call spread, or
+
+341
+00:14:29,160 --> 00:14:32,080
+you trade a bull call spread, you want
+
+342
+00:14:32,080 --> 00:14:34,680
+the stock price to increase, and ideally you
+
+343
+00:14:34,680 --> 00:14:37,320
+want the stock price to be above the
+
+344
+00:14:37,320 --> 00:14:39,820
+upper strike price of the bull call spread
+
+345
+00:14:39,820 --> 00:14:42,440
+at the time of expiration, as that is
+
+346
+00:14:42,440 --> 00:14:44,440
+a scenario that will result in the spread
+
+347
+00:14:44,440 --> 00:14:47,980
+having its maximum potential value, which we also
+
+348
+00:14:47,980 --> 00:14:50,820
+learned is the distance between the strike prices.
+
+349
+00:14:51,280 --> 00:14:53,180
+So if I have a $20 wide vertical
+
+350
+00:14:53,180 --> 00:14:55,000
+spread, the most it can be worth is
+
+351
+00:14:55,000 --> 00:14:55,320
+$20.
+
+352
+00:14:56,100 --> 00:14:58,760
+If I have a $100 wide vertical spread,
+
+353
+00:14:59,400 --> 00:15:01,000
+the most that spread can be worth at
+
+354
+00:15:01,000 --> 00:15:02,620
+expiration is $100.
+
+355
+00:15:03,240 --> 00:15:04,580
+So keep that in mind.
+
+356
+00:15:05,000 --> 00:15:06,780
+We also saw that as the stock price
+
+357
+00:15:06,780 --> 00:15:09,200
+goes up and down, so does the value
+
+358
+00:15:09,200 --> 00:15:10,320
+of the call spread.
+
+359
+00:15:10,800 --> 00:15:13,300
+And this is important to understand because when
+
+360
+00:15:13,300 --> 00:15:15,900
+you enter any option position, it's not a
+
+361
+00:15:15,900 --> 00:15:18,500
+binary event where you only get the profit
+
+362
+00:15:18,500 --> 00:15:19,940
+or loss at the time of expiration.
+
+363
+00:15:20,400 --> 00:15:23,120
+The option prices, or the option spread in
+
+364
+00:15:23,120 --> 00:15:25,760
+this example, will change every minute of the
+
+365
+00:15:25,760 --> 00:15:28,040
+day as the stock price is changing, and
+
+366
+00:15:28,040 --> 00:15:29,840
+you can get out of that spread or
+
+367
+00:15:29,840 --> 00:15:31,840
+option position whenever you want to.
+
+368
+00:15:32,220 --> 00:15:34,180
+So just because it has an expiration date,
+
+369
+00:15:34,440 --> 00:15:36,000
+it doesn't mean you have to hold until
+
+370
+00:15:36,000 --> 00:15:36,920
+the expiration date.
+
+371
+00:15:37,180 --> 00:15:38,920
+So to close the call spread in this
+
+372
+00:15:38,920 --> 00:15:42,120
+example, since I bought the $135 call as
+
+373
+00:15:42,120 --> 00:15:44,580
+an opening trade, and I shorted the $150
+
+374
+00:15:44,580 --> 00:15:47,240
+call when I opened the trade, to close
+
+375
+00:15:47,240 --> 00:15:49,600
+this call spread, I just have to sell
+
+376
+00:15:49,600 --> 00:15:52,320
+the $135 call that I own and buy
+
+377
+00:15:52,320 --> 00:15:54,360
+back the $150 call that I am short.
+
+378
+00:15:54,840 --> 00:15:56,620
+And you can do this in one transaction
+
+379
+00:15:56,620 --> 00:16:00,040
+at one spread price, and effectively that will
+
+380
+00:16:00,040 --> 00:16:02,760
+realize whatever profit or loss you have on
+
+381
+00:16:02,760 --> 00:16:04,300
+that spread at that moment.
+
+382
+00:16:04,700 --> 00:16:06,340
+So you never have to hold a spread
+
+383
+00:16:06,340 --> 00:16:07,140
+until expiration.
+
+384
+00:16:07,580 --> 00:16:09,100
+You can close it whenever you want.
+
+385
+00:16:09,440 --> 00:16:11,000
+So I could buy a call spread and
+
+386
+00:16:11,000 --> 00:16:12,900
+sell it five seconds later if I wanted
+
+387
+00:16:12,900 --> 00:16:13,160
+to.
+
+388
+00:16:13,560 --> 00:16:15,400
+I can get out whenever I want to.
+
+389
+00:16:15,460 --> 00:16:16,920
+All right, let's move on to the second
+
+390
+00:16:16,920 --> 00:16:19,840
+bullish vertical spread, which is called the bull
+
+391
+00:16:19,840 --> 00:16:20,680
+put spread.
+
+392
+00:16:21,020 --> 00:16:23,360
+As the name suggests, a bull put spread
+
+393
+00:16:23,360 --> 00:16:27,000
+is a bullish vertical spread constructed with put
+
+394
+00:16:27,000 --> 00:16:29,580
+options as opposed to call options, which we
+
+395
+00:16:29,580 --> 00:16:30,400
+just discussed.
+
+396
+00:16:30,860 --> 00:16:33,540
+To set up a bull put spread, a
+
+397
+00:16:33,540 --> 00:16:35,720
+trader will short a put option at one
+
+398
+00:16:35,720 --> 00:16:38,940
+strike price and purchase another put option at
+
+399
+00:16:38,940 --> 00:16:40,420
+a lower strike price.
+
+400
+00:16:40,900 --> 00:16:43,120
+Now this is sometimes just referred to as
+
+401
+00:16:43,120 --> 00:16:45,880
+selling or shorting a put spread, but it
+
+402
+00:16:45,880 --> 00:16:48,400
+is also referred to as a put credit
+
+403
+00:16:48,400 --> 00:16:50,900
+spread because when you enter the trade, you
+
+404
+00:16:50,900 --> 00:16:53,740
+will collect a net credit, meaning the option
+
+405
+00:16:53,740 --> 00:16:55,540
+that you sell is more expensive than the
+
+406
+00:16:55,540 --> 00:16:58,280
+option you purchase, and therefore you will collect
+
+407
+00:16:58,280 --> 00:16:59,940
+premium when you enter the trade.
+
+408
+00:17:00,340 --> 00:17:01,860
+And that's why it's called a credit spread.
+
+409
+00:17:02,080 --> 00:17:04,180
+The goal when trading a bull put spread
+
+410
+00:17:04,180 --> 00:17:07,040
+is to see the stock price increase, but
+
+411
+00:17:07,040 --> 00:17:09,060
+at the very least, the trade can make
+
+412
+00:17:09,060 --> 00:17:11,480
+money so long as the stock price remains
+
+413
+00:17:11,480 --> 00:17:14,680
+above the short put strike price as time
+
+414
+00:17:14,680 --> 00:17:15,240
+passes.
+
+415
+00:17:15,740 --> 00:17:17,520
+So if the stock price is here and
+
+416
+00:17:17,520 --> 00:17:19,660
+you sell this put spread here, you can
+
+417
+00:17:19,660 --> 00:17:21,460
+make money so long as the stock price
+
+418
+00:17:21,460 --> 00:17:23,119
+remains above this put spread.
+
+419
+00:17:23,640 --> 00:17:25,940
+And that means it is a high probability
+
+420
+00:17:25,940 --> 00:17:29,100
+trading strategy, meaning that you have a greater
+
+421
+00:17:29,100 --> 00:17:32,320
+than 50% chance, in theory, of making
+
+422
+00:17:32,320 --> 00:17:33,460
+money on that trade.
+
+423
+00:17:33,620 --> 00:17:35,400
+So just like we did before, let's go
+
+424
+00:17:35,400 --> 00:17:37,680
+ahead and look at a real historical example.
+
+425
+00:17:38,360 --> 00:17:40,600
+In this example, the stock price is at
+
+426
+00:17:40,600 --> 00:17:44,900
+$146.92 at the time of entering the
+
+427
+00:17:44,900 --> 00:17:45,160
+trade.
+
+428
+00:17:45,760 --> 00:17:48,100
+To construct this bull put spread, we will
+
+429
+00:17:48,100 --> 00:17:51,940
+short the $145 put and collect $6.60
+
+430
+00:17:51,940 --> 00:17:56,800
+and simultaneously purchase the $135 put for $3
+
+431
+00:17:56,800 --> 00:18:00,840
+.07. Both options are in the 46-day
+
+432
+00:18:00,840 --> 00:18:01,840
+expiration cycle.
+
+433
+00:18:02,160 --> 00:18:04,240
+The entry price for this spread is $3
+
+434
+00:18:04,240 --> 00:18:08,180
+.53 that is received since I shorted the
+
+435
+00:18:08,180 --> 00:18:12,400
+$145 put and collected $6.60 and paid
+
+436
+00:18:12,400 --> 00:18:16,320
+$3.07 to buy the $135 put.
+
+437
+00:18:16,760 --> 00:18:19,260
+So a net premium is collected at entry.
+
+438
+00:18:19,660 --> 00:18:23,380
+The breakeven price for this particular position is
+
+439
+00:18:23,380 --> 00:18:26,640
+$141.47. And that means if the stock
+
+440
+00:18:26,640 --> 00:18:29,900
+price is at $141.47 at the time
+
+441
+00:18:29,900 --> 00:18:32,320
+of expiration, then this put spread will not
+
+442
+00:18:32,320 --> 00:18:33,800
+make or lose any money.
+
+443
+00:18:34,080 --> 00:18:36,080
+So remember earlier I said that the maximum
+
+444
+00:18:36,080 --> 00:18:38,600
+value of a vertical spread is the distance
+
+445
+00:18:38,600 --> 00:18:40,860
+between the strike prices, and in this case,
+
+446
+00:18:41,040 --> 00:18:43,620
+since the put strikes are $10 apart, the
+
+447
+00:18:43,620 --> 00:18:45,840
+maximum value of this put spread at expiration
+
+448
+00:18:45,840 --> 00:18:46,960
+is $10.
+
+449
+00:18:47,500 --> 00:18:50,080
+So let's look at the expiration payoff diagram
+
+450
+00:18:50,080 --> 00:18:53,240
+for this particular bull put spread position.
+
+451
+00:18:53,760 --> 00:18:55,540
+So as we can see here, the best
+
+452
+00:18:55,540 --> 00:18:57,320
+case scenario is that the stock price is
+
+453
+00:18:57,320 --> 00:18:59,660
+above the entire put spread at expiration.
+
+454
+00:19:00,360 --> 00:19:03,380
+If the stock price is above $145 at
+
+455
+00:19:03,380 --> 00:19:07,600
+expiration, the $145 put and the $135 put
+
+456
+00:19:07,600 --> 00:19:10,560
+will have no intrinsic value and therefore will
+
+457
+00:19:10,560 --> 00:19:13,420
+expire worthless, leaving the spread with a value
+
+458
+00:19:13,420 --> 00:19:13,880
+of $0.
+
+459
+00:19:14,420 --> 00:19:17,900
+If I collect $353 for this spread at
+
+460
+00:19:17,900 --> 00:19:20,720
+entry and the spread's price falls to $0,
+
+461
+00:19:20,720 --> 00:19:23,440
+I will effectively make 100% of the
+
+462
+00:19:23,440 --> 00:19:25,940
+profit potential, or $353.
+
+463
+00:19:26,800 --> 00:19:28,720
+And so when you short a put spread
+
+464
+00:19:28,720 --> 00:19:30,580
+like this, you want all of the options
+
+465
+00:19:30,580 --> 00:19:33,340
+to expire worthless, which will happen if the
+
+466
+00:19:33,340 --> 00:19:36,560
+stock price increases and is above both put
+
+467
+00:19:36,560 --> 00:19:39,200
+spread's strike prices at the time of expiration.
+
+468
+00:19:39,800 --> 00:19:42,420
+The expiration breakeven price of this position is
+
+469
+00:19:42,420 --> 00:19:45,720
+$141.47, which means if the stock price
+
+470
+00:19:45,720 --> 00:19:51,120
+is at $141.47 at expiration, the $145
+
+471
+00:19:51,120 --> 00:19:53,600
+put will be worth its intrinsic value of
+
+472
+00:19:53,600 --> 00:19:57,080
+$3.53, and the $135 put will be
+
+473
+00:19:57,080 --> 00:19:57,520
+worthless.
+
+474
+00:19:58,020 --> 00:20:00,580
+And lastly, the maximum loss potential of this
+
+475
+00:20:00,580 --> 00:20:04,360
+position is $647, which will occur if the
+
+476
+00:20:04,360 --> 00:20:06,920
+stock price is below both put spread's strike
+
+477
+00:20:06,920 --> 00:20:08,040
+prices at expiration.
+
+478
+00:20:08,460 --> 00:20:11,920
+If the stock price is below $135 at
+
+479
+00:20:11,920 --> 00:20:14,120
+expiration, then the put spread will be worth
+
+480
+00:20:14,120 --> 00:20:17,880
+its maximum value of $10, which again is
+
+481
+00:20:17,880 --> 00:20:19,960
+the distance between the two strike prices.
+
+482
+00:20:20,600 --> 00:20:22,540
+So if I shorted this spread initially and
+
+483
+00:20:22,540 --> 00:20:27,760
+collected $353 in premium and the value increased
+
+484
+00:20:27,760 --> 00:20:30,300
+to $1,000, which is its maximum value,
+
+485
+00:20:30,800 --> 00:20:33,300
+then I will lose $647.
+
+486
+00:20:34,040 --> 00:20:35,400
+So let's go ahead and take a look
+
+487
+00:20:35,400 --> 00:20:37,400
+and see exactly what happened to this bull
+
+488
+00:20:37,400 --> 00:20:39,860
+put spread in real life as the stock
+
+489
+00:20:39,860 --> 00:20:42,480
+price was changing up and down through the
+
+490
+00:20:42,480 --> 00:20:43,320
+trade's duration.
+
+491
+00:20:43,780 --> 00:20:45,420
+So again, the top portion of this graph
+
+492
+00:20:45,420 --> 00:20:47,560
+features the changes in the stock price relative
+
+493
+00:20:47,560 --> 00:20:49,260
+to the spread's strike prices.
+
+494
+00:20:49,780 --> 00:20:51,300
+As we can see early on in the
+
+495
+00:20:51,300 --> 00:20:53,940
+trade, the share price was falling, which actually
+
+496
+00:20:53,940 --> 00:20:56,460
+caused an increase in the put spread's value.
+
+497
+00:20:57,120 --> 00:20:58,620
+And since the bull put spread is a
+
+498
+00:20:58,620 --> 00:21:00,660
+bullish strategy, it will lose money when the
+
+499
+00:21:00,660 --> 00:21:02,800
+stock price falls, and it will make money
+
+500
+00:21:02,800 --> 00:21:04,340
+when the stock price rises.
+
+501
+00:21:05,160 --> 00:21:08,160
+Fortunately, the shares regained traction and headed higher
+
+502
+00:21:08,160 --> 00:21:09,860
+throughout the remainder of the trade.
+
+503
+00:21:10,540 --> 00:21:12,300
+And we can see that the further the
+
+504
+00:21:12,300 --> 00:21:15,240
+stock price increased, and as time passed, the
+
+505
+00:21:15,240 --> 00:21:16,660
+spread's value collapsed.
+
+506
+00:21:17,040 --> 00:21:19,520
+At around 17 days to expiration, the spread's
+
+507
+00:21:19,520 --> 00:21:22,320
+value was already very close to $0, which
+
+508
+00:21:22,320 --> 00:21:25,200
+means the trade essentially already had the maximum
+
+509
+00:21:25,200 --> 00:21:26,060
+profit potential.
+
+510
+00:21:26,540 --> 00:21:28,480
+And at that moment, a wise trader would
+
+511
+00:21:28,480 --> 00:21:30,780
+close the put spread to secure the near
+
+512
+00:21:30,780 --> 00:21:31,640
+-maximum profit.
+
+513
+00:21:32,200 --> 00:21:34,640
+Closing the put spread would entail buying back
+
+514
+00:21:34,640 --> 00:21:38,020
+the short $145 put and selling the long
+
+515
+00:21:38,020 --> 00:21:38,980
+$135 put.
+
+516
+00:21:39,420 --> 00:21:41,120
+The P&L on the trade would therefore
+
+517
+00:21:41,120 --> 00:21:44,840
+be the difference between the $353 in premium
+
+518
+00:21:44,840 --> 00:21:47,320
+collected at the time of entering the trade
+
+519
+00:21:47,320 --> 00:21:49,900
+and whatever they paid to close the spread.
+
+520
+00:21:50,480 --> 00:21:52,900
+So if they paid $20 to close the
+
+521
+00:21:52,900 --> 00:21:55,000
+spread, the profit on the trade would be
+
+522
+00:21:55,000 --> 00:21:56,660
+$333.
+
+523
+00:21:57,520 --> 00:21:59,420
+But as we can see, the spread continued
+
+524
+00:21:59,420 --> 00:22:02,120
+losing value and ended up with the maximum
+
+525
+00:22:02,120 --> 00:22:03,320
+profit at expiration.
+
+526
+00:22:04,000 --> 00:22:08,060
+Because with the stock price at $157.02
+
+527
+00:22:08,060 --> 00:22:12,200
+at expiration, the $145 put and the $135
+
+528
+00:22:12,200 --> 00:22:15,780
+put had no intrinsic value, and therefore the
+
+529
+00:22:15,780 --> 00:22:17,140
+spread's value was $0.
+
+530
+00:22:17,680 --> 00:22:19,800
+So thus far we've covered both of the
+
+531
+00:22:19,800 --> 00:22:22,560
+bullish vertical spread trading strategies, which are the
+
+532
+00:22:22,560 --> 00:22:24,460
+bull call spread, which is buying a call
+
+533
+00:22:24,460 --> 00:22:27,100
+spread, and the bull put spread, which is
+
+534
+00:22:27,100 --> 00:22:28,680
+shorting a put spread.
+
+535
+00:22:29,260 --> 00:22:30,800
+So one of those is referred to as
+
+536
+00:22:30,800 --> 00:22:33,000
+a debit spread, meaning you pay to enter
+
+537
+00:22:33,000 --> 00:22:34,780
+it, which is buying the call spread.
+
+538
+00:22:35,180 --> 00:22:36,820
+And one of those is referred to as
+
+539
+00:22:36,820 --> 00:22:39,340
+a credit spread, which means you collect premium
+
+540
+00:22:39,340 --> 00:22:41,540
+when you enter the trade, and that is
+
+541
+00:22:41,540 --> 00:22:44,100
+when you sell or short the put spread.
+
+542
+00:22:44,420 --> 00:22:46,480
+So you may be wondering, when would you
+
+543
+00:22:46,480 --> 00:22:48,340
+use the bull call spread and when would
+
+544
+00:22:48,340 --> 00:22:49,700
+you use the bull put spread?
+
+545
+00:22:49,700 --> 00:22:51,900
+And we'll talk about that later in the
+
+546
+00:22:51,900 --> 00:22:54,740
+section titled, How to Select the Right Strategy.
+
+547
+00:22:55,300 --> 00:22:56,580
+But for now we need to move on
+
+548
+00:22:56,580 --> 00:22:59,160
+to the bearish vertical spread trades, which are
+
+549
+00:22:59,160 --> 00:23:01,300
+the bear call spread and the bear put
+
+550
+00:23:01,300 --> 00:23:01,500
+spread.
+
+551
+00:23:01,800 --> 00:23:02,860
+So let's get started.
+
+552
+00:23:03,120 --> 00:23:04,980
+So the first of these bearish vertical spread
+
+553
+00:23:04,980 --> 00:23:06,880
+trades that we will cover is called the
+
+554
+00:23:06,880 --> 00:23:09,640
+bear call spread, which is basically when you
+
+555
+00:23:09,640 --> 00:23:12,320
+sell a call spread or short a call
+
+556
+00:23:12,320 --> 00:23:12,560
+spread.
+
+557
+00:23:13,080 --> 00:23:15,440
+So the bear call spread is sometimes referred
+
+558
+00:23:15,440 --> 00:23:17,900
+to as simply selling a call spread, a
+
+559
+00:23:17,900 --> 00:23:20,860
+call credit spread, and that's it.
+
+560
+00:23:21,040 --> 00:23:22,940
+The next strategy we will cover is called
+
+561
+00:23:22,940 --> 00:23:25,480
+the bear call spread, which is referred to
+
+562
+00:23:25,480 --> 00:23:28,220
+sometimes as selling a call spread or a
+
+563
+00:23:28,220 --> 00:23:29,460
+call credit spread.
+
+564
+00:23:29,820 --> 00:23:32,760
+And a bear call spread is constructed by
+
+565
+00:23:32,760 --> 00:23:35,160
+shorting a call option at one strike price
+
+566
+00:23:35,160 --> 00:23:38,140
+and purchasing another call option at a higher
+
+567
+00:23:38,140 --> 00:23:39,040
+strike price.
+
+568
+00:23:39,220 --> 00:23:41,500
+So it's basically the bull call spread from
+
+569
+00:23:41,500 --> 00:23:44,060
+earlier, except you do the opposite, and instead
+
+570
+00:23:44,060 --> 00:23:46,820
+of buying the call spread, you actually short
+
+571
+00:23:46,820 --> 00:23:49,180
+or sell the call spread as your opening
+
+572
+00:23:49,180 --> 00:23:49,540
+trade.
+
+573
+00:23:49,880 --> 00:23:51,400
+And a bear call spread will make money
+
+574
+00:23:51,400 --> 00:23:53,740
+as long as the stock price remains below
+
+575
+00:23:53,740 --> 00:23:55,520
+the call spread's strike prices.
+
+576
+00:23:55,920 --> 00:23:57,160
+So if you sell this call spread and
+
+577
+00:23:57,160 --> 00:23:58,920
+the stock price is here, it doesn't matter
+
+578
+00:23:58,920 --> 00:24:00,280
+if the stock price goes up a little
+
+579
+00:24:00,280 --> 00:24:02,220
+bit, as long as the stock price is
+
+580
+00:24:02,220 --> 00:24:05,520
+below the vertical spread's strike prices, the trade
+
+581
+00:24:05,520 --> 00:24:07,100
+will make money as time passes.
+
+582
+00:24:07,260 --> 00:24:08,560
+So let's look at an example.
+
+583
+00:24:09,040 --> 00:24:11,000
+In this example, the stock price is at
+
+584
+00:24:11,000 --> 00:24:15,260
+$141.46 at the time of entry, and
+
+585
+00:24:15,260 --> 00:24:17,560
+to construct this spread, I will short the
+
+586
+00:24:17,560 --> 00:24:21,300
+$142 call for $1.93 and buy the
+
+587
+00:24:21,300 --> 00:24:25,140
+$145 call for $0.87. Both options are
+
+588
+00:24:25,140 --> 00:24:27,020
+in the 32-day expiration cycle.
+
+589
+00:24:27,720 --> 00:24:29,680
+So the entry price for this spread is
+
+590
+00:24:29,680 --> 00:24:33,800
+$1.06 that is received, since the call
+
+591
+00:24:33,800 --> 00:24:37,020
+that I shorted, the $142 call, is more
+
+592
+00:24:37,020 --> 00:24:39,260
+expensive than the call that I purchased, and
+
+593
+00:24:39,260 --> 00:24:42,060
+this results in a net premium collection at
+
+594
+00:24:42,060 --> 00:24:43,540
+the time of entering the trade.
+
+595
+00:24:43,840 --> 00:24:46,400
+So let's look at the expiration payoff graph
+
+596
+00:24:46,400 --> 00:24:47,440
+for this position.
+
+597
+00:24:47,840 --> 00:24:49,900
+As we can see, the best case scenario
+
+598
+00:24:49,900 --> 00:24:52,660
+is that the stock price is below $142
+
+599
+00:24:52,660 --> 00:24:54,980
+at expiration, as that would lead to the
+
+600
+00:24:54,980 --> 00:24:59,520
+$142 and $145 calls expiring worthless, which means
+
+601
+00:24:59,520 --> 00:25:01,280
+the call spread's value is $0.
+
+602
+00:25:01,800 --> 00:25:04,520
+If I short the call spread for $106
+
+603
+00:25:04,520 --> 00:25:07,540
+and it expires worthless, I'll make the full
+
+604
+00:25:07,540 --> 00:25:09,260
+profit of $106.
+
+605
+00:25:10,040 --> 00:25:13,620
+The breakeven price is $143.06, which means
+
+606
+00:25:13,620 --> 00:25:16,540
+if the stock price is right at $143
+
+607
+00:25:16,540 --> 00:25:20,980
+.06 at expiration, the $142 call will have
+
+608
+00:25:20,980 --> 00:25:25,260
+intrinsic value of $1.06, and the $145
+
+609
+00:25:25,260 --> 00:25:28,020
+call will expire worthless, leaving the spread with
+
+610
+00:25:28,020 --> 00:25:31,780
+a value of $1.06. No profit, no
+
+611
+00:25:31,780 --> 00:25:32,160
+loss.
+
+612
+00:25:32,820 --> 00:25:34,400
+Now if the stock price is at or
+
+613
+00:25:34,400 --> 00:25:38,060
+above the upper strike of $145, the call
+
+614
+00:25:38,060 --> 00:25:40,420
+spread will be worth its maximum price of
+
+615
+00:25:40,420 --> 00:25:43,180
+$3, because the strike width is $3.
+
+616
+00:25:43,980 --> 00:25:46,000
+And again, we have to multiply these figures
+
+617
+00:25:46,000 --> 00:25:48,000
+by 100 to get their actual values.
+
+618
+00:25:48,420 --> 00:25:50,680
+So if I short the spread for $106
+
+619
+00:25:50,680 --> 00:25:53,860
+and it appreciates to a value of $300,
+
+620
+00:25:54,420 --> 00:25:57,100
+I will lose $194.
+
+621
+00:25:57,760 --> 00:26:00,300
+But this is just the expiration payoff graph,
+
+622
+00:26:00,420 --> 00:26:02,160
+and we know that this does not reflect
+
+623
+00:26:02,160 --> 00:26:04,360
+what will happen before expiration.
+
+624
+00:26:04,360 --> 00:26:06,260
+So let's go ahead and look at a
+
+625
+00:26:06,260 --> 00:26:09,820
+performance visualization for this position to see exactly
+
+626
+00:26:09,820 --> 00:26:12,860
+how the trade performed relative to changes in
+
+627
+00:26:12,860 --> 00:26:14,980
+the stock price as time was passing.
+
+628
+00:26:15,340 --> 00:26:16,980
+The first thing to note is the correlation
+
+629
+00:26:16,980 --> 00:26:19,400
+between the stock price and the spread price,
+
+630
+00:26:19,840 --> 00:26:21,740
+and since this is a bearish call spread
+
+631
+00:26:21,740 --> 00:26:24,080
+trade, I want the stock price to fall
+
+632
+00:26:24,080 --> 00:26:27,040
+and be below $142 at expiration.
+
+633
+00:26:27,940 --> 00:26:30,440
+About halfway through this trade, with 17 days
+
+634
+00:26:30,440 --> 00:26:32,760
+to expiration, we can see that the stock
+
+635
+00:26:32,760 --> 00:26:37,040
+price was approaching the $145 price level, and
+
+636
+00:26:37,040 --> 00:26:38,820
+we can see that the spread's value was
+
+637
+00:26:38,820 --> 00:26:43,080
+at $2, representing an unrealized loss of about
+
+638
+00:26:43,080 --> 00:26:44,880
+$94 at that time.
+
+639
+00:26:45,400 --> 00:26:47,500
+But as a few more weeks passed, we
+
+640
+00:26:47,500 --> 00:26:49,520
+can see that the stock price declined steadily,
+
+641
+00:26:50,060 --> 00:26:52,440
+and with two days to expiration, the stock
+
+642
+00:26:52,440 --> 00:26:54,560
+price was well below the call spread's strike
+
+643
+00:26:54,560 --> 00:26:57,560
+prices, and the spread price itself was almost
+
+644
+00:26:57,560 --> 00:26:58,100
+$0.
+
+645
+00:26:58,900 --> 00:27:00,880
+So with the best case scenario being that
+
+646
+00:27:00,880 --> 00:27:03,580
+the spread price falls to $0, it would
+
+647
+00:27:03,580 --> 00:27:05,840
+make sense at that moment to close that
+
+648
+00:27:05,840 --> 00:27:08,680
+spread if the price gets close to $0.
+
+649
+00:27:09,400 --> 00:27:12,420
+Now to close a short call spread, meaning
+
+650
+00:27:12,420 --> 00:27:14,640
+a call spread that you sold as an
+
+651
+00:27:14,640 --> 00:27:16,980
+opening trade, you just need to buy back
+
+652
+00:27:16,980 --> 00:27:19,360
+that same call spread to close it, which
+
+653
+00:27:19,360 --> 00:27:21,560
+would consist of buying back the short call
+
+654
+00:27:21,560 --> 00:27:23,240
+and selling the long call.
+
+655
+00:27:23,640 --> 00:27:25,600
+So in this trade, that would mean buying
+
+656
+00:27:25,600 --> 00:27:28,900
+back the short $142 call and selling the
+
+657
+00:27:28,900 --> 00:27:31,400
+long $145 call, and this can be done
+
+658
+00:27:31,400 --> 00:27:32,540
+in one transaction.
+
+659
+00:27:33,200 --> 00:27:35,220
+So if I paid $0.20 to buy
+
+660
+00:27:35,220 --> 00:27:37,540
+back the spread, my net profit would be
+
+661
+00:27:37,540 --> 00:27:41,580
+$86 because I initially shorted the spread for
+
+662
+00:27:41,580 --> 00:27:45,040
+$1.06. In terms of this spread's value
+
+663
+00:27:45,040 --> 00:27:48,160
+at expiration, the stock price was at $142
+
+664
+00:27:48,160 --> 00:27:51,880
+.26, which means the $142 call had intrinsic
+
+665
+00:27:51,880 --> 00:27:55,540
+value of $0.26, and the $145 call
+
+666
+00:27:55,540 --> 00:27:56,820
+expired worthless.
+
+667
+00:27:57,700 --> 00:28:00,740
+Therefore, the price of the $142-$145
+
+668
+00:28:00,740 --> 00:28:03,760
+bear call spread at expiration was $0.26,
+
+669
+00:28:04,200 --> 00:28:06,780
+or a real value of $26.
+
+670
+00:28:07,420 --> 00:28:10,040
+So if I shorted this spread for $106
+
+671
+00:28:10,040 --> 00:28:13,820
+and it had value of $26 at expiration,
+
+672
+00:28:14,420 --> 00:28:16,080
+my profit would be $80.
+
+673
+00:28:17,000 --> 00:28:18,960
+All right, so we've got one vertical spread
+
+674
+00:28:18,960 --> 00:28:20,580
+strategy left, and then we will get to
+
+675
+00:28:20,580 --> 00:28:22,340
+the fun stuff, at least in my opinion,
+
+676
+00:28:22,740 --> 00:28:24,700
+because the next sections are going to be
+
+677
+00:28:24,700 --> 00:28:27,720
+critical in your understanding of vertical spread profitability
+
+678
+00:28:27,720 --> 00:28:29,780
+and how you can make more and more
+
+679
+00:28:29,780 --> 00:28:31,480
+money on your vertical spread positions.
+
+680
+00:28:31,840 --> 00:28:34,000
+The final of the four vertical spread strategies
+
+681
+00:28:34,000 --> 00:28:36,040
+that we have to discuss is the bear
+
+682
+00:28:36,040 --> 00:28:38,720
+put spread, which is sometimes referred to as
+
+683
+00:28:38,720 --> 00:28:41,600
+simply buying a put spread or a put
+
+684
+00:28:41,600 --> 00:28:44,500
+debit spread, since you pay to enter the
+
+685
+00:28:44,500 --> 00:28:44,860
+put spread.
+
+686
+00:28:45,240 --> 00:28:47,800
+To enter a bear put spread position, a
+
+687
+00:28:47,800 --> 00:28:49,560
+trader will buy a put spread at one
+
+688
+00:28:49,560 --> 00:28:52,600
+strike price and short another put option at
+
+689
+00:28:52,600 --> 00:28:53,800
+a lower strike price.
+
+690
+00:28:54,200 --> 00:28:55,620
+And the goal is to see the stock
+
+691
+00:28:55,620 --> 00:28:58,440
+price fall below both of the put spread
+
+692
+00:28:58,440 --> 00:29:01,200
+strike prices, and that would lead to the
+
+693
+00:29:01,200 --> 00:29:02,980
+maximum profit at expiration.
+
+694
+00:29:03,160 --> 00:29:05,240
+And since the put that you purchase will
+
+695
+00:29:05,240 --> 00:29:06,820
+be more expensive than the put that you
+
+696
+00:29:06,820 --> 00:29:09,960
+short when you enter the trade, this position
+
+697
+00:29:09,960 --> 00:29:11,800
+will require that you pay to enter the
+
+698
+00:29:11,800 --> 00:29:14,200
+position, and for that reason, it is sometimes
+
+699
+00:29:14,200 --> 00:29:15,980
+called a put debit spread.
+
+700
+00:29:16,120 --> 00:29:17,600
+So let's take a look at an example
+
+701
+00:29:17,600 --> 00:29:19,620
+and then move on to the more important
+
+702
+00:29:19,620 --> 00:29:20,420
+and fun stuff.
+
+703
+00:29:20,740 --> 00:29:22,660
+At the time of entering this trade, the
+
+704
+00:29:22,660 --> 00:29:27,340
+stock price was at $780.22. To construct
+
+705
+00:29:27,340 --> 00:29:30,120
+this bear put spread, we'll buy the 800
+
+706
+00:29:30,120 --> 00:29:34,860
+put for $44.88 and short the 750
+
+707
+00:29:34,860 --> 00:29:39,860
+put for $22.63. Both options are in
+
+708
+00:29:39,860 --> 00:29:41,840
+the 59-day expiration cycle.
+
+709
+00:29:42,520 --> 00:29:44,520
+The entry price of this spread is therefore
+
+710
+00:29:44,520 --> 00:29:48,820
+$22.25. So let's go ahead and take
+
+711
+00:29:48,820 --> 00:29:51,080
+a look at the expiration profit and loss
+
+712
+00:29:51,080 --> 00:29:54,100
+diagram for this position and then visualize the
+
+713
+00:29:54,100 --> 00:29:55,340
+trade's actual performance.
+
+714
+00:29:55,500 --> 00:29:57,680
+The best case scenario is that the stock
+
+715
+00:29:57,680 --> 00:30:01,360
+price falls below $750 and remains there at
+
+716
+00:30:01,360 --> 00:30:04,320
+expiration, because in that scenario, the put spread
+
+717
+00:30:04,320 --> 00:30:06,220
+will be worth the distance between the strike
+
+718
+00:30:06,220 --> 00:30:07,800
+prices, which is $50.
+
+719
+00:30:08,540 --> 00:30:10,440
+So if I buy a put spread for
+
+720
+00:30:10,440 --> 00:30:15,560
+$22.25 and it depreciates to $50, I'll
+
+721
+00:30:15,560 --> 00:30:19,620
+have a gain of $27.75 from the
+
+722
+00:30:19,620 --> 00:30:21,680
+change in the spread's price, but as we
+
+723
+00:30:21,680 --> 00:30:23,480
+know, we have to multiply that by 100,
+
+724
+00:30:24,040 --> 00:30:26,480
+and we get an actual profit of $2
+
+725
+00:30:26,480 --> 00:30:28,740
+,775.
+
+726
+00:30:29,340 --> 00:30:34,140
+The breakeven price at expiration is $777.75,
+
+727
+00:30:34,640 --> 00:30:37,680
+and if the spread is right at $777
+
+728
+00:30:37,680 --> 00:30:41,560
+.75 at expiration, the 800 put that I
+
+729
+00:30:41,560 --> 00:30:44,900
+own will have intrinsic value equal to $22
+
+730
+00:30:44,900 --> 00:30:48,520
+.25, and the 750 put that I'm short
+
+731
+00:30:48,520 --> 00:30:51,040
+will be worthless, and therefore the spread's price
+
+732
+00:30:51,040 --> 00:30:55,040
+will be $22.25, and I'll have no
+
+733
+00:30:55,040 --> 00:30:57,240
+profit or loss at the time of expiration.
+
+734
+00:30:58,120 --> 00:31:00,360
+And of course, the worst case scenario is
+
+735
+00:31:00,360 --> 00:31:02,320
+that the stock price is above both put
+
+736
+00:31:02,320 --> 00:31:05,220
+strikes at expiration, in which case both options
+
+737
+00:31:05,220 --> 00:31:08,040
+will have no intrinsic value and simply expire
+
+738
+00:31:08,040 --> 00:31:08,500
+worthless.
+
+739
+00:31:08,960 --> 00:31:11,020
+In that scenario, I'd end up having a
+
+740
+00:31:11,020 --> 00:31:15,660
+worthless spread that I paid $2,225 for
+
+741
+00:31:15,660 --> 00:31:18,980
+in the beginning, leaving me with, unfortunately, a
+
+742
+00:31:18,980 --> 00:31:20,640
+100% loss on the position.
+
+743
+00:31:20,820 --> 00:31:23,020
+But this is just the expiration payoff diagram,
+
+744
+00:31:23,360 --> 00:31:25,660
+so let's look at how this trade actually
+
+745
+00:31:25,660 --> 00:31:28,060
+performed as the stock price changed.
+
+746
+00:31:29,020 --> 00:31:31,700
+Understanding that this is a bearish trading strategy,
+
+747
+00:31:31,900 --> 00:31:33,600
+it would make sense that the trade lost
+
+748
+00:31:33,600 --> 00:31:36,420
+money initially as the stock price was increasing.
+
+749
+00:31:36,760 --> 00:31:38,720
+In the first two weeks or so, the
+
+750
+00:31:38,720 --> 00:31:43,460
+stock price unfortunately went from $778 to almost
+
+751
+00:31:43,460 --> 00:31:46,840
+$850, and we can see that the 800,
+
+752
+00:31:46,840 --> 00:31:51,640
+750, bear put spread lost value, falling from
+
+753
+00:31:51,640 --> 00:31:55,360
+a price of $22.25 to a low
+
+754
+00:31:55,360 --> 00:31:56,120
+of $10.
+
+755
+00:31:56,700 --> 00:32:00,500
+The decrease to $10 represents an unrealized loss
+
+756
+00:32:00,500 --> 00:32:03,220
+of $1,225.
+
+757
+00:32:04,080 --> 00:32:08,180
+And that's because I initially paid $2,225
+
+758
+00:32:08,180 --> 00:32:10,680
+for the spread, and a reduction in its
+
+759
+00:32:10,680 --> 00:32:13,540
+price to $10 means the spread is worth
+
+760
+00:32:13,540 --> 00:32:14,480
+$1,000.
+
+761
+00:32:15,000 --> 00:32:17,080
+So we always have to multiply the spread's
+
+762
+00:32:17,080 --> 00:32:19,560
+price by 100 to get its dollar value.
+
+763
+00:32:20,360 --> 00:32:22,120
+I know it's confusing, but that's what we
+
+764
+00:32:22,120 --> 00:32:22,540
+have to do.
+
+765
+00:32:22,940 --> 00:32:24,660
+As luck would have it, the stock rally
+
+766
+00:32:24,660 --> 00:32:26,740
+did not last long, and the share price
+
+767
+00:32:26,740 --> 00:32:28,980
+plummeted over the remainder of the trade.
+
+768
+00:32:29,600 --> 00:32:31,360
+And we can see that at 14 days
+
+769
+00:32:31,360 --> 00:32:34,220
+to expiration, the stock price was just above
+
+770
+00:32:34,220 --> 00:32:39,320
+$750, meaning the 800, 750 put spread was
+
+771
+00:32:39,320 --> 00:32:40,880
+almost fully in the money.
+
+772
+00:32:41,480 --> 00:32:43,620
+The spread's price at that moment was around
+
+773
+00:32:43,620 --> 00:32:47,420
+$34, or a value of $3,400.
+
+774
+00:32:48,400 --> 00:32:51,320
+The stock price fell even further, reaching a
+
+775
+00:32:51,320 --> 00:32:54,880
+low price of $720 when the spread had
+
+776
+00:32:54,880 --> 00:32:57,300
+around 4 days left until expiration.
+
+777
+00:32:58,040 --> 00:33:00,180
+And at that moment, the spread's price was
+
+778
+00:33:00,180 --> 00:33:05,200
+around $47.50, or just $2.50 shy
+
+779
+00:33:05,200 --> 00:33:08,260
+of its maximum potential value of $50.
+
+780
+00:33:09,240 --> 00:33:11,120
+And so the trader could have sold the
+
+781
+00:33:11,120 --> 00:33:15,600
+spread at that moment for $4,750 and
+
+782
+00:33:15,600 --> 00:33:19,340
+secured a profit of $2,525.
+
+783
+00:33:20,240 --> 00:33:22,040
+So to close a put spread that you've
+
+784
+00:33:22,040 --> 00:33:24,840
+purchased, you simply sell that put spread.
+
+785
+00:33:25,600 --> 00:33:27,760
+In this example, that would be done by
+
+786
+00:33:27,760 --> 00:33:31,980
+selling the 800 put and buying back the
+
+787
+00:33:31,980 --> 00:33:33,580
+short 750 put.
+
+788
+00:33:33,580 --> 00:33:35,520
+If the trader held this position all the
+
+789
+00:33:35,520 --> 00:33:38,280
+way to expiration, the P&L would have
+
+790
+00:33:38,280 --> 00:33:40,380
+been $1,760.
+
+791
+00:33:41,020 --> 00:33:43,140
+But where does that profit come from?
+
+792
+00:33:43,540 --> 00:33:47,440
+With the stock price at $760.16 at
+
+793
+00:33:47,440 --> 00:33:51,380
+expiration, the 800 put had intrinsic value equal
+
+794
+00:33:51,380 --> 00:33:55,680
+to $39.84, and the 750 put had
+
+795
+00:33:55,680 --> 00:33:57,000
+no intrinsic value.
+
+796
+00:33:57,000 --> 00:34:00,280
+And therefore the price of the 800 750
+
+797
+00:34:00,280 --> 00:34:04,980
+put spread was $39.84 at expiration, or
+
+798
+00:34:04,980 --> 00:34:08,860
+a value of $3,984.
+
+799
+00:34:09,800 --> 00:34:11,880
+And so if I bought this put spread
+
+800
+00:34:11,880 --> 00:34:16,780
+initially for $2,225 and it was worth
+
+801
+00:34:16,780 --> 00:34:22,620
+$3,985 at expiration, my profit is $1
+
+802
+00:34:22,620 --> 00:34:25,120
+,759.
+
+803
+00:34:26,500 --> 00:34:29,440
+So we've covered the four vertical spread strategies,
+
+804
+00:34:29,820 --> 00:34:31,400
+and I know we've gone through a lot
+
+805
+00:34:31,400 --> 00:34:33,340
+of examples and a lot of numbers in
+
+806
+00:34:33,340 --> 00:34:35,860
+these past four examples, but it's important that
+
+807
+00:34:35,860 --> 00:34:38,540
+you understand the basic mechanics of these vertical
+
+808
+00:34:38,540 --> 00:34:40,820
+spread trades, and that's going to set you
+
+809
+00:34:40,820 --> 00:34:42,880
+up for the next sections that we're going
+
+810
+00:34:42,880 --> 00:34:45,120
+to talk about, which in my opinion are
+
+811
+00:34:45,120 --> 00:34:47,260
+much more exciting and I love talking about
+
+812
+00:34:47,260 --> 00:34:48,280
+them and explaining them.
+
+813
+00:34:48,280 --> 00:34:51,179
+And these next sections are going to talk
+
+814
+00:34:51,179 --> 00:34:54,639
+about vertical spread profitability versus the time left
+
+815
+00:34:54,639 --> 00:34:57,780
+until expiration, and also with changes in implied
+
+816
+00:34:57,780 --> 00:34:58,340
+volatility.
+
+817
+00:34:58,760 --> 00:34:59,580
+And then I'm going to talk to you
+
+818
+00:34:59,580 --> 00:35:02,120
+about how to select the right strategy for
+
+819
+00:35:02,120 --> 00:35:05,840
+your particular situation and stock price outlook, and
+
+820
+00:35:05,840 --> 00:35:07,360
+then we'll close out the video by talking
+
+821
+00:35:07,360 --> 00:35:09,600
+about what happens at expiration to a vertical
+
+822
+00:35:09,600 --> 00:35:13,640
+spread, and lastly, do you have early assignment
+
+823
+00:35:13,640 --> 00:35:15,940
+risk when you trade vertical spread positions.
+
+824
+00:35:16,360 --> 00:35:18,360
+So let's get started by talking about vertical
+
+825
+00:35:18,360 --> 00:35:21,940
+spread profitability versus the time left until expiration.
+
+826
+00:35:22,520 --> 00:35:24,360
+This is perhaps one of the most important
+
+827
+00:35:24,360 --> 00:35:27,900
+things to understand about vertical spread trading, as
+
+828
+00:35:27,900 --> 00:35:30,740
+the time left until expiration has a significant
+
+829
+00:35:30,740 --> 00:35:34,100
+impact on how profitable your vertical spread will
+
+830
+00:35:34,100 --> 00:35:36,520
+be, depending on where the stock price is.
+
+831
+00:35:36,600 --> 00:35:38,980
+The reason this is so important is that
+
+832
+00:35:38,980 --> 00:35:41,500
+you have to understand one law about vertical
+
+833
+00:35:41,500 --> 00:35:44,220
+spreads, and the law about vertical spreads is
+
+834
+00:35:44,220 --> 00:35:47,100
+that to achieve the maximum profit potential on
+
+835
+00:35:47,100 --> 00:35:50,200
+a vertical spread position, both of the options
+
+836
+00:35:50,200 --> 00:35:53,740
+in your vertical spread must have very little
+
+837
+00:35:53,740 --> 00:35:54,720
+extrinsic value.
+
+838
+00:35:55,080 --> 00:35:57,260
+And more specifically, to get to the absolute
+
+839
+00:35:57,260 --> 00:36:01,100
+maximum profit potential, the extrinsic value in your
+
+840
+00:36:01,100 --> 00:36:03,940
+options will need to be zero, which will
+
+841
+00:36:03,940 --> 00:36:07,460
+happen at expiration, or if the spread is
+
+842
+00:36:07,460 --> 00:36:09,960
+so far in the money that the options
+
+843
+00:36:09,960 --> 00:36:13,600
+have very little extrinsic value or no extrinsic
+
+844
+00:36:13,600 --> 00:36:13,880
+value.
+
+845
+00:36:14,100 --> 00:36:16,220
+So basically, the more time your spread has
+
+846
+00:36:16,220 --> 00:36:19,340
+left until it expires, the deeper in the
+
+847
+00:36:19,340 --> 00:36:21,080
+money that spread will have to be to
+
+848
+00:36:21,080 --> 00:36:23,380
+get close to the maximum profit potential.
+
+849
+00:36:24,240 --> 00:36:26,700
+But if your spread has very little time
+
+850
+00:36:26,700 --> 00:36:29,900
+left until expiration or is expiring this day,
+
+851
+00:36:30,300 --> 00:36:32,440
+then the spread can just be fully in
+
+852
+00:36:32,440 --> 00:36:34,100
+the money and it will be trading with
+
+853
+00:36:34,100 --> 00:36:36,980
+very close to the maximum profit potential and
+
+854
+00:36:36,980 --> 00:36:41,260
+subsequently expiring with the maximum profit potential, because
+
+855
+00:36:41,260 --> 00:36:42,780
+if the spread is fully in the money
+
+856
+00:36:42,780 --> 00:36:46,940
+at expiration, only intrinsic value will remain and
+
+857
+00:36:46,940 --> 00:36:50,440
+the spread's value will have 100% of
+
+858
+00:36:50,440 --> 00:36:53,180
+its maximum potential value, which will be the
+
+859
+00:36:53,180 --> 00:36:54,540
+width of the strike prices.
+
+860
+00:36:54,820 --> 00:36:57,000
+So in our earlier bull call spread example,
+
+861
+00:36:57,220 --> 00:36:59,200
+I had mentioned at one point in that
+
+862
+00:36:59,200 --> 00:37:02,060
+example that the stock price was well above
+
+863
+00:37:02,060 --> 00:37:05,020
+both call spread strike prices, meaning the call
+
+864
+00:37:05,020 --> 00:37:06,480
+spread was fully in the money.
+
+865
+00:37:06,980 --> 00:37:09,120
+But I had noted that the spread's price
+
+866
+00:37:09,120 --> 00:37:12,040
+was not $15, which is the width of
+
+867
+00:37:12,040 --> 00:37:12,500
+the strikes.
+
+868
+00:37:13,000 --> 00:37:16,420
+Instead, the spread's price was around $12, or
+
+869
+00:37:16,420 --> 00:37:20,500
+$3 shy of its maximum potential value, despite
+
+870
+00:37:20,500 --> 00:37:21,800
+being fully in the money.
+
+871
+00:37:22,320 --> 00:37:24,760
+And the reason for that is because the
+
+872
+00:37:24,760 --> 00:37:26,520
+spread was not close to expiration.
+
+873
+00:37:26,980 --> 00:37:29,380
+It still had multiple days left before expiration,
+
+874
+00:37:30,340 --> 00:37:32,880
+and because of that, the options in that
+
+875
+00:37:32,880 --> 00:37:36,120
+spread had lots of extrinsic value, and because
+
+876
+00:37:36,120 --> 00:37:38,880
+of the extrinsic value in those options, the
+
+877
+00:37:38,880 --> 00:37:41,040
+spread's price was not yet at its maximum
+
+878
+00:37:41,040 --> 00:37:43,120
+potential value of $15.
+
+879
+00:37:43,660 --> 00:37:45,840
+Take a look again at that example, and
+
+880
+00:37:45,840 --> 00:37:48,540
+at around 18 days to expiration, we can
+
+881
+00:37:48,540 --> 00:37:50,760
+see that the stock price is around $150
+
+882
+00:37:50,760 --> 00:37:54,620
+to $50, but the $135, $150 call spread
+
+883
+00:37:54,620 --> 00:37:57,300
+was not worth its maximum value of $15.
+
+884
+00:37:58,160 --> 00:38:00,320
+And as I mentioned, the reason is because
+
+885
+00:38:00,320 --> 00:38:01,260
+of extrinsic value.
+
+886
+00:38:01,640 --> 00:38:04,280
+If we just strip out the intrinsic value
+
+887
+00:38:04,280 --> 00:38:06,920
+of these options, we can calculate that at
+
+888
+00:38:06,920 --> 00:38:10,220
+a stock price of $150 to $50, the
+
+889
+00:38:10,220 --> 00:38:14,920
+long $135 call has $17.50 of intrinsic
+
+890
+00:38:14,920 --> 00:38:18,660
+value, while the short $150 call has $2
+
+891
+00:38:18,660 --> 00:38:20,740
+.50 of intrinsic value.
+
+892
+00:38:21,360 --> 00:38:23,800
+And therefore, the net intrinsic value of the
+
+893
+00:38:23,800 --> 00:38:27,280
+spread is $15, which is its maximum potential
+
+894
+00:38:27,280 --> 00:38:27,640
+value.
+
+895
+00:38:28,260 --> 00:38:30,460
+And by net intrinsic value, I mean the
+
+896
+00:38:30,460 --> 00:38:33,340
+intrinsic value that I own, and subtracting out
+
+897
+00:38:33,340 --> 00:38:36,160
+the intrinsic value that I don't own, or
+
+898
+00:38:36,160 --> 00:38:37,600
+of the option that I'm short.
+
+899
+00:38:38,280 --> 00:38:39,960
+So basically, if I need to sell that
+
+900
+00:38:39,960 --> 00:38:42,800
+$135 call, I can sell the $135 call
+
+901
+00:38:42,800 --> 00:38:46,880
+for its intrinsic value of $17.50, and
+
+902
+00:38:46,880 --> 00:38:50,640
+I have to pay $2.50 to buy
+
+903
+00:38:50,640 --> 00:38:53,760
+back the short $150 call, assuming that I'm
+
+904
+00:38:53,760 --> 00:38:55,760
+only paying and receiving intrinsic value.
+
+905
+00:38:56,560 --> 00:39:01,020
+And therefore, if I collect $17.50 from
+
+906
+00:39:01,020 --> 00:39:03,700
+selling the $135 call at its level of
+
+907
+00:39:03,700 --> 00:39:07,680
+intrinsic value, and I pay $2.50 to
+
+908
+00:39:07,680 --> 00:39:10,560
+buy back the short $150 call at its
+
+909
+00:39:10,560 --> 00:39:13,860
+intrinsic value of $2.50, then I will
+
+910
+00:39:13,860 --> 00:39:17,260
+collect $15, which is the width of the
+
+911
+00:39:17,260 --> 00:39:20,780
+strikes, or the maximum potential value of that
+
+912
+00:39:20,780 --> 00:39:21,080
+spread.
+
+913
+00:39:21,440 --> 00:39:23,540
+So why is it important to understand that
+
+914
+00:39:23,540 --> 00:39:26,180
+the more time left until expiration, the more
+
+915
+00:39:26,180 --> 00:39:28,860
+extrinsic value these options will have, which will
+
+916
+00:39:28,860 --> 00:39:31,380
+prevent the spread from getting to its maximum
+
+917
+00:39:31,380 --> 00:39:32,180
+potential value?
+
+918
+00:39:32,680 --> 00:39:34,700
+Well, the reason it's important is because if
+
+919
+00:39:34,700 --> 00:39:36,640
+you buy a call spread, or if you
+
+920
+00:39:36,640 --> 00:39:38,860
+buy a put spread, and you see a
+
+921
+00:39:38,860 --> 00:39:41,520
+favorable stock price movement that leaves your spread
+
+922
+00:39:41,520 --> 00:39:43,840
+fully in the money, you have to understand
+
+923
+00:39:43,840 --> 00:39:45,740
+that just because the spread is fully in
+
+924
+00:39:45,740 --> 00:39:47,640
+the money, it doesn't mean that you will
+
+925
+00:39:47,640 --> 00:39:49,100
+have the maximum profit potential.
+
+926
+00:39:49,660 --> 00:39:51,780
+And that's because if the spread is fully
+
+927
+00:39:51,780 --> 00:39:53,340
+in the money with lots of time left
+
+928
+00:39:53,340 --> 00:39:56,120
+until expiration, then there's going to be a
+
+929
+00:39:56,120 --> 00:39:59,180
+lot of extrinsic value in those options, and
+
+930
+00:39:59,180 --> 00:40:01,980
+therefore, the spread will not yet be trading
+
+931
+00:40:01,980 --> 00:40:04,920
+at its maximum potential value, or the width
+
+932
+00:40:04,920 --> 00:40:05,740
+of the strikes.
+
+933
+00:40:06,520 --> 00:40:08,760
+So basically, if you have a spread that
+
+934
+00:40:08,760 --> 00:40:11,560
+becomes fully in the money, you basically have
+
+935
+00:40:11,560 --> 00:40:13,820
+to wait for time to pass for the
+
+936
+00:40:13,820 --> 00:40:16,300
+extrinsic value to decay out of those options,
+
+937
+00:40:16,780 --> 00:40:19,980
+and therefore, the spread's price will gradually approach
+
+938
+00:40:19,980 --> 00:40:23,620
+its maximum value, or the distance between the
+
+939
+00:40:23,620 --> 00:40:24,200
+strike prices.
+
+940
+00:40:24,760 --> 00:40:26,240
+So I can prove this to you by
+
+941
+00:40:26,240 --> 00:40:29,420
+just looking at various vertical spreads and changing
+
+942
+00:40:29,420 --> 00:40:32,880
+the expiration date, or changing the vertical spread's
+
+943
+00:40:32,880 --> 00:40:36,220
+expiration cycle, so that we can basically simulate
+
+944
+00:40:36,220 --> 00:40:39,220
+the loss of extrinsic value, or the increase
+
+945
+00:40:39,220 --> 00:40:41,700
+in extrinsic value, and see how that affects
+
+946
+00:40:41,700 --> 00:40:42,800
+the spread's price.
+
+947
+00:40:43,200 --> 00:40:45,160
+So let's hop over to the Tastyworks trading
+
+948
+00:40:45,160 --> 00:40:47,280
+platform so I can show you some real
+
+949
+00:40:47,280 --> 00:40:49,760
+examples of this, and we can understand that
+
+950
+00:40:49,760 --> 00:40:52,860
+a fully in the money vertical spread will
+
+951
+00:40:52,860 --> 00:40:55,380
+be trading much closer to its maximum value
+
+952
+00:40:55,380 --> 00:40:58,180
+than that same vertical spread with more time
+
+953
+00:40:58,180 --> 00:40:58,980
+until expiration.
+
+954
+00:40:59,300 --> 00:41:00,760
+So let's hop over to the trading platform
+
+955
+00:41:00,760 --> 00:41:02,040
+right now and take a look.
+
+956
+00:41:02,680 --> 00:41:03,900
+So first thing I want to point out
+
+957
+00:41:03,900 --> 00:41:06,100
+is it's an absolute bloodbath today in the
+
+958
+00:41:06,100 --> 00:41:06,320
+market.
+
+959
+00:41:06,620 --> 00:41:10,460
+We have S&P down $125, or three
+
+960
+00:41:10,460 --> 00:41:11,140
+and a half percent.
+
+961
+00:41:11,680 --> 00:41:15,360
+NASDAQ is down 630 points, or over five
+
+962
+00:41:15,360 --> 00:41:15,720
+percent.
+
+963
+00:41:16,320 --> 00:41:17,020
+That's disgusting.
+
+964
+00:41:17,620 --> 00:41:20,120
+All right, anyways, let's go to Apple.
+
+965
+00:41:20,740 --> 00:41:22,220
+So what I'm going to do is I'm
+
+966
+00:41:22,220 --> 00:41:24,880
+going to queue up a vertical spread that
+
+967
+00:41:24,880 --> 00:41:25,840
+is fully in the money.
+
+968
+00:41:26,300 --> 00:41:27,500
+So for this I'm going to look at
+
+969
+00:41:27,500 --> 00:41:28,180
+a call spread.
+
+970
+00:41:28,660 --> 00:41:32,320
+So Apple's current price is $122.75. So
+
+971
+00:41:32,320 --> 00:41:36,360
+I'm going to look at the $100, $110
+
+972
+00:41:36,360 --> 00:41:37,140
+call spread.
+
+973
+00:41:37,580 --> 00:41:39,840
+And let's look at a long-dated expiration
+
+974
+00:41:39,840 --> 00:41:42,760
+cycle, such as November 2020.
+
+975
+00:41:43,460 --> 00:41:46,240
+So if I purchase, or queue up an
+
+976
+00:41:46,240 --> 00:41:49,120
+order to purchase the $100 call, and then
+
+977
+00:41:49,120 --> 00:41:51,060
+I queue up an order to short the
+
+978
+00:41:51,060 --> 00:41:54,120
+$110 call, we can see that this call
+
+979
+00:41:54,120 --> 00:41:56,640
+spread is fully in the money because this
+
+980
+00:41:56,640 --> 00:42:01,820
+is the $100, $110 bull call spread, and
+
+981
+00:42:01,820 --> 00:42:04,200
+Apple is currently at $123.
+
+982
+00:42:04,760 --> 00:42:06,680
+So this call spread is fully in the
+
+983
+00:42:06,680 --> 00:42:06,860
+money.
+
+984
+00:42:07,420 --> 00:42:09,020
+But we can see that the spread's price
+
+985
+00:42:09,020 --> 00:42:13,200
+itself is $6.95, and the most that
+
+986
+00:42:13,200 --> 00:42:15,660
+this spread could be worth at expiration is
+
+987
+00:42:15,660 --> 00:42:16,000
+$10.
+
+988
+00:42:16,900 --> 00:42:18,540
+So let's go ahead and look at the
+
+989
+00:42:18,540 --> 00:42:21,820
+$100, $110 call option in a much shorter
+
+990
+00:42:21,820 --> 00:42:24,800
+term expiration cycle and see if the spread
+
+991
+00:42:24,800 --> 00:42:28,120
+price is higher or lower than $7.
+
+992
+00:42:28,520 --> 00:42:30,000
+So right now it's jumping around a bit
+
+993
+00:42:30,000 --> 00:42:32,440
+because it's a volatile trading day, but we
+
+994
+00:42:32,440 --> 00:42:35,160
+can still gauge the increase in this spread's
+
+995
+00:42:35,160 --> 00:42:37,700
+price as time passes by simply looking at
+
+996
+00:42:37,700 --> 00:42:40,280
+the same spread in a shorter term expiration
+
+997
+00:42:40,280 --> 00:42:40,720
+cycle.
+
+998
+00:42:41,120 --> 00:42:42,980
+So let's go to September 2020.
+
+999
+00:42:43,620 --> 00:42:45,480
+If I queue up an order to purchase
+
+1000
+00:42:45,480 --> 00:42:48,360
+the $100 call and short the $110 call,
+
+1001
+00:42:48,740 --> 00:42:51,400
+we can see that the $100, $110 call
+
+1002
+00:42:51,400 --> 00:42:54,880
+spread, with 15 days to expiration as opposed
+
+1003
+00:42:54,880 --> 00:42:58,560
+to 78 days to expiration, this shorter term
+
+1004
+00:42:58,560 --> 00:43:00,860
+call spread that is fully in the money
+
+1005
+00:43:00,860 --> 00:43:05,220
+is trading for about $8.85. So basically
+
+1006
+00:43:05,220 --> 00:43:08,640
+$2 more than the same exact call spread
+
+1007
+00:43:08,640 --> 00:43:11,120
+with 60 days more until expiration.
+
+1008
+00:43:11,880 --> 00:43:14,020
+And the reason for this is that 15
+
+1009
+00:43:14,020 --> 00:43:17,280
+-day options have much less extrinsic value than
+
+1010
+00:43:17,280 --> 00:43:20,920
+78-day options, and for that reason, if
+
+1011
+00:43:20,920 --> 00:43:22,160
+you look at an in-the-money vertical
+
+1012
+00:43:22,160 --> 00:43:25,820
+spread that has less time until expiration, its
+
+1013
+00:43:25,820 --> 00:43:27,680
+price will be much closer to the maximum
+
+1014
+00:43:27,680 --> 00:43:30,760
+potential value as compared to that same exact
+
+1015
+00:43:30,760 --> 00:43:33,700
+vertical spread with much more time until expiration.
+
+1016
+00:43:34,360 --> 00:43:35,600
+So the next thing we will talk about
+
+1017
+00:43:35,600 --> 00:43:39,440
+is vertical spread profitability versus changes in implied
+
+1018
+00:43:39,440 --> 00:43:43,380
+volatility, which relates directly to the extrinsic value
+
+1019
+00:43:43,380 --> 00:43:46,480
+statements that I made earlier, because implied volatility
+
+1020
+00:43:46,480 --> 00:43:50,740
+literally measures extrinsic value in options.
+
+1021
+00:43:51,200 --> 00:43:54,600
+So if implied volatility increases, that's an indication
+
+1022
+00:43:54,600 --> 00:43:58,660
+that the options have become more expensive extrinsically
+
+1023
+00:43:58,660 --> 00:44:00,880
+relative to the amount of time they have
+
+1024
+00:44:00,880 --> 00:44:01,700
+until expiration.
+
+1025
+00:44:02,660 --> 00:44:04,700
+And on the other hand, if you see
+
+1026
+00:44:04,700 --> 00:44:07,840
+a decrease in implied volatility, that means that
+
+1027
+00:44:07,840 --> 00:44:11,300
+the options now have less extrinsic value than
+
+1028
+00:44:11,300 --> 00:44:13,920
+they had before relative to the time left
+
+1029
+00:44:13,920 --> 00:44:14,700
+until expiration.
+
+1030
+00:44:15,280 --> 00:44:17,400
+So basically if we hold the stock price
+
+1031
+00:44:17,400 --> 00:44:20,440
+constant and we have no passage of time,
+
+1032
+00:44:20,960 --> 00:44:24,140
+a decrease in option extrinsic value results in
+
+1033
+00:44:24,140 --> 00:44:26,060
+a lower level of implied volatility.
+
+1034
+00:44:27,100 --> 00:44:29,380
+And on the other side of things, an
+
+1035
+00:44:29,380 --> 00:44:32,640
+increase in extrinsic value, holding the stock price
+
+1036
+00:44:32,640 --> 00:44:35,720
+and time constant, will lead to an increase
+
+1037
+00:44:35,720 --> 00:44:37,300
+in implied volatility.
+
+1038
+00:44:37,720 --> 00:44:39,400
+So here are two things that you need
+
+1039
+00:44:39,400 --> 00:44:41,220
+to keep in mind and kind of internalize.
+
+1040
+00:44:41,500 --> 00:44:43,300
+The first thing is that if you buy
+
+1041
+00:44:43,300 --> 00:44:45,480
+a call spread or you buy a put
+
+1042
+00:44:45,480 --> 00:44:48,960
+spread, you want the stock price to move
+
+1043
+00:44:48,960 --> 00:44:51,260
+so that that spread becomes in-the-money.
+
+1044
+00:44:51,760 --> 00:44:53,320
+And if you buy a call spread or
+
+1045
+00:44:53,320 --> 00:44:55,920
+put spread and it becomes fully in-the
+
+1046
+00:44:55,920 --> 00:45:00,460
+-money, you want implied volatility to decrease, meaning
+
+1047
+00:45:00,460 --> 00:45:02,560
+that you want the options to have less
+
+1048
+00:45:02,560 --> 00:45:05,480
+extrinsic value relative to the time left until
+
+1049
+00:45:05,480 --> 00:45:09,080
+expiration, because with less extrinsic value in those
+
+1050
+00:45:09,080 --> 00:45:12,700
+options through a decrease in implied volatility means
+
+1051
+00:45:12,700 --> 00:45:16,120
+that the spread's price will actually expand towards
+
+1052
+00:45:16,120 --> 00:45:19,580
+the width of the or its maximum value
+
+1053
+00:45:19,580 --> 00:45:20,020
+potential.
+
+1054
+00:45:20,800 --> 00:45:22,540
+So if you have a $20 wide call
+
+1055
+00:45:22,540 --> 00:45:25,940
+spread and the stock price increases above both
+
+1056
+00:45:25,940 --> 00:45:29,240
+call strike prices, you want implied volatility to
+
+1057
+00:45:29,240 --> 00:45:32,500
+decrease because then that means that these options
+
+1058
+00:45:32,500 --> 00:45:35,100
+have less extrinsic value, and because of that,
+
+1059
+00:45:35,580 --> 00:45:37,740
+the spread's price that you have, which is
+
+1060
+00:45:37,740 --> 00:45:42,240
+$20 wide, will appreciate towards $20 or its
+
+1061
+00:45:42,240 --> 00:45:43,660
+maximum potential value.
+
+1062
+00:45:43,660 --> 00:45:46,240
+The second thing that you should internalize is
+
+1063
+00:45:46,240 --> 00:45:48,840
+that if you short a call spread or
+
+1064
+00:45:48,840 --> 00:45:51,580
+you short a put spread and the spread
+
+1065
+00:45:51,580 --> 00:45:53,320
+is out-of-the-money, which is a
+
+1066
+00:45:53,320 --> 00:45:56,000
+good thing for you, then again, you want
+
+1067
+00:45:56,000 --> 00:45:59,800
+implied volatility to decrease because that means that
+
+1068
+00:45:59,800 --> 00:46:02,980
+there is less extrinsic value in your vertical
+
+1069
+00:46:02,980 --> 00:46:06,400
+spread's options, and less extrinsic value means that
+
+1070
+00:46:06,400 --> 00:46:09,660
+you will see a contraction in your out
+
+1071
+00:46:09,660 --> 00:46:13,260
+-of-the-money vertical spread's price, because with
+
+1072
+00:46:13,260 --> 00:46:15,900
+no intrinsic value, if your spread is out
+
+1073
+00:46:15,900 --> 00:46:18,120
+-of-the-money and it loses extrinsic value,
+
+1074
+00:46:18,300 --> 00:46:20,380
+which is all that it consists of, then
+
+1075
+00:46:20,380 --> 00:46:23,180
+that spread's price will fall closer towards zero,
+
+1076
+00:46:23,520 --> 00:46:25,840
+which is when you would realize the maximum
+
+1077
+00:46:25,840 --> 00:46:26,740
+profit potential.
+
+1078
+00:46:27,000 --> 00:46:28,300
+Now I don't like telling you things to
+
+1079
+00:46:28,300 --> 00:46:30,400
+just memorize, so let me explain these things
+
+1080
+00:46:30,400 --> 00:46:31,820
+that I've just said intuitively.
+
+1081
+00:46:32,200 --> 00:46:34,920
+A broad decrease in the extrinsic value that
+
+1082
+00:46:34,920 --> 00:46:37,980
+exists in a stock's options, meaning a decrease
+
+1083
+00:46:37,980 --> 00:46:41,180
+in implied volatility, means that the option market
+
+1084
+00:46:41,180 --> 00:46:44,660
+is expecting less volatility from that stock price
+
+1085
+00:46:44,660 --> 00:46:47,060
+in the future, which means that there is
+
+1086
+00:46:47,060 --> 00:46:49,600
+a higher probability that the stock price will
+
+1087
+00:46:49,600 --> 00:46:52,040
+be somewhere around its current price in the
+
+1088
+00:46:52,040 --> 00:46:53,900
+future as compared to before.
+
+1089
+00:46:54,160 --> 00:46:56,240
+So if you own a call spread, meaning
+
+1090
+00:46:56,240 --> 00:46:58,560
+you purchase a call spread, and the stock
+
+1091
+00:46:58,560 --> 00:47:00,820
+price is fully above your call spread strike
+
+1092
+00:47:00,820 --> 00:47:05,260
+prices, a decrease in implied volatility, meaning less
+
+1093
+00:47:05,260 --> 00:47:08,240
+extrinsic value in those options, means that there
+
+1094
+00:47:08,240 --> 00:47:11,800
+is a higher expected probability that the stock
+
+1095
+00:47:11,800 --> 00:47:14,220
+price will be somewhere around its current price
+
+1096
+00:47:14,220 --> 00:47:17,360
+in the future, which means that there is
+
+1097
+00:47:17,360 --> 00:47:20,640
+a higher implied probability that your in-the
+
+1098
+00:47:20,640 --> 00:47:23,020
+-money vertical spread will be in-the-money
+
+1099
+00:47:23,020 --> 00:47:23,960
+at expiration.
+
+1100
+00:47:24,340 --> 00:47:27,580
+And if the probability, or the implied probability,
+
+1101
+00:47:28,180 --> 00:47:30,700
+of your vertical spread being in-the-money
+
+1102
+00:47:30,700 --> 00:47:35,000
+at expiration increases, the spread's price will increase.
+
+1103
+00:47:35,200 --> 00:47:37,540
+So basically, if your spread is fully in
+
+1104
+00:47:37,540 --> 00:47:39,200
+-the-money and you own that vertical spread,
+
+1105
+00:47:39,640 --> 00:47:41,740
+meaning you buy a call spread and the
+
+1106
+00:47:41,740 --> 00:47:44,800
+stock price shoots higher, you want implied volatility
+
+1107
+00:47:44,800 --> 00:47:47,820
+to decrease, because a decrease in implied volatility
+
+1108
+00:47:47,820 --> 00:47:50,660
+means that there is a higher implied probability
+
+1109
+00:47:50,660 --> 00:47:53,380
+that the stock price will still be above
+
+1110
+00:47:53,380 --> 00:47:56,580
+your call spread strike price at expiration, and
+
+1111
+00:47:56,580 --> 00:47:58,900
+because that means your spread has a higher
+
+1112
+00:47:58,900 --> 00:48:01,460
+probability of being fully in-the-money at
+
+1113
+00:48:01,460 --> 00:48:05,380
+expiration, the spread's price will increase towards its
+
+1114
+00:48:05,380 --> 00:48:06,820
+maximum potential value.
+
+1115
+00:48:07,000 --> 00:48:08,080
+And the same is true if you are
+
+1116
+00:48:08,080 --> 00:48:09,880
+short a put spread or short a call
+
+1117
+00:48:09,880 --> 00:48:10,140
+spread.
+
+1118
+00:48:10,760 --> 00:48:12,980
+When you short a put spread, you want
+
+1119
+00:48:12,980 --> 00:48:14,920
+the stock price to be above your put
+
+1120
+00:48:14,920 --> 00:48:18,120
+spread strike prices, because then that means the
+
+1121
+00:48:18,120 --> 00:48:22,140
+puts have only extrinsic value, which, if the
+
+1122
+00:48:22,140 --> 00:48:25,360
+extrinsic value decreases, that means the spread's price
+
+1123
+00:48:25,360 --> 00:48:27,040
+will fall towards $0.
+
+1124
+00:48:27,780 --> 00:48:30,600
+So if you have a put spread that
+
+1125
+00:48:30,600 --> 00:48:33,060
+you've shorted and the stock price is above
+
+1126
+00:48:33,060 --> 00:48:36,180
+the put spread strike prices, a decrease in
+
+1127
+00:48:36,180 --> 00:48:39,520
+implied volatility means that the extrinsic value has
+
+1128
+00:48:39,520 --> 00:48:41,760
+decreased in those options, which will lead to
+
+1129
+00:48:41,760 --> 00:48:44,980
+a contraction in the put spread's price towards
+
+1130
+00:48:44,980 --> 00:48:45,340
+$0.
+
+1131
+00:48:45,660 --> 00:48:48,060
+But the reason this makes sense is because
+
+1132
+00:48:48,060 --> 00:48:49,960
+if you have a put spread that you've
+
+1133
+00:48:49,960 --> 00:48:52,360
+shorted and the stock price is above your
+
+1134
+00:48:52,360 --> 00:48:55,380
+put spread strike prices, a decrease in implied
+
+1135
+00:48:55,380 --> 00:48:59,140
+volatility means that there is a lower expected
+
+1136
+00:48:59,140 --> 00:49:02,380
+range for the stock price, and therefore the
+
+1137
+00:49:02,380 --> 00:49:05,040
+probability that your put spread expires out-of
+
+1138
+00:49:05,040 --> 00:49:06,600
+-the-money increases.
+
+1139
+00:49:07,260 --> 00:49:09,680
+And if there is a higher probability of
+
+1140
+00:49:09,680 --> 00:49:12,680
+your put spread expiring worthless, the price of
+
+1141
+00:49:12,680 --> 00:49:14,160
+that put spread will fall.
+
+1142
+00:49:14,740 --> 00:49:16,260
+So if you are short a put spread
+
+1143
+00:49:16,260 --> 00:49:18,760
+and it is out-of-the-money and
+
+1144
+00:49:18,760 --> 00:49:22,220
+implied volatility contracts, that means that there is
+
+1145
+00:49:22,220 --> 00:49:24,960
+a higher probability that your put spread will
+
+1146
+00:49:24,960 --> 00:49:28,060
+expire out-of-the-money or worthless because
+
+1147
+00:49:28,060 --> 00:49:30,900
+there is a lower expected stock price range
+
+1148
+00:49:30,900 --> 00:49:33,600
+than there was before when implied volatility was
+
+1149
+00:49:33,600 --> 00:49:33,900
+higher.
+
+1150
+00:49:34,040 --> 00:49:36,720
+You may have heard that when implied volatility
+
+1151
+00:49:36,720 --> 00:49:39,660
+is low, it is good for debit spreads,
+
+1152
+00:49:39,840 --> 00:49:42,380
+meaning when implied volatility is low, it's better
+
+1153
+00:49:42,380 --> 00:49:44,520
+to buy call spreads and buy put spreads
+
+1154
+00:49:44,520 --> 00:49:49,160
+because the increase in implied volatility will benefit
+
+1155
+00:49:49,160 --> 00:49:51,980
+the position somehow because you are net long
+
+1156
+00:49:51,980 --> 00:49:54,740
+options, meaning you've purchased options essentially.
+
+1157
+00:49:55,260 --> 00:49:58,620
+And that's simply not true because if you
+
+1158
+00:49:58,620 --> 00:50:00,440
+buy a call spread or you buy a
+
+1159
+00:50:00,440 --> 00:50:02,520
+put spread, you want the stock price to
+
+1160
+00:50:02,520 --> 00:50:04,980
+move through the strike prices, and when that
+
+1161
+00:50:04,980 --> 00:50:07,200
+happens, and when your spread becomes in-the
+
+1162
+00:50:07,200 --> 00:50:10,700
+-money, you want implied volatility to decrease because
+
+1163
+00:50:10,700 --> 00:50:12,960
+that means there's less extrinsic value in the
+
+1164
+00:50:12,960 --> 00:50:15,820
+options, and that means the spread's price will
+
+1165
+00:50:15,820 --> 00:50:18,560
+increase towards its maximum potential value.
+
+1166
+00:50:19,220 --> 00:50:22,260
+And intuitively, that's because if your spread that
+
+1167
+00:50:22,260 --> 00:50:24,560
+you own is fully in-the-money and
+
+1168
+00:50:24,560 --> 00:50:27,900
+a decrease in implied volatility occurs, that means
+
+1169
+00:50:27,900 --> 00:50:31,400
+that there's a higher probability or higher implied
+
+1170
+00:50:31,400 --> 00:50:34,860
+probability that your spread will expire in-the
+
+1171
+00:50:34,860 --> 00:50:37,180
+-money, and if your spread expires in-the
+
+1172
+00:50:37,180 --> 00:50:40,500
+-money, it will expire with its maximum potential
+
+1173
+00:50:40,500 --> 00:50:42,860
+value or the width of the strikes.
+
+1174
+00:50:43,540 --> 00:50:46,620
+So a favorable movement with a vertical spread
+
+1175
+00:50:46,620 --> 00:50:49,940
+combined with a decrease in implied volatility is
+
+1176
+00:50:49,940 --> 00:50:51,240
+always a good thing.
+
+1177
+00:50:51,540 --> 00:50:54,260
+The only time an increase in implied volatility
+
+1178
+00:50:54,260 --> 00:50:57,480
+is good is if the stock price is
+
+1179
+00:50:57,480 --> 00:51:00,680
+not in a favorable situation, meaning if you
+
+1180
+00:51:00,680 --> 00:51:02,380
+buy a call spread and the stock price
+
+1181
+00:51:02,380 --> 00:51:04,880
+is below the call spread, meaning the call
+
+1182
+00:51:04,880 --> 00:51:06,980
+spread is out-of-the-money, an increase
+
+1183
+00:51:06,980 --> 00:51:09,560
+in implied volatility is good because it means
+
+1184
+00:51:09,560 --> 00:51:12,280
+that there's a larger potential range for that
+
+1185
+00:51:12,280 --> 00:51:14,540
+stock price or expected range for the stock
+
+1186
+00:51:14,540 --> 00:51:16,460
+price, and that means that there is a
+
+1187
+00:51:16,460 --> 00:51:19,620
+higher probability that your call spread will expire
+
+1188
+00:51:19,620 --> 00:51:21,920
+in-the-money, and because of that increase
+
+1189
+00:51:21,920 --> 00:51:24,400
+in the probability of the call spread expiring
+
+1190
+00:51:24,400 --> 00:51:26,660
+in-the-money, the call spread's price will
+
+1191
+00:51:26,660 --> 00:51:27,140
+increase.
+
+1192
+00:51:27,640 --> 00:51:29,320
+But if the call spread is in-the
+
+1193
+00:51:29,320 --> 00:51:33,020
+-money, you want implied volatility to decrease because
+
+1194
+00:51:33,020 --> 00:51:36,360
+you want the implied probability of the call
+
+1195
+00:51:36,360 --> 00:51:39,240
+spread expiring in-the-money to increase.
+
+1196
+00:51:39,960 --> 00:51:41,160
+So I know this is a lot and
+
+1197
+00:51:41,160 --> 00:51:43,800
+it's a little more complicated than the simple
+
+1198
+00:51:43,800 --> 00:51:46,180
+examples that we talked about earlier, but it
+
+1199
+00:51:46,180 --> 00:51:49,580
+is a critical thing to understand because it
+
+1200
+00:51:49,580 --> 00:51:52,080
+doesn't matter if you are shorting a vertical
+
+1201
+00:51:52,080 --> 00:51:53,940
+spread or if you are purchasing a vertical
+
+1202
+00:51:53,940 --> 00:51:54,280
+spread.
+
+1203
+00:51:54,580 --> 00:51:56,880
+If the stock price is moving in favor
+
+1204
+00:51:56,880 --> 00:52:00,980
+of your vertical spread, meaning that your call
+
+1205
+00:52:00,980 --> 00:52:02,340
+spread that you purchase is in-the-money
+
+1206
+00:52:02,340 --> 00:52:04,720
+or the put spread that you've shorted is
+
+1207
+00:52:04,720 --> 00:52:07,180
+out-of-the-money, you want implied volatility
+
+1208
+00:52:07,180 --> 00:52:09,540
+to decrease 100% of the time.
+
+1209
+00:52:10,200 --> 00:52:12,320
+The only time an increase in implied volatility
+
+1210
+00:52:12,320 --> 00:52:15,360
+is good is if you own a call
+
+1211
+00:52:15,360 --> 00:52:16,540
+or put spread that is out-of-the
+
+1212
+00:52:16,540 --> 00:52:19,400
+-money or if you are short a call
+
+1213
+00:52:19,400 --> 00:52:21,600
+spread or put spread that is in-the
+
+1214
+00:52:21,600 --> 00:52:21,800
+-money.
+
+1215
+00:52:22,320 --> 00:52:24,840
+All right, so let's move on to the
+
+1216
+00:52:24,840 --> 00:52:26,960
+last sections of the video, which is first,
+
+1217
+00:52:27,340 --> 00:52:29,880
+how to select the right strategy for your
+
+1218
+00:52:29,880 --> 00:52:32,460
+given outlook, and then we'll talk about what
+
+1219
+00:52:32,460 --> 00:52:34,900
+happens at expiration and early assignment risk.
+
+1220
+00:52:35,120 --> 00:52:36,900
+So given that there are four different vertical
+
+1221
+00:52:36,900 --> 00:52:39,640
+spread strategies you can choose from, which one
+
+1222
+00:52:39,640 --> 00:52:42,620
+should you actually use depending on your particular
+
+1223
+00:52:42,620 --> 00:52:44,860
+scenario or stock price outlook?
+
+1224
+00:52:45,200 --> 00:52:47,140
+It's really a matter of preference, but here
+
+1225
+00:52:47,140 --> 00:52:48,600
+are some guidelines to help you out.
+
+1226
+00:52:49,040 --> 00:52:51,860
+First, if you are expecting a strong directional
+
+1227
+00:52:51,860 --> 00:52:54,700
+movement from the stock, then in my opinion,
+
+1228
+00:52:55,180 --> 00:52:56,900
+it would be better to buy a call
+
+1229
+00:52:56,900 --> 00:52:59,980
+spread or buy a put spread since that
+
+1230
+00:52:59,980 --> 00:53:01,620
+would be a trade that you could structure
+
+1231
+00:53:01,620 --> 00:53:03,960
+in a way to have very favorable risk
+
+1232
+00:53:03,960 --> 00:53:06,760
+-reward if you are right about your strong
+
+1233
+00:53:06,760 --> 00:53:09,680
+outlook for that stock's potential movement in the
+
+1234
+00:53:09,680 --> 00:53:09,980
+future.
+
+1235
+00:53:10,900 --> 00:53:13,300
+And guideline number two is if you are
+
+1236
+00:53:13,300 --> 00:53:16,280
+not expecting a super strong movement in either
+
+1237
+00:53:16,280 --> 00:53:19,760
+direction, but you want directional exposure and you
+
+1238
+00:53:19,760 --> 00:53:22,700
+want to place a higher probability trade to
+
+1239
+00:53:22,700 --> 00:53:25,460
+profit if the stock price moves in favor
+
+1240
+00:53:25,460 --> 00:53:28,040
+of whatever direction you want, but also could
+
+1241
+00:53:28,040 --> 00:53:31,280
+move against you slightly, then in that scenario,
+
+1242
+00:53:31,460 --> 00:53:32,940
+I think it would be better to go
+
+1243
+00:53:32,940 --> 00:53:35,480
+with the credit spread strategies, which means you
+
+1244
+00:53:35,480 --> 00:53:38,300
+short a call spread, in which case the
+
+1245
+00:53:38,300 --> 00:53:40,160
+strategy will make money so long as the
+
+1246
+00:53:40,160 --> 00:53:42,900
+stock price remains below the call spread, or
+
+1247
+00:53:42,900 --> 00:53:45,540
+you short a put spread, which will give
+
+1248
+00:53:45,540 --> 00:53:48,540
+you bullish exposure, but the strategy will make
+
+1249
+00:53:48,540 --> 00:53:50,780
+money so long as the stock price remains
+
+1250
+00:53:50,780 --> 00:53:52,820
+above the put spread strike prices.
+
+1251
+00:53:52,820 --> 00:53:55,280
+So let's hop over to the Tastyworks trading
+
+1252
+00:53:55,280 --> 00:53:58,140
+platform, and I will show you some example
+
+1253
+00:53:58,140 --> 00:54:01,300
+trade setups with these four vertical spread strategies
+
+1254
+00:54:01,300 --> 00:54:03,460
+so that you can understand kind of the
+
+1255
+00:54:03,460 --> 00:54:06,720
+differences that you'll get with different strike price
+
+1256
+00:54:06,720 --> 00:54:09,560
+selection methods and the risk-reward that you'll
+
+1257
+00:54:09,560 --> 00:54:11,640
+get with those trade structures.
+
+1258
+00:54:11,900 --> 00:54:12,840
+So let's check it out.
+
+1259
+00:54:13,260 --> 00:54:15,360
+So right now I have Netflix pulled up
+
+1260
+00:54:15,360 --> 00:54:17,440
+on the trading platform, and we can see
+
+1261
+00:54:17,440 --> 00:54:21,900
+that Netflix is currently trading for $525 per
+
+1262
+00:54:21,900 --> 00:54:22,260
+share.
+
+1263
+00:54:23,000 --> 00:54:25,440
+So let's say I think that Netflix is
+
+1264
+00:54:25,440 --> 00:54:28,640
+going to experience a very strong directional movement
+
+1265
+00:54:28,640 --> 00:54:31,360
+to the downside, and I want to profit
+
+1266
+00:54:31,360 --> 00:54:32,540
+from that assumption.
+
+1267
+00:54:33,060 --> 00:54:36,120
+So I think Netflix will continue losing substantial
+
+1268
+00:54:36,120 --> 00:54:37,340
+value in the share price.
+
+1269
+00:54:38,180 --> 00:54:41,260
+Of my bearish vertical spread strategies, I could
+
+1270
+00:54:41,260 --> 00:54:44,360
+either buy a put spread, and the other
+
+1271
+00:54:44,360 --> 00:54:46,340
+option is to short a call spread.
+
+1272
+00:54:46,620 --> 00:54:48,460
+So it's between the bear call spread and
+
+1273
+00:54:48,460 --> 00:54:49,360
+the bear put spread.
+
+1274
+00:54:49,660 --> 00:54:53,460
+So let's look at going to the October
+
+1275
+00:54:53,460 --> 00:54:57,460
+expiration cycle with 43 days to go, and
+
+1276
+00:54:57,460 --> 00:55:00,820
+with Netflix at $525, let's look at buying
+
+1277
+00:55:00,820 --> 00:55:04,840
+the $525 put and then look at shorting
+
+1278
+00:55:04,840 --> 00:55:07,140
+the $500 put.
+
+1279
+00:55:07,340 --> 00:55:09,220
+So this would give me a put spread
+
+1280
+00:55:09,220 --> 00:55:14,120
+with a cost of $11.45, and that
+
+1281
+00:55:14,120 --> 00:55:17,000
+means my maximum loss potential is right around
+
+1282
+00:55:17,000 --> 00:55:17,440
+that number.
+
+1283
+00:55:17,560 --> 00:55:18,560
+Let me just lock this price.
+
+1284
+00:55:19,080 --> 00:55:20,200
+So if the price of the put spread
+
+1285
+00:55:20,200 --> 00:55:23,540
+is $11.65, my maximum loss potential is
+
+1286
+00:55:23,540 --> 00:55:25,620
+$1,165.
+
+1287
+00:55:26,220 --> 00:55:31,060
+But my maximum profit potential is $1,335.
+
+1288
+00:55:31,900 --> 00:55:34,100
+So basically, the way I constructed this put
+
+1289
+00:55:34,100 --> 00:55:36,700
+spread is to purchase the at-the-money
+
+1290
+00:55:36,700 --> 00:55:39,920
+option and short a further out-of-the
+
+1291
+00:55:39,920 --> 00:55:40,380
+-money option.
+
+1292
+00:55:40,580 --> 00:55:42,000
+So this is just one way that you
+
+1293
+00:55:42,000 --> 00:55:43,140
+could set this trade up.
+
+1294
+00:55:43,880 --> 00:55:46,280
+But the reason I like this, and the
+
+1295
+00:55:46,280 --> 00:55:48,500
+reason I would suggest buying a call spread
+
+1296
+00:55:48,500 --> 00:55:50,760
+or put spread with a strategy or structure
+
+1297
+00:55:50,760 --> 00:55:53,600
+similar to this one, is because it'll give
+
+1298
+00:55:53,600 --> 00:55:56,500
+you favorable risk-reward, and that will be
+
+1299
+00:55:56,500 --> 00:55:58,640
+beneficial to you if you are correct about
+
+1300
+00:55:58,640 --> 00:56:01,520
+your strong directional outlook for the stock.
+
+1301
+00:56:02,060 --> 00:56:05,220
+So in this case, my maximum profit potential
+
+1302
+00:56:05,220 --> 00:56:07,660
+is slightly higher than the I can lose,
+
+1303
+00:56:07,880 --> 00:56:10,900
+and because of that, if I'm wrong, I
+
+1304
+00:56:10,900 --> 00:56:13,320
+will lose less than I will make if
+
+1305
+00:56:13,320 --> 00:56:14,200
+I am actually right.
+
+1306
+00:56:14,460 --> 00:56:16,540
+So if I'm right about my stock price
+
+1307
+00:56:16,540 --> 00:56:19,620
+prediction that Netflix will fall, then my profit
+
+1308
+00:56:19,620 --> 00:56:23,240
+potential is actually $1,335.
+
+1309
+00:56:23,940 --> 00:56:26,740
+And if I'm wrong, then I will actually
+
+1310
+00:56:26,740 --> 00:56:30,240
+lose less than that, and my potential is
+
+1311
+00:56:30,240 --> 00:56:32,580
+$1,165.
+
+1312
+00:56:33,020 --> 00:56:35,880
+So let's compare this risk profile with the
+
+1313
+00:56:35,880 --> 00:56:36,600
+bear call spread.
+
+1314
+00:56:37,240 --> 00:56:42,360
+So with Netflix at $526, let's look at—I
+
+1315
+00:56:42,360 --> 00:56:45,300
+could even look at selling the $525 call
+
+1316
+00:56:45,300 --> 00:56:48,300
+and then purchasing the $550 call.
+
+1317
+00:56:48,960 --> 00:56:51,120
+So what we'll notice here is that if
+
+1318
+00:56:51,120 --> 00:56:54,680
+I short the $525-$550 call spread,
+
+1319
+00:56:54,860 --> 00:56:57,560
+which is $25 wide, just like the put
+
+1320
+00:56:57,560 --> 00:56:59,780
+spread was that I just looked at, in
+
+1321
+00:56:59,780 --> 00:57:01,980
+this case, I'll make money as long as
+
+1322
+00:57:01,980 --> 00:57:06,460
+Netflix is below $525 at expiration in 43
+
+1323
+00:57:06,460 --> 00:57:06,860
+days.
+
+1324
+00:57:07,340 --> 00:57:09,900
+So since I can sell this spread right
+
+1325
+00:57:09,900 --> 00:57:14,280
+now for $10.95, my maximum profit is
+
+1326
+00:57:14,280 --> 00:57:17,520
+$1,090—well, let me just lock this.
+
+1327
+00:57:18,000 --> 00:57:20,980
+If I sell this for $11, my maximum
+
+1328
+00:57:20,980 --> 00:57:22,580
+profit is $1,100.
+
+1329
+00:57:23,500 --> 00:57:26,700
+But if Netflix is above $550 at expiration,
+
+1330
+00:57:27,240 --> 00:57:29,820
+then this spread will be worth $25, and
+
+1331
+00:57:29,820 --> 00:57:32,020
+if I short it for $11 and it
+
+1332
+00:57:32,020 --> 00:57:35,540
+goes to $25, I'll have a $14 loss,
+
+1333
+00:57:35,860 --> 00:57:38,000
+which means my maximum loss on this is
+
+1334
+00:57:38,000 --> 00:57:40,240
+actually $1,400.
+
+1335
+00:57:41,140 --> 00:57:44,300
+So when we compare these two strategies of
+
+1336
+00:57:44,300 --> 00:57:47,800
+either shorting the $525-$550 call spread
+
+1337
+00:57:47,800 --> 00:57:52,380
+versus buying the $525-$500 put spread,
+
+1338
+00:57:52,860 --> 00:57:55,320
+we can see that this has less favorable
+
+1339
+00:57:55,320 --> 00:57:56,080
+risk-reward.
+
+1340
+00:57:56,520 --> 00:57:58,120
+So I can lose more than I can
+
+1341
+00:57:58,120 --> 00:57:58,940
+make, if I'm right.
+
+1342
+00:57:59,360 --> 00:58:02,180
+But the benefit of using this call spread
+
+1343
+00:58:02,180 --> 00:58:04,760
+strategy over the put spread strategy is that
+
+1344
+00:58:04,760 --> 00:58:06,760
+it has a higher probability of making money,
+
+1345
+00:58:07,200 --> 00:58:11,000
+because as long as Netflix is below $536
+
+1346
+00:58:11,000 --> 00:58:14,500
+at expiration, which is this position's break-even
+
+1347
+00:58:14,500 --> 00:58:16,820
+price, this position will make money.
+
+1348
+00:58:17,300 --> 00:58:20,340
+Whereas if I buy the $525-$500
+
+1349
+00:58:20,340 --> 00:58:23,760
+put spread for $10, then I actually need
+
+1350
+00:58:23,760 --> 00:58:28,100
+Netflix to be below $515 at expiration.
+
+1351
+00:58:28,640 --> 00:58:30,380
+So the reason that I said, if you
+
+1352
+00:58:30,380 --> 00:58:33,260
+have a strong directional outlook for a stock,
+
+1353
+00:58:33,580 --> 00:58:36,440
+then buying the spread is probably better, then
+
+1354
+00:58:36,440 --> 00:58:38,420
+the reason I said that is because you'll
+
+1355
+00:58:38,420 --> 00:58:40,840
+have more favorable risk-reward if you set
+
+1356
+00:58:40,840 --> 00:58:42,000
+it up in this manner.
+
+1357
+00:58:42,640 --> 00:58:44,580
+But I have to drop something on you
+
+1358
+00:58:44,580 --> 00:58:45,000
+right now.
+
+1359
+00:58:45,860 --> 00:58:48,680
+Call spreads and put spreads, buying them and
+
+1360
+00:58:48,680 --> 00:58:51,620
+selling them, are effectively the exact same strategy,
+
+1361
+00:58:51,880 --> 00:58:53,000
+just with calls and puts.
+
+1362
+00:58:53,320 --> 00:58:55,180
+So buying a call spread is the same
+
+1363
+00:58:55,180 --> 00:58:57,780
+exact thing as shorting a put spread with
+
+1364
+00:58:57,780 --> 00:58:58,880
+the same strike prices.
+
+1365
+00:58:59,280 --> 00:59:00,740
+So let me demonstrate that to you right
+
+1366
+00:59:00,740 --> 00:59:01,000
+now.
+
+1367
+00:59:01,880 --> 00:59:06,220
+So as opposed to shorting the $525-
+
+1368
+00:59:06,220 --> 00:59:10,840
+$550 call spread, if I purchased the $550
+
+1369
+00:59:10,840 --> 00:59:14,300
+-$525 put spread, which is essentially fully
+
+1370
+00:59:14,300 --> 00:59:16,560
+in the money, we will see that the
+
+1371
+00:59:16,560 --> 00:59:17,900
+risk profile is very similar.
+
+1372
+00:59:18,480 --> 00:59:21,540
+So for the $525-$550 short call
+
+1373
+00:59:21,540 --> 00:59:24,220
+spread, the max profit is around $10.50,
+
+1374
+00:59:24,360 --> 00:59:27,060
+the max loss is around $14.50. If
+
+1375
+00:59:27,060 --> 00:59:29,920
+I buy the $550-$525 put spread,
+
+1376
+00:59:30,460 --> 00:59:33,080
+the max profit is $10.85, the max
+
+1377
+00:59:33,080 --> 00:59:35,780
+loss is $14.15. Now keep in mind
+
+1378
+00:59:35,780 --> 00:59:38,720
+that these prices are changing as the stock
+
+1379
+00:59:38,720 --> 00:59:40,340
+price is changing, and it's a pretty volatile
+
+1380
+00:59:40,340 --> 00:59:40,680
+day.
+
+1381
+00:59:41,080 --> 00:59:42,920
+So they're not going to be exactly the
+
+1382
+00:59:42,920 --> 00:59:45,660
+same, but if we roughly compare the risk
+
+1383
+00:59:45,660 --> 00:59:48,780
+-to-reward of shorting a call spread or
+
+1384
+00:59:48,780 --> 00:59:51,020
+buying a put spread using the same strike
+
+1385
+00:59:51,020 --> 00:59:53,680
+prices, they will essentially have the exact same
+
+1386
+00:59:53,680 --> 00:59:54,460
+risk profile.
+
+1387
+00:59:54,920 --> 00:59:57,380
+So if we do that once more, go
+
+1388
+00:59:57,380 --> 00:59:59,560
+back to...well, let's look at a different example.
+
+1389
+01:00:00,280 --> 01:00:03,740
+If I short the $500-$475 put
+
+1390
+01:00:03,740 --> 01:00:06,580
+spread, this has max profit of $9.25,
+
+1391
+01:00:07,220 --> 01:00:11,680
+maximum loss potential of $15.75, but to
+
+1392
+01:00:11,680 --> 01:00:13,680
+get this same exact position, I could look
+
+1393
+01:00:13,680 --> 01:00:17,320
+at buying the $475-$500 call spread.
+
+1394
+01:00:17,720 --> 01:00:19,980
+So let's see what the risk-reward profile
+
+1395
+01:00:19,980 --> 01:00:20,660
+for that is.
+
+1396
+01:00:21,180 --> 01:00:25,320
+So buy the $475, short the $500, max
+
+1397
+01:00:25,320 --> 01:00:28,540
+profit $9.65, max loss $15.35. So
+
+1398
+01:00:28,540 --> 01:00:31,240
+they are very similar in nature, and this
+
+1399
+01:00:31,240 --> 01:00:34,180
+gets into the realm of option synthetics, which
+
+1400
+01:00:34,180 --> 01:00:36,600
+is how you can construct the same option
+
+1401
+01:00:36,600 --> 01:00:38,560
+positions in different ways.
+
+1402
+01:00:39,060 --> 01:00:40,680
+But the reason that I'm bringing this up
+
+1403
+01:00:40,680 --> 01:00:43,480
+is because I think it is awkward to
+
+1404
+01:00:43,480 --> 01:00:46,400
+purchase an in-the-money vertical spread, much
+
+1405
+01:00:46,400 --> 01:00:48,320
+like I think it is awkward to short
+
+1406
+01:00:48,320 --> 01:00:49,720
+an in-the-money vertical spread.
+
+1407
+01:00:50,160 --> 01:00:51,620
+So if you want to place a high
+
+1408
+01:00:51,620 --> 01:00:54,040
+-probability trade, then I think it is better
+
+1409
+01:00:54,040 --> 01:00:56,420
+to short an out-of-the-money vertical
+
+1410
+01:00:56,420 --> 01:00:58,820
+spread, or if you want a very favorable
+
+1411
+01:00:58,820 --> 01:01:01,380
+risk-to-reward trade based on a very
+
+1412
+01:01:01,380 --> 01:01:03,940
+strong directional outlook, then I think it is
+
+1413
+01:01:03,940 --> 01:01:05,720
+better to buy an at-the-money or
+
+1414
+01:01:05,720 --> 01:01:07,840
+out-of-the-money vertical spread as compared
+
+1415
+01:01:07,840 --> 01:01:09,960
+to buying a deep in-the-money vertical
+
+1416
+01:01:09,960 --> 01:01:12,720
+spread, because if you buy an in-the
+
+1417
+01:01:12,720 --> 01:01:15,480
+-money vertical spread, the profit potential will be
+
+1418
+01:01:15,480 --> 01:01:18,000
+less than the risk, and if you buy
+
+1419
+01:01:18,000 --> 01:01:20,160
+an out-of-the-money vertical spread, the
+
+1420
+01:01:20,160 --> 01:01:23,000
+profit potential will be more than the risk.
+
+1421
+01:01:23,420 --> 01:01:26,160
+So when you have a very strong directional
+
+1422
+01:01:26,160 --> 01:01:28,380
+outlook for a stock, I think it is
+
+1423
+01:01:28,380 --> 01:01:31,200
+more beneficial to give yourself better risk-reward
+
+1424
+01:01:31,200 --> 01:01:33,800
+as compared to putting on a higher-probability
+
+1425
+01:01:33,800 --> 01:01:36,380
+trade, where if you're right about that strong
+
+1426
+01:01:36,380 --> 01:01:38,800
+directional outlook, you'll make a little bit of
+
+1427
+01:01:38,800 --> 01:01:41,100
+money, but if you're wrong, you'll lose more
+
+1428
+01:01:41,100 --> 01:01:42,300
+than you could have made.
+
+1429
+01:01:42,300 --> 01:01:44,900
+So it's really a matter of preference, and
+
+1430
+01:01:44,900 --> 01:01:46,340
+I would encourage you to go on the
+
+1431
+01:01:46,340 --> 01:01:49,180
+trading platform and play around with the different
+
+1432
+01:01:49,180 --> 01:01:51,720
+trade structures and see what the risk and
+
+1433
+01:01:51,720 --> 01:01:54,380
+the reward profile is for those vertical spreads,
+
+1434
+01:01:54,600 --> 01:01:56,460
+but in my opinion, if you have a
+
+1435
+01:01:56,460 --> 01:01:59,880
+very strong directional outlook for a stock, then
+
+1436
+01:01:59,880 --> 01:02:01,860
+I think it is better to buy a
+
+1437
+01:02:01,860 --> 01:02:04,240
+call spread or put spread, namely one that
+
+1438
+01:02:04,240 --> 01:02:06,520
+is at-the-money, meaning you buy an
+
+1439
+01:02:06,520 --> 01:02:08,540
+at-the-money strike and short an out
+
+1440
+01:02:08,540 --> 01:02:10,760
+-of-the-money option, or you even purchase
+
+1441
+01:02:10,760 --> 01:02:12,960
+an out-of-the-money vertical spread, because
+
+1442
+01:02:12,960 --> 01:02:15,360
+those will give you the most favorable risk
+
+1443
+01:02:15,360 --> 01:02:16,620
+-to-reward profiles.
+
+1444
+01:02:16,780 --> 01:02:18,120
+All right, so let's close out this video
+
+1445
+01:02:18,120 --> 01:02:20,700
+by talking about what happens at expiration to
+
+1446
+01:02:20,700 --> 01:02:24,180
+a vertical spread, and is there early assignment
+
+1447
+01:02:24,180 --> 01:02:26,060
+risk when you are trading vertical spreads?
+
+1448
+01:02:26,180 --> 01:02:28,260
+So understanding what happens to a vertical spread
+
+1449
+01:02:28,260 --> 01:02:32,760
+is fairly simple, because at expiration, any option
+
+1450
+01:02:32,760 --> 01:02:34,340
+that is in the money that is held
+
+1451
+01:02:34,340 --> 01:02:37,300
+through expiration will automatically be exercised.
+
+1452
+01:02:38,020 --> 01:02:40,280
+So for vertical spreads, what this means is
+
+1453
+01:02:40,280 --> 01:02:43,020
+that if your vertical spread is out-of
+
+1454
+01:02:43,020 --> 01:02:45,520
+-the-money, meaning the options have no intrinsic
+
+1455
+01:02:45,520 --> 01:02:49,260
+value, then at expiration, those options will expire
+
+1456
+01:02:49,260 --> 01:02:52,180
+worthless, and they will not convert into any
+
+1457
+01:02:52,180 --> 01:02:52,960
+stock positions.
+
+1458
+01:02:53,300 --> 01:02:56,260
+So those worthless options will simply disappear from
+
+1459
+01:02:56,260 --> 01:02:58,420
+your trading account, and that'll be it.
+
+1460
+01:02:58,540 --> 01:03:00,800
+Now, if your vertical spread is fully in
+
+1461
+01:03:00,800 --> 01:03:03,060
+-the-money, which means both of the options
+
+1462
+01:03:03,060 --> 01:03:06,460
+in the vertical spread have intrinsic value, and
+
+1463
+01:03:06,460 --> 01:03:10,020
+you hold that position through expiration, then both
+
+1464
+01:03:10,020 --> 01:03:13,440
+of the options will actually automatically be exercised
+
+1465
+01:03:13,440 --> 01:03:17,560
+and convert into the corresponding stock positions associated
+
+1466
+01:03:17,560 --> 01:03:20,120
+with whether that's a short or long call,
+
+1467
+01:03:20,420 --> 01:03:21,760
+or a short or long put.
+
+1468
+01:03:22,200 --> 01:03:24,900
+So for example, if I have a 125
+
+1469
+01:03:24,900 --> 01:03:28,140
+-130 call spread that I've purchased, and the
+
+1470
+01:03:28,140 --> 01:03:30,960
+stock price is at 135 at expiration, and
+
+1471
+01:03:30,960 --> 01:03:33,720
+I hold the spread through expiration, the long
+
+1472
+01:03:33,720 --> 01:03:36,620
+125 call that I own will automatically get
+
+1473
+01:03:36,620 --> 01:03:39,240
+exercised, and I will buy 100 shares of
+
+1474
+01:03:39,240 --> 01:03:44,060
+stock at $125 per share, but the 130
+
+1475
+01:03:44,060 --> 01:03:46,940
+call that I am short will also automatically
+
+1476
+01:03:46,940 --> 01:03:49,580
+be exercised, and since I'm short that option,
+
+1477
+01:03:49,920 --> 01:03:52,120
+that means I will be assigned on the
+
+1478
+01:03:52,120 --> 01:03:53,380
+short 130 call.
+
+1479
+01:03:53,720 --> 01:03:56,280
+And that means I will sell 100 shares
+
+1480
+01:03:56,280 --> 01:04:00,780
+of stock at $130 per share.
+
+1481
+01:04:01,100 --> 01:04:03,620
+So basically what will happen if the 125
+
+1482
+01:04:03,620 --> 01:04:07,080
+-130 call expires in-the-money, I'll buy
+
+1483
+01:04:07,080 --> 01:04:10,700
+100 shares at $125, and I will simultaneously
+
+1484
+01:04:10,700 --> 01:04:14,300
+sell those shares at $130, and basically I
+
+1485
+01:04:14,300 --> 01:04:17,300
+will make $500 on that difference, because I
+
+1486
+01:04:17,300 --> 01:04:20,000
+will buy 100 shares at $125, and I
+
+1487
+01:04:20,000 --> 01:04:23,400
+will sell those 100 shares at $130, pocketing
+
+1488
+01:04:23,400 --> 01:04:26,540
+the $500 gain on that transaction.
+
+1489
+01:04:27,000 --> 01:04:30,160
+But if I paid $250 for the spread
+
+1490
+01:04:30,160 --> 01:04:32,580
+when I entered the trade, my net profit
+
+1491
+01:04:32,580 --> 01:04:36,400
+would be $250 in that particular example.
+
+1492
+01:04:36,940 --> 01:04:38,880
+So if the vertical spread is fully in
+
+1493
+01:04:38,880 --> 01:04:41,060
+-the-money, and you allow it to expire
+
+1494
+01:04:41,060 --> 01:04:44,720
+in-the-money, then the exercise and assignments
+
+1495
+01:04:44,720 --> 01:04:46,960
+will offset, and you will not end up
+
+1496
+01:04:46,960 --> 01:04:49,300
+with any stock position after expiration.
+
+1497
+01:04:49,520 --> 01:04:52,320
+Regardless of that though, you will pay exercise
+
+1498
+01:04:52,320 --> 01:04:55,200
+and assignment fees based on whatever your brokerage
+
+1499
+01:04:55,200 --> 01:04:58,340
+firm charges, and I actually would not recommend
+
+1500
+01:04:58,340 --> 01:05:01,480
+holding a vertical spread through expiration, just because
+
+1501
+01:05:01,480 --> 01:05:03,380
+you have the option to close it before
+
+1502
+01:05:03,380 --> 01:05:05,840
+expiration, in which case you don't have to
+
+1503
+01:05:05,840 --> 01:05:07,760
+worry about what's going to happen when those
+
+1504
+01:05:07,760 --> 01:05:09,040
+options expire in-the-money.
+
+1505
+01:05:09,420 --> 01:05:11,040
+So in general, I think it is a
+
+1506
+01:05:11,040 --> 01:05:14,220
+good idea to always close option positions before
+
+1507
+01:05:14,220 --> 01:05:17,740
+expiration, unless they are extremely deep out-of
+
+1508
+01:05:17,740 --> 01:05:19,380
+-the-money, and they're just going to expire
+
+1509
+01:05:19,380 --> 01:05:20,440
+worthless anyways.
+
+1510
+01:05:20,680 --> 01:05:22,800
+But lastly, what happens if a vertical spread
+
+1511
+01:05:22,800 --> 01:05:24,720
+is only partially in-the-money at expiration?
+
+1512
+01:05:25,420 --> 01:05:27,760
+Let's say I buy the 100 put, and
+
+1513
+01:05:27,760 --> 01:05:29,920
+I short the 90 put, and the stock
+
+1514
+01:05:29,920 --> 01:05:32,360
+price is at $93 at expiration.
+
+1515
+01:05:33,020 --> 01:05:34,680
+Well, the 100 put is in-the-money,
+
+1516
+01:05:35,120 --> 01:05:36,820
+and the 90 put is out-of-the
+
+1517
+01:05:36,820 --> 01:05:36,960
+-money.
+
+1518
+01:05:37,260 --> 01:05:39,020
+So this means if I hold the position
+
+1519
+01:05:39,020 --> 01:05:42,060
+through expiration, the 100 put that I own
+
+1520
+01:05:42,060 --> 01:05:45,240
+will automatically be exercised, and I will therefore
+
+1521
+01:05:45,240 --> 01:05:48,920
+short 100 shares of stock at the put
+
+1522
+01:05:48,920 --> 01:05:50,580
+strike price of $100.
+
+1523
+01:05:50,900 --> 01:05:52,680
+So I will end up with a stock
+
+1524
+01:05:52,680 --> 01:05:56,280
+position which would be shorting 100 shares of
+
+1525
+01:05:56,280 --> 01:05:58,800
+stock at the put strike price of $100.
+
+1526
+01:05:59,200 --> 01:06:01,680
+But the 90 put that I shorted initially
+
+1527
+01:06:01,680 --> 01:06:04,580
+will expire out-of-the-money, because it
+
+1528
+01:06:04,580 --> 01:06:07,260
+doesn't have any intrinsic value if the stock
+
+1529
+01:06:07,260 --> 01:06:08,280
+price is at $93.
+
+1530
+01:06:08,720 --> 01:06:11,080
+And because of that, the 90 put will
+
+1531
+01:06:11,080 --> 01:06:13,760
+expire worthless, but the 100 put that I
+
+1532
+01:06:13,760 --> 01:06:16,980
+owned will be exercised automatically, and I will
+
+1533
+01:06:16,980 --> 01:06:20,560
+effectively short 100 shares of stock at that
+
+1534
+01:06:20,560 --> 01:06:21,860
+put strike price of $100.
+
+1535
+01:06:22,440 --> 01:06:24,960
+So if your vertical spread is only partially
+
+1536
+01:06:24,960 --> 01:06:27,000
+in-the-money, meaning the stock price is
+
+1537
+01:06:27,000 --> 01:06:29,940
+in between the strike prices when it expires,
+
+1538
+01:06:30,580 --> 01:06:32,800
+if you hold that spread through expiration, you
+
+1539
+01:06:32,800 --> 01:06:34,660
+will end up with a stock position.
+
+1540
+01:06:35,160 --> 01:06:37,660
+And again, as I mentioned earlier, I think
+
+1541
+01:06:37,660 --> 01:06:39,700
+it is a good idea to close vertical
+
+1542
+01:06:39,700 --> 01:06:43,400
+spreads before expiration, especially if they are partially
+
+1543
+01:06:43,400 --> 01:06:45,820
+in-the-money, because in that scenario, you
+
+1544
+01:06:45,820 --> 01:06:47,640
+will end up with a stock position.
+
+1545
+01:06:48,240 --> 01:06:50,780
+And in most cases, you probably won't want
+
+1546
+01:06:50,780 --> 01:06:53,020
+to be taking the stock position, because if
+
+1547
+01:06:53,020 --> 01:06:55,240
+you're trading options, especially if you're trading in
+
+1548
+01:06:55,240 --> 01:06:57,740
+a smaller account, that stock position is going
+
+1549
+01:06:57,740 --> 01:07:00,680
+to represent a value that is significantly larger
+
+1550
+01:07:00,680 --> 01:07:02,800
+than whatever option position you have.
+
+1551
+01:07:03,360 --> 01:07:05,240
+And for that reason, if your spread is
+
+1552
+01:07:05,240 --> 01:07:08,320
+partially in-the-money at expiration, I would
+
+1553
+01:07:08,320 --> 01:07:12,060
+really recommend closing that spread before it expires
+
+1554
+01:07:12,060 --> 01:07:13,860
+so that you don't end up with a
+
+1555
+01:07:13,860 --> 01:07:16,380
+stock position, and especially if you don't want
+
+1556
+01:07:16,380 --> 01:07:17,120
+the stock position.
+
+1557
+01:07:17,300 --> 01:07:21,180
+And lastly, is there assignment risk when trading
+
+1558
+01:07:21,180 --> 01:07:21,920
+vertical spreads?
+
+1559
+01:07:22,260 --> 01:07:23,620
+And the answer is yes.
+
+1560
+01:07:23,920 --> 01:07:26,820
+Since there is a short option component of
+
+1561
+01:07:26,820 --> 01:07:29,560
+all of the four vertical spread strategies, when
+
+1562
+01:07:29,560 --> 01:07:31,980
+you're trading a vertical spread, if the vertical
+
+1563
+01:07:31,980 --> 01:07:34,160
+spread is in-the-money, meaning that the
+
+1564
+01:07:34,160 --> 01:07:37,200
+short option is in-the-money, then theoretically
+
+1565
+01:07:37,200 --> 01:07:39,680
+you do have risk of being assigned on
+
+1566
+01:07:39,680 --> 01:07:42,380
+that short option, because the only time you'll
+
+1567
+01:07:42,380 --> 01:07:44,420
+be assigned on a short option is if
+
+1568
+01:07:44,420 --> 01:07:45,120
+it is in-the-money.
+
+1569
+01:07:45,540 --> 01:07:47,820
+But at the same time, there really is
+
+1570
+01:07:47,820 --> 01:07:50,900
+not a high risk of early assignment, because
+
+1571
+01:07:50,900 --> 01:07:52,980
+if you're short an in-the-money option
+
+1572
+01:07:52,980 --> 01:07:55,460
+and it has lots of extrinsic value in
+
+1573
+01:07:55,460 --> 01:07:58,660
+its price, it is very unlikely to be
+
+1574
+01:07:58,660 --> 01:08:01,300
+exercised by the person that owns it, because
+
+1575
+01:08:01,300 --> 01:08:05,380
+whoever exercises the option with extrinsic value will
+
+1576
+01:08:05,380 --> 01:08:08,140
+effectively burn the extrinsic value in that option
+
+1577
+01:08:08,140 --> 01:08:09,760
+and give it up unnecessarily.
+
+1578
+01:08:10,260 --> 01:08:13,080
+So for that reason, a rational trader would
+
+1579
+01:08:13,080 --> 01:08:15,760
+never exercise an option that has lots of
+
+1580
+01:08:15,760 --> 01:08:19,319
+extrinsic value, and if they did exercise an
+
+1581
+01:08:19,319 --> 01:08:21,840
+option that had lots of extrinsic value, they
+
+1582
+01:08:21,840 --> 01:08:24,439
+would essentially be forfeiting all of that extrinsic
+
+1583
+01:08:24,439 --> 01:08:26,960
+value, and if you're short that option, that
+
+1584
+01:08:26,960 --> 01:08:29,359
+means you will actually be benefiting by the
+
+1585
+01:08:29,359 --> 01:08:30,640
+amount of that extrinsic value.
+
+1586
+01:08:30,840 --> 01:08:33,060
+In the case of early assignment, there is
+
+1587
+01:08:33,060 --> 01:08:35,160
+an early assignment risk when you're trading vertical
+
+1588
+01:08:35,160 --> 01:08:38,479
+spreads, primarily if the short option is deep
+
+1589
+01:08:38,479 --> 01:08:41,740
+in-the-money with very little extrinsic value.
+
+1590
+01:08:42,359 --> 01:08:44,180
+But in the case of buying a call
+
+1591
+01:08:44,180 --> 01:08:46,620
+spread or buying a put spread, if the
+
+1592
+01:08:46,620 --> 01:08:48,600
+spread is so deep in-the-money that
+
+1593
+01:08:48,600 --> 01:08:51,260
+the short option has very little extrinsic value,
+
+1594
+01:08:51,899 --> 01:08:53,880
+that also means that the long option that
+
+1595
+01:08:53,880 --> 01:08:56,899
+you own also has very little extrinsic value,
+
+1596
+01:08:57,359 --> 01:08:59,340
+and for that reason, that means the spread
+
+1597
+01:08:59,340 --> 01:09:02,080
+is probably trading for very close to its
+
+1598
+01:09:02,080 --> 01:09:04,880
+maximum potential value, and you should be closing
+
+1599
+01:09:04,880 --> 01:09:05,580
+it anyways.
+
+1600
+01:09:05,859 --> 01:09:07,439
+If you own a call spread or you
+
+1601
+01:09:07,439 --> 01:09:09,340
+own a put spread, there should never be
+
+1602
+01:09:09,340 --> 01:09:11,460
+a scenario where you're worried about early assignment,
+
+1603
+01:09:11,979 --> 01:09:14,220
+because in the case where you could be
+
+1604
+01:09:14,220 --> 01:09:16,479
+assigned early on that short option because it
+
+1605
+01:09:16,479 --> 01:09:18,560
+is in-the-money with very little extrinsic
+
+1606
+01:09:18,560 --> 01:09:20,960
+value, that means your put spread or call
+
+1607
+01:09:20,960 --> 01:09:23,340
+spread is already trading near the maximum profit
+
+1608
+01:09:23,340 --> 01:09:25,960
+potential, and therefore, you should close that position.
+
+1609
+01:09:26,340 --> 01:09:27,600
+Now on the other hand, if you are
+
+1610
+01:09:27,600 --> 01:09:29,479
+short a call spread or you are short
+
+1611
+01:09:29,479 --> 01:09:31,740
+a put spread and it is fully in
+
+1612
+01:09:31,740 --> 01:09:33,939
+-the-money, then your short option is actually
+
+1613
+01:09:33,939 --> 01:09:36,220
+going to have less extrinsic value than the
+
+1614
+01:09:36,220 --> 01:09:38,840
+long option, and in this scenario, you are
+
+1615
+01:09:38,840 --> 01:09:41,620
+much more likely to be assigned before expiration.
+
+1616
+01:09:41,920 --> 01:09:44,680
+Since your short spread is actually fully in
+
+1617
+01:09:44,680 --> 01:09:46,460
+-the-money, and that means you have a
+
+1618
+01:09:46,460 --> 01:09:49,120
+losing position, it's a little harder to tell
+
+1619
+01:09:49,120 --> 01:09:52,060
+you to close that spread because it is
+
+1620
+01:09:52,060 --> 01:09:54,640
+illogical to close a vertical spread that is
+
+1621
+01:09:54,640 --> 01:09:57,080
+close to the maximum loss potential, because you
+
+1622
+01:09:57,080 --> 01:09:58,940
+have very little left to lose, but you
+
+1623
+01:09:58,940 --> 01:10:00,200
+have everything left to gain.
+
+1624
+01:10:00,520 --> 01:10:02,300
+So it's a little trickier when you're short
+
+1625
+01:10:02,300 --> 01:10:04,560
+a call spread or put spread and it
+
+1626
+01:10:04,560 --> 01:10:06,340
+is deep in-the-money with early assignment
+
+1627
+01:10:06,340 --> 01:10:09,280
+risk, because in that scenario, the spread is
+
+1628
+01:10:09,280 --> 01:10:11,600
+probably trading at a point that leaves you
+
+1629
+01:10:11,600 --> 01:10:14,540
+with near the maximum loss potential, and in
+
+1630
+01:10:14,540 --> 01:10:17,440
+general, if you have already lost almost all
+
+1631
+01:10:17,440 --> 01:10:19,180
+you can lose on a trade, it doesn't
+
+1632
+01:10:19,180 --> 01:10:20,200
+make sense to close it.
+
+1633
+01:10:20,660 --> 01:10:22,880
+But in this case, it's tricky because if
+
+1634
+01:10:22,880 --> 01:10:25,300
+you continue holding that position, there's a chance
+
+1635
+01:10:25,300 --> 01:10:27,140
+that you'll get assigned early on that short
+
+1636
+01:10:27,140 --> 01:10:29,280
+in-the-money option, but keep in mind
+
+1637
+01:10:29,280 --> 01:10:30,820
+that that does not hand you a huge
+
+1638
+01:10:30,820 --> 01:10:33,020
+loss, because you still have the long option
+
+1639
+01:10:33,020 --> 01:10:35,520
+that is also in-the-money, and you
+
+1640
+01:10:35,520 --> 01:10:38,000
+could just close the stock position and close
+
+1641
+01:10:38,000 --> 01:10:41,060
+the long option to unwind that position, or
+
+1642
+01:10:41,060 --> 01:10:43,460
+you could exercise the in-the-money option
+
+1643
+01:10:43,460 --> 01:10:46,520
+that you own, which would effectively close out
+
+1644
+01:10:46,520 --> 01:10:49,080
+that stock position that you were assigned into.
+
+1645
+01:10:49,780 --> 01:10:52,020
+But again, I would not recommend exercising an
+
+1646
+01:10:52,020 --> 01:10:54,780
+option if it has lots of extrinsic value.
+
+1647
+01:10:55,020 --> 01:10:56,460
+So there's a lot to know there and
+
+1648
+01:10:56,460 --> 01:10:58,600
+a lot to think about, but in general,
+
+1649
+01:10:58,780 --> 01:11:00,980
+you should not worry about early assignment risk
+
+1650
+01:11:00,980 --> 01:11:03,640
+with vertical spreads, because like I said, if
+
+1651
+01:11:03,640 --> 01:11:06,080
+you're buying the spreads, so you're buying a
+
+1652
+01:11:06,080 --> 01:11:07,980
+call spread or buying a put spread, by
+
+1653
+01:11:07,980 --> 01:11:10,060
+the time you get to any situation where
+
+1654
+01:11:10,060 --> 01:11:12,000
+you have early assignment risk, your trade's going
+
+1655
+01:11:12,000 --> 01:11:13,420
+to have the max profit and it should
+
+1656
+01:11:13,420 --> 01:11:13,900
+be closed.
+
+1657
+01:11:14,500 --> 01:11:16,340
+But if you are shorting call spreads or
+
+1658
+01:11:16,340 --> 01:11:19,560
+shorting put spreads, it's a little trickier because
+
+1659
+01:11:19,560 --> 01:11:21,480
+by the time you get to an early
+
+1660
+01:11:21,480 --> 01:11:25,000
+assignment risk scenario, then your position is going
+
+1661
+01:11:25,000 --> 01:11:26,960
+to have close to the maximum loss potential,
+
+1662
+01:11:27,660 --> 01:11:30,160
+and that means that you've already lost everything
+
+1663
+01:11:30,160 --> 01:11:32,360
+you can lose on the trade, and in
+
+1664
+01:11:32,360 --> 01:11:35,320
+those situations, it's illogical to close the trade.
+
+1665
+01:11:35,740 --> 01:11:37,420
+But if you want to avoid the early
+
+1666
+01:11:37,420 --> 01:11:40,160
+assignment risk, the only option you have is
+
+1667
+01:11:40,160 --> 01:11:41,720
+to close that vertical spread.
+
+1668
+01:11:41,840 --> 01:11:42,880
+All right, so that's going to do it
+
+1669
+01:11:42,880 --> 01:11:46,440
+for today's ultimate guide to the vertical spread
+
+1670
+01:11:46,440 --> 01:11:47,240
+option strategies.
+
+1671
+01:11:47,400 --> 01:11:49,780
+I really hope you enjoyed this video and
+
+1672
+01:11:49,780 --> 01:11:50,800
+learned a ton from it.
+
+1673
+01:11:50,920 --> 01:11:53,640
+I covered not only the basics, but I
+
+1674
+01:11:53,640 --> 01:11:56,420
+covered some more advanced material that I would
+
+1675
+01:11:56,420 --> 01:11:58,920
+encourage you to study, namely the vertical spread
+
+1676
+01:11:58,920 --> 01:12:02,440
+profitability versus time to expiration, the vertical spread
+
+1677
+01:12:02,440 --> 01:12:06,280
+profitability versus changes in implied volatility, and both
+
+1678
+01:12:06,280 --> 01:12:08,320
+of those things relate to extrinsic value.
+
+1679
+01:12:08,800 --> 01:12:10,800
+So we not only covered the basics today,
+
+1680
+01:12:10,900 --> 01:12:13,260
+but we covered some more heavy-hitting material.
+
+1681
+01:12:13,760 --> 01:12:16,020
+But if you can master your understanding of
+
+1682
+01:12:16,020 --> 01:12:18,740
+everything that I've described in this video, as
+
+1683
+01:12:18,740 --> 01:12:20,860
+I said earlier, you will make a gigantic
+
+1684
+01:12:20,860 --> 01:12:23,480
+leap forward in your options trading expertise.
+
+1685
+01:12:23,800 --> 01:12:25,760
+If you enjoyed this video, I would really
+
+1686
+01:12:25,760 --> 01:12:27,680
+appreciate if you gave it a like for
+
+1687
+01:12:27,680 --> 01:12:29,620
+me down below, and if you left me
+
+1688
+01:12:29,620 --> 01:12:31,620
+a comment letting me know what you liked
+
+1689
+01:12:31,620 --> 01:12:34,380
+about this video or what you've learned, and
+
+1690
+01:12:34,380 --> 01:12:36,060
+if you have anything else to add that
+
+1691
+01:12:36,060 --> 01:12:38,380
+other people could benefit from, please leave that
+
+1692
+01:12:38,380 --> 01:12:40,060
+down in the comment section below.
+
+1693
+01:12:40,340 --> 01:12:42,160
+My name is Chris from Project Option, and
+
+1694
+01:12:42,160 --> 01:12:43,560
+I will see you all in the next
+
+1695
+01:12:43,560 --> 01:12:43,840
+video.

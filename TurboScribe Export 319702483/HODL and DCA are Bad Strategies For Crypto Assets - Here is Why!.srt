@@ -1,0 +1,2067 @@
+1
+00:00:00,290 --> 00:00:01,710
+That's right guys, you are using the wrong
+
+2
+00:00:01,710 --> 00:00:03,590
+strategy and I'm gonna prove it to you
+
+3
+00:00:03,590 --> 00:00:04,730
+in this video.
+
+4
+00:00:04,870 --> 00:00:06,630
+I'm gonna also show you how you can
+
+5
+00:00:06,630 --> 00:00:08,950
+do better very easily, but only for the
+
+6
+00:00:08,950 --> 00:00:11,030
+ones who watch this video until the end.
+
+7
+00:00:11,250 --> 00:00:12,570
+I'm gonna show you a couple of strategies.
+
+8
+00:00:12,950 --> 00:00:14,610
+Two of them are very common.
+
+9
+00:00:14,830 --> 00:00:16,470
+The chances high that you are using them
+
+10
+00:00:16,470 --> 00:00:18,190
+and they are pretty bad.
+
+11
+00:00:18,370 --> 00:00:19,310
+Check out this chart here.
+
+12
+00:00:19,370 --> 00:00:20,150
+You have three lines.
+
+13
+00:00:20,610 --> 00:00:22,850
+Those lines represent the money that is in
+
+14
+00:00:22,850 --> 00:00:23,910
+each portfolio, right?
+
+15
+00:00:24,030 --> 00:00:26,050
+Each line belongs to a different strategy and
+
+16
+00:00:26,050 --> 00:00:27,650
+we have the blue line, we have the
+
+17
+00:00:27,650 --> 00:00:29,170
+black line and the red line.
+
+18
+00:00:29,170 --> 00:00:30,430
+There are all three different strategies.
+
+19
+00:00:30,810 --> 00:00:32,350
+Two of them you already know, they are
+
+20
+00:00:32,350 --> 00:00:34,990
+quite common and the blue one is a
+
+21
+00:00:34,990 --> 00:00:36,290
+special one and I will tell you all
+
+22
+00:00:36,290 --> 00:00:36,650
+about it.
+
+23
+00:00:36,770 --> 00:00:38,750
+But the question is, right, which of these
+
+24
+00:00:38,750 --> 00:00:41,510
+lines, which of these portfolios would you rather
+
+25
+00:00:41,510 --> 00:00:42,170
+one I have?
+
+26
+00:00:42,190 --> 00:00:43,990
+Because they all started at the same time
+
+27
+00:00:43,990 --> 00:00:45,510
+with the same amount of money as you
+
+28
+00:00:45,510 --> 00:00:46,750
+can see here on the left side.
+
+29
+00:00:47,110 --> 00:00:49,150
+But somehow one ended up with more money
+
+30
+00:00:49,150 --> 00:00:50,070
+than the others.
+
+31
+00:00:50,230 --> 00:00:52,950
+And also one of them always had money
+
+32
+00:00:52,950 --> 00:00:54,970
+even in the bear market while the other
+
+33
+00:00:54,970 --> 00:00:57,150
+ones actually gave it back to the market.
+
+34
+00:00:57,150 --> 00:00:59,510
+Now, this is called the equity line of
+
+35
+00:00:59,510 --> 00:01:00,330
+the strategy.
+
+36
+00:01:00,590 --> 00:01:02,710
+And unfortunately, TradingView does not offer you a
+
+37
+00:01:02,710 --> 00:01:04,610
+simple way to turn on this line so
+
+38
+00:01:04,610 --> 00:01:05,590
+you can see it.
+
+39
+00:01:05,690 --> 00:01:07,610
+But that's why you subscribe to this channel.
+
+40
+00:01:07,890 --> 00:01:09,170
+I will give you a way to turn
+
+41
+00:01:09,170 --> 00:01:11,230
+this on and to add it to every
+
+42
+00:01:11,230 --> 00:01:12,790
+single strategy that you have access to.
+
+43
+00:01:12,910 --> 00:01:14,090
+If you have access to the code, there
+
+44
+00:01:14,090 --> 00:01:16,010
+is one line only that you just copy,
+
+45
+00:01:16,090 --> 00:01:16,770
+paste, save.
+
+46
+00:01:17,150 --> 00:01:19,170
+And then you will have this line on
+
+47
+00:01:19,170 --> 00:01:21,730
+any strategy that offers you the code, right?
+
+48
+00:01:21,730 --> 00:01:22,550
+Very simple.
+
+49
+00:01:22,810 --> 00:01:24,930
+And you should have access to this information
+
+50
+00:01:24,930 --> 00:01:27,770
+because otherwise you're using strategies that do this
+
+51
+00:01:27,770 --> 00:01:28,990
+with your portfolio, right?
+
+52
+00:01:29,190 --> 00:01:30,670
+All of this in this video.
+
+53
+00:01:31,090 --> 00:01:32,730
+And make sure to click the bell to
+
+54
+00:01:32,730 --> 00:01:35,070
+not miss out on any new video that
+
+55
+00:01:35,070 --> 00:01:35,770
+I'm launching.
+
+56
+00:01:36,190 --> 00:01:37,470
+And keep in mind, this is not financial
+
+57
+00:01:37,470 --> 00:01:37,890
+advice.
+
+58
+00:01:38,470 --> 00:01:39,010
+Crypto is risky.
+
+59
+00:01:39,470 --> 00:01:40,510
+You can lose all of your money.
+
+60
+00:01:40,930 --> 00:01:42,630
+That's why I'm doing this channel to give
+
+61
+00:01:42,630 --> 00:01:43,930
+you higher chances of success.
+
+62
+00:01:44,130 --> 00:01:45,710
+And now let's get started.
+
+63
+00:01:45,970 --> 00:01:48,030
+All right, guys, let's look at the chart
+
+64
+00:01:48,030 --> 00:01:50,450
+and let's understand what can happen to your
+
+65
+00:01:50,450 --> 00:01:53,250
+portfolio if you're using the wrong strategy and
+
+66
+00:01:53,250 --> 00:01:54,990
+what can happen if you're using a proper
+
+67
+00:01:54,990 --> 00:01:55,510
+strategy.
+
+68
+00:01:55,910 --> 00:01:57,730
+And by the way, there is a high
+
+69
+00:01:57,730 --> 00:02:01,610
+probability that you are using a strategy that
+
+70
+00:02:01,610 --> 00:02:04,150
+produces the red line or the black line,
+
+71
+00:02:04,170 --> 00:02:07,289
+because those two lines, the portfolio lines belong
+
+72
+00:02:07,289 --> 00:02:08,810
+to very popular strategies.
+
+73
+00:02:09,090 --> 00:02:09,990
+At the end of the video, I will
+
+74
+00:02:09,990 --> 00:02:12,610
+reveal which line belongs to which strategy.
+
+75
+00:02:12,810 --> 00:02:15,150
+But first of all, let's understand how they
+
+76
+00:02:15,150 --> 00:02:17,710
+impact your life and your profits.
+
+77
+00:02:17,710 --> 00:02:19,790
+And let's start by looking at how much
+
+78
+00:02:19,790 --> 00:02:21,410
+money these strategies made.
+
+79
+00:02:21,750 --> 00:02:23,190
+And for that, we need to understand where
+
+80
+00:02:23,190 --> 00:02:23,990
+they started off.
+
+81
+00:02:24,270 --> 00:02:26,530
+They all started off here at the same
+
+82
+00:02:26,530 --> 00:02:29,290
+amount of money, roughly thirty five thousand dollars.
+
+83
+00:02:29,610 --> 00:02:29,710
+OK.
+
+84
+00:02:30,030 --> 00:02:32,550
+And the black and the red strategy, they
+
+85
+00:02:32,550 --> 00:02:35,110
+ended up now having one hundred seventy thousand
+
+86
+00:02:35,110 --> 00:02:37,870
+roughly in the portfolio right now, while the
+
+87
+00:02:37,870 --> 00:02:41,670
+blue strategy has nine hundred and six thousand
+
+88
+00:02:41,670 --> 00:02:43,070
+dollars in the portfolio.
+
+89
+00:02:43,490 --> 00:02:46,230
+That is a five X difference in portfolio
+
+90
+00:02:46,230 --> 00:02:46,870
+value, guys.
+
+91
+00:02:46,870 --> 00:02:48,250
+OK, keep that in mind.
+
+92
+00:02:48,650 --> 00:02:50,810
+Same time frame, just that one strategy is
+
+93
+00:02:50,810 --> 00:02:53,130
+way higher up than the other one.
+
+94
+00:02:53,390 --> 00:02:54,130
+Now, that is great.
+
+95
+00:02:54,450 --> 00:02:55,990
+But that's not the only thing that matters,
+
+96
+00:02:56,010 --> 00:02:58,470
+because if you are looking at what happened
+
+97
+00:02:58,470 --> 00:03:01,550
+over time, you can see something very important.
+
+98
+00:03:01,730 --> 00:03:03,510
+You can see that during the bear market,
+
+99
+00:03:04,290 --> 00:03:07,010
+this strategy had money in the portfolio and
+
+100
+00:03:07,010 --> 00:03:09,070
+it can be used for whatever you want.
+
+101
+00:03:09,350 --> 00:03:10,990
+You can buy apartments, you can buy gold,
+
+102
+00:03:11,150 --> 00:03:13,470
+you can buy jewelry for your partner or
+
+103
+00:03:13,470 --> 00:03:14,410
+whatever you're buying.
+
+104
+00:03:14,410 --> 00:03:16,950
+OK, while the other two strategies, they were
+
+105
+00:03:16,950 --> 00:03:18,870
+quite in a drawdown, because as you can
+
+106
+00:03:18,870 --> 00:03:21,130
+see here, the strategies were basically in a
+
+107
+00:03:21,130 --> 00:03:22,610
+drawdown of sixty seven percent.
+
+108
+00:03:23,110 --> 00:03:25,090
+Whereas this strategy here was only in a
+
+109
+00:03:25,090 --> 00:03:26,670
+drawdown of about twenty percent.
+
+110
+00:03:26,850 --> 00:03:26,970
+Right.
+
+111
+00:03:27,130 --> 00:03:29,190
+So taking out money from the blue strategy
+
+112
+00:03:29,190 --> 00:03:30,050
+would have been easy.
+
+113
+00:03:30,270 --> 00:03:30,510
+Right.
+
+114
+00:03:30,790 --> 00:03:31,890
+So the money is not locked up.
+
+115
+00:03:31,930 --> 00:03:32,430
+It can move.
+
+116
+00:03:32,890 --> 00:03:35,010
+It can help you buy things and maybe
+
+117
+00:03:35,010 --> 00:03:37,430
+invest even better in other assets during the
+
+118
+00:03:37,430 --> 00:03:37,830
+bear market.
+
+119
+00:03:38,090 --> 00:03:40,470
+But using these strategies here, it would be
+
+120
+00:03:40,470 --> 00:03:44,030
+very tough mentally to take money out while
+
+121
+00:03:44,030 --> 00:03:45,850
+the drawdown is so large, you would say,
+
+122
+00:03:45,970 --> 00:03:47,510
+like, let's keep the money in.
+
+123
+00:03:47,670 --> 00:03:48,690
+Let's wait for a recovery.
+
+124
+00:03:49,110 --> 00:03:49,210
+Right.
+
+125
+00:03:49,510 --> 00:03:51,130
+So the problem here is not only that
+
+126
+00:03:51,130 --> 00:03:53,310
+these strategies make less money, but also that
+
+127
+00:03:53,310 --> 00:03:55,330
+you don't have access to the money while
+
+128
+00:03:55,330 --> 00:03:56,210
+prices are cheap.
+
+129
+00:03:56,350 --> 00:03:57,330
+Now, keep that in mind.
+
+130
+00:03:57,470 --> 00:03:58,990
+This is very important what I'm saying here.
+
+131
+00:03:59,210 --> 00:04:02,450
+If prices are down, then most likely prices
+
+132
+00:04:02,450 --> 00:04:04,270
+are down also for other type of assets,
+
+133
+00:04:04,350 --> 00:04:05,090
+not just crypto.
+
+134
+00:04:05,370 --> 00:04:05,530
+OK.
+
+135
+00:04:05,910 --> 00:04:08,370
+So if you have money during a time
+
+136
+00:04:08,370 --> 00:04:11,030
+where everyone else does not have money, you
+
+137
+00:04:11,030 --> 00:04:12,810
+can buy stuff cheap, right, because you have
+
+138
+00:04:12,810 --> 00:04:13,090
+money.
+
+139
+00:04:13,390 --> 00:04:14,910
+The other people need to make money.
+
+140
+00:04:15,010 --> 00:04:16,790
+They need to sell their stuff so you
+
+141
+00:04:16,790 --> 00:04:17,470
+can negotiate.
+
+142
+00:04:17,990 --> 00:04:18,090
+Right.
+
+143
+00:04:18,490 --> 00:04:20,850
+But if you're using the wrong strategy and
+
+144
+00:04:20,850 --> 00:04:22,810
+you're basically giving the profits pretty much back
+
+145
+00:04:22,810 --> 00:04:24,910
+to the market, then you cannot take advantage
+
+146
+00:04:24,910 --> 00:04:25,370
+of this.
+
+147
+00:04:25,770 --> 00:04:27,470
+And this is the important thing that I
+
+148
+00:04:27,470 --> 00:04:28,290
+want to share with you here.
+
+149
+00:04:28,350 --> 00:04:29,970
+So it's not only about having more money
+
+150
+00:04:29,970 --> 00:04:32,730
+in the portfolio, yes, obviously, but also how
+
+151
+00:04:32,730 --> 00:04:33,670
+did you get there?
+
+152
+00:04:33,890 --> 00:04:35,950
+So money has to always work for you.
+
+153
+00:04:35,950 --> 00:04:38,490
+Otherwise, it will work against you because of
+
+154
+00:04:38,490 --> 00:04:41,550
+inflation and because of opportunity costs.
+
+155
+00:04:41,850 --> 00:04:43,470
+In the bear market, there is no reason
+
+156
+00:04:43,470 --> 00:04:45,450
+to hold an asset, a crypto asset that
+
+157
+00:04:45,450 --> 00:04:46,010
+goes down.
+
+158
+00:04:46,190 --> 00:04:47,750
+It's a waste of purchasing power.
+
+159
+00:04:48,030 --> 00:04:48,130
+Right.
+
+160
+00:04:48,130 --> 00:04:50,050
+You can take that and put it into
+
+161
+00:04:50,050 --> 00:04:51,310
+better opportunities.
+
+162
+00:04:51,990 --> 00:04:54,710
+And again, you have to have access to
+
+163
+00:04:54,710 --> 00:04:56,770
+the money in order to be able to
+
+164
+00:04:56,770 --> 00:04:57,250
+do that.
+
+165
+00:04:57,390 --> 00:04:57,550
+Right.
+
+166
+00:04:57,950 --> 00:04:59,810
+So if you see a drop in your
+
+167
+00:04:59,810 --> 00:05:02,510
+portfolio value like this or like this or
+
+168
+00:05:02,510 --> 00:05:05,870
+even like this, right, then you know it's
+
+169
+00:05:05,870 --> 00:05:06,730
+a bad strategy.
+
+170
+00:05:07,090 --> 00:05:08,470
+OK, I think now you get it right.
+
+171
+00:05:08,810 --> 00:05:10,930
+But before we continue and before I reveal
+
+172
+00:05:10,930 --> 00:05:13,690
+which equity line belongs to which strategy, let
+
+173
+00:05:13,690 --> 00:05:15,290
+me know which strategy you would like to
+
+174
+00:05:15,290 --> 00:05:17,210
+have the blue one, the red one and
+
+175
+00:05:17,210 --> 00:05:17,810
+the black one.
+
+176
+00:05:18,030 --> 00:05:19,370
+And also let me know down in the
+
+177
+00:05:19,370 --> 00:05:21,790
+comments which line belongs to which strategy.
+
+178
+00:05:21,930 --> 00:05:22,690
+What do you think?
+
+179
+00:05:23,010 --> 00:05:23,710
+Which one it is?
+
+180
+00:05:23,970 --> 00:05:26,350
+And I'm asking you this for two reasons.
+
+181
+00:05:26,530 --> 00:05:28,050
+First reason I want to know that you
+
+182
+00:05:28,050 --> 00:05:28,610
+pay attention.
+
+183
+00:05:28,870 --> 00:05:31,030
+And second reason is I need more comments
+
+184
+00:05:31,030 --> 00:05:32,010
+on my videos.
+
+185
+00:05:32,010 --> 00:05:34,590
+So go down below and let me know.
+
+186
+00:05:34,970 --> 00:05:38,170
+OK, let's reveal the first strategy that belongs
+
+187
+00:05:38,170 --> 00:05:39,030
+to the red line.
+
+188
+00:05:39,650 --> 00:05:41,610
+What do you think is the red line
+
+189
+00:05:41,610 --> 00:05:44,230
+about which strategy created the red line?
+
+190
+00:05:44,430 --> 00:05:45,930
+Well, drumroll, please.
+
+191
+00:05:46,450 --> 00:05:48,650
+We have the hodl strategy.
+
+192
+00:05:49,130 --> 00:05:50,790
+The hodl strategy is the red line.
+
+193
+00:05:51,330 --> 00:05:54,810
+And it made 369 percent profit since here
+
+194
+00:05:54,810 --> 00:05:59,750
+2018 and with a 76 percent max drawdown.
+
+195
+00:05:59,750 --> 00:06:03,130
+So it's anyway a horrible strategy, full waste
+
+196
+00:06:03,130 --> 00:06:03,610
+of time.
+
+197
+00:06:03,770 --> 00:06:05,510
+And also I have another video explaining that
+
+198
+00:06:05,510 --> 00:06:06,470
+I will link it up top.
+
+199
+00:06:06,630 --> 00:06:07,550
+But as you can see, here is the
+
+200
+00:06:07,550 --> 00:06:09,950
+worst of all of these three strategies because
+
+201
+00:06:09,950 --> 00:06:13,070
+it was in a high drawdown for many
+
+202
+00:06:13,070 --> 00:06:13,650
+years.
+
+203
+00:06:13,850 --> 00:06:13,950
+Right.
+
+204
+00:06:14,150 --> 00:06:14,990
+So this is pretty bad.
+
+205
+00:06:15,110 --> 00:06:17,230
+OK, so even the other strategy, the black
+
+206
+00:06:17,230 --> 00:06:19,390
+one is better than the hodl strategies.
+
+207
+00:06:19,530 --> 00:06:21,350
+Hodl strategy is really the worst thing you
+
+208
+00:06:21,350 --> 00:06:21,750
+can do.
+
+209
+00:06:22,030 --> 00:06:23,790
+And the reason is simply it does not
+
+210
+00:06:23,790 --> 00:06:26,070
+protect you from drawdown and it does not
+
+211
+00:06:26,070 --> 00:06:28,390
+have a sell signal to protect you from
+
+212
+00:06:28,390 --> 00:06:29,730
+even the asset going to zero.
+
+213
+00:06:30,010 --> 00:06:30,930
+So it's a waste of time.
+
+214
+00:06:31,110 --> 00:06:32,790
+Like whoever tells you to use hodl, you
+
+215
+00:06:32,790 --> 00:06:34,790
+should immediately unfollow them.
+
+216
+00:06:35,050 --> 00:06:38,350
+OK, because mathematically it makes absolutely no sense.
+
+217
+00:06:38,630 --> 00:06:39,090
+All right, cool.
+
+218
+00:06:39,230 --> 00:06:42,050
+So for individual assets, not for indices, indices.
+
+219
+00:06:42,530 --> 00:06:43,970
+Yes, but individual assets.
+
+220
+00:06:44,150 --> 00:06:44,270
+No.
+
+221
+00:06:44,630 --> 00:06:44,930
+OK, cool.
+
+222
+00:06:45,330 --> 00:06:46,430
+Now let's go to the next strategy.
+
+223
+00:06:46,570 --> 00:06:47,770
+What is the black line all about?
+
+224
+00:06:47,870 --> 00:06:48,490
+And is it better?
+
+225
+00:06:48,610 --> 00:06:50,570
+Well, it is a bit better because you
+
+226
+00:06:50,570 --> 00:06:52,650
+can see here it protects the portfolio a
+
+227
+00:06:52,650 --> 00:06:54,270
+bit better because they all start with the
+
+228
+00:06:54,270 --> 00:06:54,970
+same amount of money.
+
+229
+00:06:54,970 --> 00:06:56,830
+Well, the red strategy, the hodl strategy goes
+
+230
+00:06:56,830 --> 00:06:58,750
+way down and you have way less money
+
+231
+00:06:58,750 --> 00:07:00,070
+than before for a while.
+
+232
+00:07:00,330 --> 00:07:01,870
+And then it catches up.
+
+233
+00:07:02,190 --> 00:07:05,570
+But the black strategy always better is actually
+
+234
+00:07:05,570 --> 00:07:07,390
+always better than the red strategy.
+
+235
+00:07:07,570 --> 00:07:08,750
+But which strategy is that?
+
+236
+00:07:08,930 --> 00:07:10,090
+Well, let me show you.
+
+237
+00:07:10,510 --> 00:07:11,890
+It is the DCA strategy.
+
+238
+00:07:12,190 --> 00:07:13,770
+The DCA strategy is the black line.
+
+239
+00:07:14,050 --> 00:07:14,170
+Right.
+
+240
+00:07:14,290 --> 00:07:14,770
+It's OK.
+
+241
+00:07:15,230 --> 00:07:17,410
+It's still not the best or anything, but
+
+242
+00:07:17,410 --> 00:07:18,850
+it's better than the hodl strategy.
+
+243
+00:07:19,110 --> 00:07:19,270
+OK.
+
+244
+00:07:19,470 --> 00:07:21,030
+And I have like I said, I have
+
+245
+00:07:21,030 --> 00:07:23,550
+a video about these two and why they
+
+246
+00:07:23,550 --> 00:07:27,370
+are absolutely useless for individual assets, which is
+
+247
+00:07:27,370 --> 00:07:28,610
+what we're doing in crypto, right?
+
+248
+00:07:28,610 --> 00:07:30,010
+We're buying individual assets.
+
+249
+00:07:30,410 --> 00:07:32,970
+So for those type of investments, these strategies
+
+250
+00:07:32,970 --> 00:07:35,710
+are the worst performing strategies that you can
+
+251
+00:07:35,710 --> 00:07:38,750
+use the worst mathematically, the worst.
+
+252
+00:07:39,010 --> 00:07:39,190
+OK.
+
+253
+00:07:39,310 --> 00:07:40,930
+And that's why you subscribe to this channel,
+
+254
+00:07:40,930 --> 00:07:42,810
+because I'm showing you this stuff like if
+
+255
+00:07:42,810 --> 00:07:44,650
+you go to other channels, they tell you
+
+256
+00:07:44,650 --> 00:07:45,930
+use DCA like no.
+
+257
+00:07:46,230 --> 00:07:46,410
+OK.
+
+258
+00:07:46,570 --> 00:07:47,130
+Oh, my God.
+
+259
+00:07:47,230 --> 00:07:47,430
+Right.
+
+260
+00:07:47,550 --> 00:07:50,070
+Because DCA, it's way worse than the blue
+
+261
+00:07:50,070 --> 00:07:50,290
+one.
+
+262
+00:07:50,290 --> 00:07:52,370
+And the blue one is quite easy to
+
+263
+00:07:52,370 --> 00:07:52,750
+achieve.
+
+264
+00:07:52,950 --> 00:07:53,130
+All right.
+
+265
+00:07:53,370 --> 00:07:54,850
+So if you're listening to other channels and
+
+266
+00:07:54,850 --> 00:07:56,630
+they tell you to use hodl or DCA,
+
+267
+00:07:57,030 --> 00:08:00,130
+I mean, listen, after this video, in my
+
+268
+00:08:00,130 --> 00:08:03,290
+opinion, you should run away because mathematically it's
+
+269
+00:08:03,290 --> 00:08:03,870
+bad advice.
+
+270
+00:08:04,150 --> 00:08:04,290
+OK.
+
+271
+00:08:04,550 --> 00:08:06,550
+Having said that, this is not financial advice
+
+272
+00:08:06,550 --> 00:08:06,830
+either.
+
+273
+00:08:06,990 --> 00:08:07,130
+Right.
+
+274
+00:08:07,190 --> 00:08:08,270
+You can do whatever you want.
+
+275
+00:08:08,310 --> 00:08:08,570
+Right.
+
+276
+00:08:08,870 --> 00:08:09,890
+I'm just showing you the facts.
+
+277
+00:08:10,150 --> 00:08:11,430
+But let's go back to the chart and
+
+278
+00:08:11,430 --> 00:08:12,890
+also look at the net profit of this
+
+279
+00:08:12,890 --> 00:08:14,290
+strategy of the DCA one.
+
+280
+00:08:14,550 --> 00:08:16,530
+So we have three hundred eighty five percent
+
+281
+00:08:16,530 --> 00:08:16,890
+profit.
+
+282
+00:08:17,070 --> 00:08:18,190
+A bit better than the other one.
+
+283
+00:08:18,190 --> 00:08:20,450
+We have a max drawdown of only thirteen
+
+284
+00:08:20,450 --> 00:08:20,970
+point six.
+
+285
+00:08:21,050 --> 00:08:22,690
+So that's way better than hodl.
+
+286
+00:08:22,790 --> 00:08:24,090
+OK, like way better.
+
+287
+00:08:24,350 --> 00:08:26,330
+And also because now the price of Bitcoin
+
+288
+00:08:26,330 --> 00:08:26,990
+is quite high.
+
+289
+00:08:27,210 --> 00:08:29,170
+The percent profitable trades is also very high.
+
+290
+00:08:29,190 --> 00:08:30,730
+But that really depends on when you are
+
+291
+00:08:30,730 --> 00:08:31,230
+looking right.
+
+292
+00:08:31,429 --> 00:08:32,730
+If you are in the bear market, then
+
+293
+00:08:32,730 --> 00:08:34,210
+most of these trades are negative.
+
+294
+00:08:34,210 --> 00:08:35,690
+So that number will be way lower.
+
+295
+00:08:36,150 --> 00:08:38,110
+But for right now, when I'm making this
+
+296
+00:08:38,110 --> 00:08:40,190
+video, that is what it is.
+
+297
+00:08:40,409 --> 00:08:42,270
+OK, let's get rid of these squiggles here.
+
+298
+00:08:42,450 --> 00:08:44,810
+And now let's finally reveal what is the
+
+299
+00:08:44,810 --> 00:08:45,570
+blue line about?
+
+300
+00:08:45,890 --> 00:08:47,030
+What type of strategy is that?
+
+301
+00:08:47,670 --> 00:08:50,450
+And that blue line is created by one
+
+302
+00:08:50,450 --> 00:08:51,250
+of my strategies.
+
+303
+00:08:51,470 --> 00:08:52,790
+But you don't really need my strategy.
+
+304
+00:08:52,950 --> 00:08:54,910
+By the way, this is a trend following
+
+305
+00:08:54,910 --> 00:08:55,510
+strategy.
+
+306
+00:08:55,890 --> 00:08:57,610
+I will give you a free trend following
+
+307
+00:08:57,610 --> 00:08:59,570
+strategy at the end of the video that
+
+308
+00:08:59,570 --> 00:09:02,130
+produces pretty much this line kind of it
+
+309
+00:09:02,130 --> 00:09:02,990
+has a higher drawdown.
+
+310
+00:09:03,330 --> 00:09:06,070
+But still, you can do way better than
+
+311
+00:09:06,070 --> 00:09:08,730
+DCA and hodl with a fully free strategy.
+
+312
+00:09:08,970 --> 00:09:11,050
+OK, and I wonder why nobody told you
+
+313
+00:09:11,050 --> 00:09:11,550
+this before.
+
+314
+00:09:11,810 --> 00:09:12,470
+Interesting, right?
+
+315
+00:09:12,770 --> 00:09:14,830
+Again, that's why you subscribe to this channel.
+
+316
+00:09:14,830 --> 00:09:17,070
+So let me show you this strategy had
+
+317
+00:09:17,070 --> 00:09:19,090
+a profit of two thousand four hundred percent
+
+318
+00:09:19,090 --> 00:09:21,390
+since the same time as all the others
+
+319
+00:09:21,390 --> 00:09:24,990
+with a drawdown of 15, making massive amount
+
+320
+00:09:24,990 --> 00:09:26,810
+of profit compared to the others.
+
+321
+00:09:27,150 --> 00:09:29,210
+And as you have seen before, keeping your
+
+322
+00:09:29,210 --> 00:09:31,290
+money protected from large drawdowns.
+
+323
+00:09:31,590 --> 00:09:34,370
+OK, any trend following strategy is better than
+
+324
+00:09:34,370 --> 00:09:35,350
+DCA and hodl.
+
+325
+00:09:35,670 --> 00:09:37,470
+And is it hard to use them?
+
+326
+00:09:38,150 --> 00:09:40,450
+No, especially not if you subscribe to this
+
+327
+00:09:40,450 --> 00:09:42,530
+freaking channel, because that's exactly what I'm talking
+
+328
+00:09:42,530 --> 00:09:44,630
+about for a long time already.
+
+329
+00:09:44,630 --> 00:09:45,990
+OK, so now let me show you the
+
+330
+00:09:45,990 --> 00:09:47,850
+strategy that you can start using today.
+
+331
+00:09:48,270 --> 00:09:50,350
+OK, guys, I've added a new strategy to
+
+332
+00:09:50,350 --> 00:09:52,810
+the chart and the blue line now belongs
+
+333
+00:09:52,810 --> 00:09:55,150
+to the breakout trend follower strategy.
+
+334
+00:09:55,770 --> 00:09:57,410
+And the black and the red line are
+
+335
+00:09:57,410 --> 00:09:59,090
+the same strategies as before.
+
+336
+00:09:59,230 --> 00:10:00,970
+We have the hodl and the DCA, right?
+
+337
+00:10:01,370 --> 00:10:02,270
+Exactly the same as before.
+
+338
+00:10:02,730 --> 00:10:04,130
+And as you can see, the blue line
+
+339
+00:10:04,130 --> 00:10:06,650
+is better than the other two.
+
+340
+00:10:07,270 --> 00:10:09,930
+And fun fact, this breakout trend follower strategy
+
+341
+00:10:09,930 --> 00:10:11,330
+is completely free.
+
+342
+00:10:11,730 --> 00:10:13,150
+I have a link down below in the
+
+343
+00:10:13,150 --> 00:10:13,690
+video description.
+
+344
+00:10:13,690 --> 00:10:14,570
+It's not for me.
+
+345
+00:10:14,650 --> 00:10:16,770
+I just found it on Tradingview.
+
+346
+00:10:16,950 --> 00:10:17,730
+And that's what I'm saying.
+
+347
+00:10:17,850 --> 00:10:22,310
+It's so easy to perform better than the
+
+348
+00:10:22,310 --> 00:10:23,590
+typical strategies.
+
+349
+00:10:24,190 --> 00:10:25,670
+And because you watch this channel, you have
+
+350
+00:10:25,670 --> 00:10:27,690
+this benefit of me sharing free strategies with
+
+351
+00:10:27,690 --> 00:10:27,910
+you.
+
+352
+00:10:28,050 --> 00:10:29,410
+OK, so so check this out.
+
+353
+00:10:29,530 --> 00:10:32,470
+This strategy made a profit of 1,600
+
+354
+00:10:32,470 --> 00:10:34,690
+percent on Bitcoin since the same time here,
+
+355
+00:10:34,710 --> 00:10:38,590
+2018 and 26 percent max drawdown, 50 percent
+
+356
+00:10:38,590 --> 00:10:39,470
+profitable trades.
+
+357
+00:10:39,830 --> 00:10:40,730
+It's OK, actually, right?
+
+358
+00:10:40,730 --> 00:10:43,210
+It's a good strategy, especially for a fully
+
+359
+00:10:43,210 --> 00:10:43,970
+free strategy.
+
+360
+00:10:44,310 --> 00:10:45,730
+OK, this is amazing anyway.
+
+361
+00:10:46,030 --> 00:10:47,590
+So you see what I'm saying now, how
+
+362
+00:10:47,590 --> 00:10:49,570
+did I get this equity line, the blue
+
+363
+00:10:49,570 --> 00:10:52,750
+line into this strategy because the strategy itself
+
+364
+00:10:52,750 --> 00:10:53,930
+doesn't have it.
+
+365
+00:10:54,090 --> 00:10:55,670
+OK, and I promised you at the beginning
+
+366
+00:10:55,670 --> 00:10:57,050
+of the video, I will show you how
+
+367
+00:10:57,050 --> 00:10:57,610
+to do that.
+
+368
+00:10:57,830 --> 00:10:59,090
+Now, first of all, I have the strategy
+
+369
+00:10:59,090 --> 00:11:02,090
+here somewhere, and it's called breakout trend follower
+
+370
+00:11:02,090 --> 00:11:02,950
+here, right?
+
+371
+00:11:03,030 --> 00:11:03,950
+This is the original one.
+
+372
+00:11:04,190 --> 00:11:05,530
+And you see here, this icon, this is
+
+373
+00:11:05,530 --> 00:11:06,770
+the code icon.
+
+374
+00:11:06,770 --> 00:11:07,930
+So I can click on it to get
+
+375
+00:11:07,930 --> 00:11:09,150
+the code of that strategy.
+
+376
+00:11:09,150 --> 00:11:10,990
+When I click on it, it will actually
+
+377
+00:11:10,990 --> 00:11:13,270
+say that is a read only script, of
+
+378
+00:11:13,270 --> 00:11:14,950
+course, because it's not my code, but you
+
+379
+00:11:14,950 --> 00:11:16,150
+can create a working copy.
+
+380
+00:11:16,310 --> 00:11:16,930
+So click on that.
+
+381
+00:11:17,130 --> 00:11:17,230
+Right.
+
+382
+00:11:17,370 --> 00:11:18,770
+And then you can go way down.
+
+383
+00:11:18,770 --> 00:11:20,250
+You don't have to edit anything else.
+
+384
+00:11:20,350 --> 00:11:21,590
+You can just go way down and you
+
+385
+00:11:21,590 --> 00:11:22,910
+can paste this line.
+
+386
+00:11:22,910 --> 00:11:24,730
+And this line I will also put down
+
+387
+00:11:24,730 --> 00:11:25,610
+in the video description.
+
+388
+00:11:25,970 --> 00:11:28,350
+This will simply plot this equity line.
+
+389
+00:11:28,350 --> 00:11:28,650
+OK.
+
+390
+00:11:28,910 --> 00:11:30,310
+And now you just have to save it.
+
+391
+00:11:30,430 --> 00:11:31,530
+You give it some name.
+
+392
+00:11:31,530 --> 00:11:33,370
+So let's say so I put test here.
+
+393
+00:11:33,370 --> 00:11:33,590
+Right.
+
+394
+00:11:33,870 --> 00:11:36,670
+So you just save it and then you
+
+395
+00:11:36,670 --> 00:11:38,510
+have to click on Add to Chart.
+
+396
+00:11:38,510 --> 00:11:39,090
+Right.
+
+397
+00:11:39,350 --> 00:11:39,770
+Add to chart.
+
+398
+00:11:39,910 --> 00:11:41,410
+You click on that and then boom, it
+
+399
+00:11:41,410 --> 00:11:42,950
+appears on your chart.
+
+400
+00:11:43,290 --> 00:11:43,390
+OK.
+
+401
+00:11:43,790 --> 00:11:45,650
+And yeah, it looks crazy now because now
+
+402
+00:11:45,650 --> 00:11:46,210
+I have it twice.
+
+403
+00:11:46,770 --> 00:11:48,170
+And by the way, let me remove my
+
+404
+00:11:48,170 --> 00:11:50,410
+version here because that version was done before.
+
+405
+00:11:50,710 --> 00:11:52,810
+If you want to have less clutter on
+
+406
+00:11:52,810 --> 00:11:55,570
+your chart, simply edit the strategy in the
+
+407
+00:11:55,570 --> 00:11:58,010
+settings and go to the style and remove
+
+408
+00:11:58,010 --> 00:11:59,510
+signal labels and quantity.
+
+409
+00:12:00,010 --> 00:12:02,030
+And then simply you can close this as
+
+410
+00:12:02,030 --> 00:12:02,230
+well.
+
+411
+00:12:02,450 --> 00:12:03,690
+And now it looks a bit better.
+
+412
+00:12:04,250 --> 00:12:05,690
+And by the way, the strategies have to
+
+413
+00:12:05,690 --> 00:12:07,690
+start with the same amount of money because
+
+414
+00:12:07,690 --> 00:12:09,690
+otherwise you can't really compare.
+
+415
+00:12:10,090 --> 00:12:12,430
+And this was thirty five thousand one hundred.
+
+416
+00:12:12,730 --> 00:12:12,830
+OK.
+
+417
+00:12:12,870 --> 00:12:14,550
+And this is how I get them to
+
+418
+00:12:14,550 --> 00:12:17,390
+start at the exact same point in when
+
+419
+00:12:17,390 --> 00:12:18,690
+it comes to the money that they have
+
+420
+00:12:18,690 --> 00:12:19,050
+available.
+
+421
+00:12:19,550 --> 00:12:20,890
+And then they can be compared with each
+
+422
+00:12:20,890 --> 00:12:21,070
+other.
+
+423
+00:12:21,250 --> 00:12:21,350
+OK.
+
+424
+00:12:21,570 --> 00:12:24,430
+So basically you can just take this strategy
+
+425
+00:12:24,430 --> 00:12:26,290
+and use it right now.
+
+426
+00:12:26,470 --> 00:12:27,210
+I mean, today.
+
+427
+00:12:27,610 --> 00:12:27,710
+Right.
+
+428
+00:12:27,890 --> 00:12:29,570
+And as a mega bonus on top, you
+
+429
+00:12:29,570 --> 00:12:32,050
+can fully automate the buy and sell signals
+
+430
+00:12:32,050 --> 00:12:32,750
+of the strategy.
+
+431
+00:12:32,830 --> 00:12:33,030
+Right.
+
+432
+00:12:33,130 --> 00:12:34,370
+As you can see here, you have these
+
+433
+00:12:34,370 --> 00:12:35,470
+buy and sell signals here.
+
+434
+00:12:35,470 --> 00:12:36,830
+You can take them right.
+
+435
+00:12:36,990 --> 00:12:38,530
+The blue ones are the buy signals here
+
+436
+00:12:38,530 --> 00:12:40,370
+and the pink ones are the sell signals.
+
+437
+00:12:40,470 --> 00:12:41,890
+And this is how you can get the
+
+438
+00:12:41,890 --> 00:12:42,350
+back test.
+
+439
+00:12:42,490 --> 00:12:43,550
+This is how you can see all the
+
+440
+00:12:43,550 --> 00:12:44,470
+trades here and everything.
+
+441
+00:12:44,590 --> 00:12:46,170
+But you can take all of these trades.
+
+442
+00:12:46,390 --> 00:12:48,550
+You can automatically send all of these trades
+
+443
+00:12:48,550 --> 00:12:51,590
+to a trading platform called Signum, and that
+
+444
+00:12:51,590 --> 00:12:55,070
+will automatically execute the trades on your exchange.
+
+445
+00:12:55,430 --> 00:12:56,250
+So this is Signum.
+
+446
+00:12:56,690 --> 00:12:58,670
+Go and create an account and you can
+
+447
+00:12:58,670 --> 00:13:00,550
+then take the strategy from trading view and
+
+448
+00:13:00,550 --> 00:13:02,410
+you can tell Signum how to place the
+
+449
+00:13:02,410 --> 00:13:02,710
+orders.
+
+450
+00:13:02,710 --> 00:13:04,610
+And then you can connect Signum to your
+
+451
+00:13:04,610 --> 00:13:05,150
+exchange.
+
+452
+00:13:05,150 --> 00:13:07,170
+And pretty much basically what's happening is the
+
+453
+00:13:07,170 --> 00:13:08,770
+strategy is executing the trades.
+
+454
+00:13:08,910 --> 00:13:10,430
+But they will also happen for you with
+
+455
+00:13:10,430 --> 00:13:10,850
+your money.
+
+456
+00:13:11,050 --> 00:13:12,590
+So you don't even have to click the
+
+457
+00:13:12,590 --> 00:13:14,190
+button to buy and sell when the strategy
+
+458
+00:13:14,190 --> 00:13:14,730
+does it.
+
+459
+00:13:15,030 --> 00:13:16,370
+Instead, it's fully automatic.
+
+460
+00:13:16,710 --> 00:13:17,850
+And why am I telling you this?
+
+461
+00:13:17,930 --> 00:13:20,690
+Because my freaking channel is called Michael Automates.
+
+462
+00:13:21,130 --> 00:13:23,710
+OK, because with automation, you can better stick
+
+463
+00:13:23,710 --> 00:13:24,370
+to the strategy.
+
+464
+00:13:24,590 --> 00:13:27,210
+Less emotions, less manual mistakes.
+
+465
+00:13:27,650 --> 00:13:27,770
+Right.
+
+466
+00:13:28,070 --> 00:13:28,650
+So do that.
+
+467
+00:13:29,030 --> 00:13:30,370
+And listen, if this video didn't give you
+
+468
+00:13:30,370 --> 00:13:32,570
+massive value, then just I don't know.
+
+469
+00:13:32,730 --> 00:13:34,070
+OK, let me know down in the comments
+
+470
+00:13:34,070 --> 00:13:35,770
+how I could add even more value to
+
+471
+00:13:35,770 --> 00:13:37,070
+your life, because I don't know.
+
+472
+00:13:37,330 --> 00:13:39,170
+OK, I think this is huge and massive
+
+473
+00:13:39,170 --> 00:13:39,730
+and amazing.
+
+474
+00:13:40,130 --> 00:13:42,130
+But there is one thing, one more thing
+
+475
+00:13:42,130 --> 00:13:44,490
+right that I can add to your life.
+
+476
+00:13:44,630 --> 00:13:46,010
+But that's only when you have a portfolio
+
+477
+00:13:46,010 --> 00:13:47,430
+that is worth more than 10K.
+
+478
+00:13:47,730 --> 00:13:49,750
+That is basically auto trading dot VIP.
+
+479
+00:13:50,110 --> 00:13:52,970
+And this is my personal masterclass where I
+
+480
+00:13:52,970 --> 00:13:55,350
+have all the knowledge that I possess about
+
+481
+00:13:55,350 --> 00:13:58,450
+trading strategies, automation in this masterclass.
+
+482
+00:13:58,650 --> 00:14:00,750
+And I give access to my strategies.
+
+483
+00:14:01,070 --> 00:14:01,230
+Right.
+
+484
+00:14:01,350 --> 00:14:02,770
+One of the strategies you've seen in the
+
+485
+00:14:02,770 --> 00:14:04,330
+chart today, the blue line that you've seen
+
+486
+00:14:04,330 --> 00:14:06,030
+most of the time is from this particular
+
+487
+00:14:06,030 --> 00:14:06,750
+strategy here.
+
+488
+00:14:06,970 --> 00:14:07,070
+Right.
+
+489
+00:14:07,150 --> 00:14:08,730
+So go to this page, click on apply
+
+490
+00:14:08,730 --> 00:14:10,850
+for access if you want to get access
+
+491
+00:14:10,850 --> 00:14:11,590
+to this masterclass.
+
+492
+00:14:11,870 --> 00:14:12,570
+Yes, it's not cheap.
+
+493
+00:14:12,890 --> 00:14:14,650
+But if you have a bigger portfolio, this
+
+494
+00:14:14,650 --> 00:14:16,150
+is what you need, in my opinion, because
+
+495
+00:14:16,150 --> 00:14:17,210
+you don't want to mess around.
+
+496
+00:14:17,210 --> 00:14:19,050
+You want to have the best education, the
+
+497
+00:14:19,050 --> 00:14:21,730
+best strategies, the best community possible to protect
+
+498
+00:14:21,730 --> 00:14:23,990
+your portfolio and grow that portfolio.
+
+499
+00:14:23,990 --> 00:14:24,310
+Right.
+
+500
+00:14:24,550 --> 00:14:26,350
+Having said all of that, make sure to
+
+501
+00:14:26,350 --> 00:14:28,210
+destroy the like button, subscribe to the channel.
+
+502
+00:14:28,770 --> 00:14:31,070
+And this is the next video you should
+
+503
+00:14:31,070 --> 00:14:31,310
+watch.
+
+504
+00:14:34,650 --> 00:14:38,230
+Oh, oh, oh, oh, oh, oh, oh, oh,
+
+505
+00:14:38,230 --> 00:14:39,290
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+506
+00:14:39,290 --> 00:14:39,810
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+507
+00:14:39,810 --> 00:14:41,050
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+508
+00:14:41,050 --> 00:14:41,730
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+509
+00:14:41,730 --> 00:14:48,240
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+510
+00:14:48,240 --> 00:14:49,460
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+511
+00:14:49,500 --> 00:14:50,840
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+512
+00:14:50,840 --> 00:14:50,940
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+513
+00:14:50,940 --> 00:14:51,460
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+514
+00:14:51,460 --> 00:14:51,560
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+515
+00:14:51,560 --> 00:14:51,660
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+516
+00:14:51,660 --> 00:14:51,760
+oh, oh, oh, oh, oh, oh, oh, oh,
+
+517
+00:14:51,760 --> 00:14:51,860
+oh, oh, oh, oh, oh, oh, oh, oh

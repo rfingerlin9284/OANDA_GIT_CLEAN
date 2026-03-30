@@ -1,0 +1,1783 @@
+1
+00:00:00,010 --> 00:00:02,170
+Hey guys, in this video I will show
+
+2
+00:00:02,170 --> 00:00:04,730
+you my favorite scalping strategy for Bitcoin, which
+
+3
+00:00:04,730 --> 00:00:06,610
+is designed for the 5-minute time frame
+
+4
+00:00:06,610 --> 00:00:07,170
+specifically.
+
+5
+00:00:07,470 --> 00:00:08,650
+So, what is scalping?
+
+6
+00:00:08,970 --> 00:00:11,450
+Scalping is the fastest form of day trading,
+
+7
+00:00:11,630 --> 00:00:13,010
+where the goal is to make a lot
+
+8
+00:00:13,010 --> 00:00:15,149
+of small trades to gain a big profit
+
+9
+00:00:15,149 --> 00:00:15,750
+over time.
+
+10
+00:00:15,850 --> 00:00:17,810
+With this strategy, you can make around 5
+
+11
+00:00:17,810 --> 00:00:18,890
+to 10 trades per day.
+
+12
+00:00:18,990 --> 00:00:20,790
+It's using three different indicators, and in this
+
+13
+00:00:20,790 --> 00:00:22,170
+video, I will show you how to use
+
+14
+00:00:22,170 --> 00:00:23,770
+this strategy step by step.
+
+15
+00:00:23,970 --> 00:00:25,570
+Also, in this video, I will do a
+
+16
+00:00:25,570 --> 00:00:27,150
+300 USDT giveaway.
+
+17
+00:00:27,150 --> 00:00:29,590
+So, I will give away 100 USDT to
+
+18
+00:00:29,590 --> 00:00:31,270
+three of the viewers in this video.
+
+19
+00:00:31,530 --> 00:00:33,230
+Somewhere in this video, I will give instructions
+
+20
+00:00:33,230 --> 00:00:34,430
+on how to get this giveaway.
+
+21
+00:00:34,630 --> 00:00:36,590
+So now, let's go through the strategy step
+
+22
+00:00:36,590 --> 00:00:37,030
+by step.
+
+23
+00:00:37,190 --> 00:00:38,570
+So, the first step is to add the
+
+24
+00:00:38,570 --> 00:00:39,470
+indicators to the chart.
+
+25
+00:00:39,690 --> 00:00:41,390
+So, click the indicator button in trading view
+
+26
+00:00:41,390 --> 00:00:42,830
+and search for EMA.
+
+27
+00:00:43,290 --> 00:00:46,090
+Then, click the moving average exponential indicator twice.
+
+28
+00:00:46,330 --> 00:00:47,010
+One, two.
+
+29
+00:00:47,250 --> 00:00:48,410
+And then, go to the settings for the
+
+30
+00:00:48,410 --> 00:00:50,990
+first EMA and change the length to 50.
+
+31
+00:00:51,330 --> 00:00:53,150
+And then, change the color to yellow.
+
+32
+00:00:53,210 --> 00:00:54,450
+You can pick any color, and I prefer
+
+33
+00:00:54,450 --> 00:00:55,530
+to make the line a bit thicker.
+
+34
+00:00:55,530 --> 00:00:57,330
+Now, go to the settings for the second
+
+35
+00:00:57,330 --> 00:00:59,550
+EMA and change the value to 200.
+
+36
+00:01:00,010 --> 00:01:01,470
+And I prefer to use a green color
+
+37
+00:01:01,470 --> 00:01:03,030
+for this one and a bit thicker line.
+
+38
+00:01:03,250 --> 00:01:03,910
+Just like this.
+
+39
+00:01:04,050 --> 00:01:05,390
+And now, we also need to add MACD.
+
+40
+00:01:05,610 --> 00:01:07,750
+So, search for MACD and use the default
+
+41
+00:01:07,750 --> 00:01:07,990
+one.
+
+42
+00:01:08,170 --> 00:01:09,850
+And in this strategy, we will not need
+
+43
+00:01:09,850 --> 00:01:10,810
+the signal lines.
+
+44
+00:01:11,010 --> 00:01:12,930
+So, untick the MACD and the signal line,
+
+45
+00:01:12,990 --> 00:01:13,790
+so we only have the histogram.
+
+46
+00:01:14,150 --> 00:01:15,330
+And we also need to change the time
+
+47
+00:01:15,330 --> 00:01:16,270
+frame for the MACD.
+
+48
+00:01:16,490 --> 00:01:18,170
+In this strategy, I use the MACD from
+
+49
+00:01:18,170 --> 00:01:19,190
+the one minute time frames.
+
+50
+00:01:19,290 --> 00:01:21,170
+In the MACD settings, in the indicator time
+
+51
+00:01:21,170 --> 00:01:23,070
+frame setting, you can choose another time frame.
+
+52
+00:01:23,210 --> 00:01:24,810
+So, let's choose the one minute time frame.
+
+53
+00:01:24,810 --> 00:01:25,770
+And then, click OK.
+
+54
+00:01:25,990 --> 00:01:27,490
+So, notice that we are in the five
+
+55
+00:01:27,490 --> 00:01:28,550
+minute time frame in the chart.
+
+56
+00:01:28,630 --> 00:01:30,270
+But for the MACD, we're using the one
+
+57
+00:01:30,270 --> 00:01:30,970
+minute time frame.
+
+58
+00:01:31,110 --> 00:01:32,650
+Then, we also need to add the RSI
+
+59
+00:01:32,650 --> 00:01:33,110
+indicator.
+
+60
+00:01:33,290 --> 00:01:35,090
+So, search for RSI and add a default
+
+61
+00:01:35,090 --> 00:01:36,490
+RSI indicator to the chart.
+
+62
+00:01:36,610 --> 00:01:37,850
+And we can use the default settings for
+
+63
+00:01:37,850 --> 00:01:38,250
+the RSI.
+
+64
+00:01:38,470 --> 00:01:39,690
+So, the next step in this strategy is
+
+65
+00:01:39,690 --> 00:01:41,090
+to know when to enter a trade.
+
+66
+00:01:41,390 --> 00:01:42,710
+So, we will use the 50 and the
+
+67
+00:01:42,710 --> 00:01:44,570
+200 EMA as a trend indicator.
+
+68
+00:01:44,830 --> 00:01:46,150
+And we will always take trades in the
+
+69
+00:01:46,150 --> 00:01:47,110
+same direction as a trend.
+
+70
+00:01:47,370 --> 00:01:49,170
+So, when the 50 EMA is crossing the
+
+71
+00:01:49,170 --> 00:01:51,230
+200 EMA to the upside, when the yellow
+
+72
+00:01:51,230 --> 00:01:53,090
+line is above the green line, then we
+
+73
+00:01:53,090 --> 00:01:54,730
+are allowed to make long positions.
+
+74
+00:01:54,730 --> 00:01:56,530
+And then, we will enter the trades on
+
+75
+00:01:56,530 --> 00:01:57,090
+pullbacks.
+
+76
+00:01:57,330 --> 00:01:58,750
+So, when we have a big downtick on
+
+77
+00:01:58,750 --> 00:02:00,530
+the MACD, then we enter the trade right
+
+78
+00:02:00,530 --> 00:02:00,770
+away.
+
+79
+00:02:00,930 --> 00:02:02,290
+So, we're looking for a downtick on the
+
+80
+00:02:02,290 --> 00:02:03,790
+MACD that is bigger than the average.
+
+81
+00:02:04,090 --> 00:02:05,930
+I would enter the first trade here on
+
+82
+00:02:05,930 --> 00:02:06,570
+this downtick.
+
+83
+00:02:06,810 --> 00:02:07,509
+So, right here.
+
+84
+00:02:07,610 --> 00:02:08,750
+And then, we set the target profit to
+
+85
+00:02:08,750 --> 00:02:10,810
+0.5% and the stop loss at
+
+86
+00:02:10,810 --> 00:02:12,930
+0.4%. And as you can see, this
+
+87
+00:02:12,930 --> 00:02:14,030
+trade was a win straight away.
+
+88
+00:02:14,230 --> 00:02:15,870
+And then, we're looking for another downtick on
+
+89
+00:02:15,870 --> 00:02:17,410
+the MACD that is bigger than the average.
+
+90
+00:02:17,570 --> 00:02:18,990
+And I will say it's this one right
+
+91
+00:02:18,990 --> 00:02:19,230
+there.
+
+92
+00:02:19,370 --> 00:02:20,690
+So, we take the profit at 0.5
+
+93
+00:02:20,690 --> 00:02:21,890
+% and we have a stop loss at
+
+94
+00:02:21,890 --> 00:02:24,050
+0.4%. And as you can see, this
+
+95
+00:02:24,050 --> 00:02:24,890
+trade is also a win.
+
+96
+00:02:25,010 --> 00:02:26,410
+And then, we're looking for another downtick that
+
+97
+00:02:26,410 --> 00:02:27,610
+is bigger than average.
+
+98
+00:02:27,790 --> 00:02:29,170
+And I will say it's this one right
+
+99
+00:02:29,170 --> 00:02:29,390
+here.
+
+100
+00:02:29,570 --> 00:02:31,110
+So, we enter the trade right here and
+
+101
+00:02:31,110 --> 00:02:32,950
+take a profit at 0.5% and
+
+102
+00:02:32,950 --> 00:02:34,970
+have a stop loss at 0.4%. And
+
+103
+00:02:34,970 --> 00:02:36,610
+we want to enter trades as close to
+
+104
+00:02:36,610 --> 00:02:37,690
+the crossover as possible.
+
+105
+00:02:37,870 --> 00:02:39,330
+The probability of a win is a lot
+
+106
+00:02:39,330 --> 00:02:40,570
+higher closer to the crossover.
+
+107
+00:02:40,890 --> 00:02:42,650
+So, after you made about three to five
+
+108
+00:02:42,650 --> 00:02:45,170
+trades after the crossover, stop trading and wait
+
+109
+00:02:45,170 --> 00:02:46,030
+for the next crossover.
+
+110
+00:02:46,250 --> 00:02:47,750
+And the same thing applies to shorting as
+
+111
+00:02:47,750 --> 00:02:47,950
+well.
+
+112
+00:02:48,090 --> 00:02:49,810
+When the 50 EMA is crossing the 200
+
+113
+00:02:49,810 --> 00:02:51,590
+EMA to the downside, then we can only
+
+114
+00:02:51,590 --> 00:02:52,610
+take short positions.
+
+115
+00:02:52,610 --> 00:02:54,450
+So now, we're waiting for an uptick on
+
+116
+00:02:54,450 --> 00:02:55,890
+the MACD that is bigger than average.
+
+117
+00:02:56,070 --> 00:02:57,310
+And then, we can enter a short position.
+
+118
+00:02:57,530 --> 00:02:58,870
+So, I would say this uptick is bigger
+
+119
+00:02:58,870 --> 00:02:59,430
+than average.
+
+120
+00:02:59,790 --> 00:03:01,710
+So, we would enter short right here and
+
+121
+00:03:01,710 --> 00:03:03,890
+take profit at 0.5%, put the stop
+
+122
+00:03:03,890 --> 00:03:06,030
+loss at 0.4%. This is also a
+
+123
+00:03:06,030 --> 00:03:06,130
+win.
+
+124
+00:03:06,350 --> 00:03:07,730
+And then, we're waiting for another uptick that
+
+125
+00:03:07,730 --> 00:03:08,450
+is bigger than average.
+
+126
+00:03:08,630 --> 00:03:10,390
+And I would enter right here and take
+
+127
+00:03:10,390 --> 00:03:12,810
+the profit at 0.5% and set
+
+128
+00:03:12,810 --> 00:03:14,610
+the stop loss at 0.4%. And this
+
+129
+00:03:14,610 --> 00:03:15,330
+is also a win.
+
+130
+00:03:15,650 --> 00:03:17,470
+Then, we have another big uptick here.
+
+131
+00:03:17,650 --> 00:03:19,230
+I would enter right there and set the
+
+132
+00:03:19,230 --> 00:03:20,870
+target at 0.5% and the stop
+
+133
+00:03:20,870 --> 00:03:22,950
+loss at 0.4%. And this is also
+
+134
+00:03:22,950 --> 00:03:23,310
+a win.
+
+135
+00:03:23,610 --> 00:03:25,430
+And then, after a few trades, stop trading
+
+136
+00:03:25,430 --> 00:03:27,690
+because it's getting riskier and riskier the further
+
+137
+00:03:27,690 --> 00:03:28,790
+after the crossover we get.
+
+138
+00:03:28,930 --> 00:03:30,130
+Since we are on a five-minute time
+
+139
+00:03:30,130 --> 00:03:32,370
+frame, crossovers like this happens a few times
+
+140
+00:03:32,370 --> 00:03:32,770
+per day.
+
+141
+00:03:32,890 --> 00:03:34,270
+And we only need to make five trades
+
+142
+00:03:34,270 --> 00:03:34,690
+per day.
+
+143
+00:03:34,810 --> 00:03:35,650
+So, there's no stress.
+
+144
+00:03:35,790 --> 00:03:37,770
+After the crossover, we can stop trading after
+
+145
+00:03:37,770 --> 00:03:38,370
+a few trades.
+
+146
+00:03:38,530 --> 00:03:40,930
+Of course, using high leverage is super risky.
+
+147
+00:03:41,230 --> 00:03:42,650
+So, trade with gamble money.
+
+148
+00:03:42,850 --> 00:03:44,630
+Don't trade with money that is important to
+
+149
+00:03:44,630 --> 00:03:46,770
+you because scalping with the high leverage is
+
+150
+00:03:46,770 --> 00:03:48,710
+the riskiest trading strategy you can use.
+
+151
+00:03:48,970 --> 00:03:50,230
+It has a very high reward if you're
+
+152
+00:03:50,230 --> 00:03:50,670
+successful.
+
+153
+00:03:50,670 --> 00:03:52,530
+But if you're doing any mistakes, you can
+
+154
+00:03:52,530 --> 00:03:54,090
+wipe out your entire balance.
+
+155
+00:03:54,410 --> 00:03:55,330
+So, be really careful.
+
+156
+00:03:55,710 --> 00:03:57,130
+Use money that's not important to you.
+
+157
+00:03:57,330 --> 00:03:59,270
+And this type of trading requires some experience
+
+158
+00:03:59,270 --> 00:03:59,750
+as well.
+
+159
+00:03:59,890 --> 00:04:01,250
+The next step is to trade on the
+
+160
+00:04:01,250 --> 00:04:02,130
+right exchange.
+
+161
+00:04:02,430 --> 00:04:04,470
+To trade a scalping strategy like this, you
+
+162
+00:04:04,470 --> 00:04:06,330
+really need to use an exchange that is
+
+163
+00:04:06,330 --> 00:04:07,370
+good for scalping.
+
+164
+00:04:07,510 --> 00:04:09,710
+There are hundreds of exchanges out there and
+
+165
+00:04:09,710 --> 00:04:11,310
+only a few of them are really good
+
+166
+00:04:11,310 --> 00:04:11,930
+for scalping.
+
+167
+00:04:12,070 --> 00:04:13,050
+So, what you need to look for in
+
+168
+00:04:13,050 --> 00:04:15,850
+an exchange is super low fees because we
+
+169
+00:04:15,850 --> 00:04:18,089
+are taking profit at 0.5% and
+
+170
+00:04:18,089 --> 00:04:20,070
+we use a stop loss at 0.4%.
+
+171
+00:04:20,070 --> 00:04:22,510
+So, if your trading fees are high, it
+
+172
+00:04:22,510 --> 00:04:24,090
+will eat too much of the profit and
+
+173
+00:04:24,090 --> 00:04:25,310
+the strategy will no longer work.
+
+174
+00:04:25,470 --> 00:04:27,450
+For example, if we use Bitfinex here as
+
+175
+00:04:27,450 --> 00:04:28,850
+an exchange, look at these fees.
+
+176
+00:04:29,110 --> 00:04:30,990
+0.1% for limit orders and 0
+
+177
+00:04:30,990 --> 00:04:32,350
+.2% for market orders.
+
+178
+00:04:32,550 --> 00:04:34,270
+0.3% from the profit will be
+
+179
+00:04:34,270 --> 00:04:35,050
+taken in fees.
+
+180
+00:04:35,250 --> 00:04:36,610
+So, that is obviously too much.
+
+181
+00:04:36,710 --> 00:04:38,190
+So, if we run the strategy with Bitfinex,
+
+182
+00:04:38,310 --> 00:04:39,890
+we would lose all the money after just
+
+183
+00:04:39,890 --> 00:04:40,490
+a few trades.
+
+184
+00:04:40,690 --> 00:04:42,350
+You also need to use an exchange with
+
+185
+00:04:42,350 --> 00:04:44,430
+very high liquidity in the order books and
+
+186
+00:04:44,430 --> 00:04:46,310
+a really low slip rate because slip rate
+
+187
+00:04:46,310 --> 00:04:47,830
+is also a threat when scalping.
+
+188
+00:04:48,030 --> 00:04:49,870
+Since we're using a high leverage, the position
+
+189
+00:04:49,870 --> 00:04:51,570
+size can be very large when the account
+
+190
+00:04:51,570 --> 00:04:52,410
+balance starts to grow.
+
+191
+00:04:52,570 --> 00:04:54,090
+And if there is not enough orders in
+
+192
+00:04:54,090 --> 00:04:55,890
+the order book, that can actually hurt the
+
+193
+00:04:55,890 --> 00:04:56,730
+profits as well.
+
+194
+00:04:56,830 --> 00:04:58,470
+And you also need an exchange that is
+
+195
+00:04:58,470 --> 00:05:00,150
+really easy to use so that you can
+
+196
+00:05:00,150 --> 00:05:02,490
+execute your trades really fast because this is
+
+197
+00:05:02,490 --> 00:05:04,030
+a very high speed type of trading.
+
+198
+00:05:04,230 --> 00:05:05,710
+The only exchange for me that ticks all
+
+199
+00:05:05,710 --> 00:05:06,970
+of these boxes are Bybit.
+
+200
+00:05:07,110 --> 00:05:09,050
+On Bybit, I will make money when I
+
+201
+00:05:09,050 --> 00:05:09,810
+use limit orders.
+
+202
+00:05:10,010 --> 00:05:12,410
+I would actually make 0.025% from
+
+203
+00:05:12,410 --> 00:05:12,910
+limit orders.
+
+204
+00:05:12,930 --> 00:05:14,930
+And when I'm using market orders, I only
+
+205
+00:05:14,930 --> 00:05:17,610
+pay 0.075% in fees.
+
+206
+00:05:17,610 --> 00:05:19,350
+And this is the lowest I have found
+
+207
+00:05:19,350 --> 00:05:19,770
+out there.
+
+208
+00:05:19,990 --> 00:05:21,770
+So this is really, really good for scalping.
+
+209
+00:05:21,970 --> 00:05:23,590
+And I'm using market orders for my entries
+
+210
+00:05:23,590 --> 00:05:25,390
+and I'm using limit orders for my exits.
+
+211
+00:05:25,750 --> 00:05:28,110
+So I will pay an average 0.05
+
+212
+00:05:28,110 --> 00:05:29,790
+% in fees on each trade.
+
+213
+00:05:29,930 --> 00:05:32,230
+And that's based on this strategy after 150
+
+214
+00:05:32,230 --> 00:05:32,690
+trades.
+
+215
+00:05:32,870 --> 00:05:34,330
+Bybit is also one of the exchanges with
+
+216
+00:05:34,330 --> 00:05:36,270
+the highest liquidity in their order books.
+
+217
+00:05:36,450 --> 00:05:37,810
+So a lot of the times there's no
+
+218
+00:05:37,810 --> 00:05:39,370
+slip rate at all, but when there are
+
+219
+00:05:39,370 --> 00:05:41,350
+slip rates, it's really low compared to other
+
+220
+00:05:41,350 --> 00:05:41,850
+exchanges.
+
+221
+00:05:42,110 --> 00:05:43,670
+And in my opinion, they have the best
+
+222
+00:05:43,670 --> 00:05:45,610
+user interface out there to place trades really
+
+223
+00:05:45,610 --> 00:05:47,130
+fast and it's super easy to use.
+
+224
+00:05:47,130 --> 00:05:49,090
+So that's a platform I'm recommending for scalping
+
+225
+00:05:49,090 --> 00:05:49,950
+strategy like this.
+
+226
+00:05:50,030 --> 00:05:51,710
+But if you can find another exchange with
+
+227
+00:05:51,710 --> 00:05:53,590
+super low fees, high liquidity in the order
+
+228
+00:05:53,590 --> 00:05:55,690
+book, low spread, and a super easy to
+
+229
+00:05:55,690 --> 00:05:57,410
+use interface, you can use that exchange as
+
+230
+00:05:57,410 --> 00:05:57,930
+well, of course.
+
+231
+00:05:58,090 --> 00:05:59,390
+If you want to try Bybit, you can
+
+232
+00:05:59,390 --> 00:06:01,030
+go to my video description down below and
+
+233
+00:06:01,030 --> 00:06:02,430
+you can use my affiliate link here to
+
+234
+00:06:02,430 --> 00:06:03,030
+create an account.
+
+235
+00:06:03,330 --> 00:06:04,890
+It takes only 25 seconds to create an
+
+236
+00:06:04,890 --> 00:06:05,190
+account.
+
+237
+00:06:05,510 --> 00:06:07,130
+Again, Bybit has the lowest trading fees.
+
+238
+00:06:07,290 --> 00:06:08,930
+In my opinion, it's the best crypto exchange
+
+239
+00:06:08,930 --> 00:06:09,370
+out there.
+
+240
+00:06:09,550 --> 00:06:10,930
+And if you use my specific link here,
+
+241
+00:06:10,950 --> 00:06:12,230
+you can get the welcome bonus up to
+
+242
+00:06:12,230 --> 00:06:13,970
+$600 after your first deposit.
+
+243
+00:06:14,190 --> 00:06:15,870
+The next step is to execute the trades
+
+244
+00:06:15,870 --> 00:06:17,110
+correctly in your exchange.
+
+245
+00:06:17,210 --> 00:06:18,830
+When I'm trading this strategy, I have one
+
+246
+00:06:18,830 --> 00:06:20,790
+tab with trading view open and one tab
+
+247
+00:06:20,790 --> 00:06:22,990
+with my exchange open, in this case, Bybit.
+
+248
+00:06:23,110 --> 00:06:24,430
+And I also have my calculator ready.
+
+249
+00:06:24,630 --> 00:06:25,750
+So let's say that I want to enter
+
+250
+00:06:25,750 --> 00:06:27,150
+a long position on Bitcoin right now.
+
+251
+00:06:27,310 --> 00:06:28,990
+I will go to market, 100% of
+
+252
+00:06:28,990 --> 00:06:30,510
+the quantity and press open long.
+
+253
+00:06:30,610 --> 00:06:31,930
+The first thing I want to do, and
+
+254
+00:06:31,930 --> 00:06:33,210
+I want to do this really, really quick.
+
+255
+00:06:33,310 --> 00:06:34,310
+I want to add my stop loss.
+
+256
+00:06:34,430 --> 00:06:35,950
+So clicking here, add stop loss.
+
+257
+00:06:36,210 --> 00:06:37,570
+And now I will bring up my calculator
+
+258
+00:06:37,570 --> 00:06:39,530
+and I will take my entry price.
+
+259
+00:06:39,610 --> 00:06:41,950
+You can see it right here, 46,731.
+
+260
+00:06:42,110 --> 00:06:43,050
+And I want to have a stop loss
+
+261
+00:06:43,050 --> 00:06:45,950
+at 0.4%. That would be times 0
+
+262
+00:06:45,950 --> 00:06:48,170
+.996, right?
+
+263
+00:06:48,310 --> 00:06:49,390
+In that way, we will have a stop
+
+264
+00:06:49,390 --> 00:06:51,290
+loss at 0.4%. So now the stop
+
+265
+00:06:51,290 --> 00:06:53,750
+loss price would be 46,544.
+
+266
+00:06:54,070 --> 00:06:55,170
+46,544.
+
+267
+00:06:55,570 --> 00:06:56,850
+So now we have the stop loss set
+
+268
+00:06:56,850 --> 00:06:58,590
+and we can confirm it by clicking here.
+
+269
+00:06:58,690 --> 00:07:00,350
+And now we have the entry price here.
+
+270
+00:07:00,450 --> 00:07:01,990
+We have the stop loss price here and
+
+271
+00:07:01,990 --> 00:07:03,310
+we can confirm that the stop loss is
+
+272
+00:07:03,310 --> 00:07:05,570
+correct by hovering at the entry price and
+
+273
+00:07:05,570 --> 00:07:07,870
+holding shift and then clicking downwards to the
+
+274
+00:07:07,870 --> 00:07:08,290
+stop loss.
+
+275
+00:07:08,390 --> 00:07:09,410
+And we can see that it's set to
+
+276
+00:07:09,410 --> 00:07:11,430
+0.4%. And you always need to add
+
+277
+00:07:11,430 --> 00:07:12,970
+a stop loss as soon as possible after
+
+278
+00:07:12,970 --> 00:07:15,130
+your entry and add it before the target
+
+279
+00:07:15,130 --> 00:07:15,490
+profit.
+
+280
+00:07:15,690 --> 00:07:17,970
+Because if the price would drop suddenly and
+
+281
+00:07:17,970 --> 00:07:19,390
+your stop loss is not set, it can
+
+282
+00:07:19,390 --> 00:07:20,690
+wipe out the profits from a lot of
+
+283
+00:07:20,690 --> 00:07:21,690
+trades that you made before.
+
+284
+00:07:21,870 --> 00:07:23,450
+So be really fast with the stop loss.
+
+285
+00:07:23,710 --> 00:07:26,030
+And now we want to add the target
+
+286
+00:07:26,030 --> 00:07:27,450
+order with a limit order.
+
+287
+00:07:27,670 --> 00:07:29,470
+So you can go to close by and
+
+288
+00:07:29,470 --> 00:07:31,870
+click limit and bring up the calculator, reset
+
+289
+00:07:31,870 --> 00:07:33,390
+it and take the entry price again for
+
+290
+00:07:33,390 --> 00:07:37,350
+the 6,731 times 1.005 to get
+
+291
+00:07:37,350 --> 00:07:39,550
+the target at 0.5%. And you can
+
+292
+00:07:39,550 --> 00:07:41,790
+round it to the closest 0.5. So
+
+293
+00:07:41,790 --> 00:07:45,510
+that would be 46,964.5. 46,964
+
+294
+00:07:45,510 --> 00:07:47,310
+.5 and press confirm.
+
+295
+00:07:47,650 --> 00:07:49,610
+And we can confirm it by shift clicking
+
+296
+00:07:49,610 --> 00:07:51,310
+here to here and it's set at 0
+
+297
+00:07:51,310 --> 00:07:52,590
+.5%. So it's all correct.
+
+298
+00:07:52,670 --> 00:07:53,770
+And now we can relax and just wait
+
+299
+00:07:53,770 --> 00:07:54,970
+for the trade to close.
+
+300
+00:07:55,310 --> 00:07:57,010
+And this is just an example.
+
+301
+00:07:57,170 --> 00:07:59,090
+So I will cancel my trade here.
+
+302
+00:07:59,250 --> 00:08:01,090
+I will close the position at the small
+
+303
+00:08:01,090 --> 00:08:02,570
+profit here and I will show you how
+
+304
+00:08:02,570 --> 00:08:03,530
+to short as well.
+
+305
+00:08:03,650 --> 00:08:04,930
+So let's say I want to short right
+
+306
+00:08:04,930 --> 00:08:05,170
+now.
+
+307
+00:08:05,350 --> 00:08:06,310
+Do the same thing again.
+
+308
+00:08:06,370 --> 00:08:08,710
+Go to market and 100% of the
+
+309
+00:08:08,710 --> 00:08:10,050
+quantity open short.
+
+310
+00:08:10,050 --> 00:08:11,450
+And now I want to add a stop
+
+311
+00:08:11,450 --> 00:08:12,370
+loss as soon as possible.
+
+312
+00:08:12,730 --> 00:08:14,030
+So when adding a stop loss to a
+
+313
+00:08:14,030 --> 00:08:15,470
+short position, you need to do it the
+
+314
+00:08:15,470 --> 00:08:16,010
+opposite way.
+
+315
+00:08:16,310 --> 00:08:18,510
+So click add stop loss, then bring up
+
+316
+00:08:18,510 --> 00:08:20,450
+the calculator and take your entry price for
+
+317
+00:08:20,450 --> 00:08:21,430
+the 6,784.
+
+318
+00:08:21,530 --> 00:08:23,390
+You can see it down here and do
+
+319
+00:08:23,390 --> 00:08:27,290
+times 1.004. That would be 46,971.
+
+320
+00:08:27,450 --> 00:08:29,850
+46,971 and press confirm.
+
+321
+00:08:30,090 --> 00:08:31,210
+So now we have the stop loss all
+
+322
+00:08:31,210 --> 00:08:31,650
+set here.
+
+323
+00:08:31,770 --> 00:08:33,610
+You can confirm it by hovering here and
+
+324
+00:08:33,610 --> 00:08:35,809
+shift clicking to your stop loss 0.4%.
+
+325
+00:08:35,809 --> 00:08:36,510
+So that is correct.
+
+326
+00:08:36,710 --> 00:08:37,770
+And then we need to add our target
+
+327
+00:08:37,770 --> 00:08:38,630
+with the limit order.
+
+328
+00:08:38,630 --> 00:08:41,270
+So press close by limit here and take
+
+329
+00:08:41,270 --> 00:08:44,330
+your entry for the 6,784 times 0
+
+330
+00:08:44,330 --> 00:08:47,790
+.995 to get a 0.5% target.
+
+331
+00:08:47,970 --> 00:08:50,030
+That would be 46,550.
+
+332
+00:08:50,250 --> 00:08:52,930
+46,550 and we can confirm it by
+
+333
+00:08:52,930 --> 00:08:54,370
+shift clicking and dragging down.
+
+334
+00:08:54,590 --> 00:08:55,610
+And we now have a target at 0
+
+335
+00:08:55,610 --> 00:08:57,870
+.5%. So that's how easy it is to
+
+336
+00:08:57,870 --> 00:08:59,210
+execute the trades on Bybit.
+
+337
+00:08:59,310 --> 00:09:00,570
+You need to really look at the order
+
+338
+00:09:00,570 --> 00:09:01,050
+book here.
+
+339
+00:09:01,170 --> 00:09:01,890
+This is the order book.
+
+340
+00:09:01,950 --> 00:09:02,990
+You can see the open orders in the
+
+341
+00:09:02,990 --> 00:09:04,730
+order book and you need to confirm that
+
+342
+00:09:04,730 --> 00:09:06,850
+there's enough liquidity in the order book for
+
+343
+00:09:06,850 --> 00:09:08,570
+your trade when you get to this size.
+
+344
+00:09:08,830 --> 00:09:11,090
+And I usually limit my trading size to
+
+345
+00:09:11,090 --> 00:09:15,530
+between $100,000 and $150,000 because the
+
+346
+00:09:15,530 --> 00:09:17,730
+higher trading size we use, the harder it
+
+347
+00:09:17,730 --> 00:09:19,150
+will be to execute the orders.
+
+348
+00:09:19,390 --> 00:09:20,250
+As you can see here, if we want
+
+349
+00:09:20,250 --> 00:09:22,850
+to buy Bitcoin right now, there's 70 BTC
+
+350
+00:09:22,850 --> 00:09:24,830
+at the current price in the order book.
+
+351
+00:09:24,930 --> 00:09:27,390
+So there's no problem right now, but if
+
+352
+00:09:27,390 --> 00:09:29,130
+you're using very high volumes, you need to
+
+353
+00:09:29,130 --> 00:09:30,590
+keep track on the order book and just
+
+354
+00:09:30,590 --> 00:09:32,810
+confirm that there's enough volume here for your
+
+355
+00:09:32,810 --> 00:09:33,790
+order to execute.
+
+356
+00:09:33,790 --> 00:09:35,770
+Otherwise, you might get some slipperage.
+
+357
+00:09:35,910 --> 00:09:38,190
+However, slipperage on Bybit has not been a
+
+358
+00:09:38,190 --> 00:09:39,890
+problem for me so far, but I feel
+
+359
+00:09:39,890 --> 00:09:41,610
+obligated to just let you know that trading
+
+360
+00:09:41,610 --> 00:09:43,670
+with a big account might cause some slipperage
+
+361
+00:09:43,670 --> 00:09:44,310
+if you're not careful.
+
+362
+00:09:44,510 --> 00:09:45,790
+The next step is to make sure that
+
+363
+00:09:45,790 --> 00:09:47,690
+you're entering the trades on the candle close.
+
+364
+00:09:47,850 --> 00:09:49,510
+To know when the candle is closing, you
+
+365
+00:09:49,510 --> 00:09:51,210
+can right click on the right edge of
+
+366
+00:09:51,210 --> 00:09:53,350
+trading view here on the price axis and
+
+367
+00:09:53,350 --> 00:09:55,750
+then enable countdown to bar close.
+
+368
+00:09:55,950 --> 00:09:57,210
+And you can see that you have two
+
+369
+00:09:57,210 --> 00:09:58,950
+minutes left to this candle close.
+
+370
+00:09:59,070 --> 00:10:00,490
+So wait for the candle to close before
+
+371
+00:10:00,490 --> 00:10:01,310
+you enter the trade.
+
+372
+00:10:01,310 --> 00:10:03,290
+The next step is to only trade large
+
+373
+00:10:03,290 --> 00:10:04,050
+cap coins.
+
+374
+00:10:04,310 --> 00:10:06,610
+I'm trading this strategy primarily on Bitcoin because
+
+375
+00:10:06,610 --> 00:10:08,950
+Bitcoin has very high volume and high liquidity
+
+376
+00:10:08,950 --> 00:10:11,210
+in order books, but sometimes I might even
+
+377
+00:10:11,210 --> 00:10:11,950
+trade Ethereum.
+
+378
+00:10:12,190 --> 00:10:14,090
+But I never trade smaller coins because the
+
+379
+00:10:14,090 --> 00:10:16,170
+volatility is different on smaller coins and the
+
+380
+00:10:16,170 --> 00:10:18,230
+volume on smaller coins might not always be
+
+381
+00:10:18,230 --> 00:10:18,530
+enough.
+
+382
+00:10:18,670 --> 00:10:20,650
+Also, make sure to use the chart in
+
+383
+00:10:20,650 --> 00:10:22,890
+trading view for your specific exchange.
+
+384
+00:10:23,110 --> 00:10:24,550
+So when you add a coin in the
+
+385
+00:10:24,550 --> 00:10:26,930
+exchange, you search for BTC USD, for example,
+
+386
+00:10:27,110 --> 00:10:29,210
+then make sure that you use your exchange
+
+387
+00:10:29,210 --> 00:10:29,910
+in trading view.
+
+388
+00:10:29,910 --> 00:10:31,950
+For example, I'm using Bybit, so I will
+
+389
+00:10:31,950 --> 00:10:33,970
+always use the Bybit chart when I'm trading
+
+390
+00:10:33,970 --> 00:10:35,850
+this strategy because sometimes the price can be
+
+391
+00:10:35,850 --> 00:10:37,570
+a bit different on different exchanges.
+
+392
+00:10:37,870 --> 00:10:40,350
+The next step is to avoid overtrading and
+
+393
+00:10:40,350 --> 00:10:41,750
+avoiding bad trades.
+
+394
+00:10:41,870 --> 00:10:43,270
+So when you have a crossover and you
+
+395
+00:10:43,270 --> 00:10:45,530
+already made like five trades on this crossover,
+
+396
+00:10:45,710 --> 00:10:47,970
+because eventually the next crossover will happen.
+
+397
+00:10:48,250 --> 00:10:49,490
+So it's better to wait for the next
+
+398
+00:10:49,490 --> 00:10:51,650
+crossover and then go back to shorting at
+
+399
+00:10:51,650 --> 00:10:52,470
+that crossover instead.
+
+400
+00:10:52,710 --> 00:10:54,590
+It's also good to look at higher timeframes
+
+401
+00:10:54,590 --> 00:10:56,210
+as well to make sure that Bitcoin is
+
+402
+00:10:56,210 --> 00:10:58,150
+not overextended on the higher timeframes.
+
+403
+00:10:58,150 --> 00:11:00,070
+If Bitcoin has a very high RSI, for
+
+404
+00:11:00,070 --> 00:11:02,450
+example, on the higher timeframes, you might not
+
+405
+00:11:02,450 --> 00:11:03,630
+want to enter long positions.
+
+406
+00:11:03,910 --> 00:11:05,690
+So use your skill and look at the
+
+407
+00:11:05,690 --> 00:11:07,510
+higher timeframes and look at other indicators, for
+
+408
+00:11:07,510 --> 00:11:09,650
+example, the RSI to avoid overtrading and to
+
+409
+00:11:09,650 --> 00:11:11,590
+avoid taking long positions when the price is
+
+410
+00:11:11,590 --> 00:11:13,610
+overextended and to avoid shorting when the price
+
+411
+00:11:13,610 --> 00:11:15,250
+already has dropped a lot already.
+
+412
+00:11:15,430 --> 00:11:16,570
+Overall, be patient.
+
+413
+00:11:16,730 --> 00:11:18,590
+You only need about five trades per day
+
+414
+00:11:18,590 --> 00:11:20,190
+to make huge gains from this strategy.
+
+415
+00:11:20,450 --> 00:11:22,250
+So only take trades that feels right and
+
+416
+00:11:22,250 --> 00:11:23,810
+that you believe in and try to follow
+
+417
+00:11:23,810 --> 00:11:24,610
+the trend overall.
+
+418
+00:11:24,750 --> 00:11:26,510
+If you are bullish on Bitcoin on, for
+
+419
+00:11:26,510 --> 00:11:28,270
+example, the one hour timeframe and the four
+
+420
+00:11:28,270 --> 00:11:29,970
+hour timeframe, then it might be a good
+
+421
+00:11:29,970 --> 00:11:31,970
+idea to avoid the shorting at that time.
+
+422
+00:11:32,150 --> 00:11:34,250
+And now I will give away $100 to
+
+423
+00:11:34,250 --> 00:11:35,790
+three of the viewers in this video.
+
+424
+00:11:35,950 --> 00:11:37,150
+The only thing you need to do to
+
+425
+00:11:37,150 --> 00:11:38,790
+have a chance to get this giveaway, you
+
+426
+00:11:38,790 --> 00:11:40,350
+need to like the video, subscribe to the
+
+427
+00:11:40,350 --> 00:11:42,210
+channel and create an account on Bybit using
+
+428
+00:11:42,210 --> 00:11:42,750
+my link.
+
+429
+00:11:42,870 --> 00:11:44,490
+It takes only 25 seconds to create an
+
+430
+00:11:44,490 --> 00:11:46,430
+account and then write I'm in in the
+
+431
+00:11:46,430 --> 00:11:47,390
+comment section down below.
+
+432
+00:11:47,490 --> 00:11:48,930
+And I will pick three random winners.
+
+433
+00:11:49,110 --> 00:11:50,070
+And if you are one of them, I
+
+434
+00:11:50,070 --> 00:11:51,470
+will reply to your comment and then I
+
+435
+00:11:51,470 --> 00:11:53,530
+will send $100 to your Bybit account.
+
+436
+00:11:53,710 --> 00:11:55,130
+If you don't reply to the comment within
+
+437
+00:11:55,130 --> 00:11:57,270
+seven days, I will give the $100 to
+
+438
+00:11:57,270 --> 00:11:57,790
+someone else.
+
+439
+00:11:57,970 --> 00:11:58,950
+So that's all you need to do.
+
+440
+00:11:59,090 --> 00:12:00,670
+Next week, I will post a video where
+
+441
+00:12:00,670 --> 00:12:02,910
+I'm trading the strategy for eight hours straight
+
+442
+00:12:02,910 --> 00:12:04,250
+and showing all the trades in that video.
+
+443
+00:12:04,390 --> 00:12:05,850
+In the meanwhile, check out my other videos
+
+444
+00:12:05,850 --> 00:12:06,410
+on my channel.
+
+445
+00:12:06,590 --> 00:12:07,770
+Thanks for watching and see you in the
+
+446
+00:12:07,770 --> 00:12:08,130
+next video.

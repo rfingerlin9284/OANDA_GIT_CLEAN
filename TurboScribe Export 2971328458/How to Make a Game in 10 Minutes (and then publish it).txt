@@ -1,0 +1,125 @@
+(0:00 - 0:25)
+So in this video, we are going to make a game in 10 minutes. So at the end of the video, you will have something like this. And we are going to use something called code.
+
+(0:25 - 0:43)
+This is powered by Unreal Engine 4. So this is quite powerful and way beyond Roblox and other tools. So if you want to start making games, but you don't know all the aspects of game development, this video is perfect for you. So first I'll leave a link down in the description.
+
+(0:43 - 0:52)
+You can click that link and you can go to this website. So you need to make an account here. So just sign up and after signing up, you can download code.
+
+(0:52 - 1:05)
+After installing it, you can open it. So we can create a new project either by selecting the empty project or we can create a project using a gameplay framework. So we are going to select a gameplay framework.
+
+(1:05 - 1:18)
+And as you can see, code gives us a lot of gameplay frameworks to work with. So we have a battle royale, we have a deathmatch. So you can really make full-fledged multiplayer games and you don't need to worry about any networking and stuff.
+
+(1:18 - 1:29)
+So I'm going to do a multiplayer video later. But in this video, we are going to use the dungeon crawler framework. So you can name your project whatever you like and you can just create this project.
+
+(1:31 - 1:48)
+And this is the interface of code. Now, what we are going to do is we are going to select the maps folder in the hierarchy and the map folder contains all the objects that are in the scene. So you can select the map folder and you can delete it because I'm going to start from scratch.
+
+(1:49 - 2:02)
+After that, you can go under the core content. And in this core content panel, you have all kinds of objects. You have 3D objects, animated meshes, audio decals, particle systems, materials.
+
+(2:03 - 2:13)
+So you have all kinds of objects here. So we are going to search for sky and we are going to pick the night sky. So this is just a skybox.
+
+(2:14 - 2:26)
+Actually, this is a skysphere. After you have created the sky, you can go in the terrain editor and you can generate a new terrain. I'm going to generate a flat terrain and you can click the generate button.
+
+(2:34 - 2:46)
+After that, we are going to search for something called as a spawn point. And this spawn point object decides the position of the player in the beginning of the game. So you can drag the spawn point object in your scene.
+
+(2:47 - 2:59)
+And if you test it out, the player spawns at that position. So let's give our terrain a material. So you can go under the material section.
+
+(3:05 - 3:21)
+So I'm going to use this triplanar landscape material. After you have selected your material, you can sculpt the terrain and by default, you have the surface tool selected. So there are a lot of brushes that you can use to sculpt your terrain.
+
+(3:25 - 3:41)
+After you have done sculpting, you can select the smooth tool and you can just smooth this out and this will give your terrain a very natural look. So just smooth this out and I will recommend you that you play with all these brushes. You can really make some interesting things with this.
+
+(3:42 - 3:55)
+So after we are done sculpting, we are going to add some foliage. So under the foliage panel, so you can search for grass and you can add the grass. You can change the distance between each grass.
+
+(3:55 - 4:11)
+So if you decrease the distance, you get a very dense looking grass. So now our grass is looking good. You can stop here, but I'm going to add one more grass.
+
+(4:11 - 4:25)
+So I'm going to add the tall grass. Variation is the key thing while you are creating natural looking scenes. We are going to add some trees now and this is quite similar to how we added our grass meshes.
+
+(4:39 - 4:51)
+So our forest scene looks pretty good. So now we are going to select the spawn point and I'm going to add a mesh on our spawn point. So this will sort of define the starting position of our player.
+
+(4:52 - 5:09)
+So this is just for visual purposes. So you can search for an arch and I'm going to add the arch mesh in my scene. After that, you can go in your hierarchy and you can search for fog and you can select the environment fog.
+
+(5:09 - 5:31)
+So you can move the fog on the z-axis. So after you have changed the height of your fog, you can change the color of this fog. You can also turn on the volumetric fog if you like, and the volumetric fog is quite powerful.
+
+(5:31 - 5:53)
+It gives your scene a very realistic and atmospheric look. Now let's make things interesting. At the moment, we don't have any enemies in our scene.
+
+(5:54 - 6:01)
+So let's add some enemies. Under the project content, you can search for a skeleton. I'm going to add a skeleton swordsman.
+
+(6:09 - 6:22)
+So let's test it out. So the player can damage the skeleton and the skeleton can also damage the player. So the combat system is working really well.
+
+(6:22 - 6:35)
+So this looks pretty good. Now the default dagger that the player has is really quite boring weapon. So I'm going to search for a fire sword and I'm going to add this fire sword in my scene.
+
+(6:40 - 6:51)
+So we can equip the fire sword and this fire sword has a very anime-like moveset. And I really like this, like it has some particles for the trail effects. Cool stuff.
+
+(6:51 - 7:09)
+After we have added the fire sword, we are going to give our character the ability to roll and to heal. So you can go in the community content and you can search for basic abilities. So this will give you some basic abilities, such as a healing ability and a rolling ability.
+
+(7:10 - 7:20)
+So you can just import this package. Just import this. After you have imported this, you can see the basic abilities package under the imported content.
+
+(7:20 - 7:35)
+So just add this abilities object in your scene. So you can select the roll object and the roll object is currently bound to the ability feet. So the action binding is the ability feet.
+
+(7:35 - 7:46)
+So you can change that by going under settings. So as you can see, here are all the abilities and the abilities are bound to a certain key. So the ability feet is bound to spacebar.
+
+(7:47 - 7:56)
+So the spacebar key will be used for the roll ability. After that, let's move our UI to the left-hand side. You could also disable this UI if you like.
+
+(8:03 - 8:13)
+So back in our abilities, we are going to select the heal ability. Here are all the settings that you can change. So for instance, you can change whether the character can move while he is healing.
+
+(8:13 - 8:20)
+You can set the execution time. You can set the recovery rate. You can also set the cooldown of this ability.
+
+(8:35 - 8:57)
+So just to show you how much variety there is, I'm going to add this ice elemental. The ice elemental has a very cool move set. So from here on, you can create more interesting levels and you can add more enemies and you can really pretty much make your own game.
+
+(8:57 - 9:10)
+So after you have made your own game, I'm going to show you how you can publish the game. So go under the file and you can select the publish option. And here you can define the name of your game.
+
+(9:11 - 9:25)
+You can write a short summary about your game and you can also add tags. And these tags are going to help other players find your game. So after you have decided the name of your game, you have written a short summary and you have added your tags.
+
+(9:25 - 9:37)
+It's time to add some screenshots. So you can upload your own screenshots, but there is also option to take screenshots in engine. So let's take a screenshot of this.
+
+(9:43 - 9:59)
+Let's take the screenshot of the skeleton. And finally, let's take the screenshot of this ice guy. Make sure that the game is set to public.
+
+(10:00 - 10:16)
+Now you can pretty much publish your game. And as you can see, we have successfully published our game. So your game now has a link on the core store.
+
+(10:16 - 10:33)
+So let's visit the game page. So here you can see our game page looks pretty similar to steam. So at the end, I modified some things and I changed some things.
+
+(10:34 - 10:42)
+So it took me around 40 to 45 minutes to make this. So you can watch the full gameplay here. But first, if you like this video, leave a like down below.
+
+(10:42 - 10:45)
+It helps a lot. Subscribe to the channel. Enjoy the gameplay.
+
+(10:45 - 10:47)
+I'm going to see you in the next video. Bye.

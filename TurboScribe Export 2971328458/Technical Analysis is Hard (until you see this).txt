@@ -1,0 +1,239 @@
+(0:00 - 0:10)
+Understanding technical analysis can mean the difference between buying here and buying here. And that's why I've decided to create the Best Darn Beginners Guide to Technical Analysis on the Internet. Starting with some very important terminology.
+
+(0:30 - 1:04)
+above due to previous demand or price action. That is, predicting the asset will go up in value. Short position, the opposite of a long position.
+
+(1:05 - 1:12)
+Entering a trade position, betting the asset will go down in value. Don't worry if you're feeling lost already, we will break everything down even more. A market order.
+
+(1:13 - 1:22)
+In order to buy an asset or security immediately at the current market rate. Limit order. In order to buy an asset or security at a specified price or better.
+
+(1:23 - 1:35)
+If you set a limit order to buy an asset at $5, your trade will not be initiated unless the price hits $5 or less. These terms will help you with the learning process for the remainder of this video. Now, let's go ahead and get you set up.
+
+(1:36 - 1:48)
+The first thing you need to do is select your trading platform. It's important to take your time on this because there's a lot of scam exchanges and exchanges that simply charge way too much in fees. For trading cryptos, I'm personally a fan of KuCoin.
+
+(1:48 - 2:05)
+If you're looking to trade stocks, I'm a big fan of Webull, as they have a really easy to use interface and some free stocks for signing up. I'll have all the options linked in the description of this video. After you've created your account, you'll need to understand what you're getting yourself into before entering any trades and risking your life savings.
+
+(2:05 - 2:11)
+Please don't risk your life savings. I don't understand. Why would you buy a policy? It's just the cost of a cup of coffee an hour.
+
+(2:11 - 2:24)
+I've seen people make millions trading, but I've also seen people lose everything. So trade responsibly because no one can predict the future. Technical analysis is just an additional tool in your tool belt that you can use to become a more well-rounded investor.
+
+(2:24 - 2:38)
+It is by no means a fortune teller, and none of this video should be interpreted as financial advice. So what are we doing when we talk about our own technical analysis? Picture this. You're planning a vacation to Italy with your family, but you need to get a hotel.
+
+(2:38 - 2:53)
+Before you go, you could manually call some hotels in Milan and ask about their services, their schedule, and how close they are to a wine and cheese shop. It takes you about two weeks to complete this exercise. And at that point, you have about 10 hotels on a spreadsheet with all this data that you've collected.
+
+(2:53 - 3:15)
+You have great information, but most won't go through all of this effort. Instead, you probably would look at an aggregator website that allows you to compare customer feedback, average booking prices, and of course, the distance to your local cheese shop for the most popular hotels. This allows you to get a pretty good idea of what you're getting yourself into without ever having to crack open the operations manual of 10 different hotels.
+
+(3:15 - 3:26)
+Technical analysis works a bit like the second situation. Well, it's important that we have a good understanding of a crypto or stock's fundamentals before considering it. You have to ensure it's not a scam anyways.
+
+(3:26 - 3:49)
+Past a certain point, we need to learn about how investors are trading that asset. What's the price action, and what can it tell us? Can this help us invest? This will help us determine if the trends we see happening right now will continue or if they're more likely to change in the future. Technical analysis measures price movements, uses indicators, and offers suggestions as to potential opportunities to buy or sell cryptos and stocks.
+
+(3:49 - 4:13)
+This usually is more useful for short-term traders, but it can be valuable to long-term holders as well who want to ensure that they find the best possible entry prices for the assets that they're looking to invest in. Now, to keep things simple, this is a beginner's guide. Now, I've selected a few of the most accessible ways that you can start doing your own technical analysis and learn to create a more proactive strategy for crypto and stock trading.
+
+(4:13 - 4:30)
+And before we dive deep, I also need to let you know about my Patreon, linked in the description. There you'll find a massive private investor community, daily crypto trade signals, free coaching, and alerts whenever I buy or sell assets, all for as little as $10 a month. And there's a reason that we have nearly 10,000 satisfied members.
+
+(4:30 - 4:41)
+The first indicator that I want to talk about is the candlestick graph. It's one of the most popular ways of looking at how prices change. This tells us a lot more about the supply and demand for an asset than a simple line graph ever could.
+
+(4:41 - 4:54)
+Candles can be set to show price changes per minute, per hour, or per day, and this is beneficial depending on how frequently you trade. So let's look at the colors first. A red candle tells us for that day, the asset closed at a loss.
+
+(4:54 - 5:08)
+And you guessed it, a green candle tells us that the price went up. What's more important to look at here is the opening and closing prices. If the candle is red, then the closing price is the bottom end of the candle with the opening price at the top.
+
+(5:08 - 5:15)
+The opposite is true for green candles. The bottom is the opening price and the top is the closing price. But that's not all.
+
+(5:16 - 5:22)
+Many new traders will forget to look at the wicks, and this is important. Don't forget the wick. That sounds dirty for some reason.
+
+(5:22 - 5:37)
+That's what she said. The wicks tell us what the highest and lowest prices were for the day or whatever time interval your candles are set to. Very often, the wick extends past what a candle's opening and closing prices are.
+
+(5:37 - 5:49)
+So as a rule of thumb, we say the larger the wicks, the more volatile the market. But we can dig deeper still, because short and long wicks have different meanings between red and green candles. First, the red candles.
+
+(5:49 - 6:09)
+A long wick at the bottom of a red candle can tell us that within the day or whatever time period you're looking at, prices fell to what many investors consider to be the cheapest price. And so they bought back in at that price, driving the price back up. Some investors see this as an indication that the price will begin to move up in the next day or the next trading period.
+
+(6:09 - 6:23)
+But remember that a long wick means high volatility, and that trend could easily reverse. Now, if you see a short wick at the bottom of a red candle, proceed with caution. This tends to mean that traders will continue to sell the asset.
+
+(6:24 - 6:46)
+But again, this is not always certain. Now, for green candles, a green candle means that during the set time period, the asset's price went up. A long wick at the top of a green candle tells us that at some point within the day, the price significantly exceeded the closing price, meaning that traders might have considered that to be the top and then decided to take profits at that top price.
+
+(6:46 - 6:59)
+That is, sell their crypto or stock. Long wicks show us that the market is volatile and could indicate that the price may fall from there. A short wick at the top of a green candle, on the other hand, is common when the price is at all-time highs.
+
+(6:59 - 7:31)
+Now, some say this is a good time to sell if you're looking for an exit in that position. If you're looking for an opportunity to buy and you only had the candlestick chart to look at, a good time to do so, according to technical analysis, would be on a red candlestick with a long wick at the bottom and a short one at the top. Now, let's pump the brakes here for a second because you'll notice on this chart for ADA price movements, there are some red candles that fit the description of a buying opportunity, only for the price to fall well past that just a few days later.
+
+(7:31 - 7:54)
+And spoiler alert, the tools that we're going to discuss today can't account for which way investor sentiment is going to go in the response to headlines and other global events. There isn't a candlestick that can predict a global pandemic or election results, And if you find a fortune-telling candlestick, keep it to yourself, but DM it to me, but keep it to yourself. Now, investing, especially in crypto, can be very volatile.
+
+(7:55 - 8:08)
+And one way of making an informed decision despite that volatility is by using trend lines. This is the practice of finding the overarching movement in price, the trend. Many exchanges will have charts that automatically show you trend lines generated by AI.
+
+(8:08 - 8:38)
+But if you want to DIY a trend line, you basically just draw a trend line yourself by choosing a period of time starting at the bottom of the candlestick for that day, week, or hour, and then drawing a line connecting it to the bottom of other candlesticks. Once you have enough points, you can project your trend line into the future to help you determine if the price will move upwards or downwards if that trend continues. Trend lines can help us take a step back and look at how much an asset's price rises or falls over a defined period.
+
+(8:38 - 9:00)
+If we look at that same price chart for Cardano ADA except zoomed out, where each candle represents one week, we can see the trend now tells a completely different story. If we were looking at the performance of Cardano just in the last few days, our trend line would be clearly pointing downwards. However, looking at the last few months, the bottoms of most of the severe candles have been showing a general uptrend.
+
+(9:00 - 9:10)
+This indicates that ADA could be a good long-hold crypto. However, with this, you may have to sit through some heart-wrenching price swings on your way up. And again, none of this is science.
+
+(9:11 - 9:24)
+Because of this, it's good to compare multiple trend lines. Looking at long-term trend lines covering about six months to a year, and then compare that with short-term trend lines. This will help you find better entry and exit points in the assets that you're interested in.
+
+(9:24 - 9:41)
+So far, I've talked about ways that you can interpret common price charts for your own technical analysis. So next, let's talk about support and resistance lines and how to derive and interpret them for your very own strategy. Well, support and resistant lines are horizontal lines that you can draw onto your price chart.
+
+(9:41 - 9:55)
+Support shows the lowest price at which investors are willing to buy that asset. This signals when buyers show the most demand for an asset. When you see an asset continually bouncing off a specific price, this is support.
+
+(9:55 - 10:13)
+Let's say you're trying to forecast prices for the next month. You might look at the lowest price point from the previous month and label this your support level. This way, if and when your stock or crypto dips to below that price point the following month, you can anticipate that an upwards trend may be coming.
+
+(10:13 - 10:34)
+Resistance, on the other hand, shows the highest price at which investors will usually stop buying and instead begin selling that asset. This can signal that there are more buyers than sellers in the market at that specific price, meaning that the asset will have a harder time passing through this price point. In your analysis, you might see that support and resistance lines don't really change from period to period.
+
+(10:34 - 10:51)
+This happens when the majority of buyers and sellers tend to group around the prevailing support and resistance lines. And this could lead to what we call trading sideways, where the price doesn't change a whole lot over a period of time. Now, what you want to look out for are price movements that break away from support and resistance lines.
+
+(10:51 - 11:19)
+Take, for example, our ADA chart from last month. Notice how from September 15th through October 18th, there was a steady decline in the resistance line, meaning that investors were finding lower and lower prices too expensive to buy. We saw the resistance line drop from $2.6 down to $2.3 and then continue to dip around $2.1. So at least for this short period that we're measuring, the price at which there was an oversupply of ADA kept getting lower and lower.
+
+(11:19 - 11:30)
+This might lead an analyst to believe that there would be a steep correction coming in this asset. Next, we need to talk about formations. Formations are patterns in the price movement of an asset on its chart.
+
+(11:30 - 11:50)
+Formations are amazing because this is what allow us to identify the most likely direction an asset is headed to, as well as the most likely price it will stop at after breaking through that formation. In the same image, you will see a yellow circle and a green circle. The yellow circle is the moment this asset broke out of the formation.
+
+(11:51 - 12:13)
+Most traders, get a listen here, most traders will make the mistake of entering a long or buy position at the moment of breakout. This is a huge but very common mistake new traders make. They assume that since it broke out of the formation, this verifies the formation that they drew, it verifies that it's accurate, and verifies that the asset will go directly to their price target.
+
+(12:13 - 12:28)
+But it's an extremely important practice to be patient here and wait for the confirmation bounce. An example of this is the green circle. The price bounces off of our previous resistance line, confirming that this resistance no longer has the same effect.
+
+(12:28 - 12:39)
+The confirmation bounce should be the best moment to enter in your trade. If it bounces to the upside, you would enter a long position. If it breaks through to the downside, you would enter a short position.
+
+(12:39 - 12:51)
+Breaking through a pattern just like the trend lines we just discussed is called a continuation pattern. So let's briefly cover a few popular patterns that you may see referenced. The pattern that we just looked at could be referred to as a wedge pattern.
+
+(12:52 - 13:05)
+If trend lines had connected in that pattern, it would be called a pennant pattern. Flag patterns are two parallel trend lines that can head upwards, downwards, or sideways. A cup and handle pattern is when the price increase has paused.
+
+(13:05 - 13:23)
+The bowl shape is then followed by what looks like a pennant chart pattern, and this may indicate a further breakout in price. A head and shoulders trend following an increase in price may indicate the price will decrease. A reverse head and shoulders trend following a decrease in price may indicate that the price will increase.
+
+(13:23 - 13:39)
+Now, it's important to note that humans love finding patterns in literally anything, and there are a million chart patterns that can mean different things. But this doesn't mean you should expect the result to always come true. Again, this just helps paint a more clear picture, but does not absolutely tell us the future.
+
+(13:39 - 13:59)
+Now that you know when to enter a trade, let's talk about when you should exit a trade because this may be even more important than when you enter a trade. And this answer may vary because it depends on whether or not you are trading futures with leverage or trading spot without leverage. Leverage is simply borrowing money to use in a trade to help increase your potential return.
+
+(13:59 - 14:16)
+Let's say you've entered a trade When trading with leverage, you may borrow funds against that $100. With 10x leverage, your $100 acts as if it's $1,000. So mathematically, when the asset you're trading goes up 1%, you will actually be 10% in profit.
+
+(14:16 - 14:32)
+However, it's not all good and rosy because if the trade goes down 1%, you will be at a 10% loss. If you lose too much, you will be liquidated completely, meaning you lose all the funds that you entered into the trade and you don't want to be in that position. So this, of course, is very high risk and not for beginners.
+
+(14:33 - 14:48)
+Now, trading spot is just regular trading with your own money and no borrowing. Here you still have the risk of losing money, but liquidation is not a concern like it is with leverage. When trading with leverage, typically you want to close your trade the moment you hit your target or just before.
+
+(14:48 - 15:01)
+This will prevent you from being hit with recurring leverage fees. When you're trading with spot, you don't have to worry so much about rushing out of the trade. So if a trade has surpassed your target, you can simply hold longer and set up a trailing stop loss.
+
+(15:01 - 15:28)
+Now, a trailing stop loss is a stop loss tool you can use that will follow the price of an asset by a dollar amount of your choice and then close your trade at the maximum amount of profits possible completely on autopilot. Typically, you wouldn't set up a trailing stop loss until your price target is already hit and you just want to try and make a little bit more profit. Now, speaking of hit, if you appreciate my efforts in putting together this free course, just please consider hitting the subscribe button.
+
+(15:28 - 15:39)
+It's totally free and you can always change your mind later. Now, spotting trends isn't enough on its own. You also need to evaluate the strength of a trend because not all trends are created equally.
+
+(15:40 - 15:50)
+So one indicator that we can look at is trading volume. This is the total dollar amount traded of an asset. Now, it's pretty simple to do this, so it should be a regular part of your technical analysis.
+
+(15:50 - 16:09)
+The higher the trading volume, the stronger the trend. And this makes sense if you think about it because a trend with 10 million in volume behind it means much more than a trend with 1 million in volume behind it. So it's always good to take a look at the 24-hour trading volume on days where the price moved downwards and then compare this to the trading volume on days where the price moves upwards.
+
+(16:09 - 16:33)
+If you see higher volumes on positive days, this can tell us that there's a long-term potential for the asset to continue trending upwards. This also helps us evaluate how the market will react to a sharp drop in price. If the trading volume during one dip is larger than another more severe dip later on, we might determine that the drop in price does not signify a stronger downwards trend.
+
+(16:34 - 16:52)
+Something else to take into consideration is market cap, which you get by multiplying the current price of your crypto or stock with the total supply of the crypto or stock. Big cap coins and stocks tend to be more stable because large volume trades have less of an impact on their prices. It's hard to move a big ship.
+
+(16:52 - 17:01)
+Now, let's move on to a more technical indicator of price movement. And one that I use quite regularly. This is the Relative Strength Index, or RSI indicator for short.
+
+(17:01 - 17:23)
+The RSI of a certain crypto or stock usually is pretty easy to access. It's usually displayed just underneath price charts for the purpose of directly comparing price trends with the RSI. It's displayed as a number between 0 and 100, and this number changes continuously based on trading activity, typically relative to the average gains in losses over a 14-day period.
+
+(17:23 - 17:40)
+This kind of graph is called an oscillator because the readings always show a number between 0 and 100. So let's break down how this works. In basic situations without drastic market moving events, RSI indicates whether a crypto or any kind of security is overbought or oversold.
+
+(17:40 - 18:00)
+A reading above 70 would tell us that it's overbought and can signal that a price correction may happen. A prolonged RSI above 70 can be interpreted as some kind of bubble and that the coming correction could create dramatic losses to the people who are invested in that asset. Now, readings under 30 indicate that the security is oversold.
+
+(18:01 - 18:15)
+In other words, the asset may be undervalued, meaning it could be a good opportunity. You've probably seen videos where certain cryptos or stocks are proclaimed to be undervalued. The RSI indicator was likely one of the tools used to come to that conclusion, and now you can use that.
+
+(18:15 - 18:22)
+At the water cooler, at work, you can be like, Hey, you know what? I think that this stock is undervalued. You know, you just check the RSI. It can be that easy.
+
+(18:22 - 18:33)
+So there's actually a whole book written about the Relative Strength Index. If you want to fully understand it, I will have this book linked in the description of this video. Now we need to talk about the moving average.
+
+(18:33 - 18:53)
+You can calculate this by taking the price readings of your crypto or stock from the last X number of days. The standard is 20, but you can reduce it to about 5 if your trading strategy requires it. So this works by adding up the prices each day of your stock or asset or crypto and then dividing that sum by the total number of days in the period.
+
+(18:53 - 19:14)
+It's just the average price. What this gives you is a price figure that's less impacted by wild market swings, allowing you to focus on price performance as it changes over longer periods of time. If you want to use a shorter window for your average, like five days, just know that your moving average could be far more affected by temporary price swings than longer averages are affected.
+
+(19:14 - 19:31)
+So just make sure your investing strategy takes this into account. I like using moving averages to forecast price changes in a similar way to how the RSI indicator triggers buy and sell alerts. When the price of an asset falls below your moving average, some investors take this to mean a downward trend is imminent.
+
+(19:31 - 19:49)
+And you can interpret crypto or stock prices above your moving average to mean an upwards trend is more likely to happen. Now, understanding when to take profits can sometimes be tricky, but there's a solid rule you can remember, and I think everyone should follow this. It's never wrong to take profits, even if it's 1%, even if it's half a percent.
+
+(19:49 - 19:59)
+Don't let greed take over and tell you, you know, it could just keep on going up. Trust your plan, not your emotions. Please, you will make more money in the long run.
+
+(19:59 - 20:13)
+So far, we have gone over trend lines. Now let's cover how we can use these formations to find a price target so then we know when to safely exit a trade. In this example, I will show you a double bottom formation or a W formation.
+
+(20:13 - 20:20)
+We'll call it a booty formation. I don't know. In this formation, you wait until we break the resistance called the neckline.
+
+(20:21 - 20:28)
+We then wait for the confirmation bounce. This is revealed to us after the breakout. The price action uses the neckline as support.
+
+(20:29 - 20:47)
+We measure the target by measuring the bottom of the W formation to the neckline, then dragging the measurement to the top of the neckline. We can also use indicators to tell us if we're unlikely to hit the exact target. Indicators I like to use are EMAs, which stands for Exponential Moving Average.
+
+(20:47 - 20:57)
+My settings are at 21, 90, 200, and 600. This indicator will tell you when the price is likely to hit short-term support or resistance levels. And there you have it.
+
+(20:57 - 21:20)
+Some of the useful tools that you can use to get started in your own technical analysis of your favorite stocks and cryptos. I would recommend setting a reminder on your calendar to rewatch this video in about a month from now, just to ensure that everything locks in. And again, if you'd like even more content and buy alerts, daily crypto trade signals, and weekly coaching, make sure to check out my Patreon, linked in the description below.
+
+(21:20 - 21:30)
+You will not regret it. Also from here, I highly recommend you watch my free Crypto for Beginners or free Stocks for Beginners courses. I will have these clickable on screen here.
+
+(21:31 - 21:34)
+And with that, I want to thank you so much for watching, and I hope you have a profitable day.

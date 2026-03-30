@@ -1,0 +1,1247 @@
+1
+00:00:00,760 --> 00:00:03,480
+Fibonacci Retracements It is a tool that displays
+
+2
+00:00:03,480 --> 00:00:06,060
+horizontal lines based on the Fibonacci numbers.
+
+3
+00:00:06,440 --> 00:00:08,140
+These lines can then be used as key
+
+4
+00:00:08,140 --> 00:00:09,720
+support and resistance levels.
+
+5
+00:00:10,100 --> 00:00:12,620
+To use the Fibonacci retracement tool, you first
+
+6
+00:00:12,620 --> 00:00:15,160
+start by identifying a swing low and swing
+
+7
+00:00:15,160 --> 00:00:16,020
+high on a chart.
+
+8
+00:00:16,300 --> 00:00:18,320
+Then, drag the tool from the swing low
+
+9
+00:00:18,320 --> 00:00:19,240
+to the swing high.
+
+10
+00:00:19,880 --> 00:00:21,820
+Next, wait for the price to make a
+
+11
+00:00:21,820 --> 00:00:24,420
+pullback to one of these levels, ideally the
+
+12
+00:00:24,420 --> 00:00:27,460
+0.382 Fibonacci level, because that's the most
+
+13
+00:00:27,460 --> 00:00:29,720
+common level where price tends to reverse from.
+
+14
+00:00:30,020 --> 00:00:32,400
+So if price touches that level, that can
+
+15
+00:00:32,400 --> 00:00:33,700
+be a good buy entry.
+
+16
+00:00:34,620 --> 00:00:36,420
+Keep in mind that price could also reverse
+
+17
+00:00:36,420 --> 00:00:37,900
+from other Fibonacci levels.
+
+18
+00:00:38,220 --> 00:00:40,420
+Combine it with other confirmation signals to get
+
+19
+00:00:40,420 --> 00:00:41,180
+a better entry.
+
+20
+00:00:42,040 --> 00:00:45,000
+Breakout Patterns It is when price makes a
+
+21
+00:00:45,000 --> 00:00:47,940
+sudden and significant movement towards one direction.
+
+22
+00:00:48,300 --> 00:00:50,580
+This usually forms after the market makes a
+
+23
+00:00:50,580 --> 00:00:51,640
+consolidation period.
+
+24
+00:00:52,060 --> 00:00:54,000
+For example, here we can see that the
+
+25
+00:00:54,000 --> 00:00:55,200
+price is consolidating.
+
+26
+00:00:55,540 --> 00:00:58,160
+Then, it suddenly moves sharply to the downside.
+
+27
+00:00:58,160 --> 00:00:59,580
+This is called a breakout.
+
+28
+00:01:00,000 --> 00:01:02,060
+To take advantage of this, traders could use
+
+29
+00:01:02,060 --> 00:01:04,800
+specific patterns as a guide to identify breakouts
+
+30
+00:01:04,800 --> 00:01:05,760
+before they happen.
+
+31
+00:01:06,120 --> 00:01:10,900
+Most notable breakout patterns include wedges, triangles, and
+
+32
+00:01:10,900 --> 00:01:11,940
+the rectangle pattern.
+
+33
+00:01:12,940 --> 00:01:15,720
+Reversal Patterns It is when price moves in
+
+34
+00:01:15,720 --> 00:01:17,960
+the opposite direction of the current trend and
+
+35
+00:01:17,960 --> 00:01:19,200
+forms a countertrend.
+
+36
+00:01:19,660 --> 00:01:21,880
+Specific patterns could be identified in a chart
+
+37
+00:01:21,880 --> 00:01:24,460
+which could help traders predict reversals before they
+
+38
+00:01:24,460 --> 00:01:24,780
+happen.
+
+39
+00:01:24,780 --> 00:01:27,920
+Most notable reversal patterns are double top and
+
+40
+00:01:27,920 --> 00:01:31,460
+bottoms, triple top and bottoms, head and shoulders,
+
+41
+00:01:32,220 --> 00:01:32,980
+cups and handles.
+
+42
+00:01:34,060 --> 00:01:36,780
+Elliott Wave It is a theory that suggests
+
+43
+00:01:36,780 --> 00:01:38,740
+that market tends to move in a series
+
+44
+00:01:38,740 --> 00:01:41,740
+of five waves before reversing and forming another
+
+45
+00:01:41,740 --> 00:01:43,720
+set of waves in the opposite direction.
+
+46
+00:01:44,100 --> 00:01:46,820
+By understanding the Elliott Wave sequence, traders could
+
+47
+00:01:46,820 --> 00:01:48,880
+predict where the price is heading by following
+
+48
+00:01:48,880 --> 00:01:49,420
+the pattern.
+
+49
+00:01:49,420 --> 00:01:51,780
+In a chart, we can label each point
+
+50
+00:01:51,780 --> 00:01:53,680
+of the waves as 1, 2, 3, 4,
+
+51
+00:01:53,800 --> 00:01:55,080
+5, and ABC.
+
+52
+00:01:55,940 --> 00:01:58,240
+Now, there are specific rules to ensure that
+
+53
+00:01:58,240 --> 00:02:00,300
+a movement is considered as a valid Elliott
+
+54
+00:02:00,300 --> 00:02:00,660
+Wave.
+
+55
+00:02:01,200 --> 00:02:04,180
+First, wave 2 cannot be longer than wave
+
+56
+00:02:04,180 --> 00:02:06,360
+1 and usually pulls back to the 0
+
+57
+00:02:06,360 --> 00:02:08,139
+.618 Fibonacci level.
+
+58
+00:02:08,880 --> 00:02:12,180
+Second, wave 3 must be the longest wave
+
+59
+00:02:12,180 --> 00:02:14,120
+amongst wave 1, 3, and 5.
+
+60
+00:02:14,900 --> 00:02:18,480
+Third, wave 4 must remain above the peak
+
+61
+00:02:18,480 --> 00:02:19,240
+of wave 1.
+
+62
+00:02:19,420 --> 00:02:22,080
+And usually pulls back to the 0.382
+
+63
+00:02:22,080 --> 00:02:22,880
+Fibonacci level.
+
+64
+00:02:23,440 --> 00:02:25,160
+So here's an example of the Elliott Wave
+
+65
+00:02:25,160 --> 00:02:25,640
+in action.
+
+66
+00:02:26,400 --> 00:02:27,920
+In this chart, we can see that the
+
+67
+00:02:27,920 --> 00:02:30,620
+price resembles a possible 1, 2, 3 Elliott
+
+68
+00:02:30,620 --> 00:02:31,000
+Wave.
+
+69
+00:02:31,440 --> 00:02:33,260
+And so, based on the theory of wave
+
+70
+00:02:33,260 --> 00:02:35,240
+4, which is that price tends to pull
+
+71
+00:02:35,240 --> 00:02:38,260
+back to the 0.382 Fibonacci level before
+
+72
+00:02:38,260 --> 00:02:40,700
+continuing upwards, we can use this as a
+
+73
+00:02:40,700 --> 00:02:43,180
+potential buy entry when price makes a pullback.
+
+74
+00:02:45,270 --> 00:02:48,290
+Fair Value Gaps A fair value gap occurs
+
+75
+00:02:48,290 --> 00:02:50,850
+when a candle forms a significant gap due
+
+76
+00:02:50,850 --> 00:02:52,870
+to an imbalance of buying or selling.
+
+77
+00:02:53,330 --> 00:02:55,190
+To find a fair value gap, you first
+
+78
+00:02:55,190 --> 00:02:56,450
+need to find a candle with a large
+
+79
+00:02:56,450 --> 00:02:56,810
+body.
+
+80
+00:02:57,370 --> 00:02:59,350
+Then, draw a rectangle at the gap.
+
+81
+00:02:59,650 --> 00:03:01,910
+Place it between the previous candlestick and the
+
+82
+00:03:01,910 --> 00:03:02,630
+next candlestick.
+
+83
+00:03:03,250 --> 00:03:05,710
+This level now acts as a potential magnet,
+
+84
+00:03:06,010 --> 00:03:08,650
+where price may revisit before continuing its movement.
+
+85
+00:03:10,780 --> 00:03:13,860
+Candlestick Patterns It is a technique that traders
+
+86
+00:03:13,860 --> 00:03:16,740
+use to analyze future price movements by looking
+
+87
+00:03:16,740 --> 00:03:18,360
+at specific candlestick shapes.
+
+88
+00:03:18,760 --> 00:03:22,360
+Notable candlestick patterns include Engulfing Patterns, which signals
+
+89
+00:03:22,360 --> 00:03:24,900
+strong momentum towards the direction of the engulfing
+
+90
+00:03:24,900 --> 00:03:25,220
+candle.
+
+91
+00:03:25,540 --> 00:03:28,520
+Hammer and Shooting Star Patterns, which indicates rejection
+
+92
+00:03:28,520 --> 00:03:30,220
+as shown by the long wick on one
+
+93
+00:03:30,220 --> 00:03:30,500
+side.
+
+94
+00:03:31,200 --> 00:03:34,040
+Doji Patterns, which signals neutrality in the market.
+
+95
+00:03:35,260 --> 00:03:38,500
+Heikinashi It is an indicator that fully replaces
+
+96
+00:03:38,500 --> 00:03:41,640
+a traditional candlestick chart to a Heikinashi chart.
+
+97
+00:03:42,100 --> 00:03:44,640
+When applied, it tends to give less noise
+
+98
+00:03:44,640 --> 00:03:45,920
+than a traditional candlestick.
+
+99
+00:03:46,100 --> 00:03:48,860
+A green Heikinashi candle signals that the price
+
+100
+00:03:48,860 --> 00:03:50,980
+is on an uptrend, and a red Heikinashi
+
+101
+00:03:50,980 --> 00:03:52,800
+candle signals that the price is on a
+
+102
+00:03:52,800 --> 00:03:53,340
+downtrend.
+
+103
+00:03:53,660 --> 00:03:55,700
+The size of the candle's body also indicates
+
+104
+00:03:55,700 --> 00:03:57,080
+how strong a trend is.
+
+105
+00:03:57,360 --> 00:03:59,500
+The larger the candle, the stronger the trend.
+
+106
+00:03:59,920 --> 00:04:01,960
+Keep in mind that the Heikinashi only acts
+
+107
+00:04:01,960 --> 00:04:02,620
+as an indicator.
+
+108
+00:04:02,940 --> 00:04:05,080
+It does not display the real market price.
+
+109
+00:04:05,900 --> 00:04:09,000
+Moon Phases It is a concept that utilizes
+
+110
+00:04:09,000 --> 00:04:10,820
+moon cycles to time the market.
+
+111
+00:04:11,320 --> 00:04:13,380
+Moon phase traders believe that moon cycles are
+
+112
+00:04:13,380 --> 00:04:16,380
+correlated with human emotions and behavior, which could
+
+113
+00:04:16,380 --> 00:04:17,700
+have an influence on the market.
+
+114
+00:04:18,279 --> 00:04:20,459
+Specific moon phases are believed to be favorable
+
+115
+00:04:20,459 --> 00:04:21,740
+towards a certain trend.
+
+116
+00:04:22,320 --> 00:04:24,160
+A new moon means the market tends to
+
+117
+00:04:24,160 --> 00:04:26,640
+be bullish, and a full moon means the
+
+118
+00:04:26,640 --> 00:04:27,900
+market tends to be bearish.
+
+119
+00:04:28,300 --> 00:04:30,320
+Today, it is used mostly as a confirmation
+
+120
+00:04:30,320 --> 00:04:30,780
+tool.
+
+121
+00:04:31,580 --> 00:04:35,640
+Renko It replaces a traditional candlestick chart to
+
+122
+00:04:35,640 --> 00:04:36,400
+a Renko chart.
+
+123
+00:04:36,900 --> 00:04:39,600
+So, unlike a traditional candlestick which forms a
+
+124
+00:04:39,600 --> 00:04:41,480
+new candle based on a certain period of
+
+125
+00:04:41,480 --> 00:04:44,280
+time, a Renko chart forms its block based
+
+126
+00:04:44,280 --> 00:04:45,340
+on the change of price.
+
+127
+00:04:45,540 --> 00:04:48,700
+For example, every 1% change in price,
+
+128
+00:04:49,260 --> 00:04:50,460
+a Renko block appears.
+
+129
+00:04:50,900 --> 00:04:53,280
+This means that each Renko block represents a
+
+130
+00:04:53,280 --> 00:04:54,780
+1% change in price.
+
+131
+00:04:55,360 --> 00:04:57,080
+Of course, you can change the parameters of
+
+132
+00:04:57,080 --> 00:04:58,560
+this through the indicator settings.
+
+133
+00:04:59,140 --> 00:05:01,380
+Traders could utilize Renko charts to filter out
+
+134
+00:05:01,380 --> 00:05:02,960
+noise and identify trends.
+
+135
+00:05:03,500 --> 00:05:05,900
+A green Renko block signals an uptrend, and
+
+136
+00:05:05,900 --> 00:05:07,900
+a red Renko block signals a downtrend.
+
+137
+00:05:08,420 --> 00:05:10,220
+And keep in mind that Renko charts only
+
+138
+00:05:10,220 --> 00:05:11,220
+acts as an indicator.
+
+139
+00:05:11,580 --> 00:05:13,720
+It does not display the real market price.
+
+140
+00:05:14,620 --> 00:05:18,160
+Harmonic Patterns These are advanced price patterns that
+
+141
+00:05:18,160 --> 00:05:21,000
+follow a specific shape based on Fibonacci numbers.
+
+142
+00:05:21,300 --> 00:05:23,280
+Traders can then use these specific shapes to
+
+143
+00:05:23,280 --> 00:05:24,700
+predict future price movements.
+
+144
+00:05:25,180 --> 00:05:27,700
+For example, a bullish-bad pattern is formed
+
+145
+00:05:27,700 --> 00:05:29,860
+when price makes a series of 4 movements
+
+146
+00:05:29,860 --> 00:05:31,280
+that is shaped like the letter M.
+
+147
+00:05:31,780 --> 00:05:33,940
+Each point can be labeled as X, A,
+
+148
+00:05:33,980 --> 00:05:34,700
+B, C, and D.
+
+149
+00:05:35,040 --> 00:05:36,580
+And each of these points has a specific
+
+150
+00:05:36,580 --> 00:05:37,100
+guideline.
+
+151
+00:05:37,500 --> 00:05:39,920
+For example, point X to point B needs
+
+152
+00:05:39,920 --> 00:05:42,360
+to have a value between 0.382 and
+
+153
+00:05:42,360 --> 00:05:45,000
+0.5. Point A to C needs to
+
+154
+00:05:45,000 --> 00:05:47,500
+have a value between 0.382 and 0
+
+155
+00:05:47,500 --> 00:05:50,240
+.886. And the same thing works for the
+
+156
+00:05:50,240 --> 00:05:50,820
+other points.
+
+157
+00:05:51,440 --> 00:05:54,000
+Next, these specific guidelines can then be applied
+
+158
+00:05:54,000 --> 00:05:54,920
+onto a real chart.
+
+159
+00:05:55,680 --> 00:05:57,360
+So, if you see a price forming a
+
+160
+00:05:57,360 --> 00:05:59,440
+series of 4 movements, you can apply the
+
+161
+00:05:59,440 --> 00:06:01,340
+harmonic pattern tool to check if the price
+
+162
+00:06:01,340 --> 00:06:03,420
+that formed matches the pattern's guideline.
+
+163
+00:06:05,060 --> 00:06:06,900
+If it does, then you can take a
+
+164
+00:06:06,900 --> 00:06:08,860
+position based on the pattern that formed.
+
+165
+00:06:10,200 --> 00:06:12,600
+There are multiple harmonic patterns that exist.
+
+166
+00:06:12,600 --> 00:06:16,020
+Most notable are Butterfly, Bat, Crab.
+
+167
+00:06:16,380 --> 00:06:18,040
+And each have their own unique values.
+
+168
+00:06:20,500 --> 00:06:23,740
+These are key levels that formed horizontally where
+
+169
+00:06:23,740 --> 00:06:25,560
+the price has bounced off in the past
+
+170
+00:06:25,560 --> 00:06:28,000
+and could possibly bounce again in the future.
+
+171
+00:06:28,500 --> 00:06:30,280
+If the level is below the price, it's
+
+172
+00:06:30,280 --> 00:06:32,260
+called support, where you can take a buy
+
+173
+00:06:32,260 --> 00:06:33,900
+position if the price approaches it.
+
+174
+00:06:34,260 --> 00:06:35,900
+And if the level is above the price,
+
+175
+00:06:36,060 --> 00:06:38,160
+it's called resistance, where you can take a
+
+176
+00:06:38,160 --> 00:06:40,020
+sell position if the price approaches it.
+
+177
+00:06:42,940 --> 00:06:45,960
+Similar to support and resistance, dynamic support and
+
+178
+00:06:45,960 --> 00:06:47,980
+resistance also acts as key levels.
+
+179
+00:06:48,340 --> 00:06:50,820
+But instead of using static horizontal lines, it
+
+180
+00:06:50,820 --> 00:06:53,060
+uses indicators like the moving average to act
+
+181
+00:06:53,060 --> 00:06:53,860
+as our key level.
+
+182
+00:06:55,840 --> 00:06:59,160
+Trendlines are key levels that form diagonally during
+
+183
+00:06:59,160 --> 00:07:00,040
+a trending market.
+
+184
+00:07:00,400 --> 00:07:02,520
+You can use trendlines to identify the overall
+
+185
+00:07:02,520 --> 00:07:03,600
+direction of the price.
+
+186
+00:07:04,020 --> 00:07:05,500
+Upwards trendline means bullish.
+
+187
+00:07:06,020 --> 00:07:07,780
+Downwards trendline means bearish.
+
+188
+00:07:08,200 --> 00:07:10,300
+And similar to support and resistance, you can
+
+189
+00:07:10,300 --> 00:07:12,920
+also use the trendline to identify possible entry
+
+190
+00:07:12,920 --> 00:07:13,500
+scenarios.
+
+191
+00:07:13,920 --> 00:07:16,460
+For example, if price retraces back to a
+
+192
+00:07:16,460 --> 00:07:18,560
+trendline, it can be a good opportunity to
+
+193
+00:07:18,560 --> 00:07:19,660
+take a buy position.
+
+194
+00:07:22,320 --> 00:07:25,340
+It is a tool that displays multiple lines
+
+195
+00:07:25,340 --> 00:07:27,640
+that spread continuously on different angles.
+
+196
+00:07:28,060 --> 00:07:30,160
+These lines can then act as possible key
+
+197
+00:07:30,160 --> 00:07:32,120
+levels and could also help you measure the
+
+198
+00:07:32,120 --> 00:07:32,980
+strength of a trend.
+
+199
+00:07:33,380 --> 00:07:35,280
+Price moving within the steep angles of the
+
+200
+00:07:35,280 --> 00:07:37,000
+tool indicates a strong trend.
+
+201
+00:07:37,000 --> 00:07:39,300
+And price moving within the shallow angles of
+
+202
+00:07:39,300 --> 00:07:41,240
+the tool indicates a weak trend.
+
+203
+00:07:41,520 --> 00:07:44,320
+To apply the GAN angles, first, you go
+
+204
+00:07:44,320 --> 00:07:44,820
+to settings.
+
+205
+00:07:45,260 --> 00:07:47,280
+Then, make sure to check the lock price
+
+206
+00:07:47,280 --> 00:07:48,040
+to bar ratio.
+
+207
+00:07:48,660 --> 00:07:51,500
+Next, identify a market range and mark the
+
+208
+00:07:51,500 --> 00:07:53,240
+swing low and the swing highs of that
+
+209
+00:07:53,240 --> 00:07:53,600
+range.
+
+210
+00:07:54,040 --> 00:07:56,460
+Then, draw a straight vertical line at the
+
+211
+00:07:56,460 --> 00:07:57,220
+start of the range.
+
+212
+00:07:57,760 --> 00:08:00,340
+After that, select the trend angle tool and
+
+213
+00:08:00,340 --> 00:08:01,740
+measure 45 degrees.
+
+214
+00:08:03,180 --> 00:08:05,740
+Then, use the GAN fan tool and place
+
+215
+00:08:05,740 --> 00:08:07,520
+it at the 45-degree angle.
+
+216
+00:08:09,400 --> 00:08:12,460
+Momentum Indicators These are the types of indicator
+
+217
+00:08:12,460 --> 00:08:14,620
+that measures the direction and strength of a
+
+218
+00:08:14,620 --> 00:08:14,880
+trend.
+
+219
+00:08:15,280 --> 00:08:17,060
+It is most effective when used in trending
+
+220
+00:08:17,060 --> 00:08:17,520
+markets.
+
+221
+00:08:17,960 --> 00:08:20,160
+Some of the most notable momentum indicators are
+
+222
+00:08:20,160 --> 00:08:23,580
+MACD, an upwards crossover indicates a bullish trend
+
+223
+00:08:23,580 --> 00:08:26,260
+while a downwards crossover indicates a bearish trend.
+
+224
+00:08:26,720 --> 00:08:29,560
+Moving Averages Price being above the moving average
+
+225
+00:08:29,560 --> 00:08:32,200
+signals a bullish trend and price being below
+
+226
+00:08:32,200 --> 00:08:33,580
+signals a bearish trend.
+
+227
+00:08:34,179 --> 00:08:37,039
+Parabolic SAR A dot below the price indicates
+
+228
+00:08:37,039 --> 00:08:39,059
+a bullish trend and a dot above the
+
+229
+00:08:39,059 --> 00:08:40,659
+price indicates a bearish trend.
+
+230
+00:08:41,440 --> 00:08:44,660
+Supertrend Green signal indicates a bullish trend and
+
+231
+00:08:44,660 --> 00:08:46,600
+a red signal indicates a bearish trend.
+
+232
+00:08:47,620 --> 00:08:50,660
+Oscillators These are the types of indicator that
+
+233
+00:08:50,660 --> 00:08:52,660
+displays the relative strength of a price.
+
+234
+00:08:53,080 --> 00:08:55,100
+It is most effective when used on choppy
+
+235
+00:08:55,100 --> 00:08:56,260
+or sideways markets.
+
+236
+00:08:56,620 --> 00:09:00,160
+Most notable oscillators include RSI When the line
+
+237
+00:09:00,160 --> 00:09:02,240
+is in the oversold region, it indicates a
+
+238
+00:09:02,240 --> 00:09:03,740
+possible reversal to the upside.
+
+239
+00:09:04,280 --> 00:09:06,260
+If it's in the overbought region, it indicates
+
+240
+00:09:06,260 --> 00:09:08,140
+a possible reversal to the downside.
+
+241
+00:09:08,900 --> 00:09:11,740
+Stochastic If both lines are at oversold, it
+
+242
+00:09:11,740 --> 00:09:13,580
+signals a possible reversal to the upside.
+
+243
+00:09:14,220 --> 00:09:16,240
+And if both lines are at overbought, it
+
+244
+00:09:16,240 --> 00:09:18,380
+signals a possible reversal to the downside.
+
+245
+00:09:18,860 --> 00:09:20,640
+These two lines can also cross over each
+
+246
+00:09:20,640 --> 00:09:22,520
+other to predict future price movements.
+
+247
+00:09:23,420 --> 00:09:26,960
+Divergences Divergences occur when an indicator displays an
+
+248
+00:09:26,960 --> 00:09:29,020
+opposite signal of the real price movement.
+
+249
+00:09:29,420 --> 00:09:31,420
+When this happens, it is usually a sign
+
+250
+00:09:31,420 --> 00:09:32,800
+that the trend might reverse.
+
+251
+00:09:33,320 --> 00:09:35,680
+Divergences can occur in many indicators, such as
+
+252
+00:09:35,680 --> 00:09:38,980
+the MACD, Stochastic, and the RSI.
+
+253
+00:09:39,620 --> 00:09:42,840
+For example, here, using the MACD indicator, you
+
+254
+00:09:42,840 --> 00:09:44,560
+can see that the price is forming higher
+
+255
+00:09:44,560 --> 00:09:47,100
+highs, which is bullish, but the indicator shows
+
+256
+00:09:47,100 --> 00:09:49,920
+the opposite, a lower highs, which is bearish.
+
+257
+00:09:49,920 --> 00:09:52,560
+In this case, this is a bearish divergence,
+
+258
+00:09:52,840 --> 00:09:54,740
+which signals that the price may form a
+
+259
+00:09:54,740 --> 00:09:56,620
+reversal, and so you can take a sell
+
+260
+00:09:56,620 --> 00:09:57,120
+position.
+
+261
+00:09:59,770 --> 00:10:03,070
+Volume Indicators These are types of indicator that
+
+262
+00:10:03,070 --> 00:10:05,350
+shows the strength behind a price movement by
+
+263
+00:10:05,350 --> 00:10:06,710
+tracking the trading volume.
+
+264
+00:10:07,030 --> 00:10:10,470
+Notable volume indicators include Price Volume, which displays
+
+265
+00:10:10,470 --> 00:10:11,870
+the volume for each candle.
+
+266
+00:10:12,170 --> 00:10:14,130
+The longer the bar, the higher the volume.
+
+267
+00:10:14,890 --> 00:10:17,770
+Volume Weighted Average Price, which shows the ratio
+
+268
+00:10:17,770 --> 00:10:19,810
+of an asset's price to its total volume.
+
+269
+00:10:19,810 --> 00:10:21,850
+It can be traded like a moving average
+
+270
+00:10:21,850 --> 00:10:24,230
+or as a dynamic support and resistance.
+
+271
+00:10:24,910 --> 00:10:27,950
+Volume Profiles It displays a volume bar horizontally,
+
+272
+00:10:28,350 --> 00:10:30,030
+which can be treated as key levels for
+
+273
+00:10:30,030 --> 00:10:31,490
+potential entry positions.
+
+274
+00:10:32,570 --> 00:10:35,930
+Supply and Demand Also referred to as order
+
+275
+00:10:35,930 --> 00:10:38,930
+blocks, these are zones where significant price movements
+
+276
+00:10:38,930 --> 00:10:39,690
+have occurred.
+
+277
+00:10:39,990 --> 00:10:42,450
+If price moves significantly upwards from a level,
+
+278
+00:10:42,710 --> 00:10:44,290
+it is considered a demand zone.
+
+279
+00:10:44,850 --> 00:10:47,170
+And if price moves significantly downwards from a
+
+280
+00:10:47,170 --> 00:10:49,230
+level, it is considered a supply zone.
+
+281
+00:10:49,230 --> 00:10:52,090
+Just like support and resistance, these zones can
+
+282
+00:10:52,090 --> 00:10:54,410
+be treated as key levels for potential entry
+
+283
+00:10:54,410 --> 00:10:55,030
+positions.
+
+284
+00:10:56,110 --> 00:10:59,590
+Market Structure Market structure is when trader analyzes
+
+285
+00:10:59,590 --> 00:11:02,450
+the behavior, condition, and flow of the market.
+
+286
+00:11:03,230 --> 00:11:05,890
+An uptrend structure is characterized by price forming
+
+287
+00:11:05,890 --> 00:11:09,210
+higher highs and higher lows, while downtrend structure
+
+288
+00:11:09,210 --> 00:11:12,010
+is characterized by price forming lower highs and
+
+289
+00:11:12,010 --> 00:11:12,630
+lower lows.
+
+290
+00:11:13,690 --> 00:11:16,570
+Break of Structure It is when price breaks
+
+291
+00:11:16,570 --> 00:11:18,750
+the previous price peak during a trend.
+
+292
+00:11:18,750 --> 00:11:21,310
+For example, if the price forms a higher
+
+293
+00:11:21,310 --> 00:11:23,530
+highs and higher lows, this break of the
+
+294
+00:11:23,530 --> 00:11:25,430
+previous highs is called break of structure.
+
+295
+00:11:26,430 --> 00:11:29,690
+Change of Character It occurs when price breaks
+
+296
+00:11:29,690 --> 00:11:32,470
+the previous structure during a trend, often signaling
+
+297
+00:11:32,470 --> 00:11:34,450
+a reversal from that current trend.
+
+298
+00:11:34,870 --> 00:11:37,030
+For example, if the price is forming higher
+
+299
+00:11:37,030 --> 00:11:39,170
+highs and higher lows, then it breaks the
+
+300
+00:11:39,170 --> 00:11:41,870
+previous lows forming lower lows, this is called
+
+301
+00:11:41,870 --> 00:11:42,850
+a change of character.
+
+302
+00:11:43,550 --> 00:11:45,110
+So, did I miss any strategy?
+
+303
+00:11:45,550 --> 00:11:46,850
+Let me know in the comments below.
+
+304
+00:11:46,850 --> 00:11:49,350
+And if you find this enjoyable, kindly do
+
+305
+00:11:49,350 --> 00:11:51,290
+a small favor by liking the video and
+
+306
+00:11:51,290 --> 00:11:52,270
+subscribe to the channel.
+
+307
+00:11:52,610 --> 00:11:54,310
+It only takes 2 clicks but it means
+
+308
+00:11:54,310 --> 00:11:55,050
+so much to me.
+
+309
+00:11:55,330 --> 00:11:56,890
+You can also check out my other videos
+
+310
+00:11:56,890 --> 00:11:57,250
+as well.
+
+311
+00:11:57,710 --> 00:11:59,270
+So thank you for watching and I'll see
+
+312
+00:11:59,270 --> 00:12:00,130
+you in the next video.

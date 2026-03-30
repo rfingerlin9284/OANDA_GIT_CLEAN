@@ -1,0 +1,2507 @@
+1
+00:00:00,430 --> 00:00:02,090
+Understanding technical analysis can mean the difference between
+
+2
+00:00:02,090 --> 00:00:03,830
+buying here and buying here.
+
+3
+00:00:03,930 --> 00:00:04,990
+And that's why I've decided to create the
+
+4
+00:00:04,990 --> 00:00:07,550
+Best Darn Beginners Guide to Technical Analysis on
+
+5
+00:00:07,550 --> 00:00:07,970
+the Internet.
+
+6
+00:00:08,050 --> 00:00:09,790
+Starting with some very important terminology.
+
+7
+00:00:29,750 --> 00:00:32,510
+above due to previous demand or price action.
+
+8
+00:00:59,750 --> 00:01:01,790
+That is, predicting the asset will go up
+
+9
+00:01:01,790 --> 00:01:02,430
+in value.
+
+10
+00:01:02,550 --> 00:01:04,489
+Short position, the opposite of a long position.
+
+11
+00:01:04,810 --> 00:01:06,990
+Entering a trade position, betting the asset will
+
+12
+00:01:06,990 --> 00:01:07,950
+go down in value.
+
+13
+00:01:08,010 --> 00:01:09,650
+Don't worry if you're feeling lost already, we
+
+14
+00:01:09,650 --> 00:01:11,630
+will break everything down even more.
+
+15
+00:01:11,730 --> 00:01:12,430
+A market order.
+
+16
+00:01:12,750 --> 00:01:14,650
+In order to buy an asset or security
+
+17
+00:01:14,650 --> 00:01:17,510
+immediately at the current market rate.
+
+18
+00:01:17,830 --> 00:01:18,350
+Limit order.
+
+19
+00:01:18,690 --> 00:01:20,130
+In order to buy an asset or security
+
+20
+00:01:20,130 --> 00:01:22,230
+at a specified price or better.
+
+21
+00:01:22,510 --> 00:01:24,090
+If you set a limit order to buy
+
+22
+00:01:24,090 --> 00:01:26,530
+an asset at $5, your trade will not
+
+23
+00:01:26,530 --> 00:01:29,710
+be initiated unless the price hits $5 or
+
+24
+00:01:29,710 --> 00:01:30,210
+less.
+
+25
+00:01:30,370 --> 00:01:31,710
+These terms will help you with the learning
+
+26
+00:01:31,710 --> 00:01:33,330
+process for the remainder of this video.
+
+27
+00:01:33,650 --> 00:01:35,170
+Now, let's go ahead and get you set
+
+28
+00:01:35,170 --> 00:01:35,310
+up.
+
+29
+00:01:35,610 --> 00:01:36,790
+The first thing you need to do is
+
+30
+00:01:36,790 --> 00:01:38,290
+select your trading platform.
+
+31
+00:01:38,650 --> 00:01:40,510
+It's important to take your time on this
+
+32
+00:01:40,510 --> 00:01:42,750
+because there's a lot of scam exchanges and
+
+33
+00:01:42,750 --> 00:01:45,130
+exchanges that simply charge way too much in
+
+34
+00:01:45,130 --> 00:01:45,470
+fees.
+
+35
+00:01:45,590 --> 00:01:47,790
+For trading cryptos, I'm personally a fan of
+
+36
+00:01:47,790 --> 00:01:48,230
+KuCoin.
+
+37
+00:01:48,330 --> 00:01:50,050
+If you're looking to trade stocks, I'm a
+
+38
+00:01:50,050 --> 00:01:51,570
+big fan of Webull, as they have a
+
+39
+00:01:51,570 --> 00:01:53,790
+really easy to use interface and some free
+
+40
+00:01:53,790 --> 00:01:54,950
+stocks for signing up.
+
+41
+00:01:54,950 --> 00:01:56,570
+I'll have all the options linked in the
+
+42
+00:01:56,570 --> 00:01:57,690
+description of this video.
+
+43
+00:01:58,150 --> 00:01:59,950
+After you've created your account, you'll need to
+
+44
+00:01:59,950 --> 00:02:02,690
+understand what you're getting yourself into before entering
+
+45
+00:02:02,690 --> 00:02:05,170
+any trades and risking your life savings.
+
+46
+00:02:05,270 --> 00:02:06,650
+Please don't risk your life savings.
+
+47
+00:02:06,790 --> 00:02:07,270
+I don't understand.
+
+48
+00:02:07,389 --> 00:02:08,530
+Why would you buy a policy?
+
+49
+00:02:08,630 --> 00:02:10,030
+It's just the cost of a cup of
+
+50
+00:02:10,030 --> 00:02:10,870
+coffee an hour.
+
+51
+00:02:11,090 --> 00:02:12,930
+I've seen people make millions trading, but I've
+
+52
+00:02:12,930 --> 00:02:14,790
+also seen people lose everything.
+
+53
+00:02:14,970 --> 00:02:17,690
+So trade responsibly because no one can predict
+
+54
+00:02:17,690 --> 00:02:18,170
+the future.
+
+55
+00:02:18,270 --> 00:02:21,230
+Technical analysis is just an additional tool in
+
+56
+00:02:21,230 --> 00:02:22,430
+your tool belt that you can use to
+
+57
+00:02:22,430 --> 00:02:24,210
+become a more well-rounded investor.
+
+58
+00:02:24,210 --> 00:02:26,770
+It is by no means a fortune teller,
+
+59
+00:02:27,010 --> 00:02:29,010
+and none of this video should be interpreted
+
+60
+00:02:29,010 --> 00:02:30,630
+as financial advice.
+
+61
+00:02:30,790 --> 00:02:31,810
+So what are we doing when we talk
+
+62
+00:02:31,810 --> 00:02:33,350
+about our own technical analysis?
+
+63
+00:02:33,730 --> 00:02:34,330
+Picture this.
+
+64
+00:02:34,390 --> 00:02:36,150
+You're planning a vacation to Italy with your
+
+65
+00:02:36,150 --> 00:02:37,670
+family, but you need to get a hotel.
+
+66
+00:02:38,030 --> 00:02:40,150
+Before you go, you could manually call some
+
+67
+00:02:40,150 --> 00:02:42,530
+hotels in Milan and ask about their services,
+
+68
+00:02:42,890 --> 00:02:45,090
+their schedule, and how close they are to
+
+69
+00:02:45,090 --> 00:02:46,230
+a wine and cheese shop.
+
+70
+00:02:46,270 --> 00:02:47,730
+It takes you about two weeks to complete
+
+71
+00:02:47,730 --> 00:02:48,470
+this exercise.
+
+72
+00:02:48,550 --> 00:02:49,970
+And at that point, you have about 10
+
+73
+00:02:49,970 --> 00:02:52,250
+hotels on a spreadsheet with all this data
+
+74
+00:02:52,250 --> 00:02:52,930
+that you've collected.
+
+75
+00:02:52,930 --> 00:02:55,450
+You have great information, but most won't go
+
+76
+00:02:55,450 --> 00:02:56,730
+through all of this effort.
+
+77
+00:02:56,830 --> 00:02:59,150
+Instead, you probably would look at an aggregator
+
+78
+00:02:59,150 --> 00:03:01,690
+website that allows you to compare customer feedback,
+
+79
+00:03:01,830 --> 00:03:03,870
+average booking prices, and of course, the distance
+
+80
+00:03:03,870 --> 00:03:05,950
+to your local cheese shop for the most
+
+81
+00:03:05,950 --> 00:03:06,810
+popular hotels.
+
+82
+00:03:06,970 --> 00:03:08,350
+This allows you to get a pretty good
+
+83
+00:03:08,350 --> 00:03:10,770
+idea of what you're getting yourself into without
+
+84
+00:03:10,770 --> 00:03:13,590
+ever having to crack open the operations manual
+
+85
+00:03:13,590 --> 00:03:14,990
+of 10 different hotels.
+
+86
+00:03:15,130 --> 00:03:17,650
+Technical analysis works a bit like the second
+
+87
+00:03:17,650 --> 00:03:18,190
+situation.
+
+88
+00:03:18,290 --> 00:03:20,330
+Well, it's important that we have a good
+
+89
+00:03:20,330 --> 00:03:23,270
+understanding of a crypto or stock's fundamentals before
+
+90
+00:03:23,270 --> 00:03:23,910
+considering it.
+
+91
+00:03:23,970 --> 00:03:25,130
+You have to ensure it's not a scam
+
+92
+00:03:25,130 --> 00:03:25,550
+anyways.
+
+93
+00:03:25,710 --> 00:03:27,590
+Past a certain point, we need to learn
+
+94
+00:03:27,590 --> 00:03:30,150
+about how investors are trading that asset.
+
+95
+00:03:30,450 --> 00:03:32,670
+What's the price action, and what can it
+
+96
+00:03:32,670 --> 00:03:33,250
+tell us?
+
+97
+00:03:33,310 --> 00:03:34,590
+Can this help us invest?
+
+98
+00:03:34,810 --> 00:03:36,670
+This will help us determine if the trends
+
+99
+00:03:36,670 --> 00:03:38,890
+we see happening right now will continue or
+
+100
+00:03:38,890 --> 00:03:40,670
+if they're more likely to change in the
+
+101
+00:03:40,670 --> 00:03:40,930
+future.
+
+102
+00:03:40,990 --> 00:03:44,150
+Technical analysis measures price movements, uses indicators, and
+
+103
+00:03:44,150 --> 00:03:47,330
+offers suggestions as to potential opportunities to buy
+
+104
+00:03:47,330 --> 00:03:49,250
+or sell cryptos and stocks.
+
+105
+00:03:49,250 --> 00:03:52,050
+This usually is more useful for short-term
+
+106
+00:03:52,050 --> 00:03:54,090
+traders, but it can be valuable to long
+
+107
+00:03:54,090 --> 00:03:55,870
+-term holders as well who want to ensure
+
+108
+00:03:55,870 --> 00:03:58,350
+that they find the best possible entry prices
+
+109
+00:03:58,350 --> 00:04:00,050
+for the assets that they're looking to invest
+
+110
+00:04:00,050 --> 00:04:00,250
+in.
+
+111
+00:04:00,510 --> 00:04:02,450
+Now, to keep things simple, this is a
+
+112
+00:04:02,450 --> 00:04:03,290
+beginner's guide.
+
+113
+00:04:03,430 --> 00:04:05,270
+Now, I've selected a few of the most
+
+114
+00:04:05,270 --> 00:04:07,270
+accessible ways that you can start doing your
+
+115
+00:04:07,270 --> 00:04:09,990
+own technical analysis and learn to create a
+
+116
+00:04:09,990 --> 00:04:13,130
+more proactive strategy for crypto and stock trading.
+
+117
+00:04:13,210 --> 00:04:14,990
+And before we dive deep, I also need
+
+118
+00:04:14,990 --> 00:04:16,490
+to let you know about my Patreon, linked
+
+119
+00:04:16,490 --> 00:04:17,050
+in the description.
+
+120
+00:04:17,230 --> 00:04:19,390
+There you'll find a massive private investor community,
+
+121
+00:04:19,630 --> 00:04:22,790
+daily crypto trade signals, free coaching, and alerts
+
+122
+00:04:22,790 --> 00:04:25,190
+whenever I buy or sell assets, all for
+
+123
+00:04:25,190 --> 00:04:26,490
+as little as $10 a month.
+
+124
+00:04:26,510 --> 00:04:27,910
+And there's a reason that we have nearly
+
+125
+00:04:27,910 --> 00:04:30,210
+10,000 satisfied members.
+
+126
+00:04:30,370 --> 00:04:31,510
+The first indicator that I want to talk
+
+127
+00:04:31,510 --> 00:04:32,830
+about is the candlestick graph.
+
+128
+00:04:32,950 --> 00:04:34,290
+It's one of the most popular ways of
+
+129
+00:04:34,290 --> 00:04:35,730
+looking at how prices change.
+
+130
+00:04:36,010 --> 00:04:37,490
+This tells us a lot more about the
+
+131
+00:04:37,490 --> 00:04:39,490
+supply and demand for an asset than a
+
+132
+00:04:39,490 --> 00:04:41,250
+simple line graph ever could.
+
+133
+00:04:41,490 --> 00:04:44,170
+Candles can be set to show price changes
+
+134
+00:04:44,170 --> 00:04:46,330
+per minute, per hour, or per day, and
+
+135
+00:04:46,330 --> 00:04:48,390
+this is beneficial depending on how frequently you
+
+136
+00:04:48,390 --> 00:04:48,670
+trade.
+
+137
+00:04:48,670 --> 00:04:50,490
+So let's look at the colors first.
+
+138
+00:04:50,650 --> 00:04:52,230
+A red candle tells us for that day,
+
+139
+00:04:52,430 --> 00:04:54,170
+the asset closed at a loss.
+
+140
+00:04:54,330 --> 00:04:56,450
+And you guessed it, a green candle tells
+
+141
+00:04:56,450 --> 00:04:57,750
+us that the price went up.
+
+142
+00:04:58,030 --> 00:05:00,050
+What's more important to look at here is
+
+143
+00:05:00,050 --> 00:05:01,990
+the opening and closing prices.
+
+144
+00:05:02,150 --> 00:05:04,170
+If the candle is red, then the closing
+
+145
+00:05:04,170 --> 00:05:06,090
+price is the bottom end of the candle
+
+146
+00:05:06,090 --> 00:05:07,950
+with the opening price at the top.
+
+147
+00:05:08,110 --> 00:05:10,130
+The opposite is true for green candles.
+
+148
+00:05:10,530 --> 00:05:12,490
+The bottom is the opening price and the
+
+149
+00:05:12,490 --> 00:05:14,190
+top is the closing price.
+
+150
+00:05:14,270 --> 00:05:15,430
+But that's not all.
+
+151
+00:05:15,610 --> 00:05:17,510
+Many new traders will forget to look at
+
+152
+00:05:17,510 --> 00:05:18,870
+the wicks, and this is important.
+
+153
+00:05:18,950 --> 00:05:19,790
+Don't forget the wick.
+
+154
+00:05:19,930 --> 00:05:21,750
+That sounds dirty for some reason.
+
+155
+00:05:21,870 --> 00:05:22,670
+That's what she said.
+
+156
+00:05:23,810 --> 00:05:26,470
+The wicks tell us what the highest and
+
+157
+00:05:26,470 --> 00:05:28,990
+lowest prices were for the day or whatever
+
+158
+00:05:28,990 --> 00:05:31,570
+time interval your candles are set to.
+
+159
+00:05:31,790 --> 00:05:34,390
+Very often, the wick extends past what a
+
+160
+00:05:34,390 --> 00:05:36,930
+candle's opening and closing prices are.
+
+161
+00:05:37,010 --> 00:05:38,610
+So as a rule of thumb, we say
+
+162
+00:05:38,610 --> 00:05:41,070
+the larger the wicks, the more volatile the
+
+163
+00:05:41,070 --> 00:05:41,390
+market.
+
+164
+00:05:41,510 --> 00:05:43,850
+But we can dig deeper still, because short
+
+165
+00:05:43,850 --> 00:05:46,530
+and long wicks have different meanings between red
+
+166
+00:05:46,530 --> 00:05:47,570
+and green candles.
+
+167
+00:05:47,570 --> 00:05:48,990
+First, the red candles.
+
+168
+00:05:49,330 --> 00:05:51,370
+A long wick at the bottom of a
+
+169
+00:05:51,370 --> 00:05:53,290
+red candle can tell us that within the
+
+170
+00:05:53,290 --> 00:05:55,090
+day or whatever time period you're looking at,
+
+171
+00:05:55,150 --> 00:05:57,750
+prices fell to what many investors consider to
+
+172
+00:05:57,750 --> 00:05:58,930
+be the cheapest price.
+
+173
+00:05:59,110 --> 00:06:00,750
+And so they bought back in at that
+
+174
+00:06:00,750 --> 00:06:02,890
+price, driving the price back up.
+
+175
+00:06:02,990 --> 00:06:04,950
+Some investors see this as an indication that
+
+176
+00:06:04,950 --> 00:06:06,650
+the price will begin to move up in
+
+177
+00:06:06,650 --> 00:06:08,630
+the next day or the next trading period.
+
+178
+00:06:08,850 --> 00:06:11,190
+But remember that a long wick means high
+
+179
+00:06:11,190 --> 00:06:14,270
+volatility, and that trend could easily reverse.
+
+180
+00:06:14,450 --> 00:06:16,110
+Now, if you see a short wick at
+
+181
+00:06:16,110 --> 00:06:18,810
+the bottom of a red candle, proceed with
+
+182
+00:06:18,810 --> 00:06:19,410
+caution.
+
+183
+00:06:19,670 --> 00:06:22,250
+This tends to mean that traders will continue
+
+184
+00:06:22,250 --> 00:06:23,470
+to sell the asset.
+
+185
+00:06:23,590 --> 00:06:25,930
+But again, this is not always certain.
+
+186
+00:06:26,170 --> 00:06:28,370
+Now, for green candles, a green candle means
+
+187
+00:06:28,370 --> 00:06:30,930
+that during the set time period, the asset's
+
+188
+00:06:30,930 --> 00:06:31,810
+price went up.
+
+189
+00:06:32,170 --> 00:06:34,050
+A long wick at the top of a
+
+190
+00:06:34,050 --> 00:06:36,290
+green candle tells us that at some point
+
+191
+00:06:36,290 --> 00:06:39,110
+within the day, the price significantly exceeded the
+
+192
+00:06:39,110 --> 00:06:41,590
+closing price, meaning that traders might have considered
+
+193
+00:06:41,590 --> 00:06:43,250
+that to be the top and then decided
+
+194
+00:06:43,250 --> 00:06:45,570
+to take profits at that top price.
+
+195
+00:06:45,570 --> 00:06:47,990
+That is, sell their crypto or stock.
+
+196
+00:06:48,170 --> 00:06:49,950
+Long wicks show us that the market is
+
+197
+00:06:49,950 --> 00:06:52,190
+volatile and could indicate that the price may
+
+198
+00:06:52,190 --> 00:06:53,330
+fall from there.
+
+199
+00:06:53,410 --> 00:06:54,850
+A short wick at the top of a
+
+200
+00:06:54,850 --> 00:06:56,950
+green candle, on the other hand, is common
+
+201
+00:06:56,950 --> 00:06:59,130
+when the price is at all-time highs.
+
+202
+00:06:59,490 --> 00:07:01,050
+Now, some say this is a good time
+
+203
+00:07:01,050 --> 00:07:02,850
+to sell if you're looking for an exit
+
+204
+00:07:02,850 --> 00:07:03,750
+in that position.
+
+205
+00:07:03,890 --> 00:07:05,590
+If you're looking for an opportunity to buy
+
+206
+00:07:05,590 --> 00:07:07,970
+and you only had the candlestick chart to
+
+207
+00:07:07,970 --> 00:07:09,810
+look at, a good time to do so,
+
+208
+00:07:09,850 --> 00:07:12,210
+according to technical analysis, would be on a
+
+209
+00:07:12,210 --> 00:07:15,070
+red candlestick with a long wick at the
+
+210
+00:07:15,070 --> 00:07:17,350
+bottom and a short one at the top.
+
+211
+00:07:17,410 --> 00:07:18,670
+Now, let's pump the brakes here for a
+
+212
+00:07:18,670 --> 00:07:20,850
+second because you'll notice on this chart for
+
+213
+00:07:20,850 --> 00:07:23,890
+ADA price movements, there are some red candles
+
+214
+00:07:23,890 --> 00:07:26,490
+that fit the description of a buying opportunity,
+
+215
+00:07:26,770 --> 00:07:29,430
+only for the price to fall well past
+
+216
+00:07:29,430 --> 00:07:31,150
+that just a few days later.
+
+217
+00:07:31,330 --> 00:07:33,250
+And spoiler alert, the tools that we're going
+
+218
+00:07:33,250 --> 00:07:36,150
+to discuss today can't account for which way
+
+219
+00:07:36,150 --> 00:07:37,950
+investor sentiment is going to go in the
+
+220
+00:07:37,950 --> 00:07:40,130
+response to headlines and other global events.
+
+221
+00:07:40,210 --> 00:07:42,510
+There isn't a candlestick that can predict a
+
+222
+00:07:42,510 --> 00:07:45,950
+global pandemic or election results, And if you
+
+223
+00:07:45,950 --> 00:07:48,410
+find a fortune-telling candlestick, keep it to
+
+224
+00:07:48,410 --> 00:07:50,110
+yourself, but DM it to me, but keep
+
+225
+00:07:50,110 --> 00:07:50,610
+it to yourself.
+
+226
+00:07:50,890 --> 00:07:53,670
+Now, investing, especially in crypto, can be very
+
+227
+00:07:53,670 --> 00:07:54,110
+volatile.
+
+228
+00:07:54,510 --> 00:07:56,490
+And one way of making an informed decision
+
+229
+00:07:56,490 --> 00:07:59,110
+despite that volatility is by using trend lines.
+
+230
+00:07:59,250 --> 00:08:01,530
+This is the practice of finding the overarching
+
+231
+00:08:01,530 --> 00:08:03,410
+movement in price, the trend.
+
+232
+00:08:03,550 --> 00:08:06,190
+Many exchanges will have charts that automatically show
+
+233
+00:08:06,190 --> 00:08:07,850
+you trend lines generated by AI.
+
+234
+00:08:08,130 --> 00:08:09,950
+But if you want to DIY a trend
+
+235
+00:08:09,950 --> 00:08:11,990
+line, you basically just draw a trend line
+
+236
+00:08:11,990 --> 00:08:14,310
+yourself by choosing a period of time starting
+
+237
+00:08:14,310 --> 00:08:17,310
+at the bottom of the candlestick for that
+
+238
+00:08:17,310 --> 00:08:19,290
+day, week, or hour, and then drawing a
+
+239
+00:08:19,290 --> 00:08:21,110
+line connecting it to the bottom of other
+
+240
+00:08:21,110 --> 00:08:21,790
+candlesticks.
+
+241
+00:08:22,030 --> 00:08:23,810
+Once you have enough points, you can project
+
+242
+00:08:23,810 --> 00:08:25,910
+your trend line into the future to help
+
+243
+00:08:25,910 --> 00:08:28,270
+you determine if the price will move upwards
+
+244
+00:08:28,270 --> 00:08:30,490
+or downwards if that trend continues.
+
+245
+00:08:30,630 --> 00:08:32,190
+Trend lines can help us take a step
+
+246
+00:08:32,190 --> 00:08:34,650
+back and look at how much an asset's
+
+247
+00:08:34,650 --> 00:08:37,610
+price rises or falls over a defined period.
+
+248
+00:08:37,789 --> 00:08:39,510
+If we look at that same price chart
+
+249
+00:08:39,510 --> 00:08:42,190
+for Cardano ADA except zoomed out, where each
+
+250
+00:08:42,190 --> 00:08:44,490
+candle represents one week, we can see the
+
+251
+00:08:44,490 --> 00:08:47,130
+trend now tells a completely different story.
+
+252
+00:08:47,250 --> 00:08:48,670
+If we were looking at the performance of
+
+253
+00:08:48,670 --> 00:08:50,750
+Cardano just in the last few days, our
+
+254
+00:08:50,750 --> 00:08:52,950
+trend line would be clearly pointing downwards.
+
+255
+00:08:53,230 --> 00:08:55,450
+However, looking at the last few months, the
+
+256
+00:08:55,450 --> 00:08:57,750
+bottoms of most of the severe candles have
+
+257
+00:08:57,750 --> 00:08:59,850
+been showing a general uptrend.
+
+258
+00:08:59,950 --> 00:09:02,310
+This indicates that ADA could be a good
+
+259
+00:09:02,310 --> 00:09:03,670
+long-hold crypto.
+
+260
+00:09:03,830 --> 00:09:05,910
+However, with this, you may have to sit
+
+261
+00:09:05,910 --> 00:09:08,450
+through some heart-wrenching price swings on your
+
+262
+00:09:08,450 --> 00:09:08,910
+way up.
+
+263
+00:09:08,970 --> 00:09:10,450
+And again, none of this is science.
+
+264
+00:09:10,570 --> 00:09:12,750
+Because of this, it's good to compare multiple
+
+265
+00:09:12,750 --> 00:09:13,730
+trend lines.
+
+266
+00:09:13,870 --> 00:09:16,150
+Looking at long-term trend lines covering about
+
+267
+00:09:16,150 --> 00:09:18,010
+six months to a year, and then compare
+
+268
+00:09:18,010 --> 00:09:19,690
+that with short-term trend lines.
+
+269
+00:09:20,030 --> 00:09:21,830
+This will help you find better entry and
+
+270
+00:09:21,830 --> 00:09:24,070
+exit points in the assets that you're interested
+
+271
+00:09:24,070 --> 00:09:24,290
+in.
+
+272
+00:09:24,390 --> 00:09:25,450
+So far, I've talked about ways that you
+
+273
+00:09:25,450 --> 00:09:27,670
+can interpret common price charts for your own
+
+274
+00:09:27,670 --> 00:09:28,450
+technical analysis.
+
+275
+00:09:28,610 --> 00:09:31,030
+So next, let's talk about support and resistance
+
+276
+00:09:31,030 --> 00:09:33,270
+lines and how to derive and interpret them
+
+277
+00:09:33,270 --> 00:09:35,050
+for your very own strategy.
+
+278
+00:09:35,190 --> 00:09:38,370
+Well, support and resistant lines are horizontal lines
+
+279
+00:09:38,370 --> 00:09:40,550
+that you can draw onto your price chart.
+
+280
+00:09:40,550 --> 00:09:43,910
+Support shows the lowest price at which investors
+
+281
+00:09:43,910 --> 00:09:45,630
+are willing to buy that asset.
+
+282
+00:09:46,050 --> 00:09:48,610
+This signals when buyers show the most demand
+
+283
+00:09:48,610 --> 00:09:49,770
+for an asset.
+
+284
+00:09:49,870 --> 00:09:52,510
+When you see an asset continually bouncing off
+
+285
+00:09:52,510 --> 00:09:54,550
+a specific price, this is support.
+
+286
+00:09:54,670 --> 00:09:56,990
+Let's say you're trying to forecast prices for
+
+287
+00:09:56,990 --> 00:09:57,730
+the next month.
+
+288
+00:09:58,050 --> 00:09:59,710
+You might look at the lowest price point
+
+289
+00:09:59,710 --> 00:10:02,090
+from the previous month and label this your
+
+290
+00:10:02,090 --> 00:10:02,950
+support level.
+
+291
+00:10:03,130 --> 00:10:05,230
+This way, if and when your stock or
+
+292
+00:10:05,230 --> 00:10:07,590
+crypto dips to below that price point the
+
+293
+00:10:07,590 --> 00:10:11,030
+following month, you can anticipate that an upwards
+
+294
+00:10:11,030 --> 00:10:12,550
+trend may be coming.
+
+295
+00:10:12,670 --> 00:10:14,930
+Resistance, on the other hand, shows the highest
+
+296
+00:10:14,930 --> 00:10:17,710
+price at which investors will usually stop buying
+
+297
+00:10:17,710 --> 00:10:20,030
+and instead begin selling that asset.
+
+298
+00:10:20,230 --> 00:10:22,250
+This can signal that there are more buyers
+
+299
+00:10:22,250 --> 00:10:24,970
+than sellers in the market at that specific
+
+300
+00:10:24,970 --> 00:10:26,950
+price, meaning that the asset will have a
+
+301
+00:10:26,950 --> 00:10:29,470
+harder time passing through this price point.
+
+302
+00:10:29,570 --> 00:10:31,330
+In your analysis, you might see that support
+
+303
+00:10:31,330 --> 00:10:33,730
+and resistance lines don't really change from period
+
+304
+00:10:33,730 --> 00:10:34,130
+to period.
+
+305
+00:10:34,250 --> 00:10:36,190
+This happens when the majority of buyers and
+
+306
+00:10:36,190 --> 00:10:38,870
+sellers tend to group around the prevailing support
+
+307
+00:10:38,870 --> 00:10:40,110
+and resistance lines.
+
+308
+00:10:40,230 --> 00:10:41,710
+And this could lead to what we call
+
+309
+00:10:41,710 --> 00:10:44,170
+trading sideways, where the price doesn't change a
+
+310
+00:10:44,170 --> 00:10:45,870
+whole lot over a period of time.
+
+311
+00:10:45,950 --> 00:10:46,890
+Now, what you want to look out for
+
+312
+00:10:46,890 --> 00:10:49,690
+are price movements that break away from support
+
+313
+00:10:49,690 --> 00:10:50,890
+and resistance lines.
+
+314
+00:10:50,990 --> 00:10:53,130
+Take, for example, our ADA chart from last
+
+315
+00:10:53,130 --> 00:10:53,430
+month.
+
+316
+00:10:53,530 --> 00:10:56,510
+Notice how from September 15th through October 18th,
+
+317
+00:10:56,550 --> 00:10:58,390
+there was a steady decline in the resistance
+
+318
+00:10:58,390 --> 00:11:01,210
+line, meaning that investors were finding lower and
+
+319
+00:11:01,210 --> 00:11:04,010
+lower prices too expensive to buy.
+
+320
+00:11:04,090 --> 00:11:06,130
+We saw the resistance line drop from $2
+
+321
+00:11:06,130 --> 00:11:08,470
+.6 down to $2.3 and then continue
+
+322
+00:11:08,470 --> 00:11:11,430
+to dip around $2.1. So at least
+
+323
+00:11:11,430 --> 00:11:13,890
+for this short period that we're measuring, the
+
+324
+00:11:13,890 --> 00:11:16,750
+price at which there was an oversupply of
+
+325
+00:11:16,750 --> 00:11:19,030
+ADA kept getting lower and lower.
+
+326
+00:11:19,450 --> 00:11:21,490
+This might lead an analyst to believe that
+
+327
+00:11:21,490 --> 00:11:23,830
+there would be a steep correction coming in
+
+328
+00:11:23,830 --> 00:11:24,470
+this asset.
+
+329
+00:11:24,550 --> 00:11:25,870
+Next, we need to talk about formations.
+
+330
+00:11:26,130 --> 00:11:28,830
+Formations are patterns in the price movement of
+
+331
+00:11:28,830 --> 00:11:30,350
+an asset on its chart.
+
+332
+00:11:30,470 --> 00:11:33,970
+Formations are amazing because this is what allow
+
+333
+00:11:33,970 --> 00:11:36,570
+us to identify the most likely direction an
+
+334
+00:11:36,570 --> 00:11:39,050
+asset is headed to, as well as the
+
+335
+00:11:39,050 --> 00:11:41,170
+most likely price it will stop at after
+
+336
+00:11:41,170 --> 00:11:42,870
+breaking through that formation.
+
+337
+00:11:43,050 --> 00:11:44,550
+In the same image, you will see a
+
+338
+00:11:44,550 --> 00:11:46,770
+yellow circle and a green circle.
+
+339
+00:11:46,870 --> 00:11:48,790
+The yellow circle is the moment this asset
+
+340
+00:11:48,790 --> 00:11:50,370
+broke out of the formation.
+
+341
+00:11:50,630 --> 00:11:52,770
+Most traders, get a listen here, most traders
+
+342
+00:11:52,770 --> 00:11:55,590
+will make the mistake of entering a long
+
+343
+00:11:55,590 --> 00:11:58,390
+or buy position at the moment of breakout.
+
+344
+00:11:58,650 --> 00:12:01,110
+This is a huge but very common mistake
+
+345
+00:12:01,110 --> 00:12:02,110
+new traders make.
+
+346
+00:12:02,170 --> 00:12:03,970
+They assume that since it broke out of
+
+347
+00:12:03,970 --> 00:12:07,110
+the formation, this verifies the formation that they
+
+348
+00:12:07,110 --> 00:12:09,670
+drew, it verifies that it's accurate, and verifies
+
+349
+00:12:09,670 --> 00:12:11,850
+that the asset will go directly to their
+
+350
+00:12:11,850 --> 00:12:12,550
+price target.
+
+351
+00:12:12,650 --> 00:12:15,050
+But it's an extremely important practice to be
+
+352
+00:12:15,050 --> 00:12:18,190
+patient here and wait for the confirmation bounce.
+
+353
+00:12:18,490 --> 00:12:20,870
+An example of this is the green circle.
+
+354
+00:12:21,010 --> 00:12:23,430
+The price bounces off of our previous resistance
+
+355
+00:12:23,430 --> 00:12:26,670
+line, confirming that this resistance no longer has
+
+356
+00:12:26,670 --> 00:12:27,610
+the same effect.
+
+357
+00:12:27,930 --> 00:12:30,730
+The confirmation bounce should be the best moment
+
+358
+00:12:30,730 --> 00:12:32,290
+to enter in your trade.
+
+359
+00:12:32,330 --> 00:12:34,370
+If it bounces to the upside, you would
+
+360
+00:12:34,370 --> 00:12:35,590
+enter a long position.
+
+361
+00:12:35,950 --> 00:12:37,530
+If it breaks through to the downside, you
+
+362
+00:12:37,530 --> 00:12:39,010
+would enter a short position.
+
+363
+00:12:39,110 --> 00:12:40,610
+Breaking through a pattern just like the trend
+
+364
+00:12:40,610 --> 00:12:42,570
+lines we just discussed is called a continuation
+
+365
+00:12:42,570 --> 00:12:43,290
+pattern.
+
+366
+00:12:43,410 --> 00:12:45,870
+So let's briefly cover a few popular patterns
+
+367
+00:12:45,870 --> 00:12:47,570
+that you may see referenced.
+
+368
+00:12:47,890 --> 00:12:49,410
+The pattern that we just looked at could
+
+369
+00:12:49,410 --> 00:12:51,370
+be referred to as a wedge pattern.
+
+370
+00:12:51,510 --> 00:12:53,790
+If trend lines had connected in that pattern,
+
+371
+00:12:53,890 --> 00:12:55,570
+it would be called a pennant pattern.
+
+372
+00:12:55,770 --> 00:12:58,490
+Flag patterns are two parallel trend lines that
+
+373
+00:12:58,490 --> 00:13:00,870
+can head upwards, downwards, or sideways.
+
+374
+00:13:01,010 --> 00:13:03,190
+A cup and handle pattern is when the
+
+375
+00:13:03,190 --> 00:13:04,790
+price increase has paused.
+
+376
+00:13:05,090 --> 00:13:06,890
+The bowl shape is then followed by what
+
+377
+00:13:06,890 --> 00:13:09,450
+looks like a pennant chart pattern, and this
+
+378
+00:13:09,450 --> 00:13:11,910
+may indicate a further breakout in price.
+
+379
+00:13:12,010 --> 00:13:14,030
+A head and shoulders trend following an increase
+
+380
+00:13:14,030 --> 00:13:16,650
+in price may indicate the price will decrease.
+
+381
+00:13:16,830 --> 00:13:19,450
+A reverse head and shoulders trend following a
+
+382
+00:13:19,450 --> 00:13:21,850
+decrease in price may indicate that the price
+
+383
+00:13:21,850 --> 00:13:22,690
+will increase.
+
+384
+00:13:22,790 --> 00:13:25,550
+Now, it's important to note that humans love
+
+385
+00:13:25,550 --> 00:13:28,450
+finding patterns in literally anything, and there are
+
+386
+00:13:28,450 --> 00:13:30,670
+a million chart patterns that can mean different
+
+387
+00:13:30,670 --> 00:13:31,010
+things.
+
+388
+00:13:31,010 --> 00:13:33,190
+But this doesn't mean you should expect the
+
+389
+00:13:33,190 --> 00:13:34,730
+result to always come true.
+
+390
+00:13:34,890 --> 00:13:36,530
+Again, this just helps paint a more clear
+
+391
+00:13:36,530 --> 00:13:38,970
+picture, but does not absolutely tell us the
+
+392
+00:13:38,970 --> 00:13:39,270
+future.
+
+393
+00:13:39,430 --> 00:13:41,270
+Now that you know when to enter a
+
+394
+00:13:41,270 --> 00:13:42,930
+trade, let's talk about when you should exit
+
+395
+00:13:42,930 --> 00:13:45,070
+a trade because this may be even more
+
+396
+00:13:45,070 --> 00:13:46,950
+important than when you enter a trade.
+
+397
+00:13:47,030 --> 00:13:48,670
+And this answer may vary because it depends
+
+398
+00:13:48,670 --> 00:13:50,430
+on whether or not you are trading futures
+
+399
+00:13:50,430 --> 00:13:53,590
+with leverage or trading spot without leverage.
+
+400
+00:13:53,750 --> 00:13:56,130
+Leverage is simply borrowing money to use in
+
+401
+00:13:56,130 --> 00:13:58,850
+a trade to help increase your potential return.
+
+402
+00:13:59,170 --> 00:14:01,970
+Let's say you've entered a trade When trading
+
+403
+00:14:01,970 --> 00:14:04,570
+with leverage, you may borrow funds against that
+
+404
+00:14:04,570 --> 00:14:04,930
+$100.
+
+405
+00:14:05,410 --> 00:14:08,370
+With 10x leverage, your $100 acts as if
+
+406
+00:14:08,370 --> 00:14:09,230
+it's $1,000.
+
+407
+00:14:09,830 --> 00:14:12,290
+So mathematically, when the asset you're trading goes
+
+408
+00:14:12,290 --> 00:14:15,050
+up 1%, you will actually be 10%
+
+409
+00:14:15,050 --> 00:14:15,610
+in profit.
+
+410
+00:14:15,730 --> 00:14:17,510
+However, it's not all good and rosy because
+
+411
+00:14:17,510 --> 00:14:19,690
+if the trade goes down 1%, you will
+
+412
+00:14:19,690 --> 00:14:21,350
+be at a 10% loss.
+
+413
+00:14:21,570 --> 00:14:23,250
+If you lose too much, you will be
+
+414
+00:14:23,250 --> 00:14:26,330
+liquidated completely, meaning you lose all the funds
+
+415
+00:14:26,330 --> 00:14:27,850
+that you entered into the trade and you
+
+416
+00:14:27,850 --> 00:14:29,030
+don't want to be in that position.
+
+417
+00:14:29,030 --> 00:14:30,890
+So this, of course, is very high risk
+
+418
+00:14:30,890 --> 00:14:32,170
+and not for beginners.
+
+419
+00:14:32,510 --> 00:14:35,170
+Now, trading spot is just regular trading with
+
+420
+00:14:35,170 --> 00:14:36,650
+your own money and no borrowing.
+
+421
+00:14:36,750 --> 00:14:38,250
+Here you still have the risk of losing
+
+422
+00:14:38,250 --> 00:14:40,810
+money, but liquidation is not a concern like
+
+423
+00:14:40,810 --> 00:14:42,090
+it is with leverage.
+
+424
+00:14:42,210 --> 00:14:44,030
+When trading with leverage, typically you want to
+
+425
+00:14:44,030 --> 00:14:46,390
+close your trade the moment you hit your
+
+426
+00:14:46,390 --> 00:14:47,730
+target or just before.
+
+427
+00:14:47,830 --> 00:14:49,190
+This will prevent you from being hit with
+
+428
+00:14:49,190 --> 00:14:50,530
+recurring leverage fees.
+
+429
+00:14:50,610 --> 00:14:52,210
+When you're trading with spot, you don't have
+
+430
+00:14:52,210 --> 00:14:54,510
+to worry so much about rushing out of
+
+431
+00:14:54,510 --> 00:14:54,990
+the trade.
+
+432
+00:14:55,310 --> 00:14:57,370
+So if a trade has surpassed your target,
+
+433
+00:14:57,450 --> 00:14:59,390
+you can simply hold longer and set up
+
+434
+00:14:59,390 --> 00:15:00,890
+a trailing stop loss.
+
+435
+00:15:01,230 --> 00:15:03,310
+Now, a trailing stop loss is a stop
+
+436
+00:15:03,310 --> 00:15:05,230
+loss tool you can use that will follow
+
+437
+00:15:05,230 --> 00:15:07,330
+the price of an asset by a dollar
+
+438
+00:15:07,330 --> 00:15:09,490
+amount of your choice and then close your
+
+439
+00:15:09,490 --> 00:15:12,070
+trade at the maximum amount of profits possible
+
+440
+00:15:12,070 --> 00:15:14,110
+completely on autopilot.
+
+441
+00:15:14,510 --> 00:15:16,690
+Typically, you wouldn't set up a trailing stop
+
+442
+00:15:16,690 --> 00:15:19,090
+loss until your price target is already hit
+
+443
+00:15:19,090 --> 00:15:20,370
+and you just want to try and make
+
+444
+00:15:20,370 --> 00:15:21,410
+a little bit more profit.
+
+445
+00:15:21,510 --> 00:15:23,490
+Now, speaking of hit, if you appreciate my
+
+446
+00:15:23,490 --> 00:15:25,810
+efforts in putting together this free course, just
+
+447
+00:15:25,810 --> 00:15:27,990
+please consider hitting the subscribe button.
+
+448
+00:15:27,990 --> 00:15:30,270
+It's totally free and you can always change
+
+449
+00:15:30,270 --> 00:15:31,150
+your mind later.
+
+450
+00:15:31,410 --> 00:15:34,070
+Now, spotting trends isn't enough on its own.
+
+451
+00:15:34,190 --> 00:15:36,110
+You also need to evaluate the strength of
+
+452
+00:15:36,110 --> 00:15:38,910
+a trend because not all trends are created
+
+453
+00:15:38,910 --> 00:15:39,370
+equally.
+
+454
+00:15:39,590 --> 00:15:41,550
+So one indicator that we can look at
+
+455
+00:15:41,550 --> 00:15:42,770
+is trading volume.
+
+456
+00:15:42,990 --> 00:15:45,010
+This is the total dollar amount traded of
+
+457
+00:15:45,010 --> 00:15:45,490
+an asset.
+
+458
+00:15:45,610 --> 00:15:47,310
+Now, it's pretty simple to do this, so
+
+459
+00:15:47,310 --> 00:15:48,850
+it should be a regular part of your
+
+460
+00:15:48,850 --> 00:15:49,670
+technical analysis.
+
+461
+00:15:50,010 --> 00:15:52,410
+The higher the trading volume, the stronger the
+
+462
+00:15:52,410 --> 00:15:52,730
+trend.
+
+463
+00:15:52,890 --> 00:15:53,990
+And this makes sense if you think about
+
+464
+00:15:53,990 --> 00:15:56,290
+it because a trend with 10 million in
+
+465
+00:15:56,290 --> 00:15:58,290
+volume behind it means much more than a
+
+466
+00:15:58,290 --> 00:16:00,130
+trend with 1 million in volume behind it.
+
+467
+00:16:00,190 --> 00:16:01,530
+So it's always good to take a look
+
+468
+00:16:01,530 --> 00:16:03,950
+at the 24-hour trading volume on days
+
+469
+00:16:03,950 --> 00:16:06,490
+where the price moved downwards and then compare
+
+470
+00:16:06,490 --> 00:16:08,190
+this to the trading volume on days where
+
+471
+00:16:08,190 --> 00:16:09,270
+the price moves upwards.
+
+472
+00:16:09,470 --> 00:16:11,970
+If you see higher volumes on positive days,
+
+473
+00:16:12,030 --> 00:16:13,690
+this can tell us that there's a long
+
+474
+00:16:13,690 --> 00:16:16,010
+-term potential for the asset to continue trending
+
+475
+00:16:16,010 --> 00:16:16,450
+upwards.
+
+476
+00:16:16,730 --> 00:16:18,870
+This also helps us evaluate how the market
+
+477
+00:16:18,870 --> 00:16:21,210
+will react to a sharp drop in price.
+
+478
+00:16:21,270 --> 00:16:23,950
+If the trading volume during one dip is
+
+479
+00:16:23,950 --> 00:16:27,430
+larger than another more severe dip later on,
+
+480
+00:16:27,730 --> 00:16:29,790
+we might determine that the drop in price
+
+481
+00:16:29,790 --> 00:16:33,470
+does not signify a stronger downwards trend.
+
+482
+00:16:33,610 --> 00:16:35,630
+Something else to take into consideration is market
+
+483
+00:16:35,630 --> 00:16:37,670
+cap, which you get by multiplying the current
+
+484
+00:16:37,670 --> 00:16:39,830
+price of your crypto or stock with the
+
+485
+00:16:39,830 --> 00:16:42,390
+total supply of the crypto or stock.
+
+486
+00:16:42,750 --> 00:16:44,910
+Big cap coins and stocks tend to be
+
+487
+00:16:44,910 --> 00:16:48,430
+more stable because large volume trades have less
+
+488
+00:16:48,430 --> 00:16:49,890
+of an impact on their prices.
+
+489
+00:16:49,970 --> 00:16:51,630
+It's hard to move a big ship.
+
+490
+00:16:51,750 --> 00:16:53,270
+Now, let's move on to a more technical
+
+491
+00:16:53,270 --> 00:16:54,690
+indicator of price movement.
+
+492
+00:16:54,690 --> 00:16:56,730
+And one that I use quite regularly.
+
+493
+00:16:56,930 --> 00:16:59,510
+This is the Relative Strength Index, or RSI
+
+494
+00:16:59,510 --> 00:17:00,710
+indicator for short.
+
+495
+00:17:01,070 --> 00:17:03,369
+The RSI of a certain crypto or stock
+
+496
+00:17:03,369 --> 00:17:05,490
+usually is pretty easy to access.
+
+497
+00:17:05,630 --> 00:17:08,349
+It's usually displayed just underneath price charts for
+
+498
+00:17:08,349 --> 00:17:11,369
+the purpose of directly comparing price trends with
+
+499
+00:17:11,369 --> 00:17:12,270
+the RSI.
+
+500
+00:17:12,390 --> 00:17:14,130
+It's displayed as a number between 0 and
+
+501
+00:17:14,130 --> 00:17:17,290
+100, and this number changes continuously based on
+
+502
+00:17:17,290 --> 00:17:20,990
+trading activity, typically relative to the average gains
+
+503
+00:17:20,990 --> 00:17:23,210
+in losses over a 14-day period.
+
+504
+00:17:23,210 --> 00:17:25,530
+This kind of graph is called an oscillator
+
+505
+00:17:25,530 --> 00:17:27,770
+because the readings always show a number between
+
+506
+00:17:27,770 --> 00:17:28,770
+0 and 100.
+
+507
+00:17:28,930 --> 00:17:30,410
+So let's break down how this works.
+
+508
+00:17:30,770 --> 00:17:34,050
+In basic situations without drastic market moving events,
+
+509
+00:17:34,410 --> 00:17:36,670
+RSI indicates whether a crypto or any kind
+
+510
+00:17:36,670 --> 00:17:39,850
+of security is overbought or oversold.
+
+511
+00:17:40,230 --> 00:17:42,510
+A reading above 70 would tell us that
+
+512
+00:17:42,510 --> 00:17:44,830
+it's overbought and can signal that a price
+
+513
+00:17:44,830 --> 00:17:46,270
+correction may happen.
+
+514
+00:17:46,350 --> 00:17:49,690
+A prolonged RSI above 70 can be interpreted
+
+515
+00:17:49,690 --> 00:17:51,670
+as some kind of bubble and that the
+
+516
+00:17:51,670 --> 00:17:54,850
+coming correction could create dramatic losses to the
+
+517
+00:17:54,850 --> 00:17:56,610
+people who are invested in that asset.
+
+518
+00:17:56,970 --> 00:17:59,270
+Now, readings under 30 indicate that the security
+
+519
+00:17:59,270 --> 00:18:00,390
+is oversold.
+
+520
+00:18:00,770 --> 00:18:03,370
+In other words, the asset may be undervalued,
+
+521
+00:18:03,510 --> 00:18:04,970
+meaning it could be a good opportunity.
+
+522
+00:18:05,430 --> 00:18:07,850
+You've probably seen videos where certain cryptos or
+
+523
+00:18:07,850 --> 00:18:10,110
+stocks are proclaimed to be undervalued.
+
+524
+00:18:10,230 --> 00:18:12,290
+The RSI indicator was likely one of the
+
+525
+00:18:12,290 --> 00:18:14,550
+tools used to come to that conclusion, and
+
+526
+00:18:14,550 --> 00:18:15,350
+now you can use that.
+
+527
+00:18:15,370 --> 00:18:16,770
+At the water cooler, at work, you can
+
+528
+00:18:16,770 --> 00:18:17,630
+be like, Hey, you know what?
+
+529
+00:18:17,670 --> 00:18:19,190
+I think that this stock is undervalued.
+
+530
+00:18:19,330 --> 00:18:20,850
+You know, you just check the RSI.
+
+531
+00:18:20,990 --> 00:18:21,930
+It can be that easy.
+
+532
+00:18:21,930 --> 00:18:25,070
+So there's actually a whole book written about
+
+533
+00:18:25,070 --> 00:18:26,370
+the Relative Strength Index.
+
+534
+00:18:26,470 --> 00:18:28,010
+If you want to fully understand it, I
+
+535
+00:18:28,010 --> 00:18:30,050
+will have this book linked in the description
+
+536
+00:18:30,050 --> 00:18:30,850
+of this video.
+
+537
+00:18:31,030 --> 00:18:32,170
+Now we need to talk about the moving
+
+538
+00:18:32,170 --> 00:18:32,630
+average.
+
+539
+00:18:32,770 --> 00:18:34,510
+You can calculate this by taking the price
+
+540
+00:18:34,510 --> 00:18:36,450
+readings of your crypto or stock from the
+
+541
+00:18:36,450 --> 00:18:37,770
+last X number of days.
+
+542
+00:18:37,870 --> 00:18:39,610
+The standard is 20, but you can reduce
+
+543
+00:18:39,610 --> 00:18:41,710
+it to about 5 if your trading strategy
+
+544
+00:18:41,710 --> 00:18:42,470
+requires it.
+
+545
+00:18:42,790 --> 00:18:44,630
+So this works by adding up the prices
+
+546
+00:18:44,630 --> 00:18:47,650
+each day of your stock or asset or
+
+547
+00:18:47,650 --> 00:18:50,590
+crypto and then dividing that sum by the
+
+548
+00:18:50,590 --> 00:18:52,810
+total number of days in the period.
+
+549
+00:18:53,070 --> 00:18:54,550
+It's just the average price.
+
+550
+00:18:54,730 --> 00:18:56,810
+What this gives you is a price figure
+
+551
+00:18:56,810 --> 00:19:00,270
+that's less impacted by wild market swings, allowing
+
+552
+00:19:00,270 --> 00:19:02,470
+you to focus on price performance as it
+
+553
+00:19:02,470 --> 00:19:04,410
+changes over longer periods of time.
+
+554
+00:19:04,490 --> 00:19:05,930
+If you want to use a shorter window
+
+555
+00:19:05,930 --> 00:19:08,110
+for your average, like five days, just know
+
+556
+00:19:08,110 --> 00:19:10,050
+that your moving average could be far more
+
+557
+00:19:10,050 --> 00:19:13,430
+affected by temporary price swings than longer averages
+
+558
+00:19:13,430 --> 00:19:14,250
+are affected.
+
+559
+00:19:14,410 --> 00:19:16,610
+So just make sure your investing strategy takes
+
+560
+00:19:16,610 --> 00:19:17,390
+this into account.
+
+561
+00:19:17,470 --> 00:19:19,770
+I like using moving averages to forecast price
+
+562
+00:19:19,770 --> 00:19:21,550
+changes in a similar way to how the
+
+563
+00:19:21,550 --> 00:19:24,190
+RSI indicator triggers buy and sell alerts.
+
+564
+00:19:24,270 --> 00:19:26,230
+When the price of an asset falls below
+
+565
+00:19:26,230 --> 00:19:29,070
+your moving average, some investors take this to
+
+566
+00:19:29,070 --> 00:19:31,150
+mean a downward trend is imminent.
+
+567
+00:19:31,310 --> 00:19:33,310
+And you can interpret crypto or stock prices
+
+568
+00:19:33,310 --> 00:19:35,870
+above your moving average to mean an upwards
+
+569
+00:19:35,870 --> 00:19:37,790
+trend is more likely to happen.
+
+570
+00:19:37,890 --> 00:19:40,270
+Now, understanding when to take profits can sometimes
+
+571
+00:19:40,270 --> 00:19:42,290
+be tricky, but there's a solid rule you
+
+572
+00:19:42,290 --> 00:19:43,870
+can remember, and I think everyone should follow
+
+573
+00:19:43,870 --> 00:19:44,070
+this.
+
+574
+00:19:44,430 --> 00:19:46,910
+It's never wrong to take profits, even if
+
+575
+00:19:46,910 --> 00:19:48,770
+it's 1%, even if it's half a percent.
+
+576
+00:19:49,210 --> 00:19:51,550
+Don't let greed take over and tell you,
+
+577
+00:19:51,570 --> 00:19:53,230
+you know, it could just keep on going
+
+578
+00:19:53,230 --> 00:19:53,550
+up.
+
+579
+00:19:53,910 --> 00:19:56,030
+Trust your plan, not your emotions.
+
+580
+00:19:56,350 --> 00:19:58,310
+Please, you will make more money in the
+
+581
+00:19:58,310 --> 00:19:58,750
+long run.
+
+582
+00:19:58,830 --> 00:20:00,830
+So far, we have gone over trend lines.
+
+583
+00:20:00,970 --> 00:20:02,450
+Now let's cover how we can use these
+
+584
+00:20:02,450 --> 00:20:05,490
+formations to find a price target so then
+
+585
+00:20:05,490 --> 00:20:07,590
+we know when to safely exit a trade.
+
+586
+00:20:07,910 --> 00:20:09,590
+In this example, I will show you a
+
+587
+00:20:09,590 --> 00:20:12,610
+double bottom formation or a W formation.
+
+588
+00:20:12,830 --> 00:20:14,530
+We'll call it a booty formation.
+
+589
+00:20:14,870 --> 00:20:15,190
+I don't know.
+
+590
+00:20:15,450 --> 00:20:18,670
+In this formation, you wait until we break
+
+591
+00:20:18,670 --> 00:20:20,390
+the resistance called the neckline.
+
+592
+00:20:20,550 --> 00:20:22,650
+We then wait for the confirmation bounce.
+
+593
+00:20:23,090 --> 00:20:25,230
+This is revealed to us after the breakout.
+
+594
+00:20:25,390 --> 00:20:28,410
+The price action uses the neckline as support.
+
+595
+00:20:28,830 --> 00:20:31,450
+We measure the target by measuring the bottom
+
+596
+00:20:31,450 --> 00:20:34,590
+of the W formation to the neckline, then
+
+597
+00:20:34,590 --> 00:20:36,850
+dragging the measurement to the top of the
+
+598
+00:20:36,850 --> 00:20:37,310
+neckline.
+
+599
+00:20:37,450 --> 00:20:39,390
+We can also use indicators to tell us
+
+600
+00:20:39,390 --> 00:20:41,850
+if we're unlikely to hit the exact target.
+
+601
+00:20:42,170 --> 00:20:44,890
+Indicators I like to use are EMAs, which
+
+602
+00:20:44,890 --> 00:20:47,110
+stands for Exponential Moving Average.
+
+603
+00:20:47,270 --> 00:20:49,910
+My settings are at 21, 90, 200, and
+
+604
+00:20:49,910 --> 00:20:50,290
+600.
+
+605
+00:20:50,710 --> 00:20:52,570
+This indicator will tell you when the price
+
+606
+00:20:52,570 --> 00:20:54,930
+is likely to hit short-term support or
+
+607
+00:20:54,930 --> 00:20:55,970
+resistance levels.
+
+608
+00:20:56,390 --> 00:20:57,290
+And there you have it.
+
+609
+00:20:57,430 --> 00:20:59,370
+Some of the useful tools that you can
+
+610
+00:20:59,370 --> 00:21:01,670
+use to get started in your own technical
+
+611
+00:21:01,670 --> 00:21:04,070
+analysis of your favorite stocks and cryptos.
+
+612
+00:21:04,390 --> 00:21:06,290
+I would recommend setting a reminder on your
+
+613
+00:21:06,290 --> 00:21:08,770
+calendar to rewatch this video in about a
+
+614
+00:21:08,770 --> 00:21:10,850
+month from now, just to ensure that everything
+
+615
+00:21:10,850 --> 00:21:11,730
+locks in.
+
+616
+00:21:11,950 --> 00:21:13,690
+And again, if you'd like even more content
+
+617
+00:21:13,690 --> 00:21:16,270
+and buy alerts, daily crypto trade signals, and
+
+618
+00:21:16,270 --> 00:21:18,370
+weekly coaching, make sure to check out my
+
+619
+00:21:18,370 --> 00:21:19,970
+Patreon, linked in the description below.
+
+620
+00:21:20,270 --> 00:21:21,210
+You will not regret it.
+
+621
+00:21:21,350 --> 00:21:23,370
+Also from here, I highly recommend you watch
+
+622
+00:21:23,370 --> 00:21:26,930
+my free Crypto for Beginners or free Stocks
+
+623
+00:21:26,930 --> 00:21:27,870
+for Beginners courses.
+
+624
+00:21:28,070 --> 00:21:30,410
+I will have these clickable on screen here.
+
+625
+00:21:30,630 --> 00:21:32,430
+And with that, I want to thank you
+
+626
+00:21:32,430 --> 00:21:33,690
+so much for watching, and I hope you
+
+627
+00:21:33,690 --> 00:21:34,330
+have a profitable day.

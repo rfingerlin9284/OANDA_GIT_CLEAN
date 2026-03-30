@@ -1,0 +1,62 @@
+(0:13 - 0:25)
+Okay, first to demonstrate how call options work, I'm going to tell you a little story. And by the way, if calls and puts are old hat to you, then you've already got a leg up. So the method I'm going to teach you afterward will be even easier for you to apply with options.
+
+(0:25 - 0:36)
+Okay, here we go. So Susie's selling her house for $500,000 in a neighborhood that has a nearby parcel of land that is for sale as well. There are two parties interested in the land.
+
+(0:36 - 0:48)
+And Peter plans to develop the land into a beautiful park and bird sanctuary. And Harry plans to build a low-cost housing development. Now Sammy comes along and is interested in buying Susie's house for a cash deal.
+
+(0:49 - 0:57)
+But he has a problem. He won't have the cash available for three months. So he's of course worried that the house will be sold to someone else in the meantime.
+
+(0:57 - 1:24)
+So he decides to offer Susie $5,000, or the option premium, right now if she'll take the house off the market and give him the option. This would be a call option to buy the house for $500,000, which is referred to as the strike price, anytime within the next three months, which is the expiration date. Now if he does not elect to buy the house, Susie keeps the $5,000 premium and Sammy walks away from the deal.
+
+(1:24 - 1:39)
+If he does elect to buy the house, or exercise the option, Susie still gets to keep the $5,000 and he pays her $500,000 for the house. Now, three things could happen in this story. In Scenario 1, Peter buys the nearby parcel of land.
+
+(1:40 - 2:07)
+This of course will increase the value of Susie's home to say $600,000, in which case Sammy will be very happy to exercise his option to buy the house for $500,000. In Scenario 2, Harry buys the nearby parcel of land. This of course will decrease the value of Susie's home to say $400,000, in which case Sammy will not exercise his option to buy at $500,000 and he'll just walk away from the deal having lost only $5,000.
+
+(2:08 - 2:30)
+Then there's Scenario 3 where neither party buys the nearby parcel of land. Susie's house is still worth $500,000 and Sammy can elect to exercise his option to buy the house for $500,000 or not and simply walk away from the deal losing only $5,000. In effect, Sammy is controlling a $500,000 asset for three months for only $5,000.
+
+(2:31 - 2:48)
+No matter what happens during that time, the most he can lose is $5,000. Susie on the other hand is happy to take the $5,000 as she had no guarantee anyone else would buy the house at her asking price, nor did she feel the nearby parcel of land would sell any time soon. Here's a footnote to this story.
+
+(2:48 - 3:13)
+Depending on the circumstances, if Susie felt she was likely to attract another buyer in the near term, she would have demanded more than $5,000 from Sammy to take the house off the market for three months. Likewise with call options, the more the underlying asset is perceived to appreciate, the higher the premium demanded by the market for that call option. So now let's define this in trading terms and look at an actual example trade.
+
+(3:14 - 3:57)
+A call option is a contract between two parties to exchange a stock at a strike price by a predetermined date. One party, the buyer of the call, has the right, but not an obligation, to buy the stock at the strike price by the future date, while the other party, the seller of the call, has the obligation to sell the stock to the buyer at the strike price if the buyer exercises the option. For example, if a stock is trading at $50 and you think it's going to go up to $60, you might buy a $55 call option for say $0.20. If the stock rose to $60, that would allow you to buy the stock at $55 even though it's valued at $60 netting you a $4.80 profit on each share.
+
+(3:57 - 4:29)
+On the other hand, the person that sold you the call would be obligated to sell you the stock at $55 at a loss of $4.80. If the stock never rises above $55 by expiration date, the call expires worthless and the call buyer is out $0.20 and the call seller keeps the $0.20. Okay now let's look at how put options work by revisiting Susie and Sammy from our earlier story. Sammy owns a truck worth $40,000. He's concerned that his truck might be damaged in an accident or even stolen.
+
+(4:30 - 4:51)
+So Sammy decides to buy a zero deductible insurance policy, or a put option, on the truck for the full amount of $40,000, which would be the strike price, from Susie's auto insurance company. Susie charges him $1,500, that would be the option premium, for a one year policy. One year being the expiration date.
+
+(4:51 - 5:00)
+Now three things could happen in this story. In the first scenario, Sammy's truck is not damaged or stolen during the year. So Susie keeps the $1,500 premium.
+
+(5:01 - 5:19)
+Sammy's okay with losing the $1,500 for the protection it provided him for the year. In scenario two, Sammy's truck is damaged in an accident, requiring $10,000 in repairs. He exercises his insurance policy, or his put option, by filing a claim.
+
+(5:19 - 5:30)
+And Susie pays him $10,000 for the repairs as agreed. Sammy is happy he purchased protection for this possibility. In the third scenario, Sammy's truck is stolen.
+
+(5:30 - 5:47)
+He exercises his insurance policy, which is his put option, and files a claim, but this time for the full replacement value of his truck. And Susie pays him the full amount of $40,000 to buy a new truck. Sammy, of course, is very happy he purchased protection for this possibility.
+
+(5:48 - 6:11)
+In any case, Susie's happy because she's sold many such insurance policies, different put options, to other drivers, most which never filed a claim or never exercised their options, providing her with a net profit overall. And here's a footnote to this story. If Sammy had a poor driving record, that's more risk to Susie, so she would have charged him more than $1,500 for the one-year insurance policy.
+
+(6:12 - 6:27)
+On the other hand, if Sammy had an exemplary driving record, Susie could have charged him less as the risk would be lower. Likewise, with put options, the higher the perceived risk, the higher the premium demanded by the market. Let's look again at a definition and a trading example.
+
+(6:27 - 7:13)
+A put option, then, is a contract between two parties to exchange a stock, or an ETF, at a strike price by a predetermined date. One party, the buyer of the put, has the right, but not an obligation, to sell the stock at the strike price by the future date, while the other party, the seller of the put, has the obligation to buy the stock from the buyer at the strike price if the buyer exercises the option. For example, if a stock is trading at $50 and you think it's going to go down to $40, you might buy a $45 put option for, say, $0.20. If the stock dropped to $40, that would allow you to sell the stock at $45 even though it's valued at $40, netting you a $4.80 profit on each share.
+
+(7:13 - 7:44)
+On the other hand, the person that sold you the put would be obligated to buy the stock from you at $45 at a loss of $4.80. If the stock never drops below $45 by expiration date, the put expires worthless, and the put buyer is out $0.20, and the put seller keeps the $0.20. Thanks for watching this video and I hope you enjoyed it. For more free training, go ahead and subscribe to our YouTube channel, like us on Facebook, and visit ProfitsRun.com. This is Bill Poulos wishing you good trading.

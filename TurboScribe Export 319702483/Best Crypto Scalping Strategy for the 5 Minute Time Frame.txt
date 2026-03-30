@@ -1,0 +1,182 @@
+(0:00 - 0:19)
+Hey guys, in this video I will show you my favorite scalping strategy for Bitcoin, which is designed for the 5-minute time frame specifically. So, what is scalping? Scalping is the fastest form of day trading, where the goal is to make a lot of small trades to gain a big profit over time. With this strategy, you can make around 5 to 10 trades per day.
+
+(0:19 - 0:31)
+It's using three different indicators, and in this video, I will show you how to use this strategy step by step. Also, in this video, I will do a 300 USDT giveaway. So, I will give away 100 USDT to three of the viewers in this video.
+
+(0:32 - 0:39)
+Somewhere in this video, I will give instructions on how to get this giveaway. So now, let's go through the strategy step by step. So, the first step is to add the indicators to the chart.
+
+(0:40 - 0:47)
+So, click the indicator button in trading view and search for EMA. Then, click the moving average exponential indicator twice. One, two.
+
+(0:47 - 0:56)
+And then, go to the settings for the first EMA and change the length to 50. And then, change the color to yellow. You can pick any color, and I prefer to make the line a bit thicker.
+
+(0:56 - 1:04)
+Now, go to the settings for the second EMA and change the value to 200. And I prefer to use a green color for this one and a bit thicker line. Just like this.
+
+(1:04 - 1:11)
+And now, we also need to add MACD. So, search for MACD and use the default one. And in this strategy, we will not need the signal lines.
+
+(1:11 - 1:19)
+So, untick the MACD and the signal line, so we only have the histogram. And we also need to change the time frame for the MACD. In this strategy, I use the MACD from the one minute time frames.
+
+(1:19 - 1:26)
+In the MACD settings, in the indicator time frame setting, you can choose another time frame. So, let's choose the one minute time frame. And then, click OK.
+
+(1:26 - 1:33)
+So, notice that we are in the five minute time frame in the chart. But for the MACD, we're using the one minute time frame. Then, we also need to add the RSI indicator.
+
+(1:33 - 1:41)
+So, search for RSI and add a default RSI indicator to the chart. And we can use the default settings for the RSI. So, the next step in this strategy is to know when to enter a trade.
+
+(1:41 - 1:55)
+So, we will use the 50 and the 200 EMA as a trend indicator. And we will always take trades in the same direction as a trend. So, when the 50 EMA is crossing the 200 EMA to the upside, when the yellow line is above the green line, then we are allowed to make long positions.
+
+(1:55 - 2:04)
+And then, we will enter the trades on pullbacks. So, when we have a big downtick on the MACD, then we enter the trade right away. So, we're looking for a downtick on the MACD that is bigger than the average.
+
+(2:04 - 2:14)
+I would enter the first trade here on this downtick. So, right here. And then, we set the target profit to 0.5% and the stop loss at 0.4%. And as you can see, this trade was a win straight away.
+
+(2:14 - 2:25)
+And then, we're looking for another downtick on the MACD that is bigger than the average. And I will say it's this one right there. So, we take the profit at 0.5% and we have a stop loss at 0.4%. And as you can see, this trade is also a win.
+
+(2:25 - 2:38)
+And then, we're looking for another downtick that is bigger than average. And I will say it's this one right here. So, we enter the trade right here and take a profit at 0.5% and have a stop loss at 0.4%. And we want to enter trades as close to the crossover as possible.
+
+(2:38 - 2:48)
+The probability of a win is a lot higher closer to the crossover. So, after you made about three to five trades after the crossover, stop trading and wait for the next crossover. And the same thing applies to shorting as well.
+
+(2:48 - 2:57)
+When the 50 EMA is crossing the 200 EMA to the downside, then we can only take short positions. So now, we're waiting for an uptick on the MACD that is bigger than average. And then, we can enter a short position.
+
+(2:58 - 3:08)
+So, I would say this uptick is bigger than average. So, we would enter short right here and take profit at 0.5%, put the stop loss at 0.4%. This is also a win. And then, we're waiting for another uptick that is bigger than average.
+
+(3:09 - 3:23)
+And I would enter right here and take the profit at 0.5% and set the stop loss at 0.4%. And this is also a win. Then, we have another big uptick here. I would enter right there and set the target at 0.5% and the stop loss at 0.4%. And this is also a win.
+
+(3:24 - 3:35)
+And then, after a few trades, stop trading because it's getting riskier and riskier the further after the crossover we get. Since we are on a five-minute time frame, crossovers like this happens a few times per day. And we only need to make five trades per day.
+
+(3:35 - 3:41)
+So, there's no stress. After the crossover, we can stop trading after a few trades. Of course, using high leverage is super risky.
+
+(3:41 - 3:51)
+So, trade with gamble money. Don't trade with money that is important to you because scalping with the high leverage is the riskiest trading strategy you can use. It has a very high reward if you're successful.
+
+(3:51 - 3:57)
+But if you're doing any mistakes, you can wipe out your entire balance. So, be really careful. Use money that's not important to you.
+
+(3:57 - 4:07)
+And this type of trading requires some experience as well. The next step is to trade on the right exchange. To trade a scalping strategy like this, you really need to use an exchange that is good for scalping.
+
+(4:08 - 4:29)
+There are hundreds of exchanges out there and only a few of them are really good for scalping. So, what you need to look for in an exchange is super low fees because we are taking profit at 0.5% and we use a stop loss at 0.4%. So, if your trading fees are high, it will eat too much of the profit and the strategy will no longer work. For example, if we use Bitfinex here as an exchange, look at these fees.
+
+(4:29 - 4:37)
+0.1% for limit orders and 0.2% for market orders. 0.3% from the profit will be taken in fees. So, that is obviously too much.
+
+(4:37 - 4:52)
+So, if we run the strategy with Bitfinex, we would lose all the money after just a few trades. You also need to use an exchange with very high liquidity in the order books and a really low slip rate because slip rate is also a threat when scalping. Since we're using a high leverage, the position size can be very large when the account balance starts to grow.
+
+(4:53 - 5:07)
+And if there is not enough orders in the order book, that can actually hurt the profits as well. And you also need an exchange that is really easy to use so that you can execute your trades really fast because this is a very high speed type of trading. The only exchange for me that ticks all of these boxes are Bybit.
+
+(5:07 - 5:18)
+On Bybit, I will make money when I use limit orders. I would actually make 0.025% from limit orders. And when I'm using market orders, I only pay 0.075% in fees.
+
+(5:18 - 5:25)
+And this is the lowest I have found out there. So this is really, really good for scalping. And I'm using market orders for my entries and I'm using limit orders for my exits.
+
+(5:26 - 5:36)
+So I will pay an average 0.05% in fees on each trade. And that's based on this strategy after 150 trades. Bybit is also one of the exchanges with the highest liquidity in their order books.
+
+(5:36 - 5:50)
+So a lot of the times there's no slip rate at all, but when there are slip rates, it's really low compared to other exchanges. And in my opinion, they have the best user interface out there to place trades really fast and it's super easy to use. So that's a platform I'm recommending for scalping strategy like this.
+
+(5:50 - 6:05)
+But if you can find another exchange with super low fees, high liquidity in the order book, low spread, and a super easy to use interface, you can use that exchange as well, of course. If you want to try Bybit, you can go to my video description down below and you can use my affiliate link here to create an account. It takes only 25 seconds to create an account.
+
+(6:06 - 6:14)
+Again, Bybit has the lowest trading fees. In my opinion, it's the best crypto exchange out there. And if you use my specific link here, you can get the welcome bonus up to $600 after your first deposit.
+
+(6:14 - 6:24)
+The next step is to execute the trades correctly in your exchange. When I'm trading this strategy, I have one tab with trading view open and one tab with my exchange open, in this case, Bybit. And I also have my calculator ready.
+
+(6:25 - 6:33)
+So let's say that I want to enter a long position on Bitcoin right now. I will go to market, 100% of the quantity and press open long. The first thing I want to do, and I want to do this really, really quick.
+
+(6:33 - 6:40)
+I want to add my stop loss. So clicking here, add stop loss. And now I will bring up my calculator and I will take my entry price.
+
+(6:40 - 6:55)
+You can see it right here, 46,731. And I want to have a stop loss at 0.4%. That would be times 0.996, right? In that way, we will have a stop loss at 0.4%. So now the stop loss price would be 46,544. 46,544.
+
+(6:56 - 7:08)
+So now we have the stop loss set and we can confirm it by clicking here. And now we have the entry price here. We have the stop loss price here and we can confirm that the stop loss is correct by hovering at the entry price and holding shift and then clicking downwards to the stop loss.
+
+(7:08 - 7:23)
+And we can see that it's set to 0.4%. And you always need to add a stop loss as soon as possible after your entry and add it before the target profit. Because if the price would drop suddenly and your stop loss is not set, it can wipe out the profits from a lot of trades that you made before. So be really fast with the stop loss.
+
+(7:24 - 7:53)
+And now we want to add the target order with a limit order. So you can go to close by and click limit and bring up the calculator, reset it and take the entry price again for the 6,731 times 1.005 to get the target at 0.5%. And you can round it to the closest 0.5. So that would be 46,964.5. 46,964.5 and press confirm. And we can confirm it by shift clicking here to here and it's set at 0.5%. So it's all correct.
+
+(7:53 - 7:59)
+And now we can relax and just wait for the trade to close. And this is just an example. So I will cancel my trade here.
+
+(7:59 - 8:06)
+I will close the position at the small profit here and I will show you how to short as well. So let's say I want to short right now. Do the same thing again.
+
+(8:06 - 8:16)
+Go to market and 100% of the quantity open short. And now I want to add a stop loss as soon as possible. So when adding a stop loss to a short position, you need to do it the opposite way.
+
+(8:16 - 8:30)
+So click add stop loss, then bring up the calculator and take your entry price for the 6,784. You can see it down here and do times 1.004. That would be 46,971. 46,971 and press confirm.
+
+(8:30 - 8:39)
+So now we have the stop loss all set here. You can confirm it by hovering here and shift clicking to your stop loss 0.4%. So that is correct. And then we need to add our target with the limit order.
+
+(8:39 - 8:54)
+So press close by limit here and take your entry for the 6,784 times 0.995 to get a 0.5% target. That would be 46,550. 46,550 and we can confirm it by shift clicking and dragging down.
+
+(8:55 - 9:02)
+And we now have a target at 0.5%. So that's how easy it is to execute the trades on Bybit. You need to really look at the order book here. This is the order book.
+
+(9:02 - 9:25)
+You can see the open orders in the order book and you need to confirm that there's enough liquidity in the order book for your trade when you get to this size. And I usually limit my trading size to between $100,000 and $150,000 because the higher trading size we use, the harder it will be to execute the orders. As you can see here, if we want to buy Bitcoin right now, there's 70 BTC at the current price in the order book.
+
+(9:25 - 9:44)
+So there's no problem right now, but if you're using very high volumes, you need to keep track on the order book and just confirm that there's enough volume here for your order to execute. Otherwise, you might get some slipperage. However, slipperage on Bybit has not been a problem for me so far, but I feel obligated to just let you know that trading with a big account might cause some slipperage if you're not careful.
+
+(9:45 - 9:59)
+The next step is to make sure that you're entering the trades on the candle close. To know when the candle is closing, you can right click on the right edge of trading view here on the price axis and then enable countdown to bar close. And you can see that you have two minutes left to this candle close.
+
+(9:59 - 10:12)
+So wait for the candle to close before you enter the trade. The next step is to only trade large cap coins. I'm trading this strategy primarily on Bitcoin because Bitcoin has very high volume and high liquidity in order books, but sometimes I might even trade Ethereum.
+
+(10:12 - 10:30)
+But I never trade smaller coins because the volatility is different on smaller coins and the volume on smaller coins might not always be enough. Also, make sure to use the chart in trading view for your specific exchange. So when you add a coin in the exchange, you search for BTC USD, for example, then make sure that you use your exchange in trading view.
+
+(10:30 - 10:48)
+For example, I'm using Bybit, so I will always use the Bybit chart when I'm trading this strategy because sometimes the price can be a bit different on different exchanges. The next step is to avoid overtrading and avoiding bad trades. So when you have a crossover and you already made like five trades on this crossover, because eventually the next crossover will happen.
+
+(10:48 - 11:04)
+So it's better to wait for the next crossover and then go back to shorting at that crossover instead. It's also good to look at higher timeframes as well to make sure that Bitcoin is not overextended on the higher timeframes. If Bitcoin has a very high RSI, for example, on the higher timeframes, you might not want to enter long positions.
+
+(11:04 - 11:20)
+So use your skill and look at the higher timeframes and look at other indicators, for example, the RSI to avoid overtrading and to avoid taking long positions when the price is overextended and to avoid shorting when the price already has dropped a lot already. Overall, be patient. You only need about five trades per day to make huge gains from this strategy.
+
+(11:20 - 11:36)
+So only take trades that feels right and that you believe in and try to follow the trend overall. If you are bullish on Bitcoin on, for example, the one hour timeframe and the four hour timeframe, then it might be a good idea to avoid the shorting at that time. And now I will give away $100 to three of the viewers in this video.
+
+(11:36 - 11:49)
+The only thing you need to do to have a chance to get this giveaway, you need to like the video, subscribe to the channel and create an account on Bybit using my link. It takes only 25 seconds to create an account and then write I'm in in the comment section down below. And I will pick three random winners.
+
+(11:49 - 11:59)
+And if you are one of them, I will reply to your comment and then I will send $100 to your Bybit account. If you don't reply to the comment within seven days, I will give the $100 to someone else. So that's all you need to do.
+
+(11:59 - 12:08)
+Next week, I will post a video where I'm trading the strategy for eight hours straight and showing all the trades in that video. In the meanwhile, check out my other videos on my channel. Thanks for watching and see you in the next video.

@@ -1,0 +1,1711 @@
+1
+00:00:00,230 --> 00:00:02,630
+Are you frustrated to have only a small
+
+2
+00:00:02,630 --> 00:00:03,770
+trading account?
+
+3
+00:00:04,510 --> 00:00:06,230
+Well, in this video, our Head of Options
+
+4
+00:00:06,230 --> 00:00:09,730
+Trading teaches you a strategy that requires surprisingly
+
+5
+00:00:09,730 --> 00:00:13,550
+little capital to produce income of $500 or
+
+6
+00:00:13,550 --> 00:00:14,710
+more per week.
+
+7
+00:00:14,970 --> 00:00:16,650
+I'm Mike Bellafiori and we're one of the
+
+8
+00:00:16,650 --> 00:00:19,430
+top proprietary trading firms located in New York
+
+9
+00:00:19,430 --> 00:00:22,030
+City and proud to develop number seven and
+
+10
+00:00:22,030 --> 00:00:25,830
+even eight figure per year Watch, take notes,
+
+11
+00:00:26,170 --> 00:00:28,890
+and learn so you can grow your trading
+
+12
+00:00:28,890 --> 00:00:29,190
+account.
+
+13
+00:00:29,390 --> 00:00:31,390
+Hi, I'm Seth Freyberg and I'm the Head
+
+14
+00:00:31,390 --> 00:00:33,830
+Trader of SMB Capital's Options Trading Desk here
+
+15
+00:00:33,830 --> 00:00:35,030
+in Manhattan.
+
+16
+00:00:35,370 --> 00:00:37,850
+And when most people think about options, they
+
+17
+00:00:37,850 --> 00:00:39,630
+think of them as a cheap way to
+
+18
+00:00:39,630 --> 00:00:42,150
+take advantage of big moves on stocks without
+
+19
+00:00:42,150 --> 00:00:43,930
+having to actually go out and buy the
+
+20
+00:00:43,930 --> 00:00:46,290
+stocks, which of course is a part of
+
+21
+00:00:46,290 --> 00:00:47,810
+what options trading is all about.
+
+22
+00:00:47,950 --> 00:00:49,770
+But what a lot of people don't realize
+
+23
+00:00:49,770 --> 00:00:51,690
+is that options can be used for a
+
+24
+00:00:51,690 --> 00:00:55,050
+completely different purpose, and that is to create
+
+25
+00:00:55,050 --> 00:00:58,350
+cash income on a steady basis week after
+
+26
+00:00:58,350 --> 00:01:00,070
+week throughout the year.
+
+27
+00:01:00,290 --> 00:01:01,830
+And that's through the use of a very
+
+28
+00:01:01,830 --> 00:01:04,730
+easy to learn option strategy that we're going
+
+29
+00:01:04,730 --> 00:01:06,030
+to be covering in today's video.
+
+30
+00:01:06,350 --> 00:01:08,990
+If you're absolutely brand new to options trading
+
+31
+00:01:08,990 --> 00:01:11,110
+and you don't know much about options and
+
+32
+00:01:11,110 --> 00:01:13,310
+how they work, we've created a video for
+
+33
+00:01:13,310 --> 00:01:14,850
+you to understand options basics.
+
+34
+00:01:14,850 --> 00:01:17,030
+And if you click the video appearing on
+
+35
+00:01:17,030 --> 00:01:18,870
+your screen right now, it will lay out
+
+36
+00:01:18,870 --> 00:01:21,570
+the groundwork for you to understand this simple
+
+37
+00:01:21,570 --> 00:01:23,770
+strategy that we're going to be covering so
+
+38
+00:01:23,770 --> 00:01:26,050
+that you can generate cash flow in your
+
+39
+00:01:26,050 --> 00:01:26,750
+trading account.
+
+40
+00:01:27,050 --> 00:01:29,450
+Then when you're finished, you can come back
+
+41
+00:01:29,450 --> 00:01:30,830
+and watch the rest of the video.
+
+42
+00:01:31,230 --> 00:01:33,350
+Okay, so what we're going to be teaching
+
+43
+00:01:33,350 --> 00:01:35,510
+you in today's video is a strategy for
+
+44
+00:01:35,510 --> 00:01:38,710
+making $500 in most weeks of the year.
+
+45
+00:01:38,990 --> 00:01:41,330
+Now, most people naturally think that to produce
+
+46
+00:01:41,330 --> 00:01:44,750
+that kind of weekly cash income, you'd need
+
+47
+00:01:44,750 --> 00:01:48,310
+a large trading account containing somewhere between $100
+
+48
+00:01:48,310 --> 00:01:50,750
+,000 and $200,000 to even have a
+
+49
+00:01:50,750 --> 00:01:52,910
+shot in making that kind of cash income.
+
+50
+00:01:53,290 --> 00:01:55,210
+But that's not the case at all for
+
+51
+00:01:55,210 --> 00:01:56,690
+the strategy that we're going to be teaching
+
+52
+00:01:56,690 --> 00:01:57,390
+you in this video.
+
+53
+00:01:57,470 --> 00:01:59,730
+In fact, all you need is a fraction
+
+54
+00:01:59,730 --> 00:02:02,190
+of that in your account to execute what
+
+55
+00:02:02,190 --> 00:02:03,990
+we'll be describing in today's video.
+
+56
+00:02:04,610 --> 00:02:06,030
+Okay, so let's get started.
+
+57
+00:02:06,730 --> 00:02:09,250
+As many of you know, the ETF known
+
+58
+00:02:09,250 --> 00:02:11,590
+as the Q's, which stands for the ticker
+
+59
+00:02:11,590 --> 00:02:15,470
+symbol QQQ, is an ETF which tracks a
+
+60
+00:02:15,470 --> 00:02:19,010
+basket of stocks, mimicking the NASDAQ 100 index,
+
+61
+00:02:19,110 --> 00:02:21,550
+which contains primarily tech stocks.
+
+62
+00:02:22,070 --> 00:02:24,630
+And so as you know, tech stocks have
+
+63
+00:02:24,630 --> 00:02:28,230
+been on a tear in 2023 after a
+
+64
+00:02:28,230 --> 00:02:29,510
+weak year previously.
+
+65
+00:02:29,910 --> 00:02:32,090
+And throughout the first five months and into
+
+66
+00:02:32,090 --> 00:02:33,690
+the first few days of June of this
+
+67
+00:02:33,690 --> 00:02:36,430
+year, the Q's were up 34% for
+
+68
+00:02:36,430 --> 00:02:39,170
+the year, a massive rally in five months.
+
+69
+00:02:39,990 --> 00:02:42,310
+So let's say that on the first Friday
+
+70
+00:02:42,310 --> 00:02:44,890
+in June, on June 2nd, with the Q's
+
+71
+00:02:44,890 --> 00:02:48,470
+trading at 354.65, you pulled up an
+
+72
+00:02:48,470 --> 00:02:51,230
+options chain expiring a week later on June
+
+73
+00:02:51,230 --> 00:02:51,890
+9th.
+
+74
+00:02:51,990 --> 00:02:53,670
+And you look for a put option on
+
+75
+00:02:53,670 --> 00:02:55,650
+that options chain with a price of around
+
+76
+00:02:55,650 --> 00:02:56,810
+60 cents.
+
+77
+00:02:56,970 --> 00:02:59,950
+And in this case, that was the 346
+
+78
+00:02:59,950 --> 00:03:02,730
+put, which was selling for 65 cents.
+
+79
+00:03:02,770 --> 00:03:04,910
+And you go ahead and sell 10 of
+
+80
+00:03:04,910 --> 00:03:09,410
+those while simultaneously buying 10 of the 321
+
+81
+00:03:09,410 --> 00:03:13,270
+puts for six cents, 25 points below the
+
+82
+00:03:13,270 --> 00:03:15,550
+10 that you sold up at 346.
+
+83
+00:03:15,910 --> 00:03:18,390
+And so when an options trader does that,
+
+84
+00:03:18,850 --> 00:03:20,870
+selling a put higher up on an options
+
+85
+00:03:20,870 --> 00:03:23,890
+chain and buying a put lower on that
+
+86
+00:03:23,890 --> 00:03:27,070
+same options chain, then he's entering what options
+
+87
+00:03:27,070 --> 00:03:30,370
+traders refer to as a put credit spread.
+
+88
+00:03:31,270 --> 00:03:32,810
+Okay, so let's take a look at the
+
+89
+00:03:32,810 --> 00:03:33,810
+cash flow of this trade.
+
+90
+00:03:33,870 --> 00:03:35,650
+So you can start to understand how it
+
+91
+00:03:35,650 --> 00:03:35,990
+works.
+
+92
+00:03:36,890 --> 00:03:39,250
+And so starting out with the 346 puts,
+
+93
+00:03:39,310 --> 00:03:40,810
+we sold for 60 cents.
+
+94
+00:03:41,430 --> 00:03:44,490
+Remember, each option represents 100 shares of stock
+
+95
+00:03:44,490 --> 00:03:46,750
+that can be assigned to the put seller.
+
+96
+00:03:47,070 --> 00:03:50,510
+So you multiply the 65 cents times 100,
+
+97
+00:03:50,650 --> 00:03:52,270
+and we sold 10 of them.
+
+98
+00:03:52,370 --> 00:03:54,510
+And so when you multiply it all together,
+
+99
+00:03:54,990 --> 00:03:57,370
+the result in cash income from selling those
+
+100
+00:03:57,370 --> 00:03:59,670
+10 puts is $650.
+
+101
+00:04:00,090 --> 00:04:03,070
+And using that same kind of math, those
+
+102
+00:04:03,070 --> 00:04:06,650
+321 puts we bought for protection cost us
+
+103
+00:04:06,650 --> 00:04:11,230
+$60, resulting in net cash income of $590
+
+104
+00:04:11,230 --> 00:04:14,690
+for this one week trade, which incidentally requires
+
+105
+00:04:14,690 --> 00:04:18,810
+24,410 in capital to execute.
+
+106
+00:04:19,250 --> 00:04:20,970
+Now, if you don't have that much in
+
+107
+00:04:20,970 --> 00:04:23,350
+your account, all you do is cut back
+
+108
+00:04:23,350 --> 00:04:25,570
+the number of credit spreads you sell to
+
+109
+00:04:25,570 --> 00:04:26,670
+fit your account size.
+
+110
+00:04:26,790 --> 00:04:29,350
+So for example, if you sold half of
+
+111
+00:04:29,350 --> 00:04:32,350
+those put credit spreads, you'd bring in half
+
+112
+00:04:32,350 --> 00:04:34,750
+of that amount of income and you'd require
+
+113
+00:04:34,750 --> 00:04:37,090
+half that amount of capital and so forth.
+
+114
+00:04:37,430 --> 00:04:39,650
+Now let's move to the day that this
+
+115
+00:04:39,650 --> 00:04:41,750
+credit spread expires on June 9th.
+
+116
+00:04:41,930 --> 00:04:44,410
+And as you can see, the stock barely
+
+117
+00:04:44,410 --> 00:04:47,290
+moved that week, closing at 354.50 on
+
+118
+00:04:47,290 --> 00:04:47,770
+that day.
+
+119
+00:04:47,830 --> 00:04:49,970
+And so what's the outcome of this trade?
+
+120
+00:04:50,090 --> 00:04:51,530
+Well, let's take a look at that.
+
+121
+00:04:51,890 --> 00:04:54,730
+You see, both the 346 puts that we
+
+122
+00:04:54,730 --> 00:04:57,310
+sold and the 321 puts that we bought
+
+123
+00:04:57,310 --> 00:05:00,810
+are located at strike prices well below where
+
+124
+00:05:00,810 --> 00:05:03,050
+the stock closed on the day that they
+
+125
+00:05:03,050 --> 00:05:03,490
+expired.
+
+126
+00:05:03,650 --> 00:05:05,510
+And so as a result, both of them
+
+127
+00:05:05,510 --> 00:05:08,650
+expire with no value because who would exercise
+
+128
+00:05:08,650 --> 00:05:11,010
+their right to sell shares at a price
+
+129
+00:05:11,010 --> 00:05:14,310
+of 346 or 321 when the stock is
+
+130
+00:05:14,310 --> 00:05:17,110
+trading for a price of 354.50 in
+
+131
+00:05:17,110 --> 00:05:17,870
+the open market?
+
+132
+00:05:17,950 --> 00:05:19,470
+Obviously no one's going to do that.
+
+133
+00:05:19,590 --> 00:05:23,050
+So those options just expire worthless resulting in
+
+134
+00:05:23,050 --> 00:05:25,330
+the result of the trade being that we
+
+135
+00:05:25,330 --> 00:05:27,870
+get to just keep that cash flow of
+
+136
+00:05:27,870 --> 00:05:31,250
+$590 that we first received when we first
+
+137
+00:05:31,250 --> 00:05:31,990
+opened the trade.
+
+138
+00:05:32,250 --> 00:05:32,510
+Okay.
+
+139
+00:05:32,670 --> 00:05:35,250
+So remember we're discussing a way to pull
+
+140
+00:05:35,250 --> 00:05:37,770
+500 or so out of the market most
+
+141
+00:05:37,770 --> 00:05:39,230
+weeks on average in this video.
+
+142
+00:05:39,350 --> 00:05:41,230
+And so that's going to be our first
+
+143
+00:05:41,230 --> 00:05:43,290
+trade that when we just completed.
+
+144
+00:05:43,450 --> 00:05:45,570
+And so on the day that those options
+
+145
+00:05:45,570 --> 00:05:48,070
+expire, we turn around and open up a
+
+146
+00:05:48,070 --> 00:05:51,870
+new trade expiring again a week later again
+
+147
+00:05:51,870 --> 00:05:53,170
+on June 16th.
+
+148
+00:05:53,470 --> 00:05:55,010
+And in this case, the put option that
+
+149
+00:05:55,010 --> 00:05:58,270
+sells for 61 cents is the 342.
+
+150
+00:05:58,610 --> 00:06:01,490
+And again, 25 points below that is the
+
+151
+00:06:01,490 --> 00:06:05,050
+317, which we're buying and paying eight cents
+
+152
+00:06:05,050 --> 00:06:09,030
+for resulting in $530 of cash flow in
+
+153
+00:06:09,030 --> 00:06:10,030
+this case, as you can see.
+
+154
+00:06:10,590 --> 00:06:12,650
+Now moving forward to the expiration date of
+
+155
+00:06:12,650 --> 00:06:14,850
+this second trade, you can see that on
+
+156
+00:06:14,850 --> 00:06:17,930
+June 16th that the stock rallied nicely in
+
+157
+00:06:17,930 --> 00:06:21,850
+that ensuing week, closing at 367.93. And
+
+158
+00:06:21,850 --> 00:06:24,710
+so again, with both the 342 and 317
+
+159
+00:06:24,710 --> 00:06:28,150
+puts expiring worthless being so far below where
+
+160
+00:06:28,150 --> 00:06:30,590
+the stock closed, we again just pocket the
+
+161
+00:06:30,590 --> 00:06:31,330
+$530.
+
+162
+00:06:31,930 --> 00:06:34,070
+And so we just go ahead and repeat
+
+163
+00:06:34,070 --> 00:06:37,650
+this same trade opening a 25 point wide
+
+164
+00:06:37,650 --> 00:06:40,150
+put credit spread with a short put priced
+
+165
+00:06:40,150 --> 00:06:43,510
+around 60 cents every week on Friday and
+
+166
+00:06:43,510 --> 00:06:45,950
+allowing it to expire the next Friday.
+
+167
+00:06:46,370 --> 00:06:48,270
+And as it turns out, we had a
+
+168
+00:06:48,270 --> 00:06:50,590
+pretty easy time of it throughout the summer.
+
+169
+00:06:51,230 --> 00:06:53,170
+And so since each trade is essentially the
+
+170
+00:06:53,170 --> 00:06:55,650
+same to move this along, we've created a
+
+171
+00:06:55,650 --> 00:06:58,890
+scorecard for you for each of those trades,
+
+172
+00:06:58,970 --> 00:07:00,690
+which you can go ahead and check for
+
+173
+00:07:00,690 --> 00:07:02,570
+yourself, by the way, if you have options
+
+174
+00:07:02,570 --> 00:07:03,670
+data available to you.
+
+175
+00:07:03,670 --> 00:07:06,110
+And as you can see through all of
+
+176
+00:07:06,110 --> 00:07:09,710
+June and all of July, the expiration closing
+
+177
+00:07:09,710 --> 00:07:13,030
+price of QQQ was above the strike price
+
+178
+00:07:13,030 --> 00:07:15,990
+location on both the short and long put
+
+179
+00:07:15,990 --> 00:07:18,690
+portions of the put credit spreads on their
+
+180
+00:07:18,690 --> 00:07:20,070
+respective expiration days.
+
+181
+00:07:20,450 --> 00:07:23,170
+And so we just kept collecting about, you
+
+182
+00:07:23,170 --> 00:07:25,410
+know, more than $500 in each of these
+
+183
+00:07:25,410 --> 00:07:25,730
+weeks.
+
+184
+00:07:26,350 --> 00:07:26,550
+Okay.
+
+185
+00:07:26,610 --> 00:07:29,710
+So now on July 28th, we entered our
+
+186
+00:07:29,710 --> 00:07:31,030
+first August trade.
+
+187
+00:07:31,030 --> 00:07:32,650
+And as you can see, just like we
+
+188
+00:07:32,650 --> 00:07:35,210
+did in all the previous cases, we sold
+
+189
+00:07:35,210 --> 00:07:38,150
+the 373 puts this time for 59 cents
+
+190
+00:07:38,150 --> 00:07:40,930
+and we bought the 348 puts for five
+
+191
+00:07:40,930 --> 00:07:44,530
+cents culminating in our receiving $540.
+
+192
+00:07:45,250 --> 00:07:47,870
+However, in this case, for the first time
+
+193
+00:07:47,870 --> 00:07:51,230
+since the campaign started in early June, the
+
+194
+00:07:51,230 --> 00:07:54,230
+stock closes below the short put strike of
+
+195
+00:07:54,230 --> 00:07:55,150
+373.
+
+196
+00:07:55,250 --> 00:07:57,530
+And so at this point, if we do
+
+197
+00:07:57,530 --> 00:07:59,790
+nothing, then we're going to be required to
+
+198
+00:07:59,790 --> 00:08:03,190
+buy 1,000 shares of QQQ for the
+
+199
+00:08:03,190 --> 00:08:06,250
+put strike price 373, which would cost us
+
+200
+00:08:06,250 --> 00:08:08,570
+$373,000.
+
+201
+00:08:08,890 --> 00:08:10,390
+But we have a small account.
+
+202
+00:08:10,910 --> 00:08:12,050
+So what are we going to do?
+
+203
+00:08:12,570 --> 00:08:14,630
+Well, here's how we handle it.
+
+204
+00:08:14,750 --> 00:08:17,070
+A few minutes before the market expires, we're
+
+205
+00:08:17,070 --> 00:08:19,930
+going to close that put credit spread, which
+
+206
+00:08:19,930 --> 00:08:22,510
+that day would have meant buying back the
+
+207
+00:08:22,510 --> 00:08:25,990
+373 puts for $1.02 and selling the
+
+208
+00:08:25,990 --> 00:08:28,750
+348 puts that we were long for just
+
+209
+00:08:28,750 --> 00:08:29,410
+one cent.
+
+210
+00:08:29,550 --> 00:08:31,230
+And when you look at that cash flow
+
+211
+00:08:31,230 --> 00:08:34,070
+of that buyback, you can see that the
+
+212
+00:08:34,070 --> 00:08:36,830
+cost of the buyback of the 373 puts
+
+213
+00:08:36,830 --> 00:08:39,030
+was $1,020 and we only got back
+
+214
+00:08:39,030 --> 00:08:40,590
+$10 for the long puts.
+
+215
+00:08:41,030 --> 00:08:45,270
+And we only received $540 for getting into
+
+216
+00:08:45,270 --> 00:08:47,230
+this credit spread trade in the first place.
+
+217
+00:08:47,590 --> 00:08:49,810
+And so once it's closed, we have a
+
+218
+00:08:49,810 --> 00:08:52,670
+loss, a net cash outflow this time of
+
+219
+00:08:52,670 --> 00:08:53,270
+$470.
+
+220
+00:08:53,410 --> 00:08:56,150
+And so we've experienced our first trade loss,
+
+221
+00:08:56,290 --> 00:08:59,330
+as you can see from our updated scorecard.
+
+222
+00:08:59,910 --> 00:09:02,710
+But we have no intentions of allowing that
+
+223
+00:09:02,710 --> 00:09:05,090
+loss to hurt us in the long run,
+
+224
+00:09:05,250 --> 00:09:07,610
+because we have a plan for this exact
+
+225
+00:09:07,610 --> 00:09:08,510
+situation.
+
+226
+00:09:09,170 --> 00:09:10,850
+So at the end of that same day,
+
+227
+00:09:10,950 --> 00:09:13,010
+just a few minutes later, we go to
+
+228
+00:09:13,010 --> 00:09:15,490
+the call side of the options chain that
+
+229
+00:09:15,490 --> 00:09:17,970
+expires a week later, the August 11th chain.
+
+230
+00:09:18,250 --> 00:09:20,430
+But this time we sell a call option
+
+231
+00:09:20,430 --> 00:09:22,970
+at the exact same strike price as the
+
+232
+00:09:22,970 --> 00:09:24,330
+short puts in the last trade.
+
+233
+00:09:24,710 --> 00:09:27,110
+In other words, we go to the 373
+
+234
+00:09:27,110 --> 00:09:30,590
+calls, and we sell 10 of those.
+
+235
+00:09:31,050 --> 00:09:32,810
+And as you can see, in this case,
+
+236
+00:09:32,870 --> 00:09:35,830
+we get $3.66 for those because those
+
+237
+00:09:35,830 --> 00:09:37,830
+are so close to where the stock is
+
+238
+00:09:37,830 --> 00:09:38,170
+trading.
+
+239
+00:09:38,770 --> 00:09:40,710
+And options close to the market price of
+
+240
+00:09:40,710 --> 00:09:43,270
+a stock will always be worth more than
+
+241
+00:09:43,270 --> 00:09:45,530
+the options farther away from that price.
+
+242
+00:09:45,890 --> 00:09:48,010
+And so in this case, we're selling the
+
+243
+00:09:48,010 --> 00:09:48,990
+calls this time.
+
+244
+00:09:49,050 --> 00:09:52,170
+But we're doing something else simultaneously with selling
+
+245
+00:09:52,170 --> 00:09:53,310
+those 10 calls.
+
+246
+00:09:53,490 --> 00:09:55,010
+And that is that this time we're going
+
+247
+00:09:55,010 --> 00:09:57,670
+to go way out to the end of
+
+248
+00:09:57,670 --> 00:09:59,910
+the year, December 29th, and we're going to
+
+249
+00:09:59,910 --> 00:10:04,370
+buy 10 of 370 calls expiring on that
+
+250
+00:10:04,370 --> 00:10:08,290
+date for $24.71. Now, why are we
+
+251
+00:10:08,290 --> 00:10:08,810
+doing this?
+
+252
+00:10:09,150 --> 00:10:10,130
+Well, here's our game plan.
+
+253
+00:10:10,450 --> 00:10:12,970
+Once we took that first loss on the
+
+254
+00:10:12,970 --> 00:10:14,710
+August 4th put spread, we're now going to
+
+255
+00:10:14,710 --> 00:10:17,850
+be essentially reverting to the call side.
+
+256
+00:10:18,090 --> 00:10:20,890
+And we are basically going to be selling
+
+257
+00:10:20,890 --> 00:10:25,530
+against those December calls by each week selling
+
+258
+00:10:25,530 --> 00:10:29,890
+373 calls expiring one week later.
+
+259
+00:10:30,510 --> 00:10:34,270
+And so if the QQQ closes below 373,
+
+260
+00:10:34,410 --> 00:10:36,350
+then we will let it expire and sell
+
+261
+00:10:36,350 --> 00:10:38,490
+the calls expiring in the next week.
+
+262
+00:10:38,950 --> 00:10:41,790
+So we're going to do this repeatedly until
+
+263
+00:10:41,790 --> 00:10:46,030
+the Q's rally back above 373, which point
+
+264
+00:10:46,030 --> 00:10:48,430
+we will close the short calls and the
+
+265
+00:10:48,430 --> 00:10:51,470
+long calls expiring in December and then resume
+
+266
+00:10:51,470 --> 00:10:53,790
+our selling of put credit spreads each week.
+
+267
+00:10:53,850 --> 00:10:55,350
+So that's our game plan.
+
+268
+00:10:55,590 --> 00:10:58,150
+Now, keep in mind buying those 10 calls
+
+269
+00:10:58,150 --> 00:11:00,570
+cost us $24,710.
+
+270
+00:11:00,790 --> 00:11:02,970
+And so you should think of that as
+
+271
+00:11:02,970 --> 00:11:06,010
+the capital that we've deployed in the trade
+
+272
+00:11:06,010 --> 00:11:06,950
+at this time.
+
+273
+00:11:07,010 --> 00:11:08,970
+And remember, at the same time, you sold
+
+274
+00:11:08,970 --> 00:11:10,930
+those 10 calls for $366.
+
+275
+00:11:11,010 --> 00:11:13,670
+So that part of the trade actually creates
+
+276
+00:11:13,670 --> 00:11:17,030
+positive cash flow of $3660.
+
+277
+00:11:17,550 --> 00:11:20,390
+Okay, so let's move out to August 11th,
+
+278
+00:11:20,410 --> 00:11:22,490
+the date the calls we sold expired.
+
+279
+00:11:23,050 --> 00:11:24,750
+And as you can see, the Q's closed
+
+280
+00:11:24,750 --> 00:11:27,950
+at $366.24 that day, which is way
+
+281
+00:11:27,950 --> 00:11:31,270
+below the strike of 373 calls that we
+
+282
+00:11:31,270 --> 00:11:31,630
+sold.
+
+283
+00:11:31,730 --> 00:11:33,890
+And so those expire worthless.
+
+284
+00:11:34,470 --> 00:11:34,830
+Why?
+
+285
+00:11:35,210 --> 00:11:38,130
+Because when you're talking about calls, those have
+
+286
+00:11:38,130 --> 00:11:40,930
+no value if the stock closes below the
+
+287
+00:11:40,930 --> 00:11:43,490
+strike price of the calls, because again, no
+
+288
+00:11:43,490 --> 00:11:46,030
+one will exercise their right to buy shares
+
+289
+00:11:46,030 --> 00:11:48,850
+of the Q's at 373 when it's trading
+
+290
+00:11:48,850 --> 00:11:51,290
+almost seven points below that in the open
+
+291
+00:11:51,290 --> 00:11:51,670
+market.
+
+292
+00:11:52,030 --> 00:11:55,090
+And so those calls expire with no value,
+
+293
+00:11:55,490 --> 00:11:57,910
+meaning that we can now update our profit
+
+294
+00:11:57,910 --> 00:12:00,170
+chart to show that we just gained a
+
+295
+00:12:00,170 --> 00:12:04,650
+profit of $3660 for selling those calls.
+
+296
+00:12:05,030 --> 00:12:07,290
+And so we just repeat the process, because
+
+297
+00:12:07,290 --> 00:12:08,890
+as we said, we're going to keep doing
+
+298
+00:12:08,890 --> 00:12:13,230
+this until we get a close above 373
+
+299
+00:12:13,230 --> 00:12:14,730
+on expiration.
+
+300
+00:12:15,250 --> 00:12:17,850
+So we go ahead and sell the 373
+
+301
+00:12:17,850 --> 00:12:21,010
+calls expiring yet another week later on August
+
+302
+00:12:21,010 --> 00:12:21,950
+18th.
+
+303
+00:12:21,950 --> 00:12:23,690
+But this time, because the stock has now
+
+304
+00:12:23,690 --> 00:12:26,850
+fallen to well below the 373 price, three
+
+305
+00:12:26,850 --> 00:12:29,490
+calls fetch a lot less, in this case,
+
+306
+00:12:29,630 --> 00:12:32,630
+$1.16, which as a result produces a
+
+307
+00:12:32,630 --> 00:12:35,930
+positive cash flow of $1.160. And so
+
+308
+00:12:35,930 --> 00:12:39,750
+let's update our scorecard throughout the end of
+
+309
+00:12:39,750 --> 00:12:40,270
+August.
+
+310
+00:12:40,470 --> 00:12:42,610
+And as you can see, the stock had
+
+311
+00:12:42,610 --> 00:12:45,950
+dropped to $358.13 on August 18th.
+
+312
+00:12:46,230 --> 00:12:49,870
+So those calls expire worthless and we get
+
+313
+00:12:49,870 --> 00:12:51,790
+to keep that $1.160 in cash.
+
+314
+00:12:52,150 --> 00:12:55,090
+And moving to the August 25th expiration, we
+
+315
+00:12:55,090 --> 00:12:57,430
+didn't get paid that much for those 373
+
+316
+00:12:57,430 --> 00:13:00,490
+calls, only $300, because in that case, the
+
+317
+00:13:00,490 --> 00:13:03,730
+373 calls were in even larger distance from
+
+318
+00:13:03,730 --> 00:13:05,830
+the Q's close on August 18th.
+
+319
+00:13:06,130 --> 00:13:08,690
+And so those had an even lower price
+
+320
+00:13:08,690 --> 00:13:09,290
+tag on them.
+
+321
+00:13:09,510 --> 00:13:11,030
+And so while the stock had begun to
+
+322
+00:13:11,030 --> 00:13:13,850
+bounce, it still did not reach 373 by
+
+323
+00:13:13,850 --> 00:13:14,950
+the end of that week.
+
+324
+00:13:15,210 --> 00:13:18,190
+And so we again sell the 373 calls
+
+325
+00:13:18,190 --> 00:13:20,850
+for the fourth time now, with this set
+
+326
+00:13:20,850 --> 00:13:23,230
+of calls expiring on September 1.
+
+327
+00:13:23,410 --> 00:13:25,430
+As you can see in this case, we
+
+328
+00:13:25,430 --> 00:13:29,490
+received 90 cents for those, producing $900, which
+
+329
+00:13:29,490 --> 00:13:31,750
+is an improvement upon the previous week.
+
+330
+00:13:32,410 --> 00:13:35,070
+And so now let's move to September 1,
+
+331
+00:13:35,410 --> 00:13:37,250
+when this tranche of calls expires.
+
+332
+00:13:37,250 --> 00:13:39,670
+And as you can see, this time the
+
+333
+00:13:39,670 --> 00:13:43,430
+Q's have closed at $377.59, which is
+
+334
+00:13:43,430 --> 00:13:46,650
+now well above our short calls for the
+
+335
+00:13:46,650 --> 00:13:47,570
+first time in a month.
+
+336
+00:13:47,710 --> 00:13:49,790
+If we don't buy back those short calls
+
+337
+00:13:49,790 --> 00:13:53,250
+when they expire in the money, we're going
+
+338
+00:13:53,250 --> 00:13:55,770
+to be obligated to sell 1,000 shares
+
+339
+00:13:55,770 --> 00:13:57,650
+of the Q's to the owner of those
+
+340
+00:13:57,650 --> 00:13:58,050
+calls.
+
+341
+00:13:58,450 --> 00:14:00,490
+But we don't own 1,000 shares of
+
+342
+00:14:00,490 --> 00:14:00,970
+the Q's.
+
+343
+00:14:01,310 --> 00:14:03,350
+And so remember, we said that when the
+
+344
+00:14:03,350 --> 00:14:07,990
+Q's close above 373, we'll close both the
+
+345
+00:14:07,990 --> 00:14:11,170
+short calls at 373 and the long calls
+
+346
+00:14:11,170 --> 00:14:13,690
+out in December at 370.
+
+347
+00:14:14,050 --> 00:14:15,870
+And so toward the very end of the
+
+348
+00:14:15,870 --> 00:14:17,970
+day, we're going to go ahead and buy
+
+349
+00:14:17,970 --> 00:14:20,310
+back those short calls, which are now priced
+
+350
+00:14:20,310 --> 00:14:24,730
+at 463, and simultaneously sell off the December
+
+351
+00:14:24,730 --> 00:14:27,030
+long calls for 2425.
+
+352
+00:14:27,350 --> 00:14:29,550
+And so analyzing what happened on that last
+
+353
+00:14:29,550 --> 00:14:31,970
+transaction, we'll first look at the short calls
+
+354
+00:14:31,970 --> 00:14:34,230
+for which we received, remember, $900.
+
+355
+00:14:34,690 --> 00:14:36,470
+But to close them, we had to pay
+
+356
+00:14:36,470 --> 00:14:37,990
+out 4,630.
+
+357
+00:14:38,410 --> 00:14:41,510
+So we lost 3,730 on that trade.
+
+358
+00:14:41,910 --> 00:14:44,270
+And don't forget, we sold off those long
+
+359
+00:14:44,270 --> 00:14:46,750
+calls in December, but that was for a
+
+360
+00:14:46,750 --> 00:14:48,370
+little bit less than we bought them for.
+
+361
+00:14:48,370 --> 00:14:51,270
+So that accounts for a small loss of
+
+362
+00:14:51,270 --> 00:14:53,030
+$460 as well.
+
+363
+00:14:53,390 --> 00:14:55,590
+And so updating our scorecard three months into
+
+364
+00:14:55,590 --> 00:14:57,970
+this campaign, we can see that adding in
+
+365
+00:14:57,970 --> 00:15:00,470
+the losses from closing the short calls and
+
+366
+00:15:00,470 --> 00:15:02,930
+selling off the long calls results in a
+
+367
+00:15:02,930 --> 00:15:07,170
+three-month campaign total gain of $5,030,
+
+368
+00:15:07,810 --> 00:15:11,550
+which incidentally, throughout the campaign, the most capital
+
+369
+00:15:11,550 --> 00:15:14,310
+we ever needed on any one week's trades
+
+370
+00:15:14,310 --> 00:15:16,750
+was $24,490.
+
+371
+00:15:17,050 --> 00:15:19,830
+So we'll call that our capital for the
+
+372
+00:15:19,830 --> 00:15:20,490
+campaign.
+
+373
+00:15:21,070 --> 00:15:23,110
+And that in turn results in a 20
+
+374
+00:15:23,110 --> 00:15:26,490
+.5% return for the three-month campaign
+
+375
+00:15:26,490 --> 00:15:30,170
+and an 82% return if you annualize
+
+376
+00:15:30,170 --> 00:15:31,390
+that three-month experience.
+
+377
+00:15:32,030 --> 00:15:35,110
+And so after this, you just resume the
+
+378
+00:15:35,110 --> 00:15:38,510
+original practice of selling, put credit spreads, bringing
+
+379
+00:15:38,510 --> 00:15:41,230
+in about $500 or more per week in
+
+380
+00:15:41,230 --> 00:15:41,810
+most weeks.
+
+381
+00:15:41,810 --> 00:15:43,970
+And then in weeks where the market closes
+
+382
+00:15:43,970 --> 00:15:46,590
+below the short put strikes, you can do
+
+383
+00:15:46,590 --> 00:15:48,690
+as we showed you in this case, buy
+
+384
+00:15:48,690 --> 00:15:51,590
+back the put credit spread, buy long calls
+
+385
+00:15:51,590 --> 00:15:53,530
+far out of time, a little bit in
+
+386
+00:15:53,530 --> 00:15:55,970
+the money, and combine that with a campaign
+
+387
+00:15:55,970 --> 00:15:59,570
+of selling calls against those far out distant
+
+388
+00:15:59,570 --> 00:16:02,810
+long calls repeatedly as we just showed you.
+
+389
+00:16:02,910 --> 00:16:05,210
+It's a very similar strategy to what some
+
+390
+00:16:05,210 --> 00:16:08,030
+options traders would call the wheel option strategy,
+
+391
+00:16:08,030 --> 00:16:12,150
+but this approach uses much less capital than
+
+392
+00:16:12,150 --> 00:16:14,710
+the wheel strategy, which is why it's so
+
+393
+00:16:14,710 --> 00:16:17,430
+advantageous to folks with smaller accounts.
+
+394
+00:16:17,630 --> 00:16:19,010
+So what I'd like you to take away
+
+395
+00:16:19,010 --> 00:16:20,990
+from today's video is that you don't need
+
+396
+00:16:20,990 --> 00:16:23,410
+to have a massive amount of capital to
+
+397
+00:16:23,410 --> 00:16:26,950
+generate substantial positive cashflow in your trading account
+
+398
+00:16:26,950 --> 00:16:28,050
+in most weeks.
+
+399
+00:16:28,190 --> 00:16:31,610
+A campaign of put credit spreads can yield
+
+400
+00:16:31,610 --> 00:16:33,730
+you incredible returns in most weeks.
+
+401
+00:16:34,190 --> 00:16:35,650
+And when you run into a bit of
+
+402
+00:16:35,650 --> 00:16:38,310
+a sell-off, you can use this call
+
+403
+00:16:38,310 --> 00:16:40,110
+selling approach that we taught you in the
+
+404
+00:16:40,110 --> 00:16:42,950
+video until you can close the call side
+
+405
+00:16:42,950 --> 00:16:46,290
+and resume your put credit spread selling campaign,
+
+406
+00:16:46,490 --> 00:16:49,070
+which can go smoothly for very long periods
+
+407
+00:16:49,070 --> 00:16:52,190
+of time as we saw, especially on stocks
+
+408
+00:16:52,190 --> 00:16:54,990
+with a mildly bullish overall direction.
+
+409
+00:16:55,810 --> 00:16:58,350
+Pro traders use these techniques all the time.
+
+410
+00:16:58,570 --> 00:17:00,310
+And now you've got the knowledge to do
+
+411
+00:17:00,310 --> 00:17:01,030
+this yourself.
+
+412
+00:17:01,030 --> 00:17:03,069
+Now, if you'd like to learn three more
+
+413
+00:17:03,069 --> 00:17:06,670
+options strategies that our pro traders use, including
+
+414
+00:17:06,670 --> 00:17:09,630
+the unique options trick that allows you to
+
+415
+00:17:09,630 --> 00:17:12,109
+make money while you wait to buy stocks
+
+416
+00:17:12,109 --> 00:17:15,109
+or ETFs at the price you want and
+
+417
+00:17:15,109 --> 00:17:17,690
+the options income strategy that allows you to
+
+418
+00:17:17,690 --> 00:17:20,310
+make consistent money, whether the market goes up
+
+419
+00:17:20,310 --> 00:17:23,930
+or down or sideways and how to make
+
+420
+00:17:23,930 --> 00:17:26,569
+money on a stock or index trade, even
+
+421
+00:17:26,569 --> 00:17:29,550
+if you're wrong on the direction, then click
+
+422
+00:17:29,550 --> 00:17:32,110
+the link that's appearing right now at the
+
+423
+00:17:32,110 --> 00:17:34,790
+top right hand corner of your screen that
+
+424
+00:17:34,790 --> 00:17:37,630
+will open up the free workshop registration page
+
+425
+00:17:37,630 --> 00:17:38,770
+in a new window.
+
+426
+00:17:39,010 --> 00:17:40,790
+So don't worry, you won't lose this video
+
+427
+00:17:40,790 --> 00:17:44,310
+or you can register directly for free at
+
+428
+00:17:44,310 --> 00:17:45,690
+optionsclass.com

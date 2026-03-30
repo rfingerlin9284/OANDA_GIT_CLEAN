@@ -1,0 +1,1323 @@
+1
+00:00:05,510 --> 00:00:07,430
+What you are looking at is an option
+
+2
+00:00:07,430 --> 00:00:10,510
+chain of Netflix, and these options have 37
+
+3
+00:00:10,510 --> 00:00:12,170
+days until they expire.
+
+4
+00:00:12,670 --> 00:00:13,950
+Here are the out of the money calls
+
+5
+00:00:13,950 --> 00:00:15,870
+and puts, and we know that if these
+
+6
+00:00:15,870 --> 00:00:17,990
+options remain out of the money, they will
+
+7
+00:00:17,990 --> 00:00:19,350
+gradually go to zero.
+
+8
+00:00:19,990 --> 00:00:21,710
+And I'll just show you an example here.
+
+9
+00:00:22,190 --> 00:00:24,470
+Let's just reference the 90 strike put.
+
+10
+00:00:24,910 --> 00:00:27,710
+It's trading at 335 by 350.
+
+11
+00:00:28,410 --> 00:00:30,690
+Now let's fast forward to the options that
+
+12
+00:00:30,690 --> 00:00:32,090
+expire in just two days.
+
+13
+00:00:32,410 --> 00:00:34,050
+You can see that they are all much
+
+14
+00:00:34,050 --> 00:00:34,490
+cheaper.
+
+15
+00:00:34,930 --> 00:00:36,310
+And if you look at the 90 strike
+
+16
+00:00:36,310 --> 00:00:38,730
+put that expires in two days, it's only
+
+17
+00:00:38,730 --> 00:00:41,670
+at 11 cents by 15 cents, whereas the
+
+18
+00:00:41,670 --> 00:00:44,290
+90 strike put with 37 days to expiration
+
+19
+00:00:44,290 --> 00:00:46,490
+is at 335 by 350.
+
+20
+00:00:47,050 --> 00:00:49,370
+So each and every day, time premium is
+
+21
+00:00:49,370 --> 00:00:50,630
+sucked out of these options.
+
+22
+00:00:51,250 --> 00:00:53,750
+Now if you buy options, you already know
+
+23
+00:00:53,750 --> 00:00:55,990
+that you are constantly fighting this time decay.
+
+24
+00:00:56,570 --> 00:00:58,530
+Instead of fighting it, we prefer to let
+
+25
+00:00:58,530 --> 00:01:00,150
+it work for us and make us money.
+
+26
+00:01:00,670 --> 00:01:02,270
+Let me show you one of our favorite
+
+27
+00:01:02,270 --> 00:01:05,270
+option strategies that you can start utilizing immediately
+
+28
+00:01:05,270 --> 00:01:07,430
+to put time decay in your favor, even
+
+29
+00:01:07,430 --> 00:01:08,390
+with a small account.
+
+30
+00:01:09,010 --> 00:01:11,190
+We can achieve this by trading an iron
+
+31
+00:01:11,190 --> 00:01:11,750
+condor.
+
+32
+00:01:12,270 --> 00:01:14,290
+So what exactly is an iron condor?
+
+33
+00:01:14,750 --> 00:01:16,630
+Don't let the name intimidate you, it's actually
+
+34
+00:01:16,630 --> 00:01:17,350
+very simple.
+
+35
+00:01:17,730 --> 00:01:20,110
+The first part of an iron condor consists
+
+36
+00:01:20,110 --> 00:01:22,230
+of selling to open an out of the
+
+37
+00:01:22,230 --> 00:01:25,430
+money put, and simultaneously selling to open an
+
+38
+00:01:25,430 --> 00:01:26,370
+out of the money call.
+
+39
+00:01:26,910 --> 00:01:29,070
+We would do this in hopes that between
+
+40
+00:01:29,070 --> 00:01:31,830
+now and expiration, the stock will stay in
+
+41
+00:01:31,830 --> 00:01:34,050
+between the strikes and the options we sold
+
+42
+00:01:34,050 --> 00:01:35,130
+will go to zero.
+
+43
+00:01:35,590 --> 00:01:37,210
+If this is the case, we will keep
+
+44
+00:01:37,210 --> 00:01:39,350
+the entire price we sold these options for.
+
+45
+00:01:40,030 --> 00:01:42,190
+But since short naked options can have a
+
+46
+00:01:42,190 --> 00:01:43,930
+lot of risk and can require a lot
+
+47
+00:01:43,930 --> 00:01:46,290
+of capital, we are also going to buy
+
+48
+00:01:46,290 --> 00:01:48,390
+a further out of the money put and
+
+49
+00:01:48,390 --> 00:01:49,310
+call for protection.
+
+50
+00:01:49,890 --> 00:01:52,630
+These four option trades are collectively called an
+
+51
+00:01:52,630 --> 00:01:53,510
+iron condor.
+
+52
+00:01:54,070 --> 00:01:56,570
+But we're selling two options and buying two
+
+53
+00:01:56,570 --> 00:01:56,990
+options.
+
+54
+00:01:57,510 --> 00:01:58,650
+So how does this work?
+
+55
+00:01:58,870 --> 00:01:59,810
+Well let me show you.
+
+56
+00:02:00,330 --> 00:02:03,690
+Stock XYZ is trading at $75 per share.
+
+57
+00:02:04,090 --> 00:02:07,110
+Let's sell the 85 call for $2, and
+
+58
+00:02:07,110 --> 00:02:09,229
+we're also going to sell the 65 put
+
+59
+00:02:09,229 --> 00:02:09,710
+for $2.
+
+60
+00:02:10,190 --> 00:02:12,030
+And our idea is that the stock will
+
+61
+00:02:12,030 --> 00:02:13,990
+stay in between these strikes and the options
+
+62
+00:02:13,990 --> 00:02:15,850
+we sold will expire worthless.
+
+63
+00:02:15,850 --> 00:02:19,430
+But again, since naked options theoretically have unlimited
+
+64
+00:02:19,430 --> 00:02:21,450
+risk, we are going to buy some protection.
+
+65
+00:02:22,110 --> 00:02:24,170
+So we're also going to buy the 90
+
+66
+00:02:24,170 --> 00:02:26,890
+call for $1, and the 60 put for
+
+67
+00:02:26,890 --> 00:02:27,330
+$1.
+
+68
+00:02:27,750 --> 00:02:29,710
+And I know that keeping track with all
+
+69
+00:02:29,710 --> 00:02:31,910
+of these individual option trades seems like a
+
+70
+00:02:31,910 --> 00:02:33,610
+lot to keep up with, but we can
+
+71
+00:02:33,610 --> 00:02:35,970
+actually trade an iron condor with one order
+
+72
+00:02:35,970 --> 00:02:37,510
+and view it as one trade.
+
+73
+00:02:37,790 --> 00:02:38,790
+And I'm going to show you how to
+
+74
+00:02:38,790 --> 00:02:39,970
+do that in the end of the video,
+
+75
+00:02:40,170 --> 00:02:41,430
+but for now just stick with me.
+
+76
+00:02:41,870 --> 00:02:44,470
+Let's say we initiated this trade with 30
+
+77
+00:02:44,470 --> 00:02:45,530
+days to expiration.
+
+78
+00:02:46,250 --> 00:02:48,570
+And as time passes and we near expiration,
+
+79
+00:02:49,050 --> 00:02:50,910
+let's say the stock doesn't move much and
+
+80
+00:02:50,910 --> 00:02:53,050
+just kind of bounces around and trades sideways.
+
+81
+00:02:53,510 --> 00:02:56,530
+So as we near expiration, these options remain
+
+82
+00:02:56,530 --> 00:02:58,190
+out of the money and the price of
+
+83
+00:02:58,190 --> 00:03:00,510
+each option gradually goes to zero.
+
+84
+00:03:01,030 --> 00:03:03,250
+If all of these options are worthless, what
+
+85
+00:03:03,250 --> 00:03:04,470
+does that mean for our trade?
+
+86
+00:03:04,850 --> 00:03:07,710
+Well we make $200 on the 85 call
+
+87
+00:03:07,710 --> 00:03:09,930
+and also on the 65 put.
+
+88
+00:03:09,930 --> 00:03:12,150
+Because we are short those options and they
+
+89
+00:03:12,150 --> 00:03:13,050
+are now at zero.
+
+90
+00:03:13,310 --> 00:03:15,530
+So we collected a credit, and since they
+
+91
+00:03:15,530 --> 00:03:16,850
+are of no value, we get to keep
+
+92
+00:03:16,850 --> 00:03:17,370
+that credit.
+
+93
+00:03:18,170 --> 00:03:20,070
+Okay, but we also lost some money on
+
+94
+00:03:20,070 --> 00:03:21,490
+the options we bought as protection.
+
+95
+00:03:21,970 --> 00:03:24,910
+We lost $100 on the 90 strike call
+
+96
+00:03:24,910 --> 00:03:27,630
+and also on the 60 strike put, because
+
+97
+00:03:27,630 --> 00:03:29,510
+we bought these options and they now have
+
+98
+00:03:29,510 --> 00:03:30,210
+no value.
+
+99
+00:03:30,730 --> 00:03:32,530
+Adding all of these numbers up totals to
+
+100
+00:03:32,530 --> 00:03:35,550
+a net profit of $200, because we made
+
+101
+00:03:35,550 --> 00:03:38,050
+$400 on the short options and lost $200
+
+102
+00:03:38,050 --> 00:03:39,070
+on the long options.
+
+103
+00:03:39,670 --> 00:03:41,830
+So by trading an iron condor, we are
+
+104
+00:03:41,830 --> 00:03:43,730
+simply betting that the stock will stay within
+
+105
+00:03:43,730 --> 00:03:46,110
+a certain range and we treat it as
+
+106
+00:03:46,110 --> 00:03:46,750
+one trade.
+
+107
+00:03:47,270 --> 00:03:48,830
+We lost money on the long call and
+
+108
+00:03:48,830 --> 00:03:50,910
+put, but that's exactly what we want to
+
+109
+00:03:50,910 --> 00:03:53,250
+happen, because we simply bought these options as
+
+110
+00:03:53,250 --> 00:03:53,710
+protection.
+
+111
+00:03:54,230 --> 00:03:55,970
+It's kind of like, we pay for car
+
+112
+00:03:55,970 --> 00:03:58,230
+insurance, but we don't actually want to crash
+
+113
+00:03:58,230 --> 00:03:58,790
+our car.
+
+114
+00:03:59,390 --> 00:04:01,030
+So now that you know how we make
+
+115
+00:04:01,030 --> 00:04:02,390
+money on the trade, let me show you
+
+116
+00:04:02,390 --> 00:04:04,050
+how we can lose money and also how
+
+117
+00:04:04,050 --> 00:04:04,890
+much we can lose.
+
+118
+00:04:05,610 --> 00:04:08,050
+Let's say the stock goes crazy and although
+
+119
+00:04:08,050 --> 00:04:10,790
+it was completely unexpected, it goes well outside
+
+120
+00:04:10,790 --> 00:04:12,390
+of our range we wanted it to stay
+
+121
+00:04:12,390 --> 00:04:15,390
+in and ends up at $96 per share.
+
+122
+00:04:15,930 --> 00:04:18,029
+Well we already know that both the long
+
+123
+00:04:18,029 --> 00:04:19,910
+put and the short put are out of
+
+124
+00:04:19,910 --> 00:04:21,070
+the money and are worthless.
+
+125
+00:04:21,590 --> 00:04:23,790
+So we made $200 on the short put
+
+126
+00:04:23,790 --> 00:04:26,230
+and lost $100 on the long put.
+
+127
+00:04:26,530 --> 00:04:28,730
+So this totals to a net profit of
+
+128
+00:04:28,730 --> 00:04:30,470
+$100 on the puts.
+
+129
+00:04:30,870 --> 00:04:32,090
+But what about the calls?
+
+130
+00:04:32,490 --> 00:04:34,950
+The 85 call is 11 points in the
+
+131
+00:04:34,950 --> 00:04:37,390
+money, so it's worth 11, and the 90
+
+132
+00:04:37,390 --> 00:04:39,590
+call is 6 points in the money, so
+
+133
+00:04:39,590 --> 00:04:40,510
+it's worth 6.
+
+134
+00:04:40,930 --> 00:04:43,070
+We are short the 85 call at 2,
+
+135
+00:04:43,270 --> 00:04:45,550
+and it's at 11, so this means we
+
+136
+00:04:45,550 --> 00:04:49,030
+lost 9 points, or $900 on that leg
+
+137
+00:04:49,030 --> 00:04:49,570
+of the trade.
+
+138
+00:04:50,010 --> 00:04:52,650
+So that sucks, but fortunately we bought the
+
+139
+00:04:52,650 --> 00:04:54,190
+90 call for protection.
+
+140
+00:04:54,770 --> 00:04:56,890
+We paid $1 for the 90 call, and
+
+141
+00:04:56,890 --> 00:04:58,470
+it's now trading at 6.
+
+142
+00:04:58,850 --> 00:05:01,270
+So we made $500 on that leg of
+
+143
+00:05:01,270 --> 00:05:01,650
+the trade.
+
+144
+00:05:01,990 --> 00:05:05,230
+This $500 and the $100 we made on
+
+145
+00:05:05,230 --> 00:05:07,150
+the put side cancels out much of the
+
+146
+00:05:07,150 --> 00:05:09,410
+$900 we lost on the short call.
+
+147
+00:05:10,010 --> 00:05:12,010
+Adding up all of these numbers totals to
+
+148
+00:05:12,010 --> 00:05:14,690
+a net loss of $300 on the entire
+
+149
+00:05:14,690 --> 00:05:15,050
+trade.
+
+150
+00:05:15,530 --> 00:05:16,850
+Now this is the cool part.
+
+151
+00:05:17,210 --> 00:05:19,650
+We lost $300 on the entire trade, but
+
+152
+00:05:19,650 --> 00:05:21,850
+that's the maximum amount we can lose on
+
+153
+00:05:21,850 --> 00:05:23,710
+this trade no matter where the stock is.
+
+154
+00:05:23,710 --> 00:05:25,610
+It doesn't matter if the stock goes to
+
+155
+00:05:25,610 --> 00:05:29,930
+104, 25, 0, infinity, whatever the case may
+
+156
+00:05:29,930 --> 00:05:32,810
+be, we can't lose more than $300 on
+
+157
+00:05:32,810 --> 00:05:33,330
+this trade.
+
+158
+00:05:33,710 --> 00:05:35,230
+And the way we end up with this
+
+159
+00:05:35,230 --> 00:05:37,290
+max loss is if the stock is outside
+
+160
+00:05:37,290 --> 00:05:39,950
+of our long option strikes at the expiration
+
+161
+00:05:39,950 --> 00:05:40,310
+date.
+
+162
+00:05:40,710 --> 00:05:42,890
+Now I keep mentioning how we treat this
+
+163
+00:05:42,890 --> 00:05:44,050
+trade as one trade.
+
+164
+00:05:44,450 --> 00:05:46,270
+When we trade an iron condor, we are
+
+165
+00:05:46,270 --> 00:05:48,530
+usually just monitoring the price of the iron
+
+166
+00:05:48,530 --> 00:05:49,550
+condor as a whole.
+
+167
+00:05:49,890 --> 00:05:51,910
+Check out this iron condor we just opened
+
+168
+00:05:51,910 --> 00:05:52,590
+in Facebook.
+
+169
+00:05:52,590 --> 00:05:54,510
+You can see that when we trade an
+
+170
+00:05:54,510 --> 00:05:57,650
+iron condor, the platform automatically calculates everything for
+
+171
+00:05:57,650 --> 00:05:57,950
+us.
+
+172
+00:05:58,450 --> 00:06:00,230
+We are able to see the individual legs
+
+173
+00:06:00,230 --> 00:06:01,910
+of the trade, but we are also able
+
+174
+00:06:01,910 --> 00:06:03,570
+to see the total net prices.
+
+175
+00:06:04,130 --> 00:06:05,890
+In this example, you can see we sold
+
+176
+00:06:05,890 --> 00:06:08,810
+this iron condor at $1.12, it's currently
+
+177
+00:06:08,810 --> 00:06:11,410
+trading at $0.82, and we have a
+
+178
+00:06:11,410 --> 00:06:13,710
+profit of just $30 on the trade.
+
+179
+00:06:14,110 --> 00:06:17,170
+When trading an iron condor, our maximum potential
+
+180
+00:06:17,170 --> 00:06:19,410
+profit is simply the price we sold the
+
+181
+00:06:19,410 --> 00:06:20,350
+iron condor for.
+
+182
+00:06:20,350 --> 00:06:22,850
+In this example, we sold the iron condor
+
+183
+00:06:22,850 --> 00:06:25,350
+for a net price of $2, so our
+
+184
+00:06:25,350 --> 00:06:27,070
+maximum profit is $200.
+
+185
+00:06:27,610 --> 00:06:30,310
+Our maximum loss is simply the width between
+
+186
+00:06:30,310 --> 00:06:33,030
+our short and long strikes minus our net
+
+187
+00:06:33,030 --> 00:06:33,750
+entry price.
+
+188
+00:06:34,070 --> 00:06:36,370
+So in this case, our strikes are 5
+
+189
+00:06:36,370 --> 00:06:38,670
+points wide on both the call and put
+
+190
+00:06:38,670 --> 00:06:39,010
+side.
+
+191
+00:06:39,490 --> 00:06:41,550
+And if we subtract our entry price from
+
+192
+00:06:41,550 --> 00:06:43,530
+that, we get a max loss of 3
+
+193
+00:06:43,530 --> 00:06:44,930
+points, or $300.
+
+194
+00:06:45,550 --> 00:06:48,770
+This $300 is also our capital requirement for
+
+195
+00:06:48,770 --> 00:06:49,190
+the trade.
+
+196
+00:06:49,630 --> 00:06:51,790
+This is the reason the iron condor is
+
+197
+00:06:51,790 --> 00:06:54,430
+so powerful, because we can sell option premium
+
+198
+00:06:54,430 --> 00:06:57,010
+with very little risk, and also without the
+
+199
+00:06:57,010 --> 00:06:58,410
+large capital requirement.
+
+200
+00:06:58,890 --> 00:07:01,090
+Now our break-even prices that we need
+
+201
+00:07:01,090 --> 00:07:03,070
+the stock to stay between is just our
+
+202
+00:07:03,070 --> 00:07:05,570
+entry price plus the short call strike, and
+
+203
+00:07:05,570 --> 00:07:07,850
+on the downside, it's our short put strike
+
+204
+00:07:07,850 --> 00:07:09,410
+minus our entry price.
+
+205
+00:07:09,850 --> 00:07:11,990
+And at the expiration date, if the stock
+
+206
+00:07:11,990 --> 00:07:14,510
+stays within this range, then we make money,
+
+207
+00:07:14,890 --> 00:07:16,730
+and if the stock is outside of this
+
+208
+00:07:16,730 --> 00:07:18,230
+range, then we lose money.
+
+209
+00:07:18,670 --> 00:07:20,170
+And I know this seems like a lot
+
+210
+00:07:20,170 --> 00:07:22,010
+to keep up with, but check this out.
+
+211
+00:07:22,190 --> 00:07:24,790
+Before entering the trade, the thinkorswim platform will
+
+212
+00:07:24,790 --> 00:07:26,850
+calculate all of this information for you.
+
+213
+00:07:27,290 --> 00:07:29,070
+On this pop-up box, you can see
+
+214
+00:07:29,070 --> 00:07:31,170
+your max profit on the trade is $200,
+
+215
+00:07:31,970 --> 00:07:34,650
+your max loss is $300, and the range
+
+216
+00:07:34,650 --> 00:07:36,290
+you need the stock to stay between for
+
+217
+00:07:36,290 --> 00:07:38,470
+you to at least break-even is 63
+
+218
+00:07:38,470 --> 00:07:39,430
+and 87.
+
+219
+00:07:40,030 --> 00:07:42,070
+So before you trade an iron condor, just
+
+220
+00:07:42,070 --> 00:07:43,730
+be sure to check this pop-up box
+
+221
+00:07:43,730 --> 00:07:45,090
+before sending the order.
+
+222
+00:07:45,090 --> 00:07:47,550
+And also, if you are a member of
+
+223
+00:07:47,550 --> 00:07:49,510
+our website, we will help you with your
+
+224
+00:07:49,510 --> 00:07:51,430
+first iron condor trades to make sure you
+
+225
+00:07:51,430 --> 00:07:53,470
+don't click any wrong buttons or mess anything
+
+226
+00:07:53,470 --> 00:07:53,770
+up.
+
+227
+00:07:54,050 --> 00:07:55,510
+Now let me show you how to pull
+
+228
+00:07:55,510 --> 00:07:57,590
+up an order to trade an iron condor.
+
+229
+00:07:57,830 --> 00:07:59,890
+Let's say that we want to collect time
+
+230
+00:07:59,890 --> 00:08:02,590
+decay in Tesla options, but we aren't necessarily
+
+231
+00:08:02,590 --> 00:08:04,290
+bullish or bearish on the stock.
+
+232
+00:08:04,610 --> 00:08:06,490
+To do this, we're going to trade an
+
+233
+00:08:06,490 --> 00:08:09,010
+iron condor, and the strikes we choose are
+
+234
+00:08:09,010 --> 00:08:11,150
+going to give us a neutral stance on
+
+235
+00:08:11,150 --> 00:08:11,670
+the stock.
+
+236
+00:08:12,350 --> 00:08:14,690
+First, before we build the iron condor, we
+
+237
+00:08:14,690 --> 00:08:16,870
+need to add the probability in the money
+
+238
+00:08:16,870 --> 00:08:18,550
+column to our option chain.
+
+239
+00:08:18,950 --> 00:08:20,610
+If you are using a platform that doesn't
+
+240
+00:08:20,610 --> 00:08:22,670
+have this feature, then you can use Delta
+
+241
+00:08:22,670 --> 00:08:23,170
+instead.
+
+242
+00:08:23,530 --> 00:08:25,810
+For this example, we're going to trade an
+
+243
+00:08:25,810 --> 00:08:27,950
+iron condor with 30 days to expiration.
+
+244
+00:08:28,610 --> 00:08:30,790
+You are free to choose whatever expiration you
+
+245
+00:08:30,790 --> 00:08:33,210
+want to trade in, but we prefer to
+
+246
+00:08:33,210 --> 00:08:35,890
+initiate our trades with 30 to 60 days
+
+247
+00:08:35,890 --> 00:08:36,530
+to expiration.
+
+248
+00:08:37,289 --> 00:08:39,789
+Now, for starters, let's find a call with
+
+249
+00:08:39,789 --> 00:08:42,929
+a probability in the money of 13%.
+
+250
+00:08:43,430 --> 00:08:45,630
+That brings us to the 260 call.
+
+251
+00:08:46,150 --> 00:08:47,710
+We're going to right click on the bid,
+
+252
+00:08:48,070 --> 00:08:49,830
+click sell, iron condor.
+
+253
+00:08:50,470 --> 00:08:52,910
+In this case, it defaulted to 5 points
+
+254
+00:08:52,910 --> 00:08:54,570
+wide, which is what we're going to stick
+
+255
+00:08:54,570 --> 00:08:55,550
+with in this example.
+
+256
+00:08:56,030 --> 00:08:58,330
+So you see we're selling the 260 call
+
+257
+00:08:58,330 --> 00:09:00,930
+and buying the 265 call for protection.
+
+258
+00:09:01,390 --> 00:09:03,270
+Now we just have to select our put
+
+259
+00:09:03,270 --> 00:09:03,690
+strikes.
+
+260
+00:09:04,010 --> 00:09:05,790
+Since we want to place a trade that
+
+261
+00:09:05,790 --> 00:09:08,150
+is directionally neutral, we will find a put
+
+262
+00:09:08,150 --> 00:09:09,970
+that has the same probability in the money
+
+263
+00:09:09,970 --> 00:09:11,050
+as our call did.
+
+264
+00:09:11,570 --> 00:09:13,450
+Scrolling up, we can find the put that
+
+265
+00:09:13,450 --> 00:09:15,590
+has a probability in the money of around
+
+266
+00:09:15,590 --> 00:09:16,050
+13.
+
+267
+00:09:16,890 --> 00:09:18,630
+And that brings us to the strike of
+
+268
+00:09:18,630 --> 00:09:21,690
+187.50. So we're just going to adjust
+
+269
+00:09:21,690 --> 00:09:23,830
+the short put strike on our order to
+
+270
+00:09:23,830 --> 00:09:26,750
+187.50 and then adjust the long put
+
+271
+00:09:26,750 --> 00:09:28,810
+to 5 points further out of the money
+
+272
+00:09:28,810 --> 00:09:32,190
+to 182.50. Now, if we click confirm
+
+273
+00:09:32,190 --> 00:09:34,250
+and send, we can see our max profit
+
+274
+00:09:34,250 --> 00:09:35,290
+is $101.
+
+275
+00:09:35,990 --> 00:09:38,130
+Our max loss is $399.
+
+276
+00:09:38,910 --> 00:09:40,950
+And the range we need Tesla to stay
+
+277
+00:09:40,950 --> 00:09:45,530
+between is 186.49 and 261.01. This
+
+278
+00:09:45,530 --> 00:09:47,410
+gives us a nice wide range for us
+
+279
+00:09:47,410 --> 00:09:48,210
+to make a profit.
+
+280
+00:09:48,530 --> 00:09:50,350
+So the trade has a very high probability
+
+281
+00:09:50,350 --> 00:09:52,510
+of success, but it has a poor risk
+
+282
+00:09:52,510 --> 00:09:54,790
+to reward because our max profit is only
+
+283
+00:09:54,790 --> 00:09:57,870
+101 and our max loss is 399.
+
+284
+00:09:57,870 --> 00:10:00,510
+What we could do is just simply move
+
+285
+00:10:00,510 --> 00:10:02,010
+in our strikes a bit.
+
+286
+00:10:02,470 --> 00:10:04,950
+This will lower our probability of success because
+
+287
+00:10:04,950 --> 00:10:07,030
+it will narrow the range we need Tesla
+
+288
+00:10:07,030 --> 00:10:09,250
+to stay within, but in exchange for this,
+
+289
+00:10:09,390 --> 00:10:11,110
+we will collect a bigger credit for the
+
+290
+00:10:11,110 --> 00:10:13,250
+trade which improves our risk to reward.
+
+291
+00:10:13,910 --> 00:10:16,270
+So let's move the strikes in 10 points
+
+292
+00:10:16,270 --> 00:10:17,210
+on both sides.
+
+293
+00:10:18,070 --> 00:10:20,250
+You can see our credit is now 170
+
+294
+00:10:20,250 --> 00:10:21,670
+rather than just 101.
+
+295
+00:10:22,430 --> 00:10:24,890
+Now let's see what this iron condor will
+
+296
+00:10:24,890 --> 00:10:26,790
+be trading at in the future if the
+
+297
+00:10:26,790 --> 00:10:29,490
+stock price and implied volatility doesn't move.
+
+298
+00:10:30,230 --> 00:10:31,770
+To do this, we can just look at
+
+299
+00:10:31,770 --> 00:10:33,690
+the same trade but with only 2 days
+
+300
+00:10:33,690 --> 00:10:35,430
+to expiration rather than 30.
+
+301
+00:10:35,830 --> 00:10:37,610
+So we're just going to change the expiration
+
+302
+00:10:37,610 --> 00:10:40,270
+of our order to the July weekly options
+
+303
+00:10:40,270 --> 00:10:41,650
+that expire in 2 days.
+
+304
+00:10:42,050 --> 00:10:43,750
+You can see the net price of the
+
+305
+00:10:43,750 --> 00:10:45,790
+iron condor is just at 1 cent.
+
+306
+00:10:46,190 --> 00:10:47,470
+We could do one of two things.
+
+307
+00:10:47,590 --> 00:10:49,870
+We could close this position at 1 cent
+
+308
+00:10:49,870 --> 00:10:52,230
+for a profit, or we could try and
+
+309
+00:10:52,230 --> 00:10:54,490
+let the options expire worthless as long as
+
+310
+00:10:54,490 --> 00:10:56,930
+the stock stays still and the options remain
+
+311
+00:10:56,930 --> 00:10:57,670
+out of the money.
+
+312
+00:10:58,090 --> 00:10:59,030
+The choice is yours.
+
+313
+00:10:59,610 --> 00:11:01,350
+And this is just one way to trade
+
+314
+00:11:01,350 --> 00:11:02,350
+the iron condor.
+
+315
+00:11:02,690 --> 00:11:04,810
+There are many variations of the iron condor
+
+316
+00:11:04,810 --> 00:11:06,010
+that you can learn about.
+
+317
+00:11:06,350 --> 00:11:08,150
+We are able to adjust our strike selection
+
+318
+00:11:08,150 --> 00:11:11,470
+and even vary our expirations to achieve different
+
+319
+00:11:11,470 --> 00:11:11,850
+things.
+
+320
+00:11:12,310 --> 00:11:13,870
+If you want to learn about these variations
+
+321
+00:11:13,870 --> 00:11:15,990
+and also see which iron condors we are
+
+322
+00:11:15,990 --> 00:11:17,850
+trading, head over to our website.
+
+323
+00:11:18,230 --> 00:11:20,070
+If you liked this video and want more
+
+324
+00:11:20,070 --> 00:11:22,390
+like it on different trading concepts, be sure
+
+325
+00:11:22,390 --> 00:11:23,990
+to show us your support by clicking the
+
+326
+00:11:23,990 --> 00:11:25,370
+like and subscribe button below.
+
+327
+00:11:25,930 --> 00:11:27,550
+Also check out our website and join our
+
+328
+00:11:27,550 --> 00:11:30,290
+email list for 3 exclusive free videos.
+
+329
+00:11:30,710 --> 00:11:32,970
+We even make a live iron condor trade
+
+330
+00:11:32,970 --> 00:11:33,930
+in the third video.
+
+331
+00:11:34,370 --> 00:11:35,490
+So I will see you there.

@@ -1,0 +1,38 @@
+(0:00 - 0:51)
+I've spent the last year making free games for itch.io, and I'm starting to realize this isn't sustainable. I can't survive off game jams and nice comments. It's time to start making some serious money out of this. 
+
+I wish I was one of the cool indie developers on Steam, but for that you need a unique and cool looking game, and I don't have one. I also need the money before Christmas to be able to buy gifts for my friends and family, so I guess my only option left is a free-to-play casual mobile game. Yeah, this is where the real top dogs operate. 
+
+Fast development cycles, no nonsense game lore, just a raw, simple game loop. After that, you sprinkle your game with some ads and you can now buy all the things your parents wished for Christmas. If you do a little bit of googling, you can see that the mobile game markets make billions of dollars each year.
+
+(0:51 - 2:20)
+Okay, but we still need a game, and I happen to have one in the making as you who watched the last devlog know about. The game is a simple endless runner with a one-touch-and-hold control for the player to make turns, and the only thing to worry about is to not crash into obstacles or going down the slope edge. And since mobile free-to-play games are fairly simple, I think this kind of gameplay can be a perfect fit. 
+
+The game is a mashup of all my favorite aspects with casual free-to-play games, a little bit of chill-vibe from Alto's Adventure, and short game sessions like Jetpack Your Ride or Subway Surfers. Something you can pick up when waiting for the bus, or just give your life a little bit of silver lining when doing your business. A good visual style is important and leads to more downloads on the app stores, and as some of you pointed out in the comments, the colors right now is too bright and a bit hurtful for your eyes. 
+
+So I made a quick mockup for a new background and visual design. I also modeled some new segments for the slope and removed the skiers and replaced them with a ball to save some time. Let me know if you think I should bring back the skiers as skins in future update of the game. 
+
+The game was lacking good sound effects and music, so I went to the best place on the internet for that purpose, freesounds.org, and picked some sounds. I also added relaxing music to get that nice zen atmosphere I was aiming for, and created a Respawn ability to use after a crash. The whole point here is to make money, so we need ads.
+
+(2:21 - 3:12)
+And to not go full on evil I will integrate the ads in a way that they are optional for the player. For this purpose I will only use rewarded ads. Rewarded ads are used to give something in return to the player, like a chance to respawn and keep playing after death or get a new skin or character to play with. 
+
+And this was pretty easily integrated into the game loop with the Unity Ads tool. In this game, since it is an endless runner with a quite steep difficulty curve, the most obvious place for the rewarded ads option are after a crash, and this is where the respawn ability comes into play. So far I have only tested the game on my computer, and since it is supposed to be a mobile game I ported it to Android. 
+
+Luckily this is a very straightforward process in Unity, as surprisingly it worked on my Samsung phone right away. And for all of you poor people with iPhones, sorry, too expensive for my budget. Maybe when the money starts rolling in, I don't know.
+
+(3:12 - 3:59)
+When the complete game loop started to feel somewhat solid, I tweaked the difficulty curve on the obstacle spawning. I may have made the difficulty curve a little bit too steep, cause none of my friends have beaten the 100 meter mark yet, but they are kinda bad at games, and I'm pretty sure that some of you here can beat my personal best at 891 meters. If any one of you do, I will salute you in the next devlog. 
+
+Put your score in the comments and let me know. Alright, everything worked, sort of. Let's upload the game to Google Play Store and start making some money. 
+
+After setting up the developers account on Google Play Store, creating an app icon, gameplay screenshots, feature graphics, I could finally start uploading my game. Or so I thought. What are all those questions? Swastikas or Nazi symbols? Ah wait, I hope I didn't by mistake.
+
+(4:00 - 4:28)
+Sexuality? No, not this time. Terrorists? To have any chance to get some visibility on Google Play Store, I deep dive into the wonderful world of ASO. Just kidding. 
+
+Let's publish and hope for the best. Okay guys, I did my part here. Start downloading the game. 
+
+It's free, and there's a link down below. Leave a nice review for the game on the Google Play Store, and watch some ads. I will share the revenue and the statistics for the app in the next devlog. 
+
+Until then, bye.

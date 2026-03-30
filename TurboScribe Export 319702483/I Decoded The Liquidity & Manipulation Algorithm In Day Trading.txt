@@ -1,0 +1,110 @@
+(0:34 - 0:52)
+Price tends to move from structure to structure, squeezing one side of the market participants most of the time. It rewards one side of the market, while punishing the opposite side of participants. And liquidity clearouts are constant processes observed on the markets every day.
+
+(0:53 - 1:20)
+Today we'll talk about liquidity extraction and you'll finally understand why the market moves against you the moment you enter the market. So if you could, like, subscribe to the channel and stick around for the full video. Regardless of how long you've been trading, at some point you should have questioned the depth of the market you are trading, in other words its liquidity.
+
+(1:20 - 1:49)
+Make no mistake, trading the EURUSD, for example, offers different conditions than trading an instrument like the Canadian dollar versus the New Zealand dollar, or Bitcoin versus Shiba Inu coin, or Tesla versus some random penny stock. Liquidity is the number one element to make a market functionable and competitive. For a market to be rich in liquidity, there must be an ample participation of both buyers and sellers.
+
+(1:50 - 2:08)
+This is why it makes sense for the smart money or the market makers to extract the liquidity from the market. Liquidity hunting is a very common practice. It's nothing more than the art of flushing the losing players out of the market, which are known as weak longs or weak shorts.
+
+(2:13 - 2:38)
+The larger the liquidity zone buildup, the more likely it is for that zone to be targeted by the smart money, especially if it's a counter-trend setup. Often liquidity clearouts will form against the main trend. For example, in an extended bullish trend structure, in a consolidation, you will often see a clearout of highs and a price reversal downwards.
+
+(2:39 - 3:00)
+This is more common in very liquid markets, such as forex or stocks that trade on strong volume. And why is that? Because smart money knows how retail traders think. Smart money knows how retail traders use different indicators, moving averages, candlesticks and chart patterns in their attempt to day trade or scalp the markets.
+
+(3:01 - 3:23)
+Smart money can easily trap retail traders into the market at poor trade locations, and then move against their positions, stopping them out. They know that retail traders are programmed with the phrase, trend is your friend. That's why many clearouts will be formed against the overall trend direction or against overall retail trader participation.
+
+(3:25 - 3:44)
+Here's how liquidity is often positioned around structures in the market. Many traders will use these price levels to place their entries or exits at, but more frequently their exits or stop losses. And these are exactly the zones used by the smart money to trigger a liquidity clearout.
+
+(3:45 - 4:17)
+Institutional players cannot trade the same as the retail trader, because in low liquidity price areas, they might push price too much with large orders. So they use high liquidity zones to put their own large orders in the market, without having too much impact on the price. Clearouts of liquidity are frequent in crypto and forex markets, because a strong trending market attracts many unexperienced traders, who step into margin trading, usually buying around the lows and the highs.
+
+(4:17 - 4:53)
+Since they are unaware of the trap, it's relatively easy for the market maker to replay the pattern repeatedly, stopping the traders with liquidity clearouts. One critical concept for a liquidity clearout is the consistency of structural symmetry. Most targeted clearouts will happen around structures where the price is consistently bouncing from a demand or a support level, or from a resistance or a supply level for multiple times before it actually breaks it.
+
+(4:54 - 5:20)
+So very important, you should focus only on such structures to identify and trade liquidity clearouts. The more bounces in the structure, the better. As time passes, and if price cannot break areas with multiple highs or lows, chances are the liquidity around those price levels will increase with time.
+
+(5:21 - 5:55)
+The more time it passes, the more the liquidity will increase, if major highs and lows don't break. Because of this factor, if you want to trade a liquidity hunt pattern, you should be aware of how time plays a role in consolidating the orders above or under key liquidity zones. Now, a clearout is a liquidation event where the stop losses of buyers or sellers are taken out and the breakout traders are trapped in.
+
+(5:56 - 6:25)
+Liquidity clearout and stop loss hunting are similar concepts. Stop loss hunting can happen around any price or no structure at all, while a liquidity clearout will most of the time happen around dense price structures with multiple bounces. So remember, liquidity clearouts are most common around symmetrical structures, where many traders will watch the same price level or place stop losses around the same price level.
+
+(6:26 - 7:03)
+Therefore, market makers would want to see that lever broken and enter their positions while liquidation is taking place and absorb opposite orders. For retail traders like you and me, the aim should be to spot such potential liquidity zones and join the game of the market maker, and to avoid being a liquidity target. A liquidity clearout should always present itself with a rapid, strong reversal move after a critical low or high is taken out.
+
+(7:04 - 7:35)
+Basically, a rapid rotation of the price back into the structural support or resistance. The speed of the rotation back will usually depend on the market or the liquidity of the market. In some markets, the reversal back might take 15 or 30 minutes, as the smart money needs to collect as many orders as possible over time, while in forex or crypto, the reversal will be much quicker on average, between 1 to 15 minutes, since those markets are much more liquid.
+
+(7:41 - 8:25)
+If the structure is not even on highs or lows positioning, for example, when highs or lows are connected through a trend line instead of a flat line, then the main area to watch is the lowest low or the highest high of the structure, that is, where the majority of condensed stop losses will sit and where breakout traders might initiate other positions. This is the difference between a flat versus a trend line positioning of lows and the importance of the deepest low. No matter how the structure is positioned, the low of the structure will be the key level that the market maker will want to clear out and where the majority of stops will likely sit.
+
+(8:26 - 8:59)
+There's a difference between a targeted and a non-targeted liquidity clearout, meaning triggered by a market maker or triggered by the overall market action. On the left side, we have a targeted attempt and on the right, a non-targeted one. The difference between strong quick moves initiated by the smart money and the move triggered by the overall market action is usually spotted depending on where price starts the actual move and if that move is consistent.
+
+(9:00 - 9:32)
+In the case of a targeted attempt, most of these moves will be initiated in the middle of the structure, where not much liquidity sits. Meanwhile, strong moves triggered by the overall market action are usually going to be on very symmetrical and obvious price extremes. After the liquidity clearout under the lows or above the highs, the price should start reversing back inside the structure relatively quickly.
+
+(9:33 - 9:45)
+Timing is the key. Let's say you're a scalper and you're using the 1-minute chart. My own rule is that it shouldn't take more than 10 1-minute candles for the price to rotate back above support.
+
+(9:46 - 10:02)
+This depends a lot on how big the structure is, how many candles are in each leg of the structure. The more candles per leg, the longer it might take for the liquidity clearout move to happen. But it shouldn't be more than 10 candles.
+
+(10:02 - 10:22)
+In the best scenario, it happens within the first 3-5 candles. Again, it's a relative concept as it scales with the market and the time frame chosen. To trade a liquidity clearout, you need a clear plan to find the pattern.
+
+(10:22 - 10:43)
+Using price alerts is a useful way to support the searching process. The plan is quite simple. Once the potential symmetrical structure is spotted, with variables that fit a potential liquidity clearout, you place an alert below the structural lows or above highs, depending if it's a bull or a bear pattern.
+
+(10:44 - 11:05)
+This is important because once an alert is placed, you can relax and do other stuff and only come back once the alert rings and the price clears the required liquidity area. It's an important tip that helped me a lot. Using price alerts is critical to minimize the screen time and to be more patient and fresh as a trader.
+
+(11:11 - 11:22)
+The key when trading a liquidity hunt is to focus on volume. At the clearout price area, there should be significant volume traded. Let's analyze this liquidity clearout pattern.
+
+(11:22 - 11:34)
+We have a clear downtrend with lower lows and lower highs in the structure. This is our main focus point, the lowest low in the structure. This is where our price alert should be.
+
+(11:35 - 11:54)
+A drop into the lows will usually be initiated by the market maker with a heavy market order that will remove liquidity and swipe price under the lows. Look at the volume traded in the liquidity hunt. It increased considerably once the lowest low in the structure was taken out.
+
+(11:55 - 12:08)
+For an entry, you should wait for the liquidity clearout and then for the price to start moving back above support for a long entry. Your risk should be the lowest low of the clearout. This is where your stop loss should be.
+
+(12:10 - 12:24)
+Here's another liquidity hunt. We first observe a heavy sell-off ahead of the structure. We then find a symmetrical structure with approximately even lows, ensuring even stop loss placement under them.
+
+(12:25 - 12:41)
+High volume on the clearout with the highest volume candle in the whole structure. Volatility on the market is high, meaning we have a wide range. And we have a sharp and quick reversal after the clearout and the reclaim of the previous support.
+
+(12:41 - 13:03)
+So after the liquidity clearout, an important sign should be the volume. The volume traded was the highest 1-minute volume candle inside the whole price structure, as price quickly reclaimed support and then pushed higher. This was a good moment to open a buy position, with the stop loss below the most recent low.
+
+(13:04 - 13:24)
+The key component for trading the clearout is that it has to reclaim the support for a long trade or the resistance for a short trade. If it doesn't reclaim, there is no trade in the first place, it's a breakout. Here's an example with high volume clearout under the lows, as the long traders are stopped out.
+
+(13:25 - 13:39)
+But the price didn't reclaim the support level, thus this is not a long trade. Remember this important point. The faster the price reclaims support and pushes above after the clearout, the better the trade.
+
+(13:39 - 13:58)
+On the best trades, price should reclaim support within the first 5 candles after the clearout. If the structure is not symmetrical, with evenly positioned lows, it's hard to base the entry. That is why I prefer to trade structures that are clean and symmetrical.
+
+(13:59 - 14:09)
+This allows precise entry conditions across all trades. Let's look at this asymmetric structure and clearout. You can observe that the lows are not evenly positioned.
+
+(14:10 - 14:21)
+We even have some higher lows. This is the deepest lower low, the main area that you should wait for. We have the liquidity clearout and the quick reversal after the clearout.
+
+(14:22 - 14:38)
+But now the question is, where's our entry? This isn't so clear like in a symmetrical structure, that's why I prefer the symmetrical ones. If you found value and learned something new, leave us a like. This way we'll know if you'd like to see more videos like this one.
+
+(14:39 - 14:45)
+And check out our academy program if you want to further level up your trading. Until next time.

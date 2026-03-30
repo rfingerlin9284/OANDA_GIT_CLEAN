@@ -1,0 +1,83 @@
+(0:00 - 0:19)
+The Big Short is probably one of the most popular films on the topic of investing. It's a star-studded movie that follows the real story of three groups of people who short, or bet against, the housing market for billions of dollars, right before the 2008 real estate crisis. As you might expect, our heroes end up making quite a bit of money.
+
+(0:19 - 0:38)
+But how exactly does a short work? Well, in the movie, the positions are taken through what are known as swaps, a derivative agreement that is taken with the banks. But for common investors, short positions typically involve individual stocks, making them easy enough to take. But be warned, shorting comes with a lot of risks.
+
+(0:39 - 1:11)
+On top of charging you expenses you don't normally see with standard investing, shorting also offers a skewed payoff, where you face a limited upside and an uncapped downside, meaning you could lose an infinite amount of money, theoretically anyway. So before you decide to short something, let's go over the strategy and the risks involved on today's plain bagel. Shorting, also known as short selling, is a trading strategy where an investor sells a security today and buys it back in the future, hoping that the price of the security will go down.
+
+(1:12 - 1:38)
+It's effectively the opposite approach to a traditional long position, where investors buy today and sell at some point in the future to cash in, hopefully after the price has gone up. It follows the same buy low sell high mentality as long investing, but it just reverses the order of the motto, so investors sell high today and hope that the price will go down so they can buy low in the future. Now, shorting a stock is a bit more complicated than going long on a position.
+
+(1:39 - 1:52)
+So let's go through a running example to explain how the strategy works and the risks it poses. Imagine you have two investors who decide to take opposite positions in plain bagel co. The company's stock currently has a market price of $10.
+
+(1:53 - 2:05)
+Investor A decides to buy 1,000 of these stocks, thereby investing $10,000. While investor B decides to short 1,000 stocks, thereby selling $10,000 worth of the investment. Now, I know what you're thinking.
+
+(2:05 - 2:27)
+How the hell do you sell a stock that you don't own? Well, oftentimes the process involves selling a borrowed security. For example, in a brokerage account, you can often sell a position by borrowing a stock from your broker and then shorting that way, leaving you with the proceeds from the sale. The money you make from the sale obviously doesn't really belong to you, since you sold someone else's stock to get it.
+
+(2:28 - 2:59)
+But eventually, when you buy the security back, known as covering your short, you'll be able to return the stock and keep whatever money is left over, which is how you profit from the trade. So going back to our example, if the stock price falls from $10 to $5, investor A will lose $5,000 while investor B will gain $5,000, since they'll be able to buy the stock back for a lower price and keep the remaining sales proceeds. On the other side of things, if the stock price increases from $10 to $15, investor A will be up $5,000 while investor B will be down $5,000.
+
+(2:59 - 3:13)
+But this raises an interesting question. Up until this point, investor B hasn't actually contributed any of their own money. So how is he going to buy back the stock for more money than what's in the account? Well, this is where the concept of margins come into play.
+
+(3:14 - 3:39)
+You see, to short a position, an investor needs to post what's known as an initial margin of 50% into their account to act as a buffer should the investment lose value. This means that investor B would have contributed $5,000 of his own funds at the beginning of our example to accommodate for any losses. The amount still belongs to the investor, but it's held as collateral by the broker to ensure that investor B can afford to buy back the share in the future.
+
+(3:39 - 4:06)
+Investor B will also be responsible for what are known as margin calls, a process that occurs when the margin becomes insufficient. For example, in the event that the share price rises to $15, investor B would receive a margin call to replenish their cash buffer based on what's known as the maintenance margin, since there's no more wiggle room in the account to accommodate for further losses. So a big difference between shorting and going long a position is that you can only short in a margin account.
+
+(4:06 - 4:16)
+While this has its downsides, it does add leverage to the investor's return. What do I mean by that? Well, let's go back to our example. Let's say that our share price falls from $10 to $5.
+
+(4:17 - 4:51)
+This would lead investor A to lose $5,000 and investor B to gain $5,000. On an absolute basis, these returns equate one another, but on a percentage basis, taking into account margins, they're actually quite different. You see, investor A has lost roughly 50% of their investment, but since investor B has only contributed $5,000 of his own money to this margin account, he's actually gained 100% of his investment, double the percentage of investor A. Because borrowing is involved with shorting, investor B will see his returns amplified, though this goes both ways.
+
+(4:51 - 5:20)
+Percentage losses in the short position will be double what they might have been for investor A. So a decline of 50% for investor A would translate into a 100% decline for investor B. So short positions not only flip the percentage return received by investors, but they also amplify them, both on the way up and the way down. But here's where we get into the distinct disadvantages of a short position. Namely, short positions come with unique costs that a standard long investor won't face.
+
+(5:21 - 5:44)
+For example, if the stock you borrowed pays a dividend, you'll actually need to pay this amount to your broker, meaning that you'll face a cost equal to whatever dividend the stock pays. Short positions also charge investors an interest rate on the value of the stock you borrowed. After all, since you are borrowing and selling someone else's security, you need to compensate them in the same way that you would compensate a bank with interest on a loan.
+
+(5:45 - 6:03)
+Typically, the rate charged on a short position can range anywhere from 2.5 to 20%, but it can be higher for what are known as hard-to-borrow stocks, highly volatile or small-cap positions. So, needless to say, shorting a stock can be quite a bit more expensive than a simple buy. But for the most part, these expenses are fair.
+
+(6:04 - 6:30)
+The interest makes sense since you are taking a leveraged position, and since you are trying to inverse the return of a long position, it's only natural that you pay out the dividend received from the stock. But there are some absolute disadvantages involved with a short strategy, some of which may very well turn you off the idea of ever trying to short a stock. For one, short strategies face what's known as buy-in risk, the chance that a broker will make you prematurely cover your position.
+
+(6:31 - 6:44)
+This can occur for a number of reasons. A broker may need to return a stock to the portfolio they took it from, or the stock may simply see a surge in demand. But the end result is that you may be forced to close your position at any time.
+
+(6:44 - 7:05)
+This is a pretty significant drawback, especially when it comes to waiting out market volatility. In our example, perhaps investor B is confident that certain factors, whether it be regulation or technological change, will cause the stock to crash in two years' time. But if the price surges in the near term, they may be forced to realize a loss even if they end up being right.
+
+(7:05 - 7:39)
+On top of this, when shorting a position, you may experience what's known as a short squeeze, when a heavily shorted stock sees its price surge because the investors shorting the stock need to cover their position. Since investors who short sell have an appropriately shorter time horizon than long investors, there's a chance that they buy back the stock around the same time, which can lead to a surge in the price and make it harder for you to cover your own position without realizing a loss. So, as you can see, there are some distinct disadvantages with shorting a position, which alone may lead you to stay away.
+
+(7:40 - 7:54)
+But perhaps the biggest risk with short positions has to do with their skewed payoff. With our two investors longing in shorting the $10 stock, we face two risk-reward profiles. On the one hand, investor A can theoretically earn an infinitely high return.
+
+(7:55 - 8:16)
+The $10,000 investment in the $10 stock could double, triple, quadruple in value as the stock price climbs to $20, $30, $40 or higher. On the downside, the most she can lose is the money she's invested, the $10,000, which would only happen if the stock fell to zero, a pretty drastic outcome. Now, investor B actually flips the risk-reward here.
+
+(8:17 - 8:40)
+If the stock drops down to zero, ignoring fees, they can achieve a 200% return since they are able to keep the $10,000 profits from their $5,000 investment. On the other hand, if the stock instead climbs to $20, $30, $40 or higher, they can lose 200%, 400%, 600% or more. This means that you can lose a lot more money than what you've initially invested.
+
+(8:40 - 8:51)
+And indeed, this very feature has had devastating impacts on investors. This is why many investors tend to stick with long-only positions. For many, the return is simply not worth the risk.
+
+(8:51 - 9:07)
+And on top of the fact that you're going against the natural upward bias of stocks, you're more or less betting against a company that is actively trying to prove you wrong. Short selling certainly does play an important role in the world of investments. And indeed, you can make a lot of money by placing a short bet against a deteriorating stock.
+
+(9:07 - 9:14)
+But if you're looking to speculate with short selling, tread lightly. You may end up buying off a lot more than you can chew. Thanks for watching.
+
+(9:14 - 9:20)
+If you like this video, make sure to hit the like button. And if you like what we're doing here, make sure to subscribe. Hit the bell icon if you want notifications about future videos.
+
+(9:21 - 9:28)
+If you have any feedback or topics you want me to cover in a future video, leave a comment down below. For The Plain Bagel, my name is Richard Coffin. Thanks for joining me today.

@@ -1,0 +1,587 @@
+1
+00:00:00,330 --> 00:00:02,150
+You can do some crazy stuff with options,
+
+2
+00:00:02,310 --> 00:00:04,050
+like $10K to $90K.
+
+3
+00:00:04,450 --> 00:00:07,450
+Zero days to expiration options, or Zero DTE,
+
+4
+00:00:07,730 --> 00:00:09,990
+have exploded in popularity in the last year.
+
+5
+00:00:10,470 --> 00:00:12,430
+They allow investors to bet on stock market
+
+6
+00:00:12,430 --> 00:00:14,770
+moves within the same day, which can result
+
+7
+00:00:14,770 --> 00:00:16,890
+in big wins and big losses.
+
+8
+00:00:17,250 --> 00:00:19,230
+This is one of the biggest shifts I've
+
+9
+00:00:19,230 --> 00:00:21,170
+seen in markets of the past decade.
+
+10
+00:00:21,530 --> 00:00:24,030
+Here's why Zero DTE options have taken off,
+
+11
+00:00:24,190 --> 00:00:26,070
+despite being some of the riskiest in the
+
+12
+00:00:26,070 --> 00:00:26,710
+entire market.
+
+13
+00:00:27,870 --> 00:00:30,230
+So I got into Zero DTE in 2020,
+
+14
+00:00:30,610 --> 00:00:31,689
+during the whole lockdown.
+
+15
+00:00:32,150 --> 00:00:35,290
+Drayson Little graduated from college in 2021 and
+
+16
+00:00:35,290 --> 00:00:37,410
+has been trading options full-time for about
+
+17
+00:00:37,410 --> 00:00:37,770
+a year.
+
+18
+00:00:38,490 --> 00:00:40,250
+He lives in Las Vegas, so his day
+
+19
+00:00:40,250 --> 00:00:43,270
+typically starts around 5.30am, an hour before
+
+20
+00:00:43,270 --> 00:00:45,110
+the market opens on the East Coast.
+
+21
+00:00:45,350 --> 00:00:47,310
+First things first is I'll head over to
+
+22
+00:00:47,310 --> 00:00:49,330
+Twitter, that's where I get all my news.
+
+23
+00:00:50,090 --> 00:00:52,390
+On big news days, like when inflation data
+
+24
+00:00:52,390 --> 00:00:54,510
+is released, he says it's easier to spot
+
+25
+00:00:54,510 --> 00:00:55,530
+a trend in the market.
+
+26
+00:00:55,530 --> 00:00:57,950
+You can see a massive move into and
+
+27
+00:00:57,950 --> 00:00:59,050
+from that PCE number.
+
+28
+00:00:59,330 --> 00:01:01,130
+Which he says is the best time to
+
+29
+00:01:01,130 --> 00:01:02,130
+trade Zero DTE.
+
+30
+00:01:02,390 --> 00:01:04,090
+In one minute, I had made $100.
+
+31
+00:01:04,950 --> 00:01:07,030
+He says he usually bets a few thousand
+
+32
+00:01:07,030 --> 00:01:07,930
+dollars per trade.
+
+33
+00:01:08,350 --> 00:01:10,170
+One of his biggest one-day profits was
+
+34
+00:01:10,170 --> 00:01:13,190
+about $14,000, and biggest loss was about
+
+35
+00:01:13,190 --> 00:01:13,810
+$12,000.
+
+36
+00:01:14,410 --> 00:01:17,330
+It's like euphoria, it's like winning a lottery.
+
+37
+00:01:17,550 --> 00:01:18,830
+But then you also have your crazy lows.
+
+38
+00:01:19,230 --> 00:01:21,950
+Zero DTE options expire the same day they're
+
+39
+00:01:21,950 --> 00:01:23,490
+purchased, which is why...
+
+40
+00:01:23,490 --> 00:01:25,730
+They are some of the most sensitive to
+
+41
+00:01:25,730 --> 00:01:27,710
+changes in the stock's price.
+
+42
+00:01:28,130 --> 00:01:29,750
+So that's why you can see them zip
+
+43
+00:01:29,750 --> 00:01:32,250
+higher or crash incredibly quickly.
+
+44
+00:01:32,870 --> 00:01:34,550
+But that's also part of the reason they're
+
+45
+00:01:34,550 --> 00:01:35,710
+so appealing to traders.
+
+46
+00:01:36,050 --> 00:01:37,710
+Your upside potential is infinite.
+
+47
+00:01:37,870 --> 00:01:39,630
+It can be 500%, it can be 1
+
+48
+00:01:39,630 --> 00:01:40,510
+,000%.
+
+49
+00:01:40,510 --> 00:01:43,090
+Traders are also drawn to Zero DTE options
+
+50
+00:01:43,090 --> 00:01:45,630
+because they're cheaper than longer-dated contracts.
+
+51
+00:01:46,350 --> 00:01:46,730
+But...
+
+52
+00:01:46,730 --> 00:01:48,890
+Often the odds are stacked against you.
+
+53
+00:01:49,030 --> 00:01:51,210
+A lot of these retail traders do end
+
+54
+00:01:51,210 --> 00:01:52,110
+up losing a lot of money.
+
+55
+00:01:52,110 --> 00:01:55,270
+Drayson says some of his biggest losses occurred
+
+56
+00:01:55,270 --> 00:01:56,630
+in his first year of trading.
+
+57
+00:01:57,050 --> 00:01:59,710
+I think I probably lost at the time
+
+58
+00:01:59,710 --> 00:02:03,530
+during 2020 upwards of like $65,000.
+
+59
+00:02:04,310 --> 00:02:05,570
+And this was when I was a full
+
+60
+00:02:05,570 --> 00:02:08,090
+-time student, I was an entrepreneur before, I
+
+61
+00:02:08,090 --> 00:02:10,470
+had made some money from e-commerce.
+
+62
+00:02:10,930 --> 00:02:12,870
+I lost 20-30% of it.
+
+63
+00:02:13,290 --> 00:02:16,370
+And it just feels really bad, to be
+
+64
+00:02:16,370 --> 00:02:16,750
+honest with you.
+
+65
+00:02:17,410 --> 00:02:19,590
+But he says the possibility of big wins
+
+66
+00:02:19,590 --> 00:02:20,930
+enticed him to keep trading.
+
+67
+00:02:20,930 --> 00:02:23,390
+The thing is, with a 9-to-5,
+
+68
+00:02:23,590 --> 00:02:24,470
+it's not scalable.
+
+69
+00:02:25,010 --> 00:02:26,950
+You only make so much during these hours
+
+70
+00:02:26,950 --> 00:02:30,550
+compared to trading, where you take one crazy
+
+71
+00:02:30,550 --> 00:02:33,190
+trade, like just one trade, and you make
+
+72
+00:02:33,190 --> 00:02:33,790
+a million dollars.
+
+73
+00:02:34,250 --> 00:02:36,450
+This type of options trading has long been
+
+74
+00:02:36,450 --> 00:02:39,770
+reserved for professionals with sophisticated technology and tools.
+
+75
+00:02:40,030 --> 00:02:42,150
+But in the last few years, retail traders
+
+76
+00:02:42,150 --> 00:02:44,410
+have played a big role in driving Zero
+
+77
+00:02:44,410 --> 00:02:46,710
+DTE trading volumes to record highs.
+
+78
+00:02:46,850 --> 00:02:49,170
+It's really become a viral phenomenon.
+
+79
+00:02:49,170 --> 00:02:51,770
+You know, when I was looking at hashtags
+
+80
+00:02:51,770 --> 00:02:54,690
+for Zero DTE online, there are tens of
+
+81
+00:02:54,690 --> 00:02:57,530
+thousands of mentions of Zero DTE just this
+
+82
+00:02:57,530 --> 00:02:58,050
+year alone.
+
+83
+00:02:58,350 --> 00:03:00,030
+A few years ago, there were no such
+
+84
+00:03:00,030 --> 00:03:00,530
+mentions.
+
+85
+00:03:01,070 --> 00:03:03,110
+Part of the reason is that options exchanges
+
+86
+00:03:03,110 --> 00:03:06,070
+expanded Zero DTE contracts to every day of
+
+87
+00:03:06,070 --> 00:03:08,170
+the week last year to capitalize on this
+
+88
+00:03:08,170 --> 00:03:08,430
+boom.
+
+89
+00:03:08,930 --> 00:03:11,990
+And that just unleashed a frenzy of activity.
+
+90
+00:03:12,450 --> 00:03:14,230
+And traders I was talking to were saying,
+
+91
+00:03:14,370 --> 00:03:16,970
+we've never seen something take off the way
+
+92
+00:03:16,970 --> 00:03:18,490
+Zero DTE trading has.
+
+93
+00:03:18,490 --> 00:03:21,110
+Many of these retail traders started with meme
+
+94
+00:03:21,110 --> 00:03:21,510
+stocks.
+
+95
+00:03:21,670 --> 00:03:23,670
+This is really the continuation of a trend
+
+96
+00:03:23,670 --> 00:03:26,110
+the past few years, as more people have
+
+97
+00:03:26,110 --> 00:03:28,050
+entered markets, where they want to bet on
+
+98
+00:03:28,050 --> 00:03:29,290
+sports, they want to bet at the casino,
+
+99
+00:03:29,870 --> 00:03:31,350
+and they also want to bet on stocks.
+
+100
+00:03:31,650 --> 00:03:34,070
+But some experts think all this betting could
+
+101
+00:03:34,070 --> 00:03:35,390
+mean trouble for the market.
+
+102
+00:03:35,750 --> 00:03:37,370
+There's a lot of concern from a lot
+
+103
+00:03:37,370 --> 00:03:40,510
+of industry analysts and pundits that suggest that
+
+104
+00:03:40,510 --> 00:03:42,490
+Zero DTE could kind of bring about an
+
+105
+00:03:42,490 --> 00:03:43,910
+end of day scenario in markets.
+
+106
+00:03:44,190 --> 00:03:46,750
+That's because when professional traders buy or sell
+
+107
+00:03:46,750 --> 00:03:49,530
+options, they also buy or sell stocks to
+
+108
+00:03:49,530 --> 00:03:50,470
+hedge their positions.
+
+109
+00:03:50,870 --> 00:03:53,750
+That creates worries that if there is a
+
+110
+00:03:53,750 --> 00:03:55,750
+big move in the market, and all of
+
+111
+00:03:55,750 --> 00:03:57,550
+a sudden someone's doing a ton of buying
+
+112
+00:03:57,550 --> 00:04:01,410
+and selling of options, that could ripple over
+
+113
+00:04:01,410 --> 00:04:02,530
+into the stock market.
+
+114
+00:04:02,910 --> 00:04:05,210
+For example, during the meme stock mania, there
+
+115
+00:04:05,210 --> 00:04:08,230
+were concerns that options activity was exacerbating the
+
+116
+00:04:08,230 --> 00:04:08,670
+volatility.
+
+117
+00:04:09,070 --> 00:04:10,510
+I think a lot of the fear now
+
+118
+00:04:10,510 --> 00:04:13,790
+is that Zero DTE volumes will put the
+
+119
+00:04:13,790 --> 00:04:15,269
+market in the same position.
+
+120
+00:04:15,269 --> 00:04:16,570
+The odds of that happening is a lot
+
+121
+00:04:16,570 --> 00:04:19,390
+lower than in a situation like GameStop or
+
+122
+00:04:19,390 --> 00:04:19,910
+meme mania.
+
+123
+00:04:20,329 --> 00:04:22,690
+While this concern is hotly debated on Wall
+
+124
+00:04:22,690 --> 00:04:26,050
+Street, Kochuba says Zero DTE options have become
+
+125
+00:04:26,050 --> 00:04:28,030
+such a large part of trading that when
+
+126
+00:04:28,030 --> 00:04:30,270
+there's an unexplainable move in the market...
+
+127
+00:04:30,270 --> 00:04:32,090
+You can look at the Zero DTE volumes
+
+128
+00:04:32,090 --> 00:04:34,830
+and movement in Zero DTE and understand that
+
+129
+00:04:34,830 --> 00:04:36,910
+this could be driving those strange behaviors.
+
+130
+00:04:37,510 --> 00:04:38,810
+I wouldn't regret anything.
+
+131
+00:04:39,010 --> 00:04:41,650
+I honestly find it has taught me a
+
+132
+00:04:41,650 --> 00:04:44,430
+lot more things and has leveled me up
+
+133
+00:04:44,430 --> 00:04:47,150
+as a person rather than pull me down.
+
+134
+00:04:47,590 --> 00:04:49,350
+With the money he made from trading, he
+
+135
+00:04:49,350 --> 00:04:50,770
+says he was able to buy...
+
+136
+00:04:50,770 --> 00:04:52,810
+One of my dream cars, the AMG GTR.
+
+137
+00:04:53,630 --> 00:04:55,710
+Get back to my family, travel around the
+
+138
+00:04:55,710 --> 00:04:55,970
+world.
+
+139
+00:04:56,230 --> 00:04:58,990
+And then I bought a Rolex, so that
+
+140
+00:04:58,990 --> 00:04:59,690
+was pretty cool.
+
+141
+00:05:00,050 --> 00:05:01,890
+He says his goal for next year is
+
+142
+00:05:01,890 --> 00:05:04,250
+to make six figures every month and launch
+
+143
+00:05:04,250 --> 00:05:05,430
+an options trading course.
+
+144
+00:05:05,750 --> 00:05:07,010
+You're going to have your lows, you're going
+
+145
+00:05:07,010 --> 00:05:08,730
+to have your highs, but as long as
+
+146
+00:05:08,730 --> 00:05:10,910
+you just keep moving forward, you'll eventually get
+
+147
+00:05:10,910 --> 00:05:11,370
+to your end goal.

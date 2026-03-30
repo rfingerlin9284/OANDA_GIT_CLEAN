@@ -1,0 +1,2599 @@
+1
+00:00:00,270 --> 00:00:00,630
+That's right guys.
+
+2
+00:00:00,710 --> 00:00:02,650
+In this video, we're gonna learn how to
+
+3
+00:00:02,650 --> 00:00:04,890
+evaluate a trading strategy based on the numbers
+
+4
+00:00:04,890 --> 00:00:05,750
+from trading view.
+
+5
+00:00:06,010 --> 00:00:07,830
+You're gonna learn which numbers are good, which
+
+6
+00:00:07,830 --> 00:00:10,090
+numbers are bad, which strategies to stay away
+
+7
+00:00:10,090 --> 00:00:12,390
+from and of course how to compare them
+
+8
+00:00:12,390 --> 00:00:13,190
+against each other.
+
+9
+00:00:13,450 --> 00:00:15,010
+You guys are creating a lot of trading
+
+10
+00:00:15,010 --> 00:00:16,830
+strategies now that you know how to do
+
+11
+00:00:16,830 --> 00:00:17,850
+it with AI.
+
+12
+00:00:18,210 --> 00:00:19,750
+My previous videos went through the roof.
+
+13
+00:00:19,950 --> 00:00:22,010
+As you know, that's why you subscribe to
+
+14
+00:00:22,010 --> 00:00:22,370
+this channel.
+
+15
+00:00:22,550 --> 00:00:23,910
+Now the next level, right?
+
+16
+00:00:24,050 --> 00:00:25,610
+The next stage that you have to reach
+
+17
+00:00:25,610 --> 00:00:28,030
+is how to compare these trading strategies with
+
+18
+00:00:28,030 --> 00:00:29,950
+each other based on the numbers you're getting.
+
+19
+00:00:30,330 --> 00:00:32,150
+And guys, having these numbers is actually a
+
+20
+00:00:32,150 --> 00:00:32,490
+blessing.
+
+21
+00:00:32,730 --> 00:00:33,650
+It's very nice, right?
+
+22
+00:00:33,710 --> 00:00:35,830
+Because you were having no numbers at all.
+
+23
+00:00:35,950 --> 00:00:37,590
+Before that, you were using indicators.
+
+24
+00:00:37,890 --> 00:00:39,150
+Okay, now you're using strategies.
+
+25
+00:00:39,590 --> 00:00:40,050
+Okay, cool.
+
+26
+00:00:40,210 --> 00:00:41,910
+So you made the step from indicators to
+
+27
+00:00:41,910 --> 00:00:42,290
+strategies.
+
+28
+00:00:42,710 --> 00:00:42,830
+Great.
+
+29
+00:00:43,130 --> 00:00:43,330
+Congratulations.
+
+30
+00:00:43,830 --> 00:00:45,210
+But now you need to also be able
+
+31
+00:00:45,210 --> 00:00:47,230
+to use these numbers to make a decision,
+
+32
+00:00:47,350 --> 00:00:47,590
+right?
+
+33
+00:00:47,710 --> 00:00:49,930
+I'm gonna show you exactly how to do
+
+34
+00:00:49,930 --> 00:00:50,730
+that in this video.
+
+35
+00:00:50,850 --> 00:00:53,110
+We're gonna look at max drawdown, profit factor,
+
+36
+00:00:53,510 --> 00:00:56,030
+percent profitable trades, net profit and other numbers.
+
+37
+00:00:56,030 --> 00:00:58,230
+And we're gonna use some very simple mathematics,
+
+38
+00:00:58,250 --> 00:00:59,290
+which you're gonna learn.
+
+39
+00:00:59,510 --> 00:01:00,890
+And then you can do the same as
+
+40
+00:01:00,890 --> 00:01:01,250
+I do.
+
+41
+00:01:01,570 --> 00:01:03,910
+You can evaluate trading strategies against each other
+
+42
+00:01:03,910 --> 00:01:05,050
+very, very easily.
+
+43
+00:01:05,310 --> 00:01:07,110
+And thanks again for the massive support that
+
+44
+00:01:07,110 --> 00:01:07,730
+you give me, guys.
+
+45
+00:01:07,870 --> 00:01:09,550
+I appreciate each and every one of you,
+
+46
+00:01:09,690 --> 00:01:11,590
+which is why I urge you to come
+
+47
+00:01:11,590 --> 00:01:12,670
+to the Telegram group.
+
+48
+00:01:12,790 --> 00:01:13,690
+The link is down below.
+
+49
+00:01:13,810 --> 00:01:15,670
+It's fully free because I can give you
+
+50
+00:01:15,670 --> 00:01:16,730
+even more value, right?
+
+51
+00:01:16,870 --> 00:01:18,230
+You come to the group, you ask your
+
+52
+00:01:18,230 --> 00:01:21,450
+questions, you learn more about strategies, automation, numbers,
+
+53
+00:01:21,690 --> 00:01:22,470
+all of that, right?
+
+54
+00:01:22,470 --> 00:01:23,610
+And we help each other there.
+
+55
+00:01:24,010 --> 00:01:26,090
+We even have people that started to help
+
+56
+00:01:26,090 --> 00:01:26,710
+other people.
+
+57
+00:01:26,830 --> 00:01:27,510
+It's not just me.
+
+58
+00:01:27,830 --> 00:01:29,590
+Speaking of which, I want to mention these
+
+59
+00:01:29,590 --> 00:01:32,350
+awesome people, which are in Telegram helping other
+
+60
+00:01:32,350 --> 00:01:33,790
+people all the time.
+
+61
+00:01:34,150 --> 00:01:35,810
+And I'm very much appreciative of that.
+
+62
+00:01:35,970 --> 00:01:37,070
+I think everyone else is.
+
+63
+00:01:37,450 --> 00:01:39,470
+So thank you very much for being there.
+
+64
+00:01:39,710 --> 00:01:40,670
+You guys are awesome.
+
+65
+00:01:40,850 --> 00:01:42,290
+And if you want a shout out, then
+
+66
+00:01:42,290 --> 00:01:44,470
+just simply be helpful to other people and
+
+67
+00:01:44,470 --> 00:01:45,810
+you will make it in my next video.
+
+68
+00:01:45,970 --> 00:01:47,430
+So it's a great group for that.
+
+69
+00:01:47,550 --> 00:01:48,910
+It's not for trading signals.
+
+70
+00:01:48,910 --> 00:01:49,210
+Okay.
+
+71
+00:01:49,370 --> 00:01:51,110
+Don't come and expect buy this coin or
+
+72
+00:01:51,110 --> 00:01:51,450
+something.
+
+73
+00:01:51,450 --> 00:01:51,990
+Not that.
+
+74
+00:01:52,170 --> 00:01:52,270
+Okay.
+
+75
+00:01:52,310 --> 00:01:53,430
+Go somewhere else for that.
+
+76
+00:01:53,670 --> 00:01:56,370
+Here we're learning about trading strategies and how
+
+77
+00:01:56,370 --> 00:01:58,870
+to apply them, how to automate them and
+
+78
+00:01:58,870 --> 00:02:00,990
+how to increase our chances of success.
+
+79
+00:02:01,270 --> 00:02:03,450
+Having said that, this is not financial advice.
+
+80
+00:02:03,770 --> 00:02:04,350
+Crypto is risky.
+
+81
+00:02:04,530 --> 00:02:06,490
+You can lose all of your money, but
+
+82
+00:02:06,490 --> 00:02:08,190
+that is why you subscribe to this channel.
+
+83
+00:02:08,630 --> 00:02:10,130
+You click the bell and you make sure
+
+84
+00:02:10,130 --> 00:02:12,790
+to watch all of my educational videos because
+
+85
+00:02:12,790 --> 00:02:16,310
+only then your chances of making money are
+
+86
+00:02:16,310 --> 00:02:17,430
+at an all time high.
+
+87
+00:02:17,630 --> 00:02:19,350
+And with all of that in mind, let's
+
+88
+00:02:19,350 --> 00:02:19,910
+get started.
+
+89
+00:02:20,430 --> 00:02:22,530
+All right, guys, on the chart behind me,
+
+90
+00:02:22,650 --> 00:02:24,650
+you can see the following strategies that I
+
+91
+00:02:24,650 --> 00:02:26,390
+have prepared for you to go through in
+
+92
+00:02:26,390 --> 00:02:26,910
+this video.
+
+93
+00:02:27,050 --> 00:02:28,170
+We're going to look at the Gaussian channel
+
+94
+00:02:28,170 --> 00:02:28,490
+strategy.
+
+95
+00:02:28,710 --> 00:02:30,490
+We're going to look at also the improved
+
+96
+00:02:30,490 --> 00:02:32,990
+Gaussian channel strategy for my previous video where
+
+97
+00:02:32,990 --> 00:02:35,850
+I used AI to add the stochastic RSI
+
+98
+00:02:35,850 --> 00:02:37,810
+to improve a lot of the numbers.
+
+99
+00:02:38,310 --> 00:02:39,330
+We're going to look at the whole suit
+
+100
+00:02:39,330 --> 00:02:39,770
+strategy.
+
+101
+00:02:40,130 --> 00:02:41,570
+We're going to look at the huddle strategy
+
+102
+00:02:41,970 --> 00:02:43,650
+and also we're going to look at my
+
+103
+00:02:43,650 --> 00:02:46,550
+strategy just for comparison, not in detail.
+
+104
+00:02:46,850 --> 00:02:46,950
+Okay.
+
+105
+00:02:46,950 --> 00:02:48,250
+So we're going to go through all of
+
+106
+00:02:48,250 --> 00:02:49,350
+that and we're going to look at the
+
+107
+00:02:49,350 --> 00:02:51,910
+numbers and then figure out which strategy is
+
+108
+00:02:51,910 --> 00:02:52,530
+the best one.
+
+109
+00:02:52,630 --> 00:02:54,310
+Of course, all of that based on numbers
+
+110
+00:02:54,310 --> 00:02:55,770
+and not based on my opinion.
+
+111
+00:02:56,090 --> 00:02:56,490
+Let's go.
+
+112
+00:02:56,730 --> 00:02:56,870
+Okay.
+
+113
+00:02:56,930 --> 00:02:58,770
+I put myself here onto the bottom right
+
+114
+00:02:58,770 --> 00:03:00,430
+so that you can see the whole chart.
+
+115
+00:03:00,570 --> 00:03:02,310
+You can see all of the relevant numbers.
+
+116
+00:03:02,750 --> 00:03:04,050
+And the first number I want to talk
+
+117
+00:03:04,050 --> 00:03:06,210
+about is the max drawdown.
+
+118
+00:03:06,330 --> 00:03:08,210
+The first number I look at whenever I
+
+119
+00:03:08,210 --> 00:03:10,250
+put a strategy on the chart is the
+
+120
+00:03:10,250 --> 00:03:10,950
+max drawdown.
+
+121
+00:03:11,090 --> 00:03:13,410
+If the max drawdown guys is too high,
+
+122
+00:03:13,410 --> 00:03:15,510
+I don't care about this strategy.
+
+123
+00:03:15,750 --> 00:03:17,690
+In this case, it's 30%, but too high
+
+124
+00:03:17,690 --> 00:03:19,510
+is 50% or more.
+
+125
+00:03:19,750 --> 00:03:22,130
+Okay guys, so if it's more than 50%,
+
+126
+00:03:22,130 --> 00:03:25,270
+that means that my portfolio might end up
+
+127
+00:03:25,270 --> 00:03:27,650
+being 50% worth less money than before.
+
+128
+00:03:27,770 --> 00:03:28,490
+That is not good.
+
+129
+00:03:28,790 --> 00:03:28,890
+Okay.
+
+130
+00:03:29,090 --> 00:03:31,170
+So because the max drawdown is not the
+
+131
+00:03:31,170 --> 00:03:33,730
+max loss, that's true, but it could end
+
+132
+00:03:33,730 --> 00:03:35,330
+up in a loss and I don't want
+
+133
+00:03:35,330 --> 00:03:36,190
+to take the risk.
+
+134
+00:03:36,370 --> 00:03:39,430
+Remember guys, that trading and investing is always
+
+135
+00:03:39,430 --> 00:03:40,890
+about risk and reward.
+
+136
+00:03:41,210 --> 00:03:42,610
+So you cannot only look at the net
+
+137
+00:03:42,610 --> 00:03:42,970
+profit.
+
+138
+00:03:43,410 --> 00:03:44,070
+That's the reward.
+
+139
+00:03:44,290 --> 00:03:45,870
+You have to also always look at the
+
+140
+00:03:45,870 --> 00:03:47,790
+risk and you have to create a ratio,
+
+141
+00:03:48,010 --> 00:03:48,430
+hint, hint.
+
+142
+00:03:48,710 --> 00:03:49,790
+I'm going to show you how to do
+
+143
+00:03:49,790 --> 00:03:50,830
+that in this video.
+
+144
+00:03:51,290 --> 00:03:51,390
+Okay.
+
+145
+00:03:51,510 --> 00:03:53,330
+So 30% is fine because it's below
+
+146
+00:03:53,330 --> 00:03:53,750
+50.
+
+147
+00:03:53,910 --> 00:03:54,490
+Very simple.
+
+148
+00:03:54,710 --> 00:03:55,810
+So that's rule number one.
+
+149
+00:03:55,990 --> 00:03:57,590
+Rule number two is to look at the
+
+150
+00:03:57,590 --> 00:03:59,810
+net profit and the net profit is the
+
+151
+00:03:59,810 --> 00:04:02,210
+other part of the risk reward formula, right?
+
+152
+00:04:02,570 --> 00:04:03,630
+So it makes money.
+
+153
+00:04:03,710 --> 00:04:04,310
+Okay, cool.
+
+154
+00:04:04,470 --> 00:04:05,050
+It makes money.
+
+155
+00:04:05,150 --> 00:04:07,010
+But now the question is, does it make
+
+156
+00:04:07,010 --> 00:04:09,070
+enough money for the risk I'm taking?
+
+157
+00:04:09,070 --> 00:04:09,650
+Okay.
+
+158
+00:04:09,890 --> 00:04:11,510
+And I'm not talking about profit factor.
+
+159
+00:04:11,590 --> 00:04:12,550
+That's a different topic.
+
+160
+00:04:12,850 --> 00:04:12,950
+Okay.
+
+161
+00:04:13,170 --> 00:04:15,769
+So max drawdown and net profit are in
+
+162
+00:04:15,769 --> 00:04:18,110
+somehow in a relationship with each other, right?
+
+163
+00:04:18,230 --> 00:04:19,430
+But what is the relationship?
+
+164
+00:04:19,690 --> 00:04:20,850
+Well, it's very simple.
+
+165
+00:04:21,070 --> 00:04:22,830
+Let me put myself here and explain.
+
+166
+00:04:23,270 --> 00:04:25,090
+So what I do guys, right?
+
+167
+00:04:25,270 --> 00:04:27,190
+I take the net profit percentage.
+
+168
+00:04:27,190 --> 00:04:28,930
+I take the percentage because then it doesn't
+
+169
+00:04:28,930 --> 00:04:31,050
+matter how much money you invest and this
+
+170
+00:04:31,050 --> 00:04:31,830
+will always work.
+
+171
+00:04:32,090 --> 00:04:35,470
+So you take the 1,894.9. So
+
+172
+00:04:35,470 --> 00:04:39,770
+let's round up to 1,895 and we
+
+173
+00:04:39,770 --> 00:04:41,990
+divide it by 30 and then you get
+
+174
+00:04:41,990 --> 00:04:43,810
+a ratio of about 63.
+
+175
+00:04:44,410 --> 00:04:44,510
+Okay.
+
+176
+00:04:44,510 --> 00:04:46,310
+So remember that number because we're going to
+
+177
+00:04:46,310 --> 00:04:48,270
+do the same for other strategies and then
+
+178
+00:04:48,270 --> 00:04:49,890
+we can rank them based on that.
+
+179
+00:04:50,050 --> 00:04:51,550
+That's not the only number, but we can
+
+180
+00:04:51,550 --> 00:04:52,790
+rank them based on that as well.
+
+181
+00:04:53,010 --> 00:04:55,630
+So that is the next thing that you
+
+182
+00:04:55,630 --> 00:04:56,270
+have to do.
+
+183
+00:04:56,490 --> 00:04:57,510
+That's rule number three.
+
+184
+00:04:57,970 --> 00:04:58,070
+Okay.
+
+185
+00:04:58,470 --> 00:05:00,930
+So you had the max drawdown by itself,
+
+186
+00:05:01,250 --> 00:05:03,350
+the net profit by itself, and now the
+
+187
+00:05:03,350 --> 00:05:04,910
+ratio of those two, right?
+
+188
+00:05:05,110 --> 00:05:05,330
+Nice.
+
+189
+00:05:05,610 --> 00:05:07,370
+So we're making progress, but the next thing
+
+190
+00:05:07,370 --> 00:05:09,310
+I want to tell you is actually something
+
+191
+00:05:09,310 --> 00:05:11,750
+very important, which is that you will gonna
+
+192
+00:05:11,750 --> 00:05:14,710
+have the idea to compare this with the
+
+193
+00:05:14,710 --> 00:05:16,930
+buy and hold return.
+
+194
+00:05:17,510 --> 00:05:17,950
+Okay.
+
+195
+00:05:18,390 --> 00:05:18,690
+Nice.
+
+196
+00:05:18,910 --> 00:05:20,010
+It's not a bad idea, right?
+
+197
+00:05:20,150 --> 00:05:23,070
+But the problem is that you're only comparing
+
+198
+00:05:23,070 --> 00:05:23,790
+the reward.
+
+199
+00:05:24,170 --> 00:05:27,230
+You're not taking the risk into account, which
+
+200
+00:05:27,230 --> 00:05:29,250
+is why I want to show you this
+
+201
+00:05:29,250 --> 00:05:31,230
+stuff to keep you away from trouble.
+
+202
+00:05:31,570 --> 00:05:31,670
+Okay.
+
+203
+00:05:31,930 --> 00:05:34,830
+So if you want to now check what
+
+204
+00:05:34,830 --> 00:05:36,630
+is the buy and hold return for the
+
+205
+00:05:36,630 --> 00:05:37,350
+strategy, right?
+
+206
+00:05:37,390 --> 00:05:42,090
+It's 843%, because that's basically what trading view
+
+207
+00:05:42,090 --> 00:05:45,150
+calculates from the first trade that ever happened,
+
+208
+00:05:45,150 --> 00:05:45,390
+right?
+
+209
+00:05:45,510 --> 00:05:48,970
+From here until here, 800, something like that,
+
+210
+00:05:49,110 --> 00:05:49,210
+right?
+
+211
+00:05:49,270 --> 00:05:49,790
+Very close.
+
+212
+00:05:50,370 --> 00:05:52,650
+But the problem is that trading view starts
+
+213
+00:05:52,650 --> 00:05:55,030
+from the first trade while the strategy actually
+
+214
+00:05:55,030 --> 00:05:57,550
+started trading over here on 1st of January,
+
+215
+00:05:57,770 --> 00:05:58,990
+2018, right?
+
+216
+00:05:59,090 --> 00:05:59,790
+As you can see here.
+
+217
+00:05:59,930 --> 00:06:01,970
+So if the strategy avoided a lot of
+
+218
+00:06:01,970 --> 00:06:04,130
+the drawdown and only bought at the bottom,
+
+219
+00:06:04,650 --> 00:06:06,870
+then trading view will start calculating from the
+
+220
+00:06:06,870 --> 00:06:08,470
+bottom, which is not really fair.
+
+221
+00:06:08,590 --> 00:06:09,450
+I'm just saying, right?
+
+222
+00:06:09,670 --> 00:06:09,850
+Okay.
+
+223
+00:06:09,890 --> 00:06:11,090
+So that's one thing you need to just
+
+224
+00:06:11,090 --> 00:06:12,430
+understand how trading view works.
+
+225
+00:06:12,430 --> 00:06:14,810
+So it goes from the first trade and
+
+226
+00:06:14,810 --> 00:06:17,610
+pretends that it was also invested from the
+
+227
+00:06:17,610 --> 00:06:18,110
+first trade.
+
+228
+00:06:18,230 --> 00:06:18,990
+That is not correct.
+
+229
+00:06:19,170 --> 00:06:20,790
+So that is why I have a strategy
+
+230
+00:06:20,790 --> 00:06:21,190
+here.
+
+231
+00:06:21,350 --> 00:06:23,830
+It's called the hodl demo strategy.
+
+232
+00:06:23,970 --> 00:06:25,010
+I just developed it myself.
+
+233
+00:06:25,190 --> 00:06:26,850
+If you want the code, I will put
+
+234
+00:06:26,850 --> 00:06:28,710
+a document down below, and then you can
+
+235
+00:06:28,710 --> 00:06:30,430
+just copy the code from that and you
+
+236
+00:06:30,430 --> 00:06:31,170
+can use it yourself.
+
+237
+00:06:31,390 --> 00:06:32,950
+Now, the only thing you need to do
+
+238
+00:06:32,950 --> 00:06:34,810
+is to always put it one day before
+
+239
+00:06:34,810 --> 00:06:36,870
+today, so that it also sells because it
+
+240
+00:06:36,870 --> 00:06:37,390
+doesn't sell.
+
+241
+00:06:37,390 --> 00:06:38,870
+Then you don't see any numbers, right?
+
+242
+00:06:38,870 --> 00:06:41,410
+So the max drawdown is 76%, okay?
+
+243
+00:06:41,910 --> 00:06:44,310
+So just looking at going back to the
+
+244
+00:06:44,310 --> 00:06:46,810
+Gaussian channel strategy, just looking at the buy
+
+245
+00:06:46,810 --> 00:06:49,210
+and hold return here will not give you
+
+246
+00:06:49,210 --> 00:06:50,330
+the full picture, okay?
+
+247
+00:06:50,450 --> 00:06:53,230
+You have to use the hodl demo strategy
+
+248
+00:06:53,230 --> 00:06:55,770
+to actually figure out what was the real
+
+249
+00:06:55,770 --> 00:06:57,570
+return of the hodl strategy, right?
+
+250
+00:06:57,870 --> 00:06:59,910
+If you start at the same time, right?
+
+251
+00:07:00,130 --> 00:07:01,750
+And then you take the risk from the
+
+252
+00:07:01,750 --> 00:07:03,550
+same point in time, which was the 1st
+
+253
+00:07:03,550 --> 00:07:04,310
+of January, right?
+
+254
+00:07:04,430 --> 00:07:07,150
+Then you have a drawdown of 77%
+
+255
+00:07:07,150 --> 00:07:10,290
+rounding up, now let's do the same ratio
+
+256
+00:07:10,290 --> 00:07:13,070
+calculation for the hodl strategy.
+
+257
+00:07:13,350 --> 00:07:15,310
+So we compare now the hodl with the
+
+258
+00:07:15,310 --> 00:07:17,890
+Gaussian channel preliminary because we're not yet fully
+
+259
+00:07:17,890 --> 00:07:18,950
+through with all the numbers.
+
+260
+00:07:19,330 --> 00:07:22,870
+So now take the net profit 573 divided
+
+261
+00:07:22,870 --> 00:07:24,590
+by 77, okay?
+
+262
+00:07:24,650 --> 00:07:26,730
+And you get a ratio of about 7
+
+263
+00:07:26,730 --> 00:07:30,710
+.4. This is way worse than the Gaussian
+
+264
+00:07:30,710 --> 00:07:31,270
+channel strategy.
+
+265
+00:07:31,410 --> 00:07:34,570
+You already know that the hodl is bad,
+
+266
+00:07:34,710 --> 00:07:34,950
+okay?
+
+267
+00:07:35,090 --> 00:07:37,710
+Like that's obvious, but you now also know
+
+268
+00:07:37,710 --> 00:07:39,050
+how I calculate this stuff.
+
+269
+00:07:39,230 --> 00:07:40,530
+Yes, sure, you can look at the drawdown
+
+270
+00:07:40,530 --> 00:07:42,290
+already and you know already that it's about
+
+271
+00:07:42,290 --> 00:07:44,430
+50 and so it's already bad, okay?
+
+272
+00:07:44,590 --> 00:07:46,530
+Yeah, Michael, but what about the DCA strategy?
+
+273
+00:07:46,750 --> 00:07:49,190
+Well, here you go, the DCA strategy from
+
+274
+00:07:49,190 --> 00:07:51,750
+the same timeframe selling yesterday so that we
+
+275
+00:07:51,750 --> 00:07:52,490
+have the numbers.
+
+276
+00:07:52,710 --> 00:07:55,230
+You can see 585% profit with the
+
+277
+00:07:55,230 --> 00:07:58,150
+max drawdown of 13.3. Let's divide these
+
+278
+00:07:58,150 --> 00:08:00,830
+numbers and you get to a ratio of
+
+279
+00:08:00,830 --> 00:08:01,950
+45.
+
+280
+00:08:02,410 --> 00:08:05,110
+Yes, that is better than the hodl strategy
+
+281
+00:08:05,110 --> 00:08:07,830
+because the hodl strategy is the worst strategy
+
+282
+00:08:07,830 --> 00:08:10,410
+in the universe for individual assets.
+
+283
+00:08:10,590 --> 00:08:11,850
+And if you're not sure what I'm talking
+
+284
+00:08:11,850 --> 00:08:14,410
+about, then watch this video here that a
+
+285
+00:08:14,410 --> 00:08:16,170
+lot of people have watched already and opened
+
+286
+00:08:16,170 --> 00:08:18,210
+their eyes, but watch it only after this
+
+287
+00:08:18,210 --> 00:08:18,430
+one.
+
+288
+00:08:18,510 --> 00:08:20,330
+We're going back to the Gaussian channel strategy
+
+289
+00:08:20,330 --> 00:08:22,990
+to understand the profit factor and that would
+
+290
+00:08:22,990 --> 00:08:24,830
+be rule number four, okay?
+
+291
+00:08:25,010 --> 00:08:27,050
+So the profit factor, first of all, how
+
+292
+00:08:27,050 --> 00:08:28,170
+is it defined?
+
+293
+00:08:28,470 --> 00:08:30,590
+You can see here, it is the gross
+
+294
+00:08:30,590 --> 00:08:33,850
+profits divided by the gross losses.
+
+295
+00:08:34,210 --> 00:08:36,030
+If you want to calculate this number yourself,
+
+296
+00:08:36,190 --> 00:08:38,929
+simply go to the performance summary and divide
+
+297
+00:08:38,929 --> 00:08:41,030
+this by this, right?
+
+298
+00:08:41,070 --> 00:08:43,270
+It's very simple to do and this is
+
+299
+00:08:43,270 --> 00:08:45,790
+the number 3.2. So the profit factor
+
+300
+00:08:45,790 --> 00:08:47,390
+and don't confuse it right with the net
+
+301
+00:08:47,390 --> 00:08:50,550
+profit versus max drawdown because that ratio is
+
+302
+00:08:50,550 --> 00:08:53,270
+how much your portfolio is actually fluctuating up
+
+303
+00:08:53,270 --> 00:08:54,790
+and down, but it doesn't mean that you
+
+304
+00:08:54,790 --> 00:08:57,430
+actually realized that max drawdown, okay?
+
+305
+00:08:57,450 --> 00:08:59,290
+It was just a max drawdown, but the
+
+306
+00:08:59,290 --> 00:09:02,070
+profit factor shows you how the ratio is
+
+307
+00:09:02,070 --> 00:09:03,650
+between the money you made and the money
+
+308
+00:09:03,650 --> 00:09:04,110
+you lost.
+
+309
+00:09:04,270 --> 00:09:06,110
+So that is the actual money that was
+
+310
+00:09:06,110 --> 00:09:08,730
+made and lost and obviously this number has
+
+311
+00:09:08,730 --> 00:09:10,790
+to be above one and the more it
+
+312
+00:09:10,790 --> 00:09:12,110
+is above one, the better, okay?
+
+313
+00:09:12,110 --> 00:09:13,970
+You see here 3.2, that is pretty
+
+314
+00:09:13,970 --> 00:09:14,650
+good, right?
+
+315
+00:09:14,750 --> 00:09:15,770
+But can we do better?
+
+316
+00:09:15,990 --> 00:09:18,070
+Yes, there are strategies that do five or
+
+317
+00:09:18,070 --> 00:09:21,270
+even six on Bitcoin, but on certain altcoins,
+
+318
+00:09:21,270 --> 00:09:22,550
+this could be a huge number.
+
+319
+00:09:22,690 --> 00:09:24,930
+This could be 40 or 30 and it
+
+320
+00:09:24,930 --> 00:09:26,790
+doesn't mean that that strategy is good on
+
+321
+00:09:26,790 --> 00:09:27,710
+every coin, right?
+
+322
+00:09:27,850 --> 00:09:30,430
+But often you have this massive volatility to
+
+323
+00:09:30,430 --> 00:09:32,790
+the upside and you were lucky to have
+
+324
+00:09:32,790 --> 00:09:34,850
+only a couple of losing trades or maybe
+
+325
+00:09:34,850 --> 00:09:37,370
+none at all and just make one massive
+
+326
+00:09:37,370 --> 00:09:39,230
+winning trade, then of course the profit factor
+
+327
+00:09:39,230 --> 00:09:40,390
+is huge, right?
+
+328
+00:09:40,490 --> 00:09:41,350
+I mean, you have to have at least
+
+329
+00:09:41,350 --> 00:09:43,750
+one losing trade, otherwise they divide by zero,
+
+330
+00:09:43,850 --> 00:09:45,890
+but let's say you had a losing trade
+
+331
+00:09:45,890 --> 00:09:48,010
+of 1%, but then you made 100%.
+
+332
+00:09:48,010 --> 00:09:50,190
+I mean, that profit factor would be massive,
+
+333
+00:09:50,390 --> 00:09:50,670
+okay?
+
+334
+00:09:50,970 --> 00:09:53,330
+So don't take that profit factor too seriously
+
+335
+00:09:53,330 --> 00:09:56,130
+if they're not enough trades on the chart
+
+336
+00:09:56,130 --> 00:09:58,570
+or also if the chart doesn't have enough
+
+337
+00:09:58,570 --> 00:09:59,710
+price history, okay?
+
+338
+00:09:59,850 --> 00:10:01,090
+So if you're looking at a new coin
+
+339
+00:10:01,090 --> 00:10:03,550
+that starts in 2024, it just launched a
+
+340
+00:10:03,550 --> 00:10:05,470
+couple of months ago, then the profit factor,
+
+341
+00:10:05,790 --> 00:10:07,890
+you can't really take it too seriously, okay?
+
+342
+00:10:07,970 --> 00:10:10,150
+But sure, it's one of the numbers, it's
+
+343
+00:10:10,150 --> 00:10:12,330
+rule number four, like I said, and that
+
+344
+00:10:12,330 --> 00:10:13,970
+is also why it's not the most important
+
+345
+00:10:13,970 --> 00:10:15,570
+rule, but it's one that you have to
+
+346
+00:10:15,570 --> 00:10:16,010
+look at.
+
+347
+00:10:16,190 --> 00:10:17,870
+Let's go back to the chart, Gaussian channel
+
+348
+00:10:17,870 --> 00:10:19,030
+strategy on the chart.
+
+349
+00:10:19,170 --> 00:10:20,930
+The next number you should look at is
+
+350
+00:10:20,930 --> 00:10:22,790
+the percent profitable trades.
+
+351
+00:10:23,050 --> 00:10:24,410
+You can also call it the win rate.
+
+352
+00:10:24,550 --> 00:10:25,710
+I will call it the win rate because
+
+353
+00:10:25,710 --> 00:10:26,750
+it's easier to say.
+
+354
+00:10:26,930 --> 00:10:30,430
+And in this case, it's 29.27%. Now,
+
+355
+00:10:30,510 --> 00:10:31,850
+is that good or bad?
+
+356
+00:10:32,190 --> 00:10:34,170
+And what is the rule we have for
+
+357
+00:10:34,170 --> 00:10:34,410
+it?
+
+358
+00:10:34,650 --> 00:10:36,570
+Well, let's think about it a little bit.
+
+359
+00:10:36,690 --> 00:10:39,410
+So if the strategy wins more trades, then
+
+360
+00:10:39,410 --> 00:10:40,670
+it should be a better strategy.
+
+361
+00:10:40,870 --> 00:10:44,190
+Well, not necessarily, because the question is when
+
+362
+00:10:44,190 --> 00:10:45,790
+it wins, how much does it win?
+
+363
+00:10:45,950 --> 00:10:47,470
+And when it loses, how much does it
+
+364
+00:10:47,470 --> 00:10:47,690
+lose?
+
+365
+00:10:47,790 --> 00:10:49,990
+So does it really matter how many trades
+
+366
+00:10:49,990 --> 00:10:50,410
+it wins?
+
+367
+00:10:50,610 --> 00:10:52,530
+Well, it's a psychological thing, right?
+
+368
+00:10:52,770 --> 00:10:54,650
+Because if you have a strategy, and let
+
+369
+00:10:54,650 --> 00:10:56,710
+me show you this right here, that is
+
+370
+00:10:56,710 --> 00:10:59,890
+losing a lot of trades and only then
+
+371
+00:10:59,890 --> 00:11:02,710
+makes one massive winning trade like this one
+
+372
+00:11:02,710 --> 00:11:03,350
+here, right?
+
+373
+00:11:03,530 --> 00:11:05,650
+But before that, you had one, two, three,
+
+374
+00:11:05,710 --> 00:11:09,290
+four, five, six, seven, eight losing trades, would
+
+375
+00:11:09,290 --> 00:11:10,690
+you still use this strategy?
+
+376
+00:11:10,890 --> 00:11:13,270
+Because it's psychologically a massive problem, right?
+
+377
+00:11:13,530 --> 00:11:15,570
+So it is not so much a mathematical
+
+378
+00:11:15,570 --> 00:11:18,230
+issue, but it's more like a psychological issue.
+
+379
+00:11:18,310 --> 00:11:20,110
+So if you can choose a strategy that
+
+380
+00:11:20,110 --> 00:11:22,370
+wins more, it's better for you, because the
+
+381
+00:11:22,370 --> 00:11:24,210
+chances for you to stick to the strategy
+
+382
+00:11:24,210 --> 00:11:25,630
+and to use it for a long time
+
+383
+00:11:25,630 --> 00:11:28,130
+and benefit from the numbers is much higher
+
+384
+00:11:28,130 --> 00:11:30,470
+when the win rate is higher, right?
+
+385
+00:11:30,470 --> 00:11:32,990
+So yes, it's part of the calculation is
+
+386
+00:11:32,990 --> 00:11:35,830
+not the most important number, but I'm looking
+
+387
+00:11:35,830 --> 00:11:36,530
+at it as well.
+
+388
+00:11:36,670 --> 00:11:38,210
+And I do take it into account when
+
+389
+00:11:38,210 --> 00:11:40,150
+it comes to my overall decision making.
+
+390
+00:11:40,470 --> 00:11:42,930
+Well, this number is not disqualifying a strategy
+
+391
+00:11:42,930 --> 00:11:43,610
+necessarily.
+
+392
+00:11:44,190 --> 00:11:46,350
+So rule number five is not a particular
+
+393
+00:11:46,350 --> 00:11:48,770
+number that has to be above or below,
+
+394
+00:11:48,950 --> 00:11:51,030
+but it has to be better than the
+
+395
+00:11:51,030 --> 00:11:53,070
+other strategy that you're comparing for.
+
+396
+00:11:53,310 --> 00:11:54,910
+So the rule here is that higher is
+
+397
+00:11:54,910 --> 00:11:57,190
+better, but there is no particular number, it
+
+398
+00:11:57,190 --> 00:11:58,130
+has to be above.
+
+399
+00:11:58,470 --> 00:12:00,070
+It just has to be better than the
+
+400
+00:12:00,070 --> 00:12:01,590
+other strategy you're looking at.
+
+401
+00:12:01,730 --> 00:12:03,570
+And it also has to match your psychology.
+
+402
+00:12:03,910 --> 00:12:06,090
+So make sure that you can survive a
+
+403
+00:12:06,090 --> 00:12:08,290
+lot of losing trades if you're picking a
+
+404
+00:12:08,290 --> 00:12:09,610
+strategy with a low win rate.
+
+405
+00:12:09,770 --> 00:12:11,110
+Now, you know which numbers to look at,
+
+406
+00:12:11,210 --> 00:12:12,170
+how to look at them.
+
+407
+00:12:12,470 --> 00:12:14,870
+Now let's take all these trading strategies, turn
+
+408
+00:12:14,870 --> 00:12:16,990
+them on and check the numbers and figure
+
+409
+00:12:16,990 --> 00:12:18,570
+out which strategy is the best one.
+
+410
+00:12:18,930 --> 00:12:20,190
+And at the end of the video, I
+
+411
+00:12:20,190 --> 00:12:22,370
+will tell you one more thing that you
+
+412
+00:12:22,370 --> 00:12:25,230
+must do when evaluating trading strategies.
+
+413
+00:12:25,230 --> 00:12:26,990
+Stick around, let's go.
+
+414
+00:12:27,190 --> 00:12:29,950
+Now we're going to look at the improved
+
+415
+00:12:29,950 --> 00:12:32,250
+caution channel strategy, which is the one that
+
+416
+00:12:32,250 --> 00:12:34,390
+I've created in my last video by adding
+
+417
+00:12:34,390 --> 00:12:36,810
+the stochastic RSI to avoid a lot of
+
+418
+00:12:36,810 --> 00:12:37,830
+these losing trades.
+
+419
+00:12:37,950 --> 00:12:39,330
+If you want to know all about that
+
+420
+00:12:39,330 --> 00:12:41,230
+and simply watch my last video, I will
+
+421
+00:12:41,230 --> 00:12:42,010
+link it up top.
+
+422
+00:12:42,270 --> 00:12:44,290
+And so these numbers here look a little
+
+423
+00:12:44,290 --> 00:12:44,870
+bit different.
+
+424
+00:12:44,870 --> 00:12:47,110
+You see that the drawdown is way, way
+
+425
+00:12:47,110 --> 00:12:47,470
+lower.
+
+426
+00:12:47,770 --> 00:12:49,490
+The net profit is pretty much the same,
+
+427
+00:12:49,490 --> 00:12:52,550
+but the profit factor now is six and
+
+428
+00:12:52,550 --> 00:12:54,670
+the percent profitable trades is 50.
+
+429
+00:12:54,910 --> 00:12:57,310
+So it's way better, like without doing any
+
+430
+00:12:57,310 --> 00:12:59,390
+calculation, I can already tell you that is
+
+431
+00:12:59,390 --> 00:13:00,370
+way better.
+
+432
+00:13:00,510 --> 00:13:03,330
+But let's do the simple calculation where we
+
+433
+00:13:03,330 --> 00:13:06,230
+divide the net profit by the max drawdown.
+
+434
+00:13:06,370 --> 00:13:08,070
+And when doing that, we're getting to a
+
+435
+00:13:08,070 --> 00:13:11,730
+factor of 130, which is pretty good and
+
+436
+00:13:11,730 --> 00:13:14,890
+is way better than the previous caution channel
+
+437
+00:13:14,890 --> 00:13:15,370
+strategy.
+
+438
+00:13:15,590 --> 00:13:15,810
+Okay.
+
+439
+00:13:16,250 --> 00:13:17,830
+The other numbers you can check for yourself.
+
+440
+00:13:17,830 --> 00:13:18,730
+That's all fine.
+
+441
+00:13:18,730 --> 00:13:20,470
+And then the whole suit strategy.
+
+442
+00:13:20,710 --> 00:13:22,470
+Well, you can already see that the max
+
+443
+00:13:22,470 --> 00:13:24,330
+drawdown, the first number I'm looking at rule
+
+444
+00:13:24,330 --> 00:13:26,010
+number one is about 50%.
+
+445
+00:13:26,010 --> 00:13:28,830
+So I don't care about this whatsoever.
+
+446
+00:13:28,830 --> 00:13:29,270
+Okay.
+
+447
+00:13:29,390 --> 00:13:30,390
+So let's get out of here.
+
+448
+00:13:30,730 --> 00:13:33,190
+Then we have the hodl strategy with 76
+
+449
+00:13:33,190 --> 00:13:34,290
+% max drawdown.
+
+450
+00:13:34,290 --> 00:13:35,210
+Get out of here.
+
+451
+00:13:35,370 --> 00:13:37,910
+We have DCA, which is a bit better.
+
+452
+00:13:38,090 --> 00:13:38,970
+You can do the calculation.
+
+453
+00:13:39,210 --> 00:13:40,050
+We did that already.
+
+454
+00:13:40,410 --> 00:13:43,410
+The DCA strategy has a factor of 45,
+
+455
+00:13:43,630 --> 00:13:43,850
+right?
+
+456
+00:13:43,850 --> 00:13:44,690
+But it doesn't matter.
+
+457
+00:13:44,690 --> 00:13:46,930
+It's already pretty bad based on the, all
+
+458
+00:13:46,930 --> 00:13:47,950
+the other numbers basically.
+
+459
+00:13:48,290 --> 00:13:50,090
+And then we also have my own strategy,
+
+460
+00:13:50,090 --> 00:13:52,570
+which has these numbers and I'm just putting
+
+461
+00:13:52,570 --> 00:13:53,150
+it out there.
+
+462
+00:13:53,330 --> 00:13:54,790
+So you see how it could also look
+
+463
+00:13:54,790 --> 00:13:55,230
+like, right?
+
+464
+00:13:55,410 --> 00:13:57,010
+Which has these numbers over here.
+
+465
+00:13:57,170 --> 00:13:59,170
+And if we're doing the calculation, then you
+
+466
+00:13:59,170 --> 00:14:01,190
+will see that the factor between net profit
+
+467
+00:14:01,190 --> 00:14:04,310
+and max drawdown is actually only 125.
+
+468
+00:14:04,710 --> 00:14:07,170
+Whereas the Gaussian channel, the improved one here
+
+469
+00:14:07,170 --> 00:14:08,830
+was actually at 130.
+
+470
+00:14:09,130 --> 00:14:10,890
+So that looks a bit better, right?
+
+471
+00:14:11,010 --> 00:14:13,030
+So it looks like the improved Gaussian channel
+
+472
+00:14:13,030 --> 00:14:14,850
+strategy is better than my own strategy.
+
+473
+00:14:15,190 --> 00:14:16,250
+Well, is that the case?
+
+474
+00:14:16,430 --> 00:14:18,350
+Now I want to show you one more
+
+475
+00:14:18,350 --> 00:14:20,910
+important thing when it comes to evaluating strategies.
+
+476
+00:14:21,510 --> 00:14:24,050
+And that is to apply the same strategy
+
+477
+00:14:24,050 --> 00:14:25,750
+on different assets.
+
+478
+00:14:25,970 --> 00:14:27,630
+Because if it works on one coin, I
+
+479
+00:14:27,630 --> 00:14:29,130
+mean, I can make a strategy that works
+
+480
+00:14:29,130 --> 00:14:31,650
+even better than the Gaussian channel strategy on
+
+481
+00:14:31,650 --> 00:14:33,850
+Bitcoin and has a hundred percent win rate.
+
+482
+00:14:34,150 --> 00:14:37,290
+But isn't that overfitted to the coin?
+
+483
+00:14:37,670 --> 00:14:38,870
+Well, yes, of course it is.
+
+484
+00:14:40,270 --> 00:14:42,790
+And when a coin works super great on
+
+485
+00:14:42,790 --> 00:14:45,070
+one coin, then there is a risk that
+
+486
+00:14:45,070 --> 00:14:47,350
+it doesn't work on that same coin with
+
+487
+00:14:47,350 --> 00:14:48,770
+future data, right?
+
+488
+00:14:48,850 --> 00:14:50,790
+Because it is made for the past, it's
+
+489
+00:14:50,790 --> 00:14:52,070
+overfitted to the past.
+
+490
+00:14:52,170 --> 00:14:53,290
+But what if the future is a bit
+
+491
+00:14:53,290 --> 00:14:53,710
+different?
+
+492
+00:14:53,830 --> 00:14:56,510
+For example, Bitcoin now has an ETF, right?
+
+493
+00:14:56,750 --> 00:14:58,450
+Different players are now playing the game as
+
+494
+00:14:58,450 --> 00:14:58,650
+well.
+
+495
+00:14:58,950 --> 00:15:00,790
+So they might change the game, but you
+
+496
+00:15:00,790 --> 00:15:01,410
+don't know, right?
+
+497
+00:15:01,490 --> 00:15:02,850
+So you need a strategy that is general
+
+498
+00:15:02,850 --> 00:15:04,730
+purpose that can deal with that as well,
+
+499
+00:15:04,890 --> 00:15:05,070
+right?
+
+500
+00:15:05,130 --> 00:15:06,670
+Not only with the past, but also with
+
+501
+00:15:06,670 --> 00:15:07,130
+the future.
+
+502
+00:15:07,410 --> 00:15:09,810
+So that is why you have to also
+
+503
+00:15:09,810 --> 00:15:12,650
+take all of these strategies and apply them
+
+504
+00:15:12,650 --> 00:15:13,750
+on other coins.
+
+505
+00:15:13,910 --> 00:15:15,410
+And I will just look at the improved
+
+506
+00:15:15,410 --> 00:15:17,930
+Gaussian channel and my own, because the improved
+
+507
+00:15:17,930 --> 00:15:18,870
+one is the best one.
+
+508
+00:15:18,870 --> 00:15:20,590
+So I have less comparing to do.
+
+509
+00:15:20,710 --> 00:15:22,330
+I only have to compare two strategies with
+
+510
+00:15:22,330 --> 00:15:24,030
+each other because the other ones are already
+
+511
+00:15:24,030 --> 00:15:25,150
+out of the question.
+
+512
+00:15:25,310 --> 00:15:27,050
+And I'm using my own strategy here because
+
+513
+00:15:27,050 --> 00:15:28,790
+I want you to learn something specific.
+
+514
+00:15:28,790 --> 00:15:31,170
+And I don't know which other strategy I
+
+515
+00:15:31,170 --> 00:15:33,010
+can use to prove that same point I
+
+516
+00:15:33,010 --> 00:15:34,810
+want to prove in the coming segment of
+
+517
+00:15:34,810 --> 00:15:35,350
+this video.
+
+518
+00:15:35,510 --> 00:15:37,870
+If you know another strategy, then let me
+
+519
+00:15:37,870 --> 00:15:38,090
+know.
+
+520
+00:15:38,330 --> 00:15:40,630
+Come to Telegram and chat with me there.
+
+521
+00:15:40,870 --> 00:15:42,930
+So let's go to Ethereum, right?
+
+522
+00:15:43,070 --> 00:15:44,090
+Because why not, right?
+
+523
+00:15:44,170 --> 00:15:44,750
+Go to Ethereum.
+
+524
+00:15:45,170 --> 00:15:47,910
+You have the Gaussian channel strategy making, okay,
+
+525
+00:15:47,930 --> 00:15:50,210
+first, the max drawdown, 53%.
+
+526
+00:15:50,210 --> 00:15:50,990
+Screw that.
+
+527
+00:15:51,490 --> 00:15:54,270
+Now let's go to my strategy, 29.7,
+
+528
+00:15:54,410 --> 00:15:56,710
+let's say 32,500% profit.
+
+529
+00:15:57,190 --> 00:16:00,010
+Let's go way better without changing any parameters.
+
+530
+00:16:00,370 --> 00:16:00,470
+Okay.
+
+531
+00:16:00,570 --> 00:16:01,690
+So let's go to Solana.
+
+532
+00:16:02,010 --> 00:16:04,770
+This is the improved Gaussian channel strategy, almost
+
+533
+00:16:04,770 --> 00:16:10,430
+49% max drawdown with 10,544%
+
+534
+00:16:10,430 --> 00:16:11,290
+net profit.
+
+535
+00:16:11,490 --> 00:16:13,190
+The factor by the way is, I will
+
+536
+00:16:13,190 --> 00:16:14,850
+put it here on the screen is 215.
+
+537
+00:16:15,830 --> 00:16:17,350
+And let's go to my strategy.
+
+538
+00:16:17,730 --> 00:16:19,970
+We have a max drawdown of 37 and
+
+539
+00:16:19,970 --> 00:16:22,950
+a net profit of 20,914.
+
+540
+00:16:23,290 --> 00:16:24,750
+The factor again, I will put it here
+
+541
+00:16:24,750 --> 00:16:27,050
+on the screen is 565.
+
+542
+00:16:27,670 --> 00:16:27,970
+Okay.
+
+543
+00:16:27,970 --> 00:16:29,510
+That's a different universe.
+
+544
+00:16:29,950 --> 00:16:32,590
+And that's why you need a strategy that
+
+545
+00:16:32,590 --> 00:16:33,450
+is robust.
+
+546
+00:16:33,770 --> 00:16:33,930
+Okay.
+
+547
+00:16:34,050 --> 00:16:35,630
+Let's turn it off again and let's go
+
+548
+00:16:35,630 --> 00:16:37,130
+to Polygonmatic.
+
+549
+00:16:37,290 --> 00:16:39,850
+And we have the improved Gaussian channel strategy,
+
+550
+00:16:40,150 --> 00:16:42,230
+71% max drawdown.
+
+551
+00:16:42,610 --> 00:16:43,310
+Screw that.
+
+552
+00:16:43,470 --> 00:16:44,370
+That's too high.
+
+553
+00:16:44,550 --> 00:16:47,390
+Let's go to my strategy, 36.28 with
+
+554
+00:16:47,390 --> 00:16:50,790
+4,744% net profit.
+
+555
+00:16:50,950 --> 00:16:52,130
+So that is on a different level.
+
+556
+00:16:52,350 --> 00:16:53,970
+And that is why it's so hard to
+
+557
+00:16:53,970 --> 00:16:56,050
+create very good and robust strategies.
+
+558
+00:16:56,310 --> 00:16:58,030
+So make sure guys, why am I telling
+
+559
+00:16:58,030 --> 00:16:58,590
+you all of that?
+
+560
+00:16:58,670 --> 00:16:58,790
+Right?
+
+561
+00:16:58,870 --> 00:17:00,110
+I'm not telling you that so that I'm
+
+562
+00:17:00,110 --> 00:17:01,070
+saying use my strategy.
+
+563
+00:17:01,190 --> 00:17:01,470
+No.
+
+564
+00:17:01,690 --> 00:17:01,890
+Okay.
+
+565
+00:17:01,930 --> 00:17:03,569
+I'm telling you so that you can go
+
+566
+00:17:03,569 --> 00:17:03,849
+here.
+
+567
+00:17:03,849 --> 00:17:06,290
+And when you mess around with the settings
+
+568
+00:17:06,290 --> 00:17:09,109
+of the Gaussian channel strategy, then make sure
+
+569
+00:17:09,109 --> 00:17:11,329
+to not have the settings in such a
+
+570
+00:17:11,329 --> 00:17:14,230
+way that they work only for one coin.
+
+571
+00:17:14,510 --> 00:17:14,610
+Okay.
+
+572
+00:17:14,710 --> 00:17:16,390
+Make sure that they work for more coins.
+
+573
+00:17:16,390 --> 00:17:16,770
+Okay.
+
+574
+00:17:17,109 --> 00:17:18,869
+That is actually the message over here.
+
+575
+00:17:18,869 --> 00:17:19,170
+Right.
+
+576
+00:17:19,170 --> 00:17:21,710
+And so once you manage to do that,
+
+577
+00:17:21,710 --> 00:17:24,050
+then you have a more robust version of
+
+578
+00:17:24,050 --> 00:17:24,710
+the strategy.
+
+579
+00:17:24,910 --> 00:17:25,050
+Okay.
+
+580
+00:17:25,170 --> 00:17:26,750
+So it doesn't mean the Gaussian channel, the
+
+581
+00:17:26,750 --> 00:17:28,530
+improved one is bad or the old one
+
+582
+00:17:28,530 --> 00:17:28,930
+is bad.
+
+583
+00:17:28,930 --> 00:17:30,930
+It's just that you need to figure out
+
+584
+00:17:30,930 --> 00:17:31,950
+the right configuration.
+
+585
+00:17:32,330 --> 00:17:34,310
+Maybe you need to add another indicator to
+
+586
+00:17:34,310 --> 00:17:35,850
+it, which we know how to do that.
+
+587
+00:17:35,850 --> 00:17:36,090
+Right.
+
+588
+00:17:36,170 --> 00:17:38,410
+Because we have the freaking AI video that
+
+589
+00:17:38,410 --> 00:17:39,150
+you guys love.
+
+590
+00:17:39,550 --> 00:17:40,870
+It's linked up above.
+
+591
+00:17:41,070 --> 00:17:41,390
+Okay.
+
+592
+00:17:41,590 --> 00:17:43,090
+So that is the message here, guys.
+
+593
+00:17:43,370 --> 00:17:45,470
+Make sure to not overfit your strategy to
+
+594
+00:17:45,470 --> 00:17:46,190
+one coin only.
+
+595
+00:17:46,510 --> 00:17:46,890
+Okay, guys.
+
+596
+00:17:47,010 --> 00:17:48,890
+Now you know how to evaluate a trading
+
+597
+00:17:48,890 --> 00:17:51,270
+strategy properly also on different coins.
+
+598
+00:17:51,630 --> 00:17:53,290
+And I want you guys to go bananas
+
+599
+00:17:53,290 --> 00:17:55,190
+with this because it has the potential to
+
+600
+00:17:55,190 --> 00:17:56,490
+change your life forever.
+
+601
+00:17:56,870 --> 00:17:56,970
+Okay.
+
+602
+00:17:57,370 --> 00:18:00,650
+Mess around, create a strategy that is not
+
+603
+00:18:00,650 --> 00:18:02,750
+overfitted, works on the coins that you like
+
+604
+00:18:02,750 --> 00:18:03,450
+more than one.
+
+605
+00:18:03,670 --> 00:18:03,770
+Yes.
+
+606
+00:18:04,090 --> 00:18:04,650
+More than one.
+
+607
+00:18:04,810 --> 00:18:06,350
+We want a robust strategy.
+
+608
+00:18:06,710 --> 00:18:09,230
+But please take this knowledge and apply this
+
+609
+00:18:09,230 --> 00:18:09,590
+knowledge.
+
+610
+00:18:09,750 --> 00:18:09,850
+Okay.
+
+611
+00:18:09,950 --> 00:18:11,770
+Don't just listen to my voice and the
+
+612
+00:18:11,770 --> 00:18:13,830
+guy's funny and drinks coffee and everything.
+
+613
+00:18:14,070 --> 00:18:14,670
+By the way, cheers.
+
+614
+00:18:15,730 --> 00:18:16,790
+I love this stuff.
+
+615
+00:18:17,250 --> 00:18:19,210
+But take this knowledge and actually apply it.
+
+616
+00:18:19,370 --> 00:18:19,470
+Okay.
+
+617
+00:18:19,590 --> 00:18:21,910
+Please make it happen and come to the
+
+618
+00:18:21,910 --> 00:18:25,170
+telegram group, share your questions, but also share
+
+619
+00:18:25,170 --> 00:18:25,950
+your successes.
+
+620
+00:18:26,530 --> 00:18:26,650
+Okay.
+
+621
+00:18:26,930 --> 00:18:28,950
+Share your freaking successes to also motivate other
+
+622
+00:18:28,950 --> 00:18:31,310
+people to do the same thing because not
+
+623
+00:18:31,310 --> 00:18:32,930
+everyone will have the same strategy.
+
+624
+00:18:33,030 --> 00:18:33,610
+So that's fine.
+
+625
+00:18:33,730 --> 00:18:33,870
+Right.
+
+626
+00:18:34,030 --> 00:18:35,330
+And this way you're giving back a little
+
+627
+00:18:35,330 --> 00:18:37,450
+bit to help other people, which is always
+
+628
+00:18:37,450 --> 00:18:37,750
+nice.
+
+629
+00:18:37,990 --> 00:18:39,270
+And if for some reason you want access
+
+630
+00:18:39,270 --> 00:18:41,330
+to my trading strategies, then go to autotrading
+
+631
+00:18:41,330 --> 00:18:43,890
+.vip. But hey, my calendar is full until
+
+632
+00:18:43,890 --> 00:18:45,070
+January already.
+
+633
+00:18:45,430 --> 00:18:47,190
+So make sure if you put some information
+
+634
+00:18:47,190 --> 00:18:49,830
+there about why you apply, then put something
+
+635
+00:18:49,830 --> 00:18:52,330
+interesting because otherwise I cannot move you forward.
+
+636
+00:18:52,550 --> 00:18:53,890
+Like it's very hard for me.
+
+637
+00:18:54,050 --> 00:18:54,170
+Okay.
+
+638
+00:18:54,330 --> 00:18:55,530
+A lot of people want access.
+
+639
+00:18:55,950 --> 00:18:56,670
+It's hardcore.
+
+640
+00:18:57,050 --> 00:18:59,070
+I'm in calls all day long during the
+
+641
+00:18:59,070 --> 00:18:59,230
+week.
+
+642
+00:18:59,310 --> 00:19:00,930
+That's why I'm making videos on the weekend.
+
+643
+00:19:01,190 --> 00:19:01,390
+Okay.
+
+644
+00:19:01,630 --> 00:19:02,930
+Having said all of that, if you want
+
+645
+00:19:02,930 --> 00:19:05,010
+to learn about automation, you want to automate
+
+646
+00:19:05,010 --> 00:19:07,150
+a trading strategy, which I think you should
+
+647
+00:19:07,150 --> 00:19:09,110
+because that's the way to avoid emotions and
+
+648
+00:19:09,110 --> 00:19:09,290
+all.
+
+649
+00:19:09,650 --> 00:19:11,630
+Then this is the next video you should
+
+650
+00:19:11,630 --> 00:19:11,970
+watch.

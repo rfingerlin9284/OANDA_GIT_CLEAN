@@ -1,0 +1,3079 @@
+1
+00:00:00,310 --> 00:00:01,330
+Big forehead, take two.
+
+2
+00:00:01,830 --> 00:00:03,970
+Hi, my name is Andrei Jikh, hope you're
+
+3
+00:00:03,970 --> 00:00:04,430
+doing well.
+
+4
+00:00:04,690 --> 00:00:06,710
+Come for the finance and stay for the
+
+5
+00:00:06,710 --> 00:00:08,430
+beginner video on options trading.
+
+6
+00:00:08,730 --> 00:00:10,150
+This is the big video that I've been
+
+7
+00:00:10,150 --> 00:00:11,930
+meaning to make for so many years, but
+
+8
+00:00:11,930 --> 00:00:13,730
+the truth is, I didn't know how to
+
+9
+00:00:13,730 --> 00:00:15,910
+do options trading back then, and after playing
+
+10
+00:00:15,910 --> 00:00:18,790
+with it for several years now, I still
+
+11
+00:00:18,790 --> 00:00:19,170
+don't.
+
+12
+00:00:19,430 --> 00:00:21,410
+So in today's video, I wanted to invite
+
+13
+00:00:21,410 --> 00:00:23,310
+somebody who does know what they're doing, and
+
+14
+00:00:23,310 --> 00:00:24,590
+his name is Alex Pandrea.
+
+15
+00:00:25,010 --> 00:00:26,750
+He's somebody that I had on my YouTube
+
+16
+00:00:26,750 --> 00:00:29,950
+channel when I first started almost three years
+
+17
+00:00:29,950 --> 00:00:32,310
+ago, and back then, when I created his
+
+18
+00:00:32,310 --> 00:00:35,530
+Robinhood account for him, he had zero experience
+
+19
+00:00:35,530 --> 00:00:36,390
+with investing.
+
+20
+00:00:36,770 --> 00:00:39,710
+He started with about $15,000, he started
+
+21
+00:00:39,710 --> 00:00:41,690
+to play around with options, and in just
+
+22
+00:00:41,690 --> 00:00:43,890
+two short years, he was able to turn
+
+23
+00:00:43,890 --> 00:00:47,990
+his $15,000 into well over a million
+
+24
+00:00:47,990 --> 00:00:50,710
+dollars, which is kind of crazy to see
+
+25
+00:00:50,710 --> 00:00:51,290
+that progress.
+
+26
+00:00:51,510 --> 00:00:53,590
+Now, in this video, I'm going to show
+
+27
+00:00:53,590 --> 00:00:55,750
+you how to do options trading with Alex,
+
+28
+00:00:55,750 --> 00:00:58,030
+and it's going to be very complicated.
+
+29
+00:00:58,350 --> 00:01:00,330
+Halfway through, you're gonna get bored, you're gonna
+
+30
+00:01:00,330 --> 00:01:01,330
+be tired of it, you're gonna be like,
+
+31
+00:01:01,410 --> 00:01:02,250
+where is this going?
+
+32
+00:01:02,510 --> 00:01:04,170
+But I promise, if you watch this video
+
+33
+00:01:04,170 --> 00:01:06,050
+all the way through till the end, you
+
+34
+00:01:06,050 --> 00:01:08,870
+will learn three investing strategies that anyone can
+
+35
+00:01:08,870 --> 00:01:11,170
+do, starting with very little money that you
+
+36
+00:01:11,170 --> 00:01:14,010
+can apply today, and hopefully make some money
+
+37
+00:01:14,010 --> 00:01:14,230
+with.
+
+38
+00:01:14,670 --> 00:01:16,430
+Now, in this video, I'm not gonna sell
+
+39
+00:01:16,430 --> 00:01:17,090
+you a course.
+
+40
+00:01:17,370 --> 00:01:19,510
+This is not about collecting emails or phone
+
+41
+00:01:19,510 --> 00:01:20,230
+numbers from people.
+
+42
+00:01:20,450 --> 00:01:22,830
+This is all 100% free, so I
+
+43
+00:01:22,830 --> 00:01:24,970
+hope you enjoy it, and hopefully we can
+
+44
+00:01:24,970 --> 00:01:27,350
+simplify options trading and have it go from
+
+45
+00:01:27,350 --> 00:01:33,090
+this, to this.
+
+46
+00:01:37,850 --> 00:01:39,870
+So having said all that, let's get Alex
+
+47
+00:01:39,870 --> 00:01:41,290
+on and finally start the video.
+
+48
+00:01:41,530 --> 00:01:42,290
+What is up?
+
+49
+00:01:42,410 --> 00:01:43,770
+This is Alex Pandrea.
+
+50
+00:01:43,950 --> 00:01:44,510
+What's up, man?
+
+51
+00:01:44,610 --> 00:01:45,350
+What is going on?
+
+52
+00:01:45,450 --> 00:01:48,050
+Super excited to finally learn options trading.
+
+53
+00:01:48,150 --> 00:01:49,710
+It's something I've always wanted to learn.
+
+54
+00:01:49,830 --> 00:01:51,070
+I already know what you're thinking.
+
+55
+00:01:51,310 --> 00:01:51,590
+What's up?
+
+56
+00:01:51,610 --> 00:01:53,790
+You wanna take your monthly salary and put
+
+57
+00:01:53,790 --> 00:01:55,770
+it into out-of-the-money spy call
+
+58
+00:01:55,770 --> 00:01:58,010
+options expiring tomorrow, make a lot of money,
+
+59
+00:01:58,050 --> 00:01:58,170
+right?
+
+60
+00:01:58,230 --> 00:01:59,550
+If you said yes, you're in the wrong
+
+61
+00:01:59,550 --> 00:01:59,930
+place.
+
+62
+00:02:00,170 --> 00:02:00,510
+Get out.
+
+63
+00:02:00,930 --> 00:02:01,590
+It's my house, bro.
+
+64
+00:02:01,890 --> 00:02:03,270
+When we did a video together two years
+
+65
+00:02:03,270 --> 00:02:05,110
+ago, you started with about $16,000.
+
+66
+00:02:05,630 --> 00:02:07,729
+I set up your Robinhood account, and in
+
+67
+00:02:07,729 --> 00:02:09,789
+two years, show everybody your portfolio.
+
+68
+00:02:09,949 --> 00:02:10,910
+I'm gonna make you do this.
+
+69
+00:02:10,950 --> 00:02:12,010
+He's gonna make me do this.
+
+70
+00:02:12,870 --> 00:02:13,950
+This is what it is.
+
+71
+00:02:14,650 --> 00:02:17,690
+All right, so this is from trading options
+
+72
+00:02:17,690 --> 00:02:20,870
+in the last two years from about $16
+
+73
+00:02:20,870 --> 00:02:21,390
+,000.
+
+74
+00:02:21,390 --> 00:02:23,570
+It is now worth about 1.2 million,
+
+75
+00:02:23,610 --> 00:02:24,810
+which is a crazy return.
+
+76
+00:02:24,970 --> 00:02:27,530
+It doesn't really seem realistic to me.
+
+77
+00:02:27,650 --> 00:02:29,870
+You started my account with about, in Robinhood,
+
+78
+00:02:29,890 --> 00:02:32,550
+I've been investing long-term for, since I
+
+79
+00:02:32,550 --> 00:02:34,550
+was 20 years old or something, consistently, but
+
+80
+00:02:34,550 --> 00:02:36,850
+when I got into Robinhood, I started learning
+
+81
+00:02:36,850 --> 00:02:39,550
+more about trading and investing in different types.
+
+82
+00:02:39,850 --> 00:02:41,530
+So I've been trying to learn over the
+
+83
+00:02:41,530 --> 00:02:42,130
+last few years.
+
+84
+00:02:42,130 --> 00:02:45,050
+He's like, Andre's dividend investing is so boring.
+
+85
+00:02:45,270 --> 00:02:46,710
+None of that Warren Buffett stuff.
+
+86
+00:02:46,850 --> 00:02:47,950
+Well, I was watching the videos, and I
+
+87
+00:02:47,950 --> 00:02:49,190
+was like, I need something else, man.
+
+88
+00:02:49,270 --> 00:02:50,230
+This is just like, yeah.
+
+89
+00:02:50,230 --> 00:02:51,990
+The thing is about options trading is you
+
+90
+00:02:51,990 --> 00:02:54,050
+don't have to be like this crazy day
+
+91
+00:02:54,050 --> 00:02:54,410
+trader.
+
+92
+00:02:54,870 --> 00:02:55,170
+Definitely not.
+
+93
+00:02:55,310 --> 00:02:57,330
+There is definitely a stigma to it that
+
+94
+00:02:57,330 --> 00:02:59,250
+it is risky and that it's like almost
+
+95
+00:02:59,250 --> 00:03:00,650
+going to the roulette table and putting it
+
+96
+00:03:00,650 --> 00:03:01,770
+all on black, let's go.
+
+97
+00:03:01,890 --> 00:03:04,110
+But that's the preconceived kind of thoughts that
+
+98
+00:03:04,110 --> 00:03:05,810
+people have, especially in the last few years
+
+99
+00:03:05,810 --> 00:03:07,430
+with Wall Street bets and the forums and
+
+100
+00:03:07,430 --> 00:03:08,470
+everything that's going on.
+
+101
+00:03:08,770 --> 00:03:10,310
+You're like, options, stay away.
+
+102
+00:03:10,450 --> 00:03:12,950
+Or if you're like a gambler, baby, options,
+
+103
+00:03:13,270 --> 00:03:14,010
+sign me up.
+
+104
+00:03:14,030 --> 00:03:15,990
+I'm terrified of options, which is why I've
+
+105
+00:03:15,990 --> 00:03:17,490
+always wanted to learn it because I know
+
+106
+00:03:17,490 --> 00:03:19,750
+there are very safe ways of doing options
+
+107
+00:03:19,750 --> 00:03:21,190
+in a way that makes you some extra
+
+108
+00:03:21,190 --> 00:03:21,510
+money.
+
+109
+00:03:21,750 --> 00:03:23,970
+And you can essentially turn any portfolio into
+
+110
+00:03:23,970 --> 00:03:25,470
+an almost dividend paying portfolio.
+
+111
+00:03:25,810 --> 00:03:29,350
+There's many different choices and options, no pun
+
+112
+00:03:29,350 --> 00:03:30,870
+intended, for options.
+
+113
+00:03:31,270 --> 00:03:32,890
+When you buy a stock, you can buy
+
+114
+00:03:32,890 --> 00:03:34,250
+a stock, you can sell a stock.
+
+115
+00:03:34,470 --> 00:03:35,590
+There's very few, it's limited.
+
+116
+00:03:35,810 --> 00:03:36,750
+Let's just get started with it.
+
+117
+00:03:36,830 --> 00:03:38,670
+We've pumped it, we've hyped it enough.
+
+118
+00:03:38,910 --> 00:03:40,870
+The first question I have is, what is
+
+119
+00:03:40,870 --> 00:03:43,710
+the difference between buying stocks normally, like buying
+
+120
+00:03:43,710 --> 00:03:46,030
+and selling stocks, which I totally understand, and
+
+121
+00:03:46,030 --> 00:03:46,770
+options trading?
+
+122
+00:03:46,910 --> 00:03:48,310
+Well, that's a very good question, Andre.
+
+123
+00:03:48,310 --> 00:03:50,210
+I'm glad you asked that.
+
+124
+00:03:50,470 --> 00:03:51,830
+So get your phones ready because we're gonna
+
+125
+00:03:51,830 --> 00:03:53,350
+go into this right after that.
+
+126
+00:03:53,750 --> 00:03:54,570
+You got it?
+
+127
+00:03:54,750 --> 00:03:54,930
+Yeah.
+
+128
+00:03:55,070 --> 00:03:56,390
+He's ahead of the game, this one.
+
+129
+00:03:57,270 --> 00:03:59,930
+So when you're buying a stock, you can
+
+130
+00:03:59,930 --> 00:04:00,530
+hold it forever.
+
+131
+00:04:00,750 --> 00:04:02,290
+Sure, if you can live that long.
+
+132
+00:04:03,610 --> 00:04:06,650
+But in options, you have expiration dates and
+
+133
+00:04:06,650 --> 00:04:08,850
+the contract will expire at some point.
+
+134
+00:04:09,070 --> 00:04:10,390
+So it's not a forever thing.
+
+135
+00:04:10,490 --> 00:04:11,430
+The second thing is leverage.
+
+136
+00:04:11,610 --> 00:04:13,870
+You have to understand that one option contract
+
+137
+00:04:13,870 --> 00:04:17,190
+controls 100 shares of whatever the underlying stock
+
+138
+00:04:17,190 --> 00:04:17,870
+is in your company.
+
+139
+00:04:18,170 --> 00:04:19,890
+Okay, so if I buy one option contract,
+
+140
+00:04:20,050 --> 00:04:22,970
+whatever it is, in Apple, you're controlling 100
+
+141
+00:04:22,970 --> 00:04:23,250
+shares.
+
+142
+00:04:23,330 --> 00:04:25,650
+So you're leveraging up the position with less
+
+143
+00:04:25,650 --> 00:04:25,950
+money.
+
+144
+00:04:26,070 --> 00:04:28,150
+So you're telling me one option is worth
+
+145
+00:04:28,150 --> 00:04:29,490
+100 shares?
+
+146
+00:04:30,750 --> 00:04:32,130
+I don't even know how you do that
+
+147
+00:04:32,130 --> 00:04:33,230
+and I'm watching from behind.
+
+148
+00:04:33,490 --> 00:04:33,650
+Yeah.
+
+149
+00:04:33,850 --> 00:04:35,670
+Yeah, this is totally incredible.
+
+150
+00:04:37,770 --> 00:04:39,510
+And the last thing is that there's just
+
+151
+00:04:39,510 --> 00:04:40,310
+more choice.
+
+152
+00:04:40,450 --> 00:04:42,030
+There's a variety of different things that you
+
+153
+00:04:42,030 --> 00:04:43,490
+can do rather than just buying and selling
+
+154
+00:04:43,490 --> 00:04:45,090
+a stock, which is basically what you could
+
+155
+00:04:45,090 --> 00:04:45,630
+do with stocks.
+
+156
+00:04:46,010 --> 00:04:47,190
+There's just a lot more choice.
+
+157
+00:04:47,190 --> 00:04:48,490
+All right, so pull your phone out and
+
+158
+00:04:48,490 --> 00:04:49,150
+follow along.
+
+159
+00:04:49,310 --> 00:04:51,110
+This is not gonna make any sense to
+
+160
+00:04:51,110 --> 00:04:51,250
+you.
+
+161
+00:04:51,290 --> 00:04:52,850
+When I first was shown this, I didn't
+
+162
+00:04:52,850 --> 00:04:54,090
+make any sense to me, but I don't
+
+163
+00:04:54,090 --> 00:04:54,510
+know about you.
+
+164
+00:04:54,890 --> 00:04:55,970
+Look, it didn't make sense to me either,
+
+165
+00:04:56,010 --> 00:04:56,870
+but that's why we're here, right?
+
+166
+00:04:56,930 --> 00:05:00,310
+To learn the basics and contract and options
+
+167
+00:05:00,310 --> 00:05:02,450
+have a few key elements that I think
+
+168
+00:05:02,450 --> 00:05:04,030
+are important to understand.
+
+169
+00:05:04,210 --> 00:05:04,410
+Okay.
+
+170
+00:05:04,530 --> 00:05:05,510
+And we're gonna go through them one by
+
+171
+00:05:05,510 --> 00:05:07,510
+one and then we're gonna go through examples.
+
+172
+00:05:07,910 --> 00:05:09,330
+Yeah, and then I promised we're gonna apply
+
+173
+00:05:09,330 --> 00:05:11,210
+these techniques to actually make some money with,
+
+174
+00:05:11,270 --> 00:05:12,310
+but here's the interface.
+
+175
+00:05:12,470 --> 00:05:14,570
+So walk me through to the beginning.
+
+176
+00:05:14,750 --> 00:05:16,610
+Okay, so go ahead, grab your phone and
+
+177
+00:05:16,610 --> 00:05:19,190
+go to your favorite underlying, your favorite asset,
+
+178
+00:05:19,530 --> 00:05:22,050
+your favorite stock company, whatever you wanna call
+
+179
+00:05:22,050 --> 00:05:22,870
+it, whatever turns you on.
+
+180
+00:05:22,930 --> 00:05:25,150
+We're gonna use our capital to purchase these
+
+181
+00:05:25,150 --> 00:05:26,270
+underlying equities.
+
+182
+00:05:26,410 --> 00:05:28,030
+While adjusting your bow tie, yeah.
+
+183
+00:05:28,550 --> 00:05:30,050
+So go ahead, in this case, we chose
+
+184
+00:05:30,050 --> 00:05:30,370
+Apple.
+
+185
+00:05:30,590 --> 00:05:30,790
+Okay.
+
+186
+00:05:30,990 --> 00:05:32,710
+So as you can see at the bottom
+
+187
+00:05:32,710 --> 00:05:34,510
+right-hand corner, you have trade.
+
+188
+00:05:34,690 --> 00:05:36,690
+You might have to turn this feature on
+
+189
+00:05:36,690 --> 00:05:38,570
+in Robinhood if it's not turned on already
+
+190
+00:05:38,570 --> 00:05:41,270
+to get option trading, but you'll notice a
+
+191
+00:05:41,270 --> 00:05:41,910
+few options here.
+
+192
+00:05:41,990 --> 00:05:44,130
+You can buy the shares, you can sell
+
+193
+00:05:44,130 --> 00:05:45,810
+the shares if you have them, or you
+
+194
+00:05:45,810 --> 00:05:47,610
+can trade options, and that's what we're gonna
+
+195
+00:05:47,610 --> 00:05:47,890
+go on.
+
+196
+00:05:47,950 --> 00:05:50,310
+So go ahead, click trade options, and you're
+
+197
+00:05:50,310 --> 00:05:51,690
+gonna get something that pops up that looks
+
+198
+00:05:51,690 --> 00:05:52,750
+a little bit like this.
+
+199
+00:05:52,850 --> 00:05:54,110
+Now, at first, you're gonna be like, oh,
+
+200
+00:05:54,170 --> 00:05:54,670
+I gotta read all of this.
+
+201
+00:05:54,670 --> 00:05:56,090
+It's very confusing looking, yeah.
+
+202
+00:05:56,110 --> 00:05:57,950
+Gonna be like up, down, left, right.
+
+203
+00:05:58,030 --> 00:05:59,610
+You're gonna be turning around in circles, you'll
+
+204
+00:05:59,610 --> 00:06:01,610
+get dizzy, and then you wouldn't wanna do
+
+205
+00:06:01,610 --> 00:06:02,710
+any of this anymore because you'd be like,
+
+206
+00:06:02,750 --> 00:06:03,550
+I just need to lay down.
+
+207
+00:06:03,650 --> 00:06:04,970
+So don't worry, take it easy.
+
+208
+00:06:05,070 --> 00:06:06,510
+We're gonna go through each of the key
+
+209
+00:06:06,510 --> 00:06:07,830
+elements, starting with the top.
+
+210
+00:06:08,210 --> 00:06:09,590
+Now, the top has a bunch of dates
+
+211
+00:06:09,590 --> 00:06:09,930
+on there.
+
+212
+00:06:10,130 --> 00:06:10,390
+Okay.
+
+213
+00:06:10,530 --> 00:06:12,490
+This is called the expiration date and is
+
+214
+00:06:12,490 --> 00:06:15,350
+the first key feature of an options contract.
+
+215
+00:06:15,850 --> 00:06:18,670
+And basically, what the expiration date is is
+
+216
+00:06:18,670 --> 00:06:20,670
+how long is the contract gonna be valid
+
+217
+00:06:20,670 --> 00:06:20,950
+for.
+
+218
+00:06:21,950 --> 00:06:23,910
+Two people make a contract, there's an expiration
+
+219
+00:06:23,910 --> 00:06:26,190
+date, it expires then, and that is what
+
+220
+00:06:26,190 --> 00:06:27,230
+the dates here represent.
+
+221
+00:06:27,590 --> 00:06:29,630
+So you'll notice that it has August 6th,
+
+222
+00:06:29,630 --> 00:06:30,930
+which is tomorrow, right?
+
+223
+00:06:31,250 --> 00:06:33,630
+August 13th, which is next week, or September
+
+224
+00:06:33,630 --> 00:06:34,750
+3rd, which is next month.
+
+225
+00:06:34,810 --> 00:06:36,930
+So as you can see, the options go
+
+226
+00:06:36,930 --> 00:06:39,730
+out even to a few years out, right?
+
+227
+00:06:40,010 --> 00:06:41,490
+So the farther out you go, the less
+
+228
+00:06:41,490 --> 00:06:42,490
+risky it is.
+
+229
+00:06:42,630 --> 00:06:44,350
+And the closer you pick a date, the
+
+230
+00:06:44,350 --> 00:06:45,430
+more risk you're taking.
+
+231
+00:06:45,710 --> 00:06:45,850
+100%.
+
+232
+00:06:45,850 --> 00:06:47,250
+Because it's very hard to predict what's gonna
+
+233
+00:06:47,250 --> 00:06:47,990
+happen tomorrow.
+
+234
+00:06:48,250 --> 00:06:50,290
+But we could probably predict that two years
+
+235
+00:06:50,290 --> 00:06:52,170
+from now, the market will probably go a
+
+236
+00:06:52,170 --> 00:06:52,570
+little bit higher.
+
+237
+00:06:52,690 --> 00:06:55,090
+Yes, or probably not do something.
+
+238
+00:06:55,310 --> 00:06:55,470
+Right.
+
+239
+00:06:55,510 --> 00:06:56,790
+As you'll see in the next example.
+
+240
+00:06:56,890 --> 00:06:57,590
+So let's pick a date.
+
+241
+00:06:57,770 --> 00:07:00,790
+Let's go September 3rd, a month from now,
+
+242
+00:07:00,850 --> 00:07:01,110
+all right?
+
+243
+00:07:01,590 --> 00:07:03,030
+Now, you'll notice once you hit a date,
+
+244
+00:07:03,190 --> 00:07:04,470
+a whole bunch of things pop up.
+
+245
+00:07:04,590 --> 00:07:04,810
+Yes.
+
+246
+00:07:04,850 --> 00:07:06,570
+Looks like a jet pilot screen.
+
+247
+00:07:06,670 --> 00:07:08,230
+For those jet pilots out there, you'll be
+
+248
+00:07:08,230 --> 00:07:08,830
+like, oh, wow.
+
+249
+00:07:09,130 --> 00:07:09,970
+This is my jam.
+
+250
+00:07:09,970 --> 00:07:12,910
+But for everybody else, us included, we gotta
+
+251
+00:07:12,910 --> 00:07:14,990
+just learn a little bit about the basics.
+
+252
+00:07:15,250 --> 00:07:15,350
+Right.
+
+253
+00:07:15,430 --> 00:07:16,490
+So if we look in the middle here,
+
+254
+00:07:16,550 --> 00:07:18,510
+we see share price, $146.
+
+255
+00:07:18,830 --> 00:07:20,690
+This is what the current price of Apple,
+
+256
+00:07:20,870 --> 00:07:22,650
+in this case, is right now at the
+
+257
+00:07:22,650 --> 00:07:23,210
+time of recording.
+
+258
+00:07:23,370 --> 00:07:25,050
+Now on the left side, you have strike
+
+259
+00:07:25,050 --> 00:07:25,450
+prices.
+
+260
+00:07:25,590 --> 00:07:27,510
+We call them strike prices, which is basically
+
+261
+00:07:27,510 --> 00:07:30,810
+the future potential price of the stock.
+
+262
+00:07:31,110 --> 00:07:31,310
+Okay.
+
+263
+00:07:31,350 --> 00:07:32,690
+So it could go up or it could
+
+264
+00:07:32,690 --> 00:07:33,110
+go down.
+
+265
+00:07:33,230 --> 00:07:34,210
+This is pretty basic.
+
+266
+00:07:34,390 --> 00:07:35,570
+But we have strike prices.
+
+267
+00:07:35,890 --> 00:07:38,950
+We have 147, 148, 149, 150.
+
+268
+00:07:38,950 --> 00:07:41,230
+So strike prices are basically what the stock
+
+269
+00:07:41,230 --> 00:07:43,070
+should be worth at the end of the
+
+270
+00:07:43,070 --> 00:07:43,430
+contract.
+
+271
+00:07:43,610 --> 00:07:45,650
+But investors could never use really simple words
+
+272
+00:07:45,650 --> 00:07:47,170
+like that's what the price is.
+
+273
+00:07:47,250 --> 00:07:48,510
+So far, so good.
+
+274
+00:07:48,730 --> 00:07:48,890
+Okay.
+
+275
+00:07:49,210 --> 00:07:51,250
+Now the third key piece is just the
+
+276
+00:07:51,250 --> 00:07:53,170
+premium and the contract, which is here on
+
+277
+00:07:53,170 --> 00:07:54,850
+the side where you see all of these
+
+278
+00:07:54,850 --> 00:07:57,630
+little numbers, $3.40, $3.95. This is
+
+279
+00:07:57,630 --> 00:07:58,290
+called the premium.
+
+280
+00:07:58,470 --> 00:08:00,710
+And the premium is the amount of money
+
+281
+00:08:00,710 --> 00:08:04,670
+that is paid by the buyer or collected
+
+282
+00:08:04,670 --> 00:08:07,490
+by the seller for the contract itself.
+
+283
+00:08:07,490 --> 00:08:09,350
+So those are the three key elements that
+
+284
+00:08:09,350 --> 00:08:10,030
+you need to know.
+
+285
+00:08:10,550 --> 00:08:12,130
+The expiration date, all right?
+
+286
+00:08:12,390 --> 00:08:14,610
+When the contract expires, how long it's valid
+
+287
+00:08:14,610 --> 00:08:17,510
+to, the strike price, the potential future price
+
+288
+00:08:17,510 --> 00:08:20,610
+of the underlying stock, and the premium, which
+
+289
+00:08:20,610 --> 00:08:22,190
+is either paid or collected.
+
+290
+00:08:22,450 --> 00:08:24,870
+Let's give you an example of actually applying
+
+291
+00:08:24,870 --> 00:08:25,530
+this stuff.
+
+292
+00:08:25,790 --> 00:08:27,090
+So you'll see it and it'll make a
+
+293
+00:08:27,090 --> 00:08:27,710
+lot more sense.
+
+294
+00:08:27,810 --> 00:08:29,490
+So in our contract, there's a few things
+
+295
+00:08:29,490 --> 00:08:31,049
+that we have to discuss, right?
+
+296
+00:08:31,150 --> 00:08:32,990
+Is the key elements that we just talked
+
+297
+00:08:32,990 --> 00:08:33,490
+about, right?
+
+298
+00:08:33,789 --> 00:08:36,309
+The expiration date, the strike price, et cetera.
+
+299
+00:08:36,309 --> 00:08:37,830
+I wanna have the rights to buy this
+
+300
+00:08:37,830 --> 00:08:39,870
+deck of cards six months from now.
+
+301
+00:08:39,929 --> 00:08:42,190
+And that is the expiration date, six months
+
+302
+00:08:42,190 --> 00:08:42,490
+from now.
+
+303
+00:08:42,590 --> 00:08:43,750
+And now we also have to put a
+
+304
+00:08:43,750 --> 00:08:44,290
+price on it.
+
+305
+00:08:44,510 --> 00:08:46,610
+I am willing to buy this for, let's
+
+306
+00:08:46,610 --> 00:08:48,210
+say $13, okay?
+
+307
+00:08:48,270 --> 00:08:49,490
+I think it's gonna go up to 15.
+
+308
+00:08:49,910 --> 00:08:51,430
+So I'm gonna put my strike price in
+
+309
+00:08:51,430 --> 00:08:53,770
+at $13, let's say, but I think it
+
+310
+00:08:53,770 --> 00:08:55,710
+could go maybe even more than that.
+
+311
+00:08:55,870 --> 00:08:57,670
+So I'll just pick a strike price, $13,
+
+312
+00:08:58,010 --> 00:08:59,390
+but I know this is selling for 10
+
+313
+00:08:59,390 --> 00:08:59,910
+right now.
+
+314
+00:09:00,230 --> 00:09:01,970
+So now we've had the strike price figured
+
+315
+00:09:01,970 --> 00:09:02,990
+out as well, okay?
+
+316
+00:09:02,990 --> 00:09:04,550
+We have the expiration date, we have the
+
+317
+00:09:04,550 --> 00:09:05,010
+strike price.
+
+318
+00:09:05,510 --> 00:09:06,910
+And now Andre comes to me and goes,
+
+319
+00:09:07,050 --> 00:09:08,570
+why would I wanna enter into an agreement
+
+320
+00:09:08,570 --> 00:09:09,270
+with this guy?
+
+321
+00:09:09,390 --> 00:09:11,370
+Why would I want the contractual obligation?
+
+322
+00:09:11,870 --> 00:09:13,190
+The reason I would ever wanna go into
+
+323
+00:09:13,190 --> 00:09:14,790
+a contract with this guy is because he's
+
+324
+00:09:14,790 --> 00:09:15,790
+gonna pay me a premium.
+
+325
+00:09:16,090 --> 00:09:16,750
+Cough it up, son.
+
+326
+00:09:16,870 --> 00:09:17,550
+What do you want, a dollar?
+
+327
+00:09:19,110 --> 00:09:19,970
+Give me that dollar.
+
+328
+00:09:20,450 --> 00:09:21,790
+Oh, it didn't work.
+
+329
+00:09:22,990 --> 00:09:23,610
+Give me that dollar.
+
+330
+00:09:23,710 --> 00:09:25,090
+So that's my premium that I get to
+
+331
+00:09:25,090 --> 00:09:25,350
+keep.
+
+332
+00:09:25,690 --> 00:09:27,970
+And that's the benefit for entering into a
+
+333
+00:09:27,970 --> 00:09:28,230
+contract.
+
+334
+00:09:28,390 --> 00:09:30,770
+Now our contract represents a hundred of these
+
+335
+00:09:30,770 --> 00:09:30,970
+decks.
+
+336
+00:09:31,050 --> 00:09:32,790
+It's not one deck, it's a hundred of
+
+337
+00:09:32,790 --> 00:09:32,890
+them.
+
+338
+00:09:32,990 --> 00:09:33,950
+And we already know that, right?
+
+339
+00:09:33,950 --> 00:09:37,770
+One contract controls a hundred shares of the
+
+340
+00:09:37,770 --> 00:09:40,810
+underlying asset, or in this case, Apple, that
+
+341
+00:09:40,810 --> 00:09:42,730
+we did, or in this case, a deck
+
+342
+00:09:42,730 --> 00:09:43,550
+of cards, all right?
+
+343
+00:09:43,670 --> 00:09:46,030
+So with this contract, we've already established our
+
+344
+00:09:46,030 --> 00:09:48,050
+terms and we're gonna see how it plays
+
+345
+00:09:48,050 --> 00:09:48,410
+out, okay?
+
+346
+00:09:48,850 --> 00:09:51,230
+So options could be broken up into two
+
+347
+00:09:51,230 --> 00:09:53,690
+sections, calls and puts.
+
+348
+00:09:53,850 --> 00:09:55,530
+Option is basically just two things.
+
+349
+00:09:55,610 --> 00:09:57,030
+It could either be a call or it
+
+350
+00:09:57,030 --> 00:09:57,530
+could be a put.
+
+351
+00:09:57,630 --> 00:09:59,830
+And you can do one of two things
+
+352
+00:09:59,830 --> 00:10:00,830
+with those options.
+
+353
+00:10:00,990 --> 00:10:02,610
+You can buy a put or you can
+
+354
+00:10:02,610 --> 00:10:02,990
+sell a put.
+
+355
+00:10:02,990 --> 00:10:04,390
+You can buy a call or you can
+
+356
+00:10:04,390 --> 00:10:04,830
+sell a call.
+
+357
+00:10:05,010 --> 00:10:05,190
+Simple.
+
+358
+00:10:05,510 --> 00:10:06,750
+These are the four options.
+
+359
+00:10:06,870 --> 00:10:09,050
+We're gonna jump right into exactly what each
+
+360
+00:10:09,050 --> 00:10:09,670
+of those mean.
+
+361
+00:10:09,830 --> 00:10:11,090
+Very important to understand.
+
+362
+00:10:11,230 --> 00:10:12,610
+And once we do that, we can go
+
+363
+00:10:12,610 --> 00:10:14,750
+into some examples and make some money.
+
+364
+00:10:14,910 --> 00:10:16,310
+Okay, so now that Alex is gone, let
+
+365
+00:10:16,310 --> 00:10:17,850
+me just explain it in my own words
+
+366
+00:10:17,850 --> 00:10:19,790
+because it's pretty complicated, but hopefully this helps.
+
+367
+00:10:20,230 --> 00:10:22,450
+First, you can buy a call option.
+
+368
+00:10:22,750 --> 00:10:24,710
+This makes you a bull because you think
+
+369
+00:10:24,710 --> 00:10:26,030
+that the stock is going to go up
+
+370
+00:10:26,030 --> 00:10:29,190
+in value beyond the strike price at or
+
+371
+00:10:29,190 --> 00:10:31,970
+before the date of expiration, at which point
+
+372
+00:10:31,970 --> 00:10:34,050
+you have the option to buy that stock,
+
+373
+00:10:34,310 --> 00:10:36,090
+but you also have to pay somebody a
+
+374
+00:10:36,090 --> 00:10:37,070
+premium for doing that.
+
+375
+00:10:37,150 --> 00:10:38,970
+Now you can buy what's called a put
+
+376
+00:10:38,970 --> 00:10:40,610
+option, which is just a way for you
+
+377
+00:10:40,610 --> 00:10:42,490
+to be a bear, which means that you
+
+378
+00:10:42,490 --> 00:10:45,130
+think the stock will go down below the
+
+379
+00:10:45,130 --> 00:10:47,070
+strike price at or before the date of
+
+380
+00:10:47,070 --> 00:10:49,390
+expiration, at which point you have the option
+
+381
+00:10:49,390 --> 00:10:51,910
+to sell your shares, but you also have
+
+382
+00:10:51,910 --> 00:10:53,530
+to pay someone a premium for doing that.
+
+383
+00:10:53,890 --> 00:10:56,370
+Now you could also sell what are called
+
+384
+00:10:56,370 --> 00:10:59,250
+call options, which means you have the obligation
+
+385
+00:10:59,250 --> 00:11:01,850
+to sell your shares at a strike price
+
+386
+00:11:01,850 --> 00:11:04,570
+at that expiration date, and you make money
+
+387
+00:11:04,570 --> 00:11:08,050
+by collecting those premiums for selling those call
+
+388
+00:11:08,050 --> 00:11:08,610
+options.
+
+389
+00:11:09,050 --> 00:11:11,350
+Now, if the stock does not hit the
+
+390
+00:11:11,350 --> 00:11:13,590
+strike price, you do not have to sell
+
+391
+00:11:13,590 --> 00:11:15,490
+your shares and you get to keep your
+
+392
+00:11:15,490 --> 00:11:18,410
+premium, but you can also sell the put
+
+393
+00:11:18,410 --> 00:11:21,690
+option, which is the obligation to buy the
+
+394
+00:11:21,690 --> 00:11:24,530
+stock at the strike price at or before
+
+395
+00:11:24,530 --> 00:11:25,630
+the date of expiration.
+
+396
+00:11:26,130 --> 00:11:28,690
+And again, you make money by collecting the
+
+397
+00:11:28,690 --> 00:11:29,510
+premiums.
+
+398
+00:11:29,590 --> 00:11:31,190
+And if the stock does not hit the
+
+399
+00:11:31,190 --> 00:11:33,670
+strike price, then you don't have to buy
+
+400
+00:11:33,670 --> 00:11:34,370
+those shares.
+
+401
+00:11:34,770 --> 00:11:35,770
+That's how it works.
+
+402
+00:11:35,830 --> 00:11:37,270
+Those are the four things you can kind
+
+403
+00:11:37,270 --> 00:11:37,510
+of do.
+
+404
+00:11:37,590 --> 00:11:39,610
+That's a very simple explanation, which I know
+
+405
+00:11:39,610 --> 00:11:40,550
+is still complicated.
+
+406
+00:11:40,550 --> 00:11:42,390
+So just press the J button on your
+
+407
+00:11:42,390 --> 00:11:43,830
+keyboard a few times to go back and
+
+408
+00:11:43,830 --> 00:11:44,870
+hopefully it makes more sense.
+
+409
+00:11:45,010 --> 00:11:46,670
+Now that you know all of that, let's
+
+410
+00:11:46,670 --> 00:11:49,170
+apply these techniques to your investing and hopefully
+
+411
+00:11:49,170 --> 00:11:49,930
+make some money.
+
+412
+00:11:50,250 --> 00:11:52,310
+There's three ways to actually do this.
+
+413
+00:11:52,630 --> 00:11:53,890
+And we're gonna start with the first one,
+
+414
+00:11:53,890 --> 00:11:55,790
+which is selling covered calls.
+
+415
+00:11:55,950 --> 00:11:57,450
+Yes, a very easy strategy.
+
+416
+00:11:57,830 --> 00:11:59,150
+If you are out there and you already
+
+417
+00:11:59,150 --> 00:12:01,770
+have a portfolio of a bunch of stock
+
+418
+00:12:01,770 --> 00:12:04,590
+with at least 100 shares of each, you
+
+419
+00:12:04,590 --> 00:12:08,050
+can then sell a covered call, which basically
+
+420
+00:12:08,050 --> 00:12:10,810
+means selling calls, exactly what you just explained,
+
+421
+00:12:10,970 --> 00:12:14,950
+and collect the premium on your already invested
+
+422
+00:12:14,950 --> 00:12:15,410
+shares.
+
+423
+00:12:15,510 --> 00:12:16,370
+So let's go ahead and do that.
+
+424
+00:12:16,450 --> 00:12:17,930
+So it's almost like you're getting some dividends.
+
+425
+00:12:18,190 --> 00:12:19,470
+So go ahead and show me how you
+
+426
+00:12:19,470 --> 00:12:20,290
+would sell an option.
+
+427
+00:12:20,290 --> 00:12:21,130
+So go ahead, trade.
+
+428
+00:12:21,330 --> 00:12:21,850
+Okay, trade.
+
+429
+00:12:22,550 --> 00:12:24,170
+And then you're gonna hit trade options.
+
+430
+00:12:24,390 --> 00:12:26,710
+And then again, like we did before, we're
+
+431
+00:12:26,710 --> 00:12:28,090
+gonna pick an expiration date.
+
+432
+00:12:28,350 --> 00:12:30,610
+I usually tend to think a safe route
+
+433
+00:12:30,610 --> 00:12:32,190
+is a few months out, let's say.
+
+434
+00:12:32,570 --> 00:12:33,670
+Call it two months out.
+
+435
+00:12:33,750 --> 00:12:34,730
+So go two months out.
+
+436
+00:12:35,010 --> 00:12:36,990
+Okay, so what is that, October?
+
+437
+00:12:37,410 --> 00:12:40,290
+Sure, let's do, yeah, October, September, that's fine.
+
+438
+00:12:40,870 --> 00:12:43,750
+So now, again, we're going to sell a
+
+439
+00:12:43,750 --> 00:12:47,050
+call, which means- Sell call.
+
+440
+00:12:47,250 --> 00:12:47,610
+Perfect.
+
+441
+00:12:47,730 --> 00:12:49,190
+So we're going to sell the call, which
+
+442
+00:12:49,190 --> 00:12:51,290
+means hit the sell button and hit the
+
+443
+00:12:51,290 --> 00:12:51,810
+call button.
+
+444
+00:12:52,110 --> 00:12:53,970
+And once you do this, all you have
+
+445
+00:12:53,970 --> 00:12:57,290
+to ask yourself is, I don't think Apple
+
+446
+00:12:57,290 --> 00:13:00,930
+will get to X strike price.
+
+447
+00:13:01,230 --> 00:13:03,110
+So go ahead and choose a strike price
+
+448
+00:13:03,490 --> 00:13:05,650
+of where you don't think that Apple will
+
+449
+00:13:05,650 --> 00:13:07,390
+be by October 15th.
+
+450
+00:13:07,390 --> 00:13:07,930
+And guess what?
+
+451
+00:13:08,010 --> 00:13:11,590
+Your opinion is fine, but Robinhood here does
+
+452
+00:13:11,590 --> 00:13:12,810
+the calculation for you.
+
+453
+00:13:12,870 --> 00:13:14,250
+As you can see here, you have your
+
+454
+00:13:14,250 --> 00:13:16,330
+strike prices and next to them, chance of
+
+455
+00:13:16,330 --> 00:13:16,710
+profit.
+
+456
+00:13:16,710 --> 00:13:18,370
+Now, if you go for a chance of
+
+457
+00:13:18,370 --> 00:13:20,350
+profit, let's say 83%.
+
+458
+00:13:20,810 --> 00:13:21,550
+I'm going to do that.
+
+459
+00:13:21,710 --> 00:13:23,030
+I want to do 83%.
+
+460
+00:13:23,030 --> 00:13:24,830
+Okay, which is 83% chance you're going
+
+461
+00:13:24,830 --> 00:13:26,170
+to make money off of this trade.
+
+462
+00:13:26,250 --> 00:13:28,330
+Which means Apple will most likely not get
+
+463
+00:13:28,330 --> 00:13:30,110
+to $160 by October.
+
+464
+00:13:30,230 --> 00:13:32,330
+That's right, and if it does, all that
+
+465
+00:13:32,330 --> 00:13:35,050
+means is you are going to be forced
+
+466
+00:13:35,050 --> 00:13:38,010
+or obligated to sell that- My shares.
+
+467
+00:13:38,010 --> 00:13:39,810
+Your shares at that price.
+
+468
+00:13:39,970 --> 00:13:42,390
+But it means that my investment doesn't go
+
+469
+00:13:42,390 --> 00:13:42,730
+to zero.
+
+470
+00:13:42,870 --> 00:13:44,230
+It's not like I lose everything.
+
+471
+00:13:44,230 --> 00:13:46,170
+All it means is just my stocks are
+
+472
+00:13:46,170 --> 00:13:46,890
+forced to be sold.
+
+473
+00:13:47,070 --> 00:13:49,030
+And that's okay because I'll still have money
+
+474
+00:13:49,030 --> 00:13:51,770
+to either buy back into Apple, or I
+
+475
+00:13:51,770 --> 00:13:52,870
+could buy something else.
+
+476
+00:13:52,990 --> 00:13:54,810
+And the best thing is you're still collecting
+
+477
+00:13:54,810 --> 00:13:55,650
+the premium on it.
+
+478
+00:13:55,670 --> 00:13:57,610
+So if you own a hundred shares, so
+
+479
+00:13:57,610 --> 00:13:59,150
+for example, for me, if I put one,
+
+480
+00:13:59,230 --> 00:14:01,850
+that represents 100 shares, my premium would be
+
+481
+00:14:01,850 --> 00:14:04,330
+$177, which is pretty incredible.
+
+482
+00:14:04,590 --> 00:14:06,590
+And if I put two, that's 200.
+
+483
+00:14:06,790 --> 00:14:08,290
+I know I have at least 200 shares.
+
+484
+00:14:08,590 --> 00:14:09,890
+I don't want to have 300, so I
+
+485
+00:14:09,890 --> 00:14:11,490
+can't put three, but I know I could
+
+486
+00:14:11,490 --> 00:14:12,310
+use at least two.
+
+487
+00:14:12,310 --> 00:14:14,090
+And that would give me a premium of
+
+488
+00:14:14,090 --> 00:14:14,950
+$354.
+
+489
+00:14:15,430 --> 00:14:15,710
+That's right.
+
+490
+00:14:15,850 --> 00:14:18,190
+So if Apple does not get to $160,
+
+491
+00:14:18,810 --> 00:14:21,470
+you get to keep that premium, all $354,
+
+492
+00:14:21,870 --> 00:14:23,130
+which you get right away.
+
+493
+00:14:23,610 --> 00:14:25,510
+And you don't have to sell your shares.
+
+494
+00:14:25,710 --> 00:14:26,810
+So let's do it.
+
+495
+00:14:26,910 --> 00:14:27,210
+Review.
+
+496
+00:14:27,870 --> 00:14:29,050
+Bam, swipe up.
+
+497
+00:14:30,350 --> 00:14:31,370
+And it's gone.
+
+498
+00:14:31,690 --> 00:14:33,510
+Now I still receive my dividends, even though
+
+499
+00:14:33,510 --> 00:14:35,110
+Robinhood took it as collateral, right?
+
+500
+00:14:35,130 --> 00:14:35,530
+That's right.
+
+501
+00:14:35,570 --> 00:14:36,470
+It's still your shares.
+
+502
+00:14:36,590 --> 00:14:37,790
+These are yours that you own.
+
+503
+00:14:38,330 --> 00:14:40,510
+They're just keeping it there just in case.
+
+504
+00:14:40,510 --> 00:14:42,610
+All right, so the second application of options
+
+505
+00:14:42,610 --> 00:14:46,390
+trading is buying stocks by selling puts, right?
+
+506
+00:14:46,670 --> 00:14:46,930
+Yes.
+
+507
+00:14:47,030 --> 00:14:49,610
+So basically you might be out there saying,
+
+508
+00:14:49,750 --> 00:14:52,510
+I want to buy whatever stock you're interested
+
+509
+00:14:52,510 --> 00:14:52,830
+in.
+
+510
+00:14:53,070 --> 00:14:55,210
+And before you go straight into buying that,
+
+511
+00:14:55,550 --> 00:14:56,870
+you take a second and you say, hold
+
+512
+00:14:56,870 --> 00:14:57,070
+on.
+
+513
+00:14:57,170 --> 00:14:59,330
+I can probably get a better price by
+
+514
+00:14:59,330 --> 00:15:02,170
+using options to get into my position.
+
+515
+00:15:02,710 --> 00:15:05,970
+So remember, selling a put is the obligation
+
+516
+00:15:06,430 --> 00:15:08,390
+to buy that underlying.
+
+517
+00:15:08,530 --> 00:15:09,350
+So we're going to use that to our
+
+518
+00:15:09,350 --> 00:15:09,730
+advantage.
+
+519
+00:15:09,730 --> 00:15:12,450
+So what company do you want to invest
+
+520
+00:15:12,450 --> 00:15:12,670
+in?
+
+521
+00:15:12,810 --> 00:15:14,350
+So I've always wanted to buy the win,
+
+522
+00:15:14,530 --> 00:15:16,110
+but maybe I can get a better price
+
+523
+00:15:16,110 --> 00:15:16,390
+on it.
+
+524
+00:15:16,430 --> 00:15:17,790
+Right now it's 98 bucks.
+
+525
+00:15:17,850 --> 00:15:20,310
+And maybe you're saying I could do better
+
+526
+00:15:20,310 --> 00:15:20,870
+than 98.
+
+527
+00:15:21,270 --> 00:15:22,610
+So go ahead, trade.
+
+528
+00:15:23,330 --> 00:15:24,710
+Go to trade options.
+
+529
+00:15:25,090 --> 00:15:27,690
+And we're going to pick first and foremost,
+
+530
+00:15:27,870 --> 00:15:28,770
+the expiration date.
+
+531
+00:15:28,990 --> 00:15:30,390
+So let's go to the end of the
+
+532
+00:15:30,390 --> 00:15:32,010
+year, let's say the December 17th.
+
+533
+00:15:32,110 --> 00:15:32,330
+Okay.
+
+534
+00:15:32,730 --> 00:15:34,770
+So now you have your option of, do
+
+535
+00:15:34,770 --> 00:15:35,130
+I buy?
+
+536
+00:15:35,210 --> 00:15:35,690
+Do I sell?
+
+537
+00:15:35,770 --> 00:15:36,210
+Do I call?
+
+538
+00:15:36,270 --> 00:15:36,790
+Do I put?
+
+539
+00:15:36,970 --> 00:15:37,950
+All of that stuff.
+
+540
+00:15:38,190 --> 00:15:38,570
+What do we do?
+
+541
+00:15:39,310 --> 00:15:39,750
+Sell.
+
+542
+00:15:39,950 --> 00:15:40,850
+What did you call me?
+
+543
+00:15:41,490 --> 00:15:42,150
+All right.
+
+544
+00:15:42,470 --> 00:15:43,250
+Sell, put.
+
+545
+00:15:43,510 --> 00:15:43,710
+Perfect.
+
+546
+00:15:43,950 --> 00:15:45,450
+So now you just have to ask yourself,
+
+547
+00:15:46,150 --> 00:15:48,050
+what price do you want to pay?
+
+548
+00:15:48,390 --> 00:15:51,030
+And are you okay owning win at?
+
+549
+00:15:51,310 --> 00:15:51,690
+Right.
+
+550
+00:15:51,810 --> 00:15:54,130
+So I'm okay with owning the win at,
+
+551
+00:15:54,250 --> 00:15:55,950
+I mean, even honestly at these prices, but
+
+552
+00:15:55,950 --> 00:15:57,070
+let's say $85.
+
+553
+00:15:57,550 --> 00:15:58,270
+$85 is perfect.
+
+554
+00:15:58,270 --> 00:16:00,290
+I'm perfectly happy with owning it at $85.
+
+555
+00:16:00,490 --> 00:16:00,750
+Okay.
+
+556
+00:16:00,850 --> 00:16:02,710
+So worst case, and we're not saying worst
+
+557
+00:16:02,710 --> 00:16:04,950
+case scenario now because you actually do want
+
+558
+00:16:04,950 --> 00:16:05,330
+to own it.
+
+559
+00:16:05,410 --> 00:16:07,470
+Sometimes you're selling the put just to collect
+
+560
+00:16:07,470 --> 00:16:09,090
+the premium, hoping it doesn't get there.
+
+561
+00:16:09,470 --> 00:16:10,790
+But in this case, and a lot of
+
+562
+00:16:10,790 --> 00:16:13,310
+institutions use this method to get into and
+
+563
+00:16:13,310 --> 00:16:15,130
+out of positions, we're going to go to
+
+564
+00:16:15,130 --> 00:16:16,430
+the strike price of 85.
+
+565
+00:16:16,470 --> 00:16:16,950
+Great.
+
+566
+00:16:17,390 --> 00:16:20,190
+And for every one contract, that's going to
+
+567
+00:16:20,190 --> 00:16:22,130
+have you buy a hundred shares.
+
+568
+00:16:22,330 --> 00:16:24,510
+So let's just say one, for example, and
+
+569
+00:16:24,510 --> 00:16:27,270
+you're going to collect a premium of $523.
+
+570
+00:16:27,650 --> 00:16:28,210
+There you go.
+
+571
+00:16:28,590 --> 00:16:31,970
+So if it doesn't reach 85, guess what?
+
+572
+00:16:31,990 --> 00:16:33,530
+You're going to collect that whole premium and
+
+573
+00:16:33,530 --> 00:16:36,310
+go home happy, pappy, get yourself some Uber
+
+574
+00:16:36,310 --> 00:16:39,630
+Eats and- Some Pokemon Uncut sheets.
+
+575
+00:16:39,870 --> 00:16:40,850
+Oh, for 500 bucks.
+
+576
+00:16:41,030 --> 00:16:41,430
+Nice.
+
+577
+00:16:41,590 --> 00:16:42,270
+That's not going to happen.
+
+578
+00:16:42,310 --> 00:16:42,770
+Good deals right here.
+
+579
+00:16:42,770 --> 00:16:43,650
+That's not going to happen.
+
+580
+00:16:44,090 --> 00:16:46,090
+And if it does hit that price, then
+
+581
+00:16:46,090 --> 00:16:46,610
+guess what?
+
+582
+00:16:46,670 --> 00:16:48,250
+You are obligated- I'm forced to buy
+
+583
+00:16:48,250 --> 00:16:49,530
+those positions.
+
+584
+00:16:49,750 --> 00:16:51,250
+I will be forced to buy a hundred
+
+585
+00:16:51,250 --> 00:16:53,130
+shares at $85.
+
+586
+00:16:53,690 --> 00:16:55,950
+Which is okay because when selling options, you
+
+587
+00:16:55,950 --> 00:16:56,990
+just have to ask yourself.
+
+588
+00:16:57,070 --> 00:16:58,190
+And I'm going to ask you now, are
+
+589
+00:16:58,190 --> 00:16:59,870
+you okay owning win at 85?
+
+590
+00:16:59,970 --> 00:17:00,970
+We already established that.
+
+591
+00:17:01,070 --> 00:17:02,230
+The answer is yes.
+
+592
+00:17:02,510 --> 00:17:02,810
+That's good.
+
+593
+00:17:02,870 --> 00:17:03,490
+And we're good to go.
+
+594
+00:17:03,490 --> 00:17:03,990
+We're good to go.
+
+595
+00:17:04,470 --> 00:17:06,089
+So you're going to collect that premium.
+
+596
+00:17:06,310 --> 00:17:07,369
+Go ahead and hit review.
+
+597
+00:17:08,210 --> 00:17:10,510
+And you need buying power, right?
+
+598
+00:17:10,589 --> 00:17:12,829
+As collateral, just like we did covered calls.
+
+599
+00:17:13,050 --> 00:17:14,930
+You're using collateral of your shares.
+
+600
+00:17:15,569 --> 00:17:17,910
+In Robinhood, for this case, you need to
+
+601
+00:17:17,910 --> 00:17:20,750
+be enough to buy the 100 shares of
+
+602
+00:17:20,750 --> 00:17:21,010
+stock.
+
+603
+00:17:21,069 --> 00:17:22,030
+So make sure you have that.
+
+604
+00:17:22,390 --> 00:17:24,810
+Robinhood will keep that as collateral and you'll
+
+605
+00:17:24,810 --> 00:17:25,750
+be on your merry way.
+
+606
+00:17:25,869 --> 00:17:28,730
+So now I've just made $520 of premium
+
+607
+00:17:28,730 --> 00:17:29,570
+right away.
+
+608
+00:17:29,630 --> 00:17:32,430
+And on December 17th, if the win does
+
+609
+00:17:32,430 --> 00:17:35,330
+not hit, that $85, I get to keep
+
+610
+00:17:35,330 --> 00:17:36,030
+that $520.
+
+611
+00:17:36,350 --> 00:17:38,910
+Because the option will expire worthless and you
+
+612
+00:17:38,910 --> 00:17:39,710
+don't have to do anything.
+
+613
+00:17:39,790 --> 00:17:40,510
+Nothing happens.
+
+614
+00:17:40,750 --> 00:17:43,430
+But if the win does hit $85 or
+
+615
+00:17:43,430 --> 00:17:45,650
+below, then I would have to buy a
+
+616
+00:17:45,650 --> 00:17:47,630
+hundred shares worth at $85.
+
+617
+00:17:48,190 --> 00:17:50,150
+Which by his standards is okay.
+
+618
+00:17:50,630 --> 00:17:51,590
+Okay with me too.
+
+619
+00:17:51,870 --> 00:17:52,470
+We're good to go.
+
+620
+00:17:52,810 --> 00:17:53,170
+Done.
+
+621
+00:17:53,290 --> 00:17:54,050
+Bingo, bingo.
+
+622
+00:17:54,230 --> 00:17:54,570
+Bongo.
+
+623
+00:17:55,170 --> 00:17:55,970
+Bongo drums.
+
+624
+00:17:56,090 --> 00:17:56,530
+Where they at?
+
+625
+00:17:56,690 --> 00:17:57,950
+All right, and the third option is something
+
+626
+00:17:57,950 --> 00:17:59,430
+called leaps, which are pretty cool.
+
+627
+00:17:59,810 --> 00:18:01,930
+Yeah, so basically we understand the fact that
+
+628
+00:18:01,930 --> 00:18:04,830
+one option contracts controls 100 shares.
+
+629
+00:18:05,250 --> 00:18:07,170
+And again, we're taking advantage of all these
+
+630
+00:18:07,170 --> 00:18:10,930
+options, key features in our investing.
+
+631
+00:18:11,150 --> 00:18:13,130
+So if you want to, let's say buy
+
+632
+00:18:13,130 --> 00:18:13,750
+Apple.
+
+633
+00:18:14,350 --> 00:18:16,050
+So you want to buy Apple.
+
+634
+00:18:16,350 --> 00:18:17,350
+Yeah, which is pretty expensive.
+
+635
+00:18:17,670 --> 00:18:18,890
+And I might not have the money to
+
+636
+00:18:18,890 --> 00:18:19,990
+buy a hundred shares.
+
+637
+00:18:20,410 --> 00:18:22,130
+And that's perfect because we just learned about
+
+638
+00:18:22,130 --> 00:18:24,650
+options and we understand that one option share
+
+639
+00:18:24,650 --> 00:18:26,190
+controls a hundred.
+
+640
+00:18:26,510 --> 00:18:27,130
+You got it.
+
+641
+00:18:27,170 --> 00:18:27,770
+And they got it too.
+
+642
+00:18:27,830 --> 00:18:29,750
+They're yelling at the screen, 100 shares.
+
+643
+00:18:29,770 --> 00:18:30,850
+And smashing that like button.
+
+644
+00:18:31,370 --> 00:18:32,470
+It's so smooth.
+
+645
+00:18:32,850 --> 00:18:33,710
+You're so smooth.
+
+646
+00:18:33,890 --> 00:18:36,170
+So if you want to invest in Apple
+
+647
+00:18:36,170 --> 00:18:38,050
+and maybe don't have the capital to buy
+
+648
+00:18:38,050 --> 00:18:39,790
+a hundred shares, which is going to be
+
+649
+00:18:39,790 --> 00:18:42,570
+at this price, $146 times, it's going to
+
+650
+00:18:42,570 --> 00:18:44,950
+be $14,000 to buy 100 shares.
+
+651
+00:18:45,310 --> 00:18:48,330
+You can control that 100 shares by buying
+
+652
+00:18:48,330 --> 00:18:48,830
+some options.
+
+653
+00:18:48,870 --> 00:18:49,870
+So let's go ahead and do that.
+
+654
+00:18:49,970 --> 00:18:50,910
+This is really interesting.
+
+655
+00:18:51,070 --> 00:18:53,690
+So just quick math here, a hundred times
+
+656
+00:18:53,690 --> 00:18:58,030
+$146 is roughly $14,600 ish, right?
+
+657
+00:18:58,030 --> 00:19:00,550
+Now let's say I don't have $14,500
+
+658
+00:19:00,550 --> 00:19:03,030
+to buy a hundred shares, but this is
+
+659
+00:19:03,030 --> 00:19:03,530
+what we can do.
+
+660
+00:19:03,590 --> 00:19:05,890
+We could go to trade, trade options.
+
+661
+00:19:06,350 --> 00:19:08,570
+And we're going to pick an expiration date.
+
+662
+00:19:08,790 --> 00:19:09,330
+Really far.
+
+663
+00:19:09,330 --> 00:19:10,110
+Really far, yes.
+
+664
+00:19:10,150 --> 00:19:11,630
+So the farthest we can go in this
+
+665
+00:19:11,630 --> 00:19:15,130
+case is September 15th, 2023.
+
+666
+00:19:15,510 --> 00:19:17,030
+Great, so that's a few years out.
+
+667
+00:19:17,530 --> 00:19:19,250
+We're going to buy our call.
+
+668
+00:19:19,650 --> 00:19:22,370
+So now you have to ask yourself, what
+
+669
+00:19:22,370 --> 00:19:26,210
+price do I think Apple will be by
+
+670
+00:19:26,210 --> 00:19:28,810
+September 23rd, 2023?
+
+671
+00:19:29,170 --> 00:19:30,730
+Well, I don't know what price it will
+
+672
+00:19:30,730 --> 00:19:33,490
+be, but I think it'll be above a
+
+673
+00:19:33,490 --> 00:19:34,070
+hundred dollars.
+
+674
+00:19:34,230 --> 00:19:35,330
+That's a very good call.
+
+675
+00:19:35,950 --> 00:19:36,510
+Get it, call?
+
+676
+00:19:36,930 --> 00:19:38,610
+So we can make the bet that Apple
+
+677
+00:19:38,610 --> 00:19:40,390
+will be above a hundred dollars.
+
+678
+00:19:40,530 --> 00:19:42,250
+So we can go ahead and buy the
+
+679
+00:19:42,250 --> 00:19:44,430
+call option for a hundred dollars.
+
+680
+00:19:44,490 --> 00:19:46,130
+Now, in this case, you'll notice something.
+
+681
+00:19:46,190 --> 00:19:47,450
+If we go down to a hundred, the
+
+682
+00:19:47,450 --> 00:19:49,470
+strike price of a hundred, we're going to
+
+683
+00:19:49,470 --> 00:19:52,290
+give ourselves two years for Apple to be
+
+684
+00:19:52,290 --> 00:19:53,070
+above a hundred dollars.
+
+685
+00:19:53,070 --> 00:19:54,390
+But if you take a look right here,
+
+686
+00:19:54,510 --> 00:19:57,190
+break even, it says 153, because we have
+
+687
+00:19:57,190 --> 00:19:59,910
+to take into account the premium that we
+
+688
+00:19:59,910 --> 00:20:00,310
+paid.
+
+689
+00:20:00,730 --> 00:20:02,330
+So yeah, this is the interesting thing.
+
+690
+00:20:02,470 --> 00:20:04,950
+So even though it might seem as though
+
+691
+00:20:04,950 --> 00:20:07,610
+by buying one contract for a lot cheaper,
+
+692
+00:20:07,790 --> 00:20:09,970
+for example, if we click on this, you
+
+693
+00:20:09,970 --> 00:20:12,070
+could see that right now today, it's going
+
+694
+00:20:12,070 --> 00:20:14,270
+to cost me $5,340.
+
+695
+00:20:14,810 --> 00:20:17,110
+And for that amount of money, you get
+
+696
+00:20:17,110 --> 00:20:19,310
+to control a hundred shares and that's a
+
+697
+00:20:19,310 --> 00:20:21,670
+lot cheaper than paying $14,600.
+
+698
+00:20:22,170 --> 00:20:22,650
+Exactly.
+
+699
+00:20:23,190 --> 00:20:25,610
+But the catch is that this is a
+
+700
+00:20:25,610 --> 00:20:25,990
+premium.
+
+701
+00:20:26,170 --> 00:20:28,250
+You have to pay somebody to exercise this,
+
+702
+00:20:28,330 --> 00:20:28,450
+right?
+
+703
+00:20:28,490 --> 00:20:30,150
+To get a control of a hundred shares.
+
+704
+00:20:30,970 --> 00:20:33,010
+But that's why right here, the break even
+
+705
+00:20:33,010 --> 00:20:35,650
+number that you see shows you $153.
+
+706
+00:20:36,190 --> 00:20:39,270
+That means the strike price plus the premium
+
+707
+00:20:39,270 --> 00:20:39,850
+that you're right.
+
+708
+00:20:39,910 --> 00:20:41,310
+It's taking into account the premium.
+
+709
+00:20:41,430 --> 00:20:44,090
+So two years from today, if Apple is
+
+710
+00:20:44,090 --> 00:20:47,350
+$153 and 40 cents, that means you technically
+
+711
+00:20:47,350 --> 00:20:48,730
+broke even you didn't make any money.
+
+712
+00:20:49,010 --> 00:20:51,470
+So for you to actually make money, Apple
+
+713
+00:20:51,470 --> 00:20:52,990
+should be worth more than that.
+
+714
+00:20:53,350 --> 00:20:55,550
+So 153 is around what the price is
+
+715
+00:20:55,550 --> 00:20:55,890
+today.
+
+716
+00:20:56,030 --> 00:20:59,050
+We're basically saying our bet is it'll be
+
+717
+00:20:59,050 --> 00:21:00,630
+worth more than it is today.
+
+718
+00:21:00,850 --> 00:21:02,990
+Now, what if Apple actually drops below a
+
+719
+00:21:02,990 --> 00:21:03,610
+hundred dollars?
+
+720
+00:21:04,350 --> 00:21:04,850
+You lose money.
+
+721
+00:21:05,590 --> 00:21:06,550
+There's no easy way to say it.
+
+722
+00:21:07,130 --> 00:21:08,910
+I mean, there is an inherent risk of
+
+723
+00:21:08,910 --> 00:21:09,430
+options.
+
+724
+00:21:09,490 --> 00:21:10,750
+This is one of them, right?
+
+725
+00:21:10,810 --> 00:21:12,470
+But you have to keep in mind that
+
+726
+00:21:12,470 --> 00:21:13,850
+you do not have to hold a contract
+
+727
+00:21:13,850 --> 00:21:14,590
+to expiration.
+
+728
+00:21:14,590 --> 00:21:15,890
+You can sell it further.
+
+729
+00:21:16,170 --> 00:21:17,850
+So if you're in profit a little bit,
+
+730
+00:21:17,850 --> 00:21:19,390
+or if you're in profit loss and you
+
+731
+00:21:19,390 --> 00:21:21,110
+think you're going to lose more, you sell
+
+732
+00:21:21,110 --> 00:21:21,950
+it and you move on.
+
+733
+00:21:22,070 --> 00:21:23,410
+The reason that you want to do this,
+
+734
+00:21:23,510 --> 00:21:25,750
+maybe over buying a hundred shares is because
+
+735
+00:21:25,750 --> 00:21:27,490
+again, you may not have enough money to
+
+736
+00:21:27,490 --> 00:21:28,410
+do that with a hundred shares.
+
+737
+00:21:28,530 --> 00:21:30,390
+And because you want to leverage and be
+
+738
+00:21:30,390 --> 00:21:32,450
+exposed to the performance of Apple and still
+
+739
+00:21:32,450 --> 00:21:32,970
+make money.
+
+740
+00:21:33,130 --> 00:21:33,550
+You got it.
+
+741
+00:21:33,630 --> 00:21:34,190
+I'm impressed.
+
+742
+00:21:34,290 --> 00:21:35,150
+I don't know what else to say.
+
+743
+00:21:35,590 --> 00:21:37,370
+Wait, that means I could take your monthly
+
+744
+00:21:37,370 --> 00:21:39,430
+salary and put it into out of the
+
+745
+00:21:39,430 --> 00:21:42,410
+money, spied fall options expiring tomorrow, make a
+
+746
+00:21:42,410 --> 00:21:42,790
+lot of money.
+
+747
+00:21:44,590 --> 00:21:45,950
+And that was options trading.
+
+748
+00:21:46,150 --> 00:21:48,590
+So go check out Alex's channel on YouTube.
+
+749
+00:21:48,670 --> 00:21:49,470
+He just started it.
+
+750
+00:21:49,470 --> 00:21:51,570
+He's going to talk about investing options, trading
+
+751
+00:21:51,570 --> 00:21:53,670
+business, traveling, all sorts of things.
+
+752
+00:21:53,730 --> 00:21:54,910
+He's like the magic Harry Potter.
+
+753
+00:21:54,990 --> 00:21:57,150
+That's better looking and more talented than me.
+
+754
+00:21:57,590 --> 00:21:59,670
+And I'm really proud of him for turning
+
+755
+00:21:59,670 --> 00:22:01,770
+his portfolio into over a million dollars.
+
+756
+00:22:01,930 --> 00:22:03,950
+It's crazy what he's been able to accomplish.
+
+757
+00:22:03,950 --> 00:22:05,210
+And I think you'll learn a lot from
+
+758
+00:22:05,210 --> 00:22:05,570
+his channel.
+
+759
+00:22:05,590 --> 00:22:06,510
+So go check him out.
+
+760
+00:22:06,770 --> 00:22:08,090
+And in the meantime, go get up those
+
+761
+00:22:08,090 --> 00:22:09,590
+two free stocks with Weeble.
+
+762
+00:22:09,710 --> 00:22:11,290
+When you deposit a hundred dollars using the
+
+763
+00:22:11,290 --> 00:22:12,790
+link down below, you'll get up to $250
+
+764
+00:22:12,790 --> 00:22:14,870
+worth of free Bitcoin using this block by
+
+765
+00:22:14,870 --> 00:22:16,910
+link right here and go track those stocks
+
+766
+00:22:16,910 --> 00:22:18,850
+automatically with the Patreon link down below.
+
+767
+00:22:18,850 --> 00:22:19,430
+Love you.
+
+768
+00:22:19,490 --> 00:22:20,310
+Thank you so much for watching.
+
+769
+00:22:20,690 --> 00:22:21,210
+I'll see you soon.
+
+770
+00:22:21,830 --> 00:22:22,070
+Peace.
