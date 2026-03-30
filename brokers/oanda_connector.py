@@ -287,7 +287,7 @@ class OandaConnector:
                     RickCharter = None
             
             if RickCharter and not is_hedge:
-                min_notional = RickCharter.MIN_NOTIONAL_USD
+                min_notional = float(os.getenv("RBOT_CHARTER_MIN_NOTIONAL_USD", str(RickCharter.MIN_NOTIONAL_USD)))
                 
                 # Calculate USD notional accurately using the USD exchange rate for the base currency
                 notional = get_usd_notional(abs(units), instrument, float(entry_price), self) or (abs(units) * float(entry_price))

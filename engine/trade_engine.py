@@ -44,7 +44,14 @@ from engine.pre_market_scanner import PreMarketScanner
 from engine.capital_router import CapitalRouter, compute_compounded_units, compute_watermark_compounded_units
 # regime_detector intentionally not imported — vote+confidence gate is the quality filter
 from engine.mean_reversion_scanner import scan_sideways_symbol
+from engine.strategy_pipelines import (
+    run_momentum_pipeline,
+    run_reversal_pipeline,
+    run_meanrev_pipeline,
+    run_scalp_pipeline,
+)
 from foundation.rick_charter import RickCharter
+from util.broker_clock import BrokerClock, broker_now, broker_now_eastern
 from util.narration_logger import (
     log_event, log_trade_opened, log_gate_block, log_narration,
     CANDIDATE_FOUND, ORDER_SUBMIT_ALLOWED, SYMBOL_ALREADY_ACTIVE_BLOCK,
@@ -169,6 +176,8 @@ class TradeEngine:
                     print(f"  Clock Sync    : ⚠️  DRIFT DETECTED ({_drift:+.0f}ms)")
             else:
                 print(f"  Clock Sync    : ⚠️  Could not verify broker time")
+            # ── BrokerClock: set authoritative offset from this same sync result ──
+            BrokerClock.instance().sync(self.connector)
         except Exception as _ts_err:
             print(f"  Clock Sync    : ⚠️  Time sync failed: {_ts_err}")
         try:
@@ -218,6 +227,9 @@ class TradeEngine:
         One full scan cycle.
         Returns: number of trades successfully placed.
         """
+        # ── Tick BrokerClock: auto-resyncs every 50 cycles ────────────────────
+        BrokerClock.instance().tick(self.connector)
+
         # ── Live broker position count + full sync to active_positions ─────────
         try:
             broker_trades = self.connector.get_trades() or []
@@ -274,10 +286,7 @@ class TradeEngine:
             nav = free_margin_pct = 1.0   # fail-open on NAV query only
 
         # Collect qualifying signals
-        # ── Gap 2 fix: honour pre-market playbook ordering ─────────────────────
-        # Non-vetoed playbook symbols are moved to the front of the scan list so
-        # the highest-conviction session setups are evaluated first when slots are
-        # limited. Symbols not in the playbook remain after, in their default order.
+        # Pre-market playbook ordering: vetted symbols scan first
         if self._session_playbook:
             pb_symbols = [
                 e.symbol for e in self._session_playbook
@@ -297,67 +306,106 @@ class TradeEngine:
                 if not candles or len(candles) < 50:
                     continue
 
-                # ── Momentum / Trend Scanner (10 detectors, 3-vote gate) ────────
-                sig = scan_symbol(
-                    symbol, candles,
-                    min_confidence=MIN_CONFIDENCE,
-                    min_votes=MIN_VOTES,
-                )
-                if sig:
-                    # MTF Sniper Gate: H4 EMA55 alignment for trend signals
-                    if sig.signal_type == "trend":
-                        try:
-                            candles_h4 = self.connector.get_historical_data(symbol, count=100, granularity="H4")
-                            closes_h4 = [float(c.get("mid", {}).get("c", 0)) for c in candles_h4]
-                            if len(closes_h4) >= 55:
-                                k = 2.0 / (56.0)
-                                ema_h4 = sum(closes_h4[:55]) / 55.0
-                                for price in closes_h4[55:]:
-                                    ema_h4 = (price - ema_h4) * k + ema_h4
-                                price_h4 = closes_h4[-1]
-                                if sig.direction == "BUY" and price_h4 < ema_h4:
-                                    print(f"  [MTF_SNIPER] {symbol} BUY blocked — H4 trend is BEARISH")
-                                    log_gate_block(symbol, "MTF_SNIPER_BLOCK", {"h4_ema55": ema_h4, "price": price_h4})
-                                    sig = None
-                                elif sig.direction == "SELL" and price_h4 > ema_h4:
-                                    print(f"  [MTF_SNIPER] {symbol} SELL blocked — H4 trend is BULLISH")
-                                    log_gate_block(symbol, "MTF_SNIPER_BLOCK", {"h4_ema55": ema_h4, "price": price_h4})
-                                    sig = None
-                                else:
-                                    # H4-confirmed — label timeframe
-                                    sig.session = sig.session  # preserve session
-                                    sig._timeframe = "M15+H4"
-                        except Exception:
-                            pass  # Fail open if H4 fetch fails
+                # ── Phase 9: Multi-Strategy Pipeline Scanner ───────────────────
+                # Each pipeline runs its own detector subset independently.
+                # Best qualifying signal for this pair wins.
 
-                # ── Mean Reversion / S&D Scanner (runs on ALL pairs, every cycle) ─
-                # Exempt from 3-vote gate — S&D retest is a single-detector strategy
-                sd_sig = scan_sideways_symbol(symbol, candles, min_confidence=MIN_CONFIDENCE)
-                if sd_sig:
-                    sd_sig.session = "S&D MeanRev"
-                    sd_sig._timeframe = "M15"
-                    sd_sig._strategy = "sd_scalp"
+                candidates = []
 
-                # ── Pick best signal for this pair ──────────────────────────────
-                # If both fire, take higher confidence
-                best = None
-                if sig and sd_sig:
-                    best = sig if sig.confidence >= sd_sig.confidence else sd_sig
-                elif sig:
-                    best = sig
-                elif sd_sig:
-                    best = sd_sig
+                # ─ Pipeline 1: Momentum (SMA + EMA + Fib, 2-of-3, H4-confirmed) ─
+                mom = run_momentum_pipeline(symbol, candles, min_confidence=MIN_CONFIDENCE)
+                if mom and getattr(mom, 'signal_type', '') == 'trend':
+                    try:
+                        candles_h4 = self.connector.get_historical_data(symbol, count=100, granularity="H4")
+                        closes_h4 = [float(c.get("mid", {}).get("c", 0)) for c in candles_h4]
+                        if len(closes_h4) >= 55:
+                            k = 2.0 / (56.0)
+                            ema_h4 = sum(closes_h4[:55]) / 55.0
+                            for px in closes_h4[55:]:
+                                ema_h4 = (px - ema_h4) * k + ema_h4
+                            price_h4 = closes_h4[-1]
+                            if mom.direction == "BUY" and price_h4 < ema_h4:
+                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM BUY blocked — H4 BEARISH")
+                                log_gate_block(symbol, "MTF_SNIPER_BLOCK", {"h4_ema55": ema_h4, "price": price_h4})
+                                mom = None
+                            elif mom.direction == "SELL" and price_h4 > ema_h4:
+                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM SELL blocked — H4 BULLISH")
+                                log_gate_block(symbol, "MTF_SNIPER_BLOCK", {"h4_ema55": ema_h4, "price": price_h4})
+                                mom = None
+                            elif mom:
+                                mom._timeframe = "M15+H4"
+                    except Exception:
+                        pass  # Fail open if H4 fetch fails
+                if mom:
+                    candidates.append(mom)
 
-                if best:
-                    # Attach strategy metadata if not already set
+                # ─ Pipeline 2: Reversal (Trap + LiqSweep + RSI, 1-of-3) ────────
+                rev = run_reversal_pipeline(symbol, candles)
+                if rev:
+                    candidates.append(rev)
+
+                # ─ Pipeline 3: Mean Reversion (BB + S&D + RSI, 1-of-3) ─────────
+                mr = run_meanrev_pipeline(symbol, candles)
+                if mr:
+                    candidates.append(mr)
+
+                # ─ Pipeline 4: FVG Scalp (FVG + OrderBlock, 1-of-2) ───────────
+                sc = run_scalp_pipeline(symbol, candles)
+                if sc:
+                    candidates.append(sc)
+
+                # ─ Pick best signal for this pair ─────────────────────────────
+                if candidates:
+                    best = max(candidates, key=lambda s: s.confidence)
                     if not hasattr(best, '_timeframe'):
                         best._timeframe = "M15"
                     if not hasattr(best, '_strategy'):
                         best._strategy = getattr(best, 'signal_type', 'trend')
                     qualified.append(best)
 
+                # ─ Per-pair scan diagnostic line ───────────────────────────────
+                def _pfmt(sig, label):
+                    if sig is None:
+                        return f"{label}=✗"
+                    return f"{label}={sig.confidence:.0%}✓"
+
+                tag = ""
+                plain = ""
+                if candidates:
+                    best_strat = getattr(candidates[0] if len(candidates)==1 else max(candidates, key=lambda s: s.confidence), '_strategy', '?')
+                    best_sig   = max(candidates, key=lambda s: s.confidence)
+                    dir_word   = "SELL" if best_sig.direction == "SELL" else "BUY"
+                    strat_desc = {
+                        "momentum":      "Strong trend detected",
+                        "reversal":      "Reversal pattern spotted",
+                        "mean_reversion":"Price stretched, snap-back expected",
+                        "scalp":         "Quick entry opportunity found",
+                    }.get(best_strat.lower(), "Signal detected")
+                    tag   = f"  → QUEUED [{best_strat.upper()}]"
+                    plain = f"  💬 {symbol}: {strat_desc} ({best_sig.confidence:.0%} confident) — queuing a {dir_word}"
+                print(
+                    f"  [SCAN] {symbol:<10}"
+                    f"  MOM={_pfmt(mom, 'MOM')[4:]}"
+                    f"  REV={_pfmt(rev, 'REV')[4:]}"
+                    f"  MR={_pfmt(mr, 'MR')[3:]}"
+                    f"  SC={_pfmt(sc, 'SC')[3:]}"
+                    f"{tag}"
+                )
+                if plain:
+                    print(plain)
+
             except Exception:
-                continue  # log_event here would produce noise per-pair — skip
+                continue  # Never let a single pair crash the scan loop
+
+
+        # ─ Qualified summary ──────────────────────────────────────────────────
+        if qualified:
+            summary = "  , ".join(
+                f"{s.symbol} {s.direction} {getattr(s,'_strategy','?')} {s.confidence:.0%}"
+                for s in qualified
+            )
+            print(f"  📋 Qualified: {len(qualified)} signal(s) — {summary}")
+            print(f"  💬 Scan complete: found {len(qualified)} tradeable opportunit{'y' if len(qualified)==1 else 'ies'} this minute. Best signals sorted by confidence — placing now.")
 
         qualified.sort(key=lambda s: s.confidence, reverse=True)
 
@@ -372,7 +420,22 @@ class TradeEngine:
         placed_this_cycle: set = set()
         placed_count = 0
 
-        for sig in qualified[:cycle_limit]:
+        # ── Quiet hours gate: no new opens 10pm–6am EDT (after NY close, before London) ──
+        _quiet_enabled = os.getenv("RBOT_QUIET_HOURS_ENABLED", "false").lower() == "true"
+        if _quiet_enabled:
+            _qh_start = int(os.getenv("RBOT_QUIET_HOURS_START", "22"))
+            _qh_end   = int(os.getenv("RBOT_QUIET_HOURS_END",   "6"))
+            _now_et   = broker_now_eastern()
+            _hour_et  = _now_et.hour
+            _in_quiet = (_hour_et >= _qh_start) or (_hour_et < _qh_end)
+            if _in_quiet:
+                print(f"  🌙 QUIET HOURS ({_now_et.strftime('%I:%M%p ET')}) — no new opens until {_qh_end:02d}:00 ET. Existing trades running.")
+                return 0
+
+        # Pre-filter: don't waste cycle_limit slots on pairs already held at broker
+        # (dedup guard inside the loop remains as safety net)
+        eligible = [s for s in qualified if s.symbol not in broker_symbols and not self._symbol_is_active(s.symbol)]
+        for sig in eligible[:cycle_limit]:
             symbol = sig.symbol
 
             # ── Dedup: broker symbols + local + this cycle ─────────────────
@@ -398,6 +461,7 @@ class TradeEngine:
                     f"  BLOCKED    {symbol} — CORRELATION_GATE "
                     f"({sig.direction} on same currency already open)"
                 )
+                print(f"  💬 {symbol}: Skipped — already in a very similar trade. Avoiding duplicate risk.")
                 continue
 
             # ── Phase 1: CANDIDATE_FOUND ───────────────────────────────────
@@ -443,6 +507,7 @@ class TradeEngine:
                 "confidence": round(sig.confidence, 4),
             })
             print(f"  → Placing  {symbol} {sig.direction} conf={sig.confidence:.1%}")
+            print(f"  💬 {symbol}: Checks passed — submitting {'SELL (going short)' if sig.direction=='SELL' else 'BUY (going long)'} order to broker now.")
 
             # ── Phoenix-mode: fixed pip SL/TP override ──────────────────────────
             # Replaces signal's variable SL/TP (10–100+ pips) with exact pip values,
@@ -484,7 +549,14 @@ class TradeEngine:
                 pip_size = 0.01 if "JPY" in symbol.upper() else 0.0001
                 min_ts_dist = 10.0 * pip_size          # 0.001 non-JPY, 0.10 JPY
                 raw_sl_dist = abs(live_mid - sig.sl)
-                ts_dist = max(raw_sl_dist, min_ts_dist * 2)
+                # ── Configurable trailing stop distance ────────────────────────
+                # Default was raw_sl_dist (20 pips) — same as SL, kills winners.
+                # RBOT_TS_PIPS lets the trail breathe so trades can reach the TP.
+                _ts_pips = float(os.getenv("RBOT_TS_PIPS", "0"))
+                if _ts_pips > 0:
+                    ts_dist = max(_ts_pips * pip_size, min_ts_dist * 2)
+                else:
+                    ts_dist = max(raw_sl_dist, min_ts_dist * 2)
 
                 result = self.connector.place_oco_order(
                     instrument=symbol,
@@ -553,6 +625,12 @@ class TradeEngine:
                 placed_count += 1
                 self._mark_pair_trade(symbol, sig.direction)
                 print(f"  ✓ OPENED   {symbol} {sig.direction} [{_strategy.upper()} {_timeframe}] {_det_str}  id={trade_id}")
+                _rr = getattr(sig, 'rr', 0)
+                _sl_pips = round(abs(sig.sl - live_mid) / (0.01 if 'JPY' in symbol else 0.0001))
+                _tp_pips = round(abs(sig.tp - live_mid) / (0.01 if 'JPY' in symbol else 0.0001))
+                print(f"  💬 ✅ Trade open! {symbol} {'selling' if sig.direction=='SELL' else 'buying'} {abs(units):,} units. "
+                      f"Stop-loss in {_sl_pips} pips, take-profit in {_tp_pips} pips. "
+                      f"Trailing stop active. OCO protection set.")
 
                 # ── Hedge counter-trade (Phoenix QuantHedgeEngine) ──────────────────
                 if self._hedge_engine and live_mid:

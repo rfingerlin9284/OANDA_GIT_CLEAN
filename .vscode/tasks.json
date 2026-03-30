@@ -2,9 +2,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "[W] 🟢 Start Engine — Phase 8 dual-scanner (Trend + S&D MeanRev)",
+      "label": "[W] 🟢 Start Engine — Phase 9 multi-strategy scanner (live tail)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Start the RBOTZILLA Phase 8 trading engine.' && echo '  Phase 8: Regime-free | Trend + S&D MeanRev dual-scanner' && echo '  Native OANDA trailing stops | Calibrated notional sizing' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/start.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Start the RBOTZILLA Phase 9 trading engine.' && echo '  Phase 9: 4-pipeline scanner (Momentum|Reversal|MeanRev|Scalp)' && echo '  Native OANDA trailing stops | Calibrated notional sizing' && echo '  Then: live tail of engine log (Ctrl+C to stop watching)' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh && tail -f logs/engine_continuous.out ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
       "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
       "presentation": { "reveal": "always", "panel": "new" }
@@ -18,9 +18,9 @@
       "presentation": { "reveal": "always", "panel": "new" }
     },
     {
-      "label": "[W] 🔄 Restart Engine — Stops then starts (no code changes)",
+      "label": "[W] 🔄 Restart Engine — Stops then starts (live tail)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. Kill the running engine process' && echo '  2. Re-launch with current .env config (unchanged)' && echo '  3. Re-sync all broker positions + restore cooldowns' && echo '  NO code or config is modified.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. Kill the running engine process' && echo '  2. Re-launch with current .env config (unchanged)' && echo '  3. Re-sync all broker positions + restore cooldowns' && echo '  4. Live tail engine log (Ctrl+C to stop watching)' && echo '  NO code or config is modified.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh && tail -f logs/engine_continuous.out ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
       "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
       "presentation": { "reveal": "always", "panel": "new" },
@@ -127,9 +127,9 @@
       "isBackground": true
     },
     {
-      "label": "[W] 📸 Snapshot + Git Push — Backup current state and push to GitHub",
+      "label": "[W] 📸 Snapshot + Git Push — Phase 9 backup (Desktop + GitHub + WSL root)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. Create a dated SNAPSHOT_BACKUP folder' && echo '  2. Copy all engine files into it' && echo '  3. Git commit + push to GitHub (origin main)' && echo '  Safe — does NOT restart the engine or modify .env.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) SNAP=\"SNAPSHOT_BACKUP_$(date +%Y%m%d_%H%M)\" && mkdir -p \"$SNAP\" && cp -r engine strategies brokers foundation util scripts .vscode \"$SNAP/\" 2>/dev/null && echo \"✅ Snapshot: $SNAP\" && git add -A && git commit -m \"Phase 8 $(date '+%Y-%m-%d %H:%M') — regime-free dual-scanner, native TS, calibrated notional\" && git push origin main && echo '✅ Pushed to GitHub' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. Create a dated SNAPSHOT_BACKUP folder in-repo' && echo '  2. Copy snapshot to ~/Desktop/' && echo '  3. Copy snapshot to ~/  (WSL home root)' && echo '  4. Git commit + push to GitHub (origin main)' && echo '  Safe — does NOT restart the engine or modify .env.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) SNAP=\"SNAPSHOT_BACKUP_$(date +%Y%m%d_%H%M)\" && mkdir -p \"$SNAP\" && cp -r engine strategies brokers foundation util scripts .vscode .env \"$SNAP/\" 2>/dev/null && echo \"✅ In-repo snapshot: $SNAP\" && cp -r \"$SNAP\" ~/Desktop/ && echo \"✅ Desktop backup: ~/Desktop/$SNAP\" && cp -r \"$SNAP\" ~/ && echo \"✅ WSL root backup: ~/$SNAP\" && (cp .env ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env && echo '✅ Master .env saved to Desktop' || echo '⚠️  Desktop .env skipped (permission) — saved inside snapshot') && git add -A && git commit -m \"Phase 9 $(date '+%Y-%m-%d %H:%M') — 50-pip trail, 80%+ confidence gates, quiet hours 10pm-3am ET, London-open aware, pre-filter slot fix, plain-English narration\" && git push origin main && echo '✅ Pushed to GitHub' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
       "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
       "presentation": { "reveal": "always", "panel": "new" }

@@ -16,8 +16,17 @@ if [ ! -x "$VENV" ]; then
   exit 1
 fi
 
+# ── Clock sync status (chrony runs continuously — no sudo needed) ─────────────
+if command -v chronyc > /dev/null 2>&1; then
+  CHRONY=$(chronyc tracking 2>/dev/null | grep -E "System time|RMS offset|Stratum" | tr '\n' '  ' | xargs || true)
+  echo "  🕐 Clock: ${CHRONY:-chrony active}"
+elif command -v timedatectl > /dev/null 2>&1; then
+  NTP_STATUS=$(timedatectl status 2>/dev/null | grep -E "synchronized|NTP service" | tr '\n' ' ' | xargs || true)
+  echo "  🕐 Clock: ${NTP_STATUS:-NTP active}"
+fi
+
 # Kill any stale instance
-pkill -f "engine.trade_engine" || true; pkill -f "trade_engine.py" >/dev/null 2>&1 || true
+pkill -f "engine.trade_engine" || true; pkill -f "trade_engine.py" > /dev/null 2>&1 || true
 sleep 1
 
 export PYTHONPATH="$REPO"
@@ -33,7 +42,7 @@ fi
 nohup "$VENV" -u -m engine.trade_engine > "$LOG" 2>&1 &
 
 sleep 2
-if pgrep -af "engine.trade_engine|trade_engine.py" >/dev/null; then
+if pgrep -af "engine.trade_engine|trade_engine.py" > /dev/null; then
   echo "OK: RBOTZILLA_OANDA_CLEAN engine started (log: $LOG)"
   echo ""
   sleep 3
