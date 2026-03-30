@@ -2,125 +2,77 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "[W] 🟢 Start Engine — Launches the trading engine in background",
+      "label": "[W] 🟢 Start Engine — Phase 8 dual-scanner (Trend + S&D MeanRev)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Start the RBOTZILLA trading engine as a background process.' && echo '  It will begin scanning pairs and placing trades autonomously.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/start.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited — no changes made.' ;; *) echo '  Cancelled — engine NOT started.' ;; esac",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Start the RBOTZILLA Phase 8 trading engine.' && echo '  Phase 8: Regime-free | Trend + S&D MeanRev dual-scanner' && echo '  Native OANDA trailing stops | Calibrated notional sizing' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/start.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      }
+      "presentation": { "reveal": "always", "panel": "new" }
     },
     {
       "label": "[W] 🔴 Stop Engine — Kills the running engine process",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Kill the running trading engine process.' && echo '  All open trades remain on OANDA broker but will no longer' && echo '  be managed (no trailing, no green-lock, no stagnation).' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/stop.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited — no changes made.' ;; *) echo '  Cancelled — engine still running.' ;; esac",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Kill the running trading engine process.' && echo '  Open trades remain on OANDA. Broker-side OCO + native TS' && echo '  remain active as safety net even while engine is stopped.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/stop.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      }
+      "presentation": { "reveal": "always", "panel": "new" }
     },
     {
-      "label": "[W] 🔄 Restart Engine — Stops then starts the engine (no code changes)",
+      "label": "[W] 🔄 Restart Engine — Stops then starts (no code changes)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. Kill the running engine process' && echo '  2. Re-launch with current .env config (unchanged)' && echo '  3. Re-sync all broker positions' && echo '  NO code or config is modified. Open trades remain on OANDA.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited — no changes made.' ;; *) echo '  Cancelled — engine unchanged.' ;; esac",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. Kill the running engine process' && echo '  2. Re-launch with current .env config (unchanged)' && echo '  3. Re-sync all broker positions + restore cooldowns' && echo '  NO code or config is modified.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      },
+      "presentation": { "reveal": "always", "panel": "new" },
       "problemMatcher": []
     },
     {
       "label": "[W] 🔥 Insert Phoenix ENV — Swaps .env to Phoenix config (auto-backup + rollback)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env with timestamp' && echo '  2. SWAP .env → .env.phoenix (Phoenix settings)' && echo '  3. Restart engine with Phoenix config' && echo '' && echo '  CHANGES: Higher confidence gate, Phoenix position sizing,' && echo '  profit extraction mode. NO CODE IS MODIFIED.' && echo '' && echo '  ROLLBACK: Run \"Restore Clean ENV\" task to undo.' && echo '  Backup saved to: logs/env_rollback/' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && echo \"✅ Rollback point saved: logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp .env.phoenix .env && echo '✅ .env swapped to Phoenix config' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited — no changes made.' ;; *) echo '  Cancelled — .env unchanged.' ;; esac",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env with timestamp' && echo '  2. SWAP .env to .env.phoenix' && echo '  3. Restart engine with Phoenix config' && echo '  ROLLBACK: Run Restore Clean ENV task.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp .env.phoenix .env && echo '✅ .env swapped to Phoenix config' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      }
+      "presentation": { "reveal": "always", "panel": "new" }
     },
     {
-      "label": "[W] 🛡️ Insert Safe ENV — Swaps .env to conservative config (auto-backup + rollback)",
+      "label": "[W] 🛡️ Insert Safe ENV — Swaps .env to conservative config",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env with timestamp' && echo '  2. SWAP .env → .env.safe (conservative settings)' && echo '  3. Restart engine with Safe config' && echo '' && echo '  CHANGES: Tighter gates, smaller positions, profit target ON.' && echo '  NO CODE IS MODIFIED.' && echo '' && echo '  ROLLBACK: Run \"Restore Clean ENV\" task to undo.' && echo '  Backup saved to: logs/env_rollback/' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && echo \"✅ Rollback point saved\" && cp .env.safe .env && echo '✅ .env swapped to Safe config' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited — no changes made.' ;; *) echo '  Cancelled — .env unchanged.' ;; esac",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env' && echo '  2. SWAP .env to .env.safe (conservative settings)' && echo '  3. Restart engine' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp .env.safe .env && echo '✅ .env swapped to Safe config' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      }
+      "presentation": { "reveal": "always", "panel": "new" }
     },
     {
-      "label": "[W] ♻️ Restore Clean ENV — Restores master .env from Desktop backup + restarts",
+      "label": "[W] ♻️ Restore Clean ENV — Restores master .env from Desktop backup",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env with timestamp' && echo '  2. RESTORE .env from Desktop master clean backup' && echo '  3. Restart engine with original clean config' && echo '' && echo '  This undoes any Phoenix/Safe/experimental ENV swap.' && echo '  NO CODE IS MODIFIED.' && echo '═══════════════════════════════════════════════════' && echo '' && if [ ! -f ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env ]; then echo '  ❌ ERROR: Master backup not found at ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env' && echo '  Run: cp .env ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env' && exit 1; fi && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && echo '✅ Rollback point saved' && cp ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env .env && echo '✅ .env restored from Desktop master backup' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited — no changes made.' ;; *) echo '  Cancelled — .env unchanged.' ;; esac",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env' && echo '  2. RESTORE .env from Desktop master backup' && echo '  3. Restart engine' && echo '═══════════════════════════════════════════════════' && echo '' && if [ ! -f ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env ]; then echo '  ❌ Master backup not found. Run: cp .env ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env' && exit 1; fi && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env .env && echo '✅ .env restored from Desktop master' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      }
+      "presentation": { "reveal": "always", "panel": "new" }
     },
     {
       "label": "[RO] 📖 LIVE TAIL — Engine Log (engine_continuous.out)",
       "type": "shell",
       "command": "tail -f /home/rfing/RBOTZILLA_OANDA_CLEAN/logs/engine_continuous.out",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "test",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new",
-        "group": "tails"
-      }
+      "presentation": { "reveal": "always", "panel": "new", "group": "tails" }
     },
     {
       "label": "[RO] 📜 LIVE TAIL — Narration Events (narration.jsonl)",
       "type": "shell",
       "command": "tail -f /home/rfing/RBOTZILLA_OANDA_CLEAN/logs/narration.jsonl | python3 -c \"import sys,json; [print(json.dumps(json.loads(l), indent=None)) for l in sys.stdin]\" 2>/dev/null || tail -f /home/rfing/RBOTZILLA_OANDA_CLEAN/logs/narration.jsonl",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "test",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new",
-        "group": "tails"
-      }
+      "presentation": { "reveal": "always", "panel": "new", "group": "tails" }
     },
     {
       "label": "[RO] 📖 LIVE — Human Readable Feed (EST/EDT + UTC)",
       "type": "shell",
       "command": ".venv/bin/python scripts/human_tail.py",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "test",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new",
-        "group": "tails"
-      }
+      "presentation": { "reveal": "always", "panel": "new", "group": "tails" }
     },
     {
       "label": "[RO] 👀 Watch Live — Opens 3 panels side by side",
@@ -131,78 +83,64 @@
       ],
       "dependsOrder": "parallel",
       "group": "test",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      }
+      "presentation": { "reveal": "always", "panel": "new" }
     },
     {
       "label": "[RO] 🏥 Health Check — Process + broker + narration status",
       "type": "shell",
       "command": "bash scripts/health_check.sh",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "test",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      }
+      "presentation": { "reveal": "always", "panel": "new" }
     },
     {
       "label": "[W] 🔒 Lock All Code — Sets .py/.sh to read-only (chmod 444)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Set ALL .py and .sh files to read-only (chmod 444).' && echo '  This prevents any code edits until unlocked.' && echo '  Running engine is NOT affected (already in memory).' && echo '  NO code content is changed — only file permissions.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.py' ! -path '*/logs/*' -exec chmod 444 {} \\; && find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.sh' ! -path '*/logs/*' -exec chmod 444 {} \\; && echo '✅ All .py and .sh files locked to read-only (444)' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited — no changes made.' ;; *) echo '  Cancelled — permissions unchanged.' ;; esac",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL set ALL .py/.sh to read-only (444).' && echo '  Running engine is NOT affected.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.py' ! -path '*/logs/*' -exec chmod 444 {} \\; && find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.sh' ! -path '*/logs/*' -exec chmod 444 {} \\; && echo '✅ Locked (444)' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      }
+      "presentation": { "reveal": "always", "panel": "new" }
     },
     {
       "label": "[W] 🔓 Unlock All Code — Sets .py/.sh to writable (chmod 644/755)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Set ALL .py files to writable (644) and .sh to executable (755).' && echo '  This enables code editing and patching by agents.' && echo '  NO code content is changed — only file permissions.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.py' ! -path '*/logs/*' -exec chmod 644 {} \\; && find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.sh' ! -path '*/logs/*' -exec chmod 755 {} \\; && echo '✅ All .py and .sh files unlocked (644/755)' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited — no changes made.' ;; *) echo '  Cancelled — permissions unchanged.' ;; esac",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL set .py to 644 and .sh to 755.' && echo '  Enables agent code editing and patching.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.py' ! -path '*/logs/*' -exec chmod 644 {} \\; && find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.sh' ! -path '*/logs/*' -exec chmod 755 {} \\; && echo '✅ Unlocked (644/755)' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "build",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      }
+      "presentation": { "reveal": "always", "panel": "new" }
     },
     {
       "label": "[W] 🔍 Reassess Trades — Runs TradeManager cycle (can modify SL on open trades)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Connect to OANDA and run a full TradeManager cycle.' && echo '  It CAN modify stop-loss levels on open trades using the' && echo '  same green-lock, stagnation, and trailing logic the engine uses.' && echo '  This is the same logic that runs automatically every 60 seconds.' && echo '  NO code or config files are modified.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) .venv/bin/python scripts/reassess_trades.py ;; [eE]|[eE][xX][iI][tT]) echo '  Exited — no changes made.' ;; *) echo '  Cancelled — no reassessment run.' ;; esac",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL run a full TradeManager cycle.' && echo '  CAN modify stop-loss on open trades (green-lock, trail, stagnation).' && echo '  Same logic engine runs every 60s automatically.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) .venv/bin/python scripts/reassess_trades.py ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "test",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new",
-        "clear": true
-      }
+      "presentation": { "reveal": "always", "panel": "new", "clear": true }
     },
     {
       "label": "[RO] 📊 System Status — All Features ON/OFF Dashboard",
       "type": "shell",
       "command": ".venv/bin/python scripts/system_status.py",
-      "options": {
-        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
-      },
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
       "group": "test",
-      "presentation": {
-        "reveal": "always",
-        "panel": "new",
-        "clear": true
-      },
+      "presentation": { "reveal": "always", "panel": "new", "clear": true },
       "isBackground": true
+    },
+    {
+      "label": "[W] 📸 Snapshot + Git Push — Backup current state and push to GitHub",
+      "type": "shell",
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. Create a dated SNAPSHOT_BACKUP folder' && echo '  2. Copy all engine files into it' && echo '  3. Git commit + push to GitHub (origin main)' && echo '  Safe — does NOT restart the engine or modify .env.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) SNAP=\"SNAPSHOT_BACKUP_$(date +%Y%m%d_%H%M)\" && mkdir -p \"$SNAP\" && cp -r engine strategies brokers foundation util scripts .vscode \"$SNAP/\" 2>/dev/null && echo \"✅ Snapshot: $SNAP\" && git add -A && git commit -m \"Phase 8 $(date '+%Y-%m-%d %H:%M') — regime-free dual-scanner, native TS, calibrated notional\" && git push origin main && echo '✅ Pushed to GitHub' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "new" }
+    },
+    {
+      "label": "[W] 🗑️ Close Single Trade — Close one trade by ID",
+      "type": "shell",
+      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK closes ONE trade by ID at market price.' && echo '  Find the Ticket # in your OANDA platform Trades tab.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Enter trade ID (or Exit): ' tid && case \"$tid\" in [eE]*) echo '  Exited.' ;; '') echo '  No ID entered.' ;; *) python3 -m venv --system-site-packages /tmp/rbot_venv 2>/dev/null; /tmp/rbot_venv/bin/pip install websocket-client -q 2>/dev/null; /tmp/rbot_venv/bin/python3 -c \"import sys; sys.path.insert(0, '.'); from brokers.oanda_connector import get_oanda_connector; c = get_oanda_connector(); r = c.close_trade('$tid'); print('RESULT:', r.get('success'), '| Status:', r.get('status_code'))\" ;; esac",
+      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "new" }
     }
   ]
 }

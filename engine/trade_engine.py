@@ -42,7 +42,7 @@ from engine.broker_tradability_gate import (
 from engine.trade_manager import TradeManager
 from engine.pre_market_scanner import PreMarketScanner
 from engine.capital_router import CapitalRouter, compute_compounded_units, compute_watermark_compounded_units
-from engine.regime_detector import detect_market_regime, MarketRegime
+# regime_detector intentionally not imported — vote+confidence gate is the quality filter
 from engine.mean_reversion_scanner import scan_sideways_symbol
 from foundation.rick_charter import RickCharter
 from util.narration_logger import (
@@ -296,43 +296,17 @@ class TradeEngine:
                 )
                 if not candles or len(candles) < 50:
                     continue
-                    
-                # ── Phase 7: Stochastic Regime Blocker ─────────────────────
-                # Analyze linear regression trend slopes / volatility
-                try:
-                    closes = [float(c.get("mid", {}).get("c", 0)) for c in candles]
-                    if len(closes) >= 50:
-                        regime_data = detect_market_regime(closes, symbol)
-                        current_regime = regime_data.get('regime', 'TRIAGE')
-                        conf = regime_data.get('confidence', 0.0)
-                        
-                        # If chop/sideways is mathematically detected, pivot to Mean-Reversion S&D logic
-                        if current_regime.upper() in ('CRASH', 'TRIAGE'):
-                            print(f"  [REGIME]   {symbol} search blocked — MARKET IS {current_regime.upper()} (conf={conf:.1%})")
-                            log_gate_block(symbol, "REGIME_BLOCK", {"regime": current_regime.upper(), "confidence": round(conf, 4)})
-                            continue
-                        elif current_regime.upper() == 'SIDEWAYS':
-                            sig = scan_sideways_symbol(symbol, candles, min_confidence=MIN_CONFIDENCE)
-                            if sig:
-                                sig.session = "S&D Scalp [SIDEWAYS]"
-                                qualified.append(sig)
-                            else:
-                                print(f"  [REGIME]   {symbol} momentum blocked — MARKET IS {current_regime.upper()} (conf={conf:.1%}) (No S&D Zone Found)")
-                            continue
 
-                except Exception as _re:
-                    pass  # Fail open if regime calculation crashes
-
+                # ── Momentum / Trend Scanner (10 detectors, 3-vote gate) ────────
                 sig = scan_symbol(
                     symbol, candles,
                     min_confidence=MIN_CONFIDENCE,
                     min_votes=MIN_VOTES,
                 )
                 if sig:
-                    # ── Option B: MTF Sniper Gate ──
+                    # MTF Sniper Gate: H4 EMA55 alignment for trend signals
                     if sig.signal_type == "trend":
                         try:
-                            # Verify M15 breakout aligns with H4 Macro Trend (EMA 55)
                             candles_h4 = self.connector.get_historical_data(symbol, count=100, granularity="H4")
                             closes_h4 = [float(c.get("mid", {}).get("c", 0)) for c in candles_h4]
                             if len(closes_h4) >= 55:
@@ -340,20 +314,48 @@ class TradeEngine:
                                 ema_h4 = sum(closes_h4[:55]) / 55.0
                                 for price in closes_h4[55:]:
                                     ema_h4 = (price - ema_h4) * k + ema_h4
-                                
                                 price_h4 = closes_h4[-1]
                                 if sig.direction == "BUY" and price_h4 < ema_h4:
                                     print(f"  [MTF_SNIPER] {symbol} BUY blocked — H4 trend is BEARISH")
                                     log_gate_block(symbol, "MTF_SNIPER_BLOCK", {"h4_ema55": ema_h4, "price": price_h4})
-                                    continue
+                                    sig = None
                                 elif sig.direction == "SELL" and price_h4 > ema_h4:
                                     print(f"  [MTF_SNIPER] {symbol} SELL blocked — H4 trend is BULLISH")
                                     log_gate_block(symbol, "MTF_SNIPER_BLOCK", {"h4_ema55": ema_h4, "price": price_h4})
-                                    continue
+                                    sig = None
+                                else:
+                                    # H4-confirmed — label timeframe
+                                    sig.session = sig.session  # preserve session
+                                    sig._timeframe = "M15+H4"
                         except Exception:
                             pass  # Fail open if H4 fetch fails
-                            
-                    qualified.append(sig)
+
+                # ── Mean Reversion / S&D Scanner (runs on ALL pairs, every cycle) ─
+                # Exempt from 3-vote gate — S&D retest is a single-detector strategy
+                sd_sig = scan_sideways_symbol(symbol, candles, min_confidence=MIN_CONFIDENCE)
+                if sd_sig:
+                    sd_sig.session = "S&D MeanRev"
+                    sd_sig._timeframe = "M15"
+                    sd_sig._strategy = "sd_scalp"
+
+                # ── Pick best signal for this pair ──────────────────────────────
+                # If both fire, take higher confidence
+                best = None
+                if sig and sd_sig:
+                    best = sig if sig.confidence >= sd_sig.confidence else sd_sig
+                elif sig:
+                    best = sig
+                elif sd_sig:
+                    best = sd_sig
+
+                if best:
+                    # Attach strategy metadata if not already set
+                    if not hasattr(best, '_timeframe'):
+                        best._timeframe = "M15"
+                    if not hasattr(best, '_strategy'):
+                        best._strategy = getattr(best, 'signal_type', 'trend')
+                    qualified.append(best)
+
             except Exception:
                 continue  # log_event here would produce noise per-pair — skip
 
@@ -523,6 +525,10 @@ class TradeEngine:
                 trade_id = confirm["trade_id"]
                 set_cooldown(symbol)
                 placed_this_cycle.add(symbol.upper())
+                _strategy  = getattr(sig, '_strategy',  getattr(sig, 'signal_type', 'trend'))
+                _timeframe = getattr(sig, '_timeframe', 'M15')
+                _detectors = sig.detectors_fired if hasattr(sig, 'detectors_fired') else []
+                _det_str   = '+'.join(_detectors[:3]) if _detectors else _strategy
                 self.active_positions[trade_id] = {
                     "symbol":      symbol,
                     "direction":   sig.direction,
@@ -531,7 +537,10 @@ class TradeEngine:
                     "confidence":  sig.confidence,
                     "session":     sig.session,
                     "opened_at":   datetime.now(timezone.utc).isoformat(),
-                    "stale_cycles": 0,  # stagnation counter
+                    "stale_cycles": 0,
+                    "strategy":    _strategy,
+                    "timeframe":   _timeframe,
+                    "detectors":   _detectors,
                 }
                 log_trade_opened(
                     symbol=symbol, direction=sig.direction, trade_id=trade_id,
@@ -543,7 +552,7 @@ class TradeEngine:
                 )
                 placed_count += 1
                 self._mark_pair_trade(symbol, sig.direction)
-                print(f"  ✓ OPENED   {symbol} trade_id={trade_id}")
+                print(f"  ✓ OPENED   {symbol} {sig.direction} [{_strategy.upper()} {_timeframe}] {_det_str}  id={trade_id}")
 
                 # ── Hedge counter-trade (Phoenix QuantHedgeEngine) ──────────────────
                 if self._hedge_engine and live_mid:

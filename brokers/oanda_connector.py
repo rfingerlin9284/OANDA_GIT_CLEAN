@@ -453,8 +453,8 @@ class OandaConnector:
                         }
                     }
                 
-                # RBOT PATCH: native trailingStopLossOnFill disabled; local manager handles trailing after fill
-                if False and trailing_stop_distance is not None and trailing_stop_distance > 0:
+                # RBOT PATCH: native trailingStopLossOnFill RE-ENABLED as broker safety net
+                if trailing_stop_distance is not None and trailing_stop_distance > 0:
                     order_data["order"]["trailingStopLossOnFill"] = {
                         "distance": self._format_price(trailing_stop_distance, instrument),
                         "timeInForce": OandaTimeInForce.GTC.value
@@ -585,8 +585,8 @@ class OandaConnector:
                         }
                     }
                 
-                # RBOT PATCH: native trailingStopLossOnFill disabled; local manager handles trailing after fill
-                if False and trailing_stop_distance is not None and trailing_stop_distance > 0:
+                # RBOT PATCH: native trailingStopLossOnFill RE-ENABLED as broker safety net
+                if trailing_stop_distance is not None and trailing_stop_distance > 0:
                     order_data["order"]["trailingStopLossOnFill"] = {
                         "distance": self._format_price(trailing_stop_distance, instrument),
                         "timeInForce": "GTC"
