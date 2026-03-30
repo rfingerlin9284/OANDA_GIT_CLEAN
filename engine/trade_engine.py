@@ -24,6 +24,7 @@ Execution flow per cycle:
 import asyncio
 import os
 import sys
+import json
 from pathlib import Path
 from datetime import datetime, timezone
 from typing import Dict, Optional, Set
@@ -1122,13 +1123,28 @@ class TradeEngine:
         # Activate TradeManager after is_running = True
         self.manager.activate()
 
-        # ── Capture initial NAV for compound unit scaling ──────────────────────
+        # ── Compound NAV persistence — survives network drops + restarts ────────
+        # State file: logs/compound_state.json
+        # initial_nav is NEVER reset on restart (preserves compound baseline)
+        # watermark_nav restores to the last recorded all-time-high
+        self._compound_state_path = str(Path(__file__).resolve().parent.parent / "logs" / "compound_state.json")
         try:
             _acct = self.connector.get_account_info()
-            self._initial_nav = _acct.balance + _acct.unrealized_pl
-            self._watermark_nav = self._initial_nav
+            _live_nav = _acct.balance + _acct.unrealized_pl
+            if os.path.exists(self._compound_state_path):
+                with open(self._compound_state_path) as _csf:
+                    _cs = json.load(_csf)
+                self._initial_nav   = float(_cs.get("initial_nav",   _live_nav))
+                self._watermark_nav = max(float(_cs.get("watermark_nav", _live_nav)), _live_nav)
+                print(f"  ✅ CapitalRouter RESTORED  initial=${self._initial_nav:,.2f}  watermark=${self._watermark_nav:,.2f}  live=${_live_nav:,.2f}")
+            else:
+                self._initial_nav   = _live_nav
+                self._watermark_nav = _live_nav
+                os.makedirs(os.path.dirname(self._compound_state_path), exist_ok=True)
+                with open(self._compound_state_path, "w") as _csf:
+                    json.dump({"initial_nav": self._initial_nav, "watermark_nav": self._watermark_nav}, _csf)
+                print(f"  ✅ CapitalRouter NEW       initial=${self._initial_nav:,.2f}  watermark=${self._watermark_nav:,.2f}")
             self._router = CapitalRouter(self.connector, initial_nav=self._initial_nav)
-            print(f"  ✅ CapitalRouter ACTIVE  initial_nav=${self._initial_nav:,.2f}  watermark=${self._watermark_nav:,.2f}")
         except Exception as _nav_err:
             print(f"  ⚠️  CapitalRouter NAV init failed: {_nav_err} — compound scaling disabled")
 
@@ -1146,6 +1162,12 @@ class TradeEngine:
                     _nav_live = _acct_live.balance + _acct_live.unrealized_pl
                     if _nav_live > self._watermark_nav:
                         self._watermark_nav = _nav_live
+                        # Persist new high to disk — survives network drop + restart
+                        try:
+                            with open(self._compound_state_path, "w") as _csf:
+                                json.dump({"initial_nav": self._initial_nav, "watermark_nav": self._watermark_nav}, _csf)
+                        except Exception:
+                            pass
                 except Exception:
                     pass
 

@@ -31,11 +31,12 @@ sleep 1
 
 export PYTHONPATH="$REPO"
 
-# Load .env so all operator-configured values reach the engine process
+# Load .env — strip full-line comments, blank lines, and inline comments
+# before bash exports them. Prevents inline # comments from poisoning float() calls.
 if [ -f "$REPO/.env" ]; then
   set -a
   # shellcheck disable=SC1091
-  source "$REPO/.env"
+  source <(grep -v '^\s*#' "$REPO/.env" | grep -v '^\s*$' | sed 's/[[:space:]]*#[^"]*$//')
   set +a
 fi
 
