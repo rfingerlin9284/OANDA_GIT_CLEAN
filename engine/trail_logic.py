@@ -158,6 +158,7 @@ def apply_tight_sl(
     price: float,
     adjust_stop_cb: Callable[[str, float], None],
     log: Callable[[str], None],
+    counter_trend_mult: float = 1.0,
 ) -> None:
     """
     Apply Three-Step SL progression to a single trade.
@@ -221,17 +222,19 @@ def apply_tight_sl(
             changed = True
 
     # ── Trail: Aggressive trailing stop ───────────────────────────────────
+    # Transcript Edge: counter-trend trades use tighter trail (0.5x default)
+    _effective_trail_pct = policy.trail_pct * counter_trend_mult
     if meta.get("tight_step2", False):
         tgt = entry * (1.0 + policy.trail_trigger_pct) if side == "BUY" else entry * (1.0 - policy.trail_trigger_pct)
         if (side == "BUY" and price >= tgt) or (side == "SELL" and price <= tgt):
             if side == "BUY":
-                new_sl = max(sl, price * (1.0 - policy.trail_pct))
+                new_sl = max(sl, price * (1.0 - _effective_trail_pct))
                 if new_sl > sl:
                     adjust_stop_cb(trade_id, new_sl)
                     changed = True
                     log(f"[TightSL] {symbol} TRAIL → SL {new_sl:.5f}")
             else:
-                new_sl = min(sl if sl > 0 else price, price * (1.0 + policy.trail_pct))
+                new_sl = min(sl if sl > 0 else price, price * (1.0 + _effective_trail_pct))
                 if sl == 0.0 or new_sl < sl:
                     adjust_stop_cb(trade_id, new_sl)
                     changed = True

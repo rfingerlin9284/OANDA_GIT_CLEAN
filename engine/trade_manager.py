@@ -18,6 +18,10 @@ Never opens new trades — that is the engine's job.
 
 import os
 import time
+import json
+from pathlib import Path
+import json
+from pathlib import Path
 from datetime import datetime, timezone
 from typing import Dict, List, Optional, Tuple
 
@@ -65,6 +69,80 @@ class TradeManager:
 
         # Profit target close config (full close at % of TP distance reached)
         # Safety net against reversals: exit cleanly before giving profits back
+
+        # ── Transcript Edge: Per-pair win rate tracker ─────────────────────
+        self._pair_stats_path = str(Path(__file__).resolve().parent.parent / "logs" / "pair_stats.json")
+        self._pair_stats = self._load_pair_stats()
+
+        # ── Transcript Edge: Per-pair win rate tracker ─────────────────────
+        # Source: "Profitable Forex Trader" — track which pairs your algo works on
+        self._pair_stats_path = str(Path(__file__).resolve().parent.parent / "logs" / "pair_stats.json")
+        self._pair_stats = self._load_pair_stats()
+    def _load_pair_stats(self) -> dict:
+        """Load per-pair win/loss stats from disk."""
+        try:
+            if os.path.exists(self._pair_stats_path):
+                with open(self._pair_stats_path) as f:
+                    return json.load(f)
+        except Exception:
+            pass
+        return {}
+
+    def _save_pair_stats(self) -> None:
+        """Persist per-pair stats to disk."""
+        try:
+            with open(self._pair_stats_path, "w") as f:
+                json.dump(self._pair_stats, f, indent=2)
+        except Exception:
+            pass
+
+    def _record_trade_result(self, instrument: str, pnl: float) -> None:
+        """Record a win or loss for a pair. Print rolling stats."""
+        if instrument not in self._pair_stats:
+            self._pair_stats[instrument] = {"wins": 0, "losses": 0, "total_pnl": 0.0}
+        s = self._pair_stats[instrument]
+        if pnl >= 0:
+            s["wins"] += 1
+        else:
+            s["losses"] += 1
+        s["total_pnl"] = round(s["total_pnl"] + pnl, 2)
+        total = s["wins"] + s["losses"]
+        win_rate = (s["wins"] / total * 100) if total > 0 else 0
+        print(f"  [PAIR_STATS] {instrument}  {'WIN' if pnl >= 0 else 'LOSS'} ${pnl:+.2f}"
+              f"  | W/L: {s['wins']}/{s['losses']} ({win_rate:.0f}%)  Net: ${s['total_pnl']:+.2f}")
+        self._save_pair_stats()
+
+    def _load_pair_stats(self) -> dict:
+        try:
+            if os.path.exists(self._pair_stats_path):
+                with open(self._pair_stats_path) as f:
+                    return json.load(f)
+        except Exception:
+            pass
+        return {}
+
+    def _save_pair_stats(self) -> None:
+        try:
+            with open(self._pair_stats_path, "w") as f:
+                json.dump(self._pair_stats, f, indent=2)
+        except Exception:
+            pass
+
+    def _record_trade_result(self, instrument: str, pnl: float) -> None:
+        if instrument not in self._pair_stats:
+            self._pair_stats[instrument] = {"wins": 0, "losses": 0, "total_pnl": 0.0}
+        s = self._pair_stats[instrument]
+        if pnl >= 0:
+            s["wins"] += 1
+        else:
+            s["losses"] += 1
+        s["total_pnl"] = round(s["total_pnl"] + pnl, 2)
+        total = s["wins"] + s["losses"]
+        win_rate = (s["wins"] / total * 100) if total > 0 else 0
+        print(f"  [PAIR_STATS] {instrument}  {'WIN' if pnl >= 0 else 'LOSS'} {pnl:+.1f}p"
+              f"  | W/L: {s['wins']}/{s['losses']} ({win_rate:.0f}%)  Net: {s['total_pnl']:+.1f}p")
+        self._save_pair_stats()
+
     def activate(self) -> None:
         """Mark manager as active. Called once after engine is_running = True."""
         self.trade_manager_active = True
@@ -337,6 +415,20 @@ class TradeManager:
         for tid in list(self._managed):
             if tid not in broker_ids:
                 inst = self._managed[tid].get("instrument", "")
+                # ── Transcript Edge: record per-pair result ────────────────────
+                _close_entry = self._managed[tid].get("entry", 0)
+                _close_dir = self._managed[tid].get("direction", "")
+                if _close_entry and inst:
+                    try:
+                        _close_price = self._get_price(inst)
+                        if _close_price:
+                            _pip_sz = 0.01 if "JPY" in inst.upper() else 0.0001
+                            _close_pips = ((_close_price - _close_entry) if _close_dir == "BUY"
+                                           else (_close_entry - _close_price)) / _pip_sz
+                            _close_pnl = _close_pips  # approximate in pips
+                            self._record_trade_result(inst, _close_pnl)
+                    except Exception:
+                        pass
                 self._managed.pop(tid)
                 # Free slot from engine's active_positions too
                 if engine_positions is not None and tid in engine_positions:

@@ -84,6 +84,9 @@ RSI_GATE_ENABLED       = os.getenv("RBOT_RSI_GATE_ENABLED", "true").lower() == "
 RSI_OB_LEVEL           = float(os.getenv("RBOT_RSI_OB", "70"))
 RSI_OS_LEVEL           = float(os.getenv("RBOT_RSI_OS", "30"))
 KELLY_SIZING_ENABLED   = os.getenv("RBOT_KELLY_SIZING_ENABLED", "true").lower() == "true"
+# Source: Decoded Liquidity Algorithm — volume confirmation on entry
+VOLUME_GATE_ENABLED    = os.getenv("RBOT_VOLUME_GATE_ENABLED", "true").lower() == "true"
+VOLUME_GATE_MULT       = float(os.getenv("RBOT_VOLUME_GATE_MULT", "1.2"))
 
 # ── Safety mode flags ─────────────────────────────────────────────────────────
 # Both default to False so existing deployments are unaffected without .env change.
@@ -504,6 +507,32 @@ class TradeEngine:
                     candidates = [c for c in candidates if c.direction == _ema200_bias]
                     if len(candidates) < _pre_ema:
                         print(f"  [EMA200] {symbol} filtered {_pre_ema - len(candidates)} signal(s) against 200 EMA bias ({_ema200_bias})")
+
+                # ── TRANSCRIPT EDGE: Volume Confirmation Gate ─────────────
+                _vol_ok = True
+                if VOLUME_GATE_ENABLED and candidates:
+                    try:
+                        _vols = [float(c.get("volume", 0)) for c in candles[-20:]]
+                        if len(_vols) >= 20 and _vols[-1] > 0:
+                            _avg_vol = sum(_vols[:-1]) / len(_vols[:-1])
+                            if _avg_vol > 0 and _vols[-1] < _avg_vol * VOLUME_GATE_MULT:
+                                _vol_ok = False
+                                print(f"  [VOL_GATE] {symbol} blocked — vol {_vols[-1]:.0f} < {_avg_vol * VOLUME_GATE_MULT:.0f} (1.2x avg)")
+                                candidates = []
+                    except Exception:
+                        pass
+
+                # ── TRANSCRIPT EDGE: Volume Confirmation Gate ─────────────
+                if VOLUME_GATE_ENABLED and candidates:
+                    try:
+                        _vols = [float(c.get("volume", 0)) for c in candles[-20:]]
+                        if len(_vols) >= 20 and _vols[-1] > 0:
+                            _avg_vol = sum(_vols[:-1]) / len(_vols[:-1])
+                            if _avg_vol > 0 and _vols[-1] < _avg_vol * VOLUME_GATE_MULT:
+                                print(f"  [VOL_GATE] {symbol} blocked — vol {_vols[-1]:.0f} < {_avg_vol * VOLUME_GATE_MULT:.0f} (1.2x avg)")
+                                candidates = []
+                    except Exception:
+                        pass
 
                 # ── TRANSCRIPT EDGE: RSI overbought/oversold gate ──────────
                 if candidates and (_rsi_block_buy or _rsi_block_sell):
