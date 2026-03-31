@@ -1,0 +1,86 @@
+# ============================================================
+# RBOTZILLA — CURRENT .env CONFIGURATION (March 31, 2026)
+# $11,200 paper account on OANDA practice
+# ============================================================
+
+OANDA_ENVIRONMENT=practice
+OANDA_BASE_URL=https://api-fxpractice.oanda.com
+OANDA_ACCOUNT_ID=101-001-31210531-002
+OANDA_ENV=practice
+OANDA_MODE=practice
+RBOT_PRACTICE_ONLY=1
+RBOT_ALLOW_LIVE=0
+RBOT_REQUIRE_OCO=1
+
+# ── POSITION SIZING ──────────────────────────────────────────────────────────
+# CURRENT: 14k units → $1.40 per pip (major pairs)
+# PREVIOUS: 50k units → $5.00 per pip (when $75 trades were happening)
+RBOT_BASE_UNITS=14000
+RBOT_COMPOUND_GROWTH_EXPONENT=1.5
+RBOT_CHARTER_TARGET_NOTIONAL_USD=8000
+RBOT_CHARTER_MIN_NOTIONAL_USD=6000
+
+# ── DYNAMIC REGIME SIZING (CHOP MODE) ────────────────────────────────────────
+RBOT_CHOP_MODE_ENABLED=true
+RBOT_CHOP_UNITS=14000
+RBOT_CHOP_SL_PIPS=30
+RBOT_CHOP_MAX_POSITIONS=12
+
+# ── SIGNAL QUALITY ───────────────────────────────────────────────────────────
+RBOT_MIN_SIGNAL_CONFIDENCE=0.80
+RBOT_MIN_VOTES=3
+
+# ── PIPELINE-SPECIFIC CONFIDENCE FLOORS ──────────────────────────────────────
+RBOT_REVERSAL_MIN_CONFIDENCE=0.82
+RBOT_MEANREV_MIN_CONFIDENCE=0.80
+RBOT_SCALP_MIN_CONFIDENCE=0.82
+
+# ── SESSION GATE ─────────────────────────────────────────────────────────────
+RBOT_SESSION_GATE_ENABLED=true
+RBOT_SESSION_ALLOWED_START=3  # 3am ET
+RBOT_SESSION_ALLOWED_END=17   # 5pm ET
+
+# ── SL/TP CONFIG ─────────────────────────────────────────────────────────────
+# CRITICAL MISMATCH: SL=ATR(~5 pips), TP=150 pips → R:R is 30:1 on paper but 
+# SL fires 30x more often because M15 noise > ATR distance
+RBOT_SL_PIPS=0         # 0 = ATR mode (typically 4-9 pips)
+RBOT_TP_PIPS=150        # 150 pip target (unrealistic for M15)
+RBOT_TS_PIPS=0          # 0 = ATR trail mode
+RBOT_TS_ATR_MULT=1.5    # trail = 1.5x ATR
+RBOT_CHOP_TARGET_RR=1.5
+
+# ── HARD STOP + PROFIT CLOSE ────────────────────────────────────────────────
+RBOT_MAX_LOSS_USD_PER_TRADE=120
+RBOT_PROFIT_TARGET_PCT=0  # disabled — let broker OCO handle exits
+
+# ── GREEN LOCK + STAGNATION ──────────────────────────────────────────────────
+RBOT_GREEN_LOCK_PIPS=2.0
+RBOT_GREEN_LOCK_MIN_PROFIT_PIPS=10.0
+RBOT_STAGNATION_CYCLES=10
+
+# ── SCAN CONFIG ──────────────────────────────────────────────────────────────
+RBOT_MAX_POSITIONS=6
+RBOT_MAX_NEW_TRADES_PER_CYCLE=1  # patience gate
+RBOT_SCAN_FAST_SECONDS=60
+RBOT_SCAN_SLOW_SECONDS=300
+RBOT_PAIR_REENTRY_COOLDOWN_MINUTES=15
+RBOT_MAX_SPREAD_PIPS=8.0
+
+# ── SAFETY ───────────────────────────────────────────────────────────────────
+ATTACH_ONLY=false
+DISABLE_NEW_ENTRIES=false
+RBOT_HEDGE_ENABLED=false
+
+# ── PAIR LIST ────────────────────────────────────────────────────────────────
+RBOT_TRADING_PAIRS="EUR_USD,GBP_USD,USD_JPY,USD_CHF,AUD_USD,USD_CAD,NZD_USD,EUR_JPY,GBP_JPY,XAU_USD"
+
+# ── TRANSCRIPT EDGE CONFIG ──────────────────────────────────────────────────
+RBOT_DAILY_MAX_LOSS_USD=150
+RBOT_DAILY_MAX_GAIN_USD=300
+RBOT_EMA200_GATE_ENABLED=true
+RBOT_RSI_GATE_ENABLED=true
+RBOT_RSI_OB=70
+RBOT_RSI_OS=30
+RBOT_KELLY_SIZING_ENABLED=true
+# NOTE: VOLUME_GATE, DXY_GATE, MACD_DIV, SESSION_BOOST default to "true" in code
+# but are NOT explicitly set in .env (no override — code defaults apply)

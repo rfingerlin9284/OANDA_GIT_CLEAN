@@ -2,153 +2,274 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "[Rbot_v_24.7_brain][W] 🟢 Start Engine — 4-pipeline scanner + all edge filters active",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\udfe2 Start Engine \u2014 4-pipeline scanner + all edge filters active",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Start the RBOTZILLA Rbot_v_24.7_brain trading engine.' && echo '  v3.30.26: Daily+H4+M15 TF gates | Exhaustion filter | Confluence boost' && echo '  Candle body quality | 50-pip trail | Quiet hours | London-aware' && echo '  Then: live tail of engine log (Ctrl+C to stop watching)' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh && tail -f logs/engine_continuous.out ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL:' && echo '  Start the RBOTZILLA Rbot_v_24.7_brain trading engine.' && echo '  v3.30.26: Daily+H4+M15 TF gates | Exhaustion filter | Confluence boost' && echo '  Candle body quality | 50-pip trail | Quiet hours | London-aware' && echo '  Then: live tail of engine log (Ctrl+C to stop watching)' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh && tail -f logs/engine_continuous.out ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🔴 Stop Engine — Kills the running engine process",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\udd34 Stop Engine \u2014 Kills the running engine process",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  Kill the running Rbot_v_24.7_brain engine process.' && echo '  Open trades remain on OANDA. Broker-side OCO + native TS' && echo '  remain active as safety net even while engine is stopped.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/stop.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL:' && echo '  Kill the running Rbot_v_24.7_brain engine process.' && echo '  Open trades remain on OANDA. Broker-side OCO + native TS' && echo '  remain active as safety net even while engine is stopped.' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/stop.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🔄 Restart Engine — Stops then starts (live tail)",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\udd04 Restart Engine \u2014 Stops then starts (live tail)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. Kill the running Rbot_v_24.7_brain engine process' && echo '  2. Re-launch with current .env config (unchanged)' && echo '  3. Re-sync all broker positions + restore cooldowns' && echo '  4. Live tail engine log (Ctrl+C to stop watching)' && echo '  NO code or config is modified.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh && tail -f logs/engine_continuous.out ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL:' && echo '  1. Kill the running Rbot_v_24.7_brain engine process' && echo '  2. Re-launch with current .env config (unchanged)' && echo '  3. Re-sync all broker positions + restore cooldowns' && echo '  4. Live tail engine log (Ctrl+C to stop watching)' && echo '  NO code or config is modified.' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh && tail -f logs/engine_continuous.out ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
       "problemMatcher": []
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🔥 Insert Phoenix ENV — Swaps .env to Phoenix config (auto-backup + rollback)",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\udd25 Insert Phoenix ENV \u2014 Swaps .env to Phoenix config (auto-backup + rollback)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env with timestamp' && echo '  2. SWAP .env to .env.phoenix' && echo '  3. Restart engine with Phoenix config' && echo '  ROLLBACK: Run Restore Clean ENV task.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp .env.phoenix .env && echo '✅ .env swapped to Phoenix config' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env with timestamp' && echo '  2. SWAP .env to .env.phoenix' && echo '  3. Restart engine with Phoenix config' && echo '  ROLLBACK: Run Restore Clean ENV task.' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp .env.phoenix .env && echo '\u2705 .env swapped to Phoenix config' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🛡️ Insert Safe ENV — Swaps .env to conservative config",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\udee1\ufe0f Insert Safe ENV \u2014 Swaps .env to conservative config",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env' && echo '  2. SWAP .env to .env.safe (conservative settings)' && echo '  3. Restart engine' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp .env.safe .env && echo '✅ .env swapped to Safe config' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env' && echo '  2. SWAP .env to .env.safe (conservative settings)' && echo '  3. Restart engine' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp .env.safe .env && echo '\u2705 .env swapped to Safe config' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] ♻️ Restore Clean ENV — Restores master .env from Desktop backup",
+      "label": "[Rbot_v_24.7_brain][W] \u267b\ufe0f Restore Clean ENV \u2014 Restores master .env from Desktop backup",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env' && echo '  2. RESTORE .env from Desktop master backup' && echo '  3. Restart engine' && echo '═══════════════════════════════════════════════════' && echo '' && if [ ! -f ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env ]; then echo '  ❌ Master backup not found. Run: cp .env ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env' && exit 1; fi && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env .env && echo '✅ .env restored from Desktop master' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL:' && echo '  1. AUTO-BACKUP current .env' && echo '  2. RESTORE .env from Desktop master backup' && echo '  3. Restart engine' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && if [ ! -f ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env ]; then echo '  \u274c Master backup not found. Run: cp .env ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env' && exit 1; fi && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) mkdir -p logs/env_rollback && cp .env \"logs/env_rollback/.env.backup_$(date +%Y%m%d_%H%M%S)\" && cp ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env .env && echo '\u2705 .env restored from Desktop master' && bash scripts/restart.sh ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][RO] 📖 LIVE TAIL — Engine Log (engine_continuous.out)",
+      "label": "[Rbot_v_24.7_brain][RO] \ud83d\udcd6 LIVE TAIL \u2014 Engine Log (engine_continuous.out)",
       "type": "shell",
       "command": "tail -f /home/rfing/RBOTZILLA_OANDA_CLEAN/logs/engine_continuous.out",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "test",
-      "presentation": { "reveal": "always", "panel": "new", "group": "tails" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "group": "tails"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][RO] 📜 LIVE TAIL — Narration Events (narration.jsonl)",
+      "label": "[Rbot_v_24.7_brain][RO] \ud83d\udcdc LIVE TAIL \u2014 Narration Events (narration.jsonl)",
       "type": "shell",
       "command": "tail -f /home/rfing/RBOTZILLA_OANDA_CLEAN/logs/narration.jsonl | python3 -c \"import sys,json; [print(json.dumps(json.loads(l), indent=None)) for l in sys.stdin]\" 2>/dev/null || tail -f /home/rfing/RBOTZILLA_OANDA_CLEAN/logs/narration.jsonl",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "test",
-      "presentation": { "reveal": "always", "panel": "new", "group": "tails" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "group": "tails"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][RO] 📖 LIVE — Human Readable Feed (EST/EDT + UTC)",
-      "type": "shell",
-      "command": ".venv/bin/python scripts/human_tail.py",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
-      "group": "test",
-      "presentation": { "reveal": "always", "panel": "new", "group": "tails" }
-    },
-    {
-      "label": "[Rbot_v_24.7_brain][RO] 👀 Watch Live — Opens 3 panels side by side",
+      "label": "[Rbot_v_24.7_brain][RO] \ud83d\udc40 Watch Live \u2014 Opens 3 panels side by side",
       "dependsOn": [
-        "[Rbot_v_24.7_brain][RO] 📖 LIVE TAIL — Engine Log (engine_continuous.out)",
-        "[Rbot_v_24.7_brain][RO] 📜 LIVE TAIL — Narration Events (narration.jsonl)",
-        "[Rbot_v_24.7_brain][RO] 📖 LIVE — Human Readable Feed (EST/EDT + UTC)"
+        "[Rbot_v_24.7_brain][RO] \ud83d\udcd6 LIVE TAIL \u2014 Engine Log (engine_continuous.out)",
+        "[Rbot_v_24.7_brain][RO] \ud83d\udcdc LIVE TAIL \u2014 Narration Events (narration.jsonl)",
+        "[Rbot_v_24.7_brain][RO] \ud83d\udcd6 LIVE \u2014 Human Readable Feed (EST/EDT + UTC)"
       ],
       "dependsOrder": "parallel",
       "group": "test",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][RO] 🏥 Health Check — Process + broker + narration status",
+      "label": "[Rbot_v_24.7_brain][RO] \ud83c\udfe5 Health Check \u2014 Process + broker + narration status",
       "type": "shell",
       "command": "bash scripts/health_check.sh",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "test",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🔒 Lock All Code — Sets .py/.sh to read-only (chmod 444)",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\udd12 Lock All Code \u2014 Sets .py/.sh to read-only (chmod 444)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL set ALL .py/.sh to read-only (444).' && echo '  Running engine is NOT affected.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.py' ! -path '*/logs/*' -exec chmod 444 {} \\; && find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.sh' ! -path '*/logs/*' -exec chmod 444 {} \\; && echo '✅ Locked (444)' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL set ALL .py/.sh to read-only (444).' && echo '  Running engine is NOT affected.' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.py' ! -path '*/logs/*' -exec chmod 444 {} \\; && find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.sh' ! -path '*/logs/*' -exec chmod 444 {} \\; && echo '\u2705 Locked (444)' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🔓 Unlock All Code — Sets .py/.sh to writable (chmod 644/755)",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\udd13 Unlock All Code \u2014 Sets .py/.sh to writable (chmod 644/755)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL set .py to 644 and .sh to 755.' && echo '  Enables agent code editing and patching.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.py' ! -path '*/logs/*' -exec chmod 644 {} \\; && find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.sh' ! -path '*/logs/*' -exec chmod 755 {} \\; && echo '✅ Unlocked (644/755)' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL set .py to 644 and .sh to 755.' && echo '  Enables agent code editing and patching.' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.py' ! -path '*/logs/*' -exec chmod 644 {} \\; && find /home/rfing/RBOTZILLA_OANDA_CLEAN -name '*.sh' ! -path '*/logs/*' -exec chmod 755 {} \\; && echo '\u2705 Unlocked (644/755)' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🔍 Reassess Trades — Runs TradeManager cycle (can modify SL on open trades)",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\udd0d Reassess Trades \u2014 Runs TradeManager cycle (can modify SL on open trades)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL run a full TradeManager cycle.' && echo '  CAN modify stop-loss on open trades (green-lock, trail, stagnation).' && echo '  Same logic engine runs every 60s automatically.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) .venv/bin/python scripts/reassess_trades.py ;; [eE]|[eE][xX][iI][tX]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL run a full TradeManager cycle.' && echo '  CAN modify stop-loss on open trades (green-lock, trail, stagnation).' && echo '  Same logic engine runs every 60s automatically.' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) .venv/bin/python scripts/reassess_trades.py ;; [eE]|[eE][xX][iI][tX]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "test",
-      "presentation": { "reveal": "always", "panel": "new", "clear": true }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "clear": true
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][RO] 📊 System Status — All Features ON/OFF Dashboard",
+      "label": "[Rbot_v_24.7_brain][RO] \ud83d\udcca System Status \u2014 All Features ON/OFF Dashboard",
       "type": "shell",
       "command": ".venv/bin/python scripts/system_status.py",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "test",
-      "presentation": { "reveal": "always", "panel": "new", "clear": true },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "clear": true
+      },
       "isBackground": true
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 📸 Snapshot + Git Push — Rbot_v_24.7_brain backup (Desktop + GitHub + WSL root)",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\udcf8 Snapshot + Git Push \u2014 Rbot_v_24.7_brain backup (Desktop + GitHub + WSL root)",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL:' && echo '  1. Create a dated SNAPSHOT_BACKUP folder in-repo' && echo '  2. Copy snapshot to ~/Desktop/' && echo '  3. Copy snapshot to ~/  (WSL home root)' && echo '  4. Git commit + push to GitHub (origin main)' && echo '  Safe — does NOT restart the engine or modify .env.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) SNAP=\"SNAPSHOT_BACKUP_Rbot_v_24.7_brain_$(date +%Y%m%d_%H%M)\" && mkdir -p \"$SNAP\" && cp -r engine strategies brokers foundation util scripts .vscode .env \"$SNAP/\" 2>/dev/null && echo \"✅ In-repo snapshot: $SNAP\" && cp -r \"$SNAP\" ~/Desktop/ && echo \"✅ Desktop backup: ~/Desktop/$SNAP\" && cp -r \"$SNAP\" ~/ && echo \"✅ WSL root backup: ~/$SNAP\" && (cp .env ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env && echo '✅ Master .env saved to Desktop' || echo '⚠️  Desktop .env skipped (permission) — saved inside snapshot') && git add -A && git commit -m \"Rbot_v_24.7_brain $(date '+%Y-%m-%d %H:%M') — Daily+H4+M15 TF gates | Exhaustion filter | Fib+S&D confluence | Candle body quality | 50-pip trail | ATR trail infrastructure | Quiet hours 10pm-3am ET\" && git push origin main && echo '✅ Pushed to GitHub' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL:' && echo '  1. Create a dated SNAPSHOT_BACKUP folder in-repo' && echo '  2. Copy snapshot to ~/Desktop/' && echo '  3. Copy snapshot to ~/  (WSL home root)' && echo '  4. Git commit + push to GitHub (origin main)' && echo '  Safe \u2014 does NOT restart the engine or modify .env.' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) SNAP=\"SNAPSHOT_BACKUP_Rbot_v_24.7_brain_$(date +%Y%m%d_%H%M)\" && mkdir -p \"$SNAP\" && cp -r engine strategies brokers foundation util scripts .vscode .env \"$SNAP/\" 2>/dev/null && echo \"\u2705 In-repo snapshot: $SNAP\" && cp -r \"$SNAP\" ~/Desktop/ && echo \"\u2705 Desktop backup: ~/Desktop/$SNAP\" && cp -r \"$SNAP\" ~/ && echo \"\u2705 WSL root backup: ~/$SNAP\" && (cp .env ~/Desktop/RBOTZILLA_ENV_CLEAN_MASTER.env && echo '\u2705 Master .env saved to Desktop' || echo '\u26a0\ufe0f  Desktop .env skipped (permission) \u2014 saved inside snapshot') && git add -A && git commit -m \"Rbot_v_24.7_brain $(date '+%Y-%m-%d %H:%M') \u2014 Daily+H4+M15 TF gates | Exhaustion filter | Fib+S&D confluence | Candle body quality | 50-pip trail | ATR trail infrastructure | Quiet hours 10pm-3am ET\" && git push origin main && echo '\u2705 Pushed to GitHub' ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🗑️ Close Single Trade — Close one trade by ID",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\uddd1\ufe0f Close Single Trade \u2014 Close one trade by ID",
       "type": "shell",
-      "command": "echo '' && echo '═══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK closes ONE trade by ID at market price.' && echo '  Find the Ticket # in your OANDA platform Trades tab.' && echo '═══════════════════════════════════════════════════' && echo '' && read -p '  Enter trade ID (or Exit): ' tid && case \"$tid\" in [eE]*) echo '  Exited.' ;; '') echo '  No ID entered.' ;; *) python3 -m venv --system-site-packages /tmp/rbot_venv 2>/dev/null; /tmp/rbot_venv/bin/pip install websocket-client -q 2>/dev/null; /tmp/rbot_venv/bin/python3 -c \"import sys; sys.path.insert(0, '.'); from brokers.oanda_connector import get_oanda_connector; c = get_oanda_connector(); r = c.close_trade('$tid'); print('RESULT:', r.get('success'), '| Status:', r.get('status_code'))\" ;; esac",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK closes ONE trade by ID at market price.' && echo '  Find the Ticket # in your OANDA platform Trades tab.' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Enter trade ID (or Exit): ' tid && case \"$tid\" in [eE]*) echo '  Exited.' ;; '') echo '  No ID entered.' ;; *) python3 -m venv --system-site-packages /tmp/rbot_venv 2>/dev/null; /tmp/rbot_venv/bin/pip install websocket-client -q 2>/dev/null; /tmp/rbot_venv/bin/python3 -c \"import sys; sys.path.insert(0, '.'); from brokers.oanda_connector import get_oanda_connector; c = get_oanda_connector(); r = c.close_trade('$tid'); print('RESULT:', r.get('success'), '| Status:', r.get('status_code'))\" ;; esac",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new" }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🚀 FULL LAUNCH — Split-Screen OANDA + Crypto (tmux)",
+      "label": "[Rbot_v_24.7_brain][W] \ud83d\ude80 FULL LAUNCH \u2014 Split-Screen OANDA + Crypto (tmux)",
       "type": "shell",
       "command": "tmux kill-session -t dualbot 2>/dev/null || true && tmux new-session -d -s dualbot 'bash scripts/restart.sh && tail -f logs/engine_continuous.out' && tmux split-window -h -t dualbot 'cd /home/rfing/RBOTZILLA_COINBASE_CLEAN && bash scripts/restart.sh && tail -f logs/engine_continuous.out' && tmux select-pane -L && tmux attach-session -t dualbot",
-      "options": { "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN" },
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
       "group": "build",
-      "presentation": { "reveal": "always", "panel": "new", "clear": true }
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "clear": true
+      }
+    },
+    {
+      "label": "[Rbot_v_24.7_brain][RO] \ud83d\udcdf LIVE \u2014 Raw Engine Log",
+      "type": "shell",
+      "command": "tail -f /home/rfing/RBOTZILLA_OANDA_CLEAN/logs/engine_continuous.out",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
+      "group": "test",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "group": "narration_split"
+      }
+    },
+    {
+      "label": "[Rbot_v_24.7_brain][RO] \ud83e\udd1d LIVE \u2014 Trading Buddy (Plain English)",
+      "type": "shell",
+      "command": ".venv/bin/python scripts/narration_buddy.py",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
+      "group": "test",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "group": "narration_split"
+      }
+    },
+    {
+      "label": "[Rbot_v_24.7_brain][RO] \ud83e\uddd1\u200d\ud83d\udcbb Narration HQ \u2014 Raw Log + Trading Buddy (Split View)",
+      "dependsOn": [
+        "[Rbot_v_24.7_brain][RO] \ud83d\udcdf LIVE \u2014 Raw Engine Log",
+        "[Rbot_v_24.7_brain][RO] \ud83e\udd1d LIVE \u2014 Trading Buddy (Plain English)"
+      ],
+      "dependsOrder": "parallel",
+      "group": "test",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
     }
   ]
 }

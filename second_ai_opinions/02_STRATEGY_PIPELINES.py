@@ -39,10 +39,10 @@ from engine.mean_reversion_scanner import scan_sideways_symbol
 
 # ── Confidence thresholds (env-overridable) ───────────────────────────────────
 
-_MOMENTUM_CONF  = float(os.getenv("RBOT_MIN_SIGNAL_CONFIDENCE",      "0.65"))
-_REVERSAL_CONF  = float(os.getenv("RBOT_REVERSAL_MIN_CONFIDENCE",    "0.60"))
-_MEANREV_CONF   = float(os.getenv("RBOT_MEANREV_MIN_CONFIDENCE",     "0.60"))
-_SCALP_CONF     = float(os.getenv("RBOT_SCALP_MIN_CONFIDENCE",       "0.60"))
+_MOMENTUM_CONF  = float(os.getenv("RBOT_MIN_SIGNAL_CONFIDENCE",      "0.75"))
+_REVERSAL_CONF  = float(os.getenv("RBOT_REVERSAL_MIN_CONFIDENCE",    "0.72"))
+_MEANREV_CONF   = float(os.getenv("RBOT_MEANREV_MIN_CONFIDENCE",     "0.70"))
+_SCALP_CONF     = float(os.getenv("RBOT_SCALP_MIN_CONFIDENCE",       "0.72"))
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────

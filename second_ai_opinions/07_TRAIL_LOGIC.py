@@ -54,10 +54,9 @@ DEFAULTS = {
     # NEW — trail activates only after ~25 pips. Trail width 15 pips.
     # Richie Nasser: do not move stop until significant profit
     # Supply/Demand: move SL to BE only after new zone forms inside move
-    # Peer Review: R-based progression (SL=15p → +0.8R lock, +1.2R BE, +1.6R trail)
-    "major":  TightSL(      0.0010,    -0.00015,      0.0018,     0.0018,     0.0012),
-    "minor":  TightSL(      0.0014,    -0.00020,      0.0024,     0.0024,     0.0016),
-    "exotic": TightSL(      0.0018,    -0.00020,      0.0028,     0.0028,     0.0018),
+    "major":  TightSL(      0.0006,     0.00010,      0.0012,     0.0025,     0.0015),
+    "minor":  TightSL(      0.0009,     0.00015,      0.0018,     0.0035,     0.0018),
+    "exotic": TightSL(      0.0012,     0.00015,      0.0020,     0.0030,     0.0015),
 }
 
 

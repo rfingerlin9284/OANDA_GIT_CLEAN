@@ -1,0 +1,200 @@
+  [SCAN] USD_CAD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [VOL_GATE] EUR_JPY blocked — vol 173 < 3221 (1.2x avg)
+  [SCAN] EUR_JPY     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] USD_CAD filtered 1 signal(s) against 200 EMA bias (SELL)
+  [SCAN] USD_CAD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] USD_CAD filtered 1 signal(s) against 200 EMA bias (SELL)
+  [SCAN] USD_CAD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] NZD_USD MOMENTUM BUY blocked — H4 BEARISH
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [EMA200] EUR_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] USD_CAD filtered 1 signal(s) against 200 EMA bias (SELL)
+  [SCAN] USD_CAD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [MTF_SNIPER] NZD_USD MOMENTUM BUY blocked — H4 BEARISH
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [EMA200] EUR_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] NZD_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] NZD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [EMA200] EUR_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] NZD_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] NZD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [EMA200] EUR_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] NZD_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] NZD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [EMA200] EUR_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] NZD_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] NZD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CHF MOMENTUM SELL blocked — H4 BULLISH
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] NZD_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] NZD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] AUD_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] AUD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [EMA200] AUD_USD filtered 1 signal(s) against 200 EMA bias (BUY)
+  [SCAN] AUD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CHF     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] XAU_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (0/12) — rescanning in 60s
