@@ -133,8 +133,20 @@ class TradeEngine:
         print("  ✅ CapitalRouter ready (activates after first NAV read)")
 
         # ── Phoenix-mode: fixed SL/TP pips (0 = use signal's computed values) ──
-        self._sl_pips = int(os.getenv("RBOT_SL_PIPS", "0"))
+        self._base_sl_pips = int(os.getenv("RBOT_SL_PIPS", "0"))
+        self._sl_pips = self._base_sl_pips
         self._tp_pips = int(os.getenv("RBOT_TP_PIPS", "0"))
+
+        # ── Chop Mode Config ────────────────────────────────────────────────
+        self._chop_enabled = os.getenv("RBOT_CHOP_MODE_ENABLED", "false").lower() == "true"
+        self._chop_start   = int(os.getenv("RBOT_CHOP_START_HOUR", "12"))
+        self._chop_end     = int(os.getenv("RBOT_CHOP_END_HOUR", "3"))
+        self._chop_units   = int(os.getenv("RBOT_CHOP_UNITS", "14000"))
+        self._chop_sl_pips = int(os.getenv("RBOT_CHOP_SL_PIPS", "30"))
+        self._chop_max_pos = int(os.getenv("RBOT_CHOP_MAX_POSITIONS", "12"))
+        
+        self.current_max_positions = int(os.getenv("RBOT_MAX_POSITIONS", "12"))
+        self.is_chop_mode_active = False
 
         # ── QuantHedgeEngine (Phoenix port) — disabled by default ──────────
         # Hedge trades are placed with no signal gate or vote check, which adds
@@ -144,13 +156,38 @@ class TradeEngine:
             try:
                 from util.quant_hedge_engine import QuantHedgeEngine
                 self._hedge_engine = QuantHedgeEngine()
-                print(f"  ✅ QuantHedgeEngine initialized (hedge ratio: {self._hedge_engine.default_hedge_ratio:.0%})")
-            except Exception as _he:
+                print("  ✅ QuantHedgeEngine armed")
+            except Exception as e:
+                print(f"  ⚠️ QuantHedgeEngine error: {e}")
                 self._hedge_engine = None
-                print(f"  ⚠️  QuantHedgeEngine unavailable: {_he}")
         else:
             self._hedge_engine = None
             print("  ℹ️  QuantHedgeEngine disabled (RBOT_HEDGE_ENABLED=false)")
+
+    def _update_regime_state(self) -> None:
+        """Evaluate if we are currently in the NY Afternoon / Tokyo Chop session."""
+        if not self._chop_enabled:
+            self.is_chop_mode_active = False
+            self.current_max_positions = int(os.getenv("RBOT_MAX_POSITIONS", "12"))
+            self._sl_pips = self._base_sl_pips
+            return
+            
+        _now_et = broker_now_eastern()
+        _h = _now_et.hour
+        # If chop_start > chop_end (e.g., 12 PM to 3 AM), logically it wraps midnight
+        if self._chop_start > self._chop_end:
+            _in_chop = _h >= self._chop_start or _h < self._chop_end
+        else:
+            _in_chop = self._chop_start <= _h < self._chop_end
+            
+        self.is_chop_mode_active = _in_chop
+        if _in_chop:
+            self.current_max_positions = self._chop_max_pos
+            self._sl_pips = self._chop_sl_pips if self._chop_sl_pips > 0 else self._base_sl_pips
+        else:
+            self.current_max_positions = int(os.getenv("RBOT_MAX_POSITIONS", "12"))
+            self._sl_pips = self._base_sl_pips
+
 
     # ── Startup verification ─────────────────────────────────────────────────
 
@@ -252,7 +289,10 @@ class TradeEngine:
             broker_open   = len(self.active_positions)
             broker_symbols = set()
 
-        slots_left  = max(0, MAX_POSITIONS - broker_open)
+        # Update dynamic sizing state before slot math
+        self._update_regime_state()
+
+        slots_left  = max(0, self.current_max_positions - broker_open)
         cycle_limit = min(slots_left, MAX_NEW_PER_CYCLE)
 
         if cycle_limit == 0:
@@ -721,7 +761,7 @@ class TradeEngine:
                       f"Trailing stop active. OCO protection set.")
 
                 # ── Hedge counter-trade (Phoenix QuantHedgeEngine) ──────────────────
-                if self._hedge_engine and live_mid:
+                if self._hedge_engine and getattr(self, "is_chop_mode_active", False) and live_mid:
                     try:
                         _hedge = self._hedge_engine.execute_hedge(
                             primary_symbol=symbol,
@@ -1086,6 +1126,9 @@ class TradeEngine:
         3) enforce Charter notional floor with broker USD-notional math
         """
         base_units = int(os.getenv("RBOT_BASE_UNITS", "14000"))
+        if getattr(self, "is_chop_mode_active", False):
+            base_units = getattr(self, "_chop_units", base_units)
+            
         growth_exponent = float(os.getenv("RBOT_COMPOUND_GROWTH_EXPONENT", "1.15"))
         drawdown_floor_ratio = float(os.getenv("RBOT_COMPOUND_DRAWDOWN_FLOOR_RATIO", "1.00"))
         max_growth_multiple = float(os.getenv("RBOT_COMPOUND_MAX_GROWTH_MULTIPLE", "3.00"))
@@ -1176,12 +1219,16 @@ class TradeEngine:
                 await self.manager.tick(engine_positions=self.active_positions)
 
                 open_now = len(self.active_positions)
+                
+                # Retrieve current loop configs, honoring Chop Mode
+                _max_p = getattr(self, "current_max_positions", MAX_POSITIONS)
+                _mode_str = "[CHOP MODE 14k]" if getattr(self, "is_chop_mode_active", False) else "[SNIPER MODE 50k]"
 
-                if open_now >= MAX_POSITIONS:
-                    print(f"  Positions full ({open_now}/{MAX_POSITIONS}) — waiting {SCAN_SLOW_SECONDS}s")
+                if open_now >= _max_p:
+                    print(f"  {_mode_str} Positions full ({open_now}/{_max_p}) — waiting {SCAN_SLOW_SECONDS}s")
                     await asyncio.sleep(SCAN_SLOW_SECONDS)
                 else:
-                    print(f"  Slots open ({open_now}/{MAX_POSITIONS}) — rescanning in {SCAN_FAST_SECONDS}s")
+                    print(f"  {_mode_str} Slots open ({open_now}/{_max_p}) — rescanning in {SCAN_FAST_SECONDS}s")
                     await asyncio.sleep(SCAN_FAST_SECONDS)
 
             except KeyboardInterrupt:

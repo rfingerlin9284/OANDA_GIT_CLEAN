@@ -48,8 +48,14 @@ class TightSL:
 
 DEFAULTS = {
     #                     Step1 Trig   Step1 Lock   Step2 Trig   Trail Trig   Trail Pct
-    "major":  TightSL(      0.0004,     0.00010,      0.0008,     0.0014,     0.0008),
-    "minor":  TightSL(      0.0006,     0.00015,      0.0011,     0.0018,     0.0010),
+    # OLD — too tight, trail fires at 14 pips profit on majors = sweeps every 8-pip pullback
+    # "major":  TightSL(      0.0004,     0.00010,      0.0008,     0.0014,     0.0008),
+    # "minor":  TightSL(      0.0006,     0.00015,      0.0011,     0.0018,     0.0010),
+    # NEW — trail activates only after ~25 pips. Trail width 15 pips.
+    # Richie Nasser: do not move stop until significant profit
+    # Supply/Demand: move SL to BE only after new zone forms inside move
+    "major":  TightSL(      0.0006,     0.00010,      0.0012,     0.0025,     0.0015),
+    "minor":  TightSL(      0.0009,     0.00015,      0.0018,     0.0035,     0.0018),
     "exotic": TightSL(      0.0012,     0.00015,      0.0020,     0.0030,     0.0015),
 }
 
