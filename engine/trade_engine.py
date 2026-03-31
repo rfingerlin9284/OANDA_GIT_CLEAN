@@ -456,10 +456,15 @@ class TradeEngine:
                             _rsi_block_sell = True
 
                 # ── TRANSCRIPT EDGE: MACD Divergence Detection ─────────────
+                # Use 60 candles: 26-bar EMA warm-up leaves 34 usable histogram
+                # bars. Require ≥10 bars before firing — fewer than 10 histogram
+                # samples lack the trough-to-peak comparison needed to distinguish
+                # a genuine momentum divergence from a single-candle spike.
+                # (The original 30-candle window yielded only 4 bars — noise.)
                 _macd_div_block_buy = False
                 _macd_div_block_sell = False
                 if MACD_DIV_ENABLED:
-                    _cls_macd = [float(c.get("mid", {}).get("c", 0)) for c in candles[-30:]]
+                    _cls_macd = [float(c.get("mid", {}).get("c", 0)) for c in candles[-60:]]
                     if len(_cls_macd) >= 26:
                         # EMA-12 and EMA-26
                         _e12 = sum(_cls_macd[:12]) / 12.0
@@ -471,7 +476,7 @@ class TradeEngine:
                             _e12 = (_cls_macd[_i_m] - _e12) * _k12 + _e12
                             _e26 = (_cls_macd[_i_m] - _e26) * _k26 + _e26
                             _macd_hist.append(_e12 - _e26)
-                        if len(_macd_hist) >= 3:
+                        if len(_macd_hist) >= 10:
                             # Bearish div: price rising, MACD histogram falling
                             if (_cls_macd[-1] > _cls_macd[-3] and
                                     _macd_hist[-1] < _macd_hist[-3]):
@@ -590,19 +595,6 @@ class TradeEngine:
                         if len(_vols) >= 20 and _vols[-1] > 0:
                             _avg_vol = sum(_vols[:-1]) / len(_vols[:-1])
                             if _avg_vol > 0 and _vols[-1] < _avg_vol * VOLUME_GATE_MULT:
-                                _vol_ok = False
-                                print(f"  [VOL_GATE] {symbol} blocked — vol {_vols[-1]:.0f} < {_avg_vol * VOLUME_GATE_MULT:.0f} (1.2x avg)")
-                                candidates = []
-                    except Exception:
-                        pass
-
-                # ── TRANSCRIPT EDGE: Volume Confirmation Gate ─────────────
-                if VOLUME_GATE_ENABLED and candidates:
-                    try:
-                        _vols = [float(c.get("volume", 0)) for c in candles[-20:]]
-                        if len(_vols) >= 20 and _vols[-1] > 0:
-                            _avg_vol = sum(_vols[:-1]) / len(_vols[:-1])
-                            if _avg_vol > 0 and _vols[-1] < _avg_vol * VOLUME_GATE_MULT:
                                 print(f"  [VOL_GATE] {symbol} blocked — vol {_vols[-1]:.0f} < {_avg_vol * VOLUME_GATE_MULT:.0f} (1.2x avg)")
                                 candidates = []
                     except Exception:
@@ -657,24 +649,42 @@ class TradeEngine:
                 # ── "Look Left" Trend Exhaustion Filter ─────────────────────
                 # Source: "15 Best Price Action Strategies" (15 years PA trading)
                 # "Fresh trends = high quality. Late exhausted trends = low quality."
-                # Block signals where price already traveled >65% of TP distance
-                # from the 30-candle swing. Prevents entering at the end of a move.
+                # Block signals where price already traveled >2.5×ATR(14) from the
+                # 30-candle swing. Using pair-calibrated ATR replaces the old
+                # RBOT_TP_PIPS dependency (150 pips × 0.65 = 97.5-pip cutoff that
+                # almost never triggered on M15 because the typical 30-candle range
+                # is 20–50 pips).
                 if candidates:
                     _pip_sz  = 0.01 if "JPY" in symbol.upper() else 0.0001
-                    _tp_pips = float(os.getenv("RBOT_TP_PIPS", "150"))
                     _live_px = float(candles[-1].get("mid", {}).get("c", 0))
                     _h30     = max(float(c.get("mid", {}).get("h", 0)) for c in candles[-30:])
                     _l30     = min(float(c.get("mid", {}).get("l", 0)) for c in candles[-30:])
-                    _thresh  = _tp_pips * 0.65 * _pip_sz
+                    # ATR(14): average of the 14 most-recent true ranges.
+                    # Each TR requires the previous candle's close, so we walk
+                    # the last 14 index positions (15 candles consumed total).
+                    try:
+                        _trs_e = [
+                            max(
+                                float(candles[_i].get("mid", {}).get("h", 0)) - float(candles[_i].get("mid", {}).get("l", 0)),
+                                abs(float(candles[_i].get("mid", {}).get("h", 0)) - float(candles[_i - 1].get("mid", {}).get("c", 0))),
+                                abs(float(candles[_i].get("mid", {}).get("l", 0)) - float(candles[_i - 1].get("mid", {}).get("c", 0))),
+                            )
+                            for _i in range(max(1, len(candles) - 14), len(candles))
+                        ]
+                        _atr_e = sum(_trs_e) / len(_trs_e) if _trs_e else _pip_sz * 10
+                    except Exception:
+                        _atr_e = _pip_sz * 10
+                    _thresh = _atr_e * 2.5
                     _fresh   = []
                     for _sig in candidates:
                         _travel = (_live_px - _l30) if _sig.direction == "BUY" else (_h30 - _live_px)
                         if _travel > _thresh:
-                            _pips_t = round(_travel / _pip_sz, 0)
-                            print(f"  [EXHAUST] {symbol} {_sig.direction} blocked — {_pips_t:.0f}p traveled (>{_tp_pips*0.65:.0f}p limit)")
+                            _pips_t      = round(_travel / _pip_sz, 0)
+                            _thresh_pips = round(_thresh / _pip_sz, 1)
+                            print(f"  [EXHAUST] {symbol} {_sig.direction} blocked — {_pips_t:.0f}p traveled (>{_thresh_pips}p ATR threshold)")
                             log_gate_block(symbol, "EXHAUSTION_BLOCK", {
                                 "travel_pips": _pips_t,
-                                "threshold_pips": _tp_pips * 0.65,
+                                "threshold_pips": _thresh_pips,
                                 "direction": _sig.direction,
                             })
                         else:
@@ -1343,7 +1353,7 @@ class TradeEngine:
         2) apply watermark-based compounding
         3) enforce Charter notional floor with broker USD-notional math
         """
-        base_units = int(os.getenv("RBOT_BASE_UNITS", "14000"))
+        base_units = int(os.getenv("RBOT_BASE_UNITS", "50000"))
         if getattr(self, "is_chop_mode_active", False):
             base_units = getattr(self, "_chop_units", base_units)
             
