@@ -76,6 +76,15 @@ CHARTER_MIN_NOTIONAL_USD = float(os.getenv("RBOT_CHARTER_MIN_NOTIONAL_USD", "150
 CHARTER_TARGET_NOTIONAL_USD = float(os.getenv("RBOT_CHARTER_TARGET_NOTIONAL_USD", "17500"))
 CHARTER_MIN_RR = float(os.getenv("RBOT_CHARTER_MIN_RR", "3.26"))
 
+# ── TRANSCRIPT EDGE: Circuit Breaker + Directional Filters ────────────────────
+DAILY_MAX_LOSS_USD     = float(os.getenv("RBOT_DAILY_MAX_LOSS_USD",    "150"))
+DAILY_MAX_GAIN_USD     = float(os.getenv("RBOT_DAILY_MAX_GAIN_USD",    "300"))
+EMA200_GATE_ENABLED    = os.getenv("RBOT_EMA200_GATE_ENABLED", "true").lower() == "true"
+RSI_GATE_ENABLED       = os.getenv("RBOT_RSI_GATE_ENABLED", "true").lower() == "true"
+RSI_OB_LEVEL           = float(os.getenv("RBOT_RSI_OB", "70"))
+RSI_OS_LEVEL           = float(os.getenv("RBOT_RSI_OS", "30"))
+KELLY_SIZING_ENABLED   = os.getenv("RBOT_KELLY_SIZING_ENABLED", "true").lower() == "true"
+
 # ── Safety mode flags ─────────────────────────────────────────────────────────
 # Both default to False so existing deployments are unaffected without .env change.
 # Set ATTACH_ONLY=true when Phoenix is the active opener to prevent dual-placement.
@@ -163,6 +172,11 @@ class TradeEngine:
         else:
             self._hedge_engine = None
             print("  ℹ️  QuantHedgeEngine disabled (RBOT_HEDGE_ENABLED=false)")
+
+        # ── Transcript Edge: Daily P/L Circuit Breaker ─────────────────────
+        self._daily_open_balance = None
+        self._daily_trade_date = None
+        self._circuit_breaker_tripped = False
 
     def _update_regime_state(self) -> None:
         """Evaluate if we are currently in the NY Afternoon / Tokyo Chop session."""
@@ -326,6 +340,36 @@ class TradeEngine:
         except Exception:
             nav = free_margin_pct = 1.0   # fail-open on NAV query only
 
+        # ── TRANSCRIPT EDGE: Daily Circuit Breaker ─────────────────────────
+        import datetime as _dt_mod
+        _today = _dt_mod.date.today()
+        if self._daily_trade_date != _today:
+            self._daily_trade_date = _today
+            self._circuit_breaker_tripped = False
+            try:
+                _acct_day = self.connector.get_account_info()
+                self._daily_open_balance = _acct_day.balance
+            except Exception:
+                self._daily_open_balance = None
+
+        if self._circuit_breaker_tripped:
+            return 0
+
+        if self._daily_open_balance is not None:
+            try:
+                _acct_cb = self.connector.get_account_info()
+                _today_pl = _acct_cb.balance - self._daily_open_balance
+                if _today_pl < 0 and abs(_today_pl) >= DAILY_MAX_LOSS_USD:
+                    print(f"  🛑 CIRCUIT BREAKER — Today\'s loss ${abs(_today_pl):.2f} >= ${DAILY_MAX_LOSS_USD:.0f} limit. No new entries until tomorrow.")
+                    self._circuit_breaker_tripped = True
+                    return 0
+                if _today_pl > 0 and _today_pl >= DAILY_MAX_GAIN_USD:
+                    print(f"  🏆 DAILY TARGET HIT — Today\'s gain ${_today_pl:.2f} >= ${DAILY_MAX_GAIN_USD:.0f} target. Preserving profits.")
+                    self._circuit_breaker_tripped = True
+                    return 0
+            except Exception:
+                pass
+
         # Collect qualifying signals
         # Pre-market playbook ordering: vetted symbols scan first
         if self._session_playbook:
@@ -352,6 +396,37 @@ class TradeEngine:
                 # Best qualifying signal for this pair wins.
 
                 candidates = []
+
+                # ── TRANSCRIPT EDGE: 200 EMA Directional Filter ────────────────
+                _ema200_bias = None
+                if EMA200_GATE_ENABLED:
+                    _closes_m15 = [float(c.get("mid", {}).get("c", 0)) for c in candles]
+                    if len(_closes_m15) >= 200:
+                        _ema200 = sum(_closes_m15[:200]) / 200.0
+                        _k200 = 2.0 / 201.0
+                        for _px200 in _closes_m15[200:]:
+                            _ema200 = (_px200 - _ema200) * _k200 + _ema200
+                        _ema200_bias = "BUY" if _closes_m15[-1] > _ema200 else "SELL"
+
+                # ── TRANSCRIPT EDGE: RSI Overbought/Oversold Gate ──────────────
+                _rsi_block_buy = False
+                _rsi_block_sell = False
+                if RSI_GATE_ENABLED:
+                    _cls_rsi = [float(c.get("mid", {}).get("c", 0)) for c in candles[-15:]]
+                    if len(_cls_rsi) >= 15:
+                        _gains = [max(_cls_rsi[i] - _cls_rsi[i-1], 0) for i in range(1, len(_cls_rsi))]
+                        _losses = [max(_cls_rsi[i-1] - _cls_rsi[i], 0) for i in range(1, len(_cls_rsi))]
+                        _avg_gain = sum(_gains) / 14.0
+                        _avg_loss = sum(_losses) / 14.0
+                        if _avg_loss > 0:
+                            _rs = _avg_gain / _avg_loss
+                            _rsi_val = 100.0 - (100.0 / (1.0 + _rs))
+                        else:
+                            _rsi_val = 100.0
+                        if _rsi_val >= RSI_OB_LEVEL:
+                            _rsi_block_buy = True
+                        if _rsi_val <= RSI_OS_LEVEL:
+                            _rsi_block_sell = True
 
                 # ─ Pipeline 1: Momentum (SMA + EMA + Fib, 2-of-3, H4-confirmed) ─
                 mom = run_momentum_pipeline(symbol, candles, min_confidence=MIN_CONFIDENCE)
@@ -422,6 +497,22 @@ class TradeEngine:
                 sc = run_scalp_pipeline(symbol, candles)
                 if sc:
                     candidates.append(sc)
+
+                # ── TRANSCRIPT EDGE: 200 EMA directional filter ───────────
+                if _ema200_bias and candidates:
+                    _pre_ema = len(candidates)
+                    candidates = [c for c in candidates if c.direction == _ema200_bias]
+                    if len(candidates) < _pre_ema:
+                        print(f"  [EMA200] {symbol} filtered {_pre_ema - len(candidates)} signal(s) against 200 EMA bias ({_ema200_bias})")
+
+                # ── TRANSCRIPT EDGE: RSI overbought/oversold gate ──────────
+                if candidates and (_rsi_block_buy or _rsi_block_sell):
+                    _pre_rsi = len(candidates)
+                    candidates = [c for c in candidates
+                                  if not (_rsi_block_buy and c.direction == "BUY")
+                                  and not (_rsi_block_sell and c.direction == "SELL")]
+                    if len(candidates) < _pre_rsi:
+                        print(f"  [RSI_GATE] {symbol} blocked {_pre_rsi - len(candidates)} signal(s) — RSI overbought/oversold")
 
                 # ── Fib + S&D Confluence Boost ───────────────────────────────
                 # Source: "COMPLETE S&D Course" — Fibonacci 61.8% + demand zone
@@ -1133,7 +1224,17 @@ class TradeEngine:
         drawdown_floor_ratio = float(os.getenv("RBOT_COMPOUND_DRAWDOWN_FLOOR_RATIO", "1.00"))
         max_growth_multiple = float(os.getenv("RBOT_COMPOUND_MAX_GROWTH_MULTIPLE", "3.00"))
 
-        scaled = base_units
+        # ── TRANSCRIPT EDGE: Kelly Criterion Sizing ───────────────────────
+        _kelly_mult = 1.0
+        if KELLY_SIZING_ENABLED and hasattr(sig, 'confidence'):
+            _win_p = sig.confidence
+            _loss_p = 1.0 - _win_p
+            _avg_rr = 1.5
+            _kelly_f = (_win_p * _avg_rr - _loss_p) / _avg_rr
+            _kelly_f = max(0.5, min(_kelly_f, 1.25))
+            _kelly_mult = _kelly_f
+
+        scaled = int(base_units * _kelly_mult)
         if nav > 0 and self._initial_nav > 0:
             scaled = compute_watermark_compounded_units(
                 base_units=base_units,
