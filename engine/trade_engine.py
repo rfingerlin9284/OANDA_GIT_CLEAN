@@ -93,6 +93,12 @@ DXY_GATE_ENABLED       = os.getenv("RBOT_DXY_GATE_ENABLED", "true").lower() == "
 MACD_DIV_ENABLED       = os.getenv("RBOT_MACD_DIV_ENABLED", "true").lower() == "true"
 # Source: Richie Nasser — London/NY sessions get confidence boost
 SESSION_BOOST_ENABLED  = os.getenv("RBOT_SESSION_BOOST_ENABLED", "true").lower() == "true"
+# Source: DXY transcript — USD/CHF as DXY proxy for correlation filter
+DXY_GATE_ENABLED       = os.getenv("RBOT_DXY_GATE_ENABLED", "true").lower() == "true"
+# Source: MACD Divergence transcript — detect price/MACD disagreement
+MACD_DIV_ENABLED       = os.getenv("RBOT_MACD_DIV_ENABLED", "true").lower() == "true"
+# Source: Richie Nasser — London/NY sessions get confidence boost
+SESSION_BOOST_ENABLED  = os.getenv("RBOT_SESSION_BOOST_ENABLED", "true").lower() == "true"
 
 # ── Safety mode flags ─────────────────────────────────────────────────────────
 # Both default to False so existing deployments are unaffected without .env change.
@@ -397,6 +403,24 @@ class TradeEngine:
             except Exception:
                 pass
 
+        # ── TRANSCRIPT EDGE: DXY Proxy (USD/CHF 20-bar trend) ─────────────
+        # Source: DXY transcript — USD/CHF has ~0.95 DXY correlation
+        # Cached once per scan cycle, used inside per-pair loop
+        _dxy_bias = None
+        if DXY_GATE_ENABLED:
+            try:
+                _dxy_candles = self.connector.get_historical_data("USD_CHF", count=25, granularity="M15")
+                _dxy_closes = [float(c.get("mid", {}).get("c", 0)) for c in _dxy_candles]
+                if len(_dxy_closes) >= 20:
+                    _dxy_sma20 = sum(_dxy_closes[-20:]) / 20.0
+                    _dxy_now = _dxy_closes[-1]
+                    if _dxy_now > _dxy_sma20 * 1.0005:  # USD strengthening
+                        _dxy_bias = "USD_STRONG"
+                    elif _dxy_now < _dxy_sma20 * 0.9995:  # USD weakening
+                        _dxy_bias = "USD_WEAK"
+            except Exception:
+                pass
+
         # Collect qualifying signals
         # Pre-market playbook ordering: vetted symbols scan first
         if self._session_playbook:
@@ -454,6 +478,32 @@ class TradeEngine:
                             _rsi_block_buy = True
                         if _rsi_val <= RSI_OS_LEVEL:
                             _rsi_block_sell = True
+
+                # ── TRANSCRIPT EDGE: MACD Divergence Detection ─────────────
+                _macd_div_block_buy = False
+                _macd_div_block_sell = False
+                if MACD_DIV_ENABLED:
+                    _cls_macd = [float(c.get("mid", {}).get("c", 0)) for c in candles[-30:]]
+                    if len(_cls_macd) >= 26:
+                        # EMA-12 and EMA-26
+                        _e12 = sum(_cls_macd[:12]) / 12.0
+                        _e26 = sum(_cls_macd[:26]) / 26.0
+                        _k12 = 2.0 / 13.0
+                        _k26 = 2.0 / 27.0
+                        _macd_hist = []
+                        for _i_m in range(26, len(_cls_macd)):
+                            _e12 = (_cls_macd[_i_m] - _e12) * _k12 + _e12
+                            _e26 = (_cls_macd[_i_m] - _e26) * _k26 + _e26
+                            _macd_hist.append(_e12 - _e26)
+                        if len(_macd_hist) >= 3:
+                            # Bearish div: price rising, MACD histogram falling
+                            if (_cls_macd[-1] > _cls_macd[-3] and
+                                    _macd_hist[-1] < _macd_hist[-3]):
+                                _macd_div_block_buy = True
+                            # Bullish div: price falling, MACD histogram rising
+                            if (_cls_macd[-1] < _cls_macd[-3] and
+                                    _macd_hist[-1] > _macd_hist[-3]):
+                                _macd_div_block_sell = True
 
                 # ── TRANSCRIPT EDGE: MACD Divergence Detection ─────────────
                 _macd_div_block_buy = False
@@ -583,6 +633,31 @@ class TradeEngine:
                     if len(candidates) < _pre_dxy:
                         print(f"  [DXY_GATE] {symbol} blocked {_pre_dxy - len(candidates)} signal(s) — {_dxy_bias}")
 
+                # ── TRANSCRIPT EDGE: DXY Correlation Filter ───────────────
+                if DXY_GATE_ENABLED and _dxy_bias and candidates and symbol != "USD_CHF":
+                    _base, _quote = symbol.split("_") if "_" in symbol else ("", "")
+                    _pre_dxy = len(candidates)
+                    _dxy_filtered = []
+                    for _cs in candidates:
+                        _block = False
+                        if _dxy_bias == "USD_STRONG":
+                            # USD strong: block SELL on USD/*, block BUY on */USD
+                            if _base == "USD" and _cs.direction == "SELL":
+                                _block = True
+                            if _quote == "USD" and _cs.direction == "BUY":
+                                _block = True
+                        elif _dxy_bias == "USD_WEAK":
+                            # USD weak: block BUY on USD/*, block SELL on */USD
+                            if _base == "USD" and _cs.direction == "BUY":
+                                _block = True
+                            if _quote == "USD" and _cs.direction == "SELL":
+                                _block = True
+                        if not _block:
+                            _dxy_filtered.append(_cs)
+                    candidates = _dxy_filtered
+                    if len(candidates) < _pre_dxy:
+                        print(f"  [DXY_GATE] {symbol} blocked {_pre_dxy - len(candidates)} signal(s) — {_dxy_bias}")
+
                 # ── TRANSCRIPT EDGE: Volume Confirmation Gate ─────────────
                 if VOLUME_GATE_ENABLED and candidates:
                     try:
@@ -617,6 +692,15 @@ class TradeEngine:
                     if len(candidates) < _pre_macd:
                         print(f"  [MACD_DIV] {symbol} blocked {_pre_macd - len(candidates)} signal(s) — divergence detected")
 
+                # ── TRANSCRIPT EDGE: MACD Divergence Filter ────────────────
+                if MACD_DIV_ENABLED and candidates and (_macd_div_block_buy or _macd_div_block_sell):
+                    _pre_macd = len(candidates)
+                    candidates = [c for c in candidates
+                                  if not (_macd_div_block_buy and c.direction == "BUY")
+                                  and not (_macd_div_block_sell and c.direction == "SELL")]
+                    if len(candidates) < _pre_macd:
+                        print(f"  [MACD_DIV] {symbol} blocked {_pre_macd - len(candidates)} signal(s) — divergence detected")
+
                 # ── TRANSCRIPT EDGE: RSI overbought/oversold gate ──────────
                 if candidates and (_rsi_block_buy or _rsi_block_sell):
                     _pre_rsi = len(candidates)
@@ -625,6 +709,21 @@ class TradeEngine:
                                   and not (_rsi_block_sell and c.direction == "SELL")]
                     if len(candidates) < _pre_rsi:
                         print(f"  [RSI_GATE] {symbol} blocked {_pre_rsi - len(candidates)} signal(s) — RSI overbought/oversold")
+
+                # ── TRANSCRIPT EDGE: Session Confidence Boost ──────────────
+                # Source: Richie Nasser — London/NY sessions have better fills
+                if SESSION_BOOST_ENABLED and candidates:
+                    try:
+                        from util.time_utils import broker_now_eastern
+                        _et_hour = broker_now_eastern().hour
+                        _in_london_ny = 8 <= _et_hour <= 16  # 8am-4pm ET overlap
+                        if _in_london_ny:
+                            for _cs in candidates:
+                                if not getattr(_cs, '_session_boosted', False):
+                                    _cs.confidence = min(_cs.confidence + 0.03, 0.95)
+                                    _cs._session_boosted = True
+                    except Exception:
+                        pass
 
                 # ── TRANSCRIPT EDGE: Session Confidence Boost ──────────────
                 # Source: Richie Nasser — London/NY sessions have better fills
