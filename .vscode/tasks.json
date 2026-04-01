@@ -2,9 +2,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "[Rbot_v_24.7_brain][W] \ud83d\udfe2 Start Engine \u2014 4-pipeline scanner + all edge filters active",
+      "label": "[Rbot_v_24.7_brain][W] 🟢 Start Engine — 26k units | $45 hard stop | 5-min cooldown | Corr gate OFF",
       "type": "shell",
-      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL:' && echo '  Start the RBOTZILLA Rbot_v_24.7_brain trading engine.' && echo '  v3.30.26: Daily+H4+M15 TF gates | Exhaustion filter | Confluence boost' && echo '  Candle body quality | 50-pip trail | Quiet hours | London-aware' && echo '  Then: live tail of engine log (Ctrl+C to stop watching)' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/restart.sh && tail -f logs/engine_continuous.out ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "command": "echo '' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '  \u26a0\ufe0f  THIS TASK WILL:' && echo '  Start the RBOTZILLA Rbot_v_24.7_brain trading engine.' && echo '  v4.01.26: 26k units | $45 hard stop | 5-min cooldown | Corr gate OFF' && echo '  ATR trail x1.5 | 15-pip SL | 35-pip TP | London+NY session gate' && echo '  Then: live tail of engine log (Ctrl+C to stop watching)' && echo '\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/start.sh && tail -f logs/engine_continuous.out ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
       "options": {
         "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
       },
@@ -28,9 +28,9 @@
       }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] 🔄 Restart Engine — Stops then starts (live tail)",
+      "label": "[Rbot_v_24.7_brain][W] 🔄 Restart Engine — Wipes cooldowns + starts fresh (live tail)",
       "type": "shell",
-      "command": "cd ${workspaceFolder} && bash scripts/stop.sh && pkill -f 'python3.*trade_engine' || true && echo '' > logs/engine_continuous.out && bash scripts/start.sh && sleep 3 && tail -f logs/engine_continuous.out",
+      "command": "cd ${workspaceFolder} && bash scripts/stop.sh && rm -f /tmp/rbotz_clean_cooldowns.json && echo '' > logs/engine_continuous.out && bash scripts/start.sh && sleep 3 && tail -f logs/engine_continuous.out",
       "options": {
         "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
       },

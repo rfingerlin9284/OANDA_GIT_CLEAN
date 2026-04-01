@@ -776,14 +776,14 @@ class TradeEngine:
                 print(f"  BLOCKED    {symbol} — MARGIN_GATE_BLOCKED free={free_margin_pct:.1%}")
                 continue   # margin tight for this symbol — try next
 
-            # ── Correlation gate: no same-currency same-direction double-up ──
-            if self._would_create_correlated_exposure(symbol, sig.direction):
-                print(
-                    f"  BLOCKED    {symbol} — CORRELATION_GATE "
-                    f"({sig.direction} on same currency already open)"
-                )
-                print(f"  💬 {symbol}: Skipped — already in a very similar trade. Avoiding duplicate risk.")
-                continue
+            # ── Correlation gate: DISABLED to allow independent same-currency signals ──
+            # if self._would_create_correlated_exposure(symbol, sig.direction):
+            #     print(
+            #         f"  BLOCKED    {symbol} — CORRELATION_GATE "
+            #         f"({sig.direction} on same currency already open)"
+            #     )
+            #     print(f"  💬 {symbol}: Skipped — already in a very similar trade. Avoiding duplicate risk.")
+            #     continue
 
             # ── Phase 1: CANDIDATE_FOUND ───────────────────────────────────
             log_event(CANDIDATE_FOUND, symbol=symbol, venue="signal_scan", details={
