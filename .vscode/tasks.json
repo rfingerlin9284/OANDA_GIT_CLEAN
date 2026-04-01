@@ -28,16 +28,20 @@
       }
     },
     {
-      "label": "[Rbot_v_24.7_brain][W] \ud83d\udd04 Restart Engine \u2014 Stops then starts (live tail)",
+      "label": "[Rbot_v_24.7_brain][W] 🔄 Restart Engine — Stops then starts (live tail)",
       "type": "shell",
-      "command": "echo '' && echo '══════════════════════════════════════════════════' && echo '  ⚠️  THIS TASK WILL PURGE THE ENGINE:' && echo '  1. Violently pkill all python3 trade_engine ghost processes' && echo '  2. Wipe logs/engine_continuous.out completely clean' && echo '  3. Re-launch the ensemble with current .env config' && echo '  4. Live tail engine log (Ctrl+C to stop watching)' && echo '══════════════════════════════════════════════════' && echo '' && read -p '  Proceed? (Y/N/Exit): ' choice && case \"$choice\" in [yY]) bash scripts/stop.sh; pkill -f \"python3.*trade_engine\" || true; echo \"\" > logs/engine_continuous.out; bash scripts/start.sh; sleep 2; tail -f logs/engine_continuous.out ;; [eE]|[eE][xX][iI][tT]) echo '  Exited.' ;; *) echo '  Cancelled.' ;; esac",
+      "command": "cd ${workspaceFolder} && bash scripts/stop.sh && pkill -f 'python3.*trade_engine' || true && echo '' > logs/engine_continuous.out && bash scripts/start.sh && sleep 3 && tail -f logs/engine_continuous.out",
       "options": {
         "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
       },
       "group": "build",
       "presentation": {
+        "echo": true,
         "reveal": "always",
-        "panel": "new"
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": true,
+        "clear": true
       },
       "problemMatcher": []
     },

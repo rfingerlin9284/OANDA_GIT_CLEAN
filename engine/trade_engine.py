@@ -299,6 +299,17 @@ class TradeEngine:
             broker_by_id  = {t.get("id", t.get("tradeID", "")): t.get("instrument", "") for t in broker_trades}
             broker_symbols = set(broker_by_id.values())
 
+            # ── Prevent Limit Order Spam: Add Pending Limit Orders to dedup list ──
+            try:
+                pending = self.connector.get_orders(state="PENDING") or []
+                for p_ord in pending:
+                    if p_ord.get("type") == "LIMIT" and p_ord.get("instrument"):
+                        broker_symbols.add(p_ord["instrument"])
+                        # Also count pending limit orders towards the max position slot limit
+                        broker_open += 1
+            except Exception:
+                pass
+
             # Remove local positions no longer in broker
             stale = [tid for tid in list(self.active_positions) if tid not in broker_by_id]
             for tid in stale:
@@ -819,27 +830,50 @@ class TradeEngine:
             print(f"  → Placing  {symbol} {sig.direction} conf={sig.confidence:.1%}")
             print(f"  💬 {symbol}: Checks passed — submitting {'SELL (going short)' if sig.direction=='SELL' else 'BUY (going long)'} order to broker now.")
 
+            # ── Fibonacci Post-Close Entry Protocol ──────────────────────────
+            # Calculate the 50% retracement of the M15 signal candle for the wick entry
+            _placed_entry = live_mid
+            _ord_type = "MARKET"
+            try:
+                _c2 = self.connector.get_historical_data(symbol, count=2, granularity="M15")
+                _sig_candle = _c2[-1]
+                _sh = float(_sig_candle.get("mid", {}).get("h", live_mid))
+                _sl_c = float(_sig_candle.get("mid", {}).get("l", live_mid))
+                _fib_50 = _sl_c + ((_sh - _sl_c) * 0.5)
+                
+                if sig.direction == "BUY" and _fib_50 < live_mid:
+                    _placed_entry = round(_fib_50, 5)
+                    _ord_type = "LIMIT"
+                elif sig.direction == "SELL" and _fib_50 > live_mid:
+                    _placed_entry = round(_fib_50, 5)
+                    _ord_type = "LIMIT"
+                
+                if _ord_type == "LIMIT":
+                    print(f"  [FIBONACCI WICK] {symbol} entry optimized to LIMIT pullback at {_placed_entry} (Mid: {live_mid})")
+            except Exception:
+                pass
+
             # ── Phoenix-mode: fixed pip SL/TP override ──────────────────────────
             # Replaces signal's variable SL/TP (10–100+ pips) with exact pip values,
             # guaranteeing 3.2:1 R:R and predictable per-trade dollar risk.
-            if self._sl_pips > 0 and live_mid:
+            if self._sl_pips > 0 and _placed_entry:
                 _pip = 0.01 if "JPY" in symbol.upper() else 0.0001
                 _sl_dist = self._sl_pips * _pip
                 _tp_dist = self._tp_pips * _pip
                 if sig.direction == "BUY":
-                    sig.sl = round(live_mid - _sl_dist, 5)
-                    sig.tp = round(live_mid + _tp_dist, 5)
+                    sig.sl = round(_placed_entry - _sl_dist, 5)
+                    sig.tp = round(_placed_entry + _tp_dist, 5)
                 else:
-                    sig.sl = round(live_mid + _sl_dist, 5)
-                    sig.tp = round(live_mid - _tp_dist, 5)
+                    sig.sl = round(_placed_entry + _sl_dist, 5)
+                    sig.tp = round(_placed_entry - _tp_dist, 5)
 
             # ── Phase 4: OCO payload validation ───────────────────────────
             units = self._compute_units(symbol, sig, nav)
-            units = self._apply_min_notional_floor(symbol, units, live_mid)
+            units = self._apply_min_notional_floor(symbol, units, _placed_entry)
             oco_check = validate_oco_payload(
                 symbol=symbol,
                 direction=sig.direction,
-                entry_price=live_mid,
+                entry_price=_placed_entry,
                 stop_loss=sig.sl,
                 take_profit=sig.tp,
                 units=units,
@@ -858,7 +892,7 @@ class TradeEngine:
                 # due to floating-point imprecision at or near the broker floor.
                 pip_size = 0.01 if "JPY" in symbol.upper() else 0.0001
                 min_ts_dist = 10.0 * pip_size          # 0.001 non-JPY, 0.10 JPY
-                raw_sl_dist = abs(live_mid - sig.sl)
+                raw_sl_dist = abs(_placed_entry - sig.sl)
                 # ── Adaptive trailing stop distance ─────────────────────────────
                 # RBOT_TS_PIPS=N  → fixed N pips (override, current: 50)
                 # RBOT_TS_PIPS=0  → ATR mode: RBOT_TS_ATR_MULT × ATR(14)
@@ -880,6 +914,7 @@ class TradeEngine:
                                     for i in range(1, len(_ch))]
                             _atr = sum(_trs[-14:]) / 14.0
                             ts_dist = max(_atr * _ts_atr_mult, min_ts_dist * 2)
+                            print(f"  [ATR CALC] {symbol} 14-period M15 ATR calculated successfully.")
                         else:
                             ts_dist = max(raw_sl_dist, min_ts_dist * 2)
                     except Exception:
@@ -889,11 +924,11 @@ class TradeEngine:
 
                 result = self.connector.place_oco_order(
                     instrument=symbol,
-                    entry_price=live_mid,
+                    entry_price=_placed_entry,
                     stop_loss=sig.sl,
                     take_profit=sig.tp,
                     units=units,
-                    order_type="MARKET",
+                    order_type=_ord_type,
                     trailing_stop_distance=ts_dist,
                 )
 

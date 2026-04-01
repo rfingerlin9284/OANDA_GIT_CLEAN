@@ -325,6 +325,26 @@ class TradeManager:
             tags = set(managed_state.get("tags") or [])
             trail_policy = policy_for(instrument, strat, tags)
 
+            try:
+                # Dynamic ATR Trailing Calibration
+                # Extrapolate 14-period M15 ATR to intelligently widen/tighten trailing stops
+                _m15 = self.broker.get_historical_data(instrument, count=15, granularity="M15")
+                _closes = [float(c.get("mid", {}).get("c", 0)) for c in _m15]
+                _highs = [float(c.get("mid", {}).get("h", 0)) for c in _m15]
+                _lows = [float(c.get("mid", {}).get("l", 0)) for c in _m15]
+                if len(_closes) >= 15:
+                    _tr = []
+                    for i in range(1, len(_closes)):
+                        _h, _l, _pc = _highs[i], _lows[i], _closes[i-1]
+                        _tr.append(max(_h - _l, abs(_h - _pc), abs(_l - _pc)))
+                    _atr = sum(_tr) / len(_tr)
+                    
+                    from .trail_logic import calibrate_from_atr
+                    trail_policy = calibrate_from_atr(trail_policy, _atr / current_price)
+            except Exception as e:
+                pass  # Fall back to base trail logic if ATR fetch fails
+
+
             def _adjust_stop(tid: str, new_sl: float) -> None:
                 # Profit-only guard: only tighten SL when trade is in profit.
                 # This preserves the OANDA broker trailing stop while the trade
@@ -520,6 +540,15 @@ class TradeManager:
         """
         if trade_id not in self._managed:
             return
+
+        # Disable Stagnation Kill-Chain during Asian Session chop (5pm ET to 1am ET)
+        try:
+            from util.time_utils import broker_now_eastern
+            _hour = broker_now_eastern().hour
+            if _hour >= 17 or _hour < 1:
+                return
+        except Exception:
+            pass
 
         pip_size = 0.01 if "JPY" in (instrument or "").upper() else 0.0001
         threshold = self._stagnation_pip_threshold * pip_size
