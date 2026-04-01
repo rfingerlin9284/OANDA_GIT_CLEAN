@@ -1,0 +1,127 @@
+# ============================================================
+# RBOTZILLA — PHOENIX MODE CONFIG
+# ============================================================
+# Switch to this config with:
+#   cp .env.phoenix .env && bash scripts/restart.sh
+# Switch back to safe/conservative mode with:
+#   cp .env.safe .env && bash scripts/restart.sh
+# ============================================================
+
+OANDA_ENVIRONMENT=practice
+OANDA_BASE_URL=https://api-fxpractice.oanda.com
+OANDA_ACCOUNT_ID=101-001-31210531-002
+OANDA_API_TOKEN=95536c48843b0a4046985fa0df70af52-dd6a97874b76a824f1646bc47b7699a8
+OANDA_TOKEN=95536c48843b0a4046985fa0df70af52-dd6a97874b76a824f1646bc47b7699a8
+OANDA_ENV=practice
+OANDA_MODE=practice
+RBOT_PRACTICE_ONLY=1
+RBOT_ALLOW_LIVE=0
+RBOT_REQUIRE_OCO=1
+
+# ── POSITION SIZING ──────────────────────────────────────────────────────────
+# Phoenix minimum notional = $15k → ~14,000 units on major pairs
+# RBOT_BASE_UNITS=50000  ← OLD: 50k units — ATR SLs too narrow, spread eats the room
+# NEW: 14k units — ATR SLs (4-9 pips = $5-$12 risk) work correctly at this size
+RBOT_BASE_UNITS=26000
+RBOT_COMPOUND_GROWTH_EXPONENT=1.5
+RBOT_CHARTER_TARGET_NOTIONAL_USD=8000
+RBOT_CHARTER_MIN_NOTIONAL_USD=6000
+
+# ── DYNAMIC REGIME SIZING (CHOP MODE) ────────────────────────────────────────
+# Automatically scales down exposure during the NY Afternoon / Tokyo sideways noise
+RBOT_CHOP_MODE_ENABLED=true
+RBOT_CHOP_UNITS=26000
+RBOT_CHOP_SL_PIPS=15
+RBOT_CHOP_MAX_POSITIONS=12
+
+# ── SIGNAL QUALITY ───────────────────────────────────────────────────────────
+# Raised: Tokyo-session noise was generating 72% reversal signals that lost
+RBOT_MIN_SIGNAL_CONFIDENCE=0.65
+RBOT_MIN_VOTES=1
+
+# ── PIPELINE-SPECIFIC CONFIDENCE FLOORS ──────────────────────────────────────
+RBOT_REVERSAL_MIN_CONFIDENCE=0.65
+RBOT_MEANREV_MIN_CONFIDENCE=0.65
+RBOT_SCALP_MIN_CONFIDENCE=0.65
+
+# ── SESSION GATE / QUIET HOURS ───────────────────────────────────────────────
+# EDGE_E: Only trade during London + NY sessions. Blocks Asian session manipulation.
+# Transcript evidence: large losses cluster in 3am-6am ET (Asian session noise).
+# London open: 3am ET | NY close: 5pm ET
+# RBOT_QUIET_HOURS_ENABLED=true  ← OLD: basic quiet hours 10pm-3am only
+# RBOT_QUIET_HOURS_START=22
+# RBOT_QUIET_HOURS_END=3
+RBOT_SESSION_GATE_ENABLED=true
+RBOT_SESSION_ALLOWED_START=3
+RBOT_SESSION_ALLOWED_END=17
+
+# ── FIXED SL/TP PIPS (Phoenix mode) ─────────────────────────────────────────
+# Phoenix used 10-pip SL / 32-pip TP (= guaranteed 3.2:1 R:R, no R:R rejections)
+# Risk per trade:   14,000 × 0.0001 × 10 = $14
+# Reward per trade: 14,000 × 0.0001 × 32 = $44.80
+# RBOT_SL_PIPS=20  ← OLD: flat 20-pip SL
+# RBOT_SL_PIPS=15   ← ATR mode — works correctly at 14k unit sizing
+RBOT_SL_PIPS=15
+RBOT_TP_PIPS=35
+# Fixed trail: 50 pips. Set RBOT_TS_PIPS=12 to enable ATR mode (RBOT_TS_ATR_MULT).
+RBOT_TS_PIPS=12
+# ATR adaptive trail multiplier. Active ONLY when RBOT_TS_PIPS=12. Suggested: 1.5
+RBOT_TS_ATR_MULT=1.5
+RBOT_CHOP_TARGET_RR=1.5
+
+# ── HARD STOP ────────────────────────────────────────────────────────────────
+# At 50k units, 20-pip SL ≈ $100. Hard stop at $120 gives breathing room.
+RBOT_MAX_LOSS_USD_PER_TRADE=45
+
+# ── PROFIT TARGET CLOSE ──────────────────────────────────────────────────────
+# KEY DIFFERENCE FROM CONSERVATIVE MODE:
+# Phoenix had NO early close — trades ran to the full OCO TP (or trailed past it).
+# Setting to 0 = disabled. Let the broker's TP and trail logic do all the work.
+RBOT_PROFIT_TARGET_PCT=0
+
+# ── GREEN LOCK + STAGNATION ──────────────────────────────────────────────────
+RBOT_GREEN_LOCK_PIPS=3.0
+RBOT_GREEN_LOCK_MIN_PROFIT_PIPS=999.0
+RBOT_STAGNATION_CYCLES=999
+
+# ── SPREAD + STALENESS GATES ─────────────────────────────────────────────────
+RBOT_MAX_SPREAD_PIPS=8.0
+RBOT_MAX_STALE_QUOTE_SECONDS=120
+
+# ── SCAN CONFIG ──────────────────────────────────────────────────────────────
+RBOT_MAX_POSITIONS=6
+# RBOT_MAX_NEW_TRADES_PER_CYCLE=2  ← OLD: placed 2 trades per scan (over-trading)
+# EDGE_F: Patience gate — only the single best signal per cycle gets placed
+RBOT_MAX_NEW_TRADES_PER_CYCLE=3
+RBOT_SCAN_FAST_SECONDS=60
+RBOT_SCAN_SLOW_SECONDS=300
+RBOT_PAIR_REENTRY_COOLDOWN_MINUTES=5
+
+# ── SAFETY LOCKS ─────────────────────────────────────────────────────────────
+ATTACH_ONLY=false
+DISABLE_NEW_ENTRIES=false
+RBOT_HEDGE_ENABLED=false
+
+# ── ACTIVE ENGINE PAIR LIST ──────────────────────────────────────────────────
+RBOT_TRADING_PAIRS="EUR_USD,GBP_USD,USD_JPY,USD_CHF,AUD_USD,USD_CAD,NZD_USD,EUR_JPY,GBP_JPY"
+
+# ── TRANSCRIPT EDGE CONFIG ───────────────────────────────────────────
+# Source: Jim Simons / Steve Klagian — daily circuit breaker
+RBOT_DAILY_MAX_LOSS_USD=500
+RBOT_DAILY_MAX_GAIN_USD=300
+# Source: MA Crossover transcript — 200 EMA directional filter
+RBOT_EMA200_GATE_ENABLED=false
+# Source: Technical Analysis / Einstein of Wall St — RSI gate
+RBOT_RSI_GATE_ENABLED=true
+RBOT_RSI_OB=70
+RBOT_RSI_OS=30
+# Source: RenTech — Kelly Criterion confidence sizing
+RBOT_KELLY_SIZING_ENABLED=true
+
+# ── PEER REVIEW FIX: Disable kill-chain gates (Mar 31 2026) ──────────
+RBOT_VOLUME_GATE_ENABLED=false
+RBOT_MACD_DIV_ENABLED=false
+RBOT_DXY_GATE_ENABLED=false
+
+# ── PEER REVIEW FIX: Charter R:R lowered for scalper geometry ──────
+RBOT_CHARTER_MIN_RR=1.5
