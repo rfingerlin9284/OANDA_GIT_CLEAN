@@ -75,13 +75,13 @@ RBOT_MAX_LOSS_USD_PER_TRADE=45
 
 # ── PROFIT TARGET CLOSE ──────────────────────────────────────────────────────
 # KEY DIFFERENCE FROM CONSERVATIVE MODE:
-# Phoenix had NO early close — trades ran to the full OCO TP (or trailed past it).
-# Setting to 0 = disabled. Let the broker's TP and trail logic do all the work.
-RBOT_PROFIT_TARGET_PCT=0
+# Setting to 75 = exit at 75% of TP. Prevents giving back max profit on volatile reverses.
+RBOT_PROFIT_TARGET_PCT=75
 
 # ── GREEN LOCK + STAGNATION ──────────────────────────────────────────────────
-RBOT_GREEN_LOCK_PIPS=3.0
-RBOT_GREEN_LOCK_MIN_PROFIT_PIPS=999.0
+# Green Lock: when trade hits 8 pips profit, SL moves to +2 pips (breakeven + small profit)
+RBOT_GREEN_LOCK_PIPS=2.0
+RBOT_GREEN_LOCK_MIN_PROFIT_PIPS=8.0
 RBOT_STAGNATION_CYCLES=999
 
 # ── SPREAD + STALENESS GATES ─────────────────────────────────────────────────

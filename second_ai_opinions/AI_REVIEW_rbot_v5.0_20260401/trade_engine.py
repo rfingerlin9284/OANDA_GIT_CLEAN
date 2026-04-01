@@ -872,13 +872,27 @@ class TradeEngine:
             except Exception:
                 pass
 
-            # ── Phoenix-mode: fixed pip SL/TP override ──────────────────────────
-            # Replaces signal's variable SL/TP (10–100+ pips) with exact pip values,
-            # guaranteeing 3.2:1 R:R and predictable per-trade dollar risk.
+            # ── Phoenix-mode: Strategy-Specific pipeline SL/TP override ─────────
+            # Replaces signal's variable SL/TP with exact pip values based on strategy.
+            # Reversals/Scalps need tighter exits to lock fast profits before reversion.
+            # Momentum uses standard 15/35 to let trend run.
             if self._sl_pips > 0 and _placed_entry:
+                _strategy  = getattr(sig, '_strategy',  getattr(sig, 'signal_type', 'trend')).lower()
+                
+                # Default to env-based majors sizing (15 SL, 35 TP)
+                _trade_sl_pips = self._sl_pips
+                _trade_tp_pips = self._tp_pips
+                
+                if any(x in _strategy for x in ["reversal", "mean_rev", "scalp"]):
+                    _trade_sl_pips = 12
+                    _trade_tp_pips = 24
+                    print(f"  [STRATEGY EXIT] {_strategy} detected — using tighter {_trade_sl_pips}/{_trade_tp_pips} exits")
+                else:
+                    print(f"  [STRATEGY EXIT] {_strategy} detected — using standard {_trade_sl_pips}/{_trade_tp_pips} exits")
+
                 _pip = 0.01 if "JPY" in symbol.upper() else 0.0001
-                _sl_dist = self._sl_pips * _pip
-                _tp_dist = self._tp_pips * _pip
+                _sl_dist = _trade_sl_pips * _pip
+                _tp_dist = _trade_tp_pips * _pip
                 if sig.direction == "BUY":
                     sig.sl = round(_placed_entry - _sl_dist, 5)
                     sig.tp = round(_placed_entry + _tp_dist, 5)
