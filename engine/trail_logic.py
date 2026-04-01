@@ -51,13 +51,18 @@ DEFAULTS = {
     # OLD — too tight, trail fires at 14 pips profit on majors = sweeps every 8-pip pullback
     # "major":  TightSL(      0.0004,     0.00010,      0.0008,     0.0014,     0.0008),
     # "minor":  TightSL(      0.0006,     0.00015,      0.0011,     0.0018,     0.0010),
-    # NEW — trail activates only after ~25 pips. Trail width 15 pips.
+    # v4.01.26 — trail activates only after ~25 pips. Trail width 15 pips.
     # Richie Nasser: do not move stop until significant profit
     # Supply/Demand: move SL to BE only after new zone forms inside move
     # Peer Review: R-based progression (SL=15p → +0.8R lock, +1.2R BE, +1.6R trail)
-    "major":  TightSL(      0.0010,    -0.00015,      0.0018,     0.0018,     0.0012),
+    # "major":  TightSL(      0.0010,    -0.00015,      0.0018,     0.0018,     0.0012),  ← OLD
+    # v5.0 — widened per Claude+Grok+DeepSeek+GPT unanimous audit finding:
+    # Trail at 0.0018 → 12-pip width on AUD_USD at 0.694 — swept by normal M15 noise.
+    # Raised step2/trail to 0.0022 (~22 pips EUR, ~15 pips AUD), trail width to 0.0018 (~16 pips AUD).
+    "major":  TightSL(      0.0010,    -0.00015,      0.0022,     0.0022,     0.0018),
     "minor":  TightSL(      0.0014,    -0.00020,      0.0024,     0.0024,     0.0016),
     "exotic": TightSL(      0.0018,    -0.00020,      0.0028,     0.0028,     0.0018),
+
 }
 
 

@@ -565,12 +565,16 @@ class TradeEngine:
                 # ── TRANSCRIPT EDGE: 200 EMA directional filter ───────────
                 if _ema200_bias and candidates:
                     for _c in candidates:
+                        # Stamp baseline confidence before any penalties (for cap mechanism)
+                        if not hasattr(_c, '_pre_penalty_conf'):
+                            _c._pre_penalty_conf = _c.confidence
                         if _c.direction != _ema200_bias:
                             _c.confidence -= 0.15
                             print(f"  [EMA200] {symbol} {_c.direction} penalizing confidence -15% vs EMA bias ({_ema200_bias})")
                         else:
                             _c.confidence += 0.05
                             print(f"  [EMA200] {symbol} {_c.direction} boosting confidence +5% with EMA bias")
+
 
                 # ── TRANSCRIPT EDGE: DXY Correlation Filter ───────────────
                 if DXY_GATE_ENABLED and _dxy_bias and candidates and symbol != "USD_CHF":
@@ -618,7 +622,22 @@ class TradeEngine:
                             _cs.confidence -= 0.20
                             print(f"  [RSI_GATE] {symbol} {_cs.direction} penalizing confidence -20% — RSI overbought/oversold")
 
+                # ── PENALTY CAP: max -20% total from all stacked gates ─────────
+                # Fix: EMA200(-15%) + MTF(-15%) + RSI(-20%) can stack to -70%.
+                # At MIN_CONFIDENCE=0.65, a 0.80 signal becomes 0.10 → killed.
+                # Cap ensures no signal loses more than 20% from ALL penalty gates.
+                # (Claude audit + GPT audit + DeepSeek audit unanimous on this fix.)
+                if candidates:
+                    for _cs in candidates:
+                        _start_conf = getattr(_cs, '_pre_penalty_conf', _cs.confidence)
+                        if not hasattr(_cs, '_pre_penalty_conf'):
+                            pass  # baseline not tracked — cap applied on next cycle
+                        _penalty_applied = _start_conf - _cs.confidence
+                        if _penalty_applied > 0.20:
+                            _cs.confidence = _start_conf - 0.20  # hard cap at -20%
+
                 # ── TRANSCRIPT EDGE: Session Confidence Boost ──────────────
+
                 # Source: Richie Nasser — London/NY sessions have better fills
                 if SESSION_BOOST_ENABLED and candidates:
                     try:
