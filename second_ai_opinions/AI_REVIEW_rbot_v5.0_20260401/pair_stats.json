@@ -1,0 +1,47 @@
+{
+  "USD_CHF": {
+    "wins": 2,
+    "losses": 6,
+    "total_pnl": -64.5
+  },
+  "USD_CAD": {
+    "wins": 5,
+    "losses": 2,
+    "total_pnl": 19.4
+  },
+  "USD_JPY": {
+    "wins": 4,
+    "losses": 7,
+    "total_pnl": -20.15
+  },
+  "GBP_JPY": {
+    "wins": 2,
+    "losses": 5,
+    "total_pnl": -3.5
+  },
+  "AUD_USD": {
+    "wins": 7,
+    "losses": 4,
+    "total_pnl": -20.1
+  },
+  "EUR_USD": {
+    "wins": 3,
+    "losses": 3,
+    "total_pnl": -11.55
+  },
+  "NZD_USD": {
+    "wins": 4,
+    "losses": 5,
+    "total_pnl": -23.1
+  },
+  "GBP_USD": {
+    "wins": 2,
+    "losses": 4,
+    "total_pnl": -40.5
+  },
+  "EUR_JPY": {
+    "wins": 1,
+    "losses": 5,
+    "total_pnl": -44.5
+  }
+}

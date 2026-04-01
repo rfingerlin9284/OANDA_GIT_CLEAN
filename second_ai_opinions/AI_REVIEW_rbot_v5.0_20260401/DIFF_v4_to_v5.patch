@@ -1,0 +1,200 @@
+diff --git a/engine/trade_engine.py b/engine/trade_engine.py
+index a6540cf..90b1c6c 100644
+--- a/engine/trade_engine.py
++++ b/engine/trade_engine.py
+@@ -299,6 +299,17 @@ class TradeEngine:
+             broker_by_id  = {t.get("id", t.get("tradeID", "")): t.get("instrument", "") for t in broker_trades}
+             broker_symbols = set(broker_by_id.values())
+ 
++            # ── Prevent Limit Order Spam: Add Pending Limit Orders to dedup list ──
++            try:
++                pending = self.connector.get_orders(state="PENDING") or []
++                for p_ord in pending:
++                    if p_ord.get("type") == "LIMIT" and p_ord.get("instrument"):
++                        broker_symbols.add(p_ord["instrument"])
++                        # Also count pending limit orders towards the max position slot limit
++                        broker_open += 1
++            except Exception:
++                pass
++
+             # Remove local positions no longer in broker
+             stale = [tid for tid in list(self.active_positions) if tid not in broker_by_id]
+             for tid in stale:
+@@ -554,6 +565,9 @@ class TradeEngine:
+                 # ── TRANSCRIPT EDGE: 200 EMA directional filter ───────────
+                 if _ema200_bias and candidates:
+                     for _c in candidates:
++                        # Stamp baseline confidence before any penalties (for cap mechanism)
++                        if not hasattr(_c, '_pre_penalty_conf'):
++                            _c._pre_penalty_conf = _c.confidence
+                         if _c.direction != _ema200_bias:
+                             _c.confidence -= 0.15
+                             print(f"  [EMA200] {symbol} {_c.direction} penalizing confidence -15% vs EMA bias ({_ema200_bias})")
+@@ -561,6 +575,7 @@ class TradeEngine:
+                             _c.confidence += 0.05
+                             print(f"  [EMA200] {symbol} {_c.direction} boosting confidence +5% with EMA bias")
+ 
++
+                 # ── TRANSCRIPT EDGE: DXY Correlation Filter ───────────────
+                 if DXY_GATE_ENABLED and _dxy_bias and candidates and symbol != "USD_CHF":
+                     _base, _quote = symbol.split("_") if "_" in symbol else ("", "")
+@@ -607,7 +622,22 @@ class TradeEngine:
+                             _cs.confidence -= 0.20
+                             print(f"  [RSI_GATE] {symbol} {_cs.direction} penalizing confidence -20% — RSI overbought/oversold")
+ 
++                # ── PENALTY CAP: max -20% total from all stacked gates ─────────
++                # Fix: EMA200(-15%) + MTF(-15%) + RSI(-20%) can stack to -70%.
++                # At MIN_CONFIDENCE=0.65, a 0.80 signal becomes 0.10 → killed.
++                # Cap ensures no signal loses more than 20% from ALL penalty gates.
++                # (Claude audit + GPT audit + DeepSeek audit unanimous on this fix.)
++                if candidates:
++                    for _cs in candidates:
++                        _start_conf = getattr(_cs, '_pre_penalty_conf', _cs.confidence)
++                        if not hasattr(_cs, '_pre_penalty_conf'):
++                            pass  # baseline not tracked — cap applied on next cycle
++                        _penalty_applied = _start_conf - _cs.confidence
++                        if _penalty_applied > 0.20:
++                            _cs.confidence = _start_conf - 0.20  # hard cap at -20%
++
+                 # ── TRANSCRIPT EDGE: Session Confidence Boost ──────────────
++
+                 # Source: Richie Nasser — London/NY sessions have better fills
+                 if SESSION_BOOST_ENABLED and candidates:
+                     try:
+@@ -765,14 +795,14 @@ class TradeEngine:
+                 print(f"  BLOCKED    {symbol} — MARGIN_GATE_BLOCKED free={free_margin_pct:.1%}")
+                 continue   # margin tight for this symbol — try next
+ 
+-            # ── Correlation gate: no same-currency same-direction double-up ──
+-            if self._would_create_correlated_exposure(symbol, sig.direction):
+-                print(
+-                    f"  BLOCKED    {symbol} — CORRELATION_GATE "
+-                    f"({sig.direction} on same currency already open)"
+-                )
+-                print(f"  💬 {symbol}: Skipped — already in a very similar trade. Avoiding duplicate risk.")
+-                continue
++            # ── Correlation gate: DISABLED to allow independent same-currency signals ──
++            # if self._would_create_correlated_exposure(symbol, sig.direction):
++            #     print(
++            #         f"  BLOCKED    {symbol} — CORRELATION_GATE "
++            #         f"({sig.direction} on same currency already open)"
++            #     )
++            #     print(f"  💬 {symbol}: Skipped — already in a very similar trade. Avoiding duplicate risk.")
++            #     continue
+ 
+             # ── Phase 1: CANDIDATE_FOUND ───────────────────────────────────
+             log_event(CANDIDATE_FOUND, symbol=symbol, venue="signal_scan", details={
+@@ -819,27 +849,50 @@ class TradeEngine:
+             print(f"  → Placing  {symbol} {sig.direction} conf={sig.confidence:.1%}")
+             print(f"  💬 {symbol}: Checks passed — submitting {'SELL (going short)' if sig.direction=='SELL' else 'BUY (going long)'} order to broker now.")
+ 
++            # ── Fibonacci Post-Close Entry Protocol ──────────────────────────
++            # Calculate the 50% retracement of the M15 signal candle for the wick entry
++            _placed_entry = live_mid
++            _ord_type = "MARKET"
++            try:
++                _c2 = self.connector.get_historical_data(symbol, count=2, granularity="M15")
++                _sig_candle = _c2[-1]
++                _sh = float(_sig_candle.get("mid", {}).get("h", live_mid))
++                _sl_c = float(_sig_candle.get("mid", {}).get("l", live_mid))
++                _fib_50 = _sl_c + ((_sh - _sl_c) * 0.5)
++                
++                if sig.direction == "BUY" and _fib_50 < live_mid:
++                    _placed_entry = round(_fib_50, 5)
++                    _ord_type = "LIMIT"
++                elif sig.direction == "SELL" and _fib_50 > live_mid:
++                    _placed_entry = round(_fib_50, 5)
++                    _ord_type = "LIMIT"
++                
++                if _ord_type == "LIMIT":
++                    print(f"  [FIBONACCI WICK] {symbol} entry optimized to LIMIT pullback at {_placed_entry} (Mid: {live_mid})")
++            except Exception:
++                pass
++
+             # ── Phoenix-mode: fixed pip SL/TP override ──────────────────────────
+             # Replaces signal's variable SL/TP (10–100+ pips) with exact pip values,
+             # guaranteeing 3.2:1 R:R and predictable per-trade dollar risk.
+-            if self._sl_pips > 0 and live_mid:
++            if self._sl_pips > 0 and _placed_entry:
+                 _pip = 0.01 if "JPY" in symbol.upper() else 0.0001
+                 _sl_dist = self._sl_pips * _pip
+                 _tp_dist = self._tp_pips * _pip
+                 if sig.direction == "BUY":
+-                    sig.sl = round(live_mid - _sl_dist, 5)
+-                    sig.tp = round(live_mid + _tp_dist, 5)
++                    sig.sl = round(_placed_entry - _sl_dist, 5)
++                    sig.tp = round(_placed_entry + _tp_dist, 5)
+                 else:
+-                    sig.sl = round(live_mid + _sl_dist, 5)
+-                    sig.tp = round(live_mid - _tp_dist, 5)
++                    sig.sl = round(_placed_entry + _sl_dist, 5)
++                    sig.tp = round(_placed_entry - _tp_dist, 5)
+ 
+             # ── Phase 4: OCO payload validation ───────────────────────────
+             units = self._compute_units(symbol, sig, nav)
+-            units = self._apply_min_notional_floor(symbol, units, live_mid)
++            units = self._apply_min_notional_floor(symbol, units, _placed_entry)
+             oco_check = validate_oco_payload(
+                 symbol=symbol,
+                 direction=sig.direction,
+-                entry_price=live_mid,
++                entry_price=_placed_entry,
+                 stop_loss=sig.sl,
+                 take_profit=sig.tp,
+                 units=units,
+@@ -858,7 +911,7 @@ class TradeEngine:
+                 # due to floating-point imprecision at or near the broker floor.
+                 pip_size = 0.01 if "JPY" in symbol.upper() else 0.0001
+                 min_ts_dist = 10.0 * pip_size          # 0.001 non-JPY, 0.10 JPY
+-                raw_sl_dist = abs(live_mid - sig.sl)
++                raw_sl_dist = abs(_placed_entry - sig.sl)
+                 # ── Adaptive trailing stop distance ─────────────────────────────
+                 # RBOT_TS_PIPS=N  → fixed N pips (override, current: 50)
+                 # RBOT_TS_PIPS=0  → ATR mode: RBOT_TS_ATR_MULT × ATR(14)
+@@ -880,6 +933,7 @@ class TradeEngine:
+                                     for i in range(1, len(_ch))]
+                             _atr = sum(_trs[-14:]) / 14.0
+                             ts_dist = max(_atr * _ts_atr_mult, min_ts_dist * 2)
++                            print(f"  [ATR CALC] {symbol} 14-period M15 ATR calculated successfully.")
+                         else:
+                             ts_dist = max(raw_sl_dist, min_ts_dist * 2)
+                     except Exception:
+@@ -889,11 +943,11 @@ class TradeEngine:
+ 
+                 result = self.connector.place_oco_order(
+                     instrument=symbol,
+-                    entry_price=live_mid,
++                    entry_price=_placed_entry,
+                     stop_loss=sig.sl,
+                     take_profit=sig.tp,
+                     units=units,
+-                    order_type="MARKET",
++                    order_type=_ord_type,
+                     trailing_stop_distance=ts_dist,
+                 )
+ 
+diff --git a/engine/trail_logic.py b/engine/trail_logic.py
+index 86a084c..4a5722b 100644
+--- a/engine/trail_logic.py
++++ b/engine/trail_logic.py
+@@ -51,13 +51,18 @@ DEFAULTS = {
+     # OLD — too tight, trail fires at 14 pips profit on majors = sweeps every 8-pip pullback
+     # "major":  TightSL(      0.0004,     0.00010,      0.0008,     0.0014,     0.0008),
+     # "minor":  TightSL(      0.0006,     0.00015,      0.0011,     0.0018,     0.0010),
+-    # NEW — trail activates only after ~25 pips. Trail width 15 pips.
++    # v4.01.26 — trail activates only after ~25 pips. Trail width 15 pips.
+     # Richie Nasser: do not move stop until significant profit
+     # Supply/Demand: move SL to BE only after new zone forms inside move
+     # Peer Review: R-based progression (SL=15p → +0.8R lock, +1.2R BE, +1.6R trail)
+-    "major":  TightSL(      0.0010,    -0.00015,      0.0018,     0.0018,     0.0012),
++    # "major":  TightSL(      0.0010,    -0.00015,      0.0018,     0.0018,     0.0012),  ← OLD
++    # v5.0 — widened per Claude+Grok+DeepSeek+GPT unanimous audit finding:
++    # Trail at 0.0018 → 12-pip width on AUD_USD at 0.694 — swept by normal M15 noise.
++    # Raised step2/trail to 0.0022 (~22 pips EUR, ~15 pips AUD), trail width to 0.0018 (~16 pips AUD).
++    "major":  TightSL(      0.0010,    -0.00015,      0.0022,     0.0022,     0.0018),
+     "minor":  TightSL(      0.0014,    -0.00020,      0.0024,     0.0024,     0.0016),
+     "exotic": TightSL(      0.0018,    -0.00020,      0.0028,     0.0028,     0.0018),
++
+ }
+ 
+ 

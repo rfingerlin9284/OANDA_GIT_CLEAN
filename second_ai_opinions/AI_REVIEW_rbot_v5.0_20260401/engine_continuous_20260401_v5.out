@@ -1,0 +1,1723 @@
+WARNING:brokers.oanda_connector:USER OVERRIDE: OANDA is strictly locked to PRACTICE endpoints to prevent real money loss.
+  ✅ Foundation/Charter imported and validated
+  ✅ TradeManager initialized (hard_stop=$45)
+  ✅ PreMarketScanner initialized
+  ✅ CapitalRouter ready (activates after first NAV read)
+  ℹ️  QuantHedgeEngine disabled (RBOT_HEDGE_ENABLED=false)
+
+============================================================
+  RBOTZILLA OANDA CLEAN — PRACTICE ENGINE
+============================================================
+  Engine Time   : 4/01/26 @ 15:00 EDT [4/01/26 @ 19:00 UTC]
+  Timezone      : US Eastern (NYC/NYSE)
+  Broker Time   : 4/01/26 @ 15:00 EDT [4/01/26 @ 19:00 UTC]
+  Clock Sync    : ✅ SYNCED (drift -1130ms)
+  Environment   : practice
+  Endpoint      : https://api-fxpractice.oanda.com
+  Account ID    : 101-001-31210531-002
+  Balance       : $10,168.51
+  Margin Used   : $6,884.45
+  Broker Trades : 6
+  OCO Enforced  : YES (SL+TP+TS mandatory on all orders)
+  Pairs Scanning: 6
+  Max Positions : 6
+  Min Confidence: 65%
+============================================================
+
+  ✅ TRADE MANAGER ACTIVATED
+  ✅ CapitalRouter RESTORED  initial=$6,780.71  watermark=$11,558.65  live=$10,082.18
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD BUY reversal 83%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [MANAGER] SYNCED  EUR_JPY BUY  entry=183.886  sl=183.728  id=143659
+  [MANAGER] SYNCED  AUD_USD BUY  entry=0.69154  sl=0.69004  id=143654
+  [MANAGER] SYNCED  GBP_JPY SELL  entry=211.209  sl=211.359  id=143642
+  [MANAGER] SYNCED  USD_CHF SELL  entry=0.79401  sl=0.79547  id=143614
+  [MANAGER] SYNCED  EUR_USD BUY  entry=1.1589  sl=1.15732  id=143604
+  [MANAGER] SYNCED  GBP_USD BUY  entry=1.33073  sl=1.32904  id=143599
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  📋 Qualified: 2 signal(s) — EUR_USD BUY reversal 83%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [ROUTER] REALLOC  close EUR_JPY(143659) → open NZD_USD BUY (52.1% improvement)
+  [ROUTER] ✓ REALLOC OPENED NZD_USD id=143669
+  [MANAGER] SYNCED  NZD_USD BUY  entry=0.57473  sl=0.57408  id=143669
+  [PAIR_STATS] EUR_JPY  WIN +1.3p  | W/L: 1/5 (17%)  Net: -44.5p
+  [MANAGER] CLOSED  EUR_JPY  id=143659
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — EUR_USD BUY reversal 83%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [ROUTER] REALLOC  close AUD_USD(143654) → open EUR_USD BUY (57.0% improvement)
+  [ROUTER] ✗ Realloc open rejected: success=True but no trade_id in response
+  [PAIR_STATS] AUD_USD  WIN +2.4p  | W/L: 6/4 (60%)  Net: -22.6p
+  [MANAGER] CLOSED  AUD_USD  id=143654
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  📋 Qualified: 2 signal(s) — EUR_USD BUY reversal 83%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=82%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (82% confident) — queuing a BUY
+  📋 Qualified: 2 signal(s) — EUR_USD BUY reversal 83%  , NZD_USD BUY reversal 82%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (83% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — GBP_USD BUY reversal 83%  , USD_JPY SELL reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY SELL conf=83.0% (1v)
+  → Placing  USD_JPY SELL conf=83.0%
+  💬 USD_JPY: Checks passed — submitting SELL (going short) order to broker now.
+  [FIBONACCI WICK] USD_JPY entry optimized to LIMIT pullback at 158.871 (Mid: 158.868)
+  ✗ REJECTED USD_JPY — success=True but no trade_id in response
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — GBP_USD BUY reversal 83%  , USD_CAD BUY reversal 72%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_CAD BUY conf=72.0% (1v)
+  → Placing  USD_CAD BUY conf=72.0%
+  💬 USD_CAD: Checks passed — submitting BUY (going long) order to broker now.
+  ✓ OPENED   USD_CAD BUY [REVERSAL M15] liq_sweep  id=143686
+  💬 ✅ Trade open! USD_CAD buying 26,000 units. Stop-loss in 15 pips, take-profit in 35 pips. Trailing stop active. OCO protection set.
+  [ROUTER] REALLOC  close GBP_JPY(143642) → open NZD_USD SELL (139.4% improvement)
+  [ROUTER] ⚠️  Realloc open blocked: COOLDOWN_BLOCK
+  [MANAGER] SYNCED  USD_CAD BUY  entry=1.38881  sl=1.38722  id=143686
+  [MANAGER] SYNCED  USD_JPY SELL  entry=158.871  sl=159.021  id=143681
+  [PAIR_STATS] GBP_JPY  LOSS -1.8p  | W/L: 2/5 (29%)  Net: -3.5p
+  [MANAGER] CLOSED  GBP_JPY  id=143642
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (83% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY SELL reversal 83%  , USD_CAD BUY reversal 72%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [ROUTER] REALLOC  close USD_CAD(143686) → open NZD_USD SELL (116.1% improvement)
+  [ROUTER] ⚠️  Realloc open blocked: COOLDOWN_BLOCK
+  [PAIR_STATS] USD_CAD  LOSS -1.7p  | W/L: 5/2 (71%)  Net: +19.4p
+  [MANAGER] CLOSED  USD_CAD  id=143686
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_CAD BUY conf=72.0% (1v)
+  BLOCKED    USD_CAD — COOLDOWN_BLOCK {'symbol': 'USD_CAD', 'cooldown_seconds_remaining': 3267.0}
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  📋 Qualified: 2 signal(s) — AUD_USD BUY reversal 83%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  AUD_USD BUY conf=83.0% (1v)
+  → Placing  AUD_USD BUY conf=83.0%
+  💬 AUD_USD: Checks passed — submitting BUY (going long) order to broker now.
+  [FIBONACCI WICK] AUD_USD entry optimized to LIMIT pullback at 0.69188 (Mid: 0.69189)
+  ✗ REJECTED AUD_USD — success=True but no trade_id in response
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=80%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (80% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD BUY reversal 80%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [MANAGER] SYNCED  AUD_USD BUY  entry=0.69188  sl=0.69038  id=143701
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  📋 Qualified: 2 signal(s) — AUD_USD BUY reversal 83%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [ROUTER] REALLOC  close NZD_USD(143669) → open USD_JPY BUY (133.4% improvement)
+  [ROUTER] ✓ REALLOC OPENED USD_JPY id=143681
+  [PAIR_STATS] NZD_USD  LOSS -0.2p  | W/L: 4/5 (44%)  Net: -23.1p
+  [MANAGER] CLOSED  NZD_USD  id=143669
+  [PAIR_STATS] USD_JPY  LOSS -4.9p  | W/L: 4/7 (36%)  Net: -20.1p
+  [MANAGER] CLOSED  USD_JPY  id=143681
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_JPY BUY momentum 73%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 3534.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 3468.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_JPY BUY momentum 73%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 3402.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [RSI_GATE] AUD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] AUD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 3336.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=78%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 3 signal(s) — GBP_USD BUY reversal 83%  , USD_JPY BUY momentum 73%  , AUD_USD BUY reversal 83%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 3270.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (78% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  📋 Qualified: 5 signal(s) — EUR_USD BUY reversal 83%  , GBP_USD BUY reversal 83%  , USD_JPY BUY momentum 73%  , AUD_USD SELL momentum 78%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 5 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 3204.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (78% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  📋 Qualified: 4 signal(s) — GBP_USD BUY reversal 83%  , USD_JPY BUY momentum 73%  , AUD_USD SELL momentum 78%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 4 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 3138.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (78% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=58%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  📋 Qualified: 5 signal(s) — EUR_USD BUY reversal 83%  , GBP_USD BUY reversal 83%  , USD_JPY BUY momentum 73%  , AUD_USD SELL momentum 78%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 5 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 3072.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (78% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=51%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 4 signal(s) — GBP_USD BUY reversal 83%  , USD_JPY BUY momentum 73%  , AUD_USD SELL momentum 78%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 4 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 3006.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (78% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=51%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=78%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  📋 Qualified: 5 signal(s) — EUR_USD BUY reversal 83%  , GBP_USD BUY reversal 83%  , USD_JPY BUY momentum 73%  , AUD_USD SELL momentum 78%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 5 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2940.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=78%✓  REV=72%✓  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (78% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=51%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL momentum 78%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2873.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=78%✓  REV=72%✓  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (78% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=50%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL momentum 78%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2806.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (83% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (78% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=52%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=78%✓  REV=72%✓  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY SELL reversal 83%  , AUD_USD SELL momentum 78%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY SELL conf=83.0% (1v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2739.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (78% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=51%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=78%✓  REV=72%✓  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL momentum 78%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2673.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=52%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL reversal 72%  , NZD_USD SELL reversal 72%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2608.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=51%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL reversal 72%  , NZD_USD SELL reversal 72%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2543.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=51%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL reversal 72%  , NZD_USD SELL reversal 72%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2478.0}
+  [MANAGER] [TightSL] AUD_USD STEP1 lock → SL 0.69218
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=52%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL reversal 72%  , NZD_USD SELL reversal 72%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2413.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=52%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_JPY BUY momentum 73%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2348.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=52%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL reversal 72%  , NZD_USD SELL reversal 72%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2283.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=51%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL reversal 72%  , NZD_USD SELL reversal 72%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2218.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=50%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL reversal 72%  , NZD_USD SELL reversal 72%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 2153.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (83% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_JPY SELL reversal 83%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY SELL conf=83.0% (1v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 1959.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (83% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_JPY SELL reversal 83%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY SELL conf=83.0% (1v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 1894.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=88%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (88% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL momentum 88%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=88%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (88% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 2 signal(s) — AUD_USD SELL momentum 88%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  AUD_USD SELL conf=88.0% (3v)
+  → Placing  AUD_USD SELL conf=88.0%
+  💬 AUD_USD: Checks passed — submitting SELL (going short) order to broker now.
+  [FIBONACCI WICK] AUD_USD entry optimized to LIMIT pullback at 0.69238 (Mid: 0.69209)
+  ✗ REJECTED AUD_USD — success=True but no trade_id in response
+  [PAIR_STATS] AUD_USD  WIN +2.5p  | W/L: 7/4 (64%)  Net: -20.1p
+  [MANAGER] CLOSED  AUD_USD  id=143701
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=88%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (88% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL momentum 88%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=88%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (88% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL momentum 88%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=88%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (88% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL momentum 88%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=88%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (88% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL momentum 88%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=88%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (88% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL momentum 88%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=88%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (88% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD SELL momentum 88%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=73.0% (3v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 1368.0}
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=88%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 AUD_USD: Strong trend detected (88% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL momentum 88%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+
+============================================================
+  PRE-MARKET SCAN  —  WEEKLY_OPEN  session
+  2026-04-01 20:00 UTC
+============================================================
+  #01 AUD_NZD  BUY  conf=77.0% (2v) RR=3.3  ✅ ACTIVE
+  #02 EUR_CAD  SELL conf=76.9% (2v) RR=3.0  ✅ ACTIVE
+  #03 GBP_CHF  BUY  conf=76.8% (2v) RR=3.0  ✅ ACTIVE
+  #04 USD_JPY  BUY  conf=76.6% (2v) RR=3.0  ✅ ACTIVE
+  #05 CAD_JPY  BUY  conf=76.4% (2v) RR=3.0  ✅ ACTIVE
+  #06 GBP_NZD  SELL conf=76.1% (2v) RR=5.1  ✅ ACTIVE
+  #07 AUD_CAD  SELL conf=76.1% (2v) RR=3.0  ✅ ACTIVE
+  #08 USD_CAD  SELL conf=73.1% (2v) RR=3.0  ✅ ACTIVE
+  #09 NZD_USD  SELL conf=71.0% (2v) RR=3.0  ✅ ACTIVE
+  #10 AUD_USD  SELL conf=70.6% (2v) RR=3.0  ✅ ACTIVE
+  #11 GBP_JPY  BUY  conf=69.1% (2v) RR=4.3  ✅ ACTIVE
+
+  SUMMARY: 11 active setups / 11 total
+  TOP PICK: AUD_NZD BUY conf=77.0% (2v) RR=3.3
+============================================================
+
+  [PLAYBOOK] 11 active setups for upcoming session
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=79%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (79% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=69%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (69% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_JPY SELL reversal 79%  , EUR_USD BUY reversal 69%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY SELL conf=79.1% (1v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 1104.0}
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=77%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (77% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_JPY SELL reversal 77%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY SELL conf=76.9% (1v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 1040.0}
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=80%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (80% confident) — queuing a SELL
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_JPY SELL reversal 80%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY SELL conf=80.4% (1v)
+  BLOCKED    USD_JPY — COOLDOWN_BLOCK {'symbol': 'USD_JPY', 'cooldown_seconds_remaining': 910.0}
+  [CHOP MODE 14k] Slots open (3/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_CAD BUY conf=72.0% (1v)
+  BLOCKED    USD_CAD — COOLDOWN_BLOCK {'symbol': 'USD_CAD', 'cooldown_seconds_remaining': 108.0}
+  [MANAGER] SYNCED  AUD_USD SELL  entry=0.69238  sl=0.69388  id=143721
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 72%  , EUR_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_CAD BUY conf=72.0% (1v)
+  BLOCKED    USD_CAD — COOLDOWN_BLOCK {'symbol': 'USD_CAD', 'cooldown_seconds_remaining': 44.0}
+  [CHOP MODE 14k] Slots open (4/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 72%  , EUR_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_CAD BUY conf=72.0% (1v)
+  → Placing  USD_CAD BUY conf=72.0%
+  💬 USD_CAD: Checks passed — submitting BUY (going long) order to broker now.
+  ✓ OPENED   USD_CAD BUY [REVERSAL M15] liq_sweep  id=143726
+  💬 ✅ Trade open! USD_CAD buying 26,000 units. Stop-loss in 15 pips, take-profit in 35 pips. Trailing stop active. OCO protection set.
+  [MANAGER] SYNCED  USD_CAD BUY  entry=1.3882  sl=1.3866  id=143726
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 72%  , EUR_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 72%  , EUR_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 72%  , EUR_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 72%  , EUR_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 72%  , EUR_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 72%  , EUR_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 72%  , GBP_USD BUY reversal 83%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=52%✓  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [RSI_GATE] USD_JPY BUY penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] USD_JPY     MOM=43%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_JPY BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  USD_JPY BUY conf=72.0% (1v)
+  → Placing  USD_JPY BUY conf=72.0%
+  💬 USD_JPY: Checks passed — submitting BUY (going long) order to broker now.
+  ✓ OPENED   USD_JPY BUY [REVERSAL M15] liq_sweep  id=143731
+  💬 ✅ Trade open! USD_JPY buying 26,000 units. Stop-loss in 15 pips, take-profit in 35 pips. Trailing stop active. OCO protection set.
+  [MANAGER] SYNCED  USD_JPY BUY  entry=158.826  sl=158.669  id=143731
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 3 signal(s) — USD_JPY BUY reversal 72%  , USD_CAD BUY reversal 72%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [ROUTER] REALLOC  close USD_CHF(143614) → open NZD_USD BUY (52.1% improvement)
+  [ROUTER] ✓ REALLOC OPENED NZD_USD id=143741
+  [MANAGER] SYNCED  NZD_USD BUY  entry=0.57538  sl=0.57489  id=143741
+  [PAIR_STATS] USD_CHF  LOSS -3.8p  | W/L: 2/6 (25%)  Net: -64.5p
+  [MANAGER] CLOSED  USD_CHF  id=143614
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_JPY: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] USD_CAD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 3 signal(s) — USD_JPY BUY reversal 72%  , USD_CAD BUY reversal 72%  , NZD_USD BUY reversal 83%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [ROUTER] REALLOC  close EUR_USD(143604) → open NZD_USD BUY (52.1% improvement)
+  [ROUTER] ⚠️  Realloc open blocked: COOLDOWN_BLOCK
+  [PAIR_STATS] EUR_USD  LOSS -1.9p  | W/L: 3/3 (50%)  Net: -11.6p
+  [MANAGER] CLOSED  EUR_USD  id=143604
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD BUY reversal 83%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=✗  REV=52%✓  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=✗  REV=52%✓  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [RSI_GATE] NZD_USD SELL penalizing confidence -20% — RSI overbought/oversold
+  [SCAN] NZD_USD     MOM=✗  REV=52%✓  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — NZD_USD SELL reversal 72%  , AUD_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — NZD_USD SELL reversal 72%  , AUD_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — NZD_USD SELL reversal 72%  , AUD_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=65%✓  MR=65%✓  SC=✗  → QUEUED [REVERSAL]
+  💬 EUR_USD: Reversal pattern spotted (65% confident) — queuing a BUY
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — EUR_USD BUY reversal 65%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  CANDIDATE  EUR_USD BUY conf=65.2% (1v)
+  → Placing  EUR_USD BUY conf=65.2%
+  💬 EUR_USD: Checks passed — submitting BUY (going long) order to broker now.
+  [FIBONACCI WICK] EUR_USD entry optimized to LIMIT pullback at 1.15891 (Mid: 1.15911)
+  ✗ REJECTED EUR_USD — success=True but no trade_id in response
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — USD_CAD BUY reversal 83%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_CAD/candles?count=50&granularity=D&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for USD_CAD: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_CAD/candles?count=50&granularity=D&price=M
+  [SCAN] USD_CAD     MOM=63%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles?count=250&granularity=M15&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for EUR_USD: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles?count=250&granularity=M15&price=M
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=69%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (69% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles?count=250&granularity=M15&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for EUR_USD: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles?count=250&granularity=M15&price=M
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 69%  , NZD_USD SELL reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+
+============================================================
+  PRE-MARKET SCAN  —  WEEKLY_OPEN  session
+  2026-04-01 21:00 UTC
+============================================================
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_JPY/candles?count=250&granularity=M15&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for USD_JPY: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_JPY/candles?count=250&granularity=M15&price=M
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/EUR_JPY/candles?count=250&granularity=M15&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for EUR_JPY: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/EUR_JPY/candles?count=250&granularity=M15&price=M
+  #01 USD_CAD  SELL conf=69.8% (3v) RR=3.1  ✅ ACTIVE
+  #02 AUD_JPY  BUY  conf=75.6% (2v) RR=4.0  ✅ ACTIVE
+  #03 GBP_NZD  BUY  conf=75.1% (2v) RR=4.8  ✅ ACTIVE
+  #04 EUR_NZD  BUY  conf=72.5% (2v) RR=3.5  ✅ ACTIVE
+  #05 GBP_JPY  BUY  conf=71.1% (2v) RR=3.6  ✅ ACTIVE
+  #06 AUD_NZD  BUY  conf=70.5% (2v) RR=3.0  ✅ ACTIVE
+
+  SUMMARY: 6 active setups / 6 total
+  TOP PICK: USD_CAD SELL conf=69.8% (3v) RR=3.1
+============================================================
+
+  [PLAYBOOK] 6 active setups for upcoming session
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/GBP_USD/candles?count=250&granularity=M15&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for GBP_USD: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/GBP_USD/candles?count=250&granularity=M15&price=M
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_JPY/candles?count=250&granularity=M15&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for USD_JPY: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_JPY/candles?count=250&granularity=M15&price=M
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_JPY/candles?count=15&granularity=M15&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for USD_JPY: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_JPY/candles?count=15&granularity=M15&price=M
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/NZD_USD/candles?count=15&granularity=M15&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for NZD_USD: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/NZD_USD/candles?count=15&granularity=M15&price=M
+ERROR:brokers.oanda_connector:_safe_request_get failed: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_JPY/candles?count=15&granularity=M15&price=M
+ERROR:brokers.oanda_connector:OANDA candles error for USD_JPY: 502 Server Error: Bad Gateway for url: https://api-fxpractice.oanda.com/v3/instruments/USD_JPY/candles?count=15&granularity=M15&price=M
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (72% confident) — queuing a SELL
+  📋 Qualified: 1 signal(s) — NZD_USD SELL reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 2 signal(s) — AUD_USD BUY reversal 72%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=78%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 NZD_USD: Strong trend detected (78% confident) — queuing a SELL
+  📋 Qualified: 2 signal(s) — AUD_USD BUY reversal 72%  , NZD_USD SELL momentum 78%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=74%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (74% confident) — queuing a BUY
+  📋 Qualified: 2 signal(s) — AUD_USD BUY reversal 72%  , NZD_USD BUY reversal 74%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=48%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=74%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 NZD_USD: Reversal pattern spotted (74% confident) — queuing a BUY
+  📋 Qualified: 3 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD BUY reversal 72%  , NZD_USD BUY reversal 74%
+  💬 Scan complete: found 3 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD BUY reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD BUY reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 1 signal(s) — AUD_USD BUY reversal 72%
+  💬 Scan complete: found 1 tradeable opportunity this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — H4 BULLISH
+  [MTF_SNIPER] USD_CAD MOMENTUM SELL scored -15% — DAILY BULLISH
+  [SCAN] USD_CAD     MOM=58%✓  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [MTF_SNIPER] USD_JPY MOMENTUM BUY scored -15% — H4 BEARISH
+  [SCAN] USD_JPY     MOM=73%✓  REV=✗  MR=✗  SC=✗  → QUEUED [MOMENTUM]
+  💬 USD_JPY: Strong trend detected (73% confident) — queuing a BUY
+  [SCAN] AUD_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 AUD_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_JPY BUY momentum 73%  , AUD_USD BUY reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [MANAGER] SYNCED  EUR_USD BUY  entry=1.15889  sl=1.15741  id=143752
+  [CHOP MODE 14k] Slots open (5/12) — rescanning in 60s
+  [SCAN] USD_CAD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
+  [SCAN] USD_CAD     MOM=✗  REV=83%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 USD_CAD: Reversal pattern spotted (83% confident) — queuing a BUY
+  [SCAN] EUR_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] GBP_USD     MOM=✗  REV=72%✓  MR=✗  SC=✗  → QUEUED [REVERSAL]
+  💬 GBP_USD: Reversal pattern spotted (72% confident) — queuing a BUY
+  [SCAN] USD_JPY     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] AUD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  [SCAN] NZD_USD     MOM=✗  REV=✗  MR=✗  SC=✗
+  📋 Qualified: 2 signal(s) — USD_CAD BUY reversal 83%  , GBP_USD BUY reversal 72%
+  💬 Scan complete: found 2 tradeable opportunities this minute. Best signals sorted by confidence — placing now.
+  [CHOP MODE 14k] Slots open (6/12) — rescanning in 60s
