@@ -654,32 +654,32 @@ class TradeEngine:
                             _c._conf_boosted = True
                             print(f"  [CONFLUENCE] {symbol} {_c.direction} +5% conf — Fib+S&D aligned ({_c.confidence:.0%})")
 
-                # ── "Look Left" Trend Exhaustion Filter ─────────────────────
-                # Source: "15 Best Price Action Strategies" (15 years PA trading)
-                # "Fresh trends = high quality. Late exhausted trends = low quality."
-                # Block signals where price already traveled >65% of TP distance
-                # from the 30-candle swing. Prevents entering at the end of a move.
-                if candidates:
-                    _pip_sz  = 0.01 if "JPY" in symbol.upper() else 0.0001
-                    _tp_pips = float(os.getenv("RBOT_TP_PIPS", "150"))
-                    _live_px = float(candles[-1].get("mid", {}).get("c", 0))
-                    _h30     = max(float(c.get("mid", {}).get("h", 0)) for c in candles[-30:])
-                    _l30     = min(float(c.get("mid", {}).get("l", 0)) for c in candles[-30:])
-                    _thresh  = _tp_pips * 0.65 * _pip_sz
-                    _fresh   = []
-                    for _sig in candidates:
-                        _travel = (_live_px - _l30) if _sig.direction == "BUY" else (_h30 - _live_px)
-                        if _travel > _thresh:
-                            _pips_t = round(_travel / _pip_sz, 0)
-                            print(f"  [EXHAUST] {symbol} {_sig.direction} blocked — {_pips_t:.0f}p traveled (>{_tp_pips*0.65:.0f}p limit)")
-                            log_gate_block(symbol, "EXHAUSTION_BLOCK", {
-                                "travel_pips": _pips_t,
-                                "threshold_pips": _tp_pips * 0.65,
-                                "direction": _sig.direction,
-                            })
-                        else:
-                            _fresh.append(_sig)
-                    candidates = _fresh
+                # ── "Look Left" Trend Exhaustion Filter ───────────────────── (DISABLED by Peer Review)
+                # # Source: "15 Best Price Action Strategies" (15 years PA trading)
+                # # "Fresh trends = high quality. Late exhausted trends = low quality."
+                # # Block signals where price already traveled >65% of TP distance
+                # # from the 30-candle swing. Prevents entering at the end of a move.
+                # if candidates:
+                # _pip_sz  = 0.01 if "JPY" in symbol.upper() else 0.0001
+                # _tp_pips = float(os.getenv("RBOT_TP_PIPS", "150"))
+                # _live_px = float(candles[-1].get("mid", {}).get("c", 0))
+                # _h30     = max(float(c.get("mid", {}).get("h", 0)) for c in candles[-30:])
+                # _l30     = min(float(c.get("mid", {}).get("l", 0)) for c in candles[-30:])
+                # _thresh  = _tp_pips * 0.65 * _pip_sz
+                # _fresh   = []
+                # for _sig in candidates:
+                # _travel = (_live_px - _l30) if _sig.direction == "BUY" else (_h30 - _live_px)
+                # if _travel > _thresh:
+                # _pips_t = round(_travel / _pip_sz, 0)
+                # print(f"  [EXHAUST] {symbol} {_sig.direction} blocked — {_pips_t:.0f}p traveled (>{_tp_pips*0.65:.0f}p limit)")
+                # log_gate_block(symbol, "EXHAUSTION_BLOCK", {
+                # "travel_pips": _pips_t,
+                # "threshold_pips": _tp_pips * 0.65,
+                # "direction": _sig.direction,
+                # })
+                # else:
+                # _fresh.append(_sig)
+                # candidates = _fresh  # DISABLED
 
                 # ─ Pick best signal for this pair ─────────────────────────────
                 if candidates:

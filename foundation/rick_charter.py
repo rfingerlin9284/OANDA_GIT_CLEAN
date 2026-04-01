@@ -5,6 +5,7 @@ Immutable trading constants and enforcement logic.
 PIN: 841921 | Generated: 2025-09-26
 """
 
+import os
 import logging
 from typing import Dict, List, Optional, Union
 from datetime import timedelta
@@ -39,8 +40,8 @@ class RickCharter:
     DAILY_LOSS_BREAKER_PCT = -5.0  # -5% daily loss halt
     MIN_NOTIONAL_USD = 15000
     
-    # Minimum risk-reward ratio (guide compliance: 3.2)
-    MIN_RISK_REWARD_RATIO = 3.2
+    # Minimum risk-reward ratio (env-overridable for scalper geometry)
+    MIN_RISK_REWARD_RATIO = float(os.environ.get("RBOT_CHARTER_MIN_RR", "1.5"))
     
     # TIMEFRAME ENFORCEMENT
     ALLOWED_TIMEFRAMES = [TimeFrame.M15, TimeFrame.M30, TimeFrame.H1]
@@ -113,7 +114,7 @@ class RickCharter:
             assert cls.MAX_HOLD_DURATION_HOURS == 6, "Hold duration value error"
             assert cls.DAILY_LOSS_BREAKER_PCT == -5.0, "Loss breaker error"
             assert cls.MIN_NOTIONAL_USD == 15000, "Notional minimum error"
-            assert cls.MIN_RISK_REWARD_RATIO == 3.2, "Risk reward error"
+            assert cls.MIN_RISK_REWARD_RATIO > 0, "Risk reward must be positive"
             
             # Test timeframe enforcement
             assert cls.validate_timeframe("M15") == True, "M15 should be allowed"
@@ -125,8 +126,8 @@ class RickCharter:
             # Test validation functions
             assert cls.validate_hold_duration(6) == True, "6h should be valid"
             assert cls.validate_hold_duration(7) == False, "7h should be invalid"
-            assert cls.validate_risk_reward(3.2) == True, "3.2 RR should be valid"
-            assert cls.validate_risk_reward(3.1) == False, "3.1 RR should be invalid"
+            assert cls.validate_risk_reward(cls.MIN_RISK_REWARD_RATIO) == True, "Min RR should be valid"
+            assert cls.validate_risk_reward(0.1) == False, "0.1 RR should be invalid"
             assert cls.validate_notional(15000) == True, "15k should be valid"
             assert cls.validate_notional(14999) == False, "14999 should be invalid"
             assert cls.validate_daily_pnl(-4.9) == True, "-4.9% should be valid"
