@@ -79,7 +79,7 @@ class StrategyPolicy:
 
 
 STRATEGY_OVERRIDES = {
-    "trap_reversal_scalper":       StrategyPolicy(False, False, 0.8, 1.0, 0.9, 0.9, 0.8),
+    "trap_reversal_scalper":       StrategyPolicy(False, False, 1.0, 1.0, 1.0, 1.0, 1.0),
     "liquidity_sweep_scalp":      StrategyPolicy(False, False, 0.9, 1.0, 0.9, 0.9, 0.9),
     "wolfpack_ema_trend_scalp":   StrategyPolicy(False, False, 1.0, 1.0, 1.0, 0.9, 0.9),
     "fvg_breakout_scalp":         StrategyPolicy(False, False, 0.9, 1.0, 0.9, 0.9, 0.9),

@@ -494,14 +494,14 @@ class TradeEngine:
                                 ema_h4 = (px - ema_h4) * k + ema_h4
                             price_h4 = closes_h4[-1]
                             if mom.direction == "BUY" and price_h4 < ema_h4:
-                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM BUY blocked — H4 BEARISH")
-                                log_gate_block(symbol, "MTF_SNIPER_BLOCK", {"h4_ema55": ema_h4, "price": price_h4})
-                                mom = None
+                                mom.confidence -= 0.15
+                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM BUY scored -15% — H4 BEARISH")
+                                log_gate_block(symbol, "MTF_SNIPER_PENALTY", {"h4_ema55": ema_h4, "price": price_h4})
                             elif mom.direction == "SELL" and price_h4 > ema_h4:
-                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM SELL blocked — H4 BULLISH")
-                                log_gate_block(symbol, "MTF_SNIPER_BLOCK", {"h4_ema55": ema_h4, "price": price_h4})
-                                mom = None
-                            elif mom:
+                                mom.confidence -= 0.15
+                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM SELL scored -15% — H4 BULLISH")
+                                log_gate_block(symbol, "MTF_SNIPER_PENALTY", {"h4_ema55": ema_h4, "price": price_h4})
+                            if mom:
                                 mom._timeframe = "M15+H4"
                     except Exception:
                         pass  # Fail open if H4 fetch fails
@@ -521,14 +521,14 @@ class TradeEngine:
                                 ema_d1 = (px - ema_d1) * k_d1 + ema_d1
                             price_d1 = closes_d1[-1]
                             if mom.direction == "BUY" and price_d1 < ema_d1:
-                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM BUY blocked — DAILY BEARISH")
-                                log_gate_block(symbol, "MTF_SNIPER_D1_BLOCK", {"d1_ema21": ema_d1, "price": price_d1})
-                                mom = None
+                                mom.confidence -= 0.15
+                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM BUY scored -15% — DAILY BEARISH")
+                                log_gate_block(symbol, "MTF_SNIPER_D1_PENALTY", {"d1_ema21": ema_d1, "price": price_d1})
                             elif mom.direction == "SELL" and price_d1 > ema_d1:
-                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM SELL blocked — DAILY BULLISH")
-                                log_gate_block(symbol, "MTF_SNIPER_D1_BLOCK", {"d1_ema21": ema_d1, "price": price_d1})
-                                mom = None
-                            elif mom:
+                                mom.confidence -= 0.15
+                                print(f"  [MTF_SNIPER] {symbol} MOMENTUM SELL scored -15% — DAILY BULLISH")
+                                log_gate_block(symbol, "MTF_SNIPER_D1_PENALTY", {"d1_ema21": ema_d1, "price": price_d1})
+                            if mom:
                                 mom._timeframe = "M15+H4+D1"
                     except Exception:
                         pass  # Fail open if D1 fetch fails
@@ -553,35 +553,32 @@ class TradeEngine:
 
                 # ── TRANSCRIPT EDGE: 200 EMA directional filter ───────────
                 if _ema200_bias and candidates:
-                    _pre_ema = len(candidates)
-                    candidates = [c for c in candidates if c.direction == _ema200_bias]
-                    if len(candidates) < _pre_ema:
-                        print(f"  [EMA200] {symbol} filtered {_pre_ema - len(candidates)} signal(s) against 200 EMA bias ({_ema200_bias})")
+                    for _c in candidates:
+                        if _c.direction != _ema200_bias:
+                            _c.confidence -= 0.15
+                            print(f"  [EMA200] {symbol} {_c.direction} penalizing confidence -15% vs EMA bias ({_ema200_bias})")
+                        else:
+                            _c.confidence += 0.05
+                            print(f"  [EMA200] {symbol} {_c.direction} boosting confidence +5% with EMA bias")
 
                 # ── TRANSCRIPT EDGE: DXY Correlation Filter ───────────────
                 if DXY_GATE_ENABLED and _dxy_bias and candidates and symbol != "USD_CHF":
                     _base, _quote = symbol.split("_") if "_" in symbol else ("", "")
-                    _pre_dxy = len(candidates)
-                    _dxy_filtered = []
                     for _cs in candidates:
                         _block = False
                         if _dxy_bias == "USD_STRONG":
-                            # USD strong: block SELL on USD/*, block BUY on */USD
                             if _base == "USD" and _cs.direction == "SELL":
                                 _block = True
                             if _quote == "USD" and _cs.direction == "BUY":
                                 _block = True
                         elif _dxy_bias == "USD_WEAK":
-                            # USD weak: block BUY on USD/*, block SELL on */USD
                             if _base == "USD" and _cs.direction == "BUY":
                                 _block = True
                             if _quote == "USD" and _cs.direction == "SELL":
                                 _block = True
-                        if not _block:
-                            _dxy_filtered.append(_cs)
-                    candidates = _dxy_filtered
-                    if len(candidates) < _pre_dxy:
-                        print(f"  [DXY_GATE] {symbol} blocked {_pre_dxy - len(candidates)} signal(s) — {_dxy_bias}")
+                        if _block:
+                            _cs.confidence -= 0.10
+                            print(f"  [DXY_GATE] {symbol} {_cs.direction} penalizing confidence -10% vs {_dxy_bias}")
 
                 # ── TRANSCRIPT EDGE: Volume Confirmation Gate ─────────────
                 if VOLUME_GATE_ENABLED and candidates:
@@ -590,41 +587,25 @@ class TradeEngine:
                         if len(_vols) >= 20 and _vols[-1] > 0:
                             _avg_vol = sum(_vols[:-1]) / len(_vols[:-1])
                             if _avg_vol > 0 and _vols[-1] < _avg_vol * VOLUME_GATE_MULT:
-                                _vol_ok = False
-                                print(f"  [VOL_GATE] {symbol} blocked — vol {_vols[-1]:.0f} < {_avg_vol * VOLUME_GATE_MULT:.0f} (1.2x avg)")
-                                candidates = []
-                    except Exception:
-                        pass
-
-                # ── TRANSCRIPT EDGE: Volume Confirmation Gate ─────────────
-                if VOLUME_GATE_ENABLED and candidates:
-                    try:
-                        _vols = [float(c.get("volume", 0)) for c in candles[-20:]]
-                        if len(_vols) >= 20 and _vols[-1] > 0:
-                            _avg_vol = sum(_vols[:-1]) / len(_vols[:-1])
-                            if _avg_vol > 0 and _vols[-1] < _avg_vol * VOLUME_GATE_MULT:
-                                print(f"  [VOL_GATE] {symbol} blocked — vol {_vols[-1]:.0f} < {_avg_vol * VOLUME_GATE_MULT:.0f} (1.2x avg)")
-                                candidates = []
+                                for _cs in candidates:
+                                    _cs.confidence -= 0.10
+                                    print(f"  [VOL_GATE] {symbol} {_cs.direction} penalizing confidence -10% — vol {_vols[-1]:.0f} < {_avg_vol * VOLUME_GATE_MULT:.0f} (1.2x avg)")
                     except Exception:
                         pass
 
                 # ── TRANSCRIPT EDGE: MACD Divergence Filter ────────────────
                 if MACD_DIV_ENABLED and candidates and (_macd_div_block_buy or _macd_div_block_sell):
-                    _pre_macd = len(candidates)
-                    candidates = [c for c in candidates
-                                  if not (_macd_div_block_buy and c.direction == "BUY")
-                                  and not (_macd_div_block_sell and c.direction == "SELL")]
-                    if len(candidates) < _pre_macd:
-                        print(f"  [MACD_DIV] {symbol} blocked {_pre_macd - len(candidates)} signal(s) — divergence detected")
+                    for _cs in candidates:
+                        if (_macd_div_block_buy and _cs.direction == "BUY") or (_macd_div_block_sell and _cs.direction == "SELL"):
+                            _cs.confidence -= 0.15
+                            print(f"  [MACD_DIV] {symbol} {_cs.direction} penalizing confidence -15% — divergence detected")
 
                 # ── TRANSCRIPT EDGE: RSI overbought/oversold gate ──────────
                 if candidates and (_rsi_block_buy or _rsi_block_sell):
-                    _pre_rsi = len(candidates)
-                    candidates = [c for c in candidates
-                                  if not (_rsi_block_buy and c.direction == "BUY")
-                                  and not (_rsi_block_sell and c.direction == "SELL")]
-                    if len(candidates) < _pre_rsi:
-                        print(f"  [RSI_GATE] {symbol} blocked {_pre_rsi - len(candidates)} signal(s) — RSI overbought/oversold")
+                    for _cs in candidates:
+                        if (_rsi_block_buy and _cs.direction == "BUY") or (_rsi_block_sell and _cs.direction == "SELL"):
+                            _cs.confidence -= 0.20
+                            print(f"  [RSI_GATE] {symbol} {_cs.direction} penalizing confidence -20% — RSI overbought/oversold")
 
                 # ── TRANSCRIPT EDGE: Session Confidence Boost ──────────────
                 # Source: Richie Nasser — London/NY sessions have better fills
@@ -683,12 +664,14 @@ class TradeEngine:
 
                 # ─ Pick best signal for this pair ─────────────────────────────
                 if candidates:
-                    best = max(candidates, key=lambda s: s.confidence)
-                    if not hasattr(best, '_timeframe'):
-                        best._timeframe = "M15"
-                    if not hasattr(best, '_strategy'):
-                        best._strategy = getattr(best, 'signal_type', 'trend')
-                    qualified.append(best)
+                    candidates = [c for c in candidates if c.confidence >= MIN_CONFIDENCE]
+                    if candidates:
+                        best = max(candidates, key=lambda s: s.confidence)
+                        if not hasattr(best, '_timeframe'):
+                            best._timeframe = "M15"
+                        if not hasattr(best, '_strategy'):
+                            best._strategy = getattr(best, 'signal_type', 'trend')
+                        qualified.append(best)
 
                 # ─ Per-pair scan diagnostic line ───────────────────────────────
                 def _pfmt(sig, label):
