@@ -289,16 +289,19 @@ class OandaConnector:
             if RickCharter and not is_hedge:
                 min_notional = float(os.getenv("RBOT_CHARTER_MIN_NOTIONAL_USD", str(RickCharter.MIN_NOTIONAL_USD)))
                 
-                # Calculate USD notional accurately using the USD exchange rate for the base currency
-                notional = get_usd_notional(abs(units), instrument, float(entry_price), self) or (abs(units) * float(entry_price))
-                
+                notional = get_usd_notional(abs(units), instrument, float(entry_price), self)
+                # Fallback purely for safety so we don't accidentally reject correct pairs
+                if notional is None or notional == 0:
+                    base = instrument.split("_")[0]
+                    notional = float(abs(units)) if base == "USD" else (abs(units) * float(entry_price))
+                    # Adjust for JPY extreme quote discrepancy in fallback
+                    if "JPY" in instrument.upper() and base != "USD":
+                        notional = notional / 150.0
+
                 if notional < min_notional:
                     # REJECT order instead of auto-adjusting
                     # Auto-adjusting could create unexpected large positions
-                    self.logger.error(
-                        f"❌ ORDER REJECTED: Charter requires minimum ${min_notional:,} notional. "
-                        f"Order notional: ${notional:,.2f} for {instrument} ({abs(units)} units @ {entry_price})"
-                    )
+                    self.logger.error(f"❌ ORDER REJECTED: Charter requires minimum ${min_notional:,} notional. Order notional: ${notional:,.2f} for {instrument} ({abs(units)} units)")
                     
                     # Narration log the rejection
                     log_narration(
@@ -415,25 +418,17 @@ class OandaConnector:
                 # LIVE ORDER PLACEMENT
                 # Support both LIMIT and MARKET order types
                 if order_type.upper() == "MARKET":
-                    # MARKET order - immediate execution with OCO brackets
+                    # MARKET order - immediate execution with Soft Stops (Bot Managed)
                     order_data = {
                         "order": {
                             "type": OandaOrderType.MARKET.value,
                             "instrument": instrument,
                             "units": str(units),
-                            "timeInForce": OandaTimeInForce.FOK.value,  # Fill or Kill
-                            "stopLossOnFill": {
-                                "price": self._format_price(stop_loss, instrument),
-                                "timeInForce": OandaTimeInForce.GTC.value
-                            },
-                            "takeProfitOnFill": {
-                                "price": self._format_price(take_profit, instrument),
-                                "timeInForce": OandaTimeInForce.GTC.value
-                            }
+                            "timeInForce": OandaTimeInForce.FOK.value  # Fill or Kill
                         }
                     }
                 else:
-                    # LIMIT order - wait for specific entry price with extended TTL (24h default)
+                    # LIMIT order - wait for specific entry price with extended TTL
                     order_data = {
                         "order": {
                             "type": OandaOrderType.LIMIT.value,
@@ -441,24 +436,13 @@ class OandaConnector:
                             "units": str(units),
                             "price": self._format_price(entry_price, instrument),
                             "timeInForce": OandaTimeInForce.GTD.value,
-                            "gtdTime": (datetime.now(timezone.utc) + timedelta(hours=ttl_hours)).isoformat(),
-                            "stopLossOnFill": {
-                                "price": self._format_price(stop_loss, instrument),
-                                "timeInForce": OandaTimeInForce.GTC.value
-                            },
-                            "takeProfitOnFill": {
-                                "price": self._format_price(take_profit, instrument),
-                                "timeInForce": OandaTimeInForce.GTC.value
-                            }
+                            "gtdTime": (datetime.now(timezone.utc) + timedelta(hours=ttl_hours)).isoformat()
                         }
                     }
                 
-                # RBOT PATCH: native trailingStopLossOnFill RE-ENABLED as broker safety net
+                # BROKER NATIVE OCOs REMOVED: Relying entirely on Internal Soft SL/TP
                 if trailing_stop_distance is not None and trailing_stop_distance > 0:
-                    order_data["order"]["trailingStopLossOnFill"] = {
-                        "distance": self._format_price(trailing_stop_distance, instrument),
-                        "timeInForce": OandaTimeInForce.GTC.value
-                    }
+                    pass # Handled internally by trade_manager.py
                 
                 # Make LIVE API call
                 response = self._make_request("POST", f"/v3/accounts/{self.account_id}/orders", order_data)
@@ -553,15 +537,7 @@ class OandaConnector:
                             "type": "MARKET",
                             "instrument": instrument,
                             "units": str(units),
-                            "timeInForce": "FOK",   # Fill or Kill — immediate or cancel
-                            "stopLossOnFill": {
-                                "price": self._format_price(stop_loss, instrument),
-                                "timeInForce": "GTC"
-                            },
-                            "takeProfitOnFill": {
-                                "price": self._format_price(take_profit, instrument),
-                                "timeInForce": "GTC"
-                            }
+                            "timeInForce": "FOK"   # Fill or Kill — immediate or cancel
                         }
                     }
                 else:
@@ -573,24 +549,13 @@ class OandaConnector:
                             "units": str(units),
                             "price": self._format_price(entry_price, instrument),
                             "timeInForce": "GTD",
-                            "gtdTime": (datetime.now(timezone.utc) + timedelta(hours=ttl_hours)).isoformat(),
-                            "stopLossOnFill": {
-                                "price": self._format_price(stop_loss, instrument),
-                                "timeInForce": "GTC"
-                            },
-                            "takeProfitOnFill": {
-                                "price": self._format_price(take_profit, instrument),
-                                "timeInForce": "GTC"
-                            }
+                            "gtdTime": (datetime.now(timezone.utc) + timedelta(hours=ttl_hours)).isoformat()
                         }
                     }
                 
-                # RBOT PATCH: native trailingStopLossOnFill RE-ENABLED as broker safety net
+                # BROKER NATIVE OCOs REMOVED: Relying entirely on Internal Soft SL/TP
                 if trailing_stop_distance is not None and trailing_stop_distance > 0:
-                    order_data["order"]["trailingStopLossOnFill"] = {
-                        "distance": self._format_price(trailing_stop_distance, instrument),
-                        "timeInForce": "GTC"
-                    }
+                    pass # Handled internally by trade_manager.py
                 
                 # Make PRACTICE API call (real order on practice account)
                 response = self._make_request("POST", f"/v3/accounts/{self.account_id}/orders", order_data)

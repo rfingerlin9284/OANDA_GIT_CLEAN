@@ -29,6 +29,12 @@ fi
 pkill -f "engine.trade_engine" || true; pkill -f "trade_engine.py" > /dev/null 2>&1 || true
 sleep 1
 
+# Clear Python bytecache so code changes always take effect
+find "$REPO" -name "*.pyc" -delete 2>/dev/null || true
+find "$REPO" -name "__pycache__" -type d -exec rm -rf {} + 2>/dev/null || true
+
+# Prevent Python from EVER creating bytecache
+export PYTHONDONTWRITEBYTECODE=1
 export PYTHONPATH="$REPO"
 
 # Load .env — strip full-line comments, blank lines, and inline comments
@@ -40,7 +46,10 @@ if [ -f "$REPO/.env" ]; then
   set +a
 fi
 
-nohup "$VENV" -u -m engine.trade_engine > "$LOG" 2>&1 &
+# Truncate log to avoid binary content from previous runs
+: > "$LOG"
+
+nohup "$VENV" -B -u -m engine.trade_engine > "$LOG" 2>&1 &
 
 sleep 2
 if pgrep -af "engine.trade_engine|trade_engine.py" > /dev/null; then

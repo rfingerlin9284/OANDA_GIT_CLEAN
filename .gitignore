@@ -10,3 +10,4 @@ SNAPSHOT_BACKUP_*/
 *.zip
 /tmp/
 *.backup_*
+backups/*.tar.gz

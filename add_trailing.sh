@@ -1,6 +1,5 @@
 #!/bin/bash
-FILE="engine/trade_engine.py"
-
+    FILE="engine/trade_engine.py"`1
 # Add init (8 spaces indent)
 awk '1;/self.is_running = True/{print "        self.trade_manager = TradeManager(self.broker)"; print; next}1' $FILE > tmp.py && mv tmp.py $FILE
 

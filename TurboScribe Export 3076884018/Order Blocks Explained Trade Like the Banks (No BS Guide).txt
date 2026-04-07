@@ -1,0 +1,324 @@
+(0:00 - 0:23)
+90% of retail traders will enter for a buy position right here, because they see their price is about to go up right now after it has retraced. But the next thing you know, price comes down, hit the stop loss and then go up. And you're stuck there wondering why does that happen? And that happens because, guess what? There's an order block at this area right here.
+
+(0:23 - 0:45)
+So this is where the financial institutions, the big banks, the smart money are entering for the trade. And you can see they were able to grab liquidity by stopping you out and just pushing the price back up. It's absolutely ridiculous but this is how the market operates and there's nothing you can do about it unless you understand how they trade so you can trade with them.
+
+(0:45 - 1:04)
+So here's what you will learn. What are order blocks? How to identify order blocks and trade rules of valid order blocks so that you can determine which order blocks are going to work and which one do not work. And lastly, I'm going to show you my profitable order blocks trading strategy that I've been using for quite some time now.
+
+(1:04 - 1:18)
+Now, I have back tested this strategy and it has proven to be profitable. So you can trust me on this one. Now firstly, what are order blocks? Order blocks are basically areas where smart money are entering buy or sell orders in large amounts.
+
+(1:18 - 1:34)
+You must understand, the market moves based on liquidity. It needs liquidity to create these large price movements. So over here you can see in this example right here, price did not have the strength to move up until it actually breaks through the order block a little bit.
+
+(1:34 - 1:56)
+And then that is when you can see the smart money enter for a buy position right here and you can see prices skyrocketed. So basically order blocks where smart money they are entering for a lot of buy or sell orders and this creates liquidity that is able to move the market. Now the question becomes, how do you identify order blocks? I have this simple three step process which you can follow.
+
+(1:56 - 2:15)
+The first step is to find a drastic and sharp price move and this is what we call an inefficiency. Where price has created this huge move, most likely because smart money have entered the trade and they have entered a large amount of orders. So price has to come back down to this area to fill up the inefficiency.
+
+(2:16 - 2:48)
+And the next thing you want to do is to identify the candle before the move, before the inefficiency happen. And you basically just want to mark the high and the low of the candle and that will give you the order block zone. Now you must understand that not all order blocks work. 
+
+There are some order blocks that were filled and you don't want to be taking trades on those order blocks that filled. So I have these three rules which define to me whether it's a valid or invalid order block. The first rule is there must be some sort of presence of inefficiency.
+
+(2:49 - 3:19)
+There must be momentum which tell us that smart money have actually entered for this trade right here and that creates this inefficiency and in the future price have to come back down to this area to fill up that inefficiency. So in order for that to be inefficiency, there must be a gap for the candle before this large move and after the large move. If you look at this one right here, you can see this is the high, this is the before candle and this is the high and this is the after candle and this is the low.
+
+(3:19 - 3:41)
+You can see it forms this huge gap and this is what we call our inefficiency. And then on the other hand, you can see in this case, this was the drastic move but then before that, this was the high and then after candle, this is the low. You can see there is no gap right? Price literally came down to this exact same area where it went up to last time.
+
+(3:41 - 4:19)
+So there was no gap, there is no inefficiency making this an invalid order block and making this a valid order block right here. Now the second rule is that it must create break of structure. What does it mean to have break of structure? We know that in an uptrend, price will never go up in a straight line. 
+
+Price has to go up, retrace a little bit, go up, retrace a little bit, go up and retrace a little bit, creating what we call the higher highs and higher lows. And in this case, when price is creating higher highs and higher lows, it will also create break of structure. Every single time, price break the previous high, it will create what we call the break of structure.
+
+(4:19 - 4:31)
+You can see right here, there we have your break of structure. Once again, price break through the last higher high, create another break of structure. And then when price once again breaks the last high, it creates another break of structure.
+
+(4:31 - 5:10)
+That is why in order for an order block to be valid, it has to create break of structure. So after you have identified the break of structure, you want to find the origin point that leads to this break of structure, which is this move down here, or this move down here. And there you have all your order blocks right there. 
+
+So as you can see right here, after price has broke structure, it come back down to retrace this order block we have right here before pushing up even further. And then same thing right here, price comes back down, retrace this order block before pushing up and breaking through structure. So now we can expect price to come back down to this order block that we have right here and create another higher high.
+
+(5:10 - 5:54)
+Before I move on to the next rule, let me drink some tea. Now this is actually a secret hack, but tea actually helps you to become a profitable trader 10 times faster, because it improves focus. Now the next rule is that order blocks are a one-time use. 
+
+So in this case right here, look at what price did. The second candle after the drastic move after price has created this inefficiency, it actually went back down to touch this order block that we have created earlier. So this was once again the inefficiency and then this is the order block. 
+
+And you can see the second candle actually come back down touches the order block before going up. So this is what we call a mitigated order block. Price has already touched the order block and then go.
+
+(5:54 - 6:14)
+We don't want something that is used, we want something that is new and this means that this order block is invalid. Now let's look at another scenario here where the second candle after the inefficiency actually did not touch the order block. So in this case, this is an unmitigated order block and that makes it a valid order block.
+
+(6:15 - 6:32)
+Now those are the three rules that define whether an order block is valid or invalid. And you want to make sure that you preserve your capital so that you can actually trade the high priority order blocks. The order blocks that actually work instead of wasting your precious hard earned money on those order blocks that were failed.
+
+(6:33 - 6:48)
+Now let's go to the charts so that I can show you my own profitable order blocks trading strategy that actually works. Okay for this strategy to work, you have to understand the basics of market structure and what I call the market shift. So let's look at the bullish scenario first.
+
+(6:49 - 7:03)
+So in this example right here, you can see price has created a higher high, higher low and another higher high. And right now you can see price has just broke the last higher low. When this happens, this is what we call a market shift, right? So this is what we call a market shift.
+
+(7:04 - 7:27)
+So right here, this market shift has told us that there is a potential trend change. There is a potential that this uptrend is done and right now price is going to reverse to become a downtrend. At this point of time, after you have spotted the market shift, what you want to do is to look for the inefficiency which will be somewhere right around here that push price all the way down here and break through the last higher low.
+
+(7:28 - 7:48)
+And then you can draw an order block right here. If you remember how we draw our order block is basically the candle that is before the inefficiency. So what we want to do next is to patiently wait, right? We want to wait for price to go back up to actually retest this order block right here.
+
+(7:48 - 8:15)
+Remember just now price created some sort of inefficiency right here and price has to come back up to this order block area to fill up that inefficiency. After price has come back up to mitigate this order block, that is when we can look for our sell position right here, place our stop blocks above the order block and place our tech profit maybe all the way down to this low right here. And you will start seeing price literally collapse and you can see price has just created a lower high and a potential lower low right here.
+
+(8:15 - 8:28)
+And that is how price has shift from an uptrend to a downtrend, a proper reversal. Now if you look at a bearish scenario, it's pretty much the opposite of the bullish scenario. In a downtrend, price is creating a lower highs and lower lows.
+
+(8:28 - 8:39)
+Why is it lower highs here? It's actually lower lows. So price is creating a lower highs and lower lows. And what we want to do is to wait for some sort of market shift, right? And this is the last lower high.
+
+(8:39 - 8:58)
+So in order for market shift to happen, price has to break through the last lower high right there. And there we have your market shift right here, ladies and gentlemen. So what we want to do is to wait for price to come back down to this order block that created this market shift, which will be somewhere right around here.
+
+(8:58 - 9:29)
+So wait for price patiently until price comes back down here, mitigate this order block and then that is when we can enter for our buy position right here and take it all the way up. Now as simple as that sounds, how do you know that price is ready to go up? What is the perfect timing, right? So that is why when price reaches this order block, what we want to do is to drop down to the small timeframe, like the 15 minute timeframe to look for our entry. Look for another market shift.
+
+(9:30 - 9:42)
+Let me show you what I mean. So before you do anything, the first thing you always want to do is to make sure that you identify the trend direction. And in this case, we can see that price is creating a higher highs and higher lows and another higher high.
+
+(9:42 - 10:00)
+So that is why price is creating a break of structure right here. So this is what we call a break of structure, right? This high has just broken past the last high earlier. Now these are the highs, so where are the lows? So this would be the last higher low right here, right? So this is the last higher low right here.
+
+(10:00 - 10:28)
+So in order for market shift to happen, we want to wait for price to actually pierce through the last higher low to give us a signal that tells us that the trend is about to change. So in this scenario, we are still patiently waiting and you can see right here, price has just broken past the last higher low and just continue going down, creating what we call a market shift right here. Now at this point of time, after price has created our market shift, we don't want to do anything.
+
+(10:28 - 10:45)
+Remember, we want to wait for price to get to our order block that created this market shift. So at this point of time, what we could have done is that go down to like the smaller timeframe or even a 15 minute timeframe. And you can see there is an inefficiency being formed right here, right? There's a lot of liquidity right here.
+
+(10:45 - 10:55)
+This is where smart money have entered for the trade. First step, identify your inefficiency. Second step is to look for the candle before this inefficiency is formed, which will be right here.
+
+(10:58 - 11:17)
+And you can just drag it out and you can see this is the order block. But bear in mind, this is the extreme order block, right? This is like the highest point before price went down. And you can actually spot another order block right here, right? There's another order block right here because there's actually another liquidity push right here that actually costs this market shift right here.
+
+(11:17 - 11:31)
+So right here, we have another mini order block right here. So right now we have an extreme order block and a normal order block. And the thing about price is that price usually will not come up to this extreme order block.
+
+(11:33 - 11:49)
+Because price has already skipped liquidity. So what you want to do is to wait for price to come back up to this order block that actually created this mini lower high right here. So at this point of time, we are still patiently waiting for price to get back up to this order block right here.
+
+(11:49 - 12:00)
+So in this case, what you have done is to place like a sell limit order at this order block right here. So that when price comes up to mitigate this order block, you will automatically get into a sell position. Your broker will do it for you.
+
+(12:00 - 12:14)
+Or another thing you can do is to actually place an alert at this area. So that when price touches this order block, your broker, I mean trading view will send you a message telling you that, Hey bro, you should enter for a sell position right now. So in this case, I'll place like a sell limit order right here.
+
+(12:15 - 12:25)
+And I'll place my stop blocks above this order block right here. And my tech profit most likely all the way down here at this next order block. You can see if you look towards the left, this is another inefficiency.
+
+(12:25 - 12:33)
+And you can see there's actually another order block right there. So right now we are still patiently waiting. And you can see price is slowly getting up to this order block right here.
+
+(12:33 - 12:44)
+And it's not touching the order block yet. So we don't want to enter for the trade yet. So we still wait and wait and wait and wait patiently until price mitigate the order block right here.
+
+(12:44 - 12:54)
+You can see the movement price touches this order block. Price actually created this downward move right here. So you could even go down to the 5 minute time frame or even the 1 minute time frame.
+
+(12:55 - 13:06)
+And you can see that there's actually already a market shift. There's already a trend change. You can see what I'm talking about here is price was actually doing this mini retracement.
+
+(13:06 - 13:16)
+Creating your higher highs, higher lows, higher highs and higher lows. And look at what happens right here. This is the last higher low somewhere right around here.
+
+(13:17 - 13:31)
+And you can see there's another market shift right here. Another market shift right here. And look, when price created this market shift, guess what? Price also created the order block that lead to this market shift which is somewhere right around here.
+
+(13:31 - 13:40)
+And look at what price did. Price comes back up to mitigate this order block right here. So in this case, this is like our small time frame order block.
+
+(13:40 - 13:50)
+So this could be like a 5 minute order block right. And if you genuinely want to get that sniper entry right. What you could have done is to get in on this 5 minute order block.
+
+(13:51 - 14:02)
+And actually take it all the way down here. And in that case, you will have like a valley type stop block right there. But in this case, let's assume that you did not get the best entry on this trade.
+
+(14:02 - 14:12)
+And you actually ended up entering right here for a sell limit order. Because price has mitigated this order block on the higher time frame. And look at what price does next.
+
+(14:13 - 14:24)
+Price eventually goes down. Smash or take profit with a lot of liquidity. I really want to make sure that I emphasize the importance of order blocks by asking you to look at the candlesticks.
+
+(14:25 - 14:38)
+This show us liquidity, momentum, selling pressure. And that is all because the smart money has entered the trade at this order block earlier that we have right here. And also even enter at this 5 minute order block right here.
+
+(14:39 - 14:50)
+And that results in this drastic move. This is really how powerful order blocks can be if you genuinely grasp the concept of it. Now as you can see, the market is fractal right.
+
+(14:50 - 15:02)
+This pattern that we see earlier on the one hour time frame. Remember our entry model where we look for the market shift and then inefficiency and then the order block right here. It shows you the exact same thing on a 5 minute time frame.
+
+(15:02 - 15:17)
+So this is the proof that this order block strategy works on all time frames. But ideally you want to start off from like at least the 4 hour or the 1 hour time frame. And then slowly go down to the 15 minute or 5 minute time frame to look for your entry.
+
+(15:17 - 15:26)
+Now that I've shown you a bullish scenario, let me show you a bearish scenario. So the funny thing is I've actually taken this trade. So this is somewhat like a trade recap for me.
+
+(15:26 - 15:34)
+I took this trade about last week and it played out pretty well. So you know what, let me just explain to you. So in this case, price is downtrend right.
+
+(15:34 - 15:49)
+Because price is getting lower highs, lower lows, lower highs and another lower lows somewhere right down here. And right here price has given us an inefficiency. Where you can see price has maybe approached this major key demand zone or support level whatever you like to call it.
+
+(15:49 - 16:02)
+And price has started reversing. In this case, this is what we have as your inefficiency. So I can use the box to mark up the high and the low of the candle before the inefficiency happen creating your order block right here.
+
+(16:03 - 16:17)
+So like I said, the next thing you want to do is to wait for the market shift to happen. So maybe I'll drop down to the 1 hour time frame and I can see that okay, that is actually a lower high right here. Price is actually creating a lower high right here.
+
+(16:17 - 16:33)
+This is the last lower high before price has came back down to this area here and create this new lower low. So price is most likely going to break through this last lower high creating your market shift. And then come back down to this order block and that is when we can look for our buy position right here.
+
+(16:33 - 16:44)
+So in this case, we are waiting patiently right. We are waiting very patiently. And you can see right here price has actually broken past the high that we have earlier.
+
+(16:44 - 17:15)
+Remember this is the lower high right here and you can see this weak right here has pierced through that last lower high creating your market shift. So in this scenario, we have market shift and now we have price come back down to retest this order block that created this inefficiency and actually created some sort of liquidity and we can see that by looking at this candle right here. You can see this candle is the body is actually bigger than this one right here.
+
+(17:15 - 17:30)
+So there was bullish momentum at this area right here. So at this point of time, I'm going to drop down to my smaller time frame like the 15 minute time frame to look for my entry. And when I dropped down to my 15 minute time frame, I saw price created this another inefficiency right here.
+
+(17:30 - 17:42)
+You can see this is an inefficiency right. So what I did was that I actually entered for a buy position right here. But a more sniper entry would be to wait for price to come back down to this mini 15 minute order block right here.
+
+(17:42 - 17:53)
+Then look for your entry somewhere here. But I entered for a buy position right here and I placed my stop loss below this last higher low. Because you can see price was creating lower highs, lower lows, lower highs, lower lows.
+
+(17:53 - 18:07)
+And now price has shift right. The trend has shift to higher highs, higher lows, higher highs and this is a new higher low. So I placed my stop loss below this last higher low and I placed my tick profit all the way up to the next area.
+
+(18:08 - 18:16)
+The next demand zone which is like all the way up here or some shit. This order block right here. This extreme order block right here was my tick profit area.
+
+(18:17 - 18:33)
+But this trade actually didn't went up to hit my tick profit area. So in honesty right here, I'm gonna be 100% transparent with you guys to tell you that you shouldn't aim for this extreme order block. You should aim for the next order block which could be somewhere right around here.
+
+(18:33 - 18:43)
+Somewhere right around here, there's this market shift area, this lower high being from right here. This is the last high and there's some sort of demand area right here. And you can aim for that easily.
+
+(18:44 - 19:03)
+Now in this case, this was a 1 is to 1 risk to reward ratio which is not ideal. So I will actually advise you to drop down to the 5 minute timeframe to look for a better entry. Right when price has come back down to this order block right, you could immediately enter for this trade by placing like a buy limit order at this price right here.
+
+(19:04 - 19:18)
+And just immediately enter for the trade when price has touched this order block. I entered right here which is a little bit too late but literally the best entry price would be when price has mitigated this order block. And you can take profit at this area that we have right here.
+
+(19:18 - 19:30)
+So in that case, that is a 1 is to 5 risk to reward ratio. And you can see price actually slowly went up and smashed the tick profit right here. Now as always, I want to be the guy that's 100% transparent and honest with you.
+
+(19:31 - 19:39)
+And just be honest with you and tell you that my tick profit did not hit right. Price did not went all the way up here to this extreme order block. Price actually come back up to this order block area right here.
+
+(19:39 - 19:49)
+And that's all trading is about right. Learning from the mistakes, adjusting your trading strategy so that you do not commit the same mistakes again. And that is how you can improve as a trader.
+
+(19:50 - 20:01)
+I learned my mistake and now I'm just sharing the lesson that I learned from this mistake with you guys. So that you guys do not make the same mistake I did and actually lose money like I did. Okay, I didn't lose money.
+
+(20:02 - 20:07)
+I actually broke even on this trade. Alright, let's make that clear. Because I was smart enough to move my stop loss into a breakeven right here.
+
+(20:07 - 20:23)
+Yo, this is Brett. So I actually took a live trade after this video was recorded based on the exact same order block trading strategy that I told you guys in that tutorial. So as you can see right here, this was the market shift that we can see right here.
+
+(20:24 - 20:32)
+And then this was like the order block that kind of created that market shift somewhere around here. And price has tapped into it right there. And now it's going up right now.
+
+(20:32 - 20:38)
+And I entered a little bit too late because I wasn't looking at the charts. I was busy recording this goddamn video for you guys. So I entered right here.
+
+(20:39 - 20:46)
+And I wouldn't say it's too late. I mean, it's pretty too late. But that doesn't mean that we cannot enter the trade.
+
+(20:46 - 21:04)
+That doesn't mean that there is no opportunity, right? Once I saw this liquidity, I knew that I had to ship my shot so that I can prove to you guys that this strategy actually works somehow. So I entered for this trade right here. And another thing was because this was actually an old order block from on a 4-hour time frame, if I'm not wrong.
+
+(21:04 - 21:12)
+On a 1-hour time frame right here, you can see right here. This is an old order block. And you can see price has mitigated this area as well.
+
+(21:12 - 21:29)
+So not only price has mitigated this 1-hour order block right here. But it has also mitigated the 15-minute order block that we have right here, somewhere right around here. So I'm going to check back again to show you guys the results of this trade, probably in a few hours.
+
+(21:29 - 21:33)
+And if it's a win, it's a win. If it's a loss, it is a loss. It is what it is.
+
+(21:33 - 21:42)
+Just going to see how you guys do it. I mean, see how I do it in life. So as you can see, this is purely live IG account, live account.
+
+(21:42 - 22:05)
+And then you can see that this was a trade that I entered, right? This is a little bit of a drawdown right now. But we're just going to be patient and hold this trade and see how it ends up, you know? If it's a profit or a loss, it is what it is. And yeah, hopefully it's a win so that I can actually prove to you guys that, you know what? This strategy is actually legit and I'm not spitting bullshit.
+
+(22:08 - 22:15)
+So we're after the buy position right here. And right now, price is somewhere right around here. And at first, my tech property was all the way up here.
+
+(22:16 - 22:24)
+But of course, today is a Friday and I don't want to hold a trade over the weekend. So I decided to take profit at this supply zone area right here. So I got out of the trade, as you can see, right here.
+
+(22:25 - 22:42)
+Two hundred fat bucks. I guess this just proves that our order block strategy is quite useful because right after I entered for this trade right here, you can see liquidity entered into the market and just pushed the price up, right? This was somewhere during the London session and stuff. And I can see, oh, right now price literally went up.
+
+(22:42 - 22:52)
+Do you guys see that? And right now, I'm getting like, you know, the emotion where you regret getting out of the trade. But anyways, it is what it is. Even though, oh my God, look, price hit my tech profit right here.
+
+(22:53 - 23:02)
+Like if I held it a little bit longer, why is this happening? Because right here, I appreciate there's news right here. Oh my God, if I don't know, I just held a trade. I think there's the news coming out today.
+
+(23:02 - 23:08)
+That's why I forgot about that. And yeah, I can't believe that just happened to me. It is what it is.
+
+(23:08 - 23:14)
+We miss opportunity sometimes, you know. I could have made like double the profits if I held it a little bit longer. But it is what it is.
+
+(23:14 - 23:24)
+You know, we got out over here. It was a pretty good trade, right? And the reason why price come up to this area here is because there's actually another order block area right here. There's a supply order block right here.
+
+(23:24 - 23:33)
+Where smart money are loading up sell orders right here. So we just have to see what happens. Anyways, this has proven to you guys that this order block strategy kind of works.
+
+(23:33 - 23:48)
+So go and test it out. Anyways, this is like the first lesson of this market mechanics trading strategy that I've formulated. So for the past few months or the past few weeks, I've really been trying to create my own trading strategy called market mechanics.
+
+(23:48 - 24:02)
+And order blocks is just one part of it. There's other parts like supply and demand, flip zones, inducements, all these like complicated terms, which I will explain in more videos in the future. But yeah, this is just the first video.
+
+(24:03 - 24:20)
+So if you really enjoyed this style of video where I just use PowerPoint slides to show you, you know, what is order blocks, what is this, what is that, and just explain to you guys how it works. And then show you my trading strategy on the charts. Let me know down in the comments so that I know that you appreciate these style videos and most likely create more videos like this.
+
+(24:20 - 24:27)
+And also make sure to smash on that like button. Okay, that sounds cringy because I don't want to be that YouTuber that says, oh, smash on the like button, hit that subscribe button. You can do it if you want.
+
+(24:27 - 24:36)
+I'm not going to force you, all right? If you think that my channel provide value to you, go ahead and hit on that subscribe button. If not, then just don't. All right, just f off.
+
+(24:36 - 25:06)
+I really think that if you can just forget about things you know about me, forget about what other people are talking about me, forget about all the shit that they are saying about me, and just focus on trading. Focus on the thing that I'm saying and actually apply the knowledge that I'm sending to you right now. I believe that you can actually become a profitable trader and you do that by putting your bias of me aside and just focus on trading and focus on what I'm teaching right here and applying all this knowledge and I can guarantee you that you'll get far in trading.
+
+(25:06 - 26:08)
+And this is something bold that I'm going to say, but I believe that I've literally cracked the algorithm of the market and figure out how price operates through my market mechanics trading strategy, right? Like I said, I will do my best and just create like a new series where I just post tutorials on parts of this market mechanics trading strategy to slowly like teach you guys how I trade market mechanics and how I'm able to you know understand how price operates and stuff so that you can do it too. Now, if you've been watching my videos, you will know that I've been trading price action for a very long time right now and I have taught you guys how to trade price action, how to trade your support and resistance levels, your candlesticks, your trendlines and all that stuff. Now, a lot of these things are retail concepts and some things do not work anymore, right? That is why I want you guys to really focus on my newer videos moving forward, focus on market mechanics, right? And actually market mechanics, there's a portion of it which is price action, so I'm not saying that I've stopped trading price action completely.
+
+(26:08 - 26:31)
+I'm still looking at price action right now, especially when I'm trading these order blocks. I have to understand, okay, the liquidity, the momentum, the candlestick price and all that stuff and I'm still using Fibonacci and these tools to help me, right? Market mechanics is just like a hybrid trading strategy which is everything jump up together, which I don't want to tell you guys too much right now. It should be a surprise, right? To keep you watching, to keep you hooked.
+
+(26:31 - 26:56)
+But I guess what I'm trying to say is that price action was just the beginning. It was just the beginning for you to kind of understand how price operates. Market mechanics is the one that is going to take your trading to the next level where you actually figure out why or rather how liquidity is formed, how liquidity is created and how smart money is manipulated to their advantage and how you can take advantage of it as well.
+
+(26:57 - 27:16)
+So if you're interested in market mechanics, I guess you can just be part of the tribe and just join us on this journey. But once again, I'm not trying to sell you anything or force you to do anything that you don't want to do. And this order block trading strategy only works if you can make use of top-down analysis which you can check out in this video right here.
+
+(27:16 - 27:29)
+And as always, remember, you're just one trade away. Now, I forgot to mention one thing actually and that is to make sure that you backtest your trading strategy. Backtest this order block trading strategy that I just showed you guys.
+
+(27:29 - 27:39)
+It worked for me. I backtested it myself. I've literally traded it on my live account and I got like the best entries ever but it might not work for you because you're freaking eager.
+
+(27:39 - 27:47)
+So that is why you need to go out there and actually backtest it to see whether it works for you because what works for me might not work for you. So go and backtest it and don't be a freaking eager.

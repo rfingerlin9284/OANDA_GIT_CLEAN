@@ -75,6 +75,8 @@ MIN_FREE_MARGIN_PCT    = float(os.getenv("RBOT_MIN_FREE_MARGIN_PCT",   "0.20")) 
 CHARTER_MIN_NOTIONAL_USD = float(os.getenv("RBOT_CHARTER_MIN_NOTIONAL_USD", "15000"))
 CHARTER_TARGET_NOTIONAL_USD = float(os.getenv("RBOT_CHARTER_TARGET_NOTIONAL_USD", "17500"))
 CHARTER_MIN_RR = float(os.getenv("RBOT_CHARTER_MIN_RR", "3.26"))
+# ── Phoenix quality-picker sizing bounds ──────────────────────────────────────
+CHARTER_MAX_NOTIONAL_USD = float(os.getenv("RBOT_MAX_NOTIONAL_USD", "30000"))
 
 # ── TRANSCRIPT EDGE: Circuit Breaker + Directional Filters ────────────────────
 DAILY_MAX_LOSS_USD     = float(os.getenv("RBOT_DAILY_MAX_LOSS_USD",    "150"))
@@ -795,14 +797,14 @@ class TradeEngine:
                 print(f"  BLOCKED    {symbol} — MARGIN_GATE_BLOCKED free={free_margin_pct:.1%}")
                 continue   # margin tight for this symbol — try next
 
-            # ── Correlation gate: DISABLED to allow independent same-currency signals ──
-            # if self._would_create_correlated_exposure(symbol, sig.direction):
-            #     print(
-            #         f"  BLOCKED    {symbol} — CORRELATION_GATE "
-            #         f"({sig.direction} on same currency already open)"
-            #     )
-            #     print(f"  💬 {symbol}: Skipped — already in a very similar trade. Avoiding duplicate risk.")
-            #     continue
+            # ── Correlation gate: block same-currency directional stacking ──
+            if self._would_create_correlated_exposure(symbol, sig.direction):
+                print(
+                    f"  BLOCKED    {symbol} — CORRELATION_GATE "
+                    f"({sig.direction} on same currency already open)"
+                )
+                print(f"  💬 {symbol}: Skipped — already in a very similar trade. Avoiding duplicate risk.")
+                continue
 
             # ── Phase 1: CANDIDATE_FOUND ───────────────────────────────────
             log_event(CANDIDATE_FOUND, symbol=symbol, venue="signal_scan", details={
@@ -849,28 +851,10 @@ class TradeEngine:
             print(f"  → Placing  {symbol} {sig.direction} conf={sig.confidence:.1%}")
             print(f"  💬 {symbol}: Checks passed — submitting {'SELL (going short)' if sig.direction=='SELL' else 'BUY (going long)'} order to broker now.")
 
-            # ── Fibonacci Post-Close Entry Protocol ──────────────────────────
-            # Calculate the 50% retracement of the M15 signal candle for the wick entry
             _placed_entry = live_mid
             _ord_type = "MARKET"
-            try:
-                _c2 = self.connector.get_historical_data(symbol, count=2, granularity="M15")
-                _sig_candle = _c2[-1]
-                _sh = float(_sig_candle.get("mid", {}).get("h", live_mid))
-                _sl_c = float(_sig_candle.get("mid", {}).get("l", live_mid))
-                _fib_50 = _sl_c + ((_sh - _sl_c) * 0.5)
-                
-                if sig.direction == "BUY" and _fib_50 < live_mid:
-                    _placed_entry = round(_fib_50, 5)
-                    _ord_type = "LIMIT"
-                elif sig.direction == "SELL" and _fib_50 > live_mid:
-                    _placed_entry = round(_fib_50, 5)
-                    _ord_type = "LIMIT"
-                
-                if _ord_type == "LIMIT":
-                    print(f"  [FIBONACCI WICK] {symbol} entry optimized to LIMIT pullback at {_placed_entry} (Mid: {live_mid})")
-            except Exception:
-                pass
+            # Fibonacci LIMIT entry DISABLED — adverse-selection fills at 50% retracement
+            # were starting trades from worse prices, compounding trailing stop sweeps.
 
             # ── Phoenix-mode: Strategy-Specific pipeline SL/TP override ─────────
             # Replaces signal's variable SL/TP with exact pip values based on strategy.
@@ -883,12 +867,12 @@ class TradeEngine:
                 _trade_sl_pips = self._sl_pips
                 _trade_tp_pips = self._tp_pips
                 
-                if any(x in _strategy for x in ["reversal", "mean_rev", "scalp"]):
-                    _trade_sl_pips = 12
-                    _trade_tp_pips = 24
-                    print(f"  [STRATEGY EXIT] {_strategy} detected — using tighter {_trade_sl_pips}/{_trade_tp_pips} exits")
-                else:
-                    print(f"  [STRATEGY EXIT] {_strategy} detected — using standard {_trade_sl_pips}/{_trade_tp_pips} exits")
+                # All strategies use the same standard SL/TP geometry from .env.
+                # Previously: reversal/scalp used 10/25 which was the same width as
+                # the ATR trailing stop, giving zero room for the trade to breathe.
+                _trade_sl_pips = self._sl_pips
+                _trade_tp_pips = self._tp_pips
+                print(f"  [STRATEGY EXIT] {_strategy} detected — using standard {_trade_sl_pips}/{_trade_tp_pips} exits")
 
                 _pip = 0.01 if "JPY" in symbol.upper() else 0.0001
                 _sl_dist = _trade_sl_pips * _pip
@@ -1389,33 +1373,60 @@ class TradeEngine:
 
     def _compute_units(self, symbol: str, sig: AggregatedSignal, nav: float = 0.0) -> int:
         """
-        Sizing stack:
-        1) start from RBOT_BASE_UNITS
-        2) apply watermark-based compounding
-        3) enforce Charter notional floor with broker USD-notional math
+        Sizing stack — Phoenix Quality-Picker (ported from oanda_trading_engine.py:1152):
+        1) Power-curve confidence scaling: low-conf → Charter floor, high-conf → max notional
+        2) Home-run bonus: conf >= 0.88 → +25% notional
+        3) Watermark-based compounding on top
+        4) Chop mode override (fixed units during chop session)
+        5) Charter notional floor enforced last
+
+        Replaces flat RBOT_BASE_UNITS + fake Kelly (confidence ≠ realized win-rate).
+        Power-curve keeps 'meh' trades small and rewards genuine conviction.
         """
-        base_units = int(os.getenv("RBOT_BASE_UNITS", "14000"))
+        import math
+
+        # ── Chop mode: bypass quality-picker, use fixed conservative units ──
         if getattr(self, "is_chop_mode_active", False):
-            base_units = getattr(self, "_chop_units", base_units)
-            
-        growth_exponent = float(os.getenv("RBOT_COMPOUND_GROWTH_EXPONENT", "1.15"))
+            chop_units = getattr(self, "_chop_units", int(os.getenv("RBOT_BASE_UNITS", "14000")))
+            signed = chop_units if sig.direction == "BUY" else -chop_units
+            live_prices = self.connector.get_live_prices([symbol]) or {}
+            live_mid = float((live_prices.get(symbol) or {}).get("mid", 0.0) or 0.0)
+            return int(self._apply_min_notional_floor(symbol, signed, live_mid))
+
+        # ── Power-curve confidence sizing (Phoenix quality-picker) ────────
+        conf_floor = float(os.getenv("RBOT_MIN_SIGNAL_CONFIDENCE", "0.75"))
+        conf_cap   = 0.94
+        min_notional = float(os.getenv("RBOT_CHARTER_MIN_NOTIONAL_USD", "15000"))
+        max_notional = float(os.getenv("RBOT_MAX_NOTIONAL_USD", "30000"))
+        if max_notional < min_notional:
+            max_notional = min_notional
+
+        conf = getattr(sig, 'confidence', conf_floor)
+        conf = max(conf_floor, min(float(conf), conf_cap))
+
+        scale_raw = (conf - conf_floor) / max(conf_cap - conf_floor, 1e-9)
+        scale     = max(0.0, min(scale_raw, 1.0)) ** 1.8   # power curve: exponential conviction
+
+        target_notional = min_notional + (max_notional - min_notional) * scale
+        
+        # ── Golden Turnaround Max Sizing ──────────────────────────────────
+        if getattr(sig, "meta", {}).get("is_golden_turnaround"):
+            golden_mult = float(os.getenv("OANDA_GOLDEN_MULTIPLIER", "2.0"))
+            target_notional *= golden_mult
+            print(f"  [GOLDEN TURNAROUND] 🔥 Sizing override applied: {golden_mult}x multiplier! Notional: ${target_notional:,.0f}")
+
+        # Home-run bonus: conf >= 0.88 → +25% notional (capped at 1.5× max)
+        if conf >= 0.88:
+            target_notional *= 1.25
+            target_notional  = min(target_notional, max_notional * 1.5)
+
+        # ── Watermark compounding applied ON TOP of quality-picker ────────
+        growth_exponent      = float(os.getenv("RBOT_COMPOUND_GROWTH_EXPONENT", "1.15"))
         drawdown_floor_ratio = float(os.getenv("RBOT_COMPOUND_DRAWDOWN_FLOOR_RATIO", "1.00"))
-        max_growth_multiple = float(os.getenv("RBOT_COMPOUND_MAX_GROWTH_MULTIPLE", "3.00"))
-
-        # ── TRANSCRIPT EDGE: Kelly Criterion Sizing ───────────────────────
-        _kelly_mult = 1.0
-        if KELLY_SIZING_ENABLED and hasattr(sig, 'confidence'):
-            _win_p = sig.confidence
-            _loss_p = 1.0 - _win_p
-            _avg_rr = 1.5
-            _kelly_f = (_win_p * _avg_rr - _loss_p) / _avg_rr
-            _kelly_f = max(0.5, min(_kelly_f, 1.25))
-            _kelly_mult = _kelly_f
-
-        scaled = int(base_units * _kelly_mult)
+        max_growth_multiple  = float(os.getenv("RBOT_COMPOUND_MAX_GROWTH_MULTIPLE", "3.00"))
         if nav > 0 and self._initial_nav > 0:
-            scaled = compute_watermark_compounded_units(
-                base_units=base_units,
+            compounded_base = compute_watermark_compounded_units(
+                base_units=int(min_notional),   # treat notional as pseudo-units for ratio math
                 current_nav=nav,
                 initial_nav=self._initial_nav,
                 watermark_nav=(self._watermark_nav or self._initial_nav),
@@ -1423,16 +1434,33 @@ class TradeEngine:
                 drawdown_floor_ratio=drawdown_floor_ratio,
                 max_growth_multiple=max_growth_multiple,
             )
+            compound_ratio  = compounded_base / max(int(min_notional), 1)
+            target_notional = min(target_notional * compound_ratio, max_notional * 2.0)
+
+        # ── Convert notional → units for this symbol ──────────────────────
+        live_prices = self.connector.get_live_prices([symbol]) or {}
+        live_mid    = float((live_prices.get(symbol) or {}).get("mid", 0.0) or 0.0)
+
+        parts = symbol.upper().split("_")
+        base  = parts[0] if len(parts) == 2 else ""
+        quote = parts[1] if len(parts) == 2 else ""
+
+        entry = live_mid if live_mid > 0 else 1.0
+        if quote == "USD":                    # EUR_USD, GBP_USD, AUD_USD
+            raw_units = math.ceil(target_notional / entry)
+        elif base == "USD":                   # USD_JPY, USD_CAD, USD_CHF
+            raw_units = math.ceil(target_notional)
+        else:                                 # crosses — conservative proxy
+            raw_units = math.ceil(target_notional * 0.9)
+
+        scaled = math.ceil(raw_units / 100) * 100  # round to nearest 100
+
+        print(
+            f"  [QUALITY-PICK] {symbol} conf={conf:.1%}  notional=${target_notional:,.0f}"
+            f"  units={scaled}"
+        )
 
         signed_units = scaled if sig.direction == "BUY" else -scaled
-
-        live_prices = self.connector.get_live_prices([symbol]) or {}
-        live_mid = (live_prices.get(symbol) or {}).get("mid", 0.0)
-        try:
-            live_mid = float(live_mid or 0.0)
-        except Exception:
-            live_mid = 0.0
-
         signed_units = int(self._apply_min_notional_floor(symbol, signed_units, live_mid))
         return signed_units
 

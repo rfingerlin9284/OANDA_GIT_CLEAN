@@ -1,0 +1,152 @@
+(0:00 - 0:19)
+This video is brought to you by Pynax, a cryptocurrency exchange with free built-in trading bots. In this video, I'll be showing you the best strategies that you can use to earn profits on a ranging market. So first, an important concept that you need to understand is that in the world of technical analysis, there are two types of markets that exist.
+
+(0:20 - 0:33)
+Trending markets and ranging markets. Trending markets is when the price is clearly moving in a definitive direction. If it's going up, it's called an uptrend and if it's going down, it's called a downtrend.
+
+(0:34 - 0:56)
+Now, usually, this is the type of market that traders prefer to trade on because the movement of a trending market tends to be more predictable. On the other hand, you have ranging markets, which is a type of market where the price moves erratically without having a definitive direction. Now, usually, traders tend to avoid this type of market because it's a lot harder to predict where the price will go next.
+
+(0:56 - 1:16)
+Another reason on why traders tend to avoid ranging markets is because most indicators tend to not work properly on them. An example of that will be the MACD indicator. So here, if we try applying the MACD indicator on this ranging market, you can see that it's showing us multiple false signals and as a result, we ended up with mostly losing trades.
+
+(1:17 - 1:29)
+Now, unfortunately, ranging markets are pretty much unavoidable. In fact, study shows that the financial markets only trend about 30% of the time. While moving on a sideways range about 70% of the time.
+
+(1:29 - 2:00)
+This means that most of the time, markets are actually ranging and so instead of trying to avoid them altogether, why not try to take advantage of them? And that is why in this video, I'm going to show you the best strategies that you can use to earn profits on a ranging market. So strap in because we're going to go very in-depth. So first, in order to earn profits on a ranging market, we first need to know how to actually identify them and normally, ranging markets are a lot easier to be identified after they have already formed.
+
+(2:00 - 2:13)
+But if they're still in the process of forming, it tends to be harder to spot. And so a simple trick that I like to use to identify ranging markets as they're forming is to pay close attention to the market structure. Let me show you an example.
+
+(2:14 - 2:29)
+So here, we can see that initially, the market was clearly on an uptrend. Now ask yourself this, why is this an uptrend? Well, it's because of how the price is structured. Here, we can see that the price went up, made a pullback, and comes back up again.
+
+(2:29 - 2:55)
+However, notice that as the price goes up, it actually breaks the previous highs and it did this multiple times, forming what's called a higher highs and higher lows, because the highs and lows of the price is constantly getting higher and higher, which is why this whole movement is classified as an uptrend. But notice what happens next. We can see that the price went up, comes back down, but this time, it failed to break above the previous highs.
+
+(2:56 - 3:08)
+And again, you can see it happening the second time. Price went up, comes back down, but failed to break above the previous highs. And so at this point, we can clearly see that the market structure had already shifted.
+
+(3:08 - 3:22)
+It went from forming higher highs and higher lows at first, to then failing to form another higher highs twice and started moving sideways. So based on this market structure, we can already identify that the market is currently ranging. Now let's look at another example.
+
+(3:24 - 3:45)
+So here, we can see that initially, the price was on a clear downtrend, as it forms lower highs and lower lows. Next, we can see that the price went down, comes back up, but failed to form another lower lows. Then, we can see that the price goes back down the second time, comes back up, and again, failed to form another lower lows.
+
+(3:46 - 4:00)
+And so based on this, we can clearly see that the market structure had already shifted. It went from being on a clear downtrend, to now moving within range. Now, once you've identified a ranging market, the next thing you want to do is drawing the key levels.
+
+(4:01 - 4:14)
+And so you can draw a level of resistance above and a level of support below here. Now, there are a couple of reasons on why we draw these key levels. The first reason is because we want to determine the area of where the price is still considered ranging.
+
+(4:15 - 4:30)
+Meaning, if the price goes out of one of these key levels, it shows us that the market is no longer ranging. The second reason is because we're establishing our trading zone. So as long as the price stays within this zone, we can still trade it using our range market strategy.
+
+(4:30 - 4:47)
+But bear in mind, it's very rare to find ranging markets that moves perfectly between key levels like this. Most ranging markets will actually look like this, where the price may not touch the key levels perfectly. As you can see, there are some candles that overlap the levels, and even some that are not touching the levels at all.
+
+(4:48 - 5:05)
+And this is perfectly fine, because remember, we're trading support and resistance as a general area, not as solid lines. Now, once you've identified your key levels, the next step is finding your entry signal. So for your entry signal, you want to take advantage of the price bouncing off those key levels.
+
+(5:05 - 5:18)
+Let me show you an example. So here, we can see that at first, the price was in a small uptrend before it started moving sideways. And so we can draw a level of resistance above, and a level of support below here.
+
+(5:18 - 5:29)
+Now, if you look closely, you'll actually notice a pattern. Every time price hits a key level, it tends to reverse from it. As you can see, price went down, hits the key level, and reverses upwards.
+
+(5:30 - 5:38)
+Again, it went down, hits the key level, and reverses upwards. And the same thing is happening above here. Price went up, hit and reverses downwards.
+
+(5:38 - 5:51)
+Again, it went up, hit and reverses downwards. Now, as you look at the current price, you can see that it's touching the resistance level once again. And so, based on the previous pattern, it may indicate that the price will reverse from this level as well.
+
+(5:51 - 6:10)
+So this is a good opportunity to take a short position. But keep in mind, there are also times where the price reverses even if it hasn't hit the key level, like in this example. Here, we can see that the market is on range, and so you can draw a level of resistance above, and a level of support below here.
+
+(6:11 - 6:31)
+Next, you can see that in the past, price clearly respects these levels, as it tends to bounce off after hitting them. However, if you look at the recent price, we can see that the price went down, and reverses upwards immediately, without even touching the support level. And after that, price went down the second time, and reverses upwards.
+
+(6:31 - 6:49)
+However, if you look closely, you can actually see that the price is reacting to this new key level, instead of the old one. This is exactly why you should always keep an eye on new key levels that may form, because price doesn't have to react to just one key level exclusively. It can always react to new ones that forms along the way.
+
+(6:50 - 7:03)
+Now moving on. Another type of ranging markets that you may encounter is called narrow-ranging markets, which is when the distance between the upper and lower levels are too narrow. As a result, there isn't much room for the price to move around.
+
+(7:03 - 7:21)
+This means that you won't be able to trade it using the key level bounce strategy that I showed you earlier. And so, the best way to take advantage of this type of ranging market, is to trade it using a breakout strategy instead. And the reason for that is because, if markets are moving on a narrow range like this, it indicates that the price is consolidating.
+
+(7:22 - 7:36)
+And usually, after the price consolidates, a breakout tends to happen afterwards. So if you know how to trade breakouts effectively, you can enter a position before the breakout happens and make a profit. So this is how the strategy works.
+
+(7:37 - 7:56)
+The first step is you want to find a narrow-ranging market, which can be identified by multiple small candles moving sideways erratically like this. And a quick tip, you can find them a lot easier on lower timeframes such as the 1 minute to 15 minute timeframe. Now once you've identified a narrow-ranging market, the next step is drawing the key levels.
+
+(7:56 - 8:09)
+And so you want to draw a level of resistance above and a level of support below here. But remember, don't draw them too closely. Make sure to give them enough space for the price to move in between so that we can avoid false breakouts later on.
+
+(8:10 - 8:30)
+Now, once you've drawn the key levels, the next step is figuring out the breakout direction. Will it happen to the upside or the downside? Now keep in mind, in a narrow-ranging market, false breakouts happen very often. And so a simple trick that I like to use to avoid false breakouts is by waiting for a momentum candle to break out of the key level.
+
+(8:31 - 8:43)
+So a momentum candle could be in the form of a big candle or multiple medium-sized candles with the same color. Let me show you how this works. Here, we can see that the price goes up and breaks above the resistance level.
+
+(8:44 - 9:02)
+However, notice that the size of the candle that broke out is way too small to be classified as a momentum candle. Meaning, you don't want to take any positions yet, because this may just be a false breakout. Next, we can see that the price came back down, gets back up, and breaks above the resistance level once again.
+
+(9:03 - 9:17)
+However, you can see that this time, it's a big green candle that broke out, which means we now have a momentum candle. So based on this, we can conclude that the breakout will likely happen to the upside. And so this is a good opportunity to take a buy position.
+
+(9:20 - 9:40)
+Now moving on. Another way of earning profits from a ranging market is by utilizing what's called a gridbot, which is a trading bot that is based on the grid trading strategy. Basically how it works, is that the bot will automatically place a series of buy and sell orders above and below the price, forming somewhat of a grid shape, as shown here.
+
+(9:40 - 9:55)
+Next, every time price goes down to the grid below it, it will automatically take buy positions. And every time price goes up to the grid above it, it will automatically sell those positions and make a profit. And it will do this continuously over and over again.
+
+(9:56 - 10:10)
+So as price goes down, the bot will keep buying, and as price goes up, the bot will keep selling for a profit. And so as long as the price stays within the range of the grid, the bot will keep profiting from the fluctuating price. And remember, gridbots are fully automated.
+
+(10:10 - 10:25)
+Meaning, they're perfect for traders who want to profit from a ranging market, but are too lazy to trade manually. Now, most platforms will actually charge you money to use a gridbot. However, if you want to get it for free, you can use the PionX trading platform.
+
+(10:25 - 10:40)
+Just click the link below, register, deposit your money, and you can use the bot right away for free. But of course, gridbots aren't perfect. Just like any other strategy, there are certain types of markets where the bot works best, and some where the bot underperforms.
+
+(10:42 - 11:04)
+And so the first type of market where the bot works best are ranging markets, where the price fluctuates, but remains moving sideways. The next type of market where the gridbot works best are weak uptrend markets, where the price is overall uptrending, but still fluctuates in the process. Now, let's talk about the different types of market that you want to avoid if you're using a gridbot.
+
+(11:04 - 11:22)
+First are down trending markets, which are markets where the price moves downwards. Because remember, the bot is designed to keep buying if the price goes down, and sell for a profit if the price goes up. And so if the price is continuously going down, it means that the bot will only keep buying without making any profit.
+
+(11:23 - 11:41)
+The next type of market that you want to avoid are strong uptrending markets, which are markets where the price moves continuously upwards. Now, the reason for this is because gridbot will actually underperform on this type of market. Because remember, the bot is designed to only take buy positions if the price goes down.
+
+(11:41 - 11:57)
+Meaning, if the price continuously goes up, it means that the bot won't have a chance to take any buy positions. Therefore, it won't work properly. And so, now that you know which types of market works best for the gridbot, I'm now going to show you how to set up the bot on the Pynax platform.
+
+(11:58 - 12:12)
+So the first step is obviously you need to have an account on the Pynax website. Again, just click the link below, and register for free. Now, after you've made your account, the next step is you want to find an asset that is currently moving within range.
+
+(12:13 - 12:32)
+And you can do that by using the market structure technique that I showed you in the start of the video. So in this case, I'm choosing to trade the Dodo USDT for our chart, because you can clearly see that the market is currently ranging, as it's moving sideways. Now, once you've identified the asset that you want to trade, the next step is drawing the key levels.
+
+(12:33 - 12:47)
+And so you can draw a level of support above, and a level of resistance below here. Now, once you've identified the key level, the next step is applying the gridbot. So here, you click trade, go to grid trading, and click create.
+
+(12:47 - 13:01)
+Next, you can choose whether you want an AI to set the settings for you, or you can just set it manually. Personally, I like to set it manually so that it's more accurate. Now, for your lower price, you want to insert the value of your support level.
+
+(13:01 - 13:17)
+In this case, my support level is at 1.103, and so I'm going to insert it here. Next, for your upper price, you want to insert the value of your resistance level. And as you can see, my resistance level is at 1.359, so I'm going to insert it here.
+
+(13:18 - 13:31)
+Now, for the grids, you want to adjust this value depending on how much grids you want to be placed. In this case, I'm using 30 grids. Next, for your total investment, you can set how much of your total capital you want to trade using the bot.
+
+(13:32 - 13:48)
+Once you're done, click create, and the bot should start running automatically. Now, if you want to close your positions or take profit, you can make the bot stop by clicking cancel, go to please sell, and click confirm. And so, that's how you use the Gridbot on the Pynx platform.
+
+(13:49 - 14:02)
+Now, aside from the Gridbot, Pynx also offers other types of bot as well, which is available for free. Just click the link below, register, deposit, and try these bots out yourself. So, big thanks to Pynx for sponsoring this video.
+
+(14:03 - 14:07)
+And so, that's all for today. Thank you so much for watching, and I'll see you in the next video.

@@ -888,6 +888,7 @@ class AggregatedSignal:
         self.session        = session
         self.session_mult   = session_mult
         self.signal_type    = signal_type   # FIX #4: used by manage_open_trade
+        self.meta           = {}
 
     def as_dict(self) -> dict:
         return {
@@ -903,6 +904,7 @@ class AggregatedSignal:
             "session":         self.session,
             "session_mult":    self.session_mult,
             "signal_type":     self.signal_type,
+            "meta":            self.meta,
         }
 
 
@@ -1016,7 +1018,14 @@ def scan_symbol(
         _regime_label = "unknown"
         # Regime gate failed — allow the signal through (fail open)
 
-    return AggregatedSignal(
+    detectors = [r.detector for r in voted]
+    
+    # Check for Golden Turnaround
+    turnaround_detectors = {"trap_reversal", "liq_sweep", "mean_reversion_bb", "fvg"}
+    has_turnaround = any(d in turnaround_detectors for d in detectors)
+    is_golden = has_turnaround and final_conf >= 0.85
+
+    sig = AggregatedSignal(
         symbol          = symbol,
         direction       = best_dir,
         confidence      = final_conf,
@@ -1024,12 +1033,17 @@ def scan_symbol(
         sl              = sl,
         tp              = tp,
         votes           = len(voted),
-        detectors_fired = [r.detector for r in voted],
+        detectors_fired = detectors,
         all_results     = all_results,
         session         = session_name,
         session_mult    = session_mult,
-        signal_type     = signal_type,
+        signal_type     = "reversal" if is_golden or "trap_reversal" in detectors else signal_type,
     )
+    
+    if is_golden:
+        sig.meta["is_golden_turnaround"] = True
+        
+    return sig
 
 
 # ─────────────────────────────────────────────────────────────────────────────

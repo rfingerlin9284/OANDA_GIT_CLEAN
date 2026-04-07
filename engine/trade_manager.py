@@ -259,6 +259,21 @@ class TradeManager:
             if not current_price or not entry:
                 continue
 
+            # ── 3a. Scale-Out at 1R ──────────────────────────────────────────
+            managed_state = self._managed.get(trade_id, {})
+            # Get initial sl (from start of trade)
+            initial_sl = managed_state.get("initial_sl")
+            if not initial_sl and current_sl:
+                managed_state["initial_sl"] = current_sl
+                initial_sl = current_sl
+
+            # Provide the actual units
+            current_units = abs(float(units))
+            if initial_sl and self._try_scale_out_1r(
+                trade_id, instrument, direction, entry, current_price, initial_sl, current_units
+            ):
+                pass # Continue managing the rest!
+
             # ── 3b. Profit target close (full exit at 75% of TP distance) ─────
             if current_tp and self._try_profit_target_close(
                 trade_id, instrument, direction, entry, current_price, current_tp
@@ -366,6 +381,20 @@ class TradeManager:
             def _trail_log(msg: str) -> None:
                 print(f"  [MANAGER] {msg}")
 
+            # ── Detect counter-trend: tighten trail when trade is against H4 bias ──
+            _ct_mult = 1.0
+            try:
+                _h4 = self.broker.get_historical_data(instrument, count=3, granularity="H4")
+                if _h4 and len(_h4) >= 2:
+                    _h4_close = float(_h4[-1].get("mid", {}).get("c", 0))
+                    _h4_open = float(_h4[-2].get("mid", {}).get("c", 0))
+                    _h4_bias = "BUY" if _h4_close > _h4_open else "SELL"
+                    if _h4_bias != direction:
+                        _ct_mult = 0.5
+                        print(f"  [MANAGER] ⚡ {instrument} counter-trend (H4 {_h4_bias} vs trade {direction}) → trail 0.5×")
+            except Exception:
+                pass  # Default to 1.0 if H4 fetch fails
+
             try:
                 apply_tight_sl(
                     policy=trail_policy,
@@ -373,6 +402,7 @@ class TradeManager:
                     price=current_price,
                     adjust_stop_cb=_adjust_stop,
                     log=_trail_log,
+                    counter_trend_mult=_ct_mult,
                 )
                 # Persist meta back
                 if trade_id in self._managed:
@@ -399,7 +429,7 @@ class TradeManager:
             
             # SL Distance & Lock Status
             sl_dist_pips = abs(current_price - current_sl) / pip_size if current_sl else 0.0
-            is_locked = (current_sl > entry) if direction == "BUY" else (current_sl > 0 and current_sl < entry) if current_sl else False
+            is_locked = (current_sl is not None and current_sl > entry) if direction == "BUY" else (current_sl is not None and current_sl > 0 and current_sl < entry)
             
             # Risk/Reward (using the initial 20 pip standard risk)
             initial_risk_pips = float(os.getenv("RBOT_SL_PIPS", "20.0"))
@@ -457,7 +487,61 @@ class TradeManager:
                           details={"trade_id": tid, "reason": "not_in_broker_trades"})
                 print(f"  [MANAGER] CLOSED  {inst}  id={tid}")
 
-    # ── Profit target close ──────────────────────────────────────────────────
+    # ── Profit target / Scale out closes ──────────────────────────────────────
+
+    def _try_scale_out_1r(
+        self,
+        trade_id: str,
+        instrument: str,
+        direction: str,
+        entry: float,
+        current_price: float,
+        initial_sl: float,
+        current_units: float,
+    ) -> bool:
+        """
+        Partial Exit at 1:1 Risk/Reward. 
+        Sells 50% of the position and moves the Stop Loss to Breakeven.
+        """
+        managed = self._managed.get(trade_id, {})
+        if managed.get("meta", {}).get("scaled_out_1r"):
+            return False
+        if not entry or not initial_sl or not current_price:
+            return False
+
+        # Calculate 1R Distance
+        risk_dist = abs(entry - initial_sl)
+        if risk_dist <= 0:
+            return False
+
+        # Calculate current profit
+        if direction == "BUY":
+            profit_dist = current_price - entry
+            breakeven_sl = entry + (risk_dist * 0.05) # Cover fees
+        else:
+            profit_dist = entry - current_price
+            breakeven_sl = entry - (risk_dist * 0.05)
+            
+        if profit_dist >= risk_dist:
+            # Reached 1R! Scale out 50%
+            try:
+                scale_units = int(current_units * 0.5)
+                self.broker.close_trade_partial(trade_id, scale_units)
+                managed.setdefault("meta", {})["scaled_out_1r"] = True
+                
+                # Slide SL to Breakeven
+                try:
+                    self.broker.set_trade_stop(trade_id, breakeven_sl)
+                    managed["current_sl"] = breakeven_sl
+                except Exception as sl_err:
+                    print(f"  [MANAGER] ⚠️ SL Breakeven slide failed: {sl_err}")
+
+                print(f"  [MANAGER] 💰 1:1 SCALE-OUT SECURED (50%) {instrument} — SL Locked at Breakeven.")
+                return True
+            except Exception as e:
+                print(f"  [MANAGER] ⚠️ Scale-out failed {instrument}: {e}")
+                
+        return False
 
     def _try_profit_target_close(
         self,
