@@ -835,8 +835,8 @@ def detect_ema_scalper_200(symbol: str, candles: list) -> Optional[SignalResult]
 # ─────────────────────────────────────────────────────────────────────────────
 
 DETECTORS = [
-    detect_momentum_sma,
-    detect_ema_stack,
+    # detect_momentum_sma,  # DISABLED: Order Block Sniper Active
+    # detect_ema_stack,     # DISABLED: Order Block Sniper Active
     detect_fvg,
     detect_fibonacci,
     detect_liquidity_sweep,
@@ -844,7 +844,7 @@ DETECTORS = [
     detect_rsi_extremes,
     detect_mean_reversion_bb,
     detect_aggressive_shorting_ob,
-    detect_ema_scalper_200,       # 10th: Dec 1 backtested #1 performer
+    # detect_ema_scalper_200, # DISABLED: Order Block Sniper Active       # 10th: Dec 1 backtested #1 performer
 ]
 
 # Minimum individual confidence to count as a "vote" (raised from 0.55 → 0.62)
