@@ -234,6 +234,20 @@
         "clear": true
       },
       "problemMatcher": []
+    },
+    {
+      "label": "[Rbot_v_24.7_brain][RO] 💰 Daily Profit/Loss — Dual Broker Terminal",
+      "type": "shell",
+      "command": "tmux split-window -l 25 -d 'bash scripts/daily_pnl.sh' && tmux select-pane -L",
+      "options": {
+        "cwd": "/home/rfing/RBOTZILLA_OANDA_CLEAN"
+      },
+      "group": "test",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "clear": true
+      }
     }
   ]
 }
