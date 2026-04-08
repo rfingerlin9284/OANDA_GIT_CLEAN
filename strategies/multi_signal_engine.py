@@ -837,13 +837,13 @@ def detect_ema_scalper_200(symbol: str, candles: list) -> Optional[SignalResult]
 DETECTORS = [
     # detect_momentum_sma,  # DISABLED: Order Block Sniper Active
     # detect_ema_stack,     # DISABLED: Order Block Sniper Active
-    detect_fvg,
+# DISABLED_TOUCH_FVG
     detect_fibonacci,
     detect_liquidity_sweep,
     detect_trap_reversal,
     detect_rsi_extremes,
     detect_mean_reversion_bb,
-    detect_aggressive_shorting_ob,
+# DISABLED_TOUCH_OB
     # detect_ema_scalper_200, # DISABLED: Order Block Sniper Active       # 10th: Dec 1 backtested #1 performer
 ]
 
